@@ -355,7 +355,7 @@ at Kren Thomsen tidlig om Morgenen var faldet ned i sin Lo helt oppe fra
 Hanebjælkerne, og havde slaaet to Sidebeen i Stykker.
 
 </div>
-##
+## 
 <div>
 
 Det var en Skik her i Kragelund Sogn, som vistnok først var bleven
