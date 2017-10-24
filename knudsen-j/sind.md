@@ -260,14 +260,14 @@ da være retfærdigt alligevel, naar hans Fader gjorde det – – -
 »Aa, er 'et Pier! – Aa, Jøsses, Pier, er 'et Dig!« hørte han det raabe
 med Kren Thomsens Stemme. Saa hørte han stærk Hestetrampen.
 
-- Nu først vovede han at løfte Hovedet. – De to fremmede Heste foer til
+– Nu først vovede han at løfte Hovedet. – De to fremmede Heste foer til
 hver sin Side, – og han blev vaer en mørk, tumlende Gruppe ude paa det
 afgræssede Jordsmon, fra hvilken det stønnede og sagde uforstaaelige Ord
 i en klynkende Tone og med Kren Thomsens Stemme.
 
 Pludselig delte Gruppen sig, den ene Halvdel styrtede til Jorden,
 
-- og nu kunde Anders tydelig skjelne sin Fader, der stod op og svingede
+– og nu kunde Anders tydelig skjelne sin Fader, der stod op og svingede
 med Armen, og hug ned i det, der laa paa Jorden.
 
 Nu var det lange, klagende Lyd, der kom, men dæmpede.
