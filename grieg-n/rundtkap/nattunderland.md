@@ -1,9 +1,9 @@
 # Natt under land
 
-|Havnens hæslige glæder
-|griner geilt mot mit blik.
-|Slagsmaal og raatne eder,
-|halvgamle kvindfolk og drik.
+Havnens hæslige glæder
+griner geilt mot mit blik.
+Slagsmaal og raatne eder,
+halvgamle kvindfolk og drik.
 
 Vor rolige ruf forvandles
 til et besat bordell.
