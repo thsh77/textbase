@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>DER ER INTET SAA YNDIGTI FORAARETS GRY</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid58000" decls="#biblid58000">
+            <head xml:id="idm140111864918800">
+               <hi rend="italics" xml:id="idm140111864918544">DER ER INTET SAA YNDIGT</hi>
+               <lb xml:id="idm140111864917856"/>
+               <hi rend="italics" xml:id="idm140111864917600">I FORAARETS GRY</hi>
+            </head>
+            <lg xml:id="idm140111864916784">
+               <l xml:id="idm140111864916528">Der er intet saa yndigt i Foraarets Gry,</l>
+               <l xml:id="idm140111864916080">der er intet saa sødt i den nyfødte Sky</l>
+               <l xml:id="idm140111864915600">som den Elskede og hendes Kjole,</l>
+               <l xml:id="idm140111864915168">der priser Foraar paany -</l>
+               <l xml:id="idm140111864914736">som en Kærest', der gyser og nyser: "Ahy!"</l>
+               <l xml:id="idm140111864914256">som en Kærest', der fryser og gaar uden Ly</l>
+               <l xml:id="idm140111864913776">paa et Grønsvær hos Gæsling og Fole</l>
+               <l xml:id="idm140111864913296">og dog er forfærdelig kry.</l>
+               <l xml:id="idm140111864912848">Der er intet saa stærkt, der er intet saa koldt,</l>
+               <l xml:id="idm140111864912352">der er intet saa blussende ydmygt og stolt</l>
+               <l xml:id="idm140111864911904">som den blæstkolde Pige paa Foraarets Vej,</l>
+               <l xml:id="idm140111864911424">der blæser sit Foraar paa mig.</l>
+            </lg>
+            <lg xml:id="idm140111864910832">
+               <l xml:id="idm140111864910576">Der er intet saa ondt ved det hærgende Hav</l>
+               <l xml:id="idm140111864910096">som et Hjerte, der graver sin Kærligheds Grav,</l>
+               <l xml:id="idm140111864909600">som et Menneskesind, der fortryder</l>
+               <l xml:id="idm140111864909168">den Gunst og Godhed, det gav.</l>
+               <l xml:id="idm140111864908736">Det vil fjerne en Sten, som ej hører sig til</l>
+               <l xml:id="idm140111864908240">paa den Vej, hvor det vandrer ... det ivrer og vil,</l>
+               <l xml:id="idm140111864907792">vil grave, hvor Afgrunden syder,</l>
+               <l xml:id="idm140111864907360">et Hul og saa trampe det til.</l>
+               <l xml:id="idm140111864906928">Der er intet mer ondt ved det hærgende Hav.</l>
+               <l xml:id="idm140111864906432">Og ingen Stolthed gør fattig og lav</l>
+               <l xml:id="idm140111864905952">som at sætte sin Kærlighed uhørt paa Spil,</l>
+               <l xml:id="idm140111864905456">for at sanke de Sten . . . som du vil ...</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

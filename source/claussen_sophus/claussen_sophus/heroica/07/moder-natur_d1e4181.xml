@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MODER NATUR</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid63457" decls="#biblid63457">
+            <head xml:id="idm140111864233696">
+               <hi rend="italics" xml:id="idm140111864233440">MODER NATUR</hi>
+            </head>
+            <lg xml:id="idm140111864232624">
+               <l xml:id="idm140111864232368">Natur, min Moder, som gav os Livet,</l>
+               <l xml:id="idm140111864231936">tillad dit Barn at betræde din Grund;</l>
+               <l xml:id="idm140111864231456">puds ikke paa ham din bidske Hund,</l>
+               <l xml:id="idm140111864231024">i Fald her bli'r tvistet og kivet.</l>
+            </lg>
+            <lg xml:id="idm140111864230464">
+               <l xml:id="idm140111864230208">Og skræm ham ikke hver Tid og Stund.</l>
+               <l xml:id="idm140111864229728">Han er kun din Gæst - vær god mod Gæsten,</l>
+               <l xml:id="idm140111864229232">som ikke aner, om Fryden og Festen</l>
+               <l xml:id="idm140111864228800">skal komme hernæst.</l>
+            </lg>
+            <lg xml:id="idm140111864228224">
+               <l xml:id="idm140111864227968">Men lad ham lære, at du er sund.</l>
+               <l xml:id="idm140111864227504">Straf ikke Begynderen,</l>
+               <l xml:id="idm140111864227088">og undskyld Synderen.</l>
+               <l xml:id="idm140111864226672">Ræk ham som Gunst af din friske Mund</l>
+               <l xml:id="idm140111864226192">den enkle Lykke, som er dig givet.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

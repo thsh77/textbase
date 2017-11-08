@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>SKUMRINGSBILLEDE</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope>45</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid58259" decls="#biblid58259">
+            <head xml:id="idm140111864886368">
+               <hi rend="italics" xml:id="idm140111864886112">SKUMRINGSBILLEDE</hi>
+            </head>
+            <lg xml:id="idm140111864885296">
+               <l xml:id="idm140111864885040">En mørk og faamælt Pige</l>
+               <l xml:id="idm140111864884592">betjente altid Sigmund,</l>
+               <l xml:id="idm140111864884176">beredte ham hans Bad,</l>
+               <l xml:id="idm140111864883760">naar, oftest henad Skumring,</l>
+               <l xml:id="idm140111864883328">han søgte til et ensomt</l>
+               <l xml:id="idm140111864882880">Badstuerum i sin Stad.</l>
+               <l xml:id="idm140111864882464">Hun talte ingensinde,</l>
+               <l xml:id="idm140111864882048">førend hun spurgtes ad.</l>
+            </lg>
+            <lg xml:id="idm140111864881472">
+               <l xml:id="idm140111864881216">Den tavse unge Pige,</l>
+               <l xml:id="idm140111864880800">som ikke kendte Latter,</l>
+               <l xml:id="idm140111864880384">Bademesterens Datter,</l>
+               <l xml:id="idm140111864879968">stod med sit glatte Haar;</l>
+               <l xml:id="idm140111864879536">hun aabner Hanens Sluse,</l>
+               <l xml:id="idm140111864879104">hun lader Dampene bruse.</l>
+               <l xml:id="idm140111864878672">Saa lægger hun Linned tilrede og hilser stille og gaar.</l>
+            </lg>
+            <lg xml:id="idm140111864878032">
+               <l xml:id="idm140111864877776">Hun var saa stum og lukket.</l>
+               <l xml:id="idm140111864877344">Kun dette Træk om Munden</l>
+               <l xml:id="idm140111864876896">af dyb, uslukkelig Grunden</l>
+               <l xml:id="idm140111864876464">bar Bud om et køligt Væld,</l>
+               <l xml:id="idm140111864876000">hvor Drømme havde til Huse,</l>
+               <l xml:id="idm140111864875536">som kunde knuse Pigen</l>
+               <l xml:id="idm140111864875120">og voldte hende Skade,</l>
+               <l xml:id="idm140111864874704">men som hun tramped ihjel.</l>
+            </lg>
+            <pb n="45"
+                facs="adl/claussen/claussen08/claussen8045"
+                xml:id="idm140111864874144"/>
+            <lg xml:id="idm140111864873376">
+               <l xml:id="idm140111864873120">Hun syntes at vogte sin rene</l>
+               <l xml:id="idm140111864872688">Ungdom for Skændsel og Skarn,</l>
+               <l xml:id="idm140111864872224">opvokset nær Armodens Stræder,</l>
+               <l xml:id="idm140111864871760">en Jomfru, der aldrig var Barn.</l>
+               <l xml:id="idm140111864871328">Naar Sigmund siden blev ene,</l>
+               <l xml:id="idm140111864870896">han lagde tyst sine Klæder,</l>
+               <l xml:id="idm140111864870432">men sad og grubled en Stund</l>
+               <l xml:id="idm140111864870000">med samme Træk om sin Mund.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

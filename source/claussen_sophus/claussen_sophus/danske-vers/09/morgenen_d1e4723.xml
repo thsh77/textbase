@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MORGENEN</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140125920583744">
+                     <name xml:id="idm140125920583488">
+                        <surname xml:id="idm140125920583360">Claussen</surname>, <forename xml:id="idm140125920582928">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140125920582672">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140125920582384">Bd. 4: Danske vers</title>
+                  <pubPlace xml:id="idm140125920582096">[København]</pubPlace>
+                  <publisher xml:id="idm140125920581632">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140125920581264">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid64896" decls="#biblid64896">
+            <head xml:id="idm140125919194576">
+               <hi rend="italics" xml:id="idm140125919194320">MORGENEN</hi>
+            </head>
+            <lg xml:id="idm140125919193504">
+               <l xml:id="idm140125919193248">Nu de fleste Glas er tomme, Dagen kommer,</l>
+               <l xml:id="idm140125919192800">lister langsomt frem af Nattetaagen,</l>
+               <l xml:id="idm140125919192368">lad mig sé i dine Øjne frygtsomt,</l>
+               <l xml:id="idm140125919191904">ubeslutsom mellem Drøm og Vaagen.</l>
+            </lg>
+            <lg xml:id="idm140125919191312">
+               <l xml:id="idm140125919191056">Meget nyt og dristigt sér jeg spire,</l>
+               <l xml:id="idm140125919190576">meget, som er graat og gammelt, falmer,</l>
+               <l xml:id="idm140125919190144">Hanen galer, nu er Klokken fire,</l>
+               <l xml:id="idm140125919189712">Nattens Vægtervers blir Morgensalmer.</l>
+            </lg>
+            <lg xml:id="idm140125919189104">
+               <l xml:id="idm140125919188848">Langt fra Byen, Mørket og de andre,</l>
+               <l xml:id="idm140125919188368">som med Bly om Øjet døsigt svælge,</l>
+               <l xml:id="idm140125919187888">vil jeg med dig sommermorgenvandre,</l>
+               <l xml:id="idm140125919187456">frygtsomt dine fine Øjne vælge.</l>
+            </lg>
+            <lg xml:id="idm140125919186864">
+               <l xml:id="idm140125919186608">Hvem kan sove, gaa i Grav med Natten?</l>
+               <l xml:id="idm140125919186176">Hanen galer, nu er Klokken fire,</l>
+               <l xml:id="idm140125919185744">lad os sammen sommermorgensvire</l>
+               <l xml:id="idm140125919185312">Haand i Haand med dugget Korn i Hatten.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

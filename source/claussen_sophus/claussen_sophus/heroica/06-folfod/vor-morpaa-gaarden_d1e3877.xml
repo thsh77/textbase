@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VOR MORPAA GAARDEN</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62769" decls="#biblid62769">
+            <head xml:id="idm140111864321088">
+               <hi rend="italics" xml:id="idm140111864320832">VOR MOR</hi>
+               <hi rend="italics" xml:id="idm140111864320144">PAA GAARDEN</hi>
+            </head>
+            <lg xml:id="idm140111864319328">
+               <l xml:id="idm140111864319072">Vor Mor paa Gaarden var de Andres Mester.</l>
+               <l xml:id="idm140111864318624">Hun havde stridt for den beskedne Lykke</l>
+               <l xml:id="idm140111864318192">at faa beplantet Havens Hjørnestykke.</l>
+               <l xml:id="idm140111864317712">Hun var saa syg, hun havde Gigt i Knuder,</l>
+               <l xml:id="idm140111864317264">men holdt dog sammen paa sin Velstands Rester.</l>
+               <l xml:id="idm140111864316816">Hun vilde ha' istandsat Gaardens Ruder</l>
+               <l xml:id="idm140111864316384">og mulig tjene lidt paa Sommergæster.</l>
+               <l xml:id="idm140111864315904">Men naar hun talte for sig, slog det Sludder.</l>
+               <l xml:id="idm140111864315456">Hun skulde ogsaa have sig et Tandsæt</l>
+               <l xml:id="idm140111864314976">og til sit Gæsteværelse et Vandsæt.</l>
+            </lg>
+            <lg xml:id="idm140111864314368">
+               <l xml:id="idm140111864314112">Men hun var syg, ja færdig ved at dejse,</l>
+               <l xml:id="idm140111864313632">hun maatte vist til København en Rejse.</l>
+               <l xml:id="idm140111864313152">Naar hun blev helbredt, hvor hun skulde knejse!</l>
+            </lg>
+            <lg xml:id="idm140111864312576">
+               <l xml:id="idm140111864312320">Hun vendte Blikket fromt mod Hanebjælken,</l>
+               <l xml:id="idm140111864311840">naar det blev sagt, at Folk forfalsked Mælken;</l>
+               <l xml:id="idm140111864311344">hun kom lidt Vand i sine Mælkespande</l>
+               <l xml:id="idm140111864310864">af Renlighed - - - men ikke for at
+								blande.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

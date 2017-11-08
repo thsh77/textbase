@@ -25,14 +25,14 @@
     </xsl:choose>
   </xsl:template>
 
-  <!--text part /TEI/text[1]/group[1]/text[1]/group[1]/text[3]/body[1]/div[1]-->
-  <xsl:template match="/tei:TEI/tei:text/tei:group/tei:text[1]/tei:group/tei:text[9]/tei:body">
+  <!--text part -->
+  <xsl:template match="//tei:group/tei:text/tei:group/tei:text[1]/tei:body//tei:div[tei:head]">
     <xsl:variable name="from-page" select=".//tei:pb/@n"/>
     <xsl:variable name="work-title">
       <xsl:value-of
         select="lower-case(replace((tei:head/normalize-space(string())), ' ', '-'))"/>
     </xsl:variable>
-    <xsl:result-document href="claussen_sophus/djavlerier/9/{$work-title}_{generate-id()}.xml">
+    <xsl:result-document href="claussen_sophus/fabler/{$work-title}_{generate-id()}.xml">
       <TEI>
         <teiHeader>
           <fileDesc>

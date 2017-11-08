@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ALLE NORDENSFUGLE</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope>79</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60618" decls="#biblid60618">
+            <head xml:id="idm140111864590592">
+               <hi rend="italics" xml:id="idm140111864590336">ALLE NORDENS</hi>
+               <hi rend="italics" xml:id="idm140111864589648">FUGLE</hi>
+            </head>
+            <lg xml:id="idm140111864588832">
+               <l xml:id="idm140111864588576">Midt i Nordens stormomsuste Hjørne</l>
+               <l xml:id="idm140111864588112">rejser sig det solindspundne Træ,</l>
+               <l xml:id="idm140111864587648">i hvis friske Løv er frodig Læ.</l>
+               <l xml:id="idm140111864587184">Sorg og Sødme, Drøm og Grubleri,</l>
+               <l xml:id="idm140111864586720">alle Nordens Fugle bor deri.</l>
+            </lg>
+            <lg xml:id="idm140111864586160">
+               <l xml:id="idm140111864585904">Vi er Sang - vil intet heller være.</l>
+               <l xml:id="idm140111864585424">Lyt dog til vort Fuglekor, I kære,</l>
+               <l xml:id="idm140111864584960">hver har sit at lære, sit at bære,</l>
+               <l xml:id="idm140111864584480">Tankers Kval og fyrig Melodi!</l>
+               <l xml:id="idm140111864584048">Nordens nye Muser gaar forbi.</l>
+            </lg>
+            <lg xml:id="idm140111864583488">
+               <l xml:id="idm140111864583232">Stundum høres Stemmen mægtig kalde,</l>
+               <l xml:id="idm140111864582752">som én Fylgie raabte over alle!</l>
+               <l xml:id="idm140111864582288">tilbød Verdens Skarer udenfor</l>
+               <l xml:id="idm140111864581824">Lykke af den Lykke, der blev vor.</l>
+            </lg>
+            <lg xml:id="idm140111864581264">
+               <l xml:id="idm140111864581008">Hvem kan læge Verdens vantro Slægt?</l>
+               <l xml:id="idm140111864580528">Den, som tror paa Træet, bliver lægt,</l>
+               <l xml:id="idm140111864580048">men Fornægteren bli'r aldrig lægt.</l>
+            </lg>
+            <lg xml:id="idm140111864579440">
+               <l xml:id="idm140111864579184">Den, som tror paa Frelsens rige Naade,</l>
+               <l xml:id="idm140111864578752">bliver lægt.</l>
+               <l xml:id="idm140111864578320">Den, som tror paa Telegrafens Traade</l>
+               <l xml:id="idm140111864577888">- som er Tidens Tro - vil blive lægt.</l>
+            </lg>
+            <lg xml:id="idm140111864577280">
+               <l xml:id="idm140111864577024">Alle bliver lægt.</l>
+               <l xml:id="idm140111864576592">Kun den arme Mand, som intet tror,</l>
+               <l xml:id="idm140111864576160">stævner ulægt til den mørke Jord.</l>
+               <pb n="79"
+                   facs="adl/claussen/claussen08/claussen8079"
+                   xml:id="idm140111864575680"/>
+               <l xml:id="idm140111864574912">Vi vil tro paa Nordens Fugletræ,</l>
+               <l xml:id="idm140111864574448">tro paa Nordens Fylgie, tro paa Slægten,</l>
+               <l xml:id="idm140111864573968">som er groet i disse Grenes Læ.</l>
+               <l xml:id="idm140111864573504">Dybt har Somren mærket Dal og Høje,</l>
+               <l xml:id="idm140111864573024">Sejren kyssed Drømmen i vort Øje.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

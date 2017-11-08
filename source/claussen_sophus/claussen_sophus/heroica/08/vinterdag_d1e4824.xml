@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VINTERDAG</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid64807" decls="#biblid64807">
+            <head xml:id="idm140111864067424">
+               <hi rend="italics" xml:id="idm140111864067168">VINTERDAG</hi>
+            </head>
+            <lg xml:id="idm140111864066352">
+               <l xml:id="idm140111864066096">Sorte Grene, frossen Jord,</l>
+               <l xml:id="idm140111864065664">snavset Søens Tavle,</l>
+               <l xml:id="idm140111864065216">Luft som Bly - kun skært og fjærnt</l>
+               <l xml:id="idm140111864064736">nogle røde Gavle.</l>
+            </lg>
+            <lg xml:id="idm140111864064176">
+               <l xml:id="idm140111864063920">Røg fra hver en Skorstens-Hals,</l>
+               <l xml:id="idm140111864063456">Regn af Kulstøv-Flager.</l>
+               <l xml:id="idm140111864063008">Henad Stien tumler dumt</l>
+               <l xml:id="idm140111864062592">et Par sorte Krager.</l>
+            </lg>
+            <lg xml:id="idm140111864062048">
+               <l xml:id="idm140111864061792">Folk med lange Slentre-Fjed,</l>
+               <l xml:id="idm140111864061360">seneslappe Nakker,</l>
+               <l xml:id="idm140111864060944">eller en forfrossen Kusk</l>
+               <l xml:id="idm140111864060512">paa et højt Læs Pakker.</l>
+            </lg>
+            <lg xml:id="idm140111864059936">
+               <l xml:id="idm140111864059680">Eller Kvinders Trip-trap-trip</l>
+               <l xml:id="idm140111864059248">som forkomne Fugle;</l>
+               <l xml:id="idm140111864058832">for den vejrbidt-ædru Dag</l>
+               <l xml:id="idm140111864058384">kan man intet skjule .. .</l>
+            </lg>
+            <lg xml:id="idm140111864057824">
+               <l xml:id="idm140111864057568">Se blot: barsk og stemningsgoldt,</l>
+               <l xml:id="idm140111864057136">det er hele Kunsten!</l>
+               <l xml:id="idm140111864056720">. . . Tror du: Skønhed er vort Maal?</l>
+               <l xml:id="idm140111864056240">eller Sommerbrunsten .. .?</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

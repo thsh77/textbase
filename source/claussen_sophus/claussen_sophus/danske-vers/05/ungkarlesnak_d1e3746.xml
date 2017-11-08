@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>UNGKARLESNAK</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140125920583744">
+                     <name xml:id="idm140125920583488">
+                        <surname xml:id="idm140125920583360">Claussen</surname>, <forename xml:id="idm140125920582928">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140125920582672">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140125920582384">Bd. 4: Danske vers</title>
+                  <pubPlace xml:id="idm140125920582096">[København]</pubPlace>
+                  <publisher xml:id="idm140125920581632">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140125920581264">1982-</date>
+                  <biblScope>88</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62600" decls="#biblid62600">
+            <head xml:id="idm140125919480352">
+               <hi rend="italics" xml:id="idm140125919480096">UNGKARLESNAK</hi>
+            </head>
+            <lg xml:id="idm140125919479280">
+               <l xml:id="idm140125919479024">Nu taler vi atter, som vi har Forstand til</l>
+               <l xml:id="idm140125919478576">(forlad os en Skik, vi desværre er vant til!)</l>
+               <l xml:id="idm140125919478080">og spørger: hvad holder en Kone sin Mand til?</l>
+            </lg>
+            <lg xml:id="idm140125919477456">
+               <l xml:id="idm140125919477200">Har hun ham kær, som man elsker den strenge</l>
+               <l xml:id="idm140125919476704">sentmodne Jord, man har slidt med saa længe,</l>
+               <l xml:id="idm140125919476208">at man har glemt sin Sult og glemt, at Tid er Penge?</l>
+            </lg>
+            <lg xml:id="idm140125919475632">
+               <l xml:id="idm140125919475376">Elsker hun ham, som en Sum, af hvis Rente,</l>
+               <l xml:id="idm140125919474928">man maanedligt har noget vist i Vente,</l>
+               <l xml:id="idm140125919474496">sparsomt men sikkert at hæve og hente?</l>
+            </lg>
+            <lg xml:id="idm140125919473888">
+               <l xml:id="idm140125919473632">Ved Brugen af Jord (det gælder i det Sødes</l>
+               <l xml:id="idm140125919473136">Agrikultur) dens Bærekraft forødes.</l>
+               <l xml:id="idm140125919472656">Den udpinte Ager maa med Minderne gødes.</l>
+            </lg>
+            <lg xml:id="idm140125919472048">
+               <l xml:id="idm140125919471792">Men naar Minderne bliver for gammel-søde,</l>
+               <l xml:id="idm140125919471312">og intet den udpinte Ager kan gøde,</l>
+               <l xml:id="idm140125919470832">gaar det sultne Hjerte ekstra efter Føde.</l>
+            </lg>
+            <lg xml:id="idm140125919470224">
+               <l xml:id="idm140125919469968">Mens de halvunge Koner en ung Adonis dyrker,</l>
+               <l xml:id="idm140125919469520">sér Mændene til, som flegmatiske Tyrker.</l>
+               <l xml:id="idm140125919469040">De véd, lidt fremmed Fyrighed kun styrker.</l>
+            </lg>
+            <lg xml:id="idm140125919468432">
+               <l xml:id="idm140125919468176">De finder det ganske unyttigt at hade ham,</l>
+               <l xml:id="idm140125919467728">og Konerne, som helst vil i Dejlighed bade ham,</l>
+               <l xml:id="idm140125919467280">behandler ham som Barn, og frygter for at skade ham.</l>
+            </lg>
+            <pb n="88" xml:id="s88" facs="adl/claussen/claussen06/claussen6088"/>
+            <lg xml:id="idm140125919465552">
+               <l xml:id="idm140125919465296">Hvad en Kone har Mand til? - som Maal for sin kære</l>
+               <l xml:id="idm140125919464800">Spydighedstrang, som det vil sés med Ære</l>
+               <l xml:id="idm140125919464320">- naar hver, hvem Horn er tiltænkt, engang sit Horn
+										maa bære!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

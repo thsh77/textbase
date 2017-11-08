@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>SAVNETSBLOMSTERVEJ</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139805819604928">
+                     <name xml:id="idm139805819604672">
+                        <surname xml:id="idm139805819604544">Claussen</surname>, <forename xml:id="idm139805819604080">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139805819603792">Sophus Claussens lyrik</title>
+                  <title xml:id="idm139805819603504">Bd. 5: Fabler</title>
+                  <pubPlace xml:id="idm139805819603216">[København]</pubPlace>
+                  <publisher xml:id="idm139805819602752">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm139805819602384">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62361" decls="#biblid62361">
+            <head xml:id="idm139805818538896">
+               <hi rend="italics" xml:id="idm139805818538640">SAVNETS</hi>
+               <hi rend="italics" xml:id="idm139805818537952">BLOMSTERVEJ</hi>
+            </head>
+            <lg xml:id="idm139805818537136">
+               <l xml:id="idm139805818536880">Rigdom har du haft og ejer intet.</l>
+               <l xml:id="idm139805818536448">Endnu mere Rigdom i dit Sind!</l>
+               <l xml:id="idm139805818536016">Har du strøet det alt for Nattens Vind?</l>
+            </lg>
+            <lg xml:id="idm139805818535408">
+               <l xml:id="idm139805818535152">Naar jeg kommer til dig, er du fattig,</l>
+               <l xml:id="idm139805818534720">som du næppe ænsede din Gæst,</l>
+               <l xml:id="idm139805818534256">der er blomstersmykt for Aftnens Fest.</l>
+            </lg>
+            <lg xml:id="idm139805818533696">
+               <l xml:id="idm139805818533440">Men jeg bringer disse Hyacinter.</l>
+               <l xml:id="idm139805818533008">Had og Ondskab standsed ej min Vej, -</l>
+               <l xml:id="idm139805818532576">Savnets Blomstervej fra mig til dig.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

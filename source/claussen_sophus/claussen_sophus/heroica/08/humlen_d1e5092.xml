@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMLEN</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid65415" decls="#biblid65415">
+            <head xml:id="idm140111863995712">
+               <hi rend="italics" xml:id="idm140111863995456">HUMLEN</hi>
+            </head>
+            <lg xml:id="idm140111863994640">
+               <l xml:id="idm140111863994384">Og der var Frugt paa Træet.</l>
+               <l xml:id="idm140111863993920">Og der var Korn til Kræet.</l>
+               <l xml:id="idm140111863993472">Og der var Græs til Koen.</l>
+               <l xml:id="idm140111863993024">Og der var Mask til Soen.</l>
+               <l xml:id="idm140111863992592">Og Hesten gav de Havre</l>
+               <l xml:id="idm140111863992176">til Nadver og til Davre.</l>
+            </lg>
+            <lg xml:id="idm140111863991616">
+               <l xml:id="idm140111863991360">Men tørste gik ej an:</l>
+               <l xml:id="idm140111863990912">Brønden havde Vand,</l>
+               <l xml:id="idm140111863990464">Mælk den grønne Spand.</l>
+               <l xml:id="idm140111863990016">Og omme i det skumle</l>
+               <l xml:id="idm140111863989600">Havehjørne stod Humle.</l>
+            </lg>
+            <lg xml:id="idm140111863989024">
+               <l xml:id="idm140111863988768">Og der var Sol fra Sønden.</l>
+               <l xml:id="idm140111863988320">Og der var Ly og Læ.</l>
+               <l xml:id="idm140111863987872">Saa ta'r de Vand fra Brønden</l>
+               <l xml:id="idm140111863987408">og tapper 01 af Tønden,</l>
+               <l xml:id="idm140111863986960">at Mennesker og Fæ</l>
+               <l xml:id="idm140111863986528">kan modstaa Arvesynden!</l>
+            </lg>
+            <lg xml:id="idm140111863985984">
+               <l xml:id="idm140111863985728">Og drage styrkede igennem Tumlen,</l>
+               <l xml:id="idm140111863985296">dér har vi Humlen.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

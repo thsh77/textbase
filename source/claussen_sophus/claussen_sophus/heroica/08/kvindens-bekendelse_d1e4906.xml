@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>KVINDENS BEKENDELSE</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid64990" decls="#biblid64990">
+            <head xml:id="idm140111864043936">
+               <hi rend="italics" xml:id="idm140111864043680">KVINDENS BEKENDELSE</hi>
+            </head>
+            <lg xml:id="idm140111864042864">
+               <l xml:id="idm140111864042608">Hvis du spørger, kan jeg rolig svare:</l>
+               <l xml:id="idm140111864042128">Det er Kærligheden, som jeg vil.</l>
+               <l xml:id="idm140111864041664">Jeg er ingen Nar og ingen Hare,</l>
+               <l xml:id="idm140111864041232">men det tager Tid at vænnes til.</l>
+            </lg>
+            <lg xml:id="idm140111864040640">
+               <l xml:id="idm140111864040384">Vi vil æres og vil dog begæres,</l>
+               <l xml:id="idm140111864039920">Skridt for Skridt erobre Livets Port.</l>
+               <l xml:id="idm140111864039488">Det er det! og det kan ikke læres.</l>
+               <l xml:id="idm140111864039024">Derfor glæder mig, hvad du har gjort -</l>
+            </lg>
+            <lg xml:id="idm140111864038416">
+               <l xml:id="idm140111864038160">At du tog dig Rettigheder - ofte,</l>
+               <l xml:id="idm140111864037728">som i Mildhed, dæmpende min Lyst,</l>
+               <l xml:id="idm140111864037264">rørte, med dit Haandled, fint min Hofte,</l>
+               <l xml:id="idm140111864036784">trøstede med flygtig Haand mit Bryst.</l>
+            </lg>
+            <lg xml:id="idm140111864036176">
+               <l xml:id="idm140111864035920">Nogle griber til med vilde Hænder,</l>
+               <l xml:id="idm140111864035456">naar de ser en Kvinde øm og blind.</l>
+               <l xml:id="idm140111864034992">Du min Elsker sagde blot: "du brænder,"</l>
+               <l xml:id="idm140111864034512">strøg mig varsomt paa min hede Kind.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>DEN LILLE BAJAZET OG KVINDERNE</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope>125</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid64506" decls="#biblid64506">
+            <head xml:id="idm140111864104896">
+               <hi rend="italics" xml:id="idm140111864104640">DEN LILLE BAJAZET OG KVINDERNE</hi>
+            </head>
+            <lg xml:id="idm140111864103808">
+               <l xml:id="idm140111864103552">Han havde læst om Bajazet,</l>
+               <l xml:id="idm140111864103104">Bajazet Ilderim den Skrækkelige</l>
+               <l xml:id="idm140111864102640">og gik omkring som Ild og Fyr,</l>
+               <l xml:id="idm140111864102208">Napoleon blandt Kar og Gryder,</l>
+               <l xml:id="idm140111864101776">Bajazet Ilderim imellem Høns og Dyr,</l>
+               <l xml:id="idm140111864101296">med Sværd og Snittekniven ved sit Bælte</l>
+               <l xml:id="idm140111864100816">og Fodtrin som de store Helte.</l>
+               <l xml:id="idm140111864100384">Med Søsters Fjerbaret som Hat.</l>
+               <l xml:id="idm140111864099920">Hans vilde Fjende var den hvide Kat,</l>
+               <l xml:id="idm140111864099488">som stjal og som var dømt til Døden,</l>
+               <l xml:id="idm140111864099008">men altid flygted skrækbesat.</l>
+               <l xml:id="idm140111864098544">Jeg ser ham for mig klart endnu</l>
+               <l xml:id="idm140111864098112">strygende med tyrannisk Væsen</l>
+               <l xml:id="idm140111864097648">det Skæg, han mangled under Næsen.</l>
+               <l xml:id="idm140111864097168">Bajazet Ilderim udbredte Gru!</l>
+               <l xml:id="idm140111864096736">Men Kvinderne i Kammers og i Køkken</l>
+               <l xml:id="idm140111864096256">de smilte lunt til Bajazet.</l>
+            </lg>
+            <lg xml:id="idm140111864095696">
+               <l xml:id="idm140111864095440">Med stolt Foragt han vendte dem blot Ryggen</l>
+               <l xml:id="idm140111864094992">og taalte allermindst sin store Søster,</l>
+               <l xml:id="idm140111864094512">Belæringen, Formaningen,</l>
+               <l xml:id="idm140111864094064">Bebrejdelsernes Røster.</l>
+               <l xml:id="idm140111864093616">Vil æres, ene Hane i sin Gaard.</l>
+               <l xml:id="idm140111864093152">De ældre Søstre spinder</l>
+               <l xml:id="idm140111864092704">ham ind i Tvang, han ej forstaar,</l>
+               <l xml:id="idm140111864092272">og glemmer, at de kun er Kvinder.</l>
+            </lg>
+            <lg xml:id="idm140111864091712">
+               <l xml:id="idm140111864091456">Du var en lille Dreng, ak Bajazet,</l>
+               <l xml:id="idm140111864091024">men alle Pigehjerters Overvinder,</l>
+               <l xml:id="idm140111864090592">du væbned dig imod dem - det var ret.</l>
+               <pb n="125"
+                   facs="adl/claussen/claussen08/claussen8125"
+                   xml:id="idm140111864090112"/>
+               <l xml:id="idm140111864089296">Hvad Storfolk haabløst ønsker sig, det kan</l>
+               <l xml:id="idm140111864088800">et Kvindehjerte for den mindste Mand.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

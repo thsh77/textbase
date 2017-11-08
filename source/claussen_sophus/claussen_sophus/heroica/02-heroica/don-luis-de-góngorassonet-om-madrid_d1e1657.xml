@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>DON LUIS DE GÓNGORASSONET OM MADRID</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid57826" decls="#biblid57826">
+            <head xml:id="idm140111864941040">
+               <hi rend="italics" xml:id="idm140111864940784">DON LUIS DE GÓNGORAS</hi>
+               <lb xml:id="idm140111864940064"/>
+               <hi rend="italics" xml:id="idm140111864939808">SONET OM MADRID</hi>
+            </head>
+            <lg xml:id="idm140111864938992">
+               <l xml:id="idm140111864938736">Et dyrisk Liv med Hexegrydens Brusen;</l>
+               <l xml:id="idm140111864938304">mod Mandens Mønt Megærer sammensvorne</l>
+               <l xml:id="idm140111864937824">tusend forfængelige Haab forlorne;</l>
+               <l xml:id="idm140111864937360">hvis En vil lytte, gøre Blæst for Tusend.</l>
+            </lg>
+            <lg xml:id="idm140111864936752">
+               <l xml:id="idm140111864936496">Tusend Karrosser, Pager, Alts Forvandling,</l>
+               <l xml:id="idm140111864936048">Pragtherrer med jomfruelige Klinger,</l>
+               <l xml:id="idm140111864935616">Damepassiar, Gesandter, Kurs, som svinger,</l>
+               <l xml:id="idm140111864935168">dyre Hoteller, snyderisk Behandling.</l>
+            </lg>
+            <lg xml:id="idm140111864934608">
+               <l xml:id="idm140111864934352">Løgnagtig Rettergang og Advokater,</l>
+               <l xml:id="idm140111864933888">Præster som Asner, hængende paa Muler,</l>
+               <l xml:id="idm140111864933408">Baghold og Gyders Stank mod Stjernehvælvet.</l>
+            </lg>
+            <lg xml:id="idm140111864932784">
+               <l xml:id="idm140111864932528">Krigsmænd af Fag, lemlæstede Krabater,</l>
+               <l xml:id="idm140111864932048">Hyldest og Smigertale, lumske Huler,</l>
+               <l xml:id="idm140111864931616">det er Madrid, det burde hedde Helved.</l>
+            </lg>
+            <trailer xml:id="idm140111864931056">
+               <hi rend="italics" xml:id="idm140111864930928">(16. Aarhundrede</hi>)</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

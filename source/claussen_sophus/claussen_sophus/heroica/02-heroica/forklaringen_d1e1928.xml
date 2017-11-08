@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>FORKLARINGEN</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid58410" decls="#biblid58410">
+            <head xml:id="idm140111864867504">
+               <hi rend="italics" xml:id="idm140111864867248">FORKLARINGEN</hi>
+            </head>
+            <lg xml:id="idm140111864866432">
+               <l xml:id="idm140111864866176">Planløst er det ikke.</l>
+               <l xml:id="idm140111864865728">Og tror I, jeg mangler Plan,</l>
+               <l xml:id="idm140111864865296">det er kun, fordi jeg aldrig</l>
+               <l xml:id="idm140111864864864">bli'r Jeres Tolk og Organ.</l>
+            </lg>
+            <lg xml:id="idm140111864864304">
+               <l xml:id="idm140111864864048">Jeg har mine egne Veje, -</l>
+               <l xml:id="idm140111864863616">dem finder I aldrig ud,</l>
+               <l xml:id="idm140111864863200">før I kan elske Naturens</l>
+               <l xml:id="idm140111864862752">mangfoldig rige Gud -</l>
+            </lg>
+            <lg xml:id="idm140111864862208">
+               <l xml:id="idm140111864861952">Før I kan elske mangfoldigt</l>
+               <l xml:id="idm140111864861488">hver Urt og hver hængende Gren,</l>
+               <l xml:id="idm140111864861024">saa én straks bliver til tyve</l>
+               <l xml:id="idm140111864860560">og tyve omsider til én.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>DEN NYE PROKURATOR</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62684" decls="#biblid62684">
+            <head xml:id="idm140111864332032">
+               <hi rend="italics" xml:id="idm140111864331776">DEN NYE PROKURATOR</hi>
+            </head>
+            <lg xml:id="idm140111864330960">
+               <l xml:id="idm140111864330704">Den nye Prokurator, De bør kende ham,</l>
+               <l xml:id="idm140111864330224">er ganske ung, men Næsen er lidt vissen,</l>
+               <l xml:id="idm140111864329744">han husker Bondens Heste, Blakken, Blissen,</l>
+               <l xml:id="idm140111864329296">ved næste Rigsdagsvalg vil Folket sende ham.</l>
+            </lg>
+            <lg xml:id="idm140111864328672">
+               <l xml:id="idm140111864328416">Hans Hus er flot med store blanke Ruder,</l>
+               <l xml:id="idm140111864327968">hans blanke Daadskraft lader ham ej Rist,</l>
+               <l xml:id="idm140111864327520">han gør en Handel, mens han slaar en Sludder,</l>
+               <l xml:id="idm140111864327024">en Bladartikel, mens han spiller Whist.</l>
+            </lg>
+            <lg xml:id="idm140111864326464">
+               <l xml:id="idm140111864326208">Han vejrer radikalt sin Fjendes List</l>
+               <l xml:id="idm140111864325776">og byder med sit rappe Mod dem Spidsen,</l>
+               <l xml:id="idm140111864325344">han er et rigtigt Jern, den lille Jessen.</l>
+            </lg>
+            <lg xml:id="idm140111864324768">
+               <l xml:id="idm140111864324512">Og Vælgerfolket danser til hans Pibe,</l>
+               <l xml:id="idm140111864324032">men spørg ej om hans Tro paa Jesu Krist,</l>
+               <l xml:id="idm140111864323552">da kommer lille Jessen slemt i Knibe.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

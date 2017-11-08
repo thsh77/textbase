@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>STAMTAVLE</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140125920583744">
+                     <name xml:id="idm140125920583488">
+                        <surname xml:id="idm140125920583360">Claussen</surname>, <forename xml:id="idm140125920582928">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140125920582672">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140125920582384">Bd. 4: Danske vers</title>
+                  <pubPlace xml:id="idm140125920582096">[København]</pubPlace>
+                  <publisher xml:id="idm140125920581632">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140125920581264">1982-</date>
+                  <biblScope>78</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid61504" decls="#biblid61504">
+            <head xml:id="idm140125919615584">
+               <hi rend="italics" xml:id="idm140125919615328">STAMTAVLE</hi>
+            </head>
+            <lg xml:id="idm140125919614512">
+               <l xml:id="idm140125919614256">Min Moder, som til Verden mig</l>
+               <l xml:id="idm140125919613824">har født, og som jeg died,</l>
+               <l xml:id="idm140125919613376">som styred mine første Skridt</l>
+               <l xml:id="idm140125919612912">og mig sin Omsorg vied - </l>
+            </lg>
+            <lg xml:id="idm140125919612352">
+               <l xml:id="idm140125919612096">hun var af kraftigt Bondeblod</l>
+               <l xml:id="idm140125919611664">af nordgermanisk Stamme</l>
+               <l xml:id="idm140125919611248">af Wessels Slægt. - Jens Baggesen</l>
+               <l xml:id="idm140125919610784">jo var et Skud af samme.</l>
+            </lg>
+            <lg xml:id="idm140125919610224">
+               <l xml:id="idm140125919609968">Mit Sind blev blødt. Jeg fik Humør,</l>
+               <l xml:id="idm140125919609488">som være kan nødvendigt.</l>
+               <l xml:id="idm140125919609040">Min Lærer Byron gjorde det</l>
+               <l xml:id="idm140125919608592">lidt djærvt og uanstændigt.</l>
+            </lg>
+            <lg xml:id="idm140125919608000">
+               <l xml:id="idm140125919607744">Derpaa min Fader traadte til.</l>
+               <l xml:id="idm140125919607312">Han Liv i Spirer vakte,</l>
+               <l xml:id="idm140125919606896">som vist alt ved Undfangelsen</l>
+               <l xml:id="idm140125919606464">ned i mig vare lagte.</l>
+            </lg>
+            <lg xml:id="idm140125919605920">
+               <l xml:id="idm140125919605664">Han lærte Skarphed mig og Vid,</l>
+               <l xml:id="idm140125919605200">han lærte mig at tegne</l>
+               <l xml:id="idm140125919604752">et grelt satirisk clair-obscur.</l>
+               <l xml:id="idm140125919604320">Min Faders Navn var Heine.</l>
+            </lg>
+            <lg xml:id="idm140125919603760">
+               <l xml:id="idm140125919603504">Han lærte Skarphed mig og Vid,</l>
+               <l xml:id="idm140125919603040">men han var bitter-blodig.</l>
+               <l xml:id="idm140125919602608">Det lærer jeg ham aldrig af,</l>
+               <l xml:id="idm140125919602144">jeg er for dansk godmodig.</l>
+            </lg>
+            <pb n="78" xml:id="s78" facs="adl/claussen/claussen06/claussen6078"/>
+            <lg xml:id="idm140125919600480">
+               <l xml:id="idm140125919600224">At Aristofanes han var</l>
+               <l xml:id="idm140125919599808">min Bedstefar, det lader.</l>
+               <l xml:id="idm140125919599376">Det havde jeg ej tro't, hvis Far</l>
+               <l xml:id="idm140125919598944">ej havde kaldt ham "Fader".</l>
+            </lg>
+            <lg xml:id="idm140125919598384">
+               <l xml:id="idm140125919598128">Min Moder var en dansk Natur,</l>
+               <l xml:id="idm140125919597696">men landlig uoptugtet.</l>
+               <l xml:id="idm140125919597280">Jeg opstod, da en fremmed Sæd</l>
+               <l xml:id="idm140125919596816">et frugtbart Skød befrugtet.</l>
+            </lg>
+            <lg xml:id="idm140125919596224">
+               <l xml:id="idm140125919595968">Min Moder var Naturens Barn,</l>
+               <l xml:id="idm140125919595536">en Borgermand hun ægted,</l>
+               <l xml:id="idm140125919595088">men blev forført af Far, det Skarn</l>
+               <l xml:id="idm140125919594624">som Bibelen fornægted.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

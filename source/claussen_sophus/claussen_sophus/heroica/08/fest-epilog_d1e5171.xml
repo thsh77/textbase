@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>FEST-EPILOG</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid65588" decls="#biblid65588">
+            <head xml:id="idm140111863973728">
+               <hi rend="italics" xml:id="idm140111863973472">FEST-EPILOG</hi>
+            </head>
+            <epigraph xml:id="idm140111863972656">
+               <cit xml:id="idm140111863972352">
+                  <q xml:id="idm140111863972048">
+                     <lg xml:id="idm140111863971648">
+                        <l xml:id="idm140111863971392">
+                           <hi rend="italics" xml:id="idm140111863970912">En Mand, som roses, bliver altid
+												mindre</hi>.</l>
+                        <l xml:id="idm140111863970064">
+                           <hi rend="italics" xml:id="idm140111863969936">Forskaan os da for Mindekranses
+											Plage</hi>:</l>
+                        <l xml:id="idm140111863969088">
+                           <hi rend="italics" xml:id="idm140111863968960">En Pil som træffer, ser sig ej
+												tilbage</hi> ...</l>
+                     </lg>
+                  </q>
+               </cit>
+            </epigraph>
+            <lg xml:id="idm140111863967520">
+               <l xml:id="idm140111863967264">Jeg har sagt alt, hvad der kan siges,</l>
+               <l xml:id="idm140111863966880">ved dette festlige Bord.</l>
+               <l xml:id="idm140111863966448">Jeg har smagt paa alt, som skulde nydes,</l>
+               <l xml:id="idm140111863966000">jeg har sværmet for alt, som vilde elskes,</l>
+               <l xml:id="idm140111863965520">jeg har ydet saa omtrent, hvad der kan ydes.</l>
+               <l xml:id="idm140111863965072">Nu vil jeg hjem . .. hjem!</l>
+               <l xml:id="idm140111863964640">Jeg vil hjem!</l>
+            </lg>
+            <lg xml:id="idm140111863964096">
+               <l xml:id="idm140111863963840">Gør jeg Uret mod Fest-Indbyderne</l>
+               <l xml:id="idm140111863963376">med at bryde saa pludselig op?</l>
+               <l xml:id="idm140111863962944">Har jeg dvælet for længe, hvor man spøgte,</l>
+               <l xml:id="idm140111863962448">givet Løfter, hvorfra ingen Mand bør flygte?</l>
+               <l xml:id="idm140111863961952">Er Forventninger vakte her i Vrimlen</l>
+               <l xml:id="idm140111863961520">om et Under, som ved mig burde ske?</l>
+               <l xml:id="idm140111863961088">Thi man mødes ikke blot for at lege</l>
+               <l xml:id="idm140111863960608">med en Blomst, med et Indfald, en Idé.</l>
+            </lg>
+            <lg xml:id="idm140111863960000">
+               <l xml:id="idm140111863959744">Her er udgydt Champagnevin og The,</l>
+               <l xml:id="idm140111863959312">sligt forpligter vel til at aabne Himlen.</l>
+               <l xml:id="idm140111863958864">Men jeg siger til enhver: I Morgen Himlen!</l>
+               <l xml:id="idm140111863958416">Nu vil jeg hjem - hjem!</l>
+               <l xml:id="idm140111863958000">Jeg vil hjem!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

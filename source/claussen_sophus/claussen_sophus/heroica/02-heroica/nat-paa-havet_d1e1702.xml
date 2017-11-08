@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>NAT PAA HAVET</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid57927" decls="#biblid57927">
+            <head xml:id="idm140111864928256">
+               <hi rend="italics" xml:id="idm140111864928000">NAT PAA HAVET</hi>
+            </head>
+            <lg xml:id="idm140111864927184">
+               <l xml:id="idm140111864926928">Hun hæver to mørkrøde Roser</l>
+               <l xml:id="idm140111864926464">mod Aftenens oprørte Sø,</l>
+               <l xml:id="idm140111864926016">de straaler som hellige Løfter</l>
+               <l xml:id="idm140111864925552">om Purpur, der aldrig kan dø.</l>
+            </lg>
+            <lg xml:id="idm140111864924960">
+               <l xml:id="idm140111864924704">Selv staar hun, en halvskjult Skygge</l>
+               <l xml:id="idm140111864924272">fastnaglet ved Rælingens Rand</l>
+               <l xml:id="idm140111864923808">og fører sin Blomsterbyrde</l>
+               <l xml:id="idm140111864923360">ud over det tumlende Vand.</l>
+            </lg>
+            <lg xml:id="idm140111864922800">
+               <l xml:id="idm140111864922544">Og andre halvskjulte Skygger</l>
+               <l xml:id="idm140111864922112">ses kredse ved Ror og Rat,</l>
+               <l xml:id="idm140111864921680">som gjorde Skønhed dem søvnløs</l>
+               <l xml:id="idm140111864921216">i den bølgeomtumlede Nat.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

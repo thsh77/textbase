@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>NYE TIDER</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62869" decls="#biblid62869">
+            <head xml:id="idm140111864308496">
+               <hi rend="italics" xml:id="idm140111864308240">NYE TIDER</hi>
+            </head>
+            <lg xml:id="idm140111864307424">
+               <l xml:id="idm140111864307168">Den gamle Tid fallit - fallit - fallit!</l>
+               <l xml:id="idm140111864306736">(Jeg skrev de Vers et Aar, da alt gik skidt)</l>
+               <l xml:id="idm140111864306288">Nu er det nye Tider. Kvirrevit!</l>
+            </lg>
+            <lg xml:id="idm140111864305728">
+               <l xml:id="idm140111864305472">Og ingen Møddingspøl, som gør os flov.</l>
+               <l xml:id="idm140111864304992">Den rene Stald, ren Mælk, den rene Lov!</l>
+               <l xml:id="idm140111864304512">Og ingen Akvavit i Danmarks Skov,</l>
+               <l xml:id="idm140111864304080">hvor Droslen fløjter sit: <hi rend="italics" xml:id="idm140111864303760">Profit! Profit!</hi>
+               </l>
+            </lg>
+            <lg xml:id="idm140111864302816">
+               <l xml:id="idm140111864302560">Min Muse selv kan næppe holde Trit,</l>
+               <l xml:id="idm140111864302080">og søger vaklende den Fejehov,</l>
+               <l xml:id="idm140111864301616">hvor Bondens Tøs og Svinedrengen sov.</l>
+            </lg>
+            <lg xml:id="idm140111864301008">
+               <l xml:id="idm140111864300752">Ak, kom vor Moders Tandsæt ej betids,</l>
+               <l xml:id="idm140111864300272">vil Datren konfirmeres med Gebids ...</l>
+               <l xml:id="idm140111864299840">Den gamle Tid fallit - fallit - fallit!</l>
+               <l xml:id="idm140111864299408">Nu er det Foraar: Kvirrevirrevit!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

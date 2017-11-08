@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>JEG VIL BEGRAVES I FRED -</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid63097" decls="#biblid63097">
+            <head xml:id="idm140111864279520">
+               <hi rend="italics" xml:id="idm140111864279392">JEG VIL BEGRAVES I FRED</hi> -</head>
+            <lg xml:id="idm140111864278576">
+               <l xml:id="idm140111864278320">Dette er Digterens Kaar:</l>
+               <l xml:id="idm140111864277888">fødes og lægges hen,</l>
+               <l xml:id="idm140111864277440">glemmes og æres igen</l>
+               <l xml:id="idm140111864276992">Aar efter Aar.</l>
+            </lg>
+            <lg xml:id="idm140111864276448">
+               <l xml:id="idm140111864276192">Snart grov de ham op for at hædre ham,</l>
+               <l xml:id="idm140111864275712">snart grov de ham ned for at bedre ham -</l>
+               <l xml:id="idm140111864275264">Ak Rose ak Vaar!</l>
+               <l xml:id="idm140111864274848">Og endnu han bestaar.</l>
+            </lg>
+            <lg xml:id="idm140111864274304">
+               <l xml:id="idm140111864274048">Bedst er at slutte hos den,</l>
+               <l xml:id="idm140111864273616">som var fra Ungdom vor Ven,</l>
+               <l xml:id="idm140111864273184">krone med yndig Spøg</l>
+               <l xml:id="idm140111864272736">det dyre Forsøg.</l>
+            </lg>
+            <lg xml:id="idm140111864272176">
+               <l xml:id="idm140111864271920">Jeg vil begraves i Fred.</l>
+               <l xml:id="idm140111864271488">Jeg vil ikke ha'e Titusind med,</l>
+               <l xml:id="idm140111864271056">med mindre vi samme Dag</l>
+               <l xml:id="idm140111864270640">faldt i et Slag.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

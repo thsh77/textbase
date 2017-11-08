@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>UNG GLORIE</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope>127</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid64654" decls="#biblid64654">
+            <head xml:id="idm140111864086400">
+               <hi rend="italics" xml:id="idm140111864086144">UNG GLORIE</hi>
+            </head>
+            <lg xml:id="idm140111864085328">
+               <l xml:id="idm140111864085072">Over mit Hoved</l>
+               <l xml:id="idm140111864084656">slaar Tungsindets Fugl,</l>
+               <l xml:id="idm140111864084240">dens natbrede Vinger</l>
+               <l xml:id="idm140111864083824">beskygger min Sjæl,</l>
+               <l xml:id="idm140111864083376">naar jeg tænker paa,</l>
+               <l xml:id="idm140111864082928">hun var ung og fin</l>
+               <l xml:id="idm140111864082512">med et Blik, der beruste</l>
+               <l xml:id="idm140111864082080">som nygæret Vin ...</l>
+            </lg>
+            <lg xml:id="idm140111864081504">
+               <l xml:id="idm140111864081248">Var den hældende Dag</l>
+               <l xml:id="idm140111864080800">ned om Bakkerne skraaet</l>
+               <l xml:id="idm140111864080384">og Luften blev skyblaa</l>
+               <l xml:id="idm140111864079968">i Tusmørkegraaet,</l>
+               <l xml:id="idm140111864079536">med elskende Skumrings-</l>
+               <l xml:id="idm140111864079120">omtaagede Træk</l>
+               <l xml:id="idm140111864078688">hun drog mig og tog mig</l>
+               <l xml:id="idm140111864078272">saa kvindelig kæk.</l>
+            </lg>
+            <lg xml:id="idm140111864077712">
+               <l xml:id="idm140111864077456">Mit Hovede, bøjet</l>
+               <l xml:id="idm140111864077024">af Suk og af Savn,</l>
+               <l xml:id="idm140111864076608">fik jublende Trods</l>
+               <l xml:id="idm140111864076192">ved en jomfruhed Favn,</l>
+               <l xml:id="idm140111864075776">min Haand, som var klodset</l>
+               <l xml:id="idm140111864075344">af Rifter og Slag,</l>
+               <l xml:id="idm140111864074928">har lært Sæder af hendes</l>
+               <l xml:id="idm140111864074480">sødt smægtende Tag.</l>
+            </lg>
+            <lg xml:id="idm140111864073904">
+               <l xml:id="idm140111864073648">Aa hvor let, med hvor lidet</l>
+               <l xml:id="idm140111864073216">hun vidste at forme</l>
+               <l xml:id="idm140111864072800">den Glød, for hvis Udtryk</l>
+               <pb n="127"
+                   facs="adl/claussen/claussen08/claussen8127"
+                   xml:id="idm140111864072352"/>
+               <l xml:id="idm140111864071536">vi andre storme!</l>
+               <l xml:id="idm140111864071120">klynged sig til mig</l>
+               <l xml:id="idm140111864070704">med Arme, som lune,</l>
+               <l xml:id="idm140111864070288">og heksed med Øjne</l>
+               <l xml:id="idm140111864069856">fryddrukne og brune.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

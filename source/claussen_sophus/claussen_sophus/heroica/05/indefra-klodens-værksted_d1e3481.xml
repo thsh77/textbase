@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>INDEFRA KLODENS VÆRKSTED</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid61877" decls="#biblid61877">
+            <head xml:id="idm140111864433344">
+               <hi rend="italics" xml:id="idm140111864433088">INDE</hi>
+               <hi rend="italics" xml:id="idm140111864432400">FRA KLODENS VÆRKSTED</hi>
+            </head>
+            <lg xml:id="idm140111864431552">
+               <l xml:id="idm140111864431296">Inde fra Klodens Værksted lyder dunkle Eksplosioner.</l>
+               <l xml:id="idm140111864430784">Omsmeltes nu hver Livsform fra den gamle Alders Gry?</l>
+               <l xml:id="idm140111864430336">Brydes Karrene i Stykker? væltes Ovnene tillige?</l>
+               <l xml:id="idm140111864429840">Højovne, bygt af Vælden, da den gamle Morgen var ny.</l>
+            </lg>
+            <lg xml:id="idm140111864429200">
+               <l xml:id="idm140111864428944">Knuses Prøverne? slettes Sporene af den gamle, slidte Skønhed,</l>
+               <l xml:id="idm140111864428416">saa at det nye kan fødes rent uden Hul paa sin Hæl -?</l>
+               <l xml:id="idm140111864427904">Sprøjter Tidsaanden Saft og Flamme, Livets Sødme i nye Matricer?</l>
+               <l xml:id="idm140111864427376">Eller frigjort fra Moderformen gror Bevidsthed og Sjæl?</l>
+            </lg>
+            <lg xml:id="idm140111864426736">
+               <l xml:id="idm140111864426480">Slettes det gamle Regnskab med dets Summer og dets Brøker,</l>
+               <l xml:id="idm140111864425968">som blev overført i Æoner?</l>
+               <l xml:id="idm140111864425504">Opløses i Atomer selve Tavlerne nu?</l>
+               <l xml:id="idm140111864425024">Tal, som aldrig stemte, skal ikke optegnes mere . . .</l>
+               <l xml:id="idm140111864424576">Ja, Talsystemet er ude, det sled Tavlerne itu.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

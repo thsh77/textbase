@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TERMINSBEKYMRINGER</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62599" decls="#biblid62599">
+            <head xml:id="idm140111864342880">
+               <hi rend="italics" xml:id="idm140111864342624">TERMINSBEKYMRINGER</hi>
+            </head>
+            <lg xml:id="idm140111864341808">
+               <l xml:id="idm140111864341552">Med Næsen skriverspids og vissenbleg</l>
+               <l xml:id="idm140111864341072">og Kløgten lagt tilbage bagved Ørene</l>
+               <l xml:id="idm140111864340592">han drøfted Vognremise, Stalden, Køerne,</l>
+               <l xml:id="idm140111864340112">imens en Mistvivl paa hans Ansigt steg.</l>
+            </lg>
+            <lg xml:id="idm140111864339552">
+               <l xml:id="idm140111864339296">Foran ham strutted Bonden, som et Neg,</l>
+               <l xml:id="idm140111864338864">hans Overtalelse var næsten rørende,</l>
+               <l xml:id="idm140111864338384">han kendte alt, som er til Landbrug hørende,</l>
+               <l xml:id="idm140111864337888">men i ham selv en Skrivertvivl sig sneg.</l>
+            </lg>
+            <lg xml:id="idm140111864337312">
+               <l xml:id="idm140111864337056">Han tænkte paa sin Kone, og Schalotterne,</l>
+               <l xml:id="idm140111864336576">hun saaede i Fjor, paa Spanden, Potterne,</l>
+               <l xml:id="idm140111864336128">som var itu, paa Grisestien, Rotterne!</l>
+            </lg>
+            <lg xml:id="idm140111864335568">
+               <l xml:id="idm140111864335312">Han havde ingen Kaabe til sin Datter</l>
+               <l xml:id="idm140111864334880">og ingen Frø til Konens ny Rabatter.</l>
+               <l xml:id="idm140111864334400">Naar Huset styrter, er der nok af Spotterne.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>FORAAR</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62504" decls="#biblid62504">
+            <head xml:id="idm140111864354880">
+               <hi rend="italics" xml:id="idm140111864354624">FORAAR</hi>
+            </head>
+            <lg xml:id="idm140111864353808">
+               <l xml:id="idm140111864353552">Nu er det Foraar hjemme, bredt og vidt,</l>
+               <l xml:id="idm140111864353120">og Bankkassereren med lange Skridt</l>
+               <l xml:id="idm140111864352688">opmaaler Pløjejordens Længder, Bredder</l>
+               <l xml:id="idm140111864352208">og planter nye Vaar-Prioriteter.</l>
+            </lg>
+            <lg xml:id="idm140111864351648">
+               <l xml:id="idm140111864351392">Ingen Valuta, immerhen Kredit,</l>
+               <l xml:id="idm140111864350960">nu er det Foraar! Kvirrevirrevit!</l>
+            </lg>
+            <lg xml:id="idm140111864350400">
+               <l xml:id="idm140111864350144">Og Bonden siger over Bladet bøjet,</l>
+               <l xml:id="idm140111864349680">der holder ham med Dagens Nyt i Trit,</l>
+               <l xml:id="idm140111864349248">den ene Gang: "Nu er Jens Lund fallit!"</l>
+               <l xml:id="idm140111864348816">den anden Gang: "Nu er Knud Hansen røget!"</l>
+            </lg>
+            <lg xml:id="idm140111864348208">
+               <l xml:id="idm140111864347952">Saa trækker Bonden selv i Søndagstøjet,</l>
+               <l xml:id="idm140111864347472">det bedste Sæt, han endnu kalder sit,</l>
+               <l xml:id="idm140111864346992">og kører til den nye Prokurator,</l>
+               <l xml:id="idm140111864346528">n Folketaler og en Inkassator.</l>
+            </lg>
+            <lg xml:id="idm140111864345968">
+               <l xml:id="idm140111864345712">Han er moderne, tjener Mønt som Skidt.</l>
+               <l xml:id="idm140111864345232">Der kan du laane - kvirrevirrevit!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

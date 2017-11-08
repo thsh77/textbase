@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>DEN NY ALADDIN</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139805819604928">
+                     <name xml:id="idm139805819604672">
+                        <surname xml:id="idm139805819604544">Claussen</surname>, <forename xml:id="idm139805819604080">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139805819603792">Sophus Claussens lyrik</title>
+                  <title xml:id="idm139805819603504">Bd. 5: Fabler</title>
+                  <pubPlace xml:id="idm139805819603216">[København]</pubPlace>
+                  <publisher xml:id="idm139805819602752">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm139805819602384">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid64255" decls="#biblid64255">
+            <head xml:id="idm139805818300688">
+               <hi rend="italics" xml:id="idm139805818300432">DEN NY ALADDIN</hi>
+            </head>
+            <lg xml:id="idm139805818299616">
+               <l xml:id="idm139805818299360">"Arance! arance vuole? vuole arance?"</l>
+               <l xml:id="idm139805818298928">udraaber en Stemme trods Bratsch og Violiner.</l>
+               <l xml:id="idm139805818298480">Se Ynglingen løfter Bakken med Appelsiner.</l>
+            </lg>
+            <lg xml:id="idm139805818297872">
+               <l xml:id="idm139805818297616">Alle køber Cigarer, og pea-nuts spiller en Rolle.</l>
+               <l xml:id="idm139805818297120">Men Appelsinerne - de haabløst løftede -
+										maa han beholde.</l>
+               <l xml:id="idm139805818296576">"Arance! le belle arance! arance -
+										vuole?"</l>
+            </lg>
+            <lg xml:id="idm139805818296000">
+               <l xml:id="idm139805818295744">Saaledes bar jeg som Yngling til Nordlandets Skygge</l>
+               <l xml:id="idm139805818295296">Sydfrugter ...</l>
+               <l xml:id="idm139805818294880">Damerne købte "sen-sen" til at tygge,</l>
+               <l xml:id="idm139805818294400">slikkede Bolscher med Whisky og Gin,</l>
+               <l xml:id="idm139805818293968">imens de bestormede</l>
+               <l xml:id="idm139805818293552">fodpose-formede</l>
+               <l xml:id="idm139805818293136">Herrer beslagne med Skind ...</l>
+               <l xml:id="idm139805818292704">America-men, transatlantiske Brancher . . .</l>
+            </lg>
+            <lg xml:id="idm139805818292128">
+               <l xml:id="idm139805818291872">"Oranger, Oranger - ingen, som køber
+										Oranger?"</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

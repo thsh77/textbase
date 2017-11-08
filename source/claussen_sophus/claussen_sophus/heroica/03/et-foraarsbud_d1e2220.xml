@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ET FORAARSBUD</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59076" decls="#biblid59076">
+            <head xml:id="idm140111864781440">
+               <hi rend="italics" xml:id="idm140111864781184">ET FORAARSBUD</hi>
+            </head>
+            <lg xml:id="idm140111864780368">
+               <l xml:id="idm140111864780112">Et Foraarsbud, en Vaarblomst</l>
+               <l xml:id="idm140111864779680">har atter kysset mig.</l>
+               <l xml:id="idm140111864779264">Og kær og ung og sælsom</l>
+               <l xml:id="idm140111864778816">er min Kærlighed til dig.</l>
+            </lg>
+            <lg xml:id="idm140111864778240">
+               <l xml:id="idm140111864777984">Og intet har en Skærhed</l>
+               <l xml:id="idm140111864777536">som min ømme Drøm om dig,</l>
+               <l xml:id="idm140111864777088">ak, unge, fine Vaarblomst</l>
+               <l xml:id="idm140111864776656">langt renere end jeg.</l>
+            </lg>
+            <lg xml:id="idm140111864776112">
+               <l xml:id="idm140111864775856">Gud Sol! lad Vaaren leve,</l>
+               <l xml:id="idm140111864775424">lad med sin lyse Streg</l>
+               <l xml:id="idm140111864775008">det unge Foraar spire!</l>
+               <l xml:id="idm140111864774592">__ __ __ __</l>
+               <l xml:id="idm140111864774176">det unge Foraar spire.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

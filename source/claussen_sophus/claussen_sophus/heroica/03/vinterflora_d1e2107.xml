@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VINTERFLORA</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid58821" decls="#biblid58821">
+            <head xml:id="idm140111864814960">
+               <hi rend="italics" xml:id="idm140111864814704">VINTERFLORA</hi>
+            </head>
+            <lg xml:id="idm140111864813888">
+               <l xml:id="idm140111864813632">Det er sære lunkne Vinteraar, der tærer</l>
+               <l xml:id="idm140111864813152">som Vampyrer Kraften ud af vore Sfærer.</l>
+            </lg>
+            <lg xml:id="idm140111864812544">
+               <l xml:id="idm140111864812288">Men de store Vintre bringer Sne i Dynger,</l>
+               <l xml:id="idm140111864811840">hvorved Jorden tyst sin Blomstersjæl forynger.</l>
+            </lg>
+            <lg xml:id="idm140111864811216">
+               <l xml:id="idm140111864810960">Her er Ungdomsmylder: fuldt af Hyacinter</l>
+               <l xml:id="idm140111864810512">og af fuldt udsprungne Kvinder nu i Vinter.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

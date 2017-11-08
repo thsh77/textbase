@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>SOMMERLAND</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140125920583744">
+                     <name xml:id="idm140125920583488">
+                        <surname xml:id="idm140125920583360">Claussen</surname>, <forename xml:id="idm140125920582928">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140125920582672">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140125920582384">Bd. 4: Danske vers</title>
+                  <pubPlace xml:id="idm140125920582096">[København]</pubPlace>
+                  <publisher xml:id="idm140125920581632">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140125920581264">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid56790" decls="#biblid56790">
+            <head xml:id="idm140125920196848">
+               <hi rend="italics" xml:id="idm140125920196592">SOMMERLAND</hi>
+            </head>
+            <lg xml:id="idm140125920195776">
+               <l xml:id="idm140125920195520">Alt Sommerland ligger mørkt og fladt,</l>
+               <l xml:id="idm140125920195040">mens tyst og alene to</l>
+               <l xml:id="idm140125920194624">vi gaar i den silkegraa Stjernenat</l>
+               <l xml:id="idm140125920194192">kyssende over den lange Bro.</l>
+            </lg>
+            <lg xml:id="idm140125920193632">
+               <l xml:id="idm140125920193376">Hun fletter omkring min Lænd sin Arm,</l>
+               <l xml:id="idm140125920192896">men favner jeg hende igen -</l>
+               <l xml:id="idm140125920192464">"Du maa ej krølle min ny Mantille,</l>
+               <l xml:id="idm140125920192000">jeg fik i Tirsdags, min Ven!</l>
+            </lg>
+            <lg xml:id="idm140125920191440">
+               <l xml:id="idm140125920191184">"Du maa ej krølle min ny Mantille,</l>
+               <l xml:id="idm140125920190720">jeg har til Søndagsbrug.</l>
+               <l xml:id="idm140125920190272">Og jeg tør for min tærnede Kjole ej</l>
+               <l xml:id="idm140125920189792">sætte mig ned i den vaade Rug - -
+										-"</l>
+            </lg>
+            <lg xml:id="idm140125920189168">
+               <l xml:id="idm140125920188912">Og har du kun Synaalssorger, min Skat,</l>
+               <l xml:id="idm140125920188480">for dine Klæder er ny -?</l>
+               <l xml:id="idm140125920188032">Min Elskede ejer ej tungere Sorg,</l>
+               <l xml:id="idm140125920187600">end hun kan i Morgen sy!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

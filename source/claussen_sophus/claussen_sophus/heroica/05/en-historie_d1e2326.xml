@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>EN HISTORIE</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140111865483184">
+                     <name xml:id="idm140111865482928">
+                        <surname xml:id="idm140111865482800">Claussen</surname>, <forename xml:id="idm140111865482336">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140111865482048">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140111865481760">Bd. 6: Heroica</title>
+                  <pubPlace xml:id="idm140111865481472">[København]</pubPlace>
+                  <publisher xml:id="idm140111865481008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140111865480640">1982-</date>
+                  <biblScope>68</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59408" decls="#biblid59408">
+            <head xml:id="idm140111864739264">
+               <hi rend="italics" xml:id="idm140111864739008">EN HISTORIE</hi>
+            </head>
+            <lg xml:id="idm140111864738192">
+               <l xml:id="idm140111864737936">Søde Barn, jeg var kun fireogtyve,</l>
+               <l xml:id="idm140111864737472">du var seksogtyve, gør det noget,</l>
+               <l xml:id="idm140111864737008">at jeg fik dit Hjerte til at smile?</l>
+               <l xml:id="idm140111864736576">Du er to Aar ældre, gør det noget,</l>
+               <l xml:id="idm140111864736096">at jeg taler med dig som en Fader?</l>
+            </lg>
+            <lg xml:id="idm140111864735536">
+               <l xml:id="idm140111864735280">Søde Barn med moderlige Arme,</l>
+               <l xml:id="idm140111864734816">med dit kloge Sind, din unge Styrke.</l>
+               <l xml:id="idm140111864734384">Er det Uret, at jeg mest beundrer</l>
+               <l xml:id="idm140111864733952">dette foraars-svage i dit Væsen,</l>
+               <l xml:id="idm140111864733488">denne Magt, udsprungen af en Sødme,</l>
+               <l xml:id="idm140111864733008">lejret som det milde Mel i Kornet,</l>
+               <l xml:id="idm140111864732576">hvoraf Vintersædens Blaaning spirer?</l>
+            </lg>
+            <lg xml:id="idm140111864731968">
+               <l xml:id="idm140111864731712">Søde Barn, du er langt mere dygtig,</l>
+               <l xml:id="idm140111864731232">mere klog end jeg. Kan det da taales,</l>
+               <l xml:id="idm140111864730800">at jeg tager mig som Mand i Huset</l>
+               <l xml:id="idm140111864730368">Fadermine, Pashamyndigheder?</l>
+               <l xml:id="idm140111864729936">Er ej alle dine Ynder mine?</l>
+            </lg>
+            <lg xml:id="idm140111864729376">
+               <l xml:id="idm140111864729120">Er de ej som Børn i mine Hænder,</l>
+               <l xml:id="idm140111864728656">Sind, som brænder, søde viltre Unger,</l>
+               <l xml:id="idm140111864728176">der maa aves, førend de kan lege,</l>
+               <l xml:id="idm140111864727712">men som kender mig og lyder gerne?</l>
+            </lg>
+            <lg xml:id="idm140111864727152">
+               <l xml:id="idm140111864726896">Vil du styre, være egenmægtig?</l>
+               <l xml:id="idm140111864726432">Kender du som jeg din egen Skønhed?</l>
+               <l xml:id="idm140111864725952">Aldrig var din Klogskab mere prægtig,</l>
+               <l xml:id="idm140111864725472">end naar du berusedes af Kærtegn,</l>
+               <l xml:id="idm140111864725008">og, omfavnet, adlød mig med Vælde.</l>
+            </lg>
+            <pb n="68"
+                facs="adl/claussen/claussen08/claussen8068"
+                xml:id="idm140111864724400"/>
+            <lg xml:id="idm140111864723632">
+               <l xml:id="idm140111864723376">Du er som et dybt og frodigt Landskab,</l>
+               <l xml:id="idm140111864722944">Høst og Vinter skifter om til Vaar,</l>
+               <l xml:id="idm140111864722464">store Somre modner dine Haver,</l>
+               <l xml:id="idm140111864722032">mørkt og violet som Dyreskind</l>
+               <l xml:id="idm140111864721568">staar en Tordensky bag Kløvermarken -</l>
+               <l xml:id="idm140111864721088">Du har Frugtbarhed for hele Aaret.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

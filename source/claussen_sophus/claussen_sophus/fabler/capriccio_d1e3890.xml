@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>CAPRICCIO</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139805819604928">
+                     <name xml:id="idm139805819604672">
+                        <surname xml:id="idm139805819604544">Claussen</surname>, <forename xml:id="idm139805819604080">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139805819603792">Sophus Claussens lyrik</title>
+                  <title xml:id="idm139805819603504">Bd. 5: Fabler</title>
+                  <pubPlace xml:id="idm139805819603216">[København]</pubPlace>
+                  <publisher xml:id="idm139805819602752">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm139805819602384">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62674" decls="#biblid62674">
+            <head xml:id="idm139805818499744">
+               <hi rend="italics" xml:id="idm139805818499488">CAPRICCIO</hi>
+            </head>
+            <lg xml:id="idm139805818498672">
+               <l xml:id="idm139805818498416">Af Guld og Sølv, af Sølv og Guld</l>
+               <l xml:id="idm139805818497952">er Instrumentets Tone fuld.</l>
+               <l xml:id="idm139805818497520">Men spørger Sangeren med Flid</l>
+               <l xml:id="idm139805818497056">sin Elskede om hendes Tanker</l>
+               <l xml:id="idm139805818496624">i deres Elskovsanges Tid,</l>
+               <l xml:id="idm139805818496192">hun svarer, at hun ikke længer</l>
+               <l xml:id="idm139805818495728">kan huske denne Tid.</l>
+            </lg>
+            <lg xml:id="idm139805818495184">
+               <l xml:id="idm139805818494928">Med Kløgt og Vid, med Vid og Kløgt</l>
+               <l xml:id="idm139805818494448">paa Vers og Prosa blev hans Tone øgt.</l>
+               <l xml:id="idm139805818493968">Men faar man alting undersøgt,</l>
+               <l xml:id="idm139805818493504">saa var det hans Elskedes Daarskab,</l>
+               <l xml:id="idm139805818493072">hans Elskedes dummeste Tanker,</l>
+               <l xml:id="idm139805818492640">hvoraf han skabte al den Vid og Kløgt.</l>
+            </lg>
+            <lg xml:id="idm139805818492032">
+               <l xml:id="idm139805818491776">Tandaradei! Hvormangen grim og fæl</l>
+               <l xml:id="idm139805818491312">ung Kvinde stod ej stum og mangled Sjæl</l>
+               <l xml:id="idm139805818490832">og høsted ved sin Fulhed just en Magt,</l>
+               <l xml:id="idm139805818490352">som ellers er en Guddom underlagt.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
