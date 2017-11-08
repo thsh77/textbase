@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>fröding</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid61703" decls="#biblid61703">
+            <head xml:id="idm140462579728384">fröding</head>
+            <lg xml:id="idm140462579727968">
+               <l xml:id="idm140462579727712">din stille latter</l>
+               <l xml:id="idm140462579727296">gjorde andres nagende synder</l>
+               <l xml:id="idm140462579726864">og forspildte liv</l>
+               <l xml:id="idm140462579726448">til munter dans paa solgrønne enge-</l>
+            </lg>
+            <lg xml:id="idm140462579725840">
+               <l xml:id="idm140462579725584">jeg ser den fortvivlede kamp,</l>
+               <l xml:id="idm140462579725152">som rev dit eget sind i laser - ,</l>
+            </lg>
+            <lg xml:id="idm140462579724592">
+               <l xml:id="idm140462579724336">og jeg tier -</l>
+            </lg>
+            <lg xml:id="idm140462579723792">
+               <l xml:id="idm140462579723536">
+                  <hi rend="italics" xml:id="idm140462579723280">vi er mennesker</hi>
+               </l>
+               <l xml:id="idm140462579722464">
+                  <hi rend="italics" xml:id="idm140462579722208">hvorfor bebrejde hinanden,</hi>
+               </l>
+               <l xml:id="idm140462579721376">
+                  <hi rend="italics" xml:id="idm140462579721120">at vi ikke er andet -</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

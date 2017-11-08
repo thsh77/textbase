@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ivigtut</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>114</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid68980" decls="#biblid68980">
+            <head xml:id="idm140462578809488">ivigtut</head>
+            <lg xml:id="idm140462578809072">
+               <l xml:id="idm140462578808816">de hundrede mand</l>
+               <l xml:id="idm140462578808400">graver sten</l>
+               <pb n="114" xml:id="idm140462578807984" rend="missing"/>
+               <l xml:id="idm140462578807488">i elleve timer -,</l>
+               <l xml:id="idm140462578807072">og fylder store skibe</l>
+               <l xml:id="idm140462578806656">og fremmede aktionærer,</l>
+               <l xml:id="idm140462578806208">som de gir fa'en -</l>
+               <l xml:id="idm140462578805792">(elleve timer -)</l>
+            </lg>
+            <lg xml:id="idm140462578805248">
+               <l xml:id="idm140462578804992">og de hundrede mand</l>
+               <l xml:id="idm140462578804576">hælder champagne</l>
+               <l xml:id="idm140462578804144">i sjæle,</l>
+               <l xml:id="idm140462578803728">som længslernes by</l>
+               <l xml:id="idm140462578803296">burde frygte,</l>
+               <l xml:id="idm140462578802880">og ikke kunde fylde</l>
+               <l xml:id="idm140462578802464">for to aar siden -</l>
+            </lg>
+            <lg xml:id="idm140462578801920">
+               <l xml:id="idm140462578801664">og de hundrede mand</l>
+               <l xml:id="idm140462578801248">rejser hjem</l>
+               <l xml:id="idm140462578800832">(efter to eller tre aar)</l>
+               <l xml:id="idm140462578800400">med længsler</l>
+               <l xml:id="idm140462578799968">tunge som stenbunker</l>
+               <l xml:id="idm140462578799552">og uberegnelige som isfjelde -</l>
+            </lg>
+            <lg xml:id="idm140462578798992">
+               <l xml:id="idm140462578798736">og de hundrede mand</l>
+               <l xml:id="idm140462578798320">sejler frem og tilbage</l>
+               <l xml:id="idm140462578797904">(saa længe de kan)</l>
+               <l xml:id="idm140462578797472">med deres mystiske sjæle,</l>
+               <l xml:id="idm140462578797024">som de ikke kan</l>
+               <l xml:id="idm140462578796608">gi fa'en -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

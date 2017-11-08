@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>the time has come</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>66</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid63085" decls="#biblid63085">
+            <head xml:id="idm140381327711344">the time has come</head>
+            <lg xml:id="idm140381327710928">
+               <l xml:id="idm140381327710672">the time has come,</l>
+               <l xml:id="idm140381327710256">when man shall no more</l>
+               <l xml:id="idm140381327709840">try to be anything</l>
+               <l xml:id="idm140381327709424">but man besides the rest which</l>
+               <l xml:id="idm140381327708992">is not us -</l>
+               <l xml:id="idm140381327708576">the time has come,</l>
+               <l xml:id="idm140381327708160">when the ruler shall</l>
+               <l xml:id="idm140381327707744">be a ruler only among the rulers,</l>
+               <l xml:id="idm140381327707312">when the lover shall be a lover</l>
+               <pb n="66" xml:id="idm140381327706880" rend="missing"/>
+               <l xml:id="idm140381327706336">only among lovers,</l>
+               <l xml:id="idm140381327705920">the time has come,</l>
+               <l xml:id="idm140381327705504">when man shall have to</l>
+               <l xml:id="idm140381327705088">be himself only,</l>
+               <l xml:id="idm140381327704672">and be that</l>
+               <l xml:id="idm140381327704256">to the rest which is not him -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

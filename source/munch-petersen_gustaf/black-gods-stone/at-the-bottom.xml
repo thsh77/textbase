@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>at the bottom</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid54164" decls="#biblid54164">
+            <head xml:id="idm140381328786112">at the bottom</head>
+            <lg xml:id="idm140381328785696">
+               <l xml:id="idm140381328785440">nobody knows what he wants -</l>
+               <l xml:id="idm140381328785008">the good are timid -,</l>
+               <l xml:id="idm140381328784592">the strong are devils -,</l>
+               <l xml:id="idm140381328784160">the wise are barren -,</l>
+               <l xml:id="idm140381328783744">the fertile seduced</l>
+               <l xml:id="idm140381328783328">to geld their fruits -</l>
+               <l xml:id="idm140381328782912">- where are you,</l>
+               <l xml:id="idm140381328782496">where are you tenderness, certainty -?</l>
+               <l xml:id="idm140381328782064">
+                  <hi rend="italics" xml:id="idm140381328781760">where</hi>
+               </l>
+               <l xml:id="idm140381328780944">are you hiding -,</l>
+               <l xml:id="idm140381328780528">where do you hide -,</l>
+               <l xml:id="idm140381328780112">in readiness for</l>
+               <l xml:id="idm140381328779696">us who don't know what we seek -?</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

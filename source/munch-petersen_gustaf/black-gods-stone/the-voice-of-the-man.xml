@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>the voice of the man</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid58500" decls="#biblid58500">
+            <head xml:id="idm140381328283120">the voice of the man</head>
+            <lg xml:id="idm140381328282704">
+               <l xml:id="idm140381328282448">don't seek my eyes -</l>
+               <l xml:id="idm140381328282032">I am afraid of every contact -</l>
+               <l xml:id="idm140381328281600">I am afraid</l>
+               <l xml:id="idm140381328281184">of the desire to rule</l>
+               <l xml:id="idm140381328280768">deep in the soul of my hand -</l>
+               <l xml:id="idm140381328280336">I am afraid of the fetters,</l>
+               <l xml:id="idm140381328279904">which my eyes do put on everything -</l>
+               <l xml:id="idm140381328279472">don't touch me -,</l>
+               <l xml:id="idm140381328279056">I hate obeyance -,</l>
+               <l xml:id="idm140381328278640">I hate the clinging love of the dreamers</l>
+               <l xml:id="idm140381328278192">don't seek my eyes -,</l>
+               <l xml:id="idm140381328277776">I am no phantom -,</l>
+               <l xml:id="idm140381328277360">I am no seeker -</l>
+               <l xml:id="idm140381328276944">don't touch me -</l>
+            </lg>
+            <lg xml:id="idm140381328276400">
+               <l xml:id="idm140381328276144">I am nothing but fate -</l>
+               <l xml:id="idm140381328275728">I am afraid of every contact -</l>
+               <l xml:id="idm140381328275296">my hand shall take what it must -</l>
+               <l xml:id="idm140381328274864">don't touch me -</l>
+               <l xml:id="idm140381328274448">my eyes don't seek -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>vi måste älska</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid65568" decls="#biblid65568">
+            <head xml:id="idm140381327388544">vi måste älska</head>
+            <lg xml:id="idm140381327388112">
+               <l xml:id="idm140381327387856">vi måste älska</l>
+               <l xml:id="idm140381327387424">svaghetens timmar,</l>
+               <l xml:id="idm140381327387008">vi måste skydda</l>
+               <l xml:id="idm140381327386576">sjukdomens viljor -</l>
+               <l xml:id="idm140381327386160">förrän den svaga striden</l>
+               <l xml:id="idm140381327385712">har stridit sitt blod</l>
+               <l xml:id="idm140381327385296">och alla sjuka viljor vunnit seger,</l>
+               <l xml:id="idm140381327384864">är den starkaste arm svag</l>
+               <l xml:id="idm140381327384432">och inget vårt -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

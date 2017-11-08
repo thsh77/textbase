@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>the gull</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>46</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60185" decls="#biblid60185">
+            <head xml:id="idm140381328073680">the gull</head>
+            <lg xml:id="idm140381328073264">
+               <l xml:id="idm140381328073008">- this rock</l>
+               <l xml:id="idm140381328072592">is my place -</l>
+               <l xml:id="idm140381328072176">my eyes</l>
+               <l xml:id="idm140381328071760">are setting off on low wings</l>
+               <l xml:id="idm140381328071328">from this rock -</l>
+               <l xml:id="idm140381328070912">- this sea</l>
+               <l xml:id="idm140381328070496">is my life -</l>
+               <l xml:id="idm140381328070080">my eyes</l>
+               <l xml:id="idm140381328069664">are hovering on motionless wings</l>
+               <l xml:id="idm140381328069232">over this sea -</l>
+               <pb n="46" xml:id="idm140381328068816" rend="missing"/>
+               <l xml:id="idm140381328068320">- my eyes</l>
+               <l xml:id="idm140381328067904">can grip only the far-off -</l>
+               <l xml:id="idm140381328067472">my eyes know no short distances -</l>
+               <l xml:id="idm140381328067040">- my eyes</l>
+               <l xml:id="idm140381328066624">have no colour to change -</l>
+               <l xml:id="idm140381328066192">my eyes are indifference to everything -</l>
+               <l xml:id="idm140381328065744">my eyes remember nothing but their unseen aim -</l>
+               <l xml:id="idm140381328065296">- my eyes</l>
+               <l xml:id="idm140381328064880">don't wait for anybody to rise -</l>
+               <l xml:id="idm140381328064448">my eyes know their place and their life -:</l>
+               <l xml:id="idm140381328064000">this rock -</l>
+               <l xml:id="idm140381328063584">this sea -</l>
+               <l xml:id="idm140381328063168">- everything else is dead unto my eyes -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

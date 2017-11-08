@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>pigen else</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>115</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid69095" decls="#biblid69095">
+            <head xml:id="idm140462578794928">pigen else</head>
+            <div xml:id="idm140462578794512">
+               <lg xml:id="idm140462578794256">
+                  <l xml:id="idm140462578794000">engang blev du skræmt -</l>
+                  <l xml:id="idm140462578793552">nu sidder du med friheden -</l>
+                  <l xml:id="idm140462578793120">dit hjærte vejer intet -,</l>
+                  <l xml:id="idm140462578792672">o du er fri -</l>
+               </lg>
+            </div>
+            <div xml:id="idm140462578792000">
+               <lg xml:id="idm140462578791744">
+                  <l xml:id="idm140462578791488">altid holder du dit røgfarvede smil</l>
+                  <l xml:id="idm140462578791008">op foran øjnene,</l>
+                  <pb n="115" xml:id="idm140462578790576" rend="missing"/>
+                  <l xml:id="idm140462578790032">før du ser paa de andre,</l>
+                  <l xml:id="idm140462578789584">som ikke kender skrækken</l>
+                  <l xml:id="idm140462578789136">for stumme dyr -</l>
+               </lg>
+               <lg xml:id="idm140462578788592">
+                  <l xml:id="idm140462578788336">nu sidder du med friheden -,</l>
+                  <l xml:id="idm140462578787904">dine øjne er trætte</l>
+                  <l xml:id="idm140462578787456">som en kos nakke</l>
+                  <l xml:id="idm140462578787040">af at smile -</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

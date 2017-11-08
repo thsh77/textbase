@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>vejr</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid69355" decls="#biblid69355">
+            <head xml:id="idm140381326872720">vejr</head>
+            <lg xml:id="idm140381326872304">
+               <l xml:id="idm140381326872048">- østenstormen klemmer </l>
+               <l xml:id="idm140381326871600">havet mod klippernes tænder </l>
+               <l xml:id="idm140381326871136">lukker havnene</l>
+               <l xml:id="idm140381326870720">jager fisken </l>
+               <l xml:id="idm140381326870304">til havs -</l>
+            </lg>
+            <lg xml:id="idm140381326869760">
+               <l xml:id="idm140381326869504">- skyerne blir smaa og stjernerne kommer </l>
+               <l xml:id="idm140381326869056">efter tre døgn -</l>
+               <l xml:id="idm140381326868624">vestbrise puffer søerne væk, </l>
+               <l xml:id="idm140381326868160">gammel brænding falder </l>
+               <l xml:id="idm140381326867712">tung paa skæret - </l>
+               <l xml:id="idm140381326867280">fiskerne kigger -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

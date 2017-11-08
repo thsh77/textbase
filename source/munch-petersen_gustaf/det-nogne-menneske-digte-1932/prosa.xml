@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>prosa</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59193" decls="#biblid59193">
+            <head xml:id="idm140462580048288">prosa</head>
+            <lg xml:id="idm140462580047872">
+               <l xml:id="idm140462580047616">- jeg synes, de fleste er kloge -</l>
+               <l xml:id="idm140462580047184">ikke saa glade, men kloge og betænksomme -</l>
+            </lg>
+            <lg xml:id="idm140462580046576">
+               <l xml:id="idm140462580046320">- jeg søger en ven -</l>
+            </lg>
+            <lg xml:id="idm140462580045744">
+               <l xml:id="idm140462580045488">- han skal gaa med mig i haanden,</l>
+               <l xml:id="idm140462580045056">- og han skal sige:</l>
+               <l xml:id="idm140462580044640">jeg ved heller ingenting - forstaar ingenting,</l>
+               <l xml:id="idm140462580044192">uden at her er smukt lige her - og der ligger</l>
+               <l xml:id="idm140462580043744">et væltet træ derhenne -</l>
+               <l xml:id="idm140462580043296">jeg kender ikke til "hvorfor" - ved ikke, hvad</l>
+               <l xml:id="idm140462580042848">noget er, uden at det er morsomt eller</l>
+               <l xml:id="idm140462580042416">kedeligt -</l>
+               <l xml:id="idm140462580042000">og han skal sige: jeg synes, der er meget smukt</l>
+               <l xml:id="idm140462580041552">og grimt i verden -</l>
+               <l xml:id="idm140462580041136">- meget andet skal han ikke gøre -</l>
+            </lg>
+            <lg xml:id="idm140462580040544">
+               <l xml:id="idm140462580040288">- saadan skal vi gaa -</l>
+               <l xml:id="idm140462580039872">med hinanden i haanden,</l>
+               <l xml:id="idm140462580039456">mens vi forsøger at se glade ud,</l>
+               <l xml:id="idm140462580038992">mens vi viser hinanden det morsomme, grimme,</l>
+               <l xml:id="idm140462580038544">kedelige</l>
+               <l xml:id="idm140462580038128">og skønne i verden -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

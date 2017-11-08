@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>tanke</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>217</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid81040" decls="#biblid81040">
+            <head xml:id="idm140462577284592">tanke</head>
+            <lg xml:id="idm140462577284176">
+               <l xml:id="idm140462577283920">alt legemligt</l>
+               <l xml:id="idm140462577283504">er sjælens udtryk -</l>
+               <l xml:id="idm140462577283056">den rene sjæl</l>
+               <l xml:id="idm140462577282624">gør alting helligt -</l>
+               <l xml:id="idm140462577282176">den svage sjæl</l>
+               <l xml:id="idm140462577281744">rafler uskyldigt</l>
+               <pb n="217" xml:id="idm140462577281328" rend="missing"/>
+               <l xml:id="idm140462577280832">om andres skæbne -</l>
+               <l xml:id="idm140462577280400">der findes intet</l>
+               <l xml:id="idm140462577279984">urent i menneskets kød -,</l>
+               <l xml:id="idm140462577279536">og al skabelse</l>
+               <l xml:id="idm140462577279120">er ogsaa sjælens</l>
+               <l xml:id="idm140462577278688">alene -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

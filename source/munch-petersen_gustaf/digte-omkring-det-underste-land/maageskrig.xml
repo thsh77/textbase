@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>maageskrig</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>134</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid71603" decls="#biblid71603">
+            <head xml:id="idm140462578463328">maageskrig</head>
+            <lg xml:id="idm140462578462912">
+               <l xml:id="idm140462578462656">- i, som sidder,</l>
+               <l xml:id="idm140462578462240">hvad kender i til havets syreætsende duft,</l>
+               <l xml:id="idm140462578461760">til det fornuftsudsugende, vellystklo-visende bølgesug,</l>
+               <l xml:id="idm140462578461248">naar søerne paa skumspændte maver</l>
+               <l xml:id="idm140462578460784">aaler sig, klemmer sig frem</l>
+               <l xml:id="idm140462578460352">over hinandens skuldre?</l>
+            </lg>
+            <lg xml:id="idm140462578459808">
+               <l xml:id="idm140462578459552">- i stearinlystændere, i kuponklippere,</l>
+               <l xml:id="idm140462578459072">spejl jeres rynker</l>
+               <l xml:id="idm140462578458656">i havets prækenforagtende uro,</l>
+               <l xml:id="idm140462578458192">naar det om morgenen</l>
+               <l xml:id="idm140462578457776">med vilje snyder jeres godheds drømme -</l>
+            </lg>
+            <lg xml:id="idm140462578457168">
+               <l xml:id="idm140462578456912">- hvad kender i til skumringsskvulpets baldrende latter</l>
+               <l xml:id="idm140462578456464">om aftenen,</l>
+               <l xml:id="idm140462578456048">til, hvad som fødes under vaade klipper?</l>
+            </lg>
+            <pb n="134" xml:id="idm140462578455440" rend="missing"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>lykke</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>27</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60863" decls="#biblid60863">
+            <head xml:id="idm140462579838496">lykke</head>
+            <lg xml:id="idm140462579838080">
+               <l xml:id="idm140462579837824">- lykken -,</l>
+               <l xml:id="idm140462579837408">siger menneskene -</l>
+               <l xml:id="idm140462579836992">spiser sig mætte</l>
+               <l xml:id="idm140462579836560">og lægger sig to og to -</l>
+            </lg>
+            <lg xml:id="idm140462579835984">
+               <l xml:id="idm140462579835728">- lykke -,</l>
+               <l xml:id="idm140462579835312">klager de -</l>
+               <l xml:id="idm140462579834896">og forsøger at drømme sig mætte</l>
+               <l xml:id="idm140462579834432">og varme -</l>
+            </lg>
+            <pb n="27" xml:id="idm140462579833888" rend="missing"/>
+            <lg xml:id="idm140462579833392">
+               <l xml:id="idm140462579833136">- lykke -,</l>
+               <l xml:id="idm140462579832720">raser menneskene -</l>
+               <l xml:id="idm140462579832304">og maddyngerne kravler</l>
+               <l xml:id="idm140462579831888">fra den ene side til den anden -</l>
+            </lg>
+            <lg xml:id="idm140462579831328">
+               <l xml:id="idm140462579831072">- gudinde -</l>
+               <l xml:id="idm140462579830656">giv mig kamp - :</l>
+               <l xml:id="idm140462579830240">sejr eller nederlag -,</l>
+               <l xml:id="idm140462579829824">og maaske ogsaa</l>
+               <l xml:id="idm140462579829408">lykke -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

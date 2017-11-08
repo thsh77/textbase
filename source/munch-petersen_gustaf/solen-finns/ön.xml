@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ön</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>82</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid64863" decls="#biblid64863">
+            <head xml:id="idm140381327482400">ön</head>
+            <lg xml:id="idm140381327481984">
+               <l xml:id="idm140381327481728">vi, som leva på denna ö,</l>
+               <l xml:id="idm140381327481280">ha fått nog utav hunger</l>
+               <l xml:id="idm140381327480832">och stormar -</l>
+               <l xml:id="idm140381327480416">vi, som leva på denna ö,</l>
+               <l xml:id="idm140381327479968">behöver du ej skänka hopp,</l>
+               <l xml:id="idm140381327479504">mer än de fattiga eldar, vi ha -,</l>
+               <l xml:id="idm140381327479040">vi, som leva på denna ö, känna</l>
+               <l xml:id="idm140381327478576">dina gåvor till grunden,</l>
+               <l xml:id="idm140381327478128">och vi, som leva på denna ö,</l>
+               <l xml:id="idm140381327477664">tro, att vi icke behöva</l>
+               <l xml:id="idm140381327477216">mera utav hunger</l>
+               <l xml:id="idm140381327476800">och stormar -,</l>
+               <l xml:id="idm140381327476384">vi tro säkert, att vi</l>
+               <l xml:id="idm140381327475936">ha fått nog utav dina gåvor -</l>
+               <l xml:id="idm140381327475472">vi, som leva på denna ö,</l>
+               <l xml:id="idm140381327475024">behöver du ej skänka hopp -</l>
+            </lg>
+            <pb n="82" xml:id="idm140381327474432" rend="missing"/>
+         </div>
+      </body>
+   </text>
+</TEI>

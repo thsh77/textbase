@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>höst</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>79</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid64482" decls="#biblid64482">
+            <head xml:id="idm140381327532432">höst</head>
+            <lg xml:id="idm140381327532016">
+               <l xml:id="idm140381327531760">jag ville,</l>
+               <l xml:id="idm140381327531344">att livet skulle vara en stark</l>
+               <l xml:id="idm140381327530912">röd älskog, iförd hårt lärft,</l>
+               <pb n="79" xml:id="idm140381327530448" rend="missing"/>
+               <l xml:id="idm140381327529952">en rygg, som tålde att hatas,</l>
+               <l xml:id="idm140381327529488">en vilja till annat än smekning -</l>
+               <l xml:id="idm140381327529024">men det liv, jag fann,</l>
+               <l xml:id="idm140381327528608">var en ödmjuk,</l>
+               <l xml:id="idm140381327528176">bedjande rygg,</l>
+               <l xml:id="idm140381327527760">en gnista, som ömt måste skyddas,</l>
+               <l xml:id="idm140381327527296">ett hopp, för vilket varje åker var mager</l>
+               <l xml:id="idm140381327526816">och varje regn vinterns is -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

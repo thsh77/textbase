@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>i nat</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>110</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid68888" decls="#biblid68888">
+            <head xml:id="idm140381326935088">i nat</head>
+            <lg xml:id="idm140381326934672">
+               <l xml:id="idm140381326934416">i nat frøs</l>
+               <l xml:id="idm140381326934000">tøsneen ikke -</l>
+               <l xml:id="idm140381326933568">sirenerne skreg</l>
+               <l xml:id="idm140381326933152">i mildhedens taage -</l>
+               <l xml:id="idm140381326932736">jorden vældede blød</l>
+               <l xml:id="idm140381326932288">frem af drivernes skred -</l>
+            </lg>
+            <lg xml:id="idm140381326931728">
+               <l xml:id="idm140381326931472">luftens isnende tomhed </l>
+               <l xml:id="idm140381326931056">fyldes af væde - </l>
+               <l xml:id="idm140381326930624">lysende damp</l>
+               <pb n="110" xml:id="idm140381326930208" rend="missing"/>
+               <l xml:id="idm140381326929712">dækker maanens lys -</l>
+               <l xml:id="idm140381326929264">jorden skinner brun</l>
+               <l xml:id="idm140381326928848">mod morgenens tøvende magt -</l>
+               <l xml:id="idm140381326928384">havet aander blegt,</l>
+               <l xml:id="idm140381326927968">før solen rejser sig -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>læreaar</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60198" decls="#biblid60198">
+            <head xml:id="idm140462579920560">læreaar</head>
+            <lg xml:id="idm140462579920144">
+               <l xml:id="idm140462579919888">vore nætter</l>
+               <l xml:id="idm140462579919456">druknede i vinens sang</l>
+               <l xml:id="idm140462579919040">og kvindernes skød -</l>
+            </lg>
+            <lg xml:id="idm140462579918464">
+               <l xml:id="idm140462579918208">vi haabede,</l>
+               <l xml:id="idm140462579917792">at kraften vilde komme til os</l>
+               <l xml:id="idm140462579917360">som en herreløs hund</l>
+               <l xml:id="idm140462579916912">og lægge sig ved vore fødder -</l>
+            </lg>
+            <lg xml:id="idm140462579916320">
+               <l xml:id="idm140462579916064">til nogle af os kom længselen -</l>
+               <l xml:id="idm140462579915600">den rev vore skæbner løs</l>
+               <l xml:id="idm140462579915152">og bandt dem som trofæer ved sit bælte -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

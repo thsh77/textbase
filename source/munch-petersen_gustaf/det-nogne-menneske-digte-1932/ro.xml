@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ro</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>17</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59407" decls="#biblid59407">
+            <head xml:id="idm140462580021184">ro</head>
+            <lg xml:id="idm140462580020800">
+               <l xml:id="idm140462580020544">de røde sole blir smaa og fjerne,</l>
+               <l xml:id="idm140462580020080">begæret synker sammen som et slattent gummidyr-</l>
+               <l xml:id="idm140462580019584">sammenklistrede lemmer løsner sig</l>
+               <l xml:id="idm140462580019120">langsomt bristende -</l>
+               <l xml:id="idm140462580018704">lykkelige smil med øjnene lukkede -</l>
+               <l xml:id="idm140462580018224">forsagte kys - ikke som opfordring,</l>
+               <l xml:id="idm140462580017792">men som: hvor var det dejligt -</l>
+               <l xml:id="idm140462580017360">haar stryges tilside -</l>
+               <l xml:id="idm140462580016944">kroppene skubber sig lidt,</l>
+               <l xml:id="idm140462580016512">saa ingen arme sover</l>
+               <pb n="17" xml:id="idm140462580016096" rend="missing"/>
+               <l xml:id="idm140462580015552">og ingen bryster blir klemt -</l>
+               <l xml:id="idm140462580015120">nu vil jeg sove!</l>
+               <l xml:id="idm140462580014704">det vil jeg ogsaa!</l>
+               <l xml:id="idm140462580014288">alting kører baglæns ud i intet</l>
+               <l xml:id="idm140462580013824">som en kultraadslampe gløder, før den slukkes-</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

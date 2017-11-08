@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>nödens trygghet</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>105</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid68151" decls="#biblid68151">
+            <head xml:id="idm140381327031744">nödens trygghet</head>
+            <lg xml:id="idm140381327031312">
+               <l xml:id="idm140381327031056">jag själv är av mörker</l>
+               <l xml:id="idm140381327030608">har alltid varit -</l>
+               <l xml:id="idm140381327030192">en del av mig,</l>
+               <l xml:id="idm140381327029776">jag vet ej vilken,</l>
+               <l xml:id="idm140381327029360">finnes i andra nejder -</l>
+               <l xml:id="idm140381327028944">den viskar mig främmad</l>
+               <l xml:id="idm140381327028496">allt jag behöver att veta -</l>
+               <l xml:id="idm140381327028032">den viskar från</l>
+               <l xml:id="idm140381327027600">nejder, långt från allt mörker,</l>
+               <l xml:id="idm140381327027136">den ser mig aldrig</l>
+               <l xml:id="idm140381327026720">och min panna böjd genom mörkret,</l>
+               <l xml:id="idm140381327026256">dess blick är vänd</l>
+               <l xml:id="idm140381327025808">mot andra klarare öden -</l>
+               <l xml:id="idm140381327025360">i nödens bittraste timme</l>
+               <l xml:id="idm140381327024912">skall en iskall vind</l>
+               <l xml:id="idm140381327024496">från ljusa okända nejder</l>
+               <l xml:id="idm140381327024048">viska mig allt, jag behöver -</l>
+            </lg>
+            <pb n="105" xml:id="idm140381327023456" rend="missing"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>syn</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>92</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid66310" decls="#biblid66310">
+            <head xml:id="idm140381327289760">syn</head>
+            <lg xml:id="idm140381327289376">
+               <l xml:id="idm140381327289120">tvenne kannor möttes -</l>
+               <l xml:id="idm140381327288672">den ena var rund och</l>
+               <l xml:id="idm140381327288256">hade en svart sol målad</l>
+               <l xml:id="idm140381327287808">på sin mage -,</l>
+               <l xml:id="idm140381327287376">den andra hade en smärt öppnad hals</l>
+               <l xml:id="idm140381327286896">och vita och bruna ränder</l>
+               <l xml:id="idm140381327286448">längs höfterna -</l>
+               <l xml:id="idm140381327286016">ångande fyllde de varandra -</l>
+               <l xml:id="idm140381327285584">om gift eller kärlek visste icke de,</l>
+               <pb n="92" xml:id="idm140381327285104" rend="missing"/>
+               <l xml:id="idm140381327284608">och såg icke jag -</l>
+               <l xml:id="idm140381327284176">ur bägges munnar fladdrade ångan</l>
+               <l xml:id="idm140381327283712">blandande sig</l>
+               <l xml:id="idm140381327283296">med andra, främmande dofter -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>døden</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>19</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59715" decls="#biblid59715">
+            <head xml:id="idm140462579981312">døden</head>
+            <lg xml:id="idm140462579980896">
+               <l xml:id="idm140462579980640">hvorfor vi lever -</l>
+               <l xml:id="idm140462579980224">ja -</l>
+               <pb n="19" xml:id="idm140462579979808" rend="missing"/>
+               <l xml:id="idm140462579979312">det hænder, at vi er saa glade, at vi synger -</l>
+               <l xml:id="idm140462579978816">maaske blir vi saa lykkelige, saa glade,</l>
+               <l xml:id="idm140462579978368">at vi engang stille gaar vores vej,</l>
+               <l xml:id="idm140462579977936">af angst for at vi ikke mer skal høre livets unge latter -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

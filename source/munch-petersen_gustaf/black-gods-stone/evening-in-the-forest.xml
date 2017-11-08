@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>evening in the forest</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>62</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62529" decls="#biblid62529">
+            <head xml:id="idm140381327782160">evening in the forest</head>
+            <lg xml:id="idm140381327781744">
+               <l xml:id="idm140381327781488">only man has made himself</l>
+               <l xml:id="idm140381327781056">his god,</l>
+               <l xml:id="idm140381327780640">only the god, man, can become</l>
+               <l xml:id="idm140381327780208">old and die -</l>
+               <l xml:id="idm140381327779792">there are thousands of gods,</l>
+               <l xml:id="idm140381327779360">some of which we know</l>
+               <l xml:id="idm140381327778944">some of which we see only one time</l>
+               <l xml:id="idm140381327778512">some of which are but names -</l>
+               <l xml:id="idm140381327778080">- I am not old and I am not young,</l>
+               <pb n="62" xml:id="idm140381327777648" rend="missing"/>
+               <l xml:id="idm140381327777152">I know only</l>
+               <l xml:id="idm140381327776736">the gods of growth and birth and death,</l>
+               <l xml:id="idm140381327776304">they don't speak to us, they</l>
+               <l xml:id="idm140381327775872">don't want our prayers, and</l>
+               <l xml:id="idm140381327775440">sometimes I've heard them laugh</l>
+               <l xml:id="idm140381327775008">and sometimes weep -</l>
+               <l xml:id="idm140381327774592">what do they</l>
+               <l xml:id="idm140381327774176">care about man and his angry claims,</l>
+               <l xml:id="idm140381327773744">they know but growth and birth and death</l>
+               <l xml:id="idm140381327773296">why should we claim to be men -?</l>
+               <l xml:id="idm140381327772864">- sometimes I hear my laughter answered,</l>
+               <l xml:id="idm140381327772416">and sometimes my sorrow -</l>
+               <l xml:id="idm140381327771984">there are thousands of gods,</l>
+               <l xml:id="idm140381327771552">some of which we know -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

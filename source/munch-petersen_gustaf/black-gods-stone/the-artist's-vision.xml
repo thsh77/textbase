@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>the artist's vision</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid54860" decls="#biblid54860">
+            <head xml:id="idm140381328699184">the artist's vision</head>
+            <div xml:id="idm140381328698768">
+               <lg xml:id="idm140381328698512">
+                  <l xml:id="idm140381328698256">I know </l>
+                  <l xml:id="idm140381328697840">everything - </l>
+                  <l xml:id="idm140381328697424">I have payed </l>
+                  <l xml:id="idm140381328697008">everything -</l>
+               </lg>
+            </div>
+            <div xml:id="idm140381328696336">
+               <lg xml:id="idm140381328696080">
+                  <l xml:id="idm140381328695824">there is no </l>
+                  <l xml:id="idm140381328695408">heart - </l>
+                  <l xml:id="idm140381328694992">there is no </l>
+                  <l xml:id="idm140381328694576">sun -</l>
+                  <l xml:id="idm140381328694160">there is no </l>
+                  <l xml:id="idm140381328693744">life -</l>
+               </lg>
+               <lg xml:id="idm140381328693200">
+                  <l xml:id="idm140381328692944">there is</l>
+                  <l xml:id="idm140381328692528">the god of hardness -</l>
+                  <l xml:id="idm140381328692112">there is</l>
+                  <l xml:id="idm140381328691696">the goddess of stone -</l>
+                  <l xml:id="idm140381328691280">there is</l>
+                  <l xml:id="idm140381328690864">the ice of my will -</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

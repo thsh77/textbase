@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>medicin</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid61476" decls="#biblid61476">
+            <head xml:id="idm140462579757888">medicin</head>
+            <lg xml:id="idm140462579757472">
+               <l xml:id="idm140462579757216">at tegne arabesker af ord</l>
+               <l xml:id="idm140462579756784">er elskovskranke ynglinges trøst-</l>
+            </lg>
+            <lg xml:id="idm140462579756192">
+               <l xml:id="idm140462579755936">jeg vil hugge sten</l>
+               <l xml:id="idm140462579755520">og sove -</l>
+            </lg>
+            <lg xml:id="idm140462579754976">
+               <l xml:id="idm140462579754720">jeg knytter haanden i lommen</l>
+               <l xml:id="idm140462579754288">og skyder hatten i nakken,</l>
+            </lg>
+            <lg xml:id="idm140462579753728">
+               <l xml:id="idm140462579753472">og kunsten er atter skøn -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

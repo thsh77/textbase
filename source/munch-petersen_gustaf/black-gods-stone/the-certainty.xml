@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>the certainty</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>44</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59887" decls="#biblid59887">
+            <head xml:id="idm140381328110912">the certainty</head>
+            <lg xml:id="idm140381328110496">
+               <l xml:id="idm140381328110240">the radiant outskirts</l>
+               <l xml:id="idm140381328109824">of the land which is real</l>
+               <l xml:id="idm140381328109392">gleam forth -</l>
+               <l xml:id="idm140381328108976">in the land which is real</l>
+               <l xml:id="idm140381328108544">I have my friend -</l>
+               <l xml:id="idm140381328108128">there we shall touch</l>
+               <l xml:id="idm140381328107712">the simple nakedness</l>
+               <l xml:id="idm140381328107296">of each other -,</l>
+               <l xml:id="idm140381328106880">my friend and I -</l>
+            </lg>
+            <lg xml:id="idm140381328106336">
+               <l xml:id="idm140381328106080">four is the sacred number </l>
+               <l xml:id="idm140381328105648">in the land which is real - </l>
+               <l xml:id="idm140381328105216">my friend and his woman, </l>
+               <l xml:id="idm140381328104784">I and my woman,</l>
+               <pb n="44" xml:id="idm140381328104368" rend="missing"/>
+               <l xml:id="idm140381328103872">in the holy grove </l>
+               <l xml:id="idm140381328103456">there are the four trees </l>
+               <l xml:id="idm140381328103024">of our common silence -</l>
+            </lg>
+            <lg xml:id="idm140381328102480">
+               <l xml:id="idm140381328102224">I have caught a glimpse</l>
+               <l xml:id="idm140381328101808">of the land which is real -</l>
+               <l xml:id="idm140381328101376">nothing</l>
+               <l xml:id="idm140381328100960">shall turn my pace -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

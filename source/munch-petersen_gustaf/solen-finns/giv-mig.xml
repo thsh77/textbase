@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>giv mig</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid65109" decls="#biblid65109">
+            <head xml:id="idm140381327449936">giv mig</head>
+            <lg xml:id="idm140381327449520">
+               <l xml:id="idm140381327449264">giv mig korv, vin, ost -,</l>
+               <l xml:id="idm140381327448832">du ska få en aning</l>
+               <l xml:id="idm140381327448400">utav det,</l>
+               <l xml:id="idm140381327447984">som gör hungerns bädd</l>
+               <l xml:id="idm140381327447536">mjuk någon timme -</l>
+               <l xml:id="idm140381327447104">giv mig ett leende -,</l>
+               <l xml:id="idm140381327446688">och jag ska ge dig meningen</l>
+               <l xml:id="idm140381327446256">med leenden då vi båda</l>
+               <l xml:id="idm140381327445808">icke finns -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

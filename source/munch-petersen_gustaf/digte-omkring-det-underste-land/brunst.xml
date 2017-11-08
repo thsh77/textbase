@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>brunst</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid72750" decls="#biblid72750">
+            <head xml:id="idm140462578317872">brunst</head>
+            <lg xml:id="idm140462578317456">
+               <l xml:id="idm140462578317200">det var morgen,</l>
+               <l xml:id="idm140462578316784">da hannen forlod sin hjord -,</l>
+               <l xml:id="idm140462578316352">forlod græs og skygge og kvier,</l>
+               <l xml:id="idm140462578315888">for at erobre sig en ny hjord,</l>
+               <l xml:id="idm140462578315456">der satte kraften og modet</l>
+               <l xml:id="idm140462578315024">over græsgange og fred -</l>
+               <l xml:id="idm140462578314576">og solen fangede istaagerne paa fjældet -</l>
+               <l xml:id="idm140462578314096">den næste morgen</l>
+               <l xml:id="idm140462578313664">sloges unge tyre,</l>
+               <l xml:id="idm140462578313248">og kvierne tyggede drøv</l>
+               <l xml:id="idm140462578312800">i dalen -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

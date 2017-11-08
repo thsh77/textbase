@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>fiskerne danser paa kroen</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>5</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid57683" decls="#biblid57683">
+            <head xml:id="idm140462580240656">fiskerne danser paa kroen</head>
+            <lg xml:id="idm140462580240224">
+               <l xml:id="idm140462580239968">- man kan høre det henne paa gaden</l>
+               <l xml:id="idm140462580239504">og nede paa havnepladsen:</l>
+               <l xml:id="idm140462580239072">for fiskerne danser paa kroen -</l>
+            </lg>
+            <pb n="5" xml:id="idm140462580238512" rend="missing"/>
+            <lg xml:id="idm140462580237968">
+               <l xml:id="idm140462580237712">- og herre min gud, hvor de danser</l>
+               <l xml:id="idm140462580237280">som store petroljumsmotorer</l>
+               <l xml:id="idm140462580236848">og tønder paa vej nedad trappen.</l>
+               <l xml:id="idm140462580236384">det er kraftige ben der dunker,</l>
+               <l xml:id="idm140462580235952">saa pigerne sveder af lykke.</l>
+               <l xml:id="idm140462580235520">hvor er han dog stærk og flot,</l>
+               <l xml:id="idm140462580235056">og saa faar han fisk og penge.</l>
+               <l xml:id="idm140462580234624">naar hun trykker forsigtigt med laaret,</l>
+               <l xml:id="idm140462580234192">hun hører det rasle af sølv,</l>
+               <l xml:id="idm140462580233728">og en rødskægget, hornagtig haand,</l>
+               <l xml:id="idm140462580233248">den klemmer og kniber og søger -</l>
+               <l xml:id="idm140462580232784">og sværmen ruller langs gulvet</l>
+               <l xml:id="idm140462580232320">og brædderne <ref target="#fiskene-danser-paa-kroen-1" xml:id="idm140462580232016">duver</ref>
+                  <note xml:id="fiskene-danser-paa-kroen-1" anchored="true">
+                     <p xml:id="idm140462580230416">bevæger sig op og ned (om skib)</p>
+                  </note> som dæk. -</l>
+            </lg>
+            <lg xml:id="idm140462580229648">
+               <l xml:id="idm140462580229392">- violinerne gnider og piber,</l>
+               <l xml:id="idm140462580229008">musikanternes glas, de er tomme,</l>
+               <l xml:id="idm140462580228576">men øllerne bobler og skvulper</l>
+               <l xml:id="idm140462580228112">og rinder i brune halse</l>
+               <l xml:id="idm140462580227696">saa adamsæblerne hopper</l>
+               <l xml:id="idm140462580227248">og benene træder i takt.</l>
+               <l xml:id="idm140462580226800">for fiskerne danser paa kroen</l>
+               <l xml:id="idm140462580226368">saa sveden siver og pibler,</l>
+               <l xml:id="idm140462580225936">og øjne og legemer mødes,</l>
+               <l xml:id="idm140462580225488">mens sværmen ruller langs gulvet</l>
+               <l xml:id="idm140462580225024">og brædderne duver som dæk.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

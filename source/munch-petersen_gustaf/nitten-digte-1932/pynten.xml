@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>pynten</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>118</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid69663" decls="#biblid69663">
+            <head xml:id="idm140381326832224">pynten</head>
+            <lg xml:id="idm140381326831808">
+               <l xml:id="idm140381326831552">selv naar det er stille, </l>
+               <l xml:id="idm140381326831120">naar blot en enkelt graa sky </l>
+               <l xml:id="idm140381326830688">haenger tung ved solnedgang, </l>
+               <l xml:id="idm140381326830256">rejser bølgen sig højt i vejret </l>
+               <l xml:id="idm140381326829792">paa skæret ud for pynten - </l>
+               <l xml:id="idm140381326829328">mod pyntens sorte stenknold </l>
+               <l xml:id="idm140381326828896">falder bølgen ned igen </l>
+               <l xml:id="idm140381326828448">med sne-hvidt brus - </l>
+               <l xml:id="idm140381326828032">under tungt hængende himmel </l>
+               <l xml:id="idm140381326827568">med en gul stribe i vest -</l>
+            </lg>
+            <pb n="118" xml:id="idm140381326827008" rend="missing"/>
+         </div>
+      </body>
+   </text>
+</TEI>

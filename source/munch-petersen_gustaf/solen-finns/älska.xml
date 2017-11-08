@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>älska</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>81</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid64737" decls="#biblid64737">
+            <head xml:id="idm140381327499008">älska</head>
+            <lg xml:id="idm140381327498592">
+               <l xml:id="idm140381327498336">älska ditt tecken</l>
+               <l xml:id="idm140381327497920">likt taggtråden, som skyddar</l>
+               <l xml:id="idm140381327497456">blodstridernas</l>
+               <l xml:id="idm140381327497040">ensamma ros -</l>
+               <l xml:id="idm140381327496624">göm ditt tecken</l>
+               <l xml:id="idm140381327496192">under en åls slemmiga rygg,</l>
+               <l xml:id="idm140381327495728">den ingen kan ta,</l>
+               <l xml:id="idm140381327495312">och ingen hålla fast,</l>
+               <l xml:id="idm140381327494864">så länge livet spänner</l>
+               <l xml:id="idm140381327494416">hans envist dansande skinn -</l>
+               <pb n="81" xml:id="idm140381327493984" rend="missing"/>
+               <l xml:id="idm140381327493440">älska ditt tecken</l>
+               <l xml:id="idm140381327493024">likt taggtråden, som skyddar -,</l>
+               <l xml:id="idm140381327492560">kryp och göm dig,</l>
+               <l xml:id="idm140381327492128">hugg och bit,</l>
+               <l xml:id="idm140381327491712">åla dig hatande, att ingen snappar</l>
+               <l xml:id="idm140381327491280">dolda blodstriders</l>
+               <l xml:id="idm140381327490864">tecken på dig själv -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

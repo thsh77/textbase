@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>skum</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>24</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60409" decls="#biblid60409">
+            <head xml:id="idm140462579893088">skum</head>
+            <lg xml:id="idm140462579892672">
+               <l xml:id="idm140462579892416">- barhovedet fiskede jeg langs klipperne -</l>
+               <l xml:id="idm140462579891968">solen dryssede glødende naale</l>
+               <l xml:id="idm140462579891504">i mit nøgne haar -</l>
+            </lg>
+            <lg xml:id="idm140462579890944">
+               <l xml:id="idm140462579890688">- naar stormen har splintret søerne</l>
+               <l xml:id="idm140462579890208">imod klipperne,</l>
+               <l xml:id="idm140462579889792">ligger skummet og gynger</l>
+               <l xml:id="idm140462579889360">som propper paa vandet,</l>
+               <l xml:id="idm140462579888944">som en løbende piges</l>
+               <l xml:id="idm140462579888496">korte varme aandedræt -</l>
+            </lg>
+            <pb n="24" xml:id="idm140462579887920" rend="missing"/>
+            <lg xml:id="idm140462579887424">
+               <l xml:id="idm140462579887168">- barhovedet fiskede jeg langs klipperne -</l>
+               <l xml:id="idm140462579886720">havets tunge bryster</l>
+               <l xml:id="idm140462579886304">hævede og sænkede sig søvnigt -</l>
+               <l xml:id="idm140462579885840">jeg hørte ikke mere skummets bløde rytme,</l>
+               <l xml:id="idm140462579885360">saa ikke det lette vuggende skum -</l>
+               <l xml:id="idm140462579884928">jeg saa kød,</l>
+               <l xml:id="idm140462579884496">jeg saa hvide skuldre -</l>
+               <l xml:id="idm140462579884080">(solen brændte mit haar) -</l>
+               <l xml:id="idm140462579883632">blændende hvide, gyngende rygge -</l>
+            </lg>
+            <lg xml:id="idm140462579883040">
+               <l xml:id="idm140462579882784">- mine grove brune hænder</l>
+               <l xml:id="idm140462579882336">lukkede sig om aarerne,</l>
+               <l xml:id="idm140462579881920">jeg satte foden haardt imod toften -</l>
+               <l xml:id="idm140462579881488">baaden var nær klipperne -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

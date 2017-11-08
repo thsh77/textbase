@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>vad är det</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid65670" decls="#biblid65670">
+            <head xml:id="idm140381327375008">vad är det</head>
+            <lg xml:id="idm140381327374592">
+               <l xml:id="idm140381327374336">vad är det, du kallar fara,</l>
+               <l xml:id="idm140381327373872">lilla du,</l>
+               <l xml:id="idm140381327373456">vad är det, du är rädd att mista -?</l>
+               <l xml:id="idm140381327372976">det minsta hopp, du skulle</l>
+               <l xml:id="idm140381327372544">finna bland stenarna, är</l>
+               <l xml:id="idm140381327372096">värt allt,</l>
+               <l xml:id="idm140381327371680">du måtte ha gömt</l>
+               <l xml:id="idm140381327371248">undan djuren på din vandring,</l>
+               <l xml:id="idm140381327370784">innan du hann stranden -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

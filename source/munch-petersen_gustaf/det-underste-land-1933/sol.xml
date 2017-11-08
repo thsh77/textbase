@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>sol</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>130</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid71083" decls="#biblid71083">
+            <head xml:id="idm140462578530832">sol</head>
+            <div xml:id="idm140462578530448">
+               <lg xml:id="idm140462578530192">
+                  <l xml:id="idm140462578529936">i middagssolen</l>
+                  <l xml:id="idm140462578529520">synger en stillids</l>
+                  <l xml:id="idm140462578529104">i et bur paa størrelse med en hat -</l>
+               </lg>
+               <lg xml:id="idm140462578528496">
+                  <l xml:id="idm140462578528240">gennem nedrullede tremmer</l>
+                  <l xml:id="idm140462578527808">siver bleg sang -</l>
+                  <l xml:id="idm140462578527392">tynde stemmer synger</l>
+                  <l xml:id="idm140462578526976">bøjet over sicilianske broderier -</l>
+                  <l xml:id="idm140462578526512">langs hvide og gule traade</l>
+                  <l xml:id="idm140462578526080">drypper ordene -</l>
+               </lg>
+            </div>
+            <div xml:id="idm140462578525408">
+               <lg xml:id="idm140462578525152">
+                  <l xml:id="idm140462578524896">sekstenaarige - syttenaarige -</l>
+                  <l xml:id="idm140462578524464">tremmer mellem dem og middagssolen</l>
+                  <l xml:id="idm140462578524032">og morgensolen og skumringen -</l>
+               </lg>
+               <lg xml:id="idm140462578523472">
+                  <l xml:id="idm140462578523216">og en nat</l>
+                  <l xml:id="idm140462578522800">kaster du vel grebet af angst</l>
+                  <l xml:id="idm140462578522368">din portnøgle ned i en maanefyldt gade,</l>
+                  <pb n="130" xml:id="idm140462578521888" rend="missing"/>
+                  <l xml:id="idm140462578521392">at du maa se</l>
+                  <l xml:id="idm140462578520976">mandens vinstokke vride sig</l>
+                  <l xml:id="idm140462578520544">i middagssolen -</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

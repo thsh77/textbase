@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>til mit hoved</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>22</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60099" decls="#biblid60099">
+            <head xml:id="idm140462579933136">til mit hoved</head>
+            <lg xml:id="idm140462579932720">
+               <l xml:id="idm140462579932464">jeg er et barn,</l>
+               <l xml:id="idm140462579932048">der leger med sit legetøj -</l>
+               <l xml:id="idm140462579931584">mit legetøj:</l>
+               <l xml:id="idm140462579931152">en bold med øjne i -</l>
+            </lg>
+            <lg xml:id="idm140462579930576">
+               <l xml:id="idm140462579930320">jeg triller den</l>
+               <l xml:id="idm140462579929904">og kaster den mod væggen -</l>
+               <l xml:id="idm140462579929456">jeg klapper den</l>
+               <l xml:id="idm140462579929040">og smider den i vandet -</l>
+            </lg>
+            <lg xml:id="idm140462579928480">
+               <l xml:id="idm140462579928224">maaske tilsidst</l>
+               <l xml:id="idm140462579927808">mit legetøj blev ødelagt -</l>
+               <l xml:id="idm140462579927344">men legetøj</l>
+               <l xml:id="idm140462579926912">har aldrig holdt saa længe -</l>
+            </lg>
+            <lg xml:id="idm140462579926320">
+               <l xml:id="idm140462579926064">maaske tilsidst</l>
+               <l xml:id="idm140462579925648">jeg tabte det i græsset -</l>
+               <l xml:id="idm140462579925200">det har jeg glemt,</l>
+               <l xml:id="idm140462579924784">hvor det blev af tilsidst -</l>
+            </lg>
+            <pb n="22" xml:id="idm140462579924224" rend="missing"/>
+            <lg xml:id="idm140462579923680">
+               <l xml:id="idm140462579923424">maaske engang</l>
+               <l xml:id="idm140462579923008">jeg finder det alligevel -</l>
+               <l xml:id="idm140462579922576">mit legetøj,</l>
+               <l xml:id="idm140462579922144">hvis det er helt endnu -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

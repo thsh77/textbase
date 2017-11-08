@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>det suser i skoven -(til Edith Södergran)</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>218</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid81187" decls="#biblid81187">
+            <head xml:id="idm140462577265568">det suser i skoven -<lb xml:id="idm140462577265280"/>
+               <hi rend="italics" xml:id="idm140462577265024">(til Edith Södergran</hi>)</head>
+            <lg xml:id="idm140462577264176">
+               <l xml:id="idm140462577263920">en draabe i skoven vil forme alt i sit billed -</l>
+               <l xml:id="idm140462577263472">en draabe i skoven</l>
+               <l xml:id="idm140462577263056">fandt sig selv sandere end alt -</l>
+            </lg>
+            <pb n="218" xml:id="idm140462577262496" rend="missing"/>
+            <lg xml:id="idm140462577262000">
+               <l xml:id="idm140462577261744">skovens draabe greb lyren</l>
+               <l xml:id="idm140462577261312">større end verden -:</l>
+               <l xml:id="idm140462577260864">dette ene er en skæbne</l>
+               <l xml:id="idm140462577260416">at finde sig selv skønnest</l>
+               <l xml:id="idm140462577259968">sandest</l>
+               <l xml:id="idm140462577259552">renest -</l>
+            </lg>
+            <lg xml:id="idm140462577259008">
+               <l xml:id="idm140462577258752">alt vil jeg forme i mit billed -</l>
+               <l xml:id="idm140462577258320">alt skal</l>
+               <l xml:id="idm140462577257904">være det herligste af alt -</l>
+               <l xml:id="idm140462577257440">højere, højere hænger lyren</l>
+               <l xml:id="idm140462577256976">større end verden -</l>
+               <l xml:id="idm140462577256528">skælv, o verden for din skæbne -</l>
+               <l xml:id="idm140462577256064">skælv, o verden -</l>
+               <l xml:id="idm140462577255632">skabelsen kommer -</l>
+               <l xml:id="idm140462577255216">en draabe i skoven blev sandere end alt -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

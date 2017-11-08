@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>sang</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid69026" decls="#biblid69026">
+            <head xml:id="idm140381326916288">sang</head>
+            <lg xml:id="idm140381326915872">
+               <l xml:id="idm140381326915616">- fløjt klingende din vise om en gylden dag -, </l>
+               <l xml:id="idm140381326915120">klag din knugende smærte i moll - </l>
+               <l xml:id="idm140381326914656">sandheden hvisker nynnende melodien</l>
+               <l xml:id="idm140381326914224">i krattet bag grøften, </l>
+               <l xml:id="idm140381326913776">i stuens mørke -</l>
+               <l xml:id="idm140381326913344">- glæd dig, lyttende vandrer, </l>
+               <l xml:id="idm140381326912880">over harmoniens naadegave -, </l>
+               <l xml:id="idm140381326912448">flygt, ilsomt og stille,</l>
+               <l xml:id="idm140381326912016">for tonernes dystre kamp - </l>
+               <l xml:id="idm140381326911584">stemmer og toner besvarer, vandrer, </l>
+               <l xml:id="idm140381326911152">knivskarpt dit spørgende smil -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

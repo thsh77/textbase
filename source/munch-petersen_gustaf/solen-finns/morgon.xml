@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>morgon</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid64381" decls="#biblid64381">
+            <head xml:id="idm140381327545824">morgon</head>
+            <lg xml:id="idm140381327545408">
+               <l xml:id="idm140381327545152">varifrån kommer det,</l>
+               <l xml:id="idm140381327544704">att vi, utan allt,</l>
+               <l xml:id="idm140381327544288">fattiga på allt,</l>
+               <l xml:id="idm140381327543856">kunna drömma allt -?</l>
+               <l xml:id="idm140381327543408">- framtiden är redan lagd,</l>
+               <l xml:id="idm140381327542960">fjärran vilar hon</l>
+               <l xml:id="idm140381327542528">sövd av våra drömmar -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

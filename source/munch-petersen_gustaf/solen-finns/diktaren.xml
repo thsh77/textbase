@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>diktaren</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid68228" decls="#biblid68228">
+            <head xml:id="idm140381327021888">diktaren</head>
+            <lg xml:id="idm140381327021472">
+               <l xml:id="idm140381327021216">nu vill jag berätta</l>
+               <l xml:id="idm140381327020768">för dig vad en diktare är:</l>
+               <l xml:id="idm140381327020304">han är <ref target="#diktaren-1" xml:id="idm140381327020016">dimman</ref>
+                  <note xml:id="diktaren-1" anchored="true">
+                     <p xml:id="idm140381327018448">tågen</p>
+                  </note>
+	  ytterst</l>
+               <l xml:id="idm140381327017872">på horisonten,</l>
+               <l xml:id="idm140381327017440">han är ryggen utav det,</l>
+               <l xml:id="idm140381327016992">som varit,</l>
+               <l xml:id="idm140381327016576">och hans panna är
+	  <ref target="#diktaren-2" xml:id="idm140381327016256">strimman</ref>
+                  <note xml:id="diktaren-2" anchored="true">
+                     <p xml:id="idm140381327014736">striben</p>
+                  </note>
+	  som dröjer</l>
+               <l xml:id="idm140381327014144">på nattens gräns,</l>
+               <l xml:id="idm140381327013712">hans ögon äro ibland trötta</l>
+               <l xml:id="idm140381327013248">av att vänta efter det,</l>
+               <l xml:id="idm140381327012800">som han icke vet, om det finns,</l>
+               <l xml:id="idm140381327012368">och ibland äro de blinda</l>
+               <l xml:id="idm140381327011920">av en sol på andra sidan</l>
+               <l xml:id="idm140381327011472">dimman -</l>
+               <l xml:id="idm140381327011056">då gråter diktaren, tills</l>
+               <l xml:id="idm140381327010608">dimman har ryckt längre bort,</l>
+               <l xml:id="idm140381327010144">och väntandets ångest åter</l>
+               <l xml:id="idm140381327009680">
+                  <ref target="#diktaren-3" xml:id="idm140381327009552">svalkar</ref>
+                  <note xml:id="diktaren-3" anchored="true">
+                     <p xml:id="idm140381327008160">svaler</p>
+                  </note>
+	  hans svidande ögonlock -</l>
+               <l xml:id="idm140381327007536">diktaren är han, som</l>
+               <l xml:id="idm140381327007088">antingen är en dåre eller en vis,</l>
+               <l xml:id="idm140381327006624">han, som</l>
+               <l xml:id="idm140381327006208">varje timme väljer,</l>
+               <l xml:id="idm140381327005760">om han vill leva eller</l>
+               <l xml:id="idm140381327005344">alltid ha varit död -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

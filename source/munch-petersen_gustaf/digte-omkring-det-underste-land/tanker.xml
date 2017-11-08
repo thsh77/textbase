@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>tanker</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>138</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid72193" decls="#biblid72193">
+            <head xml:id="idm140462578387664">tanker</head>
+            <lg xml:id="idm140462578387248">
+               <l xml:id="idm140462578386992">vi kører syv hundrede læs malm om dagen -</l>
+               <l xml:id="idm140462578386512">femoghalvfjerds meter under fjældet</l>
+               <l xml:id="idm140462578386032">trækker vi tipvogne gennem ælte og minestank -</l>
+               <l xml:id="idm140462578385536">imens glæder vi os til flæsket,</l>
+               <l xml:id="idm140462578385072">vi skal have om seks timer,</l>
+               <l xml:id="idm140462578384640">og vi tygger paa forbandet sejge tanker</l>
+               <l xml:id="idm140462578384208">om vore kvinder paa den anden side havet,</l>
+               <l xml:id="idm140462578383760">som vi ikke har set i et aar -</l>
+            </lg>
+            <lg xml:id="idm140462578383200">
+               <l xml:id="idm140462578382944">grundvandet plasker fra skaktens loft</l>
+               <l xml:id="idm140462578382512">paa vore vandrette rygge,</l>
+               <l xml:id="idm140462578382080">og glødelamperne river flossede huller i taagen -</l>
+            </lg>
+            <pb n="138" xml:id="idm140462578381456" rend="missing"/>
+            <lg xml:id="idm140462578380960">
+               <l xml:id="idm140462578380704">luf ttryksborenes larm hakker vore ord til ubrugelige stumper</l>
+               <l xml:id="idm140462578380240">og sprængskud faar fjældet til at sukke</l>
+               <l xml:id="idm140462578379760">og tindingerne til at værke -</l>
+            </lg>
+            <lg xml:id="idm140462578379168">
+               <l xml:id="idm140462578378912">(vore kvinder paa den anden side havet . . .)</l>
+               <l xml:id="idm140462578378464">vi tænker paa alt det, vi kan give dem,</l>
+               <l xml:id="idm140462578377984">naar vi har kørt syvhundrede læs malm om dagen i et aar -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

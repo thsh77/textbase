@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>fienden</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>97</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid67075" decls="#biblid67075">
+            <head xml:id="idm140381327189728">fienden</head>
+            <lg xml:id="idm140381327189312">
+               <l xml:id="idm140381327189056">bara segern och vilan äro gemensamma, </l>
+               <l xml:id="idm140381327188576">det finns inga gemensamma strider, </l>
+               <l xml:id="idm140381327188144">alla strider äro f järran från vilan, </l>
+               <l xml:id="idm140381327187664">alla strider ha bara en fiende, </l>
+               <l xml:id="idm140381327187232">alla strider brytas i mörker, </l>
+               <l xml:id="idm140381327186768">där ingen ser, bara slår</l>
+               <pb n="97" xml:id="idm140381327186320" rend="missing"/>
+               <l xml:id="idm140381327185776">fienden -</l>
+               <l xml:id="idm140381327185360">låt oss dela</l>
+               <l xml:id="idm140381327184928">vilans och fröjdens längtan,</l>
+               <l xml:id="idm140381327184464">striden måste dansas i mörkret,</l>
+               <l xml:id="idm140381327184000">ensam med allas fiende -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

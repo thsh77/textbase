@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>rids</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid69181" decls="#biblid69181">
+            <head xml:id="idm140381326895744">rids</head>
+            <lg xml:id="idm140381326895328">
+               <l xml:id="idm140381326895072">viben skriger </l>
+               <l xml:id="idm140381326894656">en cirkel sort </l>
+               <l xml:id="idm140381326894240">skriger en kurve hvid </l>
+               <l xml:id="idm140381326893824">i luften -</l>
+               <l xml:id="idm140381326893408">saltengen drejer sig </l>
+               <l xml:id="idm140381326892992">grøn-graa vaad </l>
+               <l xml:id="idm140381326892560">med et lukket æg </l>
+               <l xml:id="idm140381326892128">i midten -</l>
+            </lg>
+            <lg xml:id="idm140381326891584">
+               <l xml:id="idm140381326891328">havet glider rødmende</l>
+               <l xml:id="idm140381326890880">ind i solens ild,</l>
+               <l xml:id="idm140381326890464">aften aander salt</l>
+               <l xml:id="idm140381326890048">mod morgens vind -</l>
+               <l xml:id="idm140381326889632">en maage forsvinder i sløret sus,</l>
+               <l xml:id="idm140381326889168">fiskeren vaagner til dag -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

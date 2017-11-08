@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>song</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid63012" decls="#biblid63012">
+            <head xml:id="idm140381327720848">song</head>
+            <lg xml:id="idm140381327720432">
+               <l xml:id="idm140381327720176">I have no need of women,</l>
+               <l xml:id="idm140381327719744">why should I</l>
+               <l xml:id="idm140381327719328">why should you -?</l>
+               <l xml:id="idm140381327718912">I have no need of men,</l>
+               <l xml:id="idm140381327718496">why should I</l>
+               <l xml:id="idm140381327718080">why should you -?</l>
+               <l xml:id="idm140381327717664">- sometimes I want to love,</l>
+               <l xml:id="idm140381327717232">then I set off</l>
+               <l xml:id="idm140381327716816">far away, or not far,</l>
+               <l xml:id="idm140381327716400">for where love is -</l>
+               <l xml:id="idm140381327715984">why should I</l>
+               <l xml:id="idm140381327715568">why should you -?</l>
+               <l xml:id="idm140381327715152">it is fine to seek what you want,</l>
+               <l xml:id="idm140381327714720">fine to wander far or not far,</l>
+               <l xml:id="idm140381327714288">to seek what you want,</l>
+               <l xml:id="idm140381327713872">it is fine to be always proud -</l>
+               <l xml:id="idm140381327713440">why should I</l>
+               <l xml:id="idm140381327713024">why should you -?</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

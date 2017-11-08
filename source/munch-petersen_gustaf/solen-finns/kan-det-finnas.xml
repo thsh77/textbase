@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>kan det finnas</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid66800" decls="#biblid66800">
+            <head xml:id="idm140381327226288">kan det finnas</head>
+            <lg xml:id="idm140381327225872">
+               <l xml:id="idm140381327225616">kan det finnas en kvinna,</l>
+               <l xml:id="idm140381327225184">som är min mor,</l>
+               <l xml:id="idm140381327224752">det måste vara en stor kvinna,</l>
+               <l xml:id="idm140381327224288">att hålla mig fast vid sin barm,</l>
+               <l xml:id="idm140381327223824">det måste vara en stor kvinna,</l>
+               <l xml:id="idm140381327223360">att hålla mitt slut
+	  <ref target="#kan-det-finnas-1" xml:id="idm140381327223040">lugnt</ref>
+                  <note xml:id="kan-det-finnas-1" anchored="true">
+                     <p xml:id="idm140381327221520">roligt</p>
+                  </note>,
+	  </l>
+               <l xml:id="idm140381327220944">så att icke mitt slut ska skrika</l>
+               <l xml:id="idm140381327220480">dödens hat mot hennes
+	  <ref target="#kan-det-finnas-2" xml:id="idm140381327220160">mjuka</ref>
+                  <note xml:id="kan-det-finnas-2" anchored="true">
+                     <p xml:id="idm140381327218592">bløde</p>
+                  </note>
+	  bröst -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

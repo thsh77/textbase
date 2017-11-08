@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>tja-</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>137</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid72067" decls="#biblid72067">
+            <head xml:id="idm140462578404080">tja-</head>
+            <lg xml:id="idm140462578403664">
+               <l xml:id="idm140462578403408">en dag fandt vi os</l>
+               <l xml:id="idm140462578402992">en graadighed,</l>
+               <l xml:id="idm140462578402576">et begær efter ny kraft,</l>
+               <l xml:id="idm140462578402128">som intet af det, vi kendte,</l>
+               <l xml:id="idm140462578401696">kunde mætte -</l>
+            </lg>
+            <lg xml:id="idm140462578401136">
+               <l xml:id="idm140462578400880">da blev for nogle af os</l>
+               <l xml:id="idm140462578400464">arbejdet meningsløst</l>
+               <pb n="137" xml:id="idm140462578400016" rend="missing"/>
+               <l xml:id="idm140462578399520">og skønheden dum -</l>
+               <l xml:id="idm140462578399088">meget slog vi i stykker -</l>
+               <l xml:id="idm140462578398656">mere for at høre klirren</l>
+               <l xml:id="idm140462578398208">og for at mærke</l>
+               <l xml:id="idm140462578397776">den sviende smærte fra smaa saar -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

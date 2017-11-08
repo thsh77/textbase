@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>längtan</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>98</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid67183" decls="#biblid67183">
+            <head xml:id="idm140381327175296">längtan</head>
+            <lg xml:id="idm140381327174880">
+               <l xml:id="idm140381327174624">grym är min trötthet,</l>
+               <l xml:id="idm140381327174176">min hopplöshet hungrar blod,</l>
+               <l xml:id="idm140381327173712">min kärlek finns icke,</l>
+               <l xml:id="idm140381327173264">mina händer ha blivit fina och kalla</l>
+               <l xml:id="idm140381327172784">som ormar -</l>
+            </lg>
+            <lg xml:id="idm140381327172240">
+               <l xml:id="idm140381327171984">men bittert redo är jag </l>
+               <l xml:id="idm140381327171536">att som en tigerhona skydda </l>
+               <l xml:id="idm140381327171104">livets första blomma - </l>
+               <l xml:id="idm140381327170656">blind är min stolthet, </l>
+               <l xml:id="idm140381327170208">dödande min tystnad, </l>
+               <l xml:id="idm140381327169760">hopplöst redo är jag </l>
+               <l xml:id="idm140381327169312">varje timme -</l>
+            </lg>
+            <pb n="98" xml:id="idm140381327168768" rend="missing"/>
+         </div>
+      </body>
+   </text>
+</TEI>

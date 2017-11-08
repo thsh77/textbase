@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>aften</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid80368" decls="#biblid80368">
+            <head xml:id="idm140462577367328">aften</head>
+            <lg xml:id="idm140462577366912">
+               <l xml:id="idm140462577366656">fremmed vind spredte</l>
+               <l xml:id="idm140462577366240">erindrings aske -</l>
+               <l xml:id="idm140462577365824">det er ild: at brænde -</l>
+               <l xml:id="idm140462577365376">ild skal vogtes hellig -</l>
+               <l xml:id="idm140462577364944">aske kvæler -</l>
+            </lg>
+            <lg xml:id="idm140462577364384">
+               <l xml:id="idm140462577364128">aftenvind sejler</l>
+               <l xml:id="idm140462577363712">med tegn paa sejlet -</l>
+               <l xml:id="idm140462577363296">ren ild brænder gud i dig -</l>
+               <l xml:id="idm140462577362832">og fortærer alt -</l>
+               <l xml:id="idm140462577362400">aske dømmer -</l>
+            </lg>
+            <lg xml:id="idm140462577361840">
+               <l xml:id="idm140462577361584">vind sover i maanens øje -</l>
+               <l xml:id="idm140462577361136">intet er at ønske -</l>
+               <l xml:id="idm140462577360688">meget er at faa -</l>
+               <l xml:id="idm140462577360272">gud rinder bort i græsset</l>
+               <l xml:id="idm140462577359824">tryg -</l>
+            </lg>
+            <lg xml:id="idm140462577359280">
+               <l xml:id="idm140462577359024">duggens snegl læspede saligt:</l>
+               <l xml:id="idm140462577358560">søgeren gaar vild</l>
+               <l xml:id="idm140462577358128">kilden finder en -</l>
+               <l xml:id="idm140462577357712">- sol sukker i min sko -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

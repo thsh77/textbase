@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>nat</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid69600" decls="#biblid69600">
+            <head xml:id="idm140381326840400">nat</head>
+            <lg xml:id="idm140381326840016">
+               <l xml:id="idm140381326839760">stille regn falder</l>
+               <l xml:id="idm140381326839344">gennem natten -</l>
+               <l xml:id="idm140381326838928">over den anden kyst</l>
+               <l xml:id="idm140381326838512">hviner stormen -</l>
+               <l xml:id="idm140381326838096">her falder regnen stille -</l>
+               <l xml:id="idm140381326837664">fra en graa himmel</l>
+               <l xml:id="idm140381326837248">usynlig i natten</l>
+               <l xml:id="idm140381326836832">falder regndraaberne</l>
+               <l xml:id="idm140381326836416">paa huse og marker og baade,</l>
+               <l xml:id="idm140381326835984">og paa klipperne ved havet -</l>
+               <l xml:id="idm140381326835552">og gør alting vaadt</l>
+               <l xml:id="idm140381326835104">i nattens stilhed -</l>
+               <l xml:id="idm140381326834688">fra den anden side øen</l>
+               <l xml:id="idm140381326834240">høres stormens hvinen</l>
+               <l xml:id="idm140381326833792">svagt -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>brødre</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>131</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid71237" decls="#biblid71237">
+            <head xml:id="idm140462578511024">brødre</head>
+            <lg xml:id="idm140462578510608">
+               <l xml:id="idm140462578510352">de vogtede geder</l>
+               <l xml:id="idm140462578509936">og jeg bredte mine fødder i solen</l>
+               <l xml:id="idm140462578509472">paa capo san andreae -</l>
+               <l xml:id="idm140462578509056">sortøjet, syvaarig og smilende</l>
+               <l xml:id="idm140462578508592">kom den ældste og tiggede cigaretter -</l>
+               <l xml:id="idm140462578508112">da han gik,</l>
+               <l xml:id="idm140462578507696">slog han tre saltomortaler</l>
+               <l xml:id="idm140462578507264">og lo -</l>
+               <l xml:id="idm140462578506848">brunkindet,  taarestribet</l>
+               <l xml:id="idm140462578506416">kom den lille</l>
+               <l xml:id="idm140462578506000">og lagde sukkende fem gule blomster</l>
+               <l xml:id="idm140462578505568">ved mine fødder</l>
+               <l xml:id="idm140462578505136">paa capo san andreae</l>
+            </lg>
+            <pb n="131" xml:id="idm140462578504592" rend="missing"/>
+         </div>
+      </body>
+   </text>
+</TEI>

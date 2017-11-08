@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>det nye menneske</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>18</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59548" decls="#biblid59548">
+            <head xml:id="idm140462580002784">det nye menneske</head>
+            <lg xml:id="idm140462580002368">
+               <l xml:id="idm140462580002112">sandhed -</l>
+               <l xml:id="idm140462580001696">gnistrende hjærner -</l>
+               <l xml:id="idm140462580001248">de glasklare, blottende tanker</l>
+               <l xml:id="idm140462580000816">dræber det dumme og sløve</l>
+               <l xml:id="idm140462580000368">med snærtende haan -</l>
+            </lg>
+            <lg xml:id="idm140462579999792">
+               <l xml:id="idm140462579999536">styrke -</l>
+               <l xml:id="idm140462579999120">dirrende muskler,</l>
+               <l xml:id="idm140462579998704">holdt spændt af en benhaard vilje,</l>
+               <pb n="18" xml:id="idm140462579998240" rend="missing"/>
+               <l xml:id="idm140462579997696">langt foran alle de andre -</l>
+               <l xml:id="idm140462579997264">hør, mængdens raab!</l>
+            </lg>
+            <lg xml:id="idm140462579996688">
+               <l xml:id="idm140462579996432">dans -</l>
+               <l xml:id="idm140462579996016">hvirvlende ben -</l>
+               <l xml:id="idm140462579995600">med slanke halse og hofter -</l>
+               <l xml:id="idm140462579995168">rytme, du hidser og dulmer -</l>
+               <l xml:id="idm140462579994736">se eros' smil!</l>
+            </lg>
+            <lg xml:id="idm140462579994192">
+               <l xml:id="idm140462579993936">gud -</l>
+               <l xml:id="idm140462579993520">blændende liv -</l>
+               <l xml:id="idm140462579993088">du nøgne og strenge men skønne,</l>
+               <l xml:id="idm140462579992624">lys gennem skørter og grums!</l>
+               <l xml:id="idm140462579992160">du giver os alt -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

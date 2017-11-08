@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>the ring</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>55</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid61508" decls="#biblid61508">
+            <head xml:id="idm140381327906992">the ring</head>
+            <lg xml:id="idm140381327906576">
+               <l xml:id="idm140381327906320">I have broken the floor </l>
+               <l xml:id="idm140381327905888">of my loneliness -</l>
+               <pb n="55" xml:id="idm140381327905472" rend="missing"/>
+               <l xml:id="idm140381327904928">I dig the claws of my soul </l>
+               <l xml:id="idm140381327904496">deep into the rock - </l>
+               <l xml:id="idm140381327904080">downwards, downwards -</l>
+            </lg>
+            <lg xml:id="idm140381327903536">
+               <l xml:id="idm140381327903280">the rock of darkness</l>
+               <l xml:id="idm140381327902864">has devoured me -</l>
+               <l xml:id="idm140381327902448">all directions</l>
+               <l xml:id="idm140381327902032">but one are torn asunder -</l>
+               <l xml:id="idm140381327901600">downwards, downwards -!</l>
+            </lg>
+            <lg xml:id="idm140381327901056">
+               <l xml:id="idm140381327900800">I have broken the floor</l>
+               <l xml:id="idm140381327900384">of my loneliness -</l>
+               <l xml:id="idm140381327899968">softly, softly</l>
+               <l xml:id="idm140381327899552">I sink through the mountains</l>
+               <l xml:id="idm140381327899120">of blindness -</l>
+            </lg>
+            <lg xml:id="idm140381327898576">
+               <l xml:id="idm140381327898320">soon</l>
+               <l xml:id="idm140381327897904">I shall eat the scent</l>
+               <l xml:id="idm140381327897488">of the hearts of my brothers -</l>
+               <l xml:id="idm140381327897056">soon my drop</l>
+               <l xml:id="idm140381327896640">can't be distinguished</l>
+               <l xml:id="idm140381327896224">from those of my brothers -</l>
+               <l xml:id="idm140381327895792">soon the river</l>
+               <l xml:id="idm140381327895376">will close the ring of future -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

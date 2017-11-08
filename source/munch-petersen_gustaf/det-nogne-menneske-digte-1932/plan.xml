@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>plan</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>28</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid61001" decls="#biblid61001">
+            <head xml:id="idm140462579820592">plan</head>
+            <lg xml:id="idm140462579820176">
+               <l xml:id="idm140462579819920">- jeg vil bygge mig et hus -</l>
+               <l xml:id="idm140462579819488">jeg alene -</l>
+               <l xml:id="idm140462579819072">jeg skal selv bære stenene -</l>
+               <l xml:id="idm140462579818608">sveden skal springe som hede kilder</l>
+               <l xml:id="idm140462579818176">fra mine skuldre -</l>
+               <l xml:id="idm140462579817760">aarerne skal ligge som tusindaarige træer</l>
+               <pb n="28" xml:id="idm140462579817280" rend="missing"/>
+               <l xml:id="idm140462579816736">paa min pande -</l>
+               <l xml:id="idm140462579816320">mit hus skal være stort og højt:</l>
+               <l xml:id="idm140462579815856">større og højere end alle andre -</l>
+            </lg>
+            <lg xml:id="idm140462579815264">
+               <l xml:id="idm140462579815008">- naar det engang staar færdigt:</l>
+               <l xml:id="idm140462579814544">tungt og mægtigt,</l>
+               <l xml:id="idm140462579814112">vil jeg sparke grundstenene bort</l>
+               <l xml:id="idm140462579813680">og lade etage efter etage rasle ned,</l>
+               <l xml:id="idm140462579813248">drønende som gletscherens hule skridt-</l>
+            </lg>
+            <lg xml:id="idm140462579812640">
+               <l xml:id="idm140462579812384">- tilsidst skal min latter</l>
+               <l xml:id="idm140462579811952">sætte sig som en lille nøgen unge</l>
+               <l xml:id="idm140462579811488">ovenpaa de rygende grusdynger</l>
+               <l xml:id="idm140462579811056">og grinende pille sig i næsen -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

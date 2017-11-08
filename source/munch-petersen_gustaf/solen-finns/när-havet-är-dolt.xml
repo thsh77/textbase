@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>när havet är dolt</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>86</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid65476" decls="#biblid65476">
+            <head xml:id="idm140381327400848">när havet är dolt</head>
+            <lg xml:id="idm140381327400416">
+               <l xml:id="idm140381327400160">när havet är dolt</l>
+               <l xml:id="idm140381327399728">bakom dödens lekstuguväggar,</l>
+               <l xml:id="idm140381327399264">när dimmorna leker på havet</l>
+               <l xml:id="idm140381327398800">dödslekarnas tusende påhitt,</l>
+               <l xml:id="idm140381327398336">hala med bortvänt ansikte din båt på stranden,</l>
+               <pb n="86" xml:id="idm140381327397840" rend="missing"/>
+               <l xml:id="idm140381327397344">göm i smyg ankaret i sand, </l>
+               <l xml:id="idm140381327396880">lägg stenar på ringen - </l>
+               <l xml:id="idm140381327396432">allt blir ruttet då, </l>
+               <l xml:id="idm140381327395984">stäng fönstren, bed icke, </l>
+               <l xml:id="idm140381327395520">varje mod blir synd -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>lisbeth</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid58423" decls="#biblid58423">
+            <head xml:id="idm140462580145952">lisbeth</head>
+            <lg xml:id="idm140462580145536">
+               <l xml:id="idm140462580145280">du er en lille jumbe</l>
+               <l xml:id="idm140462580144864">med bjælder paa -</l>
+               <l xml:id="idm140462580144432">muntert trippende hest -</l>
+               <l xml:id="idm140462580144000">solen glitrer</l>
+               <l xml:id="idm140462580143584">i kuskens røde fjæs.</l>
+               <l xml:id="idm140462580143136">hvide syrener -</l>
+               <l xml:id="idm140462580142720">glade mennesker</l>
+               <l xml:id="idm140462580142304">snadrer -</l>
+               <l xml:id="idm140462580141888">mænd og cigarer,</l>
+               <l xml:id="idm140462580141456">koner med kaffe</l>
+               <l xml:id="idm140462580141040">og thermosflasker -</l>
+               <l xml:id="idm140462580140624">søndag.</l>
+               <l xml:id="idm140462580140208">selvfølgeligt.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

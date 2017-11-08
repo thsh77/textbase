@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>generationer</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462580905040">
+                     <name xml:id="idm140462580904608">
+                        <surname xml:id="idm140462580904480">Munch-Petersen</surname>, 
+	    <forename xml:id="idm140462580904064">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462580903520">Samlede skrifter</title>
+                  <pubPlace xml:id="idm140462580903104">Valby</pubPlace>
+                  <publisher xml:id="idm140462580902688">Borgen</publisher>
+                  <date xml:id="idm140462580902224">1988</date>
+                  <biblScope>30</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid61280" decls="#biblid61280">
+            <head xml:id="idm140462579783536">generationer</head>
+            <lg xml:id="idm140462579783120">
+               <l xml:id="idm140462579782864">ordene rakte sig</l>
+               <l xml:id="idm140462579782448">som beredvillige hænder imod os:</l>
+               <pb n="30" xml:id="idm140462579781984" rend="missing"/>
+               <l xml:id="idm140462579781488">vent</l>
+               <l xml:id="idm140462579781072">se, i er unge,</l>
+               <l xml:id="idm140462579780656">se jeres smalle skuldre,</l>
+               <l xml:id="idm140462579780224">jeres ufærdige træk -</l>
+               <l xml:id="idm140462579779776">se livet staar undseeligt</l>
+               <l xml:id="idm140462579779344">som en fremmed blandt jer -</l>
+               <l xml:id="idm140462579778912">hør jeres tankers hurtige skridt,</l>
+               <l xml:id="idm140462579778448">naar de flygter for hinanden,</l>
+               <l xml:id="idm140462579778016">og vent -</l>
+               <l xml:id="idm140462579777600">lader i nu jeres ord</l>
+               <l xml:id="idm140462579777184">storme ud over verden,</l>
+               <l xml:id="idm140462579776768">for at splitte menneskenes ro,</l>
+               <l xml:id="idm140462579776336">i morgen vil i forgæves lokke dem tilbage-</l>
+            </lg>
+            <lg xml:id="idm140462579775728">
+               <l xml:id="idm140462579775472">vi tvivlede -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>wind</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>13</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid54938" decls="#biblid54938">
+            <head xml:id="idm140381328689168">wind</head>
+            <lg xml:id="idm140381328688752">
+               <l xml:id="idm140381328688496">my love is the merciless killer -</l>
+               <l xml:id="idm140381328688064">my love is sailing in blood -</l>
+               <l xml:id="idm140381328687632">my love can only subdue -</l>
+               <l xml:id="idm140381328687200">my love can't like the subdued -</l>
+               <l xml:id="idm140381328686768">my love doesn't want no more blood -</l>
+            </lg>
+            <lg xml:id="idm140381328686208">
+               <l xml:id="idm140381328685952">on the rock</l>
+               <l xml:id="idm140381328685536">the far-off eyes of the albatross</l>
+               <l xml:id="idm140381328685104">is waiting -</l>
+               <l xml:id="idm140381328684688">the reef</l>
+               <l xml:id="idm140381328684272">is not the last -</l>
+               <l xml:id="idm140381328683856">the goal is one only -</l>
+               <l xml:id="idm140381328683440">that is</l>
+               <l xml:id="idm140381328683024">what the wind must bring -</l>
+               <l xml:id="idm140381328682592">soon -</l>
+               <l xml:id="idm140381328682176">the wind only</l>
+               <l xml:id="idm140381328681760">is eternal -</l>
+            </lg>
+            <pb n="13" xml:id="idm140381328681216" rend="missing"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>nu</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>99</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid67350" decls="#biblid67350">
+            <head xml:id="idm140381327153136">nu</head>
+            <lg xml:id="idm140381327152752">
+               <l xml:id="idm140381327152496">dödens syror äger alla rikedomar -,</l>
+               <l xml:id="idm140381327152016">gråa stenen har blivit liv -,</l>
+               <l xml:id="idm140381327151552">vanvettet är sanningens hopp -</l>
+               <l xml:id="idm140381327151088">alla rikedomar har blivit billiga -</l>
+               <l xml:id="idm140381327150656">blodets fattigdom är</l>
+               <l xml:id="idm140381327150208">diamanten, som skär sten i skivor åt solens käftar -,</l>
+               <pb n="99" xml:id="idm140381327149696" rend="missing"/>
+               <l xml:id="idm140381327149200">blodets sol törstar vanvett </l>
+               <l xml:id="idm140381327148736">och kräkes rikedom -, </l>
+               <l xml:id="idm140381327148288">gråa stenen har blivit liv -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

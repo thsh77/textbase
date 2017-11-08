@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>the dawn is grey over the sea</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope>56</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid61613" decls="#biblid61613">
+            <head xml:id="idm140381327893728">the dawn is grey over the sea</head>
+            <lg xml:id="idm140381327893296">
+               <l xml:id="idm140381327893040">my race is as old</l>
+               <l xml:id="idm140381327892624">as the earth,</l>
+               <l xml:id="idm140381327892208">and my race is as rich -</l>
+               <l xml:id="idm140381327891776">but I</l>
+               <l xml:id="idm140381327891360">was born young,</l>
+               <l xml:id="idm140381327890944">my parents I couldn't find</l>
+               <l xml:id="idm140381327890512">and my kingdom neither -</l>
+               <l xml:id="idm140381327890080">my servants will not obey me,</l>
+               <l xml:id="idm140381327889648">and the women around me I scorn -</l>
+            </lg>
+            <pb n="56" xml:id="idm140381327889088" rend="missing"/>
+            <lg xml:id="idm140381327888544">
+               <l xml:id="idm140381327888288">am I the last</l>
+               <l xml:id="idm140381327887872">cry of a drowning wave,</l>
+               <l xml:id="idm140381327887456">or am I the fresh-born foam</l>
+               <l xml:id="idm140381327887024">of the first approaching breakers</l>
+               <l xml:id="idm140381327886592">along an unknown shore -?</l>
+            </lg>
+            <lg xml:id="idm140381327886032">
+               <l xml:id="idm140381327885776">the patience of my pride </l>
+               <l xml:id="idm140381327885344">has no limits - </l>
+               <l xml:id="idm140381327884928">but the eye of my maledom </l>
+               <l xml:id="idm140381327884496">is blind -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>song of the council</title>
+            <author>Munch-Petersen,
+                            Gustaf</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Society for Danish Language and Literature</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140381329052672">
+                     <name xml:id="idm140381329052240">
+                        <surname xml:id="idm140381329052112">Munch-Petersen</surname>,
+	  <forename xml:id="idm140381329051664">Gustaf</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140381329051120">Samlede skrifter II</title>
+                  <pubPlace xml:id="idm140381329050704">Valby</pubPlace>
+                  <publisher xml:id="idm140381329050288">Borgen</publisher>
+                  <date xml:id="idm140381329049824">1988</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62625" decls="#biblid62625">
+            <head xml:id="idm140381327769872">song of the council</head>
+            <lg xml:id="idm140381327769456">
+               <l xml:id="idm140381327769200">the name of our</l>
+               <l xml:id="idm140381327768784">wisdom is wine and dance</l>
+               <l xml:id="idm140381327768352">and silence -</l>
+               <l xml:id="idm140381327767936">the name of the great hunger</l>
+               <l xml:id="idm140381327767504">is the same -</l>
+               <l xml:id="idm140381327767088">the goddess of wisdom</l>
+               <l xml:id="idm140381327766672">is always alone,</l>
+               <l xml:id="idm140381327766256">and always drunk</l>
+               <l xml:id="idm140381327765840">and always she feels</l>
+               <l xml:id="idm140381327765424">the far-off rhythm of the unknown</l>
+               <l xml:id="idm140381327764992">teasing her pride, binding</l>
+               <l xml:id="idm140381327764560">her tongue, releasing</l>
+               <l xml:id="idm140381327764144">the voices of her listening blood -</l>
+               <l xml:id="idm140381327763712">we'll protect her aloneness</l>
+               <l xml:id="idm140381327763280">and shield her silence,</l>
+               <l xml:id="idm140381327762864">her words do creep strange ways -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
