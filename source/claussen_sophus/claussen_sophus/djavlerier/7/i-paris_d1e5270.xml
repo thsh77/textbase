@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I PARIS</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139945512259712">
+                     <name xml:id="idm139945512259456">
+                        <surname xml:id="idm139945512259328">Claussen</surname>, <forename xml:id="idm139945512258864">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139945512258576">Sophus Claussens lyrik</title>
+                  <title xml:id="idm139945512258288">Bd. 3: Djævlerier</title>
+                  <pubPlace xml:id="idm139945512257984">[København]</pubPlace>
+                  <publisher xml:id="idm139945512257520">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm139945512257152">1982-</date>
+                  <biblScope>123</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid66261" decls="#biblid66261">
+            <head xml:id="idm139945510733984">
+               <hi rend="italics" xml:id="idm139945510733728">I PARIS</hi>
+            </head>
+            <lg xml:id="idm139945510732912">
+               <l xml:id="idm139945510732656">Hun var af de Kvinder,</l>
+               <l xml:id="idm139945510732240">hvem ukendte Kræfter blev givet.</l>
+               <l xml:id="idm139945510731776">Fyrstinder, der rejser</l>
+               <l xml:id="idm139945510731360">incognito ude i Livet ...</l>
+            </lg>
+            <lg xml:id="idm139945510730800">
+               <l xml:id="idm139945510730544">Som født med et Scepter</l>
+               <l xml:id="idm139945510730096">hun hersked bekvemmest foruden;</l>
+               <l xml:id="idm139945510729664">hun havde den Vane</l>
+               <l xml:id="idm139945510729248">at optræde uindbuden.</l>
+            </lg>
+            <lg xml:id="idm139945510728672">
+               <l xml:id="idm139945510728416">Alene med Blikket</l>
+               <l xml:id="idm139945510728000">betvang hun to Gadebetjente,</l>
+               <l xml:id="idm139945510727568">som kaldtes til Hjælp</l>
+               <l xml:id="idm139945510727120">mod den trodsige Ubekendte.</l>
+            </lg>
+            <lg xml:id="idm139945510726560">
+               <l xml:id="idm139945510726304">Hun lignede Judith,</l>
+               <l xml:id="idm139945510725888">som just havde Perseren slagtet.</l>
+               <l xml:id="idm139945510725456">Det kribler saa dejligt</l>
+               <l xml:id="idm139945510725040">at blive saa dybt foragtet!</l>
+            </lg>
+            <lg xml:id="idm139945510724480">
+               <l xml:id="idm139945510724224">En knejsende Bronce</l>
+               <l xml:id="idm139945510723808">med haanende Blik <hi rend="italics" xml:id="idm139945510723520">(que diable!</hi>)</l>
+               <l xml:id="idm139945510722704">blodig som Spanjens</l>
+               <l xml:id="idm139945510722288">og Maurernes grummeste Fabel.</l>
+            </lg>
+            <lg xml:id="idm139945510721728">
+               <l xml:id="idm139945510721472">Med Øjenlaage</l>
+               <l xml:id="idm139945510721040">saa tunge og svulne af Flamme</l>
+               <l xml:id="idm139945510720608">og haanlige Skuldre</l>
+               <l xml:id="idm139945510720192">som sprungne af kongelig Stamme.</l>
+            </lg>
+            <pb n="123" xml:id="s123" facs="adl/claussen/claussen05/claussen5123"/>
+            <lg xml:id="idm139945510718336">
+               <l xml:id="idm139945510718080">Hun havde den Skønhed,</l>
+               <l xml:id="idm139945510717632">som Intet i Verden forsoner.</l>
+               <l xml:id="idm139945510717200">Hvert Ansigt bær' Budskab</l>
+               <l xml:id="idm139945510716752">om kommende Revolutioner.</l>
+            </lg>
+            <lg xml:id="idm139945510716192">
+               <l xml:id="idm139945510715936">Hun tegned med Fingren</l>
+               <l xml:id="idm139945510715520">Sandhedens Linjer i Sporet</l>
+               <l xml:id="idm139945510715088">af Vinen, som randt</l>
+               <l xml:id="idm139945510714672">fra de væltede Glas over Bordet.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

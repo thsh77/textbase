@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bryllupper og Fester
+(Nopces &amp; Festins)</title>
+            <author>Claussen,
+                          Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140218345270288">
+                     <name xml:id="idm140218345270032">
+                        <surname xml:id="idm140218345269904">Claussen</surname>, <forename xml:id="idm140218345269440">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140218345269152">Antonius i Paris</title>
+                  <pubPlace xml:id="idm140218345268864">[København]</pubPlace>
+                  <pubPlace xml:id="idm140218345268400">[Valby]</pubPlace>
+                  <pubPlace xml:id="idm140218345267984">[Ballerup]</pubPlace>
+                  <publisher xml:id="idm140218345267520">Det Danske Sprog- og Litteraturselskab</publisher>
+                  <publisher xml:id="idm140218345267216">Borgen</publisher>
+                  <publisher xml:id="idm140218345266928">[i samarbejde med Nyt Dansk Litteraturselskab]</publisher>
+                  <date xml:id="idm140218345266560">cop. 1990</date>
+                  <biblScope>34</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="idm140218344957936">
+            <head xml:id="idm140218344957680">Bryllupper og Fester<lb xml:id="idm140218344957392"/>
+(<hi rend="italics" xml:id="idm140218344957136">Nopces &amp; Festins</hi>)</head>
+            <lg xml:id="idm140218344956320">
+               <l xml:id="idm140218344956064">Det er ej sært, at Fryne (fin af Bryst),</l>
+               <l xml:id="idm140218344955584">som elsker og har Hænder, kan omarme ...</l>
+               <l xml:id="idm140218344955104">men Violinens Skød af Dyretarme</l>
+               <l xml:id="idm140218344954640">kan sønderrive mig med mere Lyst...</l>
+            </lg>
+            <lg xml:id="idm140218344954032">
+               <l xml:id="idm140218344953776">Ej sært, jeg drømte Festen om igen</l>
+               <l xml:id="idm140218344953296">rig som en Guddom bag min Sengs Gardiner ...</l>
+               <l xml:id="idm140218344952848">men at i Morgnens Festkronik en Pen</l>
+               <l xml:id="idm140218344952416">tonede mer end Nattens Violiner ...</l>
+            </lg>
+            <lg xml:id="idm140218344951856">
+               <l xml:id="idm140218344951600">Det er ej sært, at Ords og Toners Glød,</l>
+               <l xml:id="idm140218344951120">Visdom nær Daarskabs kunstfuldkomne Skød,</l>
+               <l xml:id="idm140218344950640">gør ør ... men at en sortklædt Fe med hvide</l>
+            </lg>
+            <lg xml:id="idm140218344950016">
+               <l xml:id="idm140218344949760">smaa, kyske Borter har min Verden gjort</l>
+               <l xml:id="idm140218344949328">til idel Sort-paa-Hvidt og Hvidt-paa-Sort...</l>
+               <l xml:id="idm140218344948880">(i disse smalle Borter gad jeg bide!)</l>
+            </lg>
+            <pb n="34"
+                facs="adl/claussen/claussen1/claussen1034"
+                xml:id="idm140218344948320"/>
+         </div>
+      </body>
+   </text>
+</TEI>

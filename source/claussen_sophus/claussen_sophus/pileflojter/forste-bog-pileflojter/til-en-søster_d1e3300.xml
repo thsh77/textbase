@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til en Søster</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope>71</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid61441" decls="#biblid61441">
+            <head xml:id="idm140208213451632">
+               <hi rend="italics" xml:id="idm140208213451376">Til en Søster</hi>
+            </head>
+            <lg xml:id="idm140208213450544">
+               <l xml:id="idm140208213450288">Aa, Søster, du forstod, da jeg var Dreng,</l>
+               <l xml:id="idm140208213449808">forrædersk blidt og dog saa klog og stræng</l>
+               <pb n="71" xml:id="s71" facs="adl/claussen/claussen04/claussen4071"/>
+               <l xml:id="idm140208213448096">at tale min Vredagtighed til Rette,</l>
+               <l xml:id="idm140208213447664">min Sorg og Ve blot med et Blik at slette.</l>
+            </lg>
+            <lg xml:id="idm140208213447088">
+               <l xml:id="idm140208213446832">Da jeg blev større og det faldt mig ind,</l>
+               <l xml:id="idm140208213446352">jeg vilde mig en Trøst og Lykke finde</l>
+               <l xml:id="idm140208213445872">skabt i dit Billed og af samme Sind,</l>
+               <l xml:id="idm140208213445440">da blev du <hi rend="italics" xml:id="idm140208213445152">hendes</hi> ømmeste
+												Veninde.</l>
+            </lg>
+            <lg xml:id="idm140208213444128">
+               <l xml:id="idm140208213443872">Men i mit Liv gik mange Ting til agter,</l>
+               <l xml:id="idm140208213443440">jeg søgte mig med Manddomstrods at væbne,</l>
+               <l xml:id="idm140208213442960">og jeg blev uens med de stille Magter.</l>
+            </lg>
+            <lg xml:id="idm140208213442400">
+               <l xml:id="idm140208213442144">Jeg sidder i det fremmede Paris</l>
+               <l xml:id="idm140208213441712">og tømmer denne dunkle Vin til Pris</l>
+               <l xml:id="idm140208213441232">for dine dunkle Øjnes Indskrift: <hi rend="italics" xml:id="idm140208213440896">Skæbne</hi>.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

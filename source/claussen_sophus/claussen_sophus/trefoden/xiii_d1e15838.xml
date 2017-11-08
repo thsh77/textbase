@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>XIII</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope>224</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="idm140208210289008"><!-- -->
+            <head xml:id="idm140208210288496">
+               <hi rend="italics" xml:id="idm140208210288240">XIII</hi>
+            </head>
+            <lg xml:id="idm140208210287488">
+               <l xml:id="idm140208210287232">En stakkels forhexet Pige</l>
+               <l xml:id="idm140208210286848">er Dronning i dette Rige.</l>
+               <l xml:id="idm140208210286464">Hvem trækker Troldtøsen lige?</l>
+            </lg>
+            <lg xml:id="idm140208210285872">
+               <l xml:id="idm140208210285616">Jeg føler mig noget forlegen.</l>
+               <l xml:id="idm140208210285152">Jeg elsker et ukogt Ord</l>
+               <l xml:id="idm140208210284768">som Ret ved et rigeligt Bord.</l>
+            </lg>
+            <lg xml:id="idm140208210284256">
+               <l xml:id="idm140208210284000">Jeg skræmmes ej mindste Spor</l>
+               <l xml:id="idm140208210283536">ved legemlige Fagter,</l>
+               <l xml:id="idm140208210283152">der røber, hvad Musen magter.</l>
+            </lg>
+            <lg xml:id="idm140208210282560">
+               <l xml:id="idm140208210282304">Jeg dømmer hende end ikke</l>
+               <l xml:id="idm140208210281856">for blottede Legemsdele,</l>
+               <l xml:id="idm140208210281472">naar Blottelsen tjener det Hele.</l>
+            </lg>
+            <lg xml:id="idm140208210280960">
+               <l xml:id="idm140208210280704">Men Muserne nu, de ager</l>
+               <l xml:id="idm140208210280320">fra Bal i aabne Drosker</l>
+               <l xml:id="idm140208210279936">og bruger aldrig Galosker.</l>
+            </lg>
+            <lg xml:id="idm140208210279424">
+               <l xml:id="idm140208210279168">Jeg havde en yngre Tante,</l>
+               <l xml:id="idm140208210278784">som blev af at blotte og blotte</l>
+               <l xml:id="idm140208210278400">en ældre forkølet Rotte ...</l>
+            </lg>
+            <lg xml:id="idm140208210277808">
+               <l xml:id="idm140208210277552">I Fald man blotter en Slange,</l>
+               <l xml:id="idm140208210277168">da spyr den Edder og Gift.</l>
+               <l xml:id="idm140208210276784">Gudindens Harm blev til Sange.</l>
+            </lg>
+            <pb n="224" xml:id="s224" facs="adl/claussen/claussen04/claussen4224"/>
+            <lg xml:id="idm140208210275168">
+               <l xml:id="idm140208210274912">Hun sang: "Mine Fødder og Øjne</l>
+               <l xml:id="idm140208210274448">har faaet hver sin Moral</l>
+               <l xml:id="idm140208210274064">og tror ej hinandens Løgne."</l>
+            </lg>
+            <lg xml:id="idm140208210273472">
+               <l xml:id="idm140208210273216">Hun lo: "Jeg er gal og defekt.</l>
+               <l xml:id="idm140208210272832">Jeg lystrer, som tyve Aars Fjanter,</l>
+               <l xml:id="idm140208210272448">en Flok af uenige Tanter."</l>
+            </lg>
+            <lg xml:id="idm140208210271936">
+               <l xml:id="idm140208210271680">Hun dansed og lo: "Højstærede,</l>
+               <l xml:id="idm140208210271216">den danske Muse er gal</l>
+               <l xml:id="idm140208210270832">og vil blive ved med at være det."</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

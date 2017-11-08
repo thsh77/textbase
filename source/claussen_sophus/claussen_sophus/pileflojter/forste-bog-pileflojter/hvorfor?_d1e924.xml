@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HVORFOR?</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid56015" decls="#biblid56015">
+            <head xml:id="idm140208214128256">
+               <hi rend="italics" xml:id="idm140208214128000">HVORFOR?</hi>
+            </head>
+            <lg xml:id="idm140208214127184">
+               <l xml:id="idm140208214126928">"Men Gud dog, Henrik!" sagde Henriette</l>
+               <l xml:id="idm140208214126496">og smilte. Hvorfor sagde hun: "Men Gud
+										dog!"?</l>
+               <l xml:id="idm140208214126048">Han tog et Kys. Hun gav ham det med Rette.</l>
+               <l xml:id="idm140208214125600">Der findes dumme Pigebørn, som flæber,</l>
+               <l xml:id="idm140208214125120">imens de følger Kysselystens Bud dog.</l>
+               <l xml:id="idm140208214124640">Hun tog hans friske Kys med friske Læber.</l>
+               <l xml:id="idm140208214124160">"Men Gud dog, Henrik," sagde Henriette</l>
+               <l xml:id="idm140208214123728">og smilte ... <hi rend="italics" xml:id="idm140208214123440">Hvorfor</hi> sagde hun:
+										"Men Gud dog!"</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

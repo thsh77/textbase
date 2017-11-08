@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pariserinde</title>
+            <author>Claussen,
+                          Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140218345270288">
+                     <name xml:id="idm140218345270032">
+                        <surname xml:id="idm140218345269904">Claussen</surname>, <forename xml:id="idm140218345269440">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140218345269152">Antonius i Paris</title>
+                  <pubPlace xml:id="idm140218345268864">[København]</pubPlace>
+                  <pubPlace xml:id="idm140218345268400">[Valby]</pubPlace>
+                  <pubPlace xml:id="idm140218345267984">[Ballerup]</pubPlace>
+                  <publisher xml:id="idm140218345267520">Det Danske Sprog- og Litteraturselskab</publisher>
+                  <publisher xml:id="idm140218345267216">Borgen</publisher>
+                  <publisher xml:id="idm140218345266928">[i samarbejde med Nyt Dansk Litteraturselskab]</publisher>
+                  <date xml:id="idm140218345266560">cop. 1990</date>
+                  <biblScope>49</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="idm140218344803808">
+            <head xml:id="idm140218344803552">Pariserinde</head>
+            <lg xml:id="idm140218344803136">
+               <l xml:id="idm140218344802880">Af Garderobe har hun ikke mer paa,</l>
+               <l xml:id="idm140218344802448">end Hudens Hvide taaler i et rødt</l>
+               <l xml:id="idm140218344801984">Livstykke af Flanel. Et Genskin, blødt,</l>
+               <l xml:id="idm140218344801504">af hendes sorte Øjne sværter alt, hun ser paa.</l>
+            </lg>
+            <lg xml:id="idm140218344800880">
+               <l xml:id="idm140218344800624">Hvert hendes Bryst har en saa opret Stilling</l>
+               <l xml:id="idm140218344800176">som for at maales med sin Søster-Tvilling</l>
+               <l xml:id="idm140218344799696">og dog et Fald, saa Skymulm mig ommørkner</l>
+               <l xml:id="idm140218344799216">og nærved Kana'ns Land forgaar min Sjæl i Ørkner.</l>
+            </lg>
+            <lg xml:id="idm140218344798576">
+               <l xml:id="idm140218344798320">Al Ting er fast. Men samle til et Hele</l>
+               <l xml:id="idm140218344797888">de mange kære, kendte Enkeltdele,</l>
+               <l xml:id="idm140218344797424">det er til sidst en meningsløs Bestilling.</l>
+            </lg>
+            <lg xml:id="idm140218344796816">
+               <l xml:id="idm140218344796560">Thi nøgen i en Haarvækst  - mørk og svær -</l>
+               <l xml:id="idm140218344796064">var denne Skabning vel en Trone værd</l>
+               <l xml:id="idm140218344795584">og anslaar kun sig selv til nogle Skilling.</l>
+            </lg>
+            <pb n="49"
+                facs="adl/claussen/claussen1/claussen1049"
+                xml:id="idm140218344795008"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>POETENS BØN PAA BJÆRGET</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope>100</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid64327" decls="#biblid64327">
+            <head xml:id="idm140208213086800">
+               <hi rend="italics" xml:id="idm140208213086544">POETENS BØN PAA BJÆRGET</hi>
+            </head>
+            <lg xml:id="idm140208213085696">
+               <l xml:id="idm140208213085440">Mens Pilgrimme knæled paa Rad</l>
+               <l xml:id="idm140208213084976">deroppe i Bjærgkirkens Hvide,</l>
+               <l xml:id="idm140208213084512">da trak han sig lidt til en Side,</l>
+               <l xml:id="idm140208213084080">den fattige Digter, og bad:</l>
+            </lg>
+            <lg xml:id="idm140208213083520">
+               <l xml:id="idm140208213083264">"Hermes, stormægtige GUD</l>
+               <l xml:id="idm140208213082816">for alle, som lyve og rane,</l>
+               <l xml:id="idm140208213082384">jeg ofrer dig Blodet af en Hane,</l>
+               <l xml:id="idm140208213081952">jeg skænker dig Nerven af en Stud.</l>
+            </lg>
+            <lg xml:id="idm140208213081360">
+               <l xml:id="idm140208213081104">"Giv mig det høje Parnas!</l>
+               <l xml:id="idm140208213080656">Lad min Aande lugte daarlig,</l>
+               <l xml:id="idm140208213080224">men gør mig løgnagtig alvorlig,</l>
+               <l xml:id="idm140208213079760">som det er GUDEN til Pas!</l>
+            </lg>
+            <lg xml:id="idm140208213079200">
+               <l xml:id="idm140208213078944">"Gør min frygtsomme Muse drægtig,</l>
+               <l xml:id="idm140208213078480">gør mig med Haar og Hud</l>
+               <l xml:id="idm140208213078032">skinhellig og andægtig,</l>
+               <l xml:id="idm140208213077584">som det behager GUD!</l>
+            </lg>
+            <lg xml:id="idm140208213077040">
+               <l xml:id="idm140208213076784">"Giv kun de Andre Talent,</l>
+               <l xml:id="idm140208213076352">men lær mig at sladre og lyve,</l>
+               <l xml:id="idm140208213075888">støt mig, du GUD for Tyve!</l>
+               <l xml:id="idm140208213075440">Jeg er en flittig Skribent.</l>
+            </lg>
+            <lg xml:id="idm140208213074880">
+               <l xml:id="idm140208213074624">"Jeg be'r dig desuden, GUD!</l>
+               <l xml:id="idm140208213074192">- thi ak Krapylet yngler -</l>
+               <l xml:id="idm140208213073760">blandt mine Naboslyngler</l>
+               <l xml:id="idm140208213073328">at slette de farligste ud,</l>
+            </lg>
+            <pb n="100" xml:id="s100" facs="adl/claussen/claussen04/claussen4100"/>
+            <lg xml:id="idm140208213071584">
+               <l xml:id="idm140208213071328">"at <hi rend="italics" xml:id="idm140208213071040">Bogen</hi> endnu ej
+												kold</l>
+               <l xml:id="idm140208213070176">sit næste Oplag nyder</l>
+               <l xml:id="idm140208213069728">og mine Løgnedyder</l>
+               <l xml:id="idm140208213069296">maa bære hundred Fold!"</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

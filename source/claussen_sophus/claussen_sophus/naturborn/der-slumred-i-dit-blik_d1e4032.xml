@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>DER SLUMRED I DIT BLIK...</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140012641173552">
+                     <name xml:id="idm140012641173296">
+                        <surname xml:id="idm140012641173168">Claussen</surname>, <forename xml:id="idm140012641172704">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140012641172416">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140012641172128">Bd. 1: Naturbørn</title>
+                  <pubPlace xml:id="idm140012641171824">[København]</pubPlace>
+                  <publisher xml:id="idm140012641171360">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140012641170992">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid63399" decls="#biblid63399">
+            <head xml:id="idm140012639961392">
+               <hi rend="italics" xml:id="idm140012639961264">DER SLUMRED I DIT BLIK</hi>...</head>
+            <lg xml:id="idm140012639960448">
+               <l xml:id="idm140012639960192">Der slumred i dit Blik, i Nat vi skiltes,</l>
+               <l xml:id="idm140012639959744">et sløret <hi rend="italics" xml:id="idm140012639959456">noget</hi>, som ej blev til noget.</l>
+               <l xml:id="idm140012639958592">- Græd for en Jomfrunat, hvis Skønhed spildtes!</l>
+            </lg>
+            <lg xml:id="idm140012639957968">
+               <l xml:id="idm140012639957712">Det er, som vilde du i Kys beruse dig.</l>
+               <l xml:id="idm140012639957280">Hvad vil du, Skat? - "Ja hvad skal jeg vel gøre?</l>
+               <l xml:id="idm140012639956784">... jeg ved ej, men jeg kunde ... kunde knuse dig."</l>
+            </lg>
+            <lg xml:id="idm140012639956208">
+               <l xml:id="idm140012639955952">Ja, du er Nonne, snehvidsløret Nonne,</l>
+               <l xml:id="idm140012639955472">et Himmelsuk er Mundens sagte Aande;</l>
+               <l xml:id="idm140012639955040">og <hi rend="italics" xml:id="idm140012639954784">jeg</hi> er Munk - men lider
+								Helvedvaande.</l>
+            </lg>
+            <lg xml:id="idm140012639953808">
+               <l xml:id="idm140012639953552">Nu skingrer alle Landets Sangerlærker</l>
+               <l xml:id="idm140012639953072">af sorgsort-vemodsvægtig Sjæleklemme,</l>
+               <l xml:id="idm140012639952592">mens bare jeg af jordisk Elskov værker.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

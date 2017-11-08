@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Den første Vandringsmand</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope>80</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62397" decls="#biblid62397">
+            <head xml:id="idm140208213328864">
+               <hi rend="italics" xml:id="idm140208213328608">Den første Vandringsmand</hi>
+            </head>
+            <lg xml:id="idm140208213327760">
+               <l xml:id="idm140208213327504">Tre Mile gik en Vandringsmand,</l>
+               <l xml:id="idm140208213327072">da kom han til en Have,</l>
+               <l xml:id="idm140208213326656">hvor grønne Snerleranker hang</l>
+               <l xml:id="idm140208213326192">om lave Gærdestave -</l>
+            </lg>
+            <lg xml:id="idm140208213325616">
+               <l xml:id="idm140208213325360">Hvor Sneglene krøb og Planterne løb</l>
+               <l xml:id="idm140208213324880">hver Time sine Tommer.</l>
+               <l xml:id="idm140208213324464">"Her bor som en Bedstemor mellem sin Humle</l>
+               <l xml:id="idm140208213324016">den gamle, forviltrede Sommer.</l>
+            </lg>
+            <lg xml:id="idm140208213323456">
+               <l xml:id="idm140208213323200">"Hun skænker - tænkte vor
+												Vandrer - vel</l>
+               <l xml:id="idm140208213322688">en Vandslurk fra Vippebrønden,</l>
+               <l xml:id="idm140208213322224">maaske et Krus Øl paa saa hed en Dag,</l>
+               <l xml:id="idm140208213321744">hvor Brygget slaar Spunset af Tønden.</l>
+            </lg>
+            <lg xml:id="idm140208213321136">
+               <l xml:id="idm140208213320880">"Kan hænde, bag hendes Bondeskørt,</l>
+               <l xml:id="idm140208213320400">vævet med gammeldags Lune,</l>
+               <l xml:id="idm140208213319952">en fin ung Datter vil smile mig til,</l>
+               <l xml:id="idm140208213319520">hvis Kind og Hænder er brune.</l>
+            </lg>
+            <lg xml:id="idm140208213318928">
+               <l xml:id="idm140208213318672">"Det bedste hænder det første Sted.</l>
+               <l xml:id="idm140208213318192">- Jorden er stor, skal det knibe.</l>
+               <l xml:id="idm140208213317760">Her synes mig godt, her dufter i Fred</l>
+               <l xml:id="idm140208213317328">den trøstende Røg fra min Pibe."</l>
+            </lg>
+            <lg xml:id="idm140208213316736">
+               <l xml:id="idm140208213316480">Over Gærdet skræved den Vandringsmand.</l>
+               <l xml:id="idm140208213316000">"Jeg gik tre lange Mile.</l>
+               <pb n="80" xml:id="s80" facs="adl/claussen/claussen04/claussen4080"/>
+               <l xml:id="idm140208213314352">Jeg længes efter en Middagsdrik</l>
+               <l xml:id="idm140208213313888">og efter min Middagshvile."</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

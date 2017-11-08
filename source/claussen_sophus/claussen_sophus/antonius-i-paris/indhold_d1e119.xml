@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Indhold</title>
+            <author>Claussen,
+                          Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140218345270288">
+                     <name xml:id="idm140218345270032">
+                        <surname xml:id="idm140218345269904">Claussen</surname>, <forename xml:id="idm140218345269440">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140218345269152">Antonius i Paris</title>
+                  <pubPlace xml:id="idm140218345268864">[København]</pubPlace>
+                  <pubPlace xml:id="idm140218345268400">[Valby]</pubPlace>
+                  <pubPlace xml:id="idm140218345267984">[Ballerup]</pubPlace>
+                  <publisher xml:id="idm140218345267520">Det Danske Sprog- og Litteraturselskab</publisher>
+                  <publisher xml:id="idm140218345267216">Borgen</publisher>
+                  <publisher xml:id="idm140218345266928">[i samarbejde med Nyt Dansk Litteraturselskab]</publisher>
+                  <date xml:id="idm140218345266560">cop. 1990</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="hoc" xml:id="idm140218345208480">
+            <head xml:id="idm140218345207984">Indhold</head>
+            <list type="simple" xml:id="idm140218345207568">
+               <item xml:id="idm140218345207040">Opvaagnen i den fremmede Stad .........................	13</item>
+               <item xml:id="idm140218345206576">Kogleriet i Boulogneskoven ............................	20</item>
+               <item xml:id="idm140218345206112">Obeliskerne, Palmen og Fyrretræet .......................	26</item>
+               <item xml:id="idm140218345205584">Den Nysgærrige......................................	34</item>
+               <item xml:id="idm140218345205072">Blødende Rose.......................................	41</item>
+               <item xml:id="idm140218345204560">Det Frankrig, som jeg søger .............................	49</item>
+               <item xml:id="idm140218345204032">Nyaars-Hymne   ......................................	59</item>
+               <item xml:id="idm140218345203568">Hyacinterne eller de smaa Tidsskrifter .....................	63</item>
+               <item xml:id="idm140218345203104">En Nat med Paul Verlaine ..............................	77</item>
+               <item xml:id="idm140218345202640">La Plumes syvende Banket ..............................	88</item>
+               <item xml:id="idm140218345202176">Efterskrift til Antonius' Optegnelser ......................	96</item>
+               <item xml:id="idm140218345201712">Quartier Latin   .......................................	101</item>
+               <item xml:id="idm140218345201248">De to Søstre paa Montmartre ............................	115</item>
+               <item xml:id="idm140218345200720">Antonius og Ladislas ...................................	129</item>
+            </list>
+            <trailer xml:id="idm140218345200128">
+               <hi rend="italics" xml:id="idm140218345199872">Se også side 369</hi>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

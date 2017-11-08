@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>DØGNDRØMME</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140012641173552">
+                     <name xml:id="idm140012641173296">
+                        <surname xml:id="idm140012641173168">Claussen</surname>, <forename xml:id="idm140012641172704">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140012641172416">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140012641172128">Bd. 1: Naturbørn</title>
+                  <pubPlace xml:id="idm140012641171824">[København]</pubPlace>
+                  <publisher xml:id="idm140012641171360">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140012641170992">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid57317" decls="#biblid57317">
+            <head xml:id="idm140012640715184">
+               <hi rend="italics" xml:id="idm140012640714928">DØGNDRØMME</hi>
+            </head>
+            <epigraph xml:id="idm140012640714048">
+               <cit xml:id="idm140012640713744">
+                  <q xml:id="idm140012640713488">
+                     <lg xml:id="idm140012640713232">
+                        <l xml:id="idm140012640712976">Und du, du Menschen-Schifflein dort,</l>
+                        <l xml:id="idm140012640712544">Fahr' immer, immer zu!</l>
+                     </lg>
+                  </q>
+               </cit>
+               <bibl xml:id="idm140012640711744">
+                  <hi rend="italics" xml:id="idm140012640711488">Goethe</hi>
+               </bibl>
+            </epigraph>
+            <lg xml:id="idm140012640710544">
+               <l xml:id="idm140012640710288">Hvad blev der tilbage, som Tiden randt,</l>
+               <l xml:id="idm140012640709856">som Luftslot-Buerne sprængtes og svandt?</l>
+            </lg>
+            <lg xml:id="idm140012640709248">
+               <l xml:id="idm140012640708992">
+                  <hi rend="italics" xml:id="idm140012640708864">Nu</hi> er det Vaar, mod det straalende blaa</l>
+               <l xml:id="idm140012640708032">gyldengrønt Træerne knoppede staa.</l>
+            </lg>
+            <lg xml:id="idm140012640707424">
+               <l xml:id="idm140012640707168">Lidt Hede, og <hi rend="italics" xml:id="idm140012640706880">nu</hi> hænger Bladene dødt;</l>
+               <l xml:id="idm140012640706032">snart skal de spragles med Efteraarsrødt.</l>
+            </lg>
+            <lg xml:id="idm140012640705424">
+               <l xml:id="idm140012640705168">- Sommer og Vinter, Høst og Vaar!</l>
+               <l xml:id="idm140012640704704">Kan Lykken fængsles - se Tiden gaar ...?</l>
+            </lg>
+            <lg xml:id="idm140012640704096">
+               <l xml:id="idm140012640703840">Hav, kun Hav, uden dvælende Trøst;</l>
+               <l xml:id="idm140012640703360">Døgndrømme, Døgndrømme, bring mig en Kyst!</l>
+            </lg>
+            <lg xml:id="idm140012640702736">
+               <l xml:id="idm140012640702480">Nej, borte er Drømme, borte er Dage.</l>
+               <l xml:id="idm140012640702000">Jeg kan ikke standse, maa stadig drage ...</l>
+            </lg>
+            <lg xml:id="idm140012640701424">
+               <l xml:id="idm140012640701168">Sus hen da, Bølger i Tidens Rum!</l>
+               <l xml:id="idm140012640700704">Jeg fanger Jer Pragt, mens I løses til Skum.</l>
+            </lg>
+            <trailer xml:id="idm140012640700080">
+               <date xml:id="idm140012640699824">
+                  <hi rend="italics" xml:id="idm140012640699568">6. Mai 1887</hi>
+               </date>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

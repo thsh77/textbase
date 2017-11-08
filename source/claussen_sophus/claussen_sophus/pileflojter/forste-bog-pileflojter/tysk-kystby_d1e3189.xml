@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tysk Kystby</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid61188" decls="#biblid61188">
+            <head xml:id="idm140208213484144">
+               <hi rend="italics" xml:id="idm140208213483888">Tysk Kystby</hi>
+            </head>
+            <lg xml:id="idm140208213483072">
+               <l xml:id="idm140208213482816">Nu larmer Østersøen. Flad - flad
+												- flad</l>
+               <l xml:id="idm140208213482304">er Bredden, hvor den rejser sine Rygge.</l>
+               <l xml:id="idm140208213481872">Jeg driver i den gamle Hansestad</l>
+               <l xml:id="idm140208213481440">og blæser Storm og Østersø et Stykke.</l>
+            </lg>
+            <lg xml:id="idm140208213480832">
+               <l xml:id="idm140208213480576">I Skumring bruser dette Saltvandsbad,</l>
+               <l xml:id="idm140208213480144">en Øredouche, hvor tør jeg kan mig dykke;</l>
+               <l xml:id="idm140208213479664">jeg tror paa hverken Havfru eller Nøkke,</l>
+               <l xml:id="idm140208213479184">men Havets Syner gør mig gudeglad.</l>
+            </lg>
+            <lg xml:id="idm140208213478592">
+               <l xml:id="idm140208213478336">Det er en Gang et Spil for fuldt Orkester.</l>
+               <l xml:id="idm140208213477888">Her gad jeg føre an som Tonemester</l>
+               <l xml:id="idm140208213477424">med Skumguirlander om min svungne Stav.</l>
+            </lg>
+            <lg xml:id="idm140208213476864">
+               <l xml:id="idm140208213476608">Men her er Søen høj og Kysten lav:</l>
+               <l xml:id="idm140208213476128">tag Jer i Agt, I andagtsløse Gæster,</l>
+               <l xml:id="idm140208213475648">som jeg i Naade bød til mine Fester.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

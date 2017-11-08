@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>AFTENSLOTTE</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid64209" decls="#biblid64209">
+            <head xml:id="idm140208213101440">
+               <hi rend="italics" xml:id="idm140208213101184">AFTENSLOTTE</hi>
+            </head>
+            <lg xml:id="idm140208213100368">
+               <l xml:id="idm140208213100112">Bjærgenes og Kystens</l>
+               <l xml:id="idm140208213099664">dæmrende Beaanding</l>
+               <l xml:id="idm140208213099232">bringer mine Tanker</l>
+               <l xml:id="idm140208213098816">til min Drømmedronning.</l>
+               <l xml:id="idm140208213098368">Aftenvinden blafrer</l>
+               <l xml:id="idm140208213097952">med min Kappes Pjalt,</l>
+               <l xml:id="idm140208213097536">Himmelblaaet vifter</l>
+               <l xml:id="idm140208213097120">sagte Havets Salt.</l>
+            </lg>
+            <lg xml:id="idm140208213096576">
+               <l xml:id="idm140208213096320">Hvor min Skønne bygger,</l>
+               <l xml:id="idm140208213095872">hvor min Dronning bor,</l>
+               <l xml:id="idm140208213095456">viser Aftnens Guldsand</l>
+               <l xml:id="idm140208213095040">hendes Fødders Spor.</l>
+               <l xml:id="idm140208213094592">Hendes Øjne gruble,</l>
+               <l xml:id="idm140208213094144">hendes Læber spotte,</l>
+               <l xml:id="idm140208213093696">Dronning i det aller-</l>
+               <l xml:id="idm140208213093280">luftigste af Slotte -</l>
+            </lg>
+            <lg xml:id="idm140208213092736">
+               <l xml:id="idm140208213092480">Evig risler Tidens</l>
+               <l xml:id="idm140208213092064">vedbendgrønne Urne.</l>
+               <l xml:id="idm140208213091616">Evig ung hun klæder</l>
+               <l xml:id="idm140208213091168">Trone og Kothurne.</l>
+               <l xml:id="idm140208213090752">Ofte har hun bedt mig</l>
+               <l xml:id="idm140208213090336">til sit rige Bord ...</l>
+               <l xml:id="idm140208213089920">I vort Bæger spejles</l>
+               <l xml:id="idm140208213089472">Hav og Luft og Jord.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

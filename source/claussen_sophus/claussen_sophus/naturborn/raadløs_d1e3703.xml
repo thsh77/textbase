@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>RAADLØS</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140012641173552">
+                     <name xml:id="idm140012641173296">
+                        <surname xml:id="idm140012641173168">Claussen</surname>, <forename xml:id="idm140012641172704">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140012641172416">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140012641172128">Bd. 1: Naturbørn</title>
+                  <pubPlace xml:id="idm140012641171824">[København]</pubPlace>
+                  <publisher xml:id="idm140012641171360">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140012641170992">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62656" decls="#biblid62656">
+            <head xml:id="idm140012640055120">
+               <hi rend="italics" xml:id="idm140012640054864">RAADLØS</hi>
+            </head>
+            <lg xml:id="idm140012640054048">
+               <l xml:id="idm140012640053792">Jeg tænkte paa hende den lange Dag.</l>
+               <l xml:id="idm140012640053312">I Dæmringens Stund</l>
+               <l xml:id="idm140012640052880">slog jeg Øjnene op</l>
+               <l xml:id="idm140012640052448">og lukked dem atter med sødt Behag</l>
+               <l xml:id="idm140012640051984">og tænkte paa hende i drømmende Blund.</l>
+            </lg>
+            <lg xml:id="idm140012640051376">
+               <l xml:id="idm140012640051120">Jeg tænkte paa hende den lange Dag</l>
+               <l xml:id="idm140012640050656">og havde ej Ro.</l>
+               <l xml:id="idm140012640050240">Der var Længsel, var Tvivl;</l>
+               <l xml:id="idm140012640049776">ti foran laa bølgende Taager, og bag</l>
+               <l xml:id="idm140012640049296">Erfaringens Dødsengel haanende lo.</l>
+            </lg>
+            <lg xml:id="idm140012640048704">
+               <l xml:id="idm140012640048448">Jeg skælver som Strandbredens svajende Siv</l>
+               <l xml:id="idm140012640047968">for Fortidens Spot</l>
+               <l xml:id="idm140012640047552">og for Fremtidens Angst,</l>
+               <l xml:id="idm140012640047120">til raadløs jeg knælende byder mit Liv -</l>
+               <l xml:id="idm140012640046640">"Aa hvis du, aa hvis du vil elske mig
+							blot!"</l>
+            </lg>
+            <trailer xml:id="idm140012640046064">
+               <date xml:id="idm140012640045808">
+                  <hi rend="italics" xml:id="idm140012640045552">27.7.86</hi>
+               </date>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

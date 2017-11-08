@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kunstner-Existens(Ved et Hus, jeg en Aften gik forbi i
+												Paris)</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62077" decls="#biblid62077">
+            <head xml:id="idm140208213370080">
+               <hi rend="italics" xml:id="idm140208213369952">Kunstner-Existens</hi>
+               <lb xml:id="idm140208213369392"/>
+               <hi rend="italics" xml:id="idm140208213369264">(Ved et Hus, jeg en Aften gik forbi i
+												Paris</hi>)</head>
+            <lg xml:id="idm140208213368416">
+               <l xml:id="idm140208213368160">Der paa de onde Urters Bulevard,</l>
+               <l xml:id="idm140208213367728">der grunder man sin Velstand i en Fart;</l>
+               <l xml:id="idm140208213367296">man holder Vogn og lader sig misunde</l>
+               <l xml:id="idm140208213366864">i et Palæ med Kvinder, Kunst og Hunde.</l>
+            </lg>
+            <lg xml:id="idm140208213366256">
+               <l xml:id="idm140208213366000">Man hæfter i sin Regnskabsbog et Folie,</l>
+               <l xml:id="idm140208213365520">hvor der kun staar om Børs og Baisse i Olie,</l>
+               <l xml:id="idm140208213365024">har Ungdom, Skønhed og til Tegn paa Standen</l>
+               <l xml:id="idm140208213364528">en let Skavank som Byron og som Fanden.</l>
+            </lg>
+            <lg xml:id="idm140208213363968">
+               <l xml:id="idm140208213363712">Der paa de onde Urters Bulevard</l>
+               <l xml:id="idm140208213363280">bor Skønhedsdyrkere af kostbar Art.</l>
+               <l xml:id="idm140208213362800">Og var jeg ikke én fra alle Kanter</l>
+            </lg>
+            <lg xml:id="idm140208213362208">
+               <l xml:id="idm140208213361952">udstødt, fordømt og redelig Poet,</l>
+               <l xml:id="idm140208213361488">hvis ej jeg var Diogenes, Profet -</l>
+               <l xml:id="idm140208213361056">der gad jeg bygge flot som Alexander.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

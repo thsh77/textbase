@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139945512259712">
+                     <name xml:id="idm139945512259456">
+                        <surname xml:id="idm139945512259328">Claussen</surname>, <forename xml:id="idm139945512258864">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139945512258576">Sophus Claussens lyrik</title>
+                  <title xml:id="idm139945512258288">Bd. 3: Djævlerier</title>
+                  <pubPlace xml:id="idm139945512257984">[København]</pubPlace>
+                  <publisher xml:id="idm139945512257520">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm139945512257152">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="idm139945511517888">
+            <opener xml:id="idm139945511517632">
+               <hi rend="italics" xml:id="idm139945511517376">Til Herman Bang</hi>
+            </opener>
+            <head xml:id="idm139945511516560">I</head>
+            <lg xml:id="idm139945511516176">
+               <l xml:id="idm139945511515920">Kan De huske den Dag i Parisi Platanernes Skygge,</l>
+               <l xml:id="idm139945511515472">da jeg hævded paa Trods: "Der er Mænd, som kan
+										undvære Lykke -"</l>
+            </lg>
+            <lg xml:id="idm139945511514784">
+               <l xml:id="idm139945511514528">Og De svared: "- men andre, som dør blot
+										af Mangel paa Lykke."</l>
+            </lg>
+            <lg xml:id="idm139945511513856">
+               <l xml:id="idm139945511513600">Jeg var ung, jeg jog Sorgerne bort med et Smil fra min
+										Nærhed,</l>
+               <l xml:id="idm139945511513056">og jeg fandt i det dæmpede Svar Deres "velkendte
+										Særhed".</l>
+            </lg>
+            <lg xml:id="idm139945511512384">
+               <l xml:id="idm139945511512128">Skønt jeg følte alt da - trods min Tryghed som
+										Hjemmefødning -</l>
+               <l xml:id="idm139945511511584">paa Grund af forskellig Slags Modgang en indre
+									Forblødning.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

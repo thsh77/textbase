@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MESSALINA</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140012641173552">
+                     <name xml:id="idm140012641173296">
+                        <surname xml:id="idm140012641173168">Claussen</surname>, <forename xml:id="idm140012641172704">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140012641172416">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140012641172128">Bd. 1: Naturbørn</title>
+                  <pubPlace xml:id="idm140012641171824">[København]</pubPlace>
+                  <publisher xml:id="idm140012641171360">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140012641170992">1982-</date>
+                  <biblScope>44</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59171" decls="#biblid59171">
+            <head xml:id="idm140012640483296">
+               <hi rend="italics" xml:id="idm140012640483040">MESSALINA</hi>
+            </head>
+            <lg xml:id="idm140012640482224">
+               <l xml:id="idm140012640481968">O Messalina med det stolte Hoved!</l>
+               <l xml:id="idm140012640481536">de rige, hæftigskaarne Læbers Tale</l>
+               <l xml:id="idm140012640481056">har brudt, hvad to Kærminde-Øjne loved.</l>
+            </lg>
+            <lg xml:id="idm140012640480448">
+               <l xml:id="idm140012640480192">Mens hele Byen stod i dyb Fortabning</l>
+               <l xml:id="idm140012640479760">og vented Prinsens og Prinsessens Indtog,</l>
+               <l xml:id="idm140012640479312">jeg saa' kun denne dronningsikre Skabning.</l>
+            </lg>
+            <lg xml:id="idm140012640478736">
+               <l xml:id="idm140012640478480">Den strenge Pande lyste mellem Haaret,</l>
+               <l xml:id="idm140012640478048">som brunt den kransed; Næsen dristig lige,</l>
+               <l xml:id="idm140012640477568">og Hovedet saa kækt paa Halsen baaret.</l>
+            </lg>
+            <lg xml:id="idm140012640476960">
+               <l xml:id="idm140012640476704">Jeg saa', hvor Barmen aanded trodsigsvimmel,</l>
+               <l xml:id="idm140012640476256">hvor stærk, hvor rank hun sig i Hoften hviled</l>
+               <l xml:id="idm140012640475760">- aa blot at naa en Søm af Kaaben, Himmel!</l>
+            </lg>
+            <lg xml:id="idm140012640475152">
+               <l xml:id="idm140012640474896">Hvert Ansigt, som var længselssvagt forvisket,</l>
+               <l xml:id="idm140012640474400">flød prægløst ud for dette fattet vilde,</l>
+               <l xml:id="idm140012640473920">der skarpt og yppigt ængsted og forfrisked!</l>
+            </lg>
+            <lg xml:id="idm140012640473296">
+               <l xml:id="idm140012640473040">Og hver Gang Drømme-Blikket paa mig stirred,</l>
+               <l xml:id="idm140012640472544">det var, som hver en Nerve i mig dirred,</l>
+               <l xml:id="idm140012640472096">og jeg slog Øjet ned og stod forvirret.</l>
+            </lg>
+            <lg xml:id="idm140012640471488">
+               <l xml:id="idm140012640471232">"Bliv ikke vred!" - jeg voved
+								- "Hvad jeg <hi rend="italics" xml:id="idm140012640470912">vil</hi> Dem,</l>
+               <l xml:id="idm140012640470048">fortjener ingen Vrede." Stemmen skælved.</l>
+               <l xml:id="idm140012640469568">Hun svared: "Jeg vil ikke tale til Dem."</l>
+            </lg>
+            <pb n="44" xml:id="s44" facs="adl/claussen/claussen03/claussen3044"/>
+            <lg xml:id="idm140012640467824">
+               <l xml:id="idm140012640467568">- Hvorfor foragter De, hvem De ej kender?</l>
+               <l xml:id="idm140012640467120">Ak Messalina, De er altfor grusom.</l>
+               <l xml:id="idm140012640466688">O vidste De, hvor Blodet i mig brænder!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

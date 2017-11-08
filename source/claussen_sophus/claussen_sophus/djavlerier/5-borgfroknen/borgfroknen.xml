@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>BORGFRØKNEN</title>
+        <author>Claussen, Sophus</author>
+        <editor xml:id="th" />
+      </titleStmt>
+      <publicationStmt>
+        <publisher>textbase</publisher>
+        <pubPlace>Copenhagen</pubPlace>
+        <date>2017-11-08+01:00</date>
+        <idno />
+        <availability status="free">
+          <ab>GNU license</ab>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">empty</witness>
+        </listWit>
+        <listBibl>
+          <bibl>
+            <author n="1" xml:id="idm139945512259712">
+              <name xml:id="idm139945512259456">
+              <surname xml:id="idm139945512259328">
+              Claussen</surname>, 
+              <forename xml:id="idm139945512258864">
+              Sophus</forename></name>
+            </author>
+            <title xml:id="idm139945512258576">Sophus Claussens
+            lyrik</title>
+            <title xml:id="idm139945512258288">Bd. 3:
+            Djævlerier</title>
+            <pubPlace xml:id="idm139945512257984">
+            [København]</pubPlace>
+            <publisher xml:id="idm139945512257520">Det Danske
+            Sprog- og Litteraturselskab ; Gyldendal</publisher>
+            <date xml:id="idm139945512257152">1982-</date>
+            <biblScope />
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc />
+    <profileDesc />
+    <revisionDesc />
+  </teiHeader>
+  <text>
+    <body xml:id="idm139945511423344">
+      <pb n="68" xml:id="s68"
+      facs="adl/claussen/claussen05/claussen5068" />
+      <div type="castList" xml:id="idm139945511421872">
+        <list type="simple" xml:id="idm139945511421344">
+          <item xml:id="idm139945511420816">PROLOGUS</item>
+          <item xml:id="idm139945511420400">BORGFRØKNEN</item>
+          <item xml:id="idm139945511419968">BORGHERREN, 
+          <hi rend="italics" xml:id="idm139945511419680">hendes
+          Fader</hi></item>
+          <item xml:id="idm139945511418864">SMEDEN, 
+          <hi rend="italics" xml:id="idm139945511418576">stum
+          Person</hi></item>
+        </list>
+      </div>
+      <pb n="69" xml:id="s69"
+      facs="adl/claussen/claussen05/claussen5069" />
+      <div xml:id="idm139945511416400">
+        <sp xml:id="idm139945511416096">
+          <speaker xml:id="idm139945511415840">
+            <hi rend="italics" xml:id="idm139945511415584">
+            PROLOGUS</hi>
+          </speaker>
+          <lg xml:id="idm139945511414768">
+            <l xml:id="idm139945511414512">Klingelingeling. Et nyt
+            Aarhundred</l>
+            <l xml:id="idm139945511414080">har paa Borgporten kimet
+            og dundret.</l>
+            <l xml:id="idm139945511413648">Vaagn nu op, alle I, som
+            sove,</l>
+            <l xml:id="idm139945511413216">Mænd med Sko paa og
+            Heste med Hove.</l>
+          </lg>
+          <lg xml:id="idm139945511412608">
+            <l xml:id="idm139945511412352">Vaagn nu op, alle Karle
+            og Knægte.</l>
+            <l xml:id="idm139945511411888">Skynd Jer, Piger, at
+            Kjolerne hægte.</l>
+            <l xml:id="idm139945511411408">Blus under Gryden og
+            Davre-Øl kogt!</l>
+            <l xml:id="idm139945511410928">Det er Nytaar, og ingen
+            bør smægte.</l>
+          </lg>
+          <lg xml:id="idm139945511410320">
+            <l xml:id="idm139945511410064">Driv ej i Bryggers og
+            døs ej i Kammer,</l>
+            <l xml:id="idm139945511409584">rap Jer ved Skorstenens
+            knitrende Flammer!</l>
+            <l xml:id="idm139945511409136">Munter se til, at I
+            kommer i Trit.</l>
+            <l xml:id="idm139945511408704">Livet har en glubende
+            Appetit.</l>
+          </lg>
+          <lg xml:id="idm139945511408144">
+            <l xml:id="idm139945511407888">De tavse Mænd paa de
+            lange Bænke,</l>
+            <l xml:id="idm139945511407424">som endnu drømmende
+            Panderne sænke,</l>
+            <l xml:id="idm139945511406944">som gaber endnu af
+            Ubehag -</l>
+            <l xml:id="idm139945511406512">det er Nytaar i Dag -
+            for 
+            <hi rend="italics" xml:id="idm139945511406208">
+            dem</hi>skal I skænke.</l>
+          </lg>
+          <lg xml:id="idm139945511405248">
+            <l xml:id="idm139945511404992">Den lille Kodreng, som
+            skjult i Krogen</l>
+            <l xml:id="idm139945511404560">sidder med spillende
+            Øjne vaagen</l>
+            <l xml:id="idm139945511404096">og røber i Mørket sig
+            kun ved sit Blik -</l>
+            <l xml:id="idm139945511403616">giv ham en Drik; han
+            skal ha'e førend nogen.</l>
+          </lg>
+          <lg xml:id="idm139945511402992">
+            <l xml:id="idm139945511402736">Hvem vil ej stride og
+            villig ase,</l>
+            <l xml:id="idm139945511402304">naar Gryden koger, og
+            Panderne brase?</l>
+            <l xml:id="idm139945511401872">Skænk til dem alle, saa
+            flittig I kan,</l>
+            <l xml:id="idm139945511401392">sin Næring kræver den
+            stræbende Mand.</l>
+          </lg>
+          <pb n="70" xml:id="s70"
+          facs="adl/claussen/claussen05/claussen5070" />
+          <lg xml:id="idm139945511399520">
+            <l xml:id="idm139945511399264">I, Køknets Kvinder med
+            Armene nøgne,</l>
+            <l xml:id="idm139945511398784">der stræver de hellige
+            Dage og søgne,</l>
+            <l xml:id="idm139945511398304">men selv er et Bagværk,
+            som Gud en Dag</l>
+            <l xml:id="idm139945511397824">skabte al Verden til
+            Velbehag -</l>
+          </lg>
+          <lg xml:id="idm139945511397264">
+            <l xml:id="idm139945511397008">frisk efter Ved maa I
+            springe og løbe!</l>
+            <l xml:id="idm139945511396528">Nu har vi nye Kugler at
+            støbe</l>
+            <l xml:id="idm139945511396064">og friske Folk, der
+            begærer sin Drik</l>
+            <l xml:id="idm139945511395584">saa skoldende hed, som
+            fra Ilden den gik.</l>
+          </lg>
+          <lg xml:id="idm139945511395008">
+            <l xml:id="idm139945511394752">Der flyver et nyt
+            Aarhundred af Sted</l>
+            <l xml:id="idm139945511394320">med en ung og livsmodig
+            Menneskehed.</l>
+            <l xml:id="idm139945511393888">Det nytter dig ikke,
+            hvad om du har Sky</l>
+            <l xml:id="idm139945511393456">for det nye Aarhundred -
+            vi 
+            <hi rend="italics" xml:id="idm139945511393152">er</hi>i
+            det ny.</l>
+          </lg>
+        </sp>
+      </div>
+      <pb n="71" xml:id="s71"
+      facs="adl/claussen/claussen05/claussen5071" />
+      <div type="scene" n="1" xml:id="idm139945511390800">
+        <head xml:id="idm139945511390032">1. SCENE</head>
+        <stage type="mix" xml:id="idm139945511389616">(Sal i en
+        gammel Borg. 
+        <hi rend="italics" xml:id="idm139945511389088">
+        Borgfrøknen</hi>og 
+        <hi rend="italics" xml:id="idm139945511388352">Smeden</hi>.
+        Den sidste, som er stum Person, staar med en mægtig Hammer
+        og slaar løs paa Muren)</stage>
+        <sp xml:id="idm139945511387328">
+          <speaker xml:id="idm139945511387072">
+            <hi rend="italics" xml:id="idm139945511386816">
+            Borgfrøknen</hi>
+          </speaker>
+          <lg xml:id="idm139945511385984">
+            <l xml:id="idm139945511385728">Slaa til, Smed! Slaa
+            til, Smed!</l>
+            <l xml:id="idm139945511385296">Om hele Borgen skal
+            ramle derved.</l>
+            <l xml:id="idm139945511384864">Det var for dette, jeg
+            kaldte dig hid;</l>
+            <l xml:id="idm139945511384432">du har jo Kræfter, og
+            jeg skal betale din Flid.</l>
+            <l xml:id="idm139945511383936">Du ejer to Arme til
+            Øjnenes Lyst,</l>
+            <l xml:id="idm139945511383472">den smidigste Ryg og de
+            stærkeste Skuldre.</l>
+            <l xml:id="idm139945511382992">Lad Slagene buldre,</l>
+            <l xml:id="idm139945511382576">saa Borgherren ikke faar
+            Fred.</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511382016">Hun
+          lytter</stage>
+          <lg xml:id="idm139945511381360">
+            <l xml:id="idm139945511381104">Jeg hører min Fader, jeg
+            kender hans Fjed,</l>
+            <l xml:id="idm139945511380624">Smed, du er skøn!</l>
+            <l xml:id="idm139945511380192">Slaa til, Smed.</l>
+            <l xml:id="idm139945511379776">Den lifligste Løn</l>
+            <l xml:id="idm139945511379344">skal erstatte din Møje
+            og Sved.</l>
+          </lg>
+        </sp>
+      </div>
+      <div type="scene" n="2" xml:id="idm139945511378496">
+        <head xml:id="idm139945511377728">2. SCENE</head>
+        <sp xml:id="idm139945511377312">
+          <speaker xml:id="idm139945511377056">
+            <hi rend="italics" xml:id="idm139945511376800">
+            Borgherren</hi>
+          </speaker>
+          <stage type="mix" xml:id="idm139945511375984">kommer ind
+          fra Baggrunden</stage>
+          <lg xml:id="idm139945511375312">
+            <l xml:id="idm139945511375056">Hvad her for et
+            Brag!</l>
+            <l xml:id="idm139945511374640">Min gamle Armbrøst faldt
+            ned fra sin Knag.</l>
+            <pb n="72" xml:id="s72"
+            facs="adl/claussen/claussen05/claussen5072" />
+            <l xml:id="idm139945511373008">Min Forfædre, Helte med
+            rædsomme Navne,</l>
+            <l xml:id="idm139945511372528">de tror, det er
+            Dommedag.</l>
+            <l xml:id="idm139945511372096">Hold inde! hold inde! I
+            skræmmer jo bort</l>
+            <l xml:id="idm139945511371616">alle Slotstaarnets Ugler
+            og Ravne.</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511370928">
+          <speaker xml:id="idm139945511370672">
+            <hi rend="italics" xml:id="idm139945511370416">
+            Borgfrøknen</hi>
+          </speaker>
+          <lg xml:id="idm139945511369584">
+            <l xml:id="idm139945511369328">Slaa til, du Smed! Slaa
+            til! Slaa til!</l>
+            <l xml:id="idm139945511368896">Det er for mit Øre som
+            Klokkespil.</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511368304">
+          Pavse</stage>
+          <lg xml:id="idm139945511367648">
+            <l xml:id="idm139945511367392">Dog gaa! Jeg vil melde
+            min Fader et Ord.</l>
+            <l xml:id="idm139945511366944">Men vent i den østlige
+            Korridor.</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511366352">
+          <hi rend="italics" xml:id="idm139945511365984">
+          Smeden</hi>gaar</stage>
+        </sp>
+      </div>
+      <div type="scene" n="3" xml:id="idm139945511364880">
+        <head xml:id="idm139945511364112">3. SCENE</head>
+        <sp xml:id="idm139945511363696">
+          <speaker xml:id="idm139945511363440">
+            <hi rend="italics" xml:id="idm139945511363184">
+            Borgherren</hi>
+          </speaker>
+          <lg xml:id="idm139945511362368">
+            <l xml:id="idm139945511362112">Hvad driver du her for
+            en skamløs Men,</l>
+            <l xml:id="idm139945511361632">som var jeg ej Herre til
+            Borg og Len?</l>
+            <l xml:id="idm139945511361200">Du trækker her op fra
+            hans Ambolt</l>
+            <l xml:id="idm139945511360736">den ringeste af mine
+            Smede.</l>
+            <l xml:id="idm139945511360304">Men naar jeg befaler dig
+            Bryllup</l>
+            <l xml:id="idm139945511359872">med ham den rige Tor
+            Bjørn,</l>
+            <l xml:id="idm139945511359408">du nægter at stande til
+            rede!</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511358688">
+          <speaker xml:id="idm139945511358432">
+            <hi rend="italics" xml:id="idm139945511358176">
+            Borgfrøknen</hi>
+          </speaker>
+          <stage type="mix" xml:id="idm139945511357344">
+          nynner</stage>
+          <lg xml:id="idm139945511356688">
+            <l xml:id="idm139945511356432">Skøn Adelus med blegen
+            Kind</l>
+            <l xml:id="idm139945511355968">hun gik i Klæder
+            hvide,</l>
+            <l xml:id="idm139945511355520">hun gik og drømte op
+            under den Lind</l>
+            <l xml:id="idm139945511355040">om Smedens sorte
+            Skødeskind.</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511354320">
+          <speaker xml:id="idm139945511354064">
+            <hi rend="italics" xml:id="idm139945511353808">
+            Borgherren</hi>
+          </speaker>
+          <lg xml:id="idm139945511352992">
+            <l xml:id="idm139945511352736">Saa lader vi kaste</l>
+            <l xml:id="idm139945511352320">den Stoddersvend ned</l>
+            <pb n="73" xml:id="s73"
+            facs="adl/claussen/claussen05/claussen5073" />
+            <l xml:id="idm139945511350640">i Borgens dybeste
+            Kælder</l>
+            <l xml:id="idm139945511350192">og lader dig baste</l>
+            <l xml:id="idm139945511349776">paa Lemmer og Led</l>
+            <l xml:id="idm139945511349360">bag Klostrets Dør, før
+            det kvælder.</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511348624">
+          <speaker xml:id="idm139945511348368">
+            <hi rend="italics" xml:id="idm139945511348112">
+            Borgfrøknen</hi>
+          </speaker>
+          <stage type="mix" xml:id="idm139945511347280">
+          nynner</stage>
+          <lg xml:id="idm139945511346624">
+            <l xml:id="idm139945511346368">Hun gik og drømte, bleg
+            om Kind,</l>
+            <l xml:id="idm139945511345904">om Smedens sorte
+            Skødeskind.</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511345184">
+          <speaker xml:id="idm139945511344928">
+            <hi rend="italics" xml:id="idm139945511344672">
+            Borgherren</hi>
+          </speaker>
+          <lg xml:id="idm139945511343856">
+            <l xml:id="idm139945511343600">Saa ilde er du
+            artet,</l>
+            <l xml:id="idm139945511343184">fordærvet, og blues
+            ikke?</l>
+            <l xml:id="idm139945511342736">Jeg sendte dig nylig til
+            Hove</l>
+            <l xml:id="idm139945511342304">i Haabet at se dig
+            igen</l>
+            <l xml:id="idm139945511341888">trolovet med den
+            bedste</l>
+            <l xml:id="idm139945511341472">af Rigets Adelsmænd.</l>
+            <l xml:id="idm139945511341024">Og du har nyttet
+            Tiden,</l>
+            <l xml:id="idm139945511340608">du har med roligt
+            Mod</l>
+            <l xml:id="idm139945511340192">forhaanet selve
+            Marsken,</l>
+            <l xml:id="idm139945511339760">som hidtil var mig
+            god.</l>
+            <l xml:id="idm139945511339344">De Adelsmænd, som
+            bejled,</l>
+            <l xml:id="idm139945511338896">haaned du frækt og
+            frit,</l>
+            <l xml:id="idm139945511338448">men red med Galninge
+            Ridt</l>
+            <l xml:id="idm139945511338016">paa vilde Heste, som
+            stejled.</l>
+            <l xml:id="idm139945511337584">Da lod jeg Folkene
+            skikke,</l>
+            <l xml:id="idm139945511337152">som førte med Magt dig
+            af Sted</l>
+            <l xml:id="idm139945511336688">til mine Borge og Lunde
+            ...</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511336000">
+          <speaker xml:id="idm139945511335744">
+            <hi rend="italics" xml:id="idm139945511335488">
+            Borgfrøknen</hi>
+          </speaker>
+          <lg xml:id="idm139945511334656">
+            <l xml:id="idm139945511334400">at min Fordærvelse
+            kunde</l>
+            <l xml:id="idm139945511333952">fuldbyrdes i
+            Ensomhed!</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511333408">Hun gaar
+          hæftig frem og tilbage</stage>
+          <lg xml:id="idm139945511332704">
+            <l xml:id="idm139945511332448">Blandt disse Taarne og
+            Mure</l>
+            <l xml:id="idm139945511332016">Gud ved, hvor mange
+            Laster,</l>
+            <l xml:id="idm139945511331584">Skændsler og sorte
+            Synder</l>
+            <pb n="74" xml:id="s74"
+            facs="adl/claussen/claussen05/claussen5074" />
+            <l xml:id="idm139945511330032">der paa de levende
+            lure?</l>
+            <l xml:id="idm139945511329600">Den gamle Røverrede</l>
+            <l xml:id="idm139945511329152">er bygt i det fladeste
+            Sumpland,</l>
+            <l xml:id="idm139945511328720">her findes kun Fæ paa
+            Jorden</l>
+            <l xml:id="idm139945511328256">og Fiske i Havet
+            dernede,</l>
+            <l xml:id="idm139945511327824">kun Træerne i Skoven</l>
+            <l xml:id="idm139945511327376">og Plovtræl bag sin
+            Oxe.</l>
+            <l xml:id="idm139945511326928">Som Dyr blandt disse
+            Udyr</l>
+            <l xml:id="idm139945511326496">du lader din Datterlil
+            voxe.</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511325808">
+          <speaker xml:id="idm139945511325552">
+            <hi rend="italics" xml:id="idm139945511325296">
+            Borgherren</hi>
+          </speaker>
+          <lg xml:id="idm139945511324480">
+            <l xml:id="idm139945511324224">Hun boltred sig bedst i
+            Skarnet ...</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511323536">
+          <speaker xml:id="idm139945511323280">
+            <hi rend="italics" xml:id="idm139945511323024">
+            Borgfrøknen</hi>
+          </speaker>
+          <lg xml:id="idm139945511322192">
+            <l xml:id="idm139945511321936">Og 
+            <hi rend="italics" xml:id="idm139945511321632">
+            du</hi>bebrejder Barnet,</l>
+            <l xml:id="idm139945511320816">at hendes Sind
+            behøver</l>
+            <l xml:id="idm139945511320368">en Smed til Trøst,
+            Papa!</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511319792">Med
+          stigende Stemme</stage>
+          <lg xml:id="idm139945511319136">
+            <l xml:id="idm139945511318880">Min Fader, Borgens
+            Herre,</l>
+            <l xml:id="idm139945511318448">var selv i
+            Ungdomsdage</l>
+            <l xml:id="idm139945511318032">en mægtig Viking og
+            Røver.</l>
+            <l xml:id="idm139945511317568">Rejs ud med Eders
+            Skibe,</l>
+            <l xml:id="idm139945511317136">Papa, og hent
+            tilbage</l>
+            <l xml:id="idm139945511316720">fra fremmede Byer og
+            Havne</l>
+            <l xml:id="idm139945511316288">(som fordum til egen
+            Fryd</l>
+            <l xml:id="idm139945511315856">I hented en Last af
+            Kvinder)</l>
+            <l xml:id="idm139945511315424">hent nogle stolte
+            Svende</l>
+            <l xml:id="idm139945511314992">med Spændkraft i Arm og
+            Fjed.</l>
+            <l xml:id="idm139945511314528">Men taal, at - til 
+            <hi rend="italics" xml:id="idm139945511314240">da
+            -</hi>jeg fornøjer</l>
+            <l xml:id="idm139945511313376">min Sjæl med en ringe
+            Smed.</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511312656">
+          <speaker xml:id="idm139945511312400">
+            <hi rend="italics" xml:id="idm139945511312144">
+            Borgherren</hi>
+          </speaker>
+          <stage type="mix" xml:id="idm139945511311328">med løftet
+          Haand</stage>
+          <lg xml:id="idm139945511310656">
+            <l xml:id="idm139945511310400">Fripostige Øgle,</l>
+            <l xml:id="idm139945511309968">som vover at skælde mig
+            Røver.</l>
+          </lg>
+        </sp>
+        <pb n="75" xml:id="s75"
+        facs="adl/claussen/claussen05/claussen5075" />
+        <sp xml:id="idm139945511308096">
+          <speaker xml:id="idm139945511307840">
+            <hi rend="italics" xml:id="idm139945511307584">
+            Borgfrøknen</hi>
+          </speaker>
+          <stage type="mix" xml:id="idm139945511306752">
+          hidsig</stage>
+          <lg xml:id="idm139945511306096">
+            <l xml:id="idm139945511305840">Køb, stjæl eller
+            røv,</l>
+            <l xml:id="idm139945511305392">men skaf mig, hvad jeg
+            behøver.</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511304800">Mellem
+          Skæmt og Vrede</stage>
+          <lg xml:id="idm139945511304112">
+            <l xml:id="idm139945511303856">Du havde vist aldrig en
+            Angerstund,</l>
+            <l xml:id="idm139945511303424">den Gang du røved for
+            egen Mund.</l>
+            <l xml:id="idm139945511302960">Men nu skal Borgfrøknen
+            søge</l>
+            <l xml:id="idm139945511302496">sit Selskab blandt
+            Markens Fæ,</l>
+            <l xml:id="idm139945511302032">og hvis hun vil træde
+            Dansen,</l>
+            <l xml:id="idm139945511301568">omfavne Skovens Træ.</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511300864">
+          <speaker xml:id="idm139945511300608">
+            <hi rend="italics" xml:id="idm139945511300352">
+            Borgherren</hi>
+          </speaker>
+          <lg xml:id="idm139945511299536">
+            <l xml:id="idm139945511299280">Du kunde ved Hove
+            fundet</l>
+            <l xml:id="idm139945511298848">en Ridder med Tugt og
+            Takt.</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511298160">
+          <speaker xml:id="idm139945511297904">
+            <hi rend="italics" xml:id="idm139945511297648">
+            Borgfrøknen</hi>
+          </speaker>
+          <lg xml:id="idm139945511296816">
+            <l xml:id="idm139945511296560">De Herrer ved Hove, min
+            Fader,</l>
+            <l xml:id="idm139945511296128">de har min fulde
+            Foragt.</l>
+            <l xml:id="idm139945511295696">Før kysser jeg
+            Oxemulen</l>
+            <l xml:id="idm139945511295248">og kryster de stumme
+            Skove.</l>
+            <l xml:id="idm139945511294816">Nu er det hele sagt.</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511294272">Frem og
+          tilbage</stage>
+          <lg xml:id="idm139945511293616">
+            <l xml:id="idm139945511293360">Jeg 
+            <hi rend="italics" xml:id="idm139945511293072">
+            hader</hi>de Adelsherrer</l>
+            <l xml:id="idm139945511292224">ved Hove, med Fjær og
+            med Slire,</l>
+            <l xml:id="idm139945511291760">nogle er skabt til at
+            sire,</l>
+            <l xml:id="idm139945511291328">de bedste var skabt til
+            at svire.</l>
+            <l xml:id="idm139945511290896">Jeg beder mig skaanet
+            for 
+            <hi rend="italics" xml:id="idm139945511290592">
+            dem</hi>;</l>
+            <l xml:id="idm139945511289808">men hvad mit Hjærte
+            behøver,</l>
+            <l xml:id="idm139945511289344">det er en ordenlig
+            Røver.</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511288640">
+          <speaker xml:id="idm139945511288384">
+            <hi rend="italics" xml:id="idm139945511288128">
+            Borgherren</hi>
+          </speaker>
+          <lg xml:id="idm139945511287312">
+            <l xml:id="idm139945511287056">Jeg stopper en Knevl i
+            din Mund,</l>
+            <l xml:id="idm139945511286624">som tæmmer din Trods og
+            din Tunge.</l>
+          </lg>
+        </sp>
+        <pb n="76" xml:id="s76"
+        facs="adl/claussen/claussen05/claussen5076" />
+        <sp xml:id="idm139945511284752">
+          <speaker xml:id="idm139945511284496">
+            <hi rend="italics" xml:id="idm139945511284240">
+            Borgfrøknen</hi>
+          </speaker>
+          <lg xml:id="idm139945511283408">
+            <l xml:id="idm139945511283152">I er en Ravn, Hr.
+            Fader,</l>
+            <l xml:id="idm139945511282720">og jeg er Ravnens
+            Unge.</l>
+            <l xml:id="idm139945511282304">Og 
+            <hi rend="italics" xml:id="idm139945511282048">
+            jeg</hi>skulde danse for Altret</l>
+            <l xml:id="idm139945511281216">nu med den rige Tor,</l>
+            <l xml:id="idm139945511280800">der dimled af Drik i
+            Fjor?</l>
+            <l xml:id="idm139945511280368">... dække min Faders
+            Forskrivning</l>
+            <l xml:id="idm139945511279904">til Marsken og rede hans
+            Gæld,</l>
+            <l xml:id="idm139945511279440">skaffe en Guldklump til
+            Ravnen</l>
+            <l xml:id="idm139945511279008">og selv i
+            Bjørnefavnen</l>
+            <l xml:id="idm139945511278560">lade mig ærgre
+            ihjæl?</l>
+            <l xml:id="idm139945511278112">Det siger jeg, Hr.
+            Fader,</l>
+            <l xml:id="idm139945511277680">betal selv Eders
+            Gæld!</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511276976">
+          <speaker xml:id="idm139945511276720">
+            <hi rend="italics" xml:id="idm139945511276464">
+            Borgherren</hi>
+          </speaker>
+          <lg xml:id="idm139945511275648">
+            <l xml:id="idm139945511275392">
+            <hi rend="italics" xml:id="idm139945511275264">
+            Den</hi>tvinges med Baand og med Svøber,</l>
+            <l xml:id="idm139945511274368">som ikke vil lytte til
+            Ord.</l>
+            <l xml:id="idm139945511273936">Paa Timen nu skikker jeg
+            Løber</l>
+            <l xml:id="idm139945511273472">med Bud til den rige
+            Tor,</l>
+            <l xml:id="idm139945511273040">at du vil holde
+            Bryllup</l>
+            <l xml:id="idm139945511272624">og dele hans Seng og
+            Bord.</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511272064">Vil
+          gaa</stage>
+        </sp>
+        <sp xml:id="idm139945511271280">
+          <speaker xml:id="idm139945511271024">
+            <hi rend="italics" xml:id="idm139945511270768">
+            Borgfrøknen</hi>
+          </speaker>
+          <lg xml:id="idm139945511269936">
+            <l xml:id="idm139945511269680">Saa hør et andet Ord</l>
+            <l xml:id="idm139945511269232">og skik det med samme
+            Løber,</l>
+            <l xml:id="idm139945511268768">at førend den rige
+            Tor</l>
+            <l xml:id="idm139945511268320">skal blive min heldige
+            Køber,</l>
+            <l xml:id="idm139945511267856">skal denne sorte
+            Smed,</l>
+            <l xml:id="idm139945511267440">endskønt af trælbaaren
+            Æt,</l>
+            <l xml:id="idm139945511266976">blive til
+            Borg-Jomfruens</l>
+            <l xml:id="idm139945511266544">natlige Leje stedt.</l>
+            <l xml:id="idm139945511266128">Man kan ej danse med
+            Træ,</l>
+            <l xml:id="idm139945511265680">man kan ikke tale med
+            Fæ.</l>
+            <l xml:id="idm139945511265232">Jeg red mig ned til
+            Smedjen,</l>
+            <l xml:id="idm139945511264800">som ligger i Lundens
+            Læ.</l>
+            <pb n="77" xml:id="s77"
+            facs="adl/claussen/claussen05/claussen5077" />
+            <l xml:id="idm139945511263248">Min Hest havde tabt sin
+            Sko,</l>
+            <l xml:id="idm139945511262816">jeg raabte paa Smeden og
+            lo:</l>
+            <l xml:id="idm139945511262384">Kom ud, du Svend med dit
+            Skødeskind,</l>
+            <l xml:id="idm139945511261904">her staar en Jomfru saa
+            fro.</l>
+            <l xml:id="idm139945511261472">Jeg tren i det sorte
+            Rum,</l>
+            <l xml:id="idm139945511261040">hvor Gløderne blusser
+            saa røde,</l>
+            <l xml:id="idm139945511260576">og fryded mit Sind ved
+            det Møde,</l>
+            <l xml:id="idm139945511260112">imens jeg lod Hesten
+            sko.</l>
+            <l xml:id="idm139945511259680">Jeg hørte det Gny og
+            Bulder,</l>
+            <l xml:id="idm139945511259216">jeg saa paa hans Arm og
+            Skulder ...</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511258656">
+          Nynner</stage>
+          <lg xml:id="idm139945511258000">
+            <l xml:id="idm139945511257744">Siden red jeg i Klæder
+            hvide</l>
+            <l xml:id="idm139945511257280">og drømte op under den
+            Lind</l>
+            <l xml:id="idm139945511256816">(alle mine Tanker de
+            blev saa blide)</l>
+            <l xml:id="idm139945511256384">om Smedens sorte
+            Skødeskind.</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511255664">
+          <speaker xml:id="idm139945511255408">
+            <hi rend="italics" xml:id="idm139945511255152">
+            Borgherren</hi>
+          </speaker>
+          <lg xml:id="idm139945511254336">
+            <l xml:id="idm139945511254080">Jeg lader dig laase
+            inde.</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511253520">Ud til
+          højre</stage>
+        </sp>
+        <sp xml:id="idm139945511252720">
+          <speaker xml:id="idm139945511252464">
+            <hi rend="italics" xml:id="idm139945511252208">
+            Borgfrøknen</hi>
+          </speaker>
+          <lg xml:id="idm139945511251376">
+            <l xml:id="idm139945511251120">Og jeg vil kalde paa
+            Smeden,</l>
+            <l xml:id="idm139945511250688">han skal i Borgfrøknens
+            Hjærte</l>
+            <l xml:id="idm139945511250224">en Dør vidt aaben
+            finde.</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511249648">Ud</stage>
+        </sp>
+      </div>
+      <div type="scene" n="4" xml:id="idm139945511248720">
+        <head xml:id="idm139945511247952">4. SCENE</head>
+        <stage type="mix" xml:id="idm139945511247536">
+        <hi rend="italics" xml:id="idm139945511247168">
+        (Borgfrøknen</hi>kommer tilbage med 
+        <hi rend="italics" xml:id="idm139945511246432">
+        Smeden</hi>)</stage>
+        <sp xml:id="idm139945511245616">
+          <speaker xml:id="idm139945511245360">
+            <hi rend="italics" xml:id="idm139945511245104">
+            Borgfrøknen</hi>
+          </speaker>
+          <lg xml:id="idm139945511244272">
+            <l xml:id="idm139945511244016">Du sorte Smedesvend,</l>
+            <l xml:id="idm139945511243600">hør, hvad den naadige
+            Frøken</l>
+            <l xml:id="idm139945511243136">i sine hvide Klæder</l>
+            <l xml:id="idm139945511242688">dig allernaadigst
+            befaler.</l>
+            <l xml:id="idm139945511242256">Jeg elsker din Styrke,
+            Bonde!</l>
+            <pb n="78" xml:id="s78"
+            facs="adl/claussen/claussen05/claussen5078" />
+            <l xml:id="idm139945511240624">Giv Kælenavn mig!</l>
+            <l xml:id="idm139945511240192">Læg bort din Hammer,</l>
+            <l xml:id="idm139945511239744">kom hid og favn mig!</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511239072">
+          <speaker xml:id="idm139945511238816">
+            <hi rend="italics" xml:id="idm139945511238560">
+            Smeden</hi>
+          </speaker>
+          <stage type="mix" xml:id="idm139945511237744">
+          tøver</stage>
+        </sp>
+        <sp xml:id="idm139945511236960">
+          <speaker xml:id="idm139945511236704">
+            <hi rend="italics" xml:id="idm139945511236448">
+            Borgfrøknen</hi>
+          </speaker>
+          <lg xml:id="idm139945511235616">
+            <l xml:id="idm139945511235360">Kom, kryst mig,
+            Smed!</l>
+            <l xml:id="idm139945511234944">Du staar og nøler.</l>
+            <l xml:id="idm139945511234512">Ja du er sodet, jeg er
+            hvid.</l>
+            <l xml:id="idm139945511234080">Du dumme Smedesvend, kom
+            hid.</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511233392">
+          <speaker xml:id="idm139945511233136">
+            <hi rend="italics" xml:id="idm139945511232880">
+            Smeden</hi>
+          </speaker>
+          <stage type="mix" xml:id="idm139945511232064">nærmer sig,
+          men bliver staaende og ler forlegent</stage>
+        </sp>
+        <sp xml:id="idm139945511231200">
+          <speaker xml:id="idm139945511230944">
+            <hi rend="italics" xml:id="idm139945511230688">
+            Borgfrøknen</hi>
+          </speaker>
+          <lg xml:id="idm139945511229856">
+            <l xml:id="idm139945511229600">Du er en Nar, Smed.</l>
+            <l xml:id="idm139945511229184">Med dine Arme</l>
+            <l xml:id="idm139945511228768">og dine stærke
+            Hammerslag</l>
+            <l xml:id="idm139945511228320">har du forhekset
+            mig.</l>
+            <l xml:id="idm139945511227904">Se, jeg er svag!</l>
+            <l xml:id="idm139945511227488">Jeg søger ved din Esse
+            Varme ...</l>
+            <l xml:id="idm139945511227024">Ja, jeg er hvid, og du
+            er sort...</l>
+            <l xml:id="idm139945511226592">Jeg elsker dig, fordi du
+            er saa sort.</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511225904">
+          <speaker xml:id="idm139945511225648">
+            <hi rend="italics" xml:id="idm139945511225392">
+            Smeden</hi>
+          </speaker>
+          <stage type="mix" xml:id="idm139945511224576">frem mod
+          hende, kejtet</stage>
+        </sp>
+        <sp xml:id="idm139945511223792">
+          <speaker xml:id="idm139945511223536">
+            <hi rend="italics" xml:id="idm139945511223280">
+            Borgfrøknen</hi>
+          </speaker>
+          <lg xml:id="idm139945511222448">
+            <l xml:id="idm139945511222192">Et Favntag, Bonde,
+            Daare, Nar!</l>
+            <l xml:id="idm139945511221760">Du skal endnu i Dag
+            beværtes</l>
+            <l xml:id="idm139945511221296">med alt det bedste,
+            Borgen har,</l>
+            <l xml:id="idm139945511220864">og jeg forlanger kun at
+            sværtes.</l>
+            <l xml:id="idm139945511220400">Betragt mig som en anden
+            Pige,</l>
+            <l xml:id="idm139945511219968">og gør mig sort, saa er
+            vi lige.</l>
+          </lg>
+        </sp>
+        <pb n="79" xml:id="s79"
+        facs="adl/claussen/claussen05/claussen5079" />
+        <sp xml:id="idm139945511218032">
+          <speaker xml:id="idm139945511217776">
+            <hi rend="italics" xml:id="idm139945511217520">
+            Smeden</hi>
+          </speaker>
+          <stage type="mix" xml:id="idm139945511216704">forsøger
+          paa ny</stage>
+        </sp>
+        <sp xml:id="idm139945511215904">
+          <speaker xml:id="idm139945511215648">
+            <hi rend="italics" xml:id="idm139945511215392">
+            Borgfrøknen</hi>
+          </speaker>
+          <lg xml:id="idm139945511214560">
+            <l xml:id="idm139945511214304">Det duer ikke, tag
+            igen</l>
+            <l xml:id="idm139945511213888">din Hammer og dit
+            Smedetøj,</l>
+            <l xml:id="idm139945511213424">som jeg har set dig rank
+            og høj.</l>
+            <l xml:id="idm139945511212960">Du er mit Hjærtes rette
+            Smed,</l>
+            <l xml:id="idm139945511212496">hug Muren ned!</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511211824">
+          <speaker xml:id="idm139945511211568">
+            <hi rend="italics" xml:id="idm139945511211312">
+            Smeden</hi>
+          </speaker>
+          <stage type="mix" xml:id="idm139945511210496">hamrer løs
+          paa Muren</stage>
+        </sp>
+        <sp xml:id="idm139945511209680">
+          <speaker xml:id="idm139945511209424">
+            <hi rend="italics" xml:id="idm139945511209168">
+            Borgfrøknen</hi>
+          </speaker>
+          <lg xml:id="idm139945511208336">
+            <l xml:id="idm139945511208080">Ja det er ret.</l>
+            <l xml:id="idm139945511207664">Ja kan du saadan
+            svinge</l>
+            <l xml:id="idm139945511207248">en Hammer mod den døde
+            Mur,</l>
+            <l xml:id="idm139945511206784">saa kan du, Smed, vel
+            ogsaa tvinge</l>
+            <l xml:id="idm139945511206352">en stridig Frøkens
+            fjendske Lyst</l>
+            <l xml:id="idm139945511205888">med Magt til Hvile ved
+            dit Bryst?</l>
+            <l xml:id="idm139945511205456">Slaa til i alle Helgens
+            Navn!</l>
+            <l xml:id="idm139945511205024">Saa læg dit Værktøj, kom
+            og favn!</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511204288">
+          <speaker xml:id="idm139945511204032">
+            <hi rend="italics" xml:id="idm139945511203776">
+            Smeden</hi>
+          </speaker>
+          <stage type="mix" xml:id="idm139945511202960">løber til
+          for at favne hende</stage>
+        </sp>
+        <sp xml:id="idm139945511202128">
+          <speaker xml:id="idm139945511201872">
+            <hi rend="italics" xml:id="idm139945511201616">
+            Borgfrøknen</hi>
+          </speaker>
+          <lg xml:id="idm139945511200784">
+            <l xml:id="idm139945511200528">Det er
+            gudsjammerligt.</l>
+            <l xml:id="idm139945511200112">Her tag din Løn,
+            Smed!</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511199536">Slaar ham
+          paa Ørene</stage>
+          <lg xml:id="idm139945511198848">
+            <l xml:id="idm139945511198592">kan du ej kryste
+            mig,</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511198048">slaar
+          ham</stage>
+          <lg xml:id="idm139945511197392">
+            <l xml:id="idm139945511197136">naar jeg er skøn,
+            Smed!</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511196560">slaar
+          ham</stage>
+        </sp>
+      </div>
+      <pb n="80" xml:id="s80"
+      facs="adl/claussen/claussen05/claussen5080" />
+      <div type="scene" n="5" xml:id="idm139945511194544">
+        <head xml:id="idm139945511193776">5. SCENE</head>
+        <stage type="mix" xml:id="idm139945511193360">
+        <hi rend="italics" xml:id="idm139945511192992">
+        (Borgfrøknen, Smeden, Borgherren,</hi>som kommer ind, fulgt
+        af to 
+        <hi rend="italics" xml:id="idm139945511192208">
+        Tjenere</hi>)</stage>
+        <sp xml:id="idm139945511191392">
+          <speaker xml:id="idm139945511191136">
+            <hi rend="italics" xml:id="idm139945511190880">
+            Borgherren</hi>
+          </speaker>
+          <lg xml:id="idm139945511190064">
+            <l xml:id="idm139945511189808">Nu tror jeg, den naadig
+            Frøken</l>
+            <l xml:id="idm139945511189344">kan spare sig alle
+            Kneb.</l>
+            <l xml:id="idm139945511188912">Kom, knyt om hendes
+            Haandled</l>
+            <l xml:id="idm139945511188480">et Par forsvarlige
+            Reb!</l>
+            <l xml:id="idm139945511188064">Nu ægter du Bjørnen ...
+            hvad eller ...</l>
+          </lg>
+        </sp>
+        <sp xml:id="idm139945511187328">
+          <speaker xml:id="idm139945511187072">
+            <hi rend="italics" xml:id="idm139945511186816">
+            Borgfrøknen</hi>
+          </speaker>
+          <stage type="mix" xml:id="idm139945511185984">har revet
+          Hamren fra 
+          <hi rend="italics" xml:id="idm139945511185456">
+          Smeden</hi>for at forsvare sig</stage>
+          <lg xml:id="idm139945511184592">
+            <l xml:id="idm139945511184336">Min Fader, gaa Jeres
+            Vej.</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511183776">Til 
+          <hi rend="italics" xml:id="idm139945511183248">
+          Tjenerne</hi></stage>
+          <lg xml:id="idm139945511182432">
+            <l xml:id="idm139945511182176">Kast Smeden i Borgens
+            Kælder,</l>
+            <l xml:id="idm139945511181712">den Smed, som ej favnede
+            mig.</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511181152">Da Smeden
+          gestikulerer og vil forklare</stage>
+          <lg xml:id="idm139945511180480">
+            <l xml:id="idm139945511180224">Han er en Praler. Hans
+            Øjne løj.</l>
+            <l xml:id="idm139945511179760">Naa bind ham, Karle og
+            spar os for Støj!</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511179152">
+          <hi rend="italics" xml:id="idm139945511178784">
+          Tjenerne</hi>binder 
+          <hi rend="italics" xml:id="idm139945511178064">
+          Smeden</hi></stage>
+          <lg xml:id="idm139945511177376">
+            <l xml:id="idm139945511177120">Smid ham i Kælderen!</l>
+            <l xml:id="idm139945511176672">- fordi han løj.</l>
+          </lg>
+          <stage type="mix" xml:id="idm139945511176112">
+          Hidsig</stage>
+          <lg xml:id="idm139945511175456">
+            <l xml:id="idm139945511175200">Læg ham i Bolt og Jærn,
+            fordi han løj!</l>
+          </lg>
+        </sp>
+        <stage type="mix" xml:id="idm139945511174464">(De øvrige
+        Scener af denne Improvisation ikke fuldendte - af Mangel
+        paa Tro)</stage>
+      </div>
+    </body>
+  </text>
+</TEI>

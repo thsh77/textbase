@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Natten</title>
+            <author>Claussen,
+                          Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140218345270288">
+                     <name xml:id="idm140218345270032">
+                        <surname xml:id="idm140218345269904">Claussen</surname>, <forename xml:id="idm140218345269440">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140218345269152">Antonius i Paris</title>
+                  <pubPlace xml:id="idm140218345268864">[København]</pubPlace>
+                  <pubPlace xml:id="idm140218345268400">[Valby]</pubPlace>
+                  <pubPlace xml:id="idm140218345267984">[Ballerup]</pubPlace>
+                  <publisher xml:id="idm140218345267520">Det Danske Sprog- og Litteraturselskab</publisher>
+                  <publisher xml:id="idm140218345267216">Borgen</publisher>
+                  <publisher xml:id="idm140218345266928">[i samarbejde med Nyt Dansk Litteraturselskab]</publisher>
+                  <date xml:id="idm140218345266560">cop. 1990</date>
+                  <biblScope>55</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="idm140218344746192">
+            <head xml:id="idm140218344745936">Natten</head>
+            <lg xml:id="idm140218344745520">
+               <l xml:id="idm140218344745264">Nu kommer Natten. Ud af alle Kroge</l>
+               <l xml:id="idm140218344744832">den gaber. Det er Stunden, da den kloge</l>
+               <l xml:id="idm140218344744400">i Søvne drejer sig omkring paa Ryggen,</l>
+               <l xml:id="idm140218344743920">og da den gale vil forsøge Lykken.</l>
+            </lg>
+            <lg xml:id="idm140218344743328">
+               <l xml:id="idm140218344743072">Lykken hun er en mørk og blodvarm Pige,</l>
+               <l xml:id="idm140218344742592">hvis Fodtrin stjaalent paa vor Tærskel snuble.</l>
+               <l xml:id="idm140218344742096">Hun gaar, men lader efter sig et Rige,</l>
+               <l xml:id="idm140218344741664">hvor man des mere fyrsteligt kan gruble.</l>
+            </lg>
+            <lg xml:id="idm140218344741088">
+               <l xml:id="idm140218344740832">Af hendes Fodtrin rødmer Verden vide.</l>
+               <l xml:id="idm140218344740352">Saa raaber jeg i Natten stolt til Sinds:</l>
+               <l xml:id="idm140218344739904">»Op alle Svende, vi har langt at ride!</l>
+            </lg>
+            <lg xml:id="idm140218344739344">
+               <l xml:id="idm140218344739088">»Snart brunes Jorden, nær er Dagens Gloden,</l>
+               <l xml:id="idm140218344738640">»Guld dækker Vejene, du Lykkeprins,</l>
+               <l xml:id="idm140218344738208">»og for vi svigter, vil vi kysse Doden.«</l>
+            </lg>
+            <pb n="55"
+                facs="adl/claussen/claussen1/claussen1055"
+                xml:id="idm140218344737632"/>
+         </div>
+      </body>
+   </text>
+</TEI>

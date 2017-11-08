@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>XXXModerne Muse</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="idm140208209776864"><!-- -->
+            <head xml:id="idm140208209776256">
+               <hi rend="italics" xml:id="idm140208209776000">XXX</hi>
+               <lb xml:id="idm140208209775376"/>
+               <hi rend="italics" xml:id="idm140208209775120">Moderne Muse</hi>
+            </head>
+            <lg xml:id="idm140208209774304">
+               <l xml:id="idm140208209774048">Hun er, til Trods sin røde lille Mund,</l>
+               <l xml:id="idm140208209773568">et loddent Udyr, Hoppe, Æsel, Hund,</l>
+               <l xml:id="idm140208209773088">der vifter saa fripostig med sin Hale</l>
+               <l xml:id="idm140208209772656">og fører ganske uforblommet Tale.</l>
+            </lg>
+            <lg xml:id="idm140208209772064">
+               <l xml:id="idm140208209771808">Hun er et Hexeridt, en Narredans,</l>
+               <l xml:id="idm140208209771376">men fin og ung som Junis grønne Dale;</l>
+               <l xml:id="idm140208209770896">hun raaber: "Ryk tre Haar ud af min Svans</l>
+               <l xml:id="idm140208209770448">og strax forvandles de til Nattergale."</l>
+            </lg>
+            <lg xml:id="idm140208209769888">
+               <l xml:id="idm140208209769632">Og hendes Læbe er saa rød, som sagt,</l>
+               <l xml:id="idm140208209769152">men trind og hvid den latterfyldte Strube,</l>
+               <l xml:id="idm140208209768704">at Blodet svulmer i min Hjærtegrube.</l>
+            </lg>
+            <lg xml:id="idm140208209768096">
+               <l xml:id="idm140208209767840">Hun svøber mig i Hovedhaarets Pragt</l>
+               <l xml:id="idm140208209767360">og hvisker: "Mester for den nye Skole,</l>
+               <l xml:id="idm140208209766928">se, jeg er Asenindens unge Fole."</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

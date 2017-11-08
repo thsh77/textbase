@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I DRIFT</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140012641173552">
+                     <name xml:id="idm140012641173296">
+                        <surname xml:id="idm140012641173168">Claussen</surname>, <forename xml:id="idm140012641172704">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140012641172416">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140012641172128">Bd. 1: Naturbørn</title>
+                  <pubPlace xml:id="idm140012641171824">[København]</pubPlace>
+                  <publisher xml:id="idm140012641171360">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140012641170992">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid63726" decls="#biblid63726">
+            <head xml:id="idm140012639919920">
+               <hi rend="italics" xml:id="idm140012639919664">I DRIFT</hi>
+            </head>
+            <lg xml:id="idm140012639918848">
+               <l xml:id="idm140012639918592">Nu glider jeg saa jævnt af Sted -</l>
+               <l xml:id="idm140012639918128">Dag ud! Dag ind!</l>
+               <l xml:id="idm140012639917712">og jager ej paa kryds og kvær;</l>
+               <l xml:id="idm140012639917248">ti jeg har faaet Medbørsvind.</l>
+            </lg>
+            <lg xml:id="idm140012639916656">
+               <l xml:id="idm140012639916400">Hvor godt at tage sit Parti,</l>
+               <l xml:id="idm140012639915968">mens Blod er ungt og Ryg har Marv!</l>
+               <l xml:id="idm140012639915536">Dog ingen véd sig ganske fri</l>
+               <l xml:id="idm140012639915072">for det, som kaldes <hi rend="italics" xml:id="idm140012639914784">Kains Arv</hi>.</l>
+            </lg>
+            <lg xml:id="idm140012639913840">
+               <l xml:id="idm140012639913584">Den Dag kan gry, da Blod faar Ild,</l>
+               <l xml:id="idm140012639913152">da Rygrads-Marven er i Drift,</l>
+               <l xml:id="idm140012639912720">trods alt, hvad man har svoret højt</l>
+               <l xml:id="idm140012639912240">i Ord, i Tanker og i Skrift.</l>
+            </lg>
+            <lg xml:id="idm140012639911680">
+               <l xml:id="idm140012639911424">Kan ské en Dag med Flammesol,</l>
+               <l xml:id="idm140012639910960">kan ské en bange, duftsød Kvæld,</l>
+               <l xml:id="idm140012639910496">at Kain en ubevogtet Stund</l>
+               <l xml:id="idm140012639910064">sin blide Broder slaar ihjæl.</l>
+            </lg>
+            <lg xml:id="idm140012639909472">
+               <l xml:id="idm140012639909216">- Dog nu jeg glider jævnt af Sted</l>
+               <l xml:id="idm140012639908752">Dag ud! Dag ind!</l>
+               <l xml:id="idm140012639908336">og styrer sikkert mod mit Maal</l>
+               <l xml:id="idm140012639907904">i Vinterlys, ved Lygteskin.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

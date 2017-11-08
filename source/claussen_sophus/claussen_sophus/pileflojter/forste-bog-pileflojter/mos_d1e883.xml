@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MOS</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid55921" decls="#biblid55921">
+            <head xml:id="idm140208214140304">
+               <hi rend="italics" xml:id="idm140208214140048">MOS</hi>
+            </head>
+            <lg xml:id="idm140208214139264">
+               <l xml:id="idm140208214139008">Jeg sprang i Høstmorgnens solløse Stund</l>
+               <l xml:id="idm140208214138528">over Gærdet ind i den mørke Lund.</l>
+               <l xml:id="idm140208214138064">Paa de brune Gange laa Løv ved Løv</l>
+               <l xml:id="idm140208214137584">og Kvas og Dugdraaber, tørret i Støv.</l>
+               <l xml:id="idm140208214137104">En Lunhed og Ro som paa indviet Grund.</l>
+            </lg>
+            <lg xml:id="idm140208214136544">
+               <l xml:id="idm140208214136288">Da lød der bag de metaldunkle Trær</l>
+               <l xml:id="idm140208214135808">(mens den hellige Grund blev mer hellig og sær)</l>
+               <l xml:id="idm140208214135312">to lyse Stemmer. Med Arm lagt i Arm</l>
+               <l xml:id="idm140208214134880">kom <hi rend="italics" xml:id="idm140208214134592">hun</hi> og Veninden. Jeg blev saa
+										varm,</l>
+               <l xml:id="idm140208214133696">som om Skovgudens Døtre var vakt og kom nær!</l>
+            </lg>
+            <lg xml:id="idm140208214133072">
+               <l xml:id="idm140208214132816">Vi vandred om Dammen, hvor Svanerne laa,</l>
+               <l xml:id="idm140208214132368">hvor Andemad trives og Bregner staa.</l>
+               <l xml:id="idm140208214131936">De spankede muntert i knirkende Sko.</l>
+               <l xml:id="idm140208214131504">Hendes Læber var lukt' med en Skovguds-Ro,</l>
+               <l xml:id="idm140208214131024">hvor Tanker gro frem mellem Mos og forgaa.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

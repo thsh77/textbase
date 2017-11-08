@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VALFART</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid63627" decls="#biblid63627">
+            <head xml:id="idm140208213175312">
+               <hi rend="italics" xml:id="idm140208213175056">VALFART</hi>
+            </head>
+            <lg xml:id="idm140208213174240">
+               <l xml:id="idm140208213173984">I det vildeste Bjærgpas i Spanien</l>
+               <l xml:id="idm140208213173520">har jeg set Mylady paa sit Muldyr,</l>
+               <l xml:id="idm140208213173088">som blev ført af Barberen i Sevilla.</l>
+               <l xml:id="idm140208213172608">Hun var mere sort end sin Skygge.</l>
+            </lg>
+            <lg xml:id="idm140208213172048">
+               <l xml:id="idm140208213171792">Hendes Lokker var sorte,</l>
+               <l xml:id="idm140208213171360">hendes Ansigt var graat.</l>
+               <l xml:id="idm140208213170928">Hendes Hjaerte var et gammelt Træ</l>
+               <l xml:id="idm140208213170464">paa mere ondt end godt.</l>
+            </lg>
+            <lg xml:id="idm140208213169920">
+               <l xml:id="idm140208213169664">Og dog med Lastens mørke</l>
+               <l xml:id="idm140208213169216">forvitrende Skrift</l>
+               <l xml:id="idm140208213168800">det var, som hun talte</l>
+               <l xml:id="idm140208213168384">til min helligste Drift.</l>
+            </lg>
+            <lg xml:id="idm140208213167824">
+               <l xml:id="idm140208213167568">Hun talte til en Sødme,</l>
+               <l xml:id="idm140208213167120">hun havde selv forraadt -</l>
+               <l xml:id="idm140208213166688">(der var en dunkel Rødme</l>
+               <l xml:id="idm140208213166240">paa begge Kinder saa't).</l>
+            </lg>
+            <lg xml:id="idm140208213165680">
+               <l xml:id="idm140208213165424">Hun lyste: som af Solglans</l>
+               <l xml:id="idm140208213164992">en sprukken Kongemur.</l>
+               <l xml:id="idm140208213164576">Der fandtes Ørnereder</l>
+               <l xml:id="idm140208213164128">i den gamle Kongemur.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

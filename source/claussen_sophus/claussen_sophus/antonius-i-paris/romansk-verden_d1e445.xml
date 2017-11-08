@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romansk Verden</title>
+            <author>Claussen,
+                          Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140218345270288">
+                     <name xml:id="idm140218345270032">
+                        <surname xml:id="idm140218345269904">Claussen</surname>, <forename xml:id="idm140218345269440">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140218345269152">Antonius i Paris</title>
+                  <pubPlace xml:id="idm140218345268864">[København]</pubPlace>
+                  <pubPlace xml:id="idm140218345268400">[Valby]</pubPlace>
+                  <pubPlace xml:id="idm140218345267984">[Ballerup]</pubPlace>
+                  <publisher xml:id="idm140218345267520">Det Danske Sprog- og Litteraturselskab</publisher>
+                  <publisher xml:id="idm140218345267216">Borgen</publisher>
+                  <publisher xml:id="idm140218345266928">[i samarbejde med Nyt Dansk Litteraturselskab]</publisher>
+                  <date xml:id="idm140218345266560">cop. 1990</date>
+                  <biblScope>20</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="idm140218345101168">
+            <head xml:id="idm140218345100912">Romansk Verden</head>
+            <lg xml:id="idm140218345100496">
+               <l xml:id="idm140218345100240">Blodige Tyrekampe, fine Kvinder,</l>
+               <l xml:id="idm140218345099808">Flasker med Vin og natlige Supér,</l>
+               <l xml:id="idm140218345099344">drukne af Vid de fede Harlekiner ...</l>
+               <l xml:id="idm140218345098912">Elskoven fødes, Hjærtet ler ej mer.</l>
+            </lg>
+            <lg xml:id="idm140218345098304">
+               <l xml:id="idm140218345098048">Ordet ej nævnt og Kvindens Blik forstod!</l>
+               <l xml:id="idm140218345097568">og hvad der vared Aar forgaar i Timer,</l>
+               <l xml:id="idm140218345097136">til Kvindens Ejermand paa Porten kimer,</l>
+               <l xml:id="idm140218345096704">og Ærens Duge tvættes af i Blod.</l>
+            </lg>
+            <lg xml:id="idm140218345096112">
+               <l xml:id="idm140218345095856">Hedt som en Kilde hvisker gennem Larmen:</l>
+               <l xml:id="idm140218345095408">»Jeg elsker, vogt dig«  - Tonerne af Carmen,</l>
+               <l xml:id="idm140218345094960">»hvis du er ren, sæt Livet paa et Kort!«</l>
+            </lg>
+            <lg xml:id="idm140218345094384">
+               <l xml:id="idm140218345094128">Og har man drømt, rejst, spillet Lykken bort</l>
+               <l xml:id="idm140218345093632">og føler intet Guld i Lommen tynge,</l>
+               <l xml:id="idm140218345093152">da aabnes Brystet: man kan græde, synge.</l>
+            </lg>
+            <pb n="20"
+                facs="adl/claussen/claussen1/claussen1020"
+                xml:id="idm140218345092544"/>
+         </div>
+      </body>
+   </text>
+</TEI>

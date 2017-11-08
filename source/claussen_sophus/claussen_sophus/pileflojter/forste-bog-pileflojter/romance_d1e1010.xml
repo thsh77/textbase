@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ROMANCE</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid56208" decls="#biblid56208">
+            <head xml:id="idm140208214103744">
+               <hi rend="italics" xml:id="idm140208214103488">ROMANCE</hi>
+            </head>
+            <lg xml:id="idm140208214102672">
+               <l xml:id="idm140208214102416">Min Skat var blond. Hendes Øjnes Blik</l>
+               <l xml:id="idm140208214101936">lo frem som Fugle i sommerlun Strand,</l>
+               <l xml:id="idm140208214101504">og vi var Venner - men naar jeg gik,</l>
+               <l xml:id="idm140208214101072">hun spotted mig: "Daarlige Mand!"</l>
+            </lg>
+            <lg xml:id="idm140208214100512">
+               <l xml:id="idm140208214100256">Saa kom vi af Takt i vor Kærligheds Vals.</l>
+               <l xml:id="idm140208214099776">Jeg knælede: "Straf mig, i Fald du
+										kan!"</l>
+               <l xml:id="idm140208214099280">Da tog hun mig grædende om min Hals</l>
+               <l xml:id="idm140208214098800">og kyssed mig: "Daarlige Mand!"</l>
+            </lg>
+            <lg xml:id="idm140208214098240">
+               <l xml:id="idm140208214097984">Min unge Skat jeg i Harm forlod</l>
+               <l xml:id="idm140208214097552">og flakkede fremmed og ene om Land.</l>
+               <l xml:id="idm140208214097120">Jeg ejed en Skat, som var ung og god.</l>
+               <l xml:id="idm140208214096688">Hun elsker sin daarlige Mand.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

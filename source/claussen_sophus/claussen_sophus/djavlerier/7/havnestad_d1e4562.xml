@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HAVNESTAD</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139945512259712">
+                     <name xml:id="idm139945512259456">
+                        <surname xml:id="idm139945512259328">Claussen</surname>, <forename xml:id="idm139945512258864">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139945512258576">Sophus Claussens lyrik</title>
+                  <title xml:id="idm139945512258288">Bd. 3: Djævlerier</title>
+                  <pubPlace xml:id="idm139945512257984">[København]</pubPlace>
+                  <publisher xml:id="idm139945512257520">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm139945512257152">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid64661" decls="#biblid64661">
+            <head xml:id="idm139945510929920">
+               <hi rend="italics" xml:id="idm139945510929664">HAVNESTAD</hi>
+            </head>
+            <lg xml:id="idm139945510928848">
+               <l xml:id="idm139945510928592">Nu fraader Vandene, og Bølgetumlen</l>
+               <l xml:id="idm139945510928128">fylder den lille gamle Søstads Gader,</l>
+               <l xml:id="idm139945510927648">der staar med dunkle Ruder, graa Façader</l>
+               <l xml:id="idm139945510927168">som Børn og lytter med en bange Skumlen.</l>
+            </lg>
+            <lg xml:id="idm139945510926560">
+               <l xml:id="idm139945510926304">Tusmørket falder paa. Og Blæsten blader</l>
+               <l xml:id="idm139945510925824">i Linden; ved en Husgavl slingrer Humlen.</l>
+               <l xml:id="idm139945510925376">Mens Skummet kysser Skum i stride Rader,</l>
+               <l xml:id="idm139945510924928">fra Løvet lyder knapt en dæmpet Mumlen.</l>
+            </lg>
+            <lg xml:id="idm139945510924320">
+               <l xml:id="idm139945510924064">Skum kysser Skum. Mit Blod kan ogsaa skumme.</l>
+               <l xml:id="idm139945510923616">Jeg søger Havn i en af disse Slipper.</l>
+               <l xml:id="idm139945510923136">Luk Døren op for Knejper og for Kipper!</l>
+            </lg>
+            <lg xml:id="idm139945510922528">
+               <l xml:id="idm139945510922272">Jeg finder Pigebørn og Kortspil dumme.</l>
+               <l xml:id="idm139945510921792">Men jeg vil tale ved en ærlig Kumme</l>
+               <l xml:id="idm139945510921312">om Langfart som en helbefaren Skipper.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

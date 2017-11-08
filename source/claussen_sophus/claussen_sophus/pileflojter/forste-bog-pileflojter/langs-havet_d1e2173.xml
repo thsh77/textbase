@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>LANGS HAVET</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid58803" decls="#biblid58803">
+            <head xml:id="idm140208213780272">
+               <hi rend="italics" xml:id="idm140208213780016">LANGS HAVET</hi>
+            </head>
+            <lg xml:id="idm140208213779200">
+               <l xml:id="idm140208213778944">Sol gaar ned under øde Bred,</l>
+               <l xml:id="idm140208213778480">hvor Stargræs strutter i vindtørt Grus.</l>
+               <l xml:id="idm140208213778000">Det klare Blaa fanger kølig Fred.</l>
+               <l xml:id="idm140208213777536">Havstokken tier i Fralands-Sus.</l>
+            </lg>
+            <lg xml:id="idm140208213776976">
+               <l xml:id="idm140208213776720">Havet ruller stille og stort,</l>
+               <l xml:id="idm140208213776288">et Væsen af Liv, hvis Floders Drag,</l>
+               <l xml:id="idm140208213775808">som sendt fra en eneste Hjærteport,</l>
+               <l xml:id="idm140208213775328">har Vilje gemt i hvert sagte Slag.</l>
+            </lg>
+            <lg xml:id="idm140208213774768">
+               <l xml:id="idm140208213774512">Det ruger som Mythernes Midgaardsorm</l>
+               <l xml:id="idm140208213774080">og slaar med sin Hale i Breddens Sand.</l>
+               <l xml:id="idm140208213773648">Jeg gaar med min Skat i den stigende Storm.</l>
+               <l xml:id="idm140208213773200">Vore Fodtrin befæster det vigende Land.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

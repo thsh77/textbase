@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Den anden Vandringsmand</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62529" decls="#biblid62529">
+            <head xml:id="idm140208213312256">
+               <hi rend="italics" xml:id="idm140208213312000">Den anden Vandringsmand</hi>
+            </head>
+            <lg xml:id="idm140208213311184">
+               <l xml:id="idm140208213310928">Der hasted en anden Vandringsmand</l>
+               <l xml:id="idm140208213310496">som en Lygtemand med sin Lygte.</l>
+               <l xml:id="idm140208213310064">Vel tyve Mile vandrede <hi rend="italics" xml:id="idm140208213309776">han</hi>
+               </l>
+               <l xml:id="idm140208213308992">og fandt ej det, han søgte.</l>
+            </lg>
+            <lg xml:id="idm140208213308400">
+               <l xml:id="idm140208213308144">Han vandred ud, var det hedt og koldt.</l>
+               <l xml:id="idm140208213307712">Han saa' om den gulhvide Maane,</l>
+               <l xml:id="idm140208213307280">der hejstes og sank som en stenet Bold,</l>
+               <l xml:id="idm140208213306848">den tynde Høstluft blaane.</l>
+            </lg>
+            <lg xml:id="idm140208213306272">
+               <l xml:id="idm140208213306016">Han fulgte med sit natvante Blik</l>
+               <l xml:id="idm140208213305584">det store Værk af Kloder,</l>
+               <l xml:id="idm140208213305136">men mødte ej Fred og Modertrøst</l>
+               <l xml:id="idm140208213304672">hos Jorden, vor fælles Moder.</l>
+            </lg>
+            <lg xml:id="idm140208213304080">
+               <l xml:id="idm140208213303824">Han vandred vel tyve, vel fyrre Mil,</l>
+               <l xml:id="idm140208213303392">og tørned sin tørstende Hjærne</l>
+               <l xml:id="idm140208213302928">til Blods paa Klodernes Gaader af Sten,</l>
+               <l xml:id="idm140208213302496">Evighedsmøllens Kværne.</l>
+            </lg>
+            <lg xml:id="idm140208213301920">
+               <l xml:id="idm140208213301664">Han fandt den første Vandringsmand</l>
+               <l xml:id="idm140208213301200">under Sommerens Tag og Tørke.</l>
+               <l xml:id="idm140208213300736">De sad og talte den halve Nat</l>
+               <l xml:id="idm140208213300304">i det friske, det lægende Mørke.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

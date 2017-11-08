@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>FØRSTE GANG</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140012641173552">
+                     <name xml:id="idm140012641173296">
+                        <surname xml:id="idm140012641173168">Claussen</surname>, <forename xml:id="idm140012641172704">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140012641172416">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140012641172128">Bd. 1: Naturbørn</title>
+                  <pubPlace xml:id="idm140012641171824">[København]</pubPlace>
+                  <publisher xml:id="idm140012641171360">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140012641170992">1982-</date>
+                  <biblScope>76</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62852" decls="#biblid62852">
+            <head xml:id="idm140012640030048">
+               <hi rend="italics" xml:id="idm140012640029792">FØRSTE GANG</hi>
+            </head>
+            <lg xml:id="idm140012640028960">
+               <l xml:id="idm140012640028704">Jeg trykked dine hvide Hænder</l>
+               <l xml:id="idm140012640028240">og kyssed din Mund</l>
+               <l xml:id="idm140012640027824">for første Gang.</l>
+               <l xml:id="idm140012640027392">En dvælende lang</l>
+               <l xml:id="idm140012640026960">lyksalig Stund!</l>
+            </lg>
+            <lg xml:id="idm140012640026416">
+               <l xml:id="idm140012640026160">Sejersforvoven</l>
+               <l xml:id="idm140012640025744">holdt jeg dig fast mod mit Bryst.</l>
+            </lg>
+            <lg xml:id="idm140012640025184">
+               <l xml:id="idm140012640024928">Vinden sused igennem Skoven</l>
+               <l xml:id="idm140012640024496">blæstlun, med Duft</l>
+               <l xml:id="idm140012640024064">af Planternes Modnen i Høst;</l>
+               <l xml:id="idm140012640023600">mens nede i Kløften</l>
+               <l xml:id="idm140012640023152">en Kilde blinked</l>
+               <l xml:id="idm140012640022736">som sølvhvidt Krystal.</l>
+            </lg>
+            <lg xml:id="idm140012640022160">
+               <l xml:id="idm140012640021904">Jeg sansede ikke.</l>
+               <l xml:id="idm140012640021488">Det var mig nok</l>
+               <l xml:id="idm140012640021072">dine Læbers Kys,</l>
+               <l xml:id="idm140012640020640">dine Øjnes Glans at drikke.</l>
+            </lg>
+            <lg xml:id="idm140012640020048">
+               <l xml:id="idm140012640019792">Man taler om <hi rend="italics" xml:id="idm140012640019504">flammende</hi> Blikke -</l>
+               <l xml:id="idm140012640018656">
+                  <hi rend="italics" xml:id="idm140012640018528">Dit</hi> mørke Blik</l>
+               <l xml:id="idm140012640017696">vided sig, ebbed</l>
+               <l xml:id="idm140012640017280">som smæltet Metal.</l>
+            </lg>
+            <lg xml:id="idm140012640016720">
+               <l xml:id="idm140012640016464">Det var første Gang,</l>
+               <l xml:id="idm140012640016016">mit Blod saa ungt.</l>
+               <pb n="76" xml:id="s76" facs="adl/claussen/claussen03/claussen3076"/>
+               <l xml:id="idm140012640014432">Jeg kyssed dig atter</l>
+               <l xml:id="idm140012640014016">saa trykkende tæt.</l>
+               <l xml:id="idm140012640013584">Det var Graad, det var Latter,</l>
+               <l xml:id="idm140012640013152">var Klage, var Sang.</l>
+               <l xml:id="idm140012640012736">Mit Hjærte blev let,</l>
+               <l xml:id="idm140012640012288">mens mit Hoved gled tungt</l>
+               <l xml:id="idm140012640011856">til dit Bryst.</l>
+               <l xml:id="idm140012640011440">Og jeg tror, at jeg helst havde grædt.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

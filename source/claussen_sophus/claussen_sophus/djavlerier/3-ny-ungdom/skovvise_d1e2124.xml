@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>SKOVVISE</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139945512259712">
+                     <name xml:id="idm139945512259456">
+                        <surname xml:id="idm139945512259328">Claussen</surname>, <forename xml:id="idm139945512258864">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139945512258576">Sophus Claussens lyrik</title>
+                  <title xml:id="idm139945512258288">Bd. 3: Djævlerier</title>
+                  <pubPlace xml:id="idm139945512257984">[København]</pubPlace>
+                  <publisher xml:id="idm139945512257520">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm139945512257152">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid58925" decls="#biblid58925">
+            <head xml:id="idm139945511628272">
+               <hi rend="italics" xml:id="idm139945511628016">SKOVVISE</hi>
+            </head>
+            <lg xml:id="idm139945511627200">
+               <l xml:id="idm139945511626944">"Det er et Vejr, et dejligt Foraarsvejr.</l>
+               <l xml:id="idm139945511626496">Jeg har dig kær, og hvis du har mig kær,</l>
+               <l xml:id="idm139945511626016">kom, sid mig nær - jeg sidder dig saa
+										nær."</l>
+            </lg>
+            <lg xml:id="idm139945511625376">
+               <l xml:id="idm139945511625120">Min stolte Dronning sang, og jeg befol.</l>
+               <l xml:id="idm139945511624688">Vi sad i Græssets lave, bløde Stol</l>
+               <l xml:id="idm139945511624208">med vore Saaler vendt imod Guds Sol</l>
+               <l xml:id="idm139945511623776">"Hu-hej-aa-hej!"</l>
+            </lg>
+            <lg xml:id="idm139945511623232">
+               <l xml:id="idm139945511622976">En Dag kan gaa med Kys og Fløjtespil,</l>
+               <l xml:id="idm139945511622496">mens Egetrær og Daadyr lytter til.</l>
+               <l xml:id="idm139945511622032">Man er saa fri og glad, som selv man vil.</l>
+            </lg>
+            <lg xml:id="idm139945511621456">
+               <l xml:id="idm139945511621200">Men Solen synker, Dagen bliver bleg</l>
+               <l xml:id="idm139945511620768">og mere alvorsfuld vor skønne Leg.</l>
+               <l xml:id="idm139945511620304">Saa vinker vi Farvel den mørke Eg</l>
+               <l xml:id="idm139945511619840">"Hu-hej-aa-hej!"</l>
+            </lg>
+            <lg xml:id="idm139945511619296">
+               <l xml:id="idm139945511619040">Vi Skovens Børn, som intet ondt har gjort,</l>
+               <l xml:id="idm139945511618560">vort Hjærte svimler, Riget er saa stort</l>
+               <l xml:id="idm139945511618080">som ud til Dyrehavens sidste Port.</l>
+            </lg>
+            <lg xml:id="idm139945511617520">
+               <l xml:id="idm139945511617264">Og langt til alle Sider kan vi gaa,</l>
+               <l xml:id="idm139945511616832">mens Sletten stille dugges brun og graa;</l>
+               <l xml:id="idm139945511616384">man bliver kæk, naar Mørket falder paa,</l>
+               <l xml:id="idm139945511615904">"Hu-hej-aa-hej!"</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

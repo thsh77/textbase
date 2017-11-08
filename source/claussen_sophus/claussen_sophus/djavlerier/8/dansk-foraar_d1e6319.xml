@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>DANSK FORAAR</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139945512259712">
+                     <name xml:id="idm139945512259456">
+                        <surname xml:id="idm139945512259328">Claussen</surname>, <forename xml:id="idm139945512258864">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139945512258576">Sophus Claussens lyrik</title>
+                  <title xml:id="idm139945512258288">Bd. 3: Djævlerier</title>
+                  <pubPlace xml:id="idm139945512257984">[København]</pubPlace>
+                  <publisher xml:id="idm139945512257520">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm139945512257152">1982-</date>
+                  <biblScope>144</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid68582" decls="#biblid68582">
+            <head xml:id="idm139945510449360">
+               <hi rend="italics" xml:id="idm139945510449104">DANSK FORAAR</hi>
+            </head>
+            <lg xml:id="idm139945510448288">
+               <l xml:id="idm139945510448032">Naturen min Elskerinde</l>
+               <l xml:id="idm139945510447616">har taget sit Forklæde paa,</l>
+               <l xml:id="idm139945510447152">sit Forklæde af Anemoner,</l>
+               <l xml:id="idm139945510446704">slængt over Kjolens Graa!</l>
+            </lg>
+            <lg xml:id="idm139945510446128">
+               <l xml:id="idm139945510445872">Naturen min Elskerinde</l>
+               <l xml:id="idm139945510445456">er bleven saa formiddagsklædt</l>
+               <l xml:id="idm139945510444992">med grønne Buketter ved Bæltet.</l>
+               <l xml:id="idm139945510444528">Nu er jeg ilde stedt ...</l>
+            </lg>
+            <lg xml:id="idm139945510443968">
+               <l xml:id="idm139945510443712">Jeg sidder atter i Lunden</l>
+               <l xml:id="idm139945510443280">paa Bænkens frønnede Træ</l>
+               <l xml:id="idm139945510442832">og stirrer henad en Gangsti</l>
+               <l xml:id="idm139945510442400">med Hænderne under mit Knæ;</l>
+            </lg>
+            <lg xml:id="idm139945510441808">
+               <l xml:id="idm139945510441552">jeg attraar de spirende Urter</l>
+               <l xml:id="idm139945510441120">og trækker dog Vejret saa frit,</l>
+               <l xml:id="idm139945510440656">hænger ved dette Klæde</l>
+               <l xml:id="idm139945510440208">af Grønt broderet med Hvidt.</l>
+            </lg>
+            <lg xml:id="idm139945510439616">
+               <l xml:id="idm139945510439360">Naturen min kyske Veninde</l>
+               <l xml:id="idm139945510438928">skænker mig Sol og Læ</l>
+               <l xml:id="idm139945510438480">og alle Slags friske Farver,</l>
+               <l xml:id="idm139945510438048">broderede ved hendes Knæ.</l>
+            </lg>
+            <lg xml:id="idm139945510437472">
+               <l xml:id="idm139945510437216">Men blir det mit Hjærte for broget,</l>
+               <l xml:id="idm139945510436736">saa slaar der en Nattergal</l>
+               <l xml:id="idm139945510436304">i Haven, til Tegn og til Trøst: - at</l>
+               <l xml:id="idm139945510435824">en anden er ligesaa gal.</l>
+            </lg>
+            <pb n="144" xml:id="s144" facs="adl/claussen/claussen05/claussen5144"/>
+            <lg xml:id="idm139945510434080">
+               <l xml:id="idm139945510433824">Naturen min unge Moder</l>
+               <l xml:id="idm139945510433408">har rakt mig sit Forklædes Flig.</l>
+               <l xml:id="idm139945510432944">Og endt er Dæmonernes Hærværk.</l>
+               <l xml:id="idm139945510432480">Jeg er i mit Himmerig.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

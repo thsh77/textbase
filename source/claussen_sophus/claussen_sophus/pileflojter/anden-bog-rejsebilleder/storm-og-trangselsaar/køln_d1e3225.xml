@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Køln</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope>70</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid61267" decls="#biblid61267">
+            <head xml:id="idm140208213473952">
+               <hi rend="italics" xml:id="idm140208213473696">Køln</hi>
+            </head>
+            <lg xml:id="idm140208213472880">
+               <l xml:id="idm140208213472624">Den skumle Kathedral, den skidne Rhin,</l>
+               <l xml:id="idm140208213472192">og Køln en Regnvejrsnat! En Klang af Flasker,</l>
+               <l xml:id="idm140208213471696">Kvinder i Rødt, som kvinker Violin,</l>
+               <l xml:id="idm140208213471216">og Folk, som gylper, mens hver Tagtud plasker.</l>
+            </lg>
+            <lg xml:id="idm140208213470640">
+               <l xml:id="idm140208213470384">Jeg købte, før jeg rejste, et Prospekt</l>
+               <l xml:id="idm140208213469904">af By og Dom, erfarede perfekt</l>
+               <l xml:id="idm140208213469472">af Frøknen bag sin Disk, hvad disse Egne</l>
+               <l xml:id="idm140208213468992">vel tænkte om den gudsforladte Heine.</l>
+            </lg>
+            <pb n="70" xml:id="s70" facs="adl/claussen/claussen04/claussen4070"/>
+            <lg xml:id="idm140208213467216">
+               <l xml:id="idm140208213466960">"I Køln var Heine afholdt, han forspildte</l>
+               <l xml:id="idm140208213466480">sin Gunst, da han holdt Bryllup med Mathilde.</l>
+               <l xml:id="idm140208213466032">Man vidste jo, han var saa ødelagt!<hi rend="italics" xml:id="idm140208213465680">"</hi>
+               </l>
+            </lg>
+            <lg xml:id="idm140208213464768">
+               <l xml:id="idm140208213464512">Ak stakkels Digter, brudt af Gigt og Tæring!</l>
+               <l xml:id="idm140208213464016">der er ej Sot, der standser Hjærtets Magt,</l>
+               <l xml:id="idm140208213463536">som i saa klam en Verden kræver Næring!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

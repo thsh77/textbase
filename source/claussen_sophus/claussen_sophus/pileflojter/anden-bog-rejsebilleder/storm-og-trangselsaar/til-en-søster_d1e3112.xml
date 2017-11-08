@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til en Søster</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope>68</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid61006" decls="#biblid61006">
+            <head xml:id="idm140208213507728">
+               <hi rend="italics" xml:id="idm140208213507472">Til en Søster</hi>
+            </head>
+            <lg xml:id="idm140208213506640">
+               <l xml:id="idm140208213506384">Jeg mindes dig fra Høsten, kære Søster,</l>
+               <l xml:id="idm140208213505904">den Soldag paa det flade Lollands Kyster,</l>
+               <l xml:id="idm140208213505456">Nysted og Aalholm, Støtten for Grev Raben,</l>
+               <l xml:id="idm140208213504976">den gule Jagthund med sin Sten i Flaben
+											-</l>
+            </lg>
+            <lg xml:id="idm140208213504400">
+               <l xml:id="idm140208213504144">der fulgte os langs Skov og Strand og Næs,</l>
+               <l xml:id="idm140208213503664">hvor midt i Planteverdnen, Dyreriget,</l>
+               <pb n="68" xml:id="s68" facs="adl/claussen/claussen04/claussen4068"/>
+               <l xml:id="idm140208213501968">blandt Raavildt, Slaaentjørn og vissent Græs</l>
+               <l xml:id="idm140208213501472">ved Løvfald fordum Aarestrup har higet.</l>
+            </lg>
+            <lg xml:id="idm140208213500864">
+               <l xml:id="idm140208213500608">
+                  <hi rend="italics" xml:id="idm140208213500480">Hans</hi> Tid var for en
+												grundtvigsk Domprovst fri,</l>
+               <l xml:id="idm140208213499600">og i et højst naivt Kondittori</l>
+               <l xml:id="idm140208213499136">man fandt kun Rum for sig og sin Charlotte.</l>
+            </lg>
+            <lg xml:id="idm140208213498560">
+               <l xml:id="idm140208213498304">Aa Søster, brav som hine Tider, maatte</l>
+               <l xml:id="idm140208213497824">du ene være Moder, intet andet!</l>
+               <l xml:id="idm140208213497360">Vi trænger til honnette Folk i Landet.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

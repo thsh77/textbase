@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>FROKOSTHVIL</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139945512259712">
+                     <name xml:id="idm139945512259456">
+                        <surname xml:id="idm139945512259328">Claussen</surname>, <forename xml:id="idm139945512258864">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139945512258576">Sophus Claussens lyrik</title>
+                  <title xml:id="idm139945512258288">Bd. 3: Djævlerier</title>
+                  <pubPlace xml:id="idm139945512257984">[København]</pubPlace>
+                  <publisher xml:id="idm139945512257520">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm139945512257152">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59467" decls="#biblid59467">
+            <head xml:id="idm139945511559728">FROKOSTHVIL</head>
+            <opener xml:id="idm139945511559264">
+               <hi rend="italics" xml:id="idm139945511559008">Til en Trøsterinde</hi>
+            </opener>
+            <lg xml:id="idm139945511558176">
+               <l xml:id="idm139945511557920">Naar Natten er forbi, og Vejen</l>
+               <l xml:id="idm139945511557488">er hvid og fin, med Fuglesang i Løvet,</l>
+               <l xml:id="idm139945511557008">ved ingen mer, hvor mange Roser</l>
+               <l xml:id="idm139945511556576">og Kys der blev bag disse Grene røvet.</l>
+               <l xml:id="idm139945511556096">Men her er Blomster traadt i Støvet.</l>
+            </lg>
+            <lg xml:id="idm139945511555488">
+               <l xml:id="idm139945511555232">Ak, Eneboerske i Skoven!</l>
+               <l xml:id="idm139945511554800">nu bringer Dagen Dugg til alle Sjæle.</l>
+               <l xml:id="idm139945511554320">Und mig som Gunst i denne Morgen</l>
+               <l xml:id="idm139945511553888">en Blomst af dem, De lod saa mange stjæle</l>
+               <l xml:id="idm139945511553408">og trampe paa i Nat med Røverhæle.</l>
+            </lg>
+            <lg xml:id="idm139945511552800">
+               <l xml:id="idm139945511552544">Min vakre Frøken, De maa vide:</l>
+               <l xml:id="idm139945511552080">jeg er en Grublersjæl, der ædru tænker</l>
+               <l xml:id="idm139945511551600">saa ømt som andre kun i Mørke</l>
+               <l xml:id="idm139945511551136">og vaagen uden alle Rænker</l>
+               <l xml:id="idm139945511550688">kan takke høflig den, der for mig skænker.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

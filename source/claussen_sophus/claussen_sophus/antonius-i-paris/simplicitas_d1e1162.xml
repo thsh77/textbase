@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Simplicitas
+Tilegnet en naiv og nysgærrig Veninde</title>
+            <author>Claussen,
+                          Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140218345270288">
+                     <name xml:id="idm140218345270032">
+                        <surname xml:id="idm140218345269904">Claussen</surname>, <forename xml:id="idm140218345269440">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140218345269152">Antonius i Paris</title>
+                  <pubPlace xml:id="idm140218345268864">[København]</pubPlace>
+                  <pubPlace xml:id="idm140218345268400">[Valby]</pubPlace>
+                  <pubPlace xml:id="idm140218345267984">[Ballerup]</pubPlace>
+                  <publisher xml:id="idm140218345267520">Det Danske Sprog- og Litteraturselskab</publisher>
+                  <publisher xml:id="idm140218345267216">Borgen</publisher>
+                  <publisher xml:id="idm140218345266928">[i samarbejde med Nyt Dansk Litteraturselskab]</publisher>
+                  <date xml:id="idm140218345266560">cop. 1990</date>
+                  <biblScope>41</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="idm140218344876656">
+            <head xml:id="idm140218344876400">Simplicitas<lb xml:id="idm140218344876112"/>
+Tilegnet en naiv og nysgærrig Veninde</head>
+            <lg xml:id="idm140218344875632">
+               <l xml:id="idm140218344875376">Den hellige Uvidenhed, saa klar</l>
+               <l xml:id="idm140218344874944">og med et vantro Blik (som midt i Kulden</l>
+               <l xml:id="idm140218344874496">et isblaat Springvand), mødte mig. Hun bar</l>
+               <l xml:id="idm140218344874016">sin Kjole hjemmevævet, tæt og ulden.</l>
+            </lg>
+            <lg xml:id="idm140218344873408">
+               <l xml:id="idm140218344873152">Skønt noget haansk af Lader, lidt for kantet</l>
+               <l xml:id="idm140218344872656">og tvær med denne Pande altid ren,</l>
+               <l xml:id="idm140218344872192">hun ejed baade Hjærte og var plantet</l>
+               <l xml:id="idm140218344871712">med Kvindetække paa to trygge Ben.</l>
+            </lg>
+            <lg xml:id="idm140218344871120">
+               <l xml:id="idm140218344870864">Hun havde ikke Lastens magre Bryster.</l>
+               <l xml:id="idm140218344870432">
+                  <hi rend="italics" xml:id="idm140218344870304">Letfærdigheden</hi> lo og fandt mig løs.</l>
+               <l xml:id="idm140218344869408">
+                  <hi rend="italics" xml:id="idm140218344869280">Uvidenheden</hi>, denne barske Søster,</l>
+            </lg>
+            <lg xml:id="idm140218344868272">
+               <l xml:id="idm140218344868016">hun saa, det var et Liv med nye Love,</l>
+               <l xml:id="idm140218344867584">hvorfor jeg havde sat mig selv i Vove,</l>
+               <l xml:id="idm140218344867152">og rakte mig sit Skørt, den Gang jeg frøs.</l>
+            </lg>
+            <pb n="41"
+                facs="adl/claussen/claussen1/claussen1041"
+                xml:id="idm140218344866528"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>LANDSBY-VEJE</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope>51</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59616" decls="#biblid59616">
+            <head xml:id="idm140208213676960">
+               <hi rend="italics" xml:id="idm140208213676704">LANDSBY-VEJE</hi>
+            </head>
+            <lg xml:id="idm140208213675888">
+               <l xml:id="idm140208213675632">De gamle Landsby-Veje,</l>
+               <l xml:id="idm140208213675216">som tyve Gange dreje,</l>
+               <l xml:id="idm140208213674800">hvor sorte Snegle krybe</l>
+               <l xml:id="idm140208213674384">og Hjulenes Spor er dybe,</l>
+               <l xml:id="idm140208213673952">de rummer Skjulesteder,</l>
+               <l xml:id="idm140208213673536">hvor alskens Fugle bygger</l>
+               <l xml:id="idm140208213673104">ind under de tætte Piles</l>
+               <l xml:id="idm140208213672656">silkefligede Skygger.</l>
+            </lg>
+            <lg xml:id="idm140208213672112">
+               <l xml:id="idm140208213671856">Her gik jeg syv Aar gammel</l>
+               <l xml:id="idm140208213671424">og srirred op i Vejret</l>
+               <l xml:id="idm140208213671008">imellem Rødpil, som dryssed</l>
+               <l xml:id="idm140208213670544">Dug over mig og Gærdet,</l>
+               <l xml:id="idm140208213670096">vandred med Lærebogen</l>
+               <l xml:id="idm140208213669648">om Foraaret, tidlig vaagnet,</l>
+               <l xml:id="idm140208213669216">omkap med den bibelfaste</l>
+               <l xml:id="idm140208213668784">Skoleungdom i Sognet.</l>
+            </lg>
+            <lg xml:id="idm140208213668240">
+               <l xml:id="idm140208213667984">Men ingen Jordbær findes</l>
+               <l xml:id="idm140208213667536">saa røde i Himmerige</l>
+               <l xml:id="idm140208213667088">som under to Pilerækkers</l>
+               <l xml:id="idm140208213666640">skærmende Silkeflige.</l>
+               <l xml:id="idm140208213666192">Lad Pile staa langs Vejen</l>
+               <l xml:id="idm140208213665760">og Jordbær voxe røde,</l>
+               <l xml:id="idm140208213665312">med mindre I vil kede</l>
+               <l xml:id="idm140208213664896">den kommende Slægt til Døde.</l>
+            </lg>
+            <lg xml:id="idm140208213664304">
+               <l xml:id="idm140208213664048">Der fandtes Skjulesteder,</l>
+               <l xml:id="idm140208213663616">som ingen mere freder.</l>
+               <l xml:id="idm140208213663200">Kun Landsbyens mindste Knægte</l>
+               <pb n="51" xml:id="s51" facs="adl/claussen/claussen04/claussen4051"/>
+               <l xml:id="idm140208213661472">løb da og stjal Fuglereder.</l>
+               <l xml:id="idm140208213661008">Men disse smaabitte Fyre</l>
+               <l xml:id="idm140208213660576">er ganske uberegnet</l>
+               <l xml:id="idm140208213660160">bleven til voxne Karle,</l>
+               <l xml:id="idm140208213659744">der rydder hele Hegnet.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

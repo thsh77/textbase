@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gensynet</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope>74</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid61896" decls="#biblid61896">
+            <head xml:id="idm140208213393296">
+               <hi rend="italics" xml:id="idm140208213393040">Gensynet</hi>
+            </head>
+            <lg xml:id="idm140208213392224">
+               <l xml:id="idm140208213391968">Der drypped Blomster røde som en Brand</l>
+               <l xml:id="idm140208213391488">for mine Blik ... jeg gensaa hendes Øjne,</l>
+               <l xml:id="idm140208213391008">hvis Bund er dobbelt som et frossent Vand.</l>
+               <l xml:id="idm140208213390560">Men Blomsterne var Læbens Smil - det
+											nøgne!</l>
+            </lg>
+            <pb n="74" xml:id="s74" facs="adl/claussen/claussen04/claussen4074"/>
+            <lg xml:id="idm140208213388768">
+               <l xml:id="idm140208213388512">Hun var saa næsvis i sin Flagre-Flugt,</l>
+               <l xml:id="idm140208213388032">en Fugl, som med for tunge Fjedre brammer!</l>
+               <l xml:id="idm140208213387584">Og Haaret dobbelt mørkt. Og dybt og smukt</l>
+               <l xml:id="idm140208213387104">stod Kind og Tindinger i Dobbeltflammer.</l>
+            </lg>
+            <lg xml:id="idm140208213386528">
+               <l xml:id="idm140208213386272">Det var din gamle Dobbelthed, min Fe,</l>
+               <l xml:id="idm140208213385840">dit Smil saa fuldt af Løfter og af Ve.</l>
+               <l xml:id="idm140208213385360">Tvetvunden bringer du mig tvefold Jammer.
+											-</l>
+            </lg>
+            <lg xml:id="idm140208213384784">
+               <l xml:id="idm140208213384528">Med ét begyndte alt mit Blod at le:</l>
+               <l xml:id="idm140208213384048">jeg saa dig af en Rembrandtsk Livsild skinne.</l>
+               <l xml:id="idm140208213383600">Saa fandt jeg Dobbeltmand min Dobbeltkvinde.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

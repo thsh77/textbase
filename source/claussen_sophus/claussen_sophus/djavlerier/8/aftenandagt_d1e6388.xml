@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>AFTENANDAGT</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139945512259712">
+                     <name xml:id="idm139945512259456">
+                        <surname xml:id="idm139945512259328">Claussen</surname>, <forename xml:id="idm139945512258864">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139945512258576">Sophus Claussens lyrik</title>
+                  <title xml:id="idm139945512258288">Bd. 3: Djævlerier</title>
+                  <pubPlace xml:id="idm139945512257984">[København]</pubPlace>
+                  <publisher xml:id="idm139945512257520">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm139945512257152">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid68740" decls="#biblid68740">
+            <head xml:id="idm139945510429664">
+               <hi rend="italics" xml:id="idm139945510429408">AFTENANDAGT</hi>
+            </head>
+            <lg xml:id="idm139945510428592">
+               <l xml:id="idm139945510428336">Det er den Stund, da Mørket, sig bredende,</l>
+               <l xml:id="idm139945510427856">opfylder Haverne, Vangene,</l>
+               <l xml:id="idm139945510427424">da Pindsvin sværmer i Gangene</l>
+               <l xml:id="idm139945510426960">og Tjenestepiger ved Ledene.</l>
+            </lg>
+            <lg xml:id="idm139945510426400">
+               <l xml:id="idm139945510426144">Den Time, da Natten, den fredende,</l>
+               <l xml:id="idm139945510425712">vækker i Villaen Sangene,</l>
+               <l xml:id="idm139945510425264">mens lille Rebekka til Klangene</l>
+               <l xml:id="idm139945510424832">luger Salaten i Bedene.</l>
+            </lg>
+            <lg xml:id="idm139945510424288">
+               <l xml:id="idm139945510424032">Den Stund, efter Dagen, den hedende,</l>
+               <l xml:id="idm139945510423600">da Blomsterne rejser sig prangende,</l>
+               <l xml:id="idm139945510423168">men Fuglene tier bag Hangene</l>
+               <l xml:id="idm139945510422736">og Vejene lytter til Fjedene.</l>
+            </lg>
+            <lg xml:id="idm139945510422176">
+               <l xml:id="idm139945510421920">Nu slæbes de selvopgivende</l>
+               <l xml:id="idm139945510421472">søvntrætte Smaabørn i Badene.</l>
+               <l xml:id="idm139945510421008">De bér til den Alt-forladende.</l>
+               <l xml:id="idm139945510420544">Nu skjuler sig Svanen i Sivene.</l>
+            </lg>
+            <lg xml:id="idm139945510419984">
+               <l xml:id="idm139945510419728">Og Moderhjærtet, det anende,</l>
+               <l xml:id="idm139945510419264">er bleven vidunderlig drømmende.</l>
+               <l xml:id="idm139945510418800">Hvor taler du sødt og formanende,</l>
+               <l xml:id="idm139945510418336">Caty, min Svane paa Strømmene.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

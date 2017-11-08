@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MENS JEG REJSER MOD NORD</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid64982" decls="#biblid64982">
+            <head xml:id="idm140208213003536">
+               <hi rend="italics" xml:id="idm140208213003280">MENS JEG REJSER MOD NORD</hi>
+            </head>
+            <lg xml:id="idm140208213002448">
+               <l xml:id="idm140208213002192">Alt, hvad jeg længes efter,</l>
+               <l xml:id="idm140208213001728">og som jeg ikke kan naa,</l>
+               <l xml:id="idm140208213001296">det findes i Venedig,</l>
+               <l xml:id="idm140208213000880">Byen, jeg aldrig saa'.</l>
+            </lg>
+            <lg xml:id="idm140208213000336">
+               <l xml:id="idm140208213000080">Venedig, en rødblond Skønhed,</l>
+               <l xml:id="idm140208212999616">mægtig som Nuets Lyst,</l>
+               <l xml:id="idm140208212999168">ny som et ubrudt Marmor</l>
+               <l xml:id="idm140208212998752">fra den karrariske Kyst.</l>
+            </lg>
+            <lg xml:id="idm140208212998192">
+               <l xml:id="idm140208212997936">Italiens Hovedsmykke</l>
+               <l xml:id="idm140208212997520">og Adrias gyldne Laas!</l>
+               <l xml:id="idm140208212997104">Og her begynder den Lykke,</l>
+               <l xml:id="idm140208212996672">som ingensinde naas ...</l>
+            </lg>
+            <lg xml:id="idm140208212996128">
+               <l xml:id="idm140208212995872">Den hellige Forventning,</l>
+               <l xml:id="idm140208212995440">der gror i Hjærternes Grund,</l>
+               <l xml:id="idm140208212994976">er gemt ved Venedigs Hjærte ...</l>
+               <l xml:id="idm140208212994512">Der vilde den kysse min Mund.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

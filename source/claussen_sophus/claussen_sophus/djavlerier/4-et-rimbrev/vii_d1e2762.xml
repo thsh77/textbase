@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VII</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139945512259712">
+                     <name xml:id="idm139945512259456">
+                        <surname xml:id="idm139945512259328">Claussen</surname>, <forename xml:id="idm139945512258864">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139945512258576">Sophus Claussens lyrik</title>
+                  <title xml:id="idm139945512258288">Bd. 3: Djævlerier</title>
+                  <pubPlace xml:id="idm139945512257984">[København]</pubPlace>
+                  <publisher xml:id="idm139945512257520">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm139945512257152">1982-</date>
+                  <biblScope>66</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="idm139945511443312">
+            <head xml:id="idm139945511443056">VII</head>
+            <lg xml:id="idm139945511442672">
+               <l xml:id="idm139945511442416">Er det muligvis sandt, at Naturen har overanstrengt sig,</l>
+               <l xml:id="idm139945511441952">at den ældgamle Bank nu er sprængt, og Bankøren har hængt
+										sig?</l>
+               <l xml:id="idm139945511441392">... "Men Smaakrav, dem faar vi betalt",
+										har Vandalerne tænkt sig.</l>
+            </lg>
+            <lg xml:id="idm139945511440704">
+               <l xml:id="idm139945511440448">Det er sundt at fortvivle. Men sig mig, hvorfor ikke Livet</l>
+               <l xml:id="idm139945511439984">skulde give os alting saa rigt, som det altid har givet?</l>
+               <l xml:id="idm139945511439520">skulde drage for Lyset det Livskim, vi higede efter,</l>
+               <l xml:id="idm139945511439072">skulde vække som før af vor Muld overdaadige Kræfter?</l>
+            </lg>
+            <pb n="66" xml:id="s66" facs="adl/claussen/claussen05/claussen5066"/>
+            <lg xml:id="idm139945511437264">
+               <l xml:id="idm139945511437008">Hvis et Tvivlerkomplot vil bestemme om Fremtidens Fødsel,</l>
+               <l xml:id="idm139945511436496">da har jeg et Ord: Det er godt, det er godt, I gi'r Gødsel.</l>
+               <l xml:id="idm139945511435968">Thi jeg tror, at Naturen, vor Moder, er <hi rend="italics" xml:id="idm139945511435648">end</hi> mere ødsel.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

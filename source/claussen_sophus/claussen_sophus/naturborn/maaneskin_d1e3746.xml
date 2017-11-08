@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MAANESKIN</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140012641173552">
+                     <name xml:id="idm140012641173296">
+                        <surname xml:id="idm140012641173168">Claussen</surname>, <forename xml:id="idm140012641172704">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140012641172416">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140012641172128">Bd. 1: Naturbørn</title>
+                  <pubPlace xml:id="idm140012641171824">[København]</pubPlace>
+                  <publisher xml:id="idm140012641171360">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140012641170992">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62756" decls="#biblid62756">
+            <head xml:id="idm140012640042368">
+               <hi rend="italics" xml:id="idm140012640042112">MAANESKIN</hi>
+            </head>
+            <lg xml:id="idm140012640041296">
+               <l xml:id="idm140012640041040">I maaneblændet Drøm det tavse Sund</l>
+               <l xml:id="idm140012640040560">nu slumrer mellem bløde Bakkekanter.</l>
+               <l xml:id="idm140012640040080">Og her: mod Vejens støvethvide Grund</l>
+               <l xml:id="idm140012640039600">Kastanjerækken sort sin Skygge planter.</l>
+            </lg>
+            <lg xml:id="idm140012640038992">
+               <l xml:id="idm140012640038736">Jeg vader i den hvide Félys-Strøm,</l>
+               <l xml:id="idm140012640038256">søvnløs, mens Verden ligger dum-forsovet.</l>
+               <l xml:id="idm140012640037776">Det brænder mig som Ild, naar i min Drøm</l>
+               <l xml:id="idm140012640037296">jeg sér dit blide Smil, dit lyse Hoved.</l>
+            </lg>
+            <lg xml:id="idm140012640036688">
+               <l xml:id="idm140012640036432">Aléne gaar jeg. Hvorfor kom ej <hi rend="italics" xml:id="idm140012640036096">du!</hi>
+               </l>
+               <l xml:id="idm140012640035216">og blot et Ord mig kunde dulme Sorgen!</l>
+               <l xml:id="idm140012640034784">Alene vaagen venter jeg med Gru</l>
+               <l xml:id="idm140012640034352">paa Længslens lange Marterdag i Morgen.</l>
+            </lg>
+            <trailer xml:id="idm140012640033744">
+               <date xml:id="idm140012640033488">
+                  <hi rend="italics" xml:id="idm140012640033232">16.9.86</hi>
+               </date>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

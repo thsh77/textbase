@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Træerne</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62249" decls="#biblid62249">
+            <head xml:id="idm140208213348000">
+               <hi rend="italics" xml:id="idm140208213347744">Træerne</hi>
+            </head>
+            <lg xml:id="idm140208213346928">
+               <l xml:id="idm140208213346672">Jeg elsker det, som gror og gror igen</l>
+               <l xml:id="idm140208213346240">og spørger næppe Vind og Vejr om Lov:</l>
+               <l xml:id="idm140208213345760">Græsmarken og den stormopfyldte Skov!</l>
+               <l xml:id="idm140208213345280">Jeg synes, Træerne er Adelsmænd.</l>
+            </lg>
+            <lg xml:id="idm140208213344688">
+               <l xml:id="idm140208213344432">Med Løv i Hatten og med barket Lænd</l>
+               <l xml:id="idm140208213343952">de hilser lige fint paa fin og grov,</l>
+               <l xml:id="idm140208213343520">de holder deres Skygge ej for Rov</l>
+               <l xml:id="idm140208213343088">og taler aldrig ondt om den og den.</l>
+            </lg>
+            <lg xml:id="idm140208213342528">
+               <l xml:id="idm140208213342272">Ved deres Side kan du hvile ud</l>
+               <l xml:id="idm140208213341840">og nyde frit den Lyst, de altid giver,</l>
+               <l xml:id="idm140208213341408">saa godt de evner, med den samme Iver.</l>
+            </lg>
+            <lg xml:id="idm140208213340848">
+               <l xml:id="idm140208213340592">De kan den Kunst at gro og gro igen.</l>
+               <l xml:id="idm140208213340160">Hos dem er selv den bange Tyv en Gud.</l>
+               <l xml:id="idm140208213339728">Jeg synes, Træerne er Adelsmænd.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

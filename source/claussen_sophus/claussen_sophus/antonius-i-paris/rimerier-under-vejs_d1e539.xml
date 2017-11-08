@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rimerier under Vejs</title>
+            <author>Claussen,
+                          Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140218345270288">
+                     <name xml:id="idm140218345270032">
+                        <surname xml:id="idm140218345269904">Claussen</surname>, <forename xml:id="idm140218345269440">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140218345269152">Antonius i Paris</title>
+                  <pubPlace xml:id="idm140218345268864">[København]</pubPlace>
+                  <pubPlace xml:id="idm140218345268400">[Valby]</pubPlace>
+                  <pubPlace xml:id="idm140218345267984">[Ballerup]</pubPlace>
+                  <publisher xml:id="idm140218345267520">Det Danske Sprog- og Litteraturselskab</publisher>
+                  <publisher xml:id="idm140218345267216">Borgen</publisher>
+                  <publisher xml:id="idm140218345266928">[i samarbejde med Nyt Dansk Litteraturselskab]</publisher>
+                  <date xml:id="idm140218345266560">cop. 1990</date>
+                  <biblScope>25 26</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="idm140218345066176">
+            <head xml:id="idm140218345065920">Rimerier under Vejs</head>
+            <lg xml:id="idm140218345065504">
+               <l xml:id="idm140218345065248">Nær <hi rend="italics" xml:id="idm140218345064864">Bois de Boulogne</hi> ej Vogn at finde,</l>
+               <l xml:id="idm140218345064016">ingen Droskelygte i Mørket at se,</l>
+               <l xml:id="idm140218345063552">intet Bud til Paris!.... Kun et sjællandsk Minde:</l>
+            </lg>
+            <lg xml:id="idm140218345062928">
+               <l xml:id="idm140218345062672">Kun Lys i en pyntelig, landlig Kafé</l>
+               <l xml:id="idm140218345062192">med Savsmuld paa Gulvet, med Voksdug paa Bænken,</l>
+               <l xml:id="idm140218345061696">mens den rastløse Husmo'r staar tavs bagved Skænken</l>
+               <l xml:id="idm140218345061184">og sælger en Gæst efter Vægt lidt Tobak,</l>
+               <l xml:id="idm140218345060704">hører sagtmodig paa Nabokvindens Snak,</l>
+               <l xml:id="idm140218345060224">hvis Patteglut gramser begærlig om Brystet</l>
+               <l xml:id="idm140218345059744">og finder sin Næring, guddommelig trøstet.</l>
+            </lg>
+            <lg xml:id="idm140218345059120">
+               <l xml:id="idm140218345058864">Det var i den landlige, tyste Kafé,</l>
+               <l xml:id="idm140218345058384">hvor jeg blev i den inderste Stue bænket,</l>
+               <l xml:id="idm140218345057904">min sorte Kaffe i Glasset skænket,</l>
+               <l xml:id="idm140218345057440">at jeg først fandt mig vel i den fremmede Tunge,</l>
+               <l xml:id="idm140218345056944">hørte en Moder, som pludred med sin Unge;</l>
+               <l xml:id="idm140218345056464">mens hvilende trygt som en mødig Helt</l>
+               <l xml:id="idm140218345055984">jeg saa mig omkring.</l>
+            </lg>
+            <lg xml:id="idm140218345055440">
+               <l xml:id="idm140218345055184">Og velkendt som Sproget</l>
+               <l xml:id="idm140218345054768">fandt jeg i Krostuen øjebliksbroget,</l>
+               <l xml:id="idm140218345054288">med flygtige Penselsstrøg, Felt ved Felt:  -</l>
+               <l xml:id="idm140218345053792">Vægdekorationer paa Trods af Fornuften,</l>
+               <l xml:id="idm140218345053312">teglhængte Tinder, Svaler i Luften,</l>
+               <l xml:id="idm140218345052832">en Kirketop gemt bag et Rosenstakit!</l>
+               <l xml:id="idm140218345052448">En Verden i Blegrødt, i Grønt og i Hvidt</l>
+               <l xml:id="idm140218345051968">som Roskilde-Roser, sjællandske Bøge,</l>
+               <l xml:id="idm140218345051488">som Duernes Kurren paa Taget i Køge.</l>
+            </lg>
+            <pb n="25"
+                facs="adl/claussen/claussen1/claussen1025"
+                xml:id="idm140218345050880"/>
+            <lg xml:id="idm140218345050112">
+               <l xml:id="idm140218345049856">Det var nær Paris i en Forstads Kafé,</l>
+               <l xml:id="idm140218345049376">der var slig en nordisk Uskyld at sé:</l>
+               <l xml:id="idm140218345048896">et skyndsomt Staahej gennem tyve Felter</l>
+               <l xml:id="idm140218345048464">af Isbjørne, Skibbrud og Bølger, som vælter.</l>
+               <l xml:id="idm140218345047968">Mod en gulmalet Maane med Ansigt paa</l>
+               <l xml:id="idm140218345047536">en Kat krummer Ryg paa et Tag i det Blaa,</l>
+               <l xml:id="idm140218345047088">mens forneden en Pjerrot, hvidklædt og bitter,</l>
+               <l xml:id="idm140218345046592">piner sin elskovsvemodige Zither.</l>
+            </lg>
+            <lg xml:id="idm140218345046032">
+               <l xml:id="idm140218345045776">Fra Felt til Felt, over Sten, over Stok  -</l>
+               <l xml:id="idm140218345045328">en Kunst, som er ung og forfløjen nok!</l>
+               <l xml:id="idm140218345044848">Men jeg føler i Panden et Værk og en Pine:</l>
+               <l xml:id="idm140218345044352">disse svimlende Blomster, disse Hvaler med Luffer,</l>
+               <l xml:id="idm140218345043904">det er som at se sine gamle Skuffer,</l>
+               <l xml:id="idm140218345043472">hvori man har hengemt en Fortids Rest,</l>
+               <l xml:id="idm140218345043040">fra den Gang man knælte med værdig Mine,</l>
+               <l xml:id="idm140218345042560">Cigar i Munden og Mandoline,</l>
+               <l xml:id="idm140218345042128">da selv man besang sligt et Land og dets Kvinder,</l>
+               <l xml:id="idm140218345041680">de Roser, de plukker, de Hoser, de binder,</l>
+               <l xml:id="idm140218345041232">og udvalgte Een som fornemst og bedst:</l>
+               <l xml:id="idm140218345040800">Mer stram i sit Snørelivs Rosengelænder</l>
+               <l xml:id="idm140218345040320">end Libanons Taarn, der mod Syrien vender.</l>
+            </lg>
+            <lg xml:id="idm140218345039744">
+               <l xml:id="idm140218345039488">Ja de Franskmænd kan le, som ej kender  - de Gøge!  -</l>
+               <l xml:id="idm140218345038976">en Rose fra Roskilde, Due fra Køge!</l>
+               <l xml:id="idm140218345038496">O, hvidklædte Pjerrot, svævende Svaler,</l>
+               <l xml:id="idm140218345038016">o, graasorte Kat, som med Maanen taler,</l>
+               <l xml:id="idm140218345037584">o, Klokketaarn med dit Rosenstakit!</l>
+               <l xml:id="idm140218345037152">I, som sletikke véd, hvordan jeg har stridt</l>
+               <l xml:id="idm140218345036656">(mit skamfulde Inderste brænder endnu)</l>
+               <l xml:id="idm140218345036176">med at skabe Fornuft af det Gøgl til en Sou,</l>
+               <l xml:id="idm140218345035680">jeg vil gi'e Jer til Deling en sjællandsk Rigsdaler,</l>
+               <l xml:id="idm140218345035168">kan I gøgle saa groft, at I skaffer mig kvit</l>
+               <l xml:id="idm140218345034672">for at huske min Fortid i Blegrødt og Hvidt</l>
+               <l xml:id="idm140218345034176">og Skyblaat og Murgraat og alt det....</l>
+            </lg>
+            <trailer xml:id="idm140218345033616">
+               <hi rend="italics" xml:id="idm140218345033488">Antonius</hi>.</trailer>
+            <pb n="26"
+                facs="adl/claussen/claussen1/claussen1026"
+                xml:id="idm140218345032672"/>
+         </div>
+      </body>
+   </text>
+</TEI>

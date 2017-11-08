@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Damen fra Køln</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid61362" decls="#biblid61362">
+            <head xml:id="idm140208213461904">
+               <hi rend="italics" xml:id="idm140208213461648">Damen fra Køln</hi>
+            </head>
+            <lg xml:id="idm140208213460816">
+               <l xml:id="idm140208213460560">Hun pegte paa sin Rygrad med en Gestus,</l>
+               <l xml:id="idm140208213460128">saa skødesløst, for flygtig at betegne</l>
+               <l xml:id="idm140208213459648">den Sygdoms skælmske Art, som satte Heine</l>
+               <l xml:id="idm140208213459168">paa Aftægt i det mennesklige Kvæsthus.</l>
+            </lg>
+            <lg xml:id="idm140208213458560">
+               <l xml:id="idm140208213458304">Jeg suser over Rhinens duggraa Sletter</l>
+               <l xml:id="idm140208213457872">langt bort fra Køln - men ser endnu, hvor
+												klog</l>
+               <l xml:id="idm140208213457360">hun stod bag Disken i sin dunkle Krog,</l>
+               <l xml:id="idm140208213456928">en af Provinsens strænge Henrietter.</l>
+            </lg>
+            <lg xml:id="idm140208213456320">
+               <l xml:id="idm140208213456064">Et Søsterslæng, hvis dømmende Forstand</l>
+               <l xml:id="idm140208213455584">skjuler en Sjæl, som intet mere mætter:</l>
+               <l xml:id="idm140208213455104">de delte gærne Mandens Sot og Brand,</l>
+            </lg>
+            <lg xml:id="idm140208213454496">
+               <l xml:id="idm140208213454240">ja røved gærne Døden dens Skeletter.</l>
+               <l xml:id="idm140208213453760">Og deres Tro, som ingen Frygt kan ave,</l>
+               <l xml:id="idm140208213453328">dækker med Savnets Vedbend alle Grave.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I MISMOD</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59428" decls="#biblid59428">
+            <head xml:id="idm140208213700832">
+               <hi rend="italics" xml:id="idm140208213700576">I MISMOD</hi>
+            </head>
+            <lg xml:id="idm140208213699760">
+               <l xml:id="idm140208213699504">Vi har saa meget digtet</l>
+               <l xml:id="idm140208213699088">og lagt i Livet ind</l>
+               <l xml:id="idm140208213698672">og har for lidet sigtet</l>
+               <l xml:id="idm140208213698256">det skønne Hjærnespind.</l>
+               <l xml:id="idm140208213697808">Vi har saa meget troet,</l>
+               <l xml:id="idm140208213697392">vi var saa frejdig stemt;</l>
+               <l xml:id="idm140208213696960">og drømme-overgroet</l>
+               <l xml:id="idm140208213696512">laa Sorgen hidtil glemt.</l>
+            </lg>
+            <lg xml:id="idm140208213695952">
+               <l xml:id="idm140208213695696">Men nu, om end vi flikker,</l>
+               <l xml:id="idm140208213695264">saa tit en Brist vi ser,</l>
+               <l xml:id="idm140208213694832">frem Hestehoven stikker</l>
+               <l xml:id="idm140208213694416">bestandig mer og mer;</l>
+               <l xml:id="idm140208213694000">vor Indsats har vi givet</l>
+               <l xml:id="idm140208213693568">med Hjærtet fuldt og rigt ...</l>
+               <l xml:id="idm140208213693104">Der var saa lidt i Livet,</l>
+               <l xml:id="idm140208213692672">at selv det lidt er Digt.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

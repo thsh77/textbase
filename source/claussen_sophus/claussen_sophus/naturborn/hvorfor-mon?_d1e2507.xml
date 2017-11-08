@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HVORFOR MON?</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140012641173552">
+                     <name xml:id="idm140012641173296">
+                        <surname xml:id="idm140012641173168">Claussen</surname>, <forename xml:id="idm140012641172704">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140012641172416">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140012641172128">Bd. 1: Naturbørn</title>
+                  <pubPlace xml:id="idm140012641171824">[København]</pubPlace>
+                  <publisher xml:id="idm140012641171360">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140012641170992">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60030" decls="#biblid60030">
+            <head xml:id="idm140012640381408">
+               <hi rend="italics" xml:id="idm140012640381152">HVORFOR MON?</hi>
+            </head>
+            <lg xml:id="idm140012640380336">
+               <l xml:id="idm140012640380080">Jeg vil vide, Skønjomfru saa ung og saa fin!</l>
+               <l xml:id="idm140012640379584">er du hviskende Suk eller stormende Hvin?</l>
+            </lg>
+            <lg xml:id="idm140012640379008">
+               <l xml:id="idm140012640378752">Er den fine Pupille mon blændet og vaad</l>
+               <l xml:id="idm140012640378272">af bristende Savn eller Kærligheds Graad?</l>
+            </lg>
+            <lg xml:id="idm140012640377664">
+               <l xml:id="idm140012640377408">- Jeg saâ kun et Barn, som uhjælpelig græd.</l>
+               <l xml:id="idm140012640376912">Hvorfor mon jeg gjorde den Jomfru Fortræd?</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

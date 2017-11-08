@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>PARKEN OG STADEN</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139945512259712">
+                     <name xml:id="idm139945512259456">
+                        <surname xml:id="idm139945512259328">Claussen</surname>, <forename xml:id="idm139945512258864">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139945512258576">Sophus Claussens lyrik</title>
+                  <title xml:id="idm139945512258288">Bd. 3: Djævlerier</title>
+                  <pubPlace xml:id="idm139945512257984">[København]</pubPlace>
+                  <publisher xml:id="idm139945512257520">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm139945512257152">1982-</date>
+                  <biblScope>27 28</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid56534" decls="#biblid56534">
+            <head xml:id="idm139945511918816">
+               <hi rend="italics" xml:id="idm139945511918560">PARKEN OG STADEN</hi>
+            </head>
+            <lg xml:id="idm139945511917744">
+               <l xml:id="idm139945511917488">Nu fyldes Parken af Skygger,</l>
+               <l xml:id="idm139945511917056">og henad de grusede Stier</l>
+               <l xml:id="idm139945511916624">der vandrer, mens Fuglene tier,</l>
+               <l xml:id="idm139945511916192">usynlige Pudderparykker.</l>
+            </lg>
+            <lg xml:id="idm139945511915632">
+               <l xml:id="idm139945511915376">Fontænefigurerne gaber</l>
+               <l xml:id="idm139945511914928">med vandløse Fiskemuler,</l>
+               <l xml:id="idm139945511914480">og Svanen fortærer de Smuler,</l>
+               <l xml:id="idm139945511914016">de sidste Søndagsbørn taber.</l>
+            </lg>
+            <lg xml:id="idm139945511913424">
+               <l xml:id="idm139945511913168">Naar alle Fodtrin er døde,</l>
+               <l xml:id="idm139945511912720">da bobler Begæret og Kraften</l>
+               <l xml:id="idm139945511912256">sødt i den ensomme Aften ...</l>
+               <l xml:id="idm139945511911792">det svundne gaar mig i Møde.</l>
+            </lg>
+            <lg xml:id="idm139945511911200">
+               <l xml:id="idm139945511910944">I Ly bag sit smedede Gitter</l>
+               <l xml:id="idm139945511910512">er Parken skønheds-ladet</l>
+               <l xml:id="idm139945511910064">som en Susanne i Badet,</l>
+               <l xml:id="idm139945511909648">og Raadsherrer gaar der og titter.</l>
+            </lg>
+            <lg xml:id="idm139945511909088">
+               <l xml:id="idm139945511908832">... Men udenfor i Gaden</l>
+               <l xml:id="idm139945511908416">er Skønheden styrtet fra Tronen.</l>
+               <l xml:id="idm139945511907952">Der raser Dæmoner i Staden,</l>
+               <l xml:id="idm139945511907488">der blæser Sommer-Tyfonen.</l>
+            </lg>
+            <lg xml:id="idm139945511906912">
+               <l xml:id="idm139945511906656">Der daler ej Solnedgangs-Roser</l>
+               <l xml:id="idm139945511906224">paa rødmende Havfruebryster.</l>
+               <l xml:id="idm139945511905760">Dér ta'er de antike Lyster</l>
+               <l xml:id="idm139945511905312">til Takke med hullede Hoser.</l>
+            </lg>
+            <pb n="27" xml:id="s27" facs="adl/claussen/claussen05/claussen5027"/>
+            <lg xml:id="idm139945511903600">
+               <l xml:id="idm139945511903344">Derude der haabes og bæves.</l>
+               <l xml:id="idm139945511902880">Der iler med rastløse Knokler</l>
+               <l xml:id="idm139945511902416">de Statuer, som forgæves</l>
+               <l xml:id="idm139945511901968">søger om deres Sokler.</l>
+            </lg>
+            <pb n="28" xml:id="s28" facs="adl/claussen/claussen05/claussen5028"/>
+         </div>
+      </body>
+   </text>
+</TEI>

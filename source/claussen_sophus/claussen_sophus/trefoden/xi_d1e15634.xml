@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>XI</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="idm140208210340352"><!-- -->
+            <head xml:id="idm140208210339840">
+               <hi rend="italics" xml:id="idm140208210339584">XI</hi>
+            </head>
+            <lg xml:id="idm140208210338832">
+               <l xml:id="idm140208210338576">Gode Fædre og ærlige Mænd,</l>
+               <l xml:id="idm140208210338112">trækker de prøvede Sværd fra Lænd.</l>
+               <l xml:id="idm140208210337632">Straadød at dø tykkes Vikingen strengt.</l>
+               <l xml:id="idm140208210337152">Klyng os op, gad I se os hængt.</l>
+               <l xml:id="idm140208210336688">Hvorfor sidde med Pegepind,</l>
+               <l xml:id="idm140208210336304">naar det var Tid til at hugge ind?</l>
+               <l xml:id="idm140208210335920">Medens I tier af Skræk for Trompeter,</l>
+               <l xml:id="idm140208210335440">yngler det Skrædderdusin af Poeter.</l>
+               <l xml:id="idm140208210334960">Heller en Dag med et ordenligt Opgør,</l>
+               <l xml:id="idm140208210334480">heller et Slag, hvor det hele faar Ophør,</l>
+               <l xml:id="idm140208210334000">end dette Væv baade for og imod.</l>
+               <l xml:id="idm140208210333536">Sangmø-Markerne raaber paa Blod.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

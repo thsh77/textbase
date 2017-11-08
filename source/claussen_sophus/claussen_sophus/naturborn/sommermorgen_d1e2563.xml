@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>SOMMERMORGEN</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140012641173552">
+                     <name xml:id="idm140012641173296">
+                        <surname xml:id="idm140012641173168">Claussen</surname>, <forename xml:id="idm140012641172704">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140012641172416">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140012641172128">Bd. 1: Naturbørn</title>
+                  <pubPlace xml:id="idm140012641171824">[København]</pubPlace>
+                  <publisher xml:id="idm140012641171360">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140012641170992">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60173" decls="#biblid60173">
+            <head xml:id="idm140012640362896">
+               <hi rend="italics" xml:id="idm140012640362640">SOMMERMORGEN</hi>
+            </head>
+            <lg xml:id="idm140012640361824">
+               <l xml:id="idm140012640361568">Jorden ligger sløromvundet,</l>
+               <l xml:id="idm140012640361104">Sølvstøv-drysset, slummersvag,</l>
+               <l xml:id="idm140012640360640">mens det dæmrer over Sundet</l>
+               <l xml:id="idm140012640360176">imod Dag.</l>
+            </lg>
+            <lg xml:id="idm140012640359632">
+               <l xml:id="idm140012640359376">Vandets Flade kruser let sig</l>
+               <l xml:id="idm140012640358944">under Vindens friske Tag;</l>
+               <l xml:id="idm140012640358512">Bredden faar et køligt Tvæt sig</l>
+               <l xml:id="idm140012640358048">imod Dag.</l>
+            </lg>
+            <lg xml:id="idm140012640357504">
+               <l xml:id="idm140012640357248">Solen kiger frem; den Taagen</l>
+               <l xml:id="idm140012640356816">suger ind i hede Drag.</l>
+               <l xml:id="idm140012640356400">Jorden glødes varm og vaagen.</l>
+               <l xml:id="idm140012640355936">Det er Dag.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

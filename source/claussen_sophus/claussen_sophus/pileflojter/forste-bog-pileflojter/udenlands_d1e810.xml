@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>UDENLANDS</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid55748" decls="#biblid55748">
+            <head xml:id="idm140208214162480">
+               <hi rend="italics" xml:id="idm140208214162224">UDENLANDS</hi>
+            </head>
+            <lg xml:id="idm140208214161408">
+               <l xml:id="idm140208214161152">Udenlands, paa et fremmed Sprog,</l>
+               <l xml:id="idm140208214160720">blev jeg spurgt om Navn og Stand,</l>
+               <l xml:id="idm140208214160288">hvorfra jeg kom, hvorhen jeg drog -</l>
+               <l xml:id="idm140208214159856">"Danmark kalder vi selv vort Land."</l>
+            </lg>
+            <lg xml:id="idm140208214159296">
+               <l xml:id="idm140208214159040">"Hav-indlullet ligger mit Land,</l>
+               <l xml:id="idm140208214158608">fladet i Øer og tunget i Næs.</l>
+               <l xml:id="idm140208214158144">Hvor Bølgerne dør i det hvide Sand,</l>
+               <l xml:id="idm140208214157664">begynder det frodige, grønne Græs.</l>
+            </lg>
+            <lg xml:id="idm140208214157056">
+               <l xml:id="idm140208214156800">"For Græsset skygger den svajende Bøg;</l>
+               <l xml:id="idm140208214156320">thi sprængt er Egenes graa Tyrani.</l>
+               <l xml:id="idm140208214155856">Ind over korntunge Bakkestrøg</l>
+               <l xml:id="idm140208214155392">bor en Nation, som er glad og fri.</l>
+            </lg>
+            <lg xml:id="idm140208214154832">
+               <l xml:id="idm140208214154576">"Det solblaa Hav, som gør Kysten vaad,</l>
+               <l xml:id="idm140208214154096">har blødet Racen, som bor derpaa,</l>
+               <l xml:id="idm140208214153632">gjort os milde til Latter og Graad -</l>
+               <l xml:id="idm140208214153200">alle Kvindernes Øjne er blaa.</l>
+            </lg>
+            <lg xml:id="idm140208214152608">
+               <l xml:id="idm140208214152352">"En Sommerdags Bølger, der sagtelig slaa,</l>
+               <l xml:id="idm140208214151872">saaledes er Øjnene ganske blaa.</l>
+               <l xml:id="idm140208214151408">Ved Maj bliver Løvet grønt over Land,</l>
+               <l xml:id="idm140208214150928">saa paa Grønt og Blaat har vi bedst Forstand.</l>
+            </lg>
+            <lg xml:id="idm140208214150304">
+               <l xml:id="idm140208214150048">"Bor vi end fjærnt i det taagede Nord,</l>
+               <l xml:id="idm140208214149568">vi kaldes det frieste Folk paa Jord;</l>
+               <l xml:id="idm140208214149136">i den mørke Muld, bag den skarpe Plov,</l>
+               <l xml:id="idm140208214148656">gaar Bønder, som værger om Ret og Lov."</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>SPØGELSESFRYGT</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140012641173552">
+                     <name xml:id="idm140012641173296">
+                        <surname xml:id="idm140012641173168">Claussen</surname>, <forename xml:id="idm140012641172704">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140012641172416">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140012641172128">Bd. 1: Naturbørn</title>
+                  <pubPlace xml:id="idm140012641171824">[København]</pubPlace>
+                  <publisher xml:id="idm140012641171360">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140012641170992">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid63025" decls="#biblid63025">
+            <head xml:id="idm140012640008480">
+               <hi rend="italics" xml:id="idm140012640008224">SPØGELSESFRYGT</hi>
+            </head>
+            <lg xml:id="idm140012640007392">
+               <l xml:id="idm140012640007136">Vi talte om Spøgelser, husker du vel?</l>
+               <l xml:id="idm140012640006656">om Genfærd, som truer at adskille to,</l>
+               <l xml:id="idm140012640006176">og vi loved os Mod til at tro paa vort Held,</l>
+               <l xml:id="idm140012640005728">ti Spøgelser er ej for dem, som har Tro.</l>
+            </lg>
+            <lg xml:id="idm140012640005120">
+               <l xml:id="idm140012640004864">Jeg trykked dia Haand, som var kælen og hvid,</l>
+               <l xml:id="idm140012640004368">jeg saa', du er smidig og let, naar du gaar.</l>
+               <l xml:id="idm140012640003920">I Tale og tavs var du smilende blid,</l>
+               <l xml:id="idm140012640003488">et Smil, som bær' Balsam for Suk og for Saar.</l>
+            </lg>
+            <lg xml:id="idm140012640002864">
+               <l xml:id="idm140012640002608">Bort Overtro, Genfærd og Spøgelsesfrygt!</l>
+               <l xml:id="idm140012640002128">De blændende Fingre om Nakken mig flæt!</l>
+               <l xml:id="idm140012640001648">Jeg vil løfte dig op, jeg er ør og forrykt,</l>
+               <l xml:id="idm140012640001152">og bære dig bort, du er dunblød og let.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

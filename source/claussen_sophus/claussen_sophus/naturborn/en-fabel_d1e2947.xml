@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>EN FABEL</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140012641173552">
+                     <name xml:id="idm140012641173296">
+                        <surname xml:id="idm140012641173168">Claussen</surname>, <forename xml:id="idm140012641172704">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140012641172416">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140012641172128">Bd. 1: Naturbørn</title>
+                  <pubPlace xml:id="idm140012641171824">[København]</pubPlace>
+                  <publisher xml:id="idm140012641171360">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140012641170992">1982-</date>
+                  <biblScope>61</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60980" decls="#biblid60980">
+            <head xml:id="idm140012640263696">
+               <hi rend="italics" xml:id="idm140012640263440">EN FABEL</hi>
+            </head>
+            <lg xml:id="idm140012640262624">
+               <l xml:id="idm140012640262368">Da et Parti begyndte at nærme sig Døden</l>
+               <l xml:id="idm140012640261888">og det saa nødig endnu vilde skilles ved Livet,</l>
+               <l xml:id="idm140012640261392">bad det til Gud, om <hi rend="italics" xml:id="idm140012640261104">han</hi> vilde hjælpe i Nøden,</l>
+               <l xml:id="idm140012640260256">ligesom fordum han havde det Livskraften givet.</l>
+               <l xml:id="idm140012640259808">"Nej," svared Gud. Man betragtede raadvild
+								hinanden.</l>
+               <l xml:id="idm140012640259344">Saa blev dets Formand bemyndiget at gaa til Fanden.</l>
+            </lg>
+            <lg xml:id="idm140012640258768">
+               <l xml:id="idm140012640258512">Ved Audiensen tog Satanas venlig imod ham,</l>
+               <l xml:id="idm140012640258064">takked for sidst og bønfaldt ham bare at tale,</l>
+               <l xml:id="idm140012640257568">mens han forsikred ham om, at til Tjeneste stod ham</l>
+               <l xml:id="idm140012640257120">alt, hvad der afhang af <hi rend="italics" xml:id="idm140012640256816">ham</hi> ... han kunde
+								befale!</l>
+            </lg>
+            <lg xml:id="idm140012640255856">
+               <l xml:id="idm140012640255600">Formanden talte. Hr. Satanas strøg sig om Hagen:</l>
+               <l xml:id="idm140012640255104">"Hm! jeg maa sé Deres Folk, før jeg dømmer i
+								Sagen."</l>
+            </lg>
+            <lg xml:id="idm140012640254448">
+               <l xml:id="idm140012640254192">Saa blev Partiet da mønstret paa ottende Dagen.</l>
+               <l xml:id="idm140012640253696">Alt, hvad der var af forældet, stagnéret Berømthed,</l>
+               <l xml:id="idm140012640253184">alt, hvad der fandtes af privilegéret Forsømthed,</l>
+               <l xml:id="idm140012640252688">Blomsten, de ædleste, ældste, i Trop arrivérte:</l>
+               <l xml:id="idm140012640252192">Krigsmænd og Fredsvenner, Lægfolk og Folk, som studérte,</l>
+               <l xml:id="idm140012640251680">store Grossister og smaa bitte lærde Doktorer,</l>
+               <l xml:id="idm140012640251184">"Raader" og "Naader" og
+								Højesterets Assessorer.</l>
+            </lg>
+            <lg xml:id="idm140012640250544">
+               <l xml:id="idm140012640250288">Satanas grunded og kløede sig bag sit Øre:</l>
+               <l xml:id="idm140012640249792">"Undskyld, Hr. Formand! med <hi rend="italics" xml:id="idm140012640249488">dem</hi>
+								kan jeg ingen Ting gøre."</l>
+            </lg>
+            <pb n="61" xml:id="s61" facs="adl/claussen/claussen03/claussen3061"/>
+            <lg xml:id="idm140012640247296">
+               <l xml:id="idm140012640247040">"Aa, men saa sé dog! Kan nogen vel ønske sig mere?</l>
+               <l xml:id="idm140012640246528">alt, hvad vort Land af Ærværdighed, Rang kan præstere,"</l>
+               <l xml:id="idm140012640246016">svarede Formanden angst, med veltalende Tunge.</l>
+            </lg>
+            <lg xml:id="idm140012640245440">
+               <l xml:id="idm140012640245184">"Ja, gode Mand!" sagde Fanden.</l>
+               <l xml:id="idm140012640244752">"Men hvor er de unge?"</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

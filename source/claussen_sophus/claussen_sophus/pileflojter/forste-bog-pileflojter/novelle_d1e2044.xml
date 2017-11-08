@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>NOVELLE</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope>39</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid58515" decls="#biblid58515">
+            <head xml:id="idm140208213816320">
+               <hi rend="italics" xml:id="idm140208213816064">NOVELLE</hi>
+            </head>
+            <lg xml:id="idm140208213815248">
+               <l xml:id="idm140208213814992">Ti saadan er Livet op og ned,</l>
+               <l xml:id="idm140208213814560">og saadan er Livet ud og ind.</l>
+               <l xml:id="idm140208213814128">Og den, som intet bedre ved,</l>
+               <l xml:id="idm140208213813696">maa tage sin Lod med et skønsomt Sind.</l>
+            </lg>
+            <lg xml:id="idm140208213813088">
+               <l xml:id="idm140208213812832">For de var to, som blev sammen gift;</l>
+               <l xml:id="idm140208213812400">for de havde vundet hinanden kær.</l>
+               <l xml:id="idm140208213811936">Og Taarer flød der af den Bedrift:</l>
+               <l xml:id="idm140208213811472">Savn, naar de skiltes! Sorg - var de nær.</l>
+            </lg>
+            <lg xml:id="idm140208213810864">
+               <l xml:id="idm140208213810608">Hvor mange Gange de skiltes i Trods,</l>
+               <l xml:id="idm140208213810176">hvor ofte Længslen igen dem bandt</l>
+               <l xml:id="idm140208213809712">er godt at mindes for Jer og os,</l>
+               <l xml:id="idm140208213809280">som gav for en Kylling vor Høne iblandt.</l>
+            </lg>
+            <lg xml:id="idm140208213808672">
+               <l xml:id="idm140208213808416">De græd, og de sagde hinanden Farvel;</l>
+               <l xml:id="idm140208213807936">de følte sig fri som en Fugl i sin Sky</l>
+               <l xml:id="idm140208213807456">og saa' sig omkring en Dag og en Kvæld</l>
+               <l xml:id="idm140208213806976">forventningskæk i den sorgløse By.</l>
+            </lg>
+            <lg xml:id="idm140208213806368">
+               <l xml:id="idm140208213806112">Men Morgenen kom og den næste - en Strøm</l>
+               <l xml:id="idm140208213805632">af lyskolde Timer i slæbende Drys.</l>
+               <l xml:id="idm140208213805168">Og fjerde Dagen der vaagned en Drøm</l>
+               <l xml:id="idm140208213804688">om Foraar og Skove, om Roser og Kys.</l>
+            </lg>
+            <lg xml:id="idm140208213804128">
+               <l xml:id="idm140208213803872">En Drøm om Sommer og sødt Behag,</l>
+               <l xml:id="idm140208213803408">om sarte Kærtegn i Eng og Krat.</l>
+               <l xml:id="idm140208213802944">Og saa blev der kysset og grædt en Dag</l>
+               <l xml:id="idm140208213802464">og let og kysset den lange Nat.</l>
+            </lg>
+            <pb n="39" xml:id="s39" facs="adl/claussen/claussen04/claussen4039"/>
+            <lg xml:id="idm140208213800736">
+               <l xml:id="idm140208213800480">For saadan er Livet op og ned,</l>
+               <l xml:id="idm140208213800048">og saadan er Livet ud og ind,</l>
+               <l xml:id="idm140208213799616">og den, som intet bedre ved,</l>
+               <l xml:id="idm140208213799184">maa tage sin Lod med et skønsomt Sind.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

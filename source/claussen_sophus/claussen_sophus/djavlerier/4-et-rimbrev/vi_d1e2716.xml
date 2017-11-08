@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VI</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139945512259712">
+                     <name xml:id="idm139945512259456">
+                        <surname xml:id="idm139945512259328">Claussen</surname>, <forename xml:id="idm139945512258864">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139945512258576">Sophus Claussens lyrik</title>
+                  <title xml:id="idm139945512258288">Bd. 3: Djævlerier</title>
+                  <pubPlace xml:id="idm139945512257984">[København]</pubPlace>
+                  <publisher xml:id="idm139945512257520">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm139945512257152">1982-</date>
+                  <biblScope>65</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="idm139945511457056">
+            <head xml:id="idm139945511456800">VI</head>
+            <lg xml:id="idm139945511456416">
+               <l xml:id="idm139945511456160">Det kan være, der spørges ej stort efter indre Forblødning</l>
+               <l xml:id="idm139945511455632">paa Fremtidens Mark, hvor vi alle skal tjene som Gødning.</l>
+            </lg>
+            <lg xml:id="idm139945511454992">
+               <l xml:id="idm139945511454736">Det kan være, den ødsle Natur for at gøde sin Viden</l>
+               <l xml:id="idm139945511454224">maa fælde sin Storskov og tænke paa Vidjer for Tiden.</l>
+            </lg>
+            <lg xml:id="idm139945511453584">
+               <l xml:id="idm139945511453328">Det kan være, vi fører en Snak, som er lidet beskeden,</l>
+               <l xml:id="idm139945511452816">og vi helst skulde bygge os Hytter og opdyrke Heden.</l>
+            </lg>
+            <lg xml:id="idm139945511452240">
+               <l xml:id="idm139945511451984">Thi de smaa skal ej hjælpe de store at bygge Kasteller.</l>
+               <l xml:id="idm139945511451472">Men hvis noget er stort, maa det tjene det smaa, hvor det
+										gjælder.</l>
+            </lg>
+            <lg xml:id="idm139945511450784">
+               <l xml:id="idm139945511450528">Vi har hørt det af Talere, læst det i Vers og Noveller.</l>
+            </lg>
+            <pb n="65" xml:id="s65" facs="adl/claussen/claussen05/claussen5065"/>
+            <lg xml:id="idm139945511448784">
+               <l xml:id="idm139945511448528">Men jeg ejer kun Ord til mit Værge ... man drager af Skeden,</l>
+               <l xml:id="idm139945511448000">den Slire, man har ... Og jeg fandt paa et Fyndord
+									forleden,</l>
+            </lg>
+            <lg xml:id="idm139945511447408">
+               <l xml:id="idm139945511447152">da jeg hilste i Landet den vrimlende svulmende Grøde,</l>
+               <l xml:id="idm139945511446640">der dækked mangfoldig hver Jordklump, som fordum laa øde
+										-</l>
+            </lg>
+            <lg xml:id="idm139945511445968">
+               <l xml:id="idm139945511445712">da jeg bøjed mig glad for hvert Under, der meldte sin Fødsel
+										...</l>
+            </lg>
+            <lg xml:id="idm139945511445024">
+               <l xml:id="idm139945511444768">"Men jeg tror, at Naturen, vor Moder, er <hi rend="italics" xml:id="idm139945511444448">end</hi> mere ødsel."</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

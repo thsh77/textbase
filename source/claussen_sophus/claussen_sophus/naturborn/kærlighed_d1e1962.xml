@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>KÆRLIGHED</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-08+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140012641173552">
+                     <name xml:id="idm140012641173296">
+                        <surname xml:id="idm140012641173168">Claussen</surname>, <forename xml:id="idm140012641172704">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140012641172416">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140012641172128">Bd. 1: Naturbørn</title>
+                  <pubPlace xml:id="idm140012641171824">[København]</pubPlace>
+                  <publisher xml:id="idm140012641171360">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140012641170992">1982-</date>
+                  <biblScope/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid58773" decls="#biblid58773">
+            <head xml:id="idm140012640533248">
+               <hi rend="italics" xml:id="idm140012640532992">KÆRLIGHED</hi>
+            </head>
+            <lg xml:id="idm140012640532176">
+               <l xml:id="idm140012640531920">Tal ej om skuffet Kærlighed</l>
+               <l xml:id="idm140012640531456">og Hjærter, som er brudt!</l>
+               <l xml:id="idm140012640531008">man gør sig lidt Besværlighed</l>
+               <l xml:id="idm140012640530544">og ta'r en ny til slut.</l>
+            </lg>
+            <lg xml:id="idm140012640530000">
+               <l xml:id="idm140012640529744">Tal ej om evig Kærlighed!</l>
+               <l xml:id="idm140012640529296">vort Hjærte kun slaar Smut;</l>
+               <l xml:id="idm140012640528832">det hopper let fra Sted til Sted</l>
+               <l xml:id="idm140012640528400">og synker træt til slut.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
