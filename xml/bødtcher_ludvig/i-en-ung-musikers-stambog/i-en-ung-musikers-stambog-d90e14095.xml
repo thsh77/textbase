@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I en ung musikers
+              stambog</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid83788" decls="#biblid83788">
+            <head xml:id="idm140312756779184">I EN UNG MUSIKERS STAMBOG</head>
+            <lg xml:id="idm140312756778752">
+               <l xml:id="idm140312756778496">Til ingen Dødelig den Magt blev givet,</l>
+               <l xml:id="idm140312756778016">Som løser hver en Dissonants i Livet -</l>
+               <l xml:id="idm140312756777536">"Fremtids Musik" Du tidt vil faa at høre,</l>
+               <l xml:id="idm140312756777056">Just ikke saare lifligt for Dit Øre:</l>
+               <l xml:id="idm140312756776576">Brug da Din Kraft, forsøg om Du kan magt'en</l>
+               <l xml:id="idm140312756776080">Og - lad Dig aldrig bringe ud af Takten!</l>
+               <l xml:id="idm140312756775632">Vær ej forsagt, men heller ej forvoven,</l>
+               <l xml:id="idm140312756775152">Og stoel paa Dirigenten hist foroven,</l>
+               <l xml:id="idm140312756774720">Da vil med Himlens Hjelp selv Dødens Dvale</l>
+               <l xml:id="idm140312756774240">Dig blive til en jordisk blid Finale!</l>
+            </lg>
+            <pb n="277" xml:id="s277" facs="adl/boedtcher/boedtcher1/boed1277"/>
+         </div>
+      </body>
+   </text>
+</TEI>

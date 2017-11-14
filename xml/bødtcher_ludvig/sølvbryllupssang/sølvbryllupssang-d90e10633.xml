@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sølvbryllupssang</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid76224" decls="#biblid76224">
+            <head xml:id="idm140312757738720">SØLVBRYLLUPSSANG</head>
+            <lg xml:id="idm140312757738288">
+               <l xml:id="idm140312757738032">Landlige Ynde! køligstille Skygger!</l>
+               <l xml:id="idm140312757737552">Her, hvor ved Taget Svalen roligt bygger,</l>
+               <l xml:id="idm140312757737104">Vær du, mens Tvedragt rundtomkring maa rase,</l>
+               <l xml:id="idm140312757736608">Fredens Oase!</l>
+            </lg>
+            <lg xml:id="idm140312757736064">
+               <l xml:id="idm140312757735808">Her lyder Krigssang kun af muntre Fugle,</l>
+               <l xml:id="idm140312757735360">Kun Frugt paa Træet runder sig som Kugle,</l>
+               <l xml:id="idm140312757734880">Her kun en Byge listig overfalder,</l>
+               <l xml:id="idm140312757734448">Tordnen kun knalder.</l>
+            </lg>
+            <lg xml:id="idm140312757733904">
+               <l xml:id="idm140312757733648">Eros, som flygtig ellers vidt sig svinger,</l>
+               <l xml:id="idm140312757733200">Fandt her et Paphos, folded sine Vinger,</l>
+               <l xml:id="idm140312757732752">Dvæled i Aarviis, fulde Fem og Tyve,</l>
+               <l xml:id="idm140312757732272">Glemte at flyve.</l>
+            </lg>
+            <lg xml:id="idm140312757731728">
+               <l xml:id="idm140312757731472">Guden sin Sølvblomst fletter glad iaften,</l>
+               <l xml:id="idm140312757730992">Omkrandser Ynde, smykker Manddomskraften,</l>
+               <l xml:id="idm140312757730544">Lægger i Blomsten Duft, som aldrig svinder:</l>
+               <l xml:id="idm140312757730048">
+                  <hi rend="italic" xml:id="idm140312757729792">Kjærligheds Minder!</hi>
+               </l>
+            </lg>
+            <lg xml:id="idm140312757728816">
+               <l xml:id="idm140312757728560">Bacchus! kryst Vinen af din bedste Drue!</l>
+               <l xml:id="idm140312757728112">Eros den vies, Guden og hans Bue!</l>
+               <l xml:id="idm140312757727680">Maatte han Krandsen ømt i Tidens Fylde</l>
+               <l xml:id="idm140312757727200">Aftenforgylde!</l>
+            </lg>
+            <pb n="189" xml:id="s189" facs="adl/boedtcher/boedtcher1/boed1189"/>
+         </div>
+      </body>
+   </text>
+</TEI>

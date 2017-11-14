@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notturno</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid86147" decls="#biblid86147">
+            <head xml:id="idm140312756488944">NOTTURNO</head>
+            <lg xml:id="idm140312756488528">
+               <l xml:id="idm140312756488272">Intet Lys mit Øie skimter</l>
+               <l xml:id="idm140312756487824">Bag Gardinets Hang -</l>
+               <l xml:id="idm140312756487408">I den blanke Rude glimter</l>
+               <l xml:id="idm140312756486976">Maanens tause Gang:</l>
+               <l xml:id="idm140312756486560">Alt er stille,</l>
+               <l xml:id="idm140312756486144">Kun den fjerne Kilde</l>
+               <l xml:id="idm140312756485728">Nynner med sin Drømmeklang.</l>
+            </lg>
+            <lg xml:id="idm140312756485136">
+               <l xml:id="idm140312756484880">Vugges Du, min hvide Svane,</l>
+               <l xml:id="idm140312756484448">Alt i Nattens Favn -</l>
+               <l xml:id="idm140312756484032">Eller tør min Sjæl Dig ane</l>
+               <l xml:id="idm140312756483568">Vaagen og med Savn,</l>
+               <l xml:id="idm140312756483152">Fuld af samme</l>
+               <l xml:id="idm140312756482736">Længselsfulde Flamme,</l>
+               <l xml:id="idm140312756482288">Som mig griber ved dit Navn?</l>
+            </lg>
+            <lg xml:id="idm140312756481728">
+               <l xml:id="idm140312756481472">Traf Dig Guden med sin Bue,</l>
+               <l xml:id="idm140312756481040">O, da lyd hans Bud!</l>
+               <l xml:id="idm140312756480624">Lad mig Dig i Natten skue</l>
+               <l xml:id="idm140312756480192">Lig et Stjerneskud,</l>
+               <l xml:id="idm140312756479776">Og lad ømme,</l>
+               <l xml:id="idm140312756479344">Lykkelige Drømme</l>
+               <l xml:id="idm140312756478912">Flagre til mit Hjerte ud!</l>
+            </lg>
+            <lg xml:id="idm140312756478352">
+               <l xml:id="idm140312756478096">Stille - see Gardinet bæver</l>
+               <l xml:id="idm140312756477632">Ved en Haand saa bly!</l>
+               <pb n="301" xml:id="s301" facs="adl/boedtcher/boedtcher1/boed1301"/>
+               <l xml:id="idm140312756476016">Bort det fra min Himmel svæver</l>
+               <l xml:id="idm140312756475552">Som en fjendtlig Sky. -</l>
+               <l xml:id="idm140312756475136">Tak, Du blide,</l>
+               <l xml:id="idm140312756474720">Friske, Liliehvide!</l>
+               <l xml:id="idm140312756474304">Tak, og hvil nu sødt paany!</l>
+            </lg>
+            <pb n="302" xml:id="s302" facs="adl/boedtcher/boedtcher1/boed1302"/>
+         </div>
+      </body>
+   </text>
+</TEI>

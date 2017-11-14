@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>December</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid87087" decls="#biblid87087">
+            <head xml:id="idm140312756372016">DECEMBER</head>
+            <p xml:id="idm140312756371600">1871</p>
+            <lg xml:id="idm140312756371184">
+               <l xml:id="idm140312756370928">Nu bruger Vinteren sit Vid,</l>
+               <l xml:id="idm140312756370496">Har vævet selv sit klamme Lagen,</l>
+               <l xml:id="idm140312756370032">Og ligger hyllet ind til Hagen</l>
+               <l xml:id="idm140312756369600">Som i en Søvn til evig Tid;</l>
+            </lg>
+            <lg xml:id="idm140312756369008">
+               <l xml:id="idm140312756368752">Den drømmer glad om sin Bedrift,</l>
+               <l xml:id="idm140312756368288">Om Blomstret, som den gjorde Skade,</l>
+               <l xml:id="idm140312756367856">Om Skovens tusind visne Blade,</l>
+               <l xml:id="idm140312756367424">Og om sin skarpe Aandes Gift:</l>
+            </lg>
+            <lg xml:id="idm140312756366864">
+               <l xml:id="idm140312756366608">Den leer ad Solens sløve Piil,</l>
+               <l xml:id="idm140312756366144">Som skabte Liv i Somrens Dage,</l>
+               <l xml:id="idm140312756365712">Men nu har ingen Kraft tilbage,</l>
+               <l xml:id="idm140312756365280">Og kun Medlidenhedens Smil. -</l>
+            </lg>
+            <lg xml:id="idm140312756364720">
+               <l xml:id="idm140312756364464">Du strenge Vinter, Tid kun giv!</l>
+               <l xml:id="idm140312756364032">Dit Hovmod, som Dig nu bedaarer,</l>
+               <l xml:id="idm140312756363600">Vil engang smelte hen i Taarer,</l>
+               <l xml:id="idm140312756363168">Og hver en Taare vorde Liv!</l>
+            </lg>
+            <pb n="312" xml:id="s312" facs="adl/boedtcher/boedtcher1/boed1312"/>
+         </div>
+      </body>
+   </text>
+</TEI>

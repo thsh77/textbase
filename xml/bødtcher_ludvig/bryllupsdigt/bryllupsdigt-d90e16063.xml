@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bryllupsdigt</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid87976" decls="#biblid87976">
+            <head xml:id="idm140312756262480">BRYLLUPSDIGT</head>
+            <p xml:id="idm140312756262064">Den 21. November 1872</p>
+            <lg xml:id="idm140312756261648">
+               <l xml:id="idm140312756261392">Riig var vor Glæde, let paa Skjæbnens Bølge</l>
+               <l xml:id="idm140312756260896">Gynged vi trøstigt, selv hvor Skjær sig dølge,</l>
+               <l xml:id="idm140312756260400">Holdt vi kun helligt Livets gyldne Smykke:</l>
+               <l xml:id="idm140312756259952">Kjærligheds Lykke!</l>
+            </lg>
+            <lg xml:id="idm140312756259392">
+               <l xml:id="idm140312756259136">Tusind af Blomster pryde Jordens Have,</l>
+               <l xml:id="idm140312756258704">Fristende skjønne, hver en himmelsk Gave.</l>
+               <l xml:id="idm140312756258224">Ingen blandt Alle sætter dog i Skygge</l>
+               <l xml:id="idm140312756257744">Kjærligheds Lykke!</l>
+            </lg>
+            <lg xml:id="idm140312756257184">
+               <l xml:id="idm140312756256928">Freidige Ungdom, Dig har Eros kaaren,</l>
+               <l xml:id="idm140312756256496">Skatten den rige hæves kun i Vaaren,</l>
+               <l xml:id="idm140312756256016">Før Livets Mismod køler med sin Harme</l>
+               <l xml:id="idm140312756255536">Hjerternes Varme.</l>
+            </lg>
+            <lg xml:id="idm140312756254992">
+               <l xml:id="idm140312756254736">Maatte de Blikke, som nu straaler ømme,</l>
+               <l xml:id="idm140312756254256">Fulde af Haabets lykkeligste Drømme,</l>
+               <l xml:id="idm140312756253776">Aldrig formørkes, smile med en Flamme,</l>
+               <l xml:id="idm140312756253296">Altid den Samme!</l>
+            </lg>
+            <pb n="321" xml:id="s321" facs="adl/boedtcher/boedtcher1/boed1321"/>
+         </div>
+      </body>
+   </text>
+</TEI>

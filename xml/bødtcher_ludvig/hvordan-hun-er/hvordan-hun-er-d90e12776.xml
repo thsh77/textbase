@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hvordan hun
+            er</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid80911" decls="#biblid80911">
+            <head xml:id="idm140312757138224">HVORDAN HUN ER</head>
+            <lg xml:id="idm140312757137808">
+               <l xml:id="idm140312757137552">Hendes Øje er blaat og saa fuldt af Tugt</l>
+               <l xml:id="idm140312757137072">Og uskyldig Lyst.</l>
+               <l xml:id="idm140312757136656">Hendes Hjerte er godt, og det boer saa smukt</l>
+               <l xml:id="idm140312757136208">I det unge Bryst!</l>
+            </lg>
+            <lg xml:id="idm140312757135664">
+               <l xml:id="idm140312757135408">Hendes Kind en Buket af det fineste Rødt</l>
+               <l xml:id="idm140312757134928">Med Lillieskjær!</l>
+               <l xml:id="idm140312757134496">Og hun rødmer saa let og taler saa sødt</l>
+               <l xml:id="idm140312757134016">Og mildt til Enhver!</l>
+            </lg>
+            <lg xml:id="idm140312757133472">
+               <l xml:id="idm140312757133216">O lyksalig den Ven, hvem i Elskovs Stund</l>
+               <l xml:id="idm140312757132768">Hun engang i Løn</l>
+               <l xml:id="idm140312757132336">Hvisker kjærlig og blid med blussende Mund</l>
+               <l xml:id="idm140312757131856">- Svar paa hans Bøn!</l>
+            </lg>
+            <pb n="245" xml:id="s245" facs="adl/boedtcher/boedtcher1/boed1245"/>
+         </div>
+      </body>
+   </text>
+</TEI>

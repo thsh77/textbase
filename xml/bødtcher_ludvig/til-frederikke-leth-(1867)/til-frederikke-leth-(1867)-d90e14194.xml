@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til frederikke leth
+              (1867)</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid84004" decls="#biblid84004">
+            <head xml:id="idm140312756751232">TIL FREDERIKKE LETH</head>
+            <p xml:id="idm140312756750816">d. 7de Novbr. 1867</p>
+            <p xml:id="idm140312756750400">(I et Exemplar af Digte, ældre og nyere, 1867)</p>
+            <lg xml:id="idm140312756749904">
+               <l xml:id="idm140312756749648">Hvad er saa kjærligt som en Moders Hjerte,</l>
+               <l xml:id="idm140312756749168">Saa varmt af Haab om Fremtids lyse Smiil!</l>
+               <l xml:id="idm140312756748720">Og hvad er bittert som en Moders Smerte,</l>
+               <l xml:id="idm140312756748272">Naar Haabet rammes koldt af Dødens Piil!</l>
+            </lg>
+            <pb n="280" xml:id="s280" facs="adl/boedtcher/boedtcher1/boed1280"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sangfuglen</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid90627" decls="#biblid90627">
+            <head xml:id="idm140312755932496">SANGFUGLEN</head>
+            <lg xml:id="idm140312755932080">
+               <l xml:id="idm140312755931824">Jeg hviled under Bøgens Skjul</l>
+               <l xml:id="idm140312755931360">En Sommeraften mild,</l>
+               <l xml:id="idm140312755930944">Og over mig en liden Fugl</l>
+               <l xml:id="idm140312755930512">Smaanynned af og til.</l>
+               <l xml:id="idm140312755930096">Hvad Fuglen sang for sig i Løn</l>
+               <l xml:id="idm140312755929632">Ei fatted ret min Hu;</l>
+               <l xml:id="idm140312755929216">Men Skoven aldrig var saa grøn</l>
+               <l xml:id="idm140312755928752">Og duftende som nu.</l>
+            </lg>
+            <lg xml:id="idm140312755928208">
+               <l xml:id="idm140312755927952">Et Blink brød frem bag Løvets Hang</l>
+               <l xml:id="idm140312755927472">Af Øresundets Blaa;</l>
+               <l xml:id="idm140312755927024">Da kunde klart, hvad Fuglen sang,</l>
+               <l xml:id="idm140312755926592">Mit Hjerte nok forstaae.</l>
+               <l xml:id="idm140312755926160">Den sad i Aftensolens Lyn</l>
+               <l xml:id="idm140312755925728">Saa høit og saae sig om,</l>
+               <l xml:id="idm140312755925280">Og af og til et lille Nyn</l>
+               <l xml:id="idm140312755924848">Af Tak og Glæde kom.</l>
+            </lg>
+            <lg xml:id="idm140312755924272">
+               <l xml:id="idm140312755924016">Da Solen sank, en sagte Vind</l>
+               <l xml:id="idm140312755923584">Gik gjennem Skov og Krat,</l>
+               <l xml:id="idm140312755923152">En Hvisken lød i Bøg og Lind</l>
+               <l xml:id="idm140312755922688">Ret som et blidt Godnat.</l>
+               <l xml:id="idm140312755922256">Min lille Fugl blev taus paastand,</l>
+               <l xml:id="idm140312755921824">Den fandt til Reden Vei</l>
+               <l xml:id="idm140312755921408">Og drømte om et yndigt Land -</l>
+               <l xml:id="idm140312755920944">Det Samme drømte jeg.</l>
+            </lg>
+            <pb n="350" xml:id="s350" facs="adl/boedtcher/boedtcher1/boed1350"/>
+            <pb n="351" xml:id="s351" facs="adl/boedtcher/boedtcher1/boed1351"/>
+         </div>
+      </body>
+   </text>
+</TEI>

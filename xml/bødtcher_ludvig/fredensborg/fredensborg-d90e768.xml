@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fredensborg</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid55716" decls="#biblid55716">
+            <head xml:id="idm140312760204512">FREDENSBORG</head>
+            <lg xml:id="idm140312760204096">
+               <l xml:id="idm140312760203840">Omtaage Sandserne Forstanden,</l>
+               <l xml:id="idm140312760203408">Vil Bægret skumme over Randen -</l>
+               <l xml:id="idm140312760202944">Drag, Fredensborg! mig til dit Bryst!</l>
+               <l xml:id="idm140312760202512">Og lad det sværmeriske Stille</l>
+               <l xml:id="idm140312760202048">I dine Skove sødt formilde</l>
+               <l xml:id="idm140312760201600">Det Vilde i min Ungdomslyst!</l>
+            </lg>
+            <lg xml:id="idm140312760201040">
+               <l xml:id="idm140312760200784">Og nager Kummer paa mit Hjerte,</l>
+               <l xml:id="idm140312760200352">Er stum og dødelig min Smerte,</l>
+               <l xml:id="idm140312760199888">Da flyer jeg atter til dit Hegn!</l>
+               <l xml:id="idm140312760199456">Gaaer atter i de grønne Sale,</l>
+               <l xml:id="idm140312760198992">Indtil at dine Nattergale</l>
+               <l xml:id="idm140312760198560">Har smeltet Skyerne til Regn.</l>
+            </lg>
+            <lg xml:id="idm140312760198000">
+               <l xml:id="idm140312760197744">Ja, du skal leve i min Tanke,</l>
+               <l xml:id="idm140312760197312">Til Hjertet hører op at banke</l>
+               <l xml:id="idm140312760196848">For jordisk Fryd og jordisk Sorg!</l>
+               <l xml:id="idm140312760196416">Til Fuglen tier hist paa Qviste,</l>
+               <l xml:id="idm140312760195984">Og Træet bliver til en Kiste</l>
+               <l xml:id="idm140312760195520">Og Graven selv til Fredensborg!</l>
+            </lg>
+            <pb n="6" xml:id="s6" facs="adl/boedtcher/boedtcher1/boed1006"/>
+         </div>
+      </body>
+   </text>
+</TEI>

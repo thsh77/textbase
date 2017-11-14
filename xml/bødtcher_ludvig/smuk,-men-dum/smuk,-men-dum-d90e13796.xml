@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Smuk, men dum</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid83134" decls="#biblid83134">
+            <head xml:id="idm140312756861040">SMUK, MEN DUM</head>
+            <p xml:id="idm140312756860624">(Epigram)</p>
+            <lg xml:id="idm140312756860208">
+               <l xml:id="idm140312756859952">Du hendes skjønne Tænder "<hi rend="italic" xml:id="idm140312756859616">Perler</hi>" kalder, -</l>
+               <l xml:id="idm140312756858768">Ja, Lignelsen er træffende igrunden,</l>
+               <l xml:id="idm140312756858288">Og det er ofte, naar hun aabner Munden,</l>
+               <l xml:id="idm140312756857856">Som - Østersen, der aabner sine Skaller!</l>
+            </lg>
+            <pb n="269" xml:id="s269" facs="adl/boedtcher/boedtcher1/boed1269"/>
+         </div>
+      </body>
+   </text>
+</TEI>

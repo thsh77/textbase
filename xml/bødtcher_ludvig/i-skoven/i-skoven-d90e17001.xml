@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I skoven</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid90011" decls="#biblid90011">
+            <head xml:id="idm140312756009056">I SKOVEN</head>
+            <lg xml:id="idm140312756008640">
+               <l xml:id="idm140312756008384">Du smykker dig til Pintsefest</l>
+               <l xml:id="idm140312756007952">Du gamle Eeg, du Skovens Præst!</l>
+               <l xml:id="idm140312756007488">Du taler fra dit Løvkapel</l>
+               <l xml:id="idm140312756007040">Forfriskende til mangen Sjel.</l>
+               <l xml:id="idm140312756006608">Som en bedaget Patriark</l>
+               <l xml:id="idm140312756006192">Peger du paa din runkne Bark,</l>
+               <l xml:id="idm140312756005760">Og paa din lyse Foraarspragt,</l>
+               <l xml:id="idm140312756005328">Og hvisker blidt "Vær uforsagt!</l>
+               <l xml:id="idm140312756004864">Jeg tidt opleved, hvor jeg staar,</l>
+               <l xml:id="idm140312756004432">Min Sommer og mit Efteraar.</l>
+               <l xml:id="idm140312756004000">Jeg følte Vinterstormens Had</l>
+               <l xml:id="idm140312756003536">Afklæde mig det sidste Blad,</l>
+               <l xml:id="idm140312756003072">Og i mit Bryst var iskold Nat</l>
+               <l xml:id="idm140312756002640">Og Hjertet indtil Døden mat. -</l>
+               <l xml:id="idm140312756002176">Da strakte jeg som bønlig Haand</l>
+               <l xml:id="idm140312756001712">Min nøgne Gren mod Kraftens Aand,</l>
+               <l xml:id="idm140312756001248">Og see! et Lyn mig skimte lod</l>
+               <l xml:id="idm140312756000816">Til Trøst min dybe skjulte Rod. - -</l>
+               <l xml:id="idm140312756000336">Og <hi rend="italic" xml:id="idm140312756000080">Du</hi>
+              - det Ypperste af Alt,</l>
+               <l xml:id="idm140312755999264">Hvad Kraften har tillive kaldt,</l>
+               <l xml:id="idm140312755998832">Du ængstes for din Vintertid</l>
+               <l xml:id="idm140312755998368">Fordi som Sne din Lok er hvid -</l>
+               <l xml:id="idm140312755997936">Du, som behersker Jord og Hav,</l>
+               <l xml:id="idm140312755997504">Du blegner for en jordisk Grav! -</l>
+               <l xml:id="idm140312755997072">Vær trøstig kun, vær glad og god!</l>
+               <l xml:id="idm140312755996592">Og husk: <hi rend="italic" xml:id="idm140312755996304">din dybe skjulte Rod!</hi>"</l>
+            </lg>
+            <pb n="344" xml:id="s344" facs="adl/boedtcher/boedtcher1/boed1344"/>
+         </div>
+      </body>
+   </text>
+</TEI>

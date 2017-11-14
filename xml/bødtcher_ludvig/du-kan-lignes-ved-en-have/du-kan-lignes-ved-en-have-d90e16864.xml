@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Du kan lignes ved en
+              have</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid89689" decls="#biblid89689">
+            <head xml:id="idm140312756050352">DU KAN LIGNES VED EN HAVE</head>
+            <lg xml:id="idm140312756049920">
+               <l xml:id="idm140312756049664">Du kan lignes ved en Have</l>
+               <l xml:id="idm140312756049232">Riig paa Frugt og skyggefuld</l>
+               <l xml:id="idm140312756048800">Og hvor Solen, som sin Gave</l>
+               <l xml:id="idm140312756048368">Kaster nu sit Aftenguld.</l>
+            </lg>
+            <lg xml:id="idm140312756047808">
+               <l xml:id="idm140312756047552">Du kan lignes ved en Kilde</l>
+               <l xml:id="idm140312756047120">Under Himlens milde Blaa</l>
+               <l xml:id="idm140312756046688">Og som paa sin Gang den stille</l>
+               <l xml:id="idm140312756046256">Kvæger selv det mindste Straa -</l>
+            </lg>
+            <lg xml:id="idm140312756045664">
+               <l xml:id="idm140312756045408">Du kan lignes ved en Høne</l>
+               <l xml:id="idm140312756044960">Evig virksom, aldrig træg,</l>
+               <l xml:id="idm140312756044512">Og som uden træt at stønne</l>
+               <l xml:id="idm140312756044048">Daglig bringer glad dit Æg -</l>
+            </lg>
+            <lg xml:id="idm140312756043456">
+               <l xml:id="idm140312756043200">Mest af Alt et S du ligner,</l>
+               <l xml:id="idm140312756042768">Ak! hint spanske - som du veed -</l>
+               <l xml:id="idm140312756042336">Som mit Hjerte ømt velsigner</l>
+               <l xml:id="idm140312756041872">Og som har min Kjærlighed!</l>
+            </lg>
+            <pb n="339" xml:id="s339" facs="adl/boedtcher/boedtcher1/boed1339"/>
+         </div>
+      </body>
+   </text>
+</TEI>

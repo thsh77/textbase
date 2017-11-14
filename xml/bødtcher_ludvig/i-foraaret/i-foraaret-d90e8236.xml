@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I foraaret</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid71279" decls="#biblid71279">
+            <head xml:id="idm140312758312096">I FORAARET</head>
+            <lg xml:id="idm140312758311680">
+               <l xml:id="idm140312758311424">Nu sænker sig Vaarens svangrende Luft,</l>
+               <l xml:id="idm140312758310944">Og Knopperne briste, og Blomsten faaer Duft,</l>
+               <l xml:id="idm140312758310496">Og Bølgen, som længe smægted i Tvang,</l>
+               <l xml:id="idm140312758310016">Gaaer atter sin blinkende Gang; -</l>
+               <l xml:id="idm140312758309584">I dunkle Lund,</l>
+               <l xml:id="idm140312758309168">I dæmrende Stund,</l>
+               <l xml:id="idm140312758308736">Bag Løv, som skjærmer,</l>
+               <l xml:id="idm140312758308288">En Nattergal sværmer, -</l>
+               <l xml:id="idm140312758307840">Og Tonerne synke dybt i mit Bryst</l>
+               <l xml:id="idm140312758307408">Som Suk, som Savn, som smeltende Lyst!</l>
+            </lg>
+            <lg xml:id="idm140312758306848">
+               <l xml:id="idm140312758306592">Nu gløder i Rosen Eros sin Piil</l>
+               <l xml:id="idm140312758306128">Og svinger sin Bue med Trods og med Smil,</l>
+               <l xml:id="idm140312758305680">Han stiger fra Jord som qviddrende Fugl</l>
+               <l xml:id="idm140312758305248">Og spejder bag Skyen i Skjul:</l>
+               <l xml:id="idm140312758304816">O vogt nu tro</l>
+               <l xml:id="idm140312758304400">Dit Hjertes Ro!</l>
+               <l xml:id="idm140312758303984">Hans Piil er baaren</l>
+               <l xml:id="idm140312758303568">Af Duften i Vaaren -</l>
+               <l xml:id="idm140312758303152">Den træffer som Lyn og fylder dit Bryst</l>
+               <l xml:id="idm140312758302672">Med Suk, med Savn, med smeltende Lyst!</l>
+            </lg>
+            <pb n="144" xml:id="s144" facs="adl/boedtcher/boedtcher1/boed1144"/>
+         </div>
+      </body>
+   </text>
+</TEI>

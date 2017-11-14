@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hannibal leth</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid83715" decls="#biblid83715">
+            <head xml:id="idm140312756788576">HANNIBAL LETH,</head>
+            <p xml:id="idm140312756788160">død i Athen den 13. April 1865</p>
+            <lg xml:id="idm140312756787696">
+               <l xml:id="idm140312756787440">Jeg saae Dig ej paa denne dunkle Jord, -</l>
+               <l xml:id="idm140312756786992">Jeg skimted kun som gjennem Sørgeflor</l>
+               <l xml:id="idm140312756786512">Dit Aasyn i din Moders vaade Blikke:</l>
+               <l xml:id="idm140312756786080">Men ædel stod Du for mig, smuk og god,</l>
+               <l xml:id="idm140312756785600">Med Haabets friske Krands og frejdigt Mod,</l>
+               <l xml:id="idm140312756785152">Et Billed, som mit Hjerte glemmer ikke!</l>
+            </lg>
+            <lg xml:id="idm140312756784592">
+               <l xml:id="idm140312756784336">Ak! Herren tog igjen, hvad rigt han gav:</l>
+               <l xml:id="idm140312756783888">Nu staaer Cypressen ved din aarle Grav,</l>
+               <l xml:id="idm140312756783456">Og Hellas Himmel smiler, hvor Du blunder,</l>
+               <l xml:id="idm140312756783008">Men mangt et kjærligt Suk gaaer stille frem:</l>
+               <l xml:id="idm140312756782512">Det kommer fra dit fjerne Fædrehjem</l>
+               <l xml:id="idm140312756782032">Og kysser Stenen, som Du hviler under!</l>
+            </lg>
+            <pb n="276" xml:id="s276" facs="adl/boedtcher/boedtcher1/boed1276"/>
+         </div>
+      </body>
+   </text>
+</TEI>

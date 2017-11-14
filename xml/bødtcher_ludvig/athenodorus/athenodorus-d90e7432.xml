@@ -1,0 +1,444 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Athenodorus</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid69657" decls="#biblid69657">
+            <head xml:id="idm140312758508672">ATHENODORUS</head>
+            <lg xml:id="idm140312758508256">
+               <l xml:id="idm140312758508000">I Rom gik atter Ry af fjerne Sejre</l>
+               <l xml:id="idm140312758507568">Til Glands for Kejserdømmets unge Sol,</l>
+               <l xml:id="idm140312758507088">Og Lykkens Tempel smykkedes med Krandse</l>
+               <l xml:id="idm140312758506656">Og Dagen henfløj under Jubelraab; -</l>
+               <l xml:id="idm140312758506176">Mod Aften strømmed Folket over Forum,</l>
+               <l xml:id="idm140312758505696">Og Trængslen steg foran August's Palads,</l>
+               <l xml:id="idm140312758505216">Hvor tusind brune Øjne stirred op,</l>
+               <l xml:id="idm140312758504752">For end at see et Glimt af Dagens Afgud;</l>
+               <l xml:id="idm140312758504304">Om Borgen stod de sejrende Cohorter,</l>
+               <l xml:id="idm140312758503872">De blanke Hjelme kasted Lyn i Solen,</l>
+               <l xml:id="idm140312758503440">Og over Lynet svæved Romas Ørn,</l>
+               <l xml:id="idm140312758502976">Og over den kom som i Marmorskyer</l>
+               <l xml:id="idm140312758502544">I Borgens brede Fag August tilsyne,</l>
+               <l xml:id="idm140312758502112">Lig Jupiter, mens Folket tordned Bifald.</l>
+            </lg>
+            <lg xml:id="idm140312758501536">
+               <l xml:id="idm140312758501280">Men ved Augustus' Side stod en Olding,</l>
+               <l xml:id="idm140312758500848">Uvilligt dragen frem for Mængdens Blikke:</l>
+               <l xml:id="idm140312758500368">Det var Athenodorus, Philosophen,</l>
+               <l xml:id="idm140312758499936">Berømt for Viisdom og for strenge Sæder, -</l>
+               <l xml:id="idm140312758499440">Til ham sig læned Kejseren fortrolig,</l>
+               <l xml:id="idm140312758498960">Og Jublen steg ved sligt et ædelt Syn.</l>
+               <l xml:id="idm140312758498480">Dog saae der Ingen Gubbens skarpe Blik</l>
+               <l xml:id="idm140312758498048">Og Smilet, da han Øjeblikket efter</l>
+               <l xml:id="idm140312758497584">I Hallen ene med Augustus udbrød:</l>
+               <l xml:id="idm140312758497120">"Er jeg nu færdig? Kan Philosophien</l>
+               <l xml:id="idm140312758496640">Gaae trøstig nu tilbage til sin Vraa</l>
+               <l xml:id="idm140312758496160">Og vente ydmygt, til den atter bruges?"</l>
+            </lg>
+            <pb n="131" xml:id="s131" facs="adl/boedtcher/boedtcher1/boed1131"/>
+            <lg xml:id="idm140312758494400">
+               <l xml:id="idm140312758494144">"Din Fod har samme Frihed som din Tunge,"</l>
+               <l xml:id="idm140312758493696">Gav ham Augustus høflig kold til Svar,</l>
+               <l xml:id="idm140312758493216">"Men før Du gaaer, hør selv et Sandhedsord:</l>
+               <l xml:id="idm140312758492720">Hvo laante vel den Anden Glands idag?</l>
+               <l xml:id="idm140312758492288">
+                  <hi rend="italic" xml:id="idm140312758492160">Du</hi>
+              stræber rastløs efter Verdens Agt,</l>
+               <l xml:id="idm140312758491280">
+                  <hi rend="italic" xml:id="idm140312758491152">Jeg</hi> -
+              efter at beherske just den Verden,</l>
+               <l xml:id="idm140312758490272">Hvis Agtelse din Higen kæmper for!</l>
+               <l xml:id="idm140312758489808">
+                  <hi rend="italic" xml:id="idm140312758489680">Jeg</hi>
+              voved Livet tidt for min Idee,</l>
+               <l xml:id="idm140312758488848">Hvad voved hidtil vel Athenodorus?"</l>
+               <l xml:id="idm140312758488416">"Du fejler", svared Stoikeren ham,</l>
+               <l xml:id="idm140312758487984">"Den Verden, som Du ængstlig troer at eje,</l>
+               <l xml:id="idm140312758487504">Har længst jeg overvundet og behersker nu</l>
+               <l xml:id="idm140312758487024">I Tryghed ved <hi rend="italic" xml:id="idm140312758486736">Forsagelsernes</hi> Scepter!</l>
+               <l xml:id="idm140312758485888">Tag paa min Trone Plads, hvis Du har Mod,</l>
+               <l xml:id="idm140312758485440">Hvis ej - hvo er vel Kejser af os Begge?"</l>
+               <l xml:id="idm140312758484992">"Mit Valg er gjort", tilsmiled ham August,</l>
+               <l xml:id="idm140312758484544">"Om end det ringeste - jeg er ej skinsyg:</l>
+               <l xml:id="idm140312758484096">Byg kun i Sky din ideale Trone</l>
+               <l xml:id="idm140312758483664">Og hersk i Savnets vidtudstrakte Rige,</l>
+               <l xml:id="idm140312758483232">Jeg vil ej trættes om, hvo der er mægtigst;</l>
+               <l xml:id="idm140312758482736">Men vogt Dig vel for nogentid at blande</l>
+               <l xml:id="idm140312758482304">Idee med Handling, optræd aldrig daarlig</l>
+               <l xml:id="idm140312758481824">Imellem mig og hvad min Villie attraaer,</l>
+               <l xml:id="idm140312758481376">Du kunde ellers altfor snart erfare</l>
+               <l xml:id="idm140312758480944">Dit sande Riges meget snevre Grændser!" -</l>
+            </lg>
+            <lg xml:id="idm140312758480336">
+               <l xml:id="idm140312758480080">Den Gamle gik, ledsaget af August,</l>
+               <l xml:id="idm140312758479648">Til Borgens Forhal, hvor den gyldne Skare</l>
+               <l xml:id="idm140312758479200">Af Hoffets Embedsmænd saae Verdens Hersker</l>
+               <l xml:id="idm140312758478720">Sig bøje fast med Ærefrygt til Afsked:</l>
+               <l xml:id="idm140312758478240">Flux løj hver Mine rundtom Tankens Dybsind,</l>
+               <l xml:id="idm140312758477744">Alt veg ærbødigt for Athenodorus,</l>
+               <pb n="132" xml:id="s132" facs="adl/boedtcher/boedtcher1/boed1132"/>
+               <l xml:id="idm140312758476032">Som svøbt i Kappen og med sænket Pande</l>
+               <l xml:id="idm140312758475552">Skred taus forbi de kejserlige Aber. -</l>
+            </lg>
+            <lg xml:id="idm140312758474992">
+               <l xml:id="idm140312758474736">Da ud fra Marmorfliserne han traadte</l>
+               <l xml:id="idm140312758474304">I Aftenluften, daled Solen alt,</l>
+               <l xml:id="idm140312758473872">Og Nattens første Time gjød balsamisk</l>
+               <l xml:id="idm140312758473392">Sin stille Klarhed over Højene,</l>
+               <l xml:id="idm140312758472928">Og Luftens Aande var som lønlig Hvisken</l>
+               <l xml:id="idm140312758472448">I Dunkelhed fra sydligvarme Læber. -</l>
+               <l xml:id="idm140312758471968">Med Fløjtespil og Sang begav sig Folket</l>
+               <l xml:id="idm140312758471488">I lange Skarer hjem fra Dagens Fryd;</l>
+               <l xml:id="idm140312758471056">Alene vandred Ingen, selv den Mindste</l>
+               <l xml:id="idm140312758470624">Fandt ved sin Side Echo af sin Latter;</l>
+               <l xml:id="idm140312758470192">Men for Athenodorus var hans Tanke,</l>
+               <l xml:id="idm140312758469760">Altsom han gik, en skjult og aandrig Ven,</l>
+               <l xml:id="idm140312758469312">Der stundom bragte Læben til at smile</l>
+               <l xml:id="idm140312758468832">Og stundom hævede hans Blik mod Himlen:</l>
+               <l xml:id="idm140312758468352">Kun svagt han hørte Folkehavets Brusen</l>
+               <l xml:id="idm140312758467872">Og saae ej Faklerne, som fornemt bares</l>
+               <l xml:id="idm140312758467440">Foran Patriciernes stolte Ungdom,</l>
+               <l xml:id="idm140312758467008">Der ilede med Fryd til natligt Stevne;</l>
+               <l xml:id="idm140312758466576">Ja, kun et flygtigt Øjekast han skjænked</l>
+               <l xml:id="idm140312758466096">Selv <hi rend="italic" xml:id="idm140312758465808">ham</hi>, Augustus' lykkelige Digter,</l>
+               <l xml:id="idm140312758464976">Som ungdomsglad fra Midten af sin Kreds</l>
+               <l xml:id="idm140312758464544">Tilvinked Oldingen en venlig Hilsen;</l>
+               <l xml:id="idm140312758464112">Den Gamle rysted faderlig sit Hoved,</l>
+               <l xml:id="idm140312758463680">Men gav dog mild ham Hilsenen tilbage. -</l>
+            </lg>
+            <lg xml:id="idm140312758463104">
+               <l xml:id="idm140312758462848">Udreven af sin Grublen standsed han</l>
+               <l xml:id="idm140312758462416">Og overskuede den travle Mængde:</l>
+               <l xml:id="idm140312758461952">Da traf hans Blik med Studsen paa en Vandrer,</l>
+               <l xml:id="idm140312758461504">Der, lig ham selv, gik eensom med sin Tanke;</l>
+               <pb n="133" xml:id="s133" facs="adl/boedtcher/boedtcher1/boed1133"/>
+               <l xml:id="idm140312758459872">Men hiin var ung, og Livet vinked ham,</l>
+               <l xml:id="idm140312758459440">Og dog var Tanken en Vampyr, som graadig</l>
+               <l xml:id="idm140312758458992">Ham havde suget Blodet ud af Kinden</l>
+               <l xml:id="idm140312758458560">Og lagt en rædsom Qval i alle Træk.</l>
+               <l xml:id="idm140312758458080">Han var af Almuen, en kraftig Romer,</l>
+               <l xml:id="idm140312758457648">Kun bøjet ved sin Kummers svare Byrde,</l>
+               <l xml:id="idm140312758457168">Og undveg sky de klare Faklers Skin: -</l>
+               <l xml:id="idm140312758456736">Hans Vej gik did, hvorfra den Gamle kom,</l>
+               <l xml:id="idm140312758456288">Og som en truende Comet han foer</l>
+               <l xml:id="idm140312758455856">Forbi Athenodorus' stille Maane; -</l>
+               <l xml:id="idm140312758455424">Men Gubben vendte sig og fulgte ham</l>
+               <l xml:id="idm140312758454992">Med Øjet først - og siden i hans Spor.</l>
+            </lg>
+            <lg xml:id="idm140312758454384">
+               <l xml:id="idm140312758454128">Ved Kejserborgen standsed Romeren</l>
+               <l xml:id="idm140312758453696">Og stirred, uden Sands for Mængdens Trængsel,</l>
+               <l xml:id="idm140312758453200">Saa uafbrudt med Had paa Murene,</l>
+               <l xml:id="idm140312758452768">Som vilde han dem smuldre; Philosophen</l>
+               <l xml:id="idm140312758452336">Gik nærmere og lagde blidt sin Haand</l>
+               <l xml:id="idm140312758451856">Paa Mandens brede Skulder: "Laan din Kraft",</l>
+               <l xml:id="idm140312758451408">Han bad, "blot for et Øjeblik en Olding,</l>
+               <l xml:id="idm140312758450928">Som skal mod Strømmen, men formaaer det ej!"</l>
+               <l xml:id="idm140312758450432">"Athenodorus!" udbrød hiin med Bæven,</l>
+               <l xml:id="idm140312758449952">"O, det er Guderne, som skikked Dig!</l>
+               <l xml:id="idm140312758449520">Jeg kjender Dig, ja hele Rom Dig kjender.</l>
+               <l xml:id="idm140312758449072">Et Ord af Dig kan skabe nu min Lykke, -</l>
+               <l xml:id="idm140312758448640">Aabn Vejen mig til Kejseren, men nu</l>
+               <l xml:id="idm140312758448208">I dette Øjeblik! Ak, al min Velfærd</l>
+               <l xml:id="idm140312758447728">Afhænger af en Times farlig Nølen,</l>
+               <l xml:id="idm140312758447248">See her mig knæle!" - "Stille!" bød den Gamle,</l>
+               <l xml:id="idm140312758446736">"Har Du dit Bønskrift under Kappen her? -</l>
+               <l xml:id="idm140312758446256">Hvad nu - et Sværd? Og med saa spids en Tunge</l>
+               <l xml:id="idm140312758445760">Troer Du at kunne røre Cæsars Hjerte?</l>
+               <pb n="134" xml:id="s134" facs="adl/boedtcher/boedtcher1/boed1134"/>
+               <l xml:id="idm140312758444048">Jeg mærker, Søn, at jeg maa lede Dig,</l>
+               <l xml:id="idm140312758443568">Og derfor bort herfra! gjør ingen Modstand,</l>
+               <l xml:id="idm140312758443072">Nær ingen Mistro! - See Nyfigenheden</l>
+               <l xml:id="idm140312758442592">Omkring os skjærper alt sit Spejderblik: -</l>
+               <l xml:id="idm140312758442112">Betving dit Blod, og hvisk saa, mens vi gaae,</l>
+               <l xml:id="idm140312758441664">Din hele Daarskab i mit gamle Øre,</l>
+               <l xml:id="idm140312758441200">Som sjelden hørte ædlere Musik."</l>
+            </lg>
+            <lg xml:id="idm140312758440608">
+               <l xml:id="idm140312758440352">Han drog ham bort, og med en dæmpet Røst,</l>
+               <l xml:id="idm140312758439872">Afbrudt af Hulken og af Raseri,</l>
+               <l xml:id="idm140312758439440">Gav Ynglingen sit pinte Hjerte Luft.</l>
+               <l xml:id="idm140312758439008">Alt som han hvisked, rynked Oldingen</l>
+               <l xml:id="idm140312758438576">Sit hvide Bryn, og et sarkastisk Smil</l>
+               <l xml:id="idm140312758438144">Oplyste som et Lynglimt blegt hans Aasyn:</l>
+               <l xml:id="idm140312758437696">"Klart er det Hele," mumled han tilsidst,</l>
+               <l xml:id="idm140312758437248">"Din Hustru er, hvad Verden kalder dejlig,</l>
+               <l xml:id="idm140312758436800">Og Kejseren har Smag - og Magt tillige,</l>
+               <l xml:id="idm140312758436368">Og nu vil han - naar, siger Du, er Tiden?</l>
+               <l xml:id="idm140312758435920">- Alt om en Time! ja, for store Herrer</l>
+               <l xml:id="idm140312758435488">Er Tiden kostbar - nu vil han i Løndom</l>
+               <l xml:id="idm140312758435008">Sin Bærestol i Nattens Time sende, -</l>
+               <l xml:id="idm140312758434528">Vær stille, Søn! Vil nu paany Du rase?</l>
+               <l xml:id="idm140312758434048">Du vil tilbage? Nei, ved Stjernen hist,</l>
+               <l xml:id="idm140312758433616">Som ufravigelig sin Bane gaaer,</l>
+               <l xml:id="idm140312758433184">Nu skal Du rolig lede mine Fjed</l>
+               <l xml:id="idm140312758432752">Hjem til dit Arnested og uforstyrret</l>
+               <l xml:id="idm140312758432320">Mig lade klare mine Tankers Strøm,</l>
+               <l xml:id="idm140312758431856">Maaskee jeg skimter da lidt Guld paa Bunden."</l>
+            </lg>
+            <lg xml:id="idm140312758431280">
+               <l xml:id="idm140312758431024">- De vandred tause sammen og betraadte</l>
+               <l xml:id="idm140312758430592">Hiin Side Tiberen de øde Gader:</l>
+               <l xml:id="idm140312758430128">Den Unge bed i Læben sig, mens Ordet</l>
+               <pb n="135" xml:id="s135" facs="adl/boedtcher/boedtcher1/boed1135"/>
+               <l xml:id="idm140312758428400">Forvandledes til Sukke, og hans Skridt</l>
+               <l xml:id="idm140312758427968">I Angst bestandig var foran den Gamles,</l>
+               <l xml:id="idm140312758427536">Som kun med Møje fulgte ham; med Et</l>
+               <l xml:id="idm140312758427056">Han rev sig løs og iled mod en Bygning,</l>
+               <l xml:id="idm140312758426576">Hvor inde Alt var mørkt og Døren spærret, -</l>
+               <l xml:id="idm140312758426080">Han gav et Tegn, - da Svaret længe nøled,</l>
+               <l xml:id="idm140312758425600">Steg frygteligt hans Uro - "Julia!</l>
+               <l xml:id="idm140312758425168">Luk op i Himlens Navn! mig er det - Cajus!</l>
+               <l xml:id="idm140312758424720">Jeg sprænger Døren, hvis Du dvæler længer!"</l>
+               <l xml:id="idm140312758424224">En svag og frygtsom Haand berørte Slaaen,</l>
+               <l xml:id="idm140312758423744">Og Cajus drog Athenodorus ind</l>
+               <l xml:id="idm140312758423312">Og slutted hurtigt Dørens snevre Aabning.</l>
+            </lg>
+            <lg xml:id="idm140312758422704">
+               <l xml:id="idm140312758422448">Da Lampen tændtes, førte Manden taus</l>
+               <l xml:id="idm140312758421968">Sin unge, skjønne Hustru hen for Gubben,</l>
+               <l xml:id="idm140312758421488">Der, lig en Ørn, som uskadt seer i Solen,</l>
+               <l xml:id="idm140312758421008">Betragted rolig hendes høje Ynde,</l>
+               <l xml:id="idm140312758420544">Men spejded lønligt efter Sjælens Skjønhed</l>
+               <l xml:id="idm140312758420048">I Qvindens Smerte og Blufærdighed.</l>
+               <l xml:id="idm140312758419584">Hans strenge Træk blev stedse lysere,</l>
+               <l xml:id="idm140312758419104">Og smilende han vendte sig mod Cajus:</l>
+               <l xml:id="idm140312758418672">"Nu først jeg veed, hvordan Philosophien</l>
+               <l xml:id="idm140312758418192">Bør fremstaae for min kejserlige Lærling,</l>
+               <l xml:id="idm140312758417712">Hvis han skal elske den: Minerva lig,</l>
+               <l xml:id="idm140312758417280">Han seer den helst i qvindeligt Gevandt:</l>
+               <l xml:id="idm140312758416832">Hans høje Villie skee - saavidt som muligt.</l>
+               <l xml:id="idm140312758416336">Laan, Cajus, hurtigt mig den Højtidsdragt,</l>
+               <l xml:id="idm140312758415856">Hvori din Hustru tækkes bedst dit Øje, -</l>
+               <l xml:id="idm140312758415376">Staa ej forbauset, Mand! men hurtig! skynd Dig,</l>
+               <l xml:id="idm140312758414928">Mens end vi herske over Øjeblikket; -</l>
+               <l xml:id="idm140312758414448">Lad nu din Julia med øvet Haand</l>
+               <l xml:id="idm140312758413984">Indhylle mig i Drapperiets Folder;</l>
+            </lg>
+            <pb n="136" xml:id="s136" facs="adl/boedtcher/boedtcher1/boed1136"/>
+            <lg xml:id="idm140312758412288">
+               <l xml:id="idm140312758412032">Iaften priser jeg de vise Guder,</l>
+               <l xml:id="idm140312758411600">Som nægted Højde mig og Legemsfylde,</l>
+               <l xml:id="idm140312758411120">Hvorover tidt i Ungdomstid jeg knurred: -</l>
+               <l xml:id="idm140312758410672">Nu, Julia, giv hid dit lange Slør, -</l>
+               <l xml:id="idm140312758410192">Det er som skabt for Isis' Helligdomme;</l>
+               <l xml:id="idm140312758409760">Der er de alt! Ja, lad dem banke kun!</l>
+               <l xml:id="idm140312758409328">Bedæk mit Hoved, - ryst ej saa paa Haanden,</l>
+               <l xml:id="idm140312758408832">Den kunde blive let til vor Forræder;</l>
+               <l xml:id="idm140312758408352">Ræk mig dit Sværd, min Søn, der skjult skal træde</l>
+               <l xml:id="idm140312758407840">Istedetfor Minervas Hjelm og Spyd;</l>
+               <l xml:id="idm140312758407408">Bort med din Hustru nu, og flyt saa Lampen!</l>
+               <l xml:id="idm140312758406960">Vi tør ej længer friste deres Taalmod;</l>
+               <l xml:id="idm140312758406480">Aabn Døren, Cajus, og ledsag mig ud</l>
+               <l xml:id="idm140312758406000">Med Taushed og sørgmodig Lydighed."</l>
+            </lg>
+            <lg xml:id="idm140312758405392">
+               <l xml:id="idm140312758405136">Alt hørtes udenfor i Nattens Stille</l>
+               <l xml:id="idm140312758404656">En ivrig Hvisken mellem Trællene,</l>
+               <l xml:id="idm140312758404192">Og Husets svage Indgang trængtes heftigt;</l>
+               <l xml:id="idm140312758403712">Nu ved dens Aabning styrted ræd</l>
+               <l xml:id="idm140312758403248">Enhver tilbage, og da Cajus førte</l>
+               <l xml:id="idm140312758402784">Den tæt Tilslørede til Bærestolen,</l>
+               <l xml:id="idm140312758402304">Blev Byrden hævet op i skyndsom Hast,</l>
+               <l xml:id="idm140312758401824">Og hurtigt fjerned de sig bort fra Manden,</l>
+               <l xml:id="idm140312758401376">Som sendte rørt taknemmelige Blikke</l>
+               <l xml:id="idm140312758400896">Igjennem Natten til Athenodorus. -</l>
+            </lg>
+            <lg xml:id="idm140312758400336">
+               <l xml:id="idm140312758400080">Den Gamles første Tanke dybt i Eenrum</l>
+               <l xml:id="idm140312758399600">Var bitter, som en Smag af Skuffelse:</l>
+               <l xml:id="idm140312758399168">Augustus var ham kjær ved Vanens Magt;</l>
+               <l xml:id="idm140312758398688">Han haabed stedse dog at skimte Spiren</l>
+               <l xml:id="idm140312758398256">Af det med Kamp nedlagte Frø, og nu -</l>
+               <l xml:id="idm140312758397776">Saa store Evner og dog Sandsers Træl,</l>
+               <pb n="137" xml:id="s137" facs="adl/boedtcher/boedtcher1/boed1137"/>
+               <l xml:id="idm140312758396096">En saadan Højde, fast til Skyerne,</l>
+               <l xml:id="idm140312758395632">Og - Pjedestalens Fod i Dynd og Støv!</l>
+               <l xml:id="idm140312758395152">"Ak!" sukked Gubben, "hvo formaaer at raade</l>
+               <l xml:id="idm140312758394704">Den indre Sphinx i Menneskets Natur!" -</l>
+               <l xml:id="idm140312758394272">Hans Sjæl sank hen i Grublen; efterhaanden</l>
+               <l xml:id="idm140312758393792">Indvirked Nattens Ro paa Oldingen,</l>
+               <l xml:id="idm140312758393360">Hvis Dag var viet Aandens svære Kampe;</l>
+               <l xml:id="idm140312758392880">Den sagte vuggende Bevægelse</l>
+               <l xml:id="idm140312758392416">Var som et Trylleri fra Barndomstiden,</l>
+               <l xml:id="idm140312758391984">Og Trællenes afmaalte, lette Trin</l>
+               <l xml:id="idm140312758391520">Og Vandets Rislen fra Fontainerne</l>
+               <l xml:id="idm140312758391088">Og Hjertefreden i hans eget Bryst, -</l>
+               <l xml:id="idm140312758390656">Alt blev en Valmue, hvis Slummerkraft</l>
+               <l xml:id="idm140312758390224">Omsider lukkede hans trætte Øjne. -</l>
+            </lg>
+            <lg xml:id="idm140312758389616">
+               <l xml:id="idm140312758389360">Men, mens han slumred og i Drømme selv</l>
+               <l xml:id="idm140312758388880">Fortsatte Tankens Flugt, var Lidenskaben</l>
+               <l xml:id="idm140312758388432">Lysvaagen i den kejserlige Borg. -</l>
+               <l xml:id="idm140312758388000">I hiint Gemak, hvis gyldne Adgangsnøgle</l>
+               <l xml:id="idm140312758387520">Var smeddet kun for Kejseren alene,</l>
+               <l xml:id="idm140312758387088">Stod lyttende August; - hans stolte Aasyn,</l>
+               <l xml:id="idm140312758386640">Der ellers i sin stille Marmorro</l>
+               <l xml:id="idm140312758386208">Var som en Sarkophag for skjulte Tanker,</l>
+               <l xml:id="idm140312758385760">Gav frit sit Spil til en urolig Attraa,</l>
+               <l xml:id="idm140312758385328">Som hævede hans Bryst: - en Duft af Ambra</l>
+               <l xml:id="idm140312758384848">Flød sagte aandende fra Lampens Flamme,</l>
+               <l xml:id="idm140312758384368">Og Lyset faldt, forædlet gjennem Rav,</l>
+               <l xml:id="idm140312758383888">Med Varme paa hans høje Skikkelse</l>
+               <l xml:id="idm140312758383424">Og bæved paa de yppigt malte Vægge,</l>
+               <l xml:id="idm140312758382944">Paa Loftets Guld og paa det blanke Sølvspejl</l>
+               <l xml:id="idm140312758382448">Og Purpurlejets silkebløde Bolster. -</l>
+               <l xml:id="idm140312758381968">Med Et opklaredes hans Mine; - rask</l>
+               <pb n="138" xml:id="s138" facs="adl/boedtcher/boedtcher1/boed1138"/>
+               <l xml:id="idm140312758380288">Han hævede med egen Haand tilside</l>
+               <l xml:id="idm140312758379824">Det tunge Forhæng, og i samme Nu</l>
+               <l xml:id="idm140312758379360">Kom Trællene tilsyne, nedlod Byrden</l>
+               <l xml:id="idm140312758378880">Og fjerned' tause sig med sænket Blik. -</l>
+            </lg>
+            <lg xml:id="idm140312758378272">
+               <l xml:id="idm140312758378016">Augustus stod ved Maalet, men hans Stolthed</l>
+               <l xml:id="idm140312758377568">Selv Blodets Flamme vilde kold beherske;</l>
+               <l xml:id="idm140312758377120">Han dvælede - og først da Spejlet viste</l>
+               <l xml:id="idm140312758376640">De kolde uudgrundelige Træk,</l>
+               <l xml:id="idm140312758376176">Udstrakte han med kunstlet Ro sin Haand</l>
+               <l xml:id="idm140312758375744">Og aabned Bærestolen; - stille henstrakt</l>
+               <l xml:id="idm140312758375264">Paa Hynderne laa ubevægelig</l>
+               <l xml:id="idm140312758374800">Den fine, slørindhyllede Gestalt; -</l>
+               <l xml:id="idm140312758374320">"I Afmagt!" sukkede August, "O Svaghed!"</l>
+               <l xml:id="idm140312758373872">Han hæved langsomt Slørets Flig, men veg</l>
+               <l xml:id="idm140312758373392">Med Frygt tilbage, - magisk Lampens Skjær</l>
+               <l xml:id="idm140312758372912">Faldt paa Athenodorus' ædle Aasyn,</l>
+               <l xml:id="idm140312758372448">Hans hvide Lokker, tankefulde Pande,</l>
+               <l xml:id="idm140312758372016">Osiris lig i halvtilsløret Pragt,</l>
+               <l xml:id="idm140312758371552">Og Øjet lukket i uskyldig Slummer. -</l>
+            </lg>
+            <lg xml:id="idm140312758370944">
+               <l xml:id="idm140312758370688">Usikker nærmed atter sig August</l>
+               <l xml:id="idm140312758370224">Og fæsted mørkt sit Blik paa Oldingen;</l>
+               <l xml:id="idm140312758369744">Men ufrivillig stod han snart fordybet</l>
+               <l xml:id="idm140312758369312">Som i en aaben gammel Viisdomsbog,</l>
+               <l xml:id="idm140312758368880">Hvori han læste skjønne, klare Tanker,</l>
+               <l xml:id="idm140312758368400">Der som en Olie dæmped Blodets Bølger; -</l>
+               <l xml:id="idm140312758367920">Den vrede Fure mellem Brynet svandt,</l>
+               <l xml:id="idm140312758367488">Et Smil opløste Mundens faste Strenghed</l>
+               <l xml:id="idm140312758367008">Og vexlede og veg tilsidst sin Plads</l>
+               <l xml:id="idm140312758366576">For dyb og umodstaaelig Beundring; -</l>
+               <l xml:id="idm140312758366144">Med Lethed lagde han sin Haand omsider</l>
+            </lg>
+            <pb n="139" xml:id="s139" facs="adl/boedtcher/boedtcher1/boed1139"/>
+            <lg xml:id="idm140312758364336">
+               <l xml:id="idm140312758364080">Paa Gubbens Pande, og Athenodorus</l>
+               <l xml:id="idm140312758363648">Opslog sit Øje, hæved sig ivejret</l>
+               <l xml:id="idm140312758363184">Og saae paa Kejseren med stille Fatning. -</l>
+               <l xml:id="idm140312758362736">"Det vover Du mod mig?" udbrød August</l>
+               <l xml:id="idm140312758362256">Og gav sin Stemme hele Dødens Kulde.</l>
+               <l xml:id="idm140312758361776">"Du seer det", svared rolig Philosophen,</l>
+               <l xml:id="idm140312758361328">"Athenodorus vover ogsaa Livet</l>
+               <l xml:id="idm140312758360896">For <hi rend="italic" xml:id="idm140312758360608">sin</hi> Idee." - "Du veed da, hvad Dig venter?"</l>
+               <l xml:id="idm140312758359760">Tog Kejseren til Orde; Gubben smilte:</l>
+               <l xml:id="idm140312758359328">"Hvo veed vel det? Jeg veed med Vished kun,</l>
+               <l xml:id="idm140312758358880">At nu staaer Verdens allerstørste Mand</l>
+            </lg>
+            <lg xml:id="idm140312758358272">
+               <l xml:id="idm140312758358016">Foruden Værge, i sin lette Natdragt</l>
+               <l xml:id="idm140312758357536">Priisgiven for enhver hevngjerrig List,</l>
+               <l xml:id="idm140312758357104">Og at til Held det blev Athenodorus,</l>
+               <l xml:id="idm140312758356672">Der næsten halvt i Drømme bringer Sværdet,</l>
+               <l xml:id="idm140312758356176">Som just var slebet for en saadan Time -</l>
+               <l xml:id="idm140312758355728">Her lægger jeg det for din Fod, August!</l>
+               <l xml:id="idm140312758355248">Til Brug imod mig selv, hvis saa Dig tykkes,</l>
+               <l xml:id="idm140312758354800">Men glem kun ej, at muligt bringer Hevnen</l>
+               <l xml:id="idm140312758354352">Det selv den næste Gang, og Hevnen, veed Du,</l>
+               <l xml:id="idm140312758353856">Den sover aldrig." - Med Forvirring nu</l>
+               <l xml:id="idm140312758353424">Greb hurtig Kejseren det skarpe Vaaben</l>
+               <l xml:id="idm140312758352992">Og vejed det en Stund i Haanden taus;</l>
+               <l xml:id="idm140312758352560">Da lod han Sværdet falde, tog den Gamle</l>
+               <l xml:id="idm140312758352080">Med Inderlighed i sin tætte Favn</l>
+               <l xml:id="idm140312758351616">Og udbrød uforstilt med Følelse:</l>
+               <l xml:id="idm140312758351152">"Lad gjelde Liv for Liv, Athenodorus!</l>
+               <l xml:id="idm140312758350720">Og finder Mageskiftet Du for ringe,</l>
+               <l xml:id="idm140312758350288">Da evig Fred tillige for dem Begge,</l>
+               <l xml:id="idm140312758349856">Som Du beskytter!" -</l>
+            </lg>
+            <lg xml:id="idm140312758349312">
+               <l xml:id="idm140312758349056">Nattens lyse Stjerner</l>
+               <l xml:id="idm140312758348640">Modtog med himmelsk Tindren Oldingen,</l>
+               <pb n="140" xml:id="s140" facs="adl/boedtcher/boedtcher1/boed1140"/>
+               <l xml:id="idm140312758346976">Da ud han traadte i den friske Luft,</l>
+               <l xml:id="idm140312758346544">Og Slottets Løndør atter lukked sig.</l>
+               <l xml:id="idm140312758346064">Han drog med sine Lungers hele Kraft</l>
+               <l xml:id="idm140312758345632">Et Aandedrag, for grundigt at fordrive</l>
+               <l xml:id="idm140312758345200">Indtil den sidste Rest af Ambraduften,</l>
+               <l xml:id="idm140312758344768">Og vendte Skridtet, efter fuldendt Dagværk</l>
+               <l xml:id="idm140312758344288">Og med sin lille Qvindebylt i Haanden,</l>
+               <l xml:id="idm140312758343856">Imod sit Hjem. -</l>
+            </lg>
+            <lg xml:id="idm140312758343312">
+               <l xml:id="idm140312758343056">Rundt fra de aabne Haller</l>
+               <l xml:id="idm140312758342624">Udstrømmed Glædens Blus i Sommernatten</l>
+               <l xml:id="idm140312758342144">Og viste Philosophen mangt et Billed</l>
+               <l xml:id="idm140312758341712">Af Livets Fryd, men standsede ham ikke;</l>
+               <l xml:id="idm140312758341280">Dog lytted han, da højt Augustus' Navn</l>
+               <l xml:id="idm140312758340800">Klang ham imøde fra en festlig Højsal,</l>
+               <l xml:id="idm140312758340320">Der glimrede af Lys og Epheukrandse; -</l>
+               <l xml:id="idm140312758339888">Han nærmed sig - ak, det var Digteren,</l>
+               <l xml:id="idm140312758339408">Som i sin Kreds af henrykttause Venner</l>
+               <l xml:id="idm140312758338976">Just med Begejstring foredrog en Ode</l>
+               <l xml:id="idm140312758338544">Til Hæder for Augustus' høje Dyder; -</l>
+               <l xml:id="idm140312758338064">Den Gamle rødmed og gik videre</l>
+               <l xml:id="idm140312758337600">Og standsed først sin Fod ved Cajus' Huus,</l>
+               <l xml:id="idm140312758337120">Hvor Angstens Dæmon skygged over Taget;</l>
+               <l xml:id="idm140312758336640">Han jog den bort med sine klare Blikke</l>
+               <l xml:id="idm140312758336208">Og bragte atter Lys og Fred tilbage. - -</l>
+               <l xml:id="idm140312758335760">Det var alt Midnat, da han træt omsider</l>
+               <l xml:id="idm140312758335280">Hensatte Vandringsstaven i sin Krog</l>
+               <l xml:id="idm140312758334848">Og søgte Hvile paa det haarde Leje,</l>
+               <l xml:id="idm140312758334368">Hvor først han agted efter gammel Vane</l>
+               <l xml:id="idm140312758333888">At gjennemgaae den svundne Dag med Strenghed;</l>
+               <l xml:id="idm140312758333440">Men Søvnen favned ham midt i hans Regnskab -</l>
+               <l xml:id="idm140312758332944">Dog halv i Slummer var det Oldingen,</l>
+               <pb n="141" xml:id="s141" facs="adl/boedtcher/boedtcher1/boed1141"/>
+               <l xml:id="idm140312758331328">Som hæved sig ivejret Loftets Grund,</l>
+               <l xml:id="idm140312758330848">Og Viisdoms evigstraalende Gudinde</l>
+               <l xml:id="idm140312758330416">Lod sig tilsyne, bøjed sig alvorlig</l>
+               <l xml:id="idm140312758329936">Og trykked sine Læber til hans Mund!</l>
+            </lg>
+            <pb n="142" xml:id="s142" facs="adl/boedtcher/boedtcher1/boed1142"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I lunden</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid71541" decls="#biblid71541">
+            <head xml:id="idm140312758279312">I LUNDEN</head>
+            <p xml:id="idm140312758278896">(Romance)</p>
+            <lg xml:id="idm140312758278480">
+               <l xml:id="idm140312758278224">Jeg spejded i den grønne Lund:</l>
+               <l xml:id="idm140312758277760">Han kom saa kjæk og glad -</l>
+               <l xml:id="idm140312758277312">Hans Stemme klang, hans friske Mund</l>
+               <l xml:id="idm140312758276880">Slog Smeld i Lindetræets Blad: -</l>
+               <l xml:id="idm140312758276416">Jeg gik bag Bøgens Hang i Skjul,</l>
+               <l xml:id="idm140312758275952">Did styred han sit Skridt</l>
+               <l xml:id="idm140312758275520">Og skjar et Navn i Træets Bul,</l>
+               <l xml:id="idm140312758275056">Et Navn - og det var mit!</l>
+            </lg>
+            <lg xml:id="idm140312758274496">
+               <l xml:id="idm140312758274240">Farvel min Elskovs Morgengry!</l>
+               <l xml:id="idm140312758273808">Saa salig, ak, saa kort!</l>
+               <l xml:id="idm140312758273376">Med Torden steg den mørke Sky</l>
+               <l xml:id="idm140312758272912">Og kaldte Danmarks Sønner bort; -</l>
+               <l xml:id="idm140312758272448">Han gav sit unge Bryst til Skjold,</l>
+               <l xml:id="idm140312758272016">Da Lynet flammed nær;</l>
+               <l xml:id="idm140312758271568">Han stod paa Thyras gamle Vold -</l>
+               <l xml:id="idm140312758271136">Jeg saae ham aldrig meer!</l>
+            </lg>
+            <lg xml:id="idm140312758270576">
+               <l xml:id="idm140312758270320">Nu drages lønligt al min Sjæl</l>
+               <l xml:id="idm140312758269856">Til Lundens dunkle Sal -</l>
+               <l xml:id="idm140312758269424">Der hører jeg i stille Qveld</l>
+               <l xml:id="idm140312758268960">De søde Minders Nattergal:</l>
+               <l xml:id="idm140312758268512">Jeg drømmer om hans aabne Favn</l>
+               <l xml:id="idm140312758268048">Og om hans Øjne blaae, -</l>
+               <l xml:id="idm140312758267600">Jeg stirrer paa mit eget Navn,</l>
+               <l xml:id="idm140312758267168">Men - <hi rend="italic" xml:id="idm140312758266880">hans</hi> jeg tænker paa!</l>
+            </lg>
+            <pb n="147" xml:id="s147" facs="adl/boedtcher/boedtcher1/boed1147"/>
+         </div>
+      </body>
+   </text>
+</TEI>

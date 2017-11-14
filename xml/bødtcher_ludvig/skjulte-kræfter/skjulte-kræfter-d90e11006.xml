@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Skjulte
+            kræfter</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid77030" decls="#biblid77030">
+            <head xml:id="idm140312757639056">SKJULTE KRÆFTER</head>
+            <lg xml:id="idm140312757638624">
+               <l xml:id="idm140312757638368">Ej nogen Tanke, klædt i Ord,</l>
+               <l xml:id="idm140312757637904">Gaaer paa sin Livsflugt reent tilgrunde, -</l>
+               <l xml:id="idm140312757637456">Om end dens Vej er uden Spor,</l>
+               <l xml:id="idm140312757637024">En evig Virken i den boer,</l>
+               <l xml:id="idm140312757636592">Den hendøer ingenlunde:</l>
+               <l xml:id="idm140312757636144">Den kjæmper med, naar det er Tid,</l>
+               <l xml:id="idm140312757635680">Hvis den er god - for Lysets Strid,</l>
+               <l xml:id="idm140312757635248">Men var den ond, gaaer den at stride</l>
+               <l xml:id="idm140312757634816">For Dybets Aand paa Mørkets Side.</l>
+            </lg>
+            <pb n="198" xml:id="s198" facs="adl/boedtcher/boedtcher1/boed1198"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paa en vens
+            dør</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid78052" decls="#biblid78052">
+            <head xml:id="idm140312757511840">PAA EN VENS DØR</head>
+            <lg xml:id="idm140312757511408">
+               <l xml:id="idm140312757511152">Ak atter fulgte sig igjen</l>
+               <l xml:id="idm140312757510720">Mit Hjertes indre Stemme:</l>
+               <l xml:id="idm140312757510288">Jeg søgte dig, min hulde Ven;</l>
+               <l xml:id="idm140312757509824">Men fandt dig ikke hjemme.</l>
+            </lg>
+            <lg xml:id="idm140312757509264">
+               <l xml:id="idm140312757509008">Til Gjengjeld søge du mit Hjem,</l>
+               <l xml:id="idm140312757508544">Det ellers mig vil gremme;</l>
+               <l xml:id="idm140312757508112">Til Klokken mangler lidt i fem</l>
+               <l xml:id="idm140312757507680">Er jeg bestandig hjemme.</l>
+            </lg>
+            <lg xml:id="idm140312757507120">
+               <l xml:id="idm140312757506864">Ak, Benjamin! paa Jorden her</l>
+               <l xml:id="idm140312757506432">Maa Tiden Ønsket tæmme;</l>
+               <l xml:id="idm140312757505984">I Himlen - hvis vi mødes der -</l>
+               <l xml:id="idm140312757505520">Er jeg bestandig hjemme.</l>
+            </lg>
+            <lg xml:id="idm140312757504960">
+               <l xml:id="idm140312757504704">Men hvis jeg for min Synd og Last</l>
+               <l xml:id="idm140312757504272">Skal svede hos den Slemme;</l>
+               <l xml:id="idm140312757503840">Saa holder han mig nok saa fast</l>
+               <l xml:id="idm140312757503408">At jeg er altid hjemme.</l>
+            </lg>
+            <pb n="212" xml:id="s212" facs="adl/boedtcher/boedtcher1/boed1212"/>
+         </div>
+      </body>
+   </text>
+</TEI>

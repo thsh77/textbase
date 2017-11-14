@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til christian
+              agerskov</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid88071" decls="#biblid88071">
+            <head xml:id="idm140312756250368">TIL CHRISTIAN AGERSKOV</head>
+            <p xml:id="idm140312756249952">(Med Digterens Billede)</p>
+            <p xml:id="idm140312756249536">Juleaften 1872</p>
+            <lg xml:id="idm140312756249120">
+               <l xml:id="idm140312756248864">Mit Navn, som tidt jeg bly skrev hen,</l>
+               <l xml:id="idm140312756248432">Selv naar min Musa ikke svigted,</l>
+               <l xml:id="idm140312756248000">Jeg skriver trøstig her igjen</l>
+               <l xml:id="idm140312756247536">Med Venskab, som er <hi rend="italic" xml:id="idm140312756247248">ikke digtet!</hi>
+               </l>
+            </lg>
+            <pb n="322" xml:id="s322" facs="adl/boedtcher/boedtcher1/boed1322"/>
+         </div>
+      </body>
+   </text>
+</TEI>

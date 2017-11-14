@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til frederikke leth
+              (1869)</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid84592" decls="#biblid84592">
+            <head xml:id="idm140312756677360">TIL FREDERIKKE LETH</head>
+            <p xml:id="idm140312756676944">(1 April 1869)</p>
+            <lg xml:id="idm140312756676528">
+               <l xml:id="idm140312756676272">Du kan <hi rend="italic" xml:id="idm140312756675984">Ham</hi> ikke glemme -</l>
+               <l xml:id="idm140312756675168">Han var din Søn - din Ven!</l>
+               <l xml:id="idm140312756674720">Og tidt hans kjære Stemme</l>
+               <l xml:id="idm140312756674272">I Ensomheden hjemme</l>
+               <l xml:id="idm140312756673856">Du troer at høre end; -</l>
+            </lg>
+            <lg xml:id="idm140312756673280">
+               <l xml:id="idm140312756673024">Ak! saae vort Blik, det svage,</l>
+               <l xml:id="idm140312756672592">I Fremtids dunkle Spor -</l>
+               <l xml:id="idm140312756672160">Maaske var vild din Klage,</l>
+               <l xml:id="idm140312756671728">Maaske du ej tilbage</l>
+               <l xml:id="idm140312756671312">Ham ønsked meer paa Jord, - -</l>
+            </lg>
+            <lg xml:id="idm140312756670720">
+               <l xml:id="idm140312756670464">Nu frigjort hisset lever</l>
+               <l xml:id="idm140312756670032">Hans unge skyldfri Sjæl,</l>
+               <l xml:id="idm140312756669584">Mod Salighed han svæver,</l>
+               <l xml:id="idm140312756669136">Og selv i Himlen hæver</l>
+               <l xml:id="idm140312756668688">Hans Bøn sig for dit Vel!</l>
+            </lg>
+            <pb n="288" xml:id="s288" facs="adl/boedtcher/boedtcher1/boed1288"/>
+         </div>
+      </body>
+   </text>
+</TEI>

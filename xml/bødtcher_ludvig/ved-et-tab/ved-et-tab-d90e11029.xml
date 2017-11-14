@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ved et tab</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid77083" decls="#biblid77083">
+            <head xml:id="idm140312757631936">VED ET TAB</head>
+            <lg xml:id="idm140312757631520">
+               <l xml:id="idm140312757631264">Hvad her vi elske, ejes kun paa Borg,</l>
+               <l xml:id="idm140312757630832">Paa uvis Frist, saa er Naturens Orden,</l>
+               <l xml:id="idm140312757630400">Og vil du være fri for Savn og Sorg,</l>
+               <l xml:id="idm140312757629920">Da maa du Intet elske her paa Jorden;</l>
+            </lg>
+            <lg xml:id="idm140312757629360">
+               <l xml:id="idm140312757629104">Men Sorgen er en Engels dunkle Haand,</l>
+               <l xml:id="idm140312757628672">Som luttrer, hvad os jordisk kjært er vorden,</l>
+               <l xml:id="idm140312757628176">Og løfter mod det Evige vor Aand -</l>
+               <l xml:id="idm140312757627712">Og derfor skal du - elske her paa Jorden.</l>
+            </lg>
+            <pb n="199" xml:id="s199" facs="adl/boedtcher/boedtcher1/boed1199"/>
+         </div>
+      </body>
+   </text>
+</TEI>

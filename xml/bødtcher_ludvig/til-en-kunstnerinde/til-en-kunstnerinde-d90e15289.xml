@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til en
+            kunstnerinde</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid86326" decls="#biblid86326">
+            <head xml:id="idm140312756466048">TIL EN KUNSTNERINDE</head>
+            <lg xml:id="idm140312756465632">
+               <l xml:id="idm140312756465376">Din slebne Aand sig maaler</l>
+               <l xml:id="idm140312756464944">Med Diamantens Værd,</l>
+               <l xml:id="idm140312756464496">Og kaster sine Straaler</l>
+               <l xml:id="idm140312756464080">I mangefarvet Skjær -</l>
+               <l xml:id="idm140312756463632">Og den formaar at tindre</l>
+               <l xml:id="idm140312756463200">Meer end en kold Juveel:</l>
+               <l xml:id="idm140312756462768">Den har sit varme Indre,</l>
+               <l xml:id="idm140312756462336">Som kun blev Aand tildeel.</l>
+            </lg>
+            <lg xml:id="idm140312756461776">
+               <l xml:id="idm140312756461520">Den har sit Musastempel,</l>
+               <l xml:id="idm140312756461088">Og et livsaligt Smil,</l>
+               <l xml:id="idm140312756460672">Og den beboer et Tempel</l>
+               <l xml:id="idm140312756460256">I ægte nordisk Stil,</l>
+               <l xml:id="idm140312756459808">Og skal end Tiden tvinge</l>
+               <l xml:id="idm140312756459376">Mod Jorden Templets Tind -</l>
+               <l xml:id="idm140312756458944">Den hæve kan sin Vinge</l>
+               <l xml:id="idm140312756458496">Og gaae til Lyset ind!</l>
+            </lg>
+            <pb n="304" xml:id="s304" facs="adl/boedtcher/boedtcher1/boed1304"/>
+         </div>
+      </body>
+   </text>
+</TEI>

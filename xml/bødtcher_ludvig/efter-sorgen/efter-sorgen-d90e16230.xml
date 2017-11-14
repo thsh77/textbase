@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Efter sorgen</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid88330" decls="#biblid88330">
+            <head xml:id="idm140312756218112">EFTER SORGEN</head>
+            <p xml:id="idm140312756217696">(Til Frederikke Leth d. 13de April 1873)</p>
+            <lg xml:id="idm140312756217248">
+               <l xml:id="idm140312756216992">Blidt kommer efter Sorgens Nat</l>
+               <l xml:id="idm140312756216560">Den stille Vemods Morgenrøde</l>
+               <l xml:id="idm140312756216096">Og bringer tusind Minders Skat</l>
+               <l xml:id="idm140312756215664">Som Arven fra den elskte Døde.</l>
+               <l xml:id="idm140312756215200">Ej søger Øjet meer hans Træk</l>
+               <l xml:id="idm140312756214736">I Gravens fugtigmørke Gjemme,</l>
+               <l xml:id="idm140312756214272">Men hæver paaske-glad sig kjæk</l>
+               <l xml:id="idm140312756213808">Mod Lyset, hvor han nu har hjemme;</l>
+               <l xml:id="idm140312756213376">Og Mindets Blomsterkrands, den rige,</l>
+               <l xml:id="idm140312756212944">Som bandtes her med Støvets Baand,</l>
+               <l xml:id="idm140312756212480">Forvandles til en Himmelstige,</l>
+               <l xml:id="idm140312756212048">Hvor Aand kan sværme ømt med Aand.</l>
+            </lg>
+            <pb n="325" xml:id="s325" facs="adl/boedtcher/boedtcher1/boed1325"/>
+         </div>
+      </body>
+   </text>
+</TEI>

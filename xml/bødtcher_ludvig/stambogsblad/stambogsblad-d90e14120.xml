@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stambogsblad</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid83847" decls="#biblid83847">
+            <head xml:id="idm140312756771456">STAMBOGSBLAD</head>
+            <p xml:id="idm140312756771040">Skjærtorsdag d. 29. Marts 1866</p>
+            <lg xml:id="idm140312756770576">
+               <l xml:id="idm140312756770320">Naar Livets Sol er ved at dale,</l>
+               <l xml:id="idm140312756769888">Da kaster den et Afskedsblik</l>
+               <l xml:id="idm140312756769456">Paa Alt, hvad Skjønt og Dybt der gik</l>
+               <l xml:id="idm140312756768976">Forbi dens Syn i Aand og Tale,</l>
+               <l xml:id="idm140312756768544">Og tager Summen, som den fik,</l>
+               <l xml:id="idm140312756768112">Taknemlig med til Himlens Sale: -</l>
+            </lg>
+            <lg xml:id="idm140312756767552">
+               <l xml:id="idm140312756767296">Du staaer blandt mine lyse Minder -</l>
+               <l xml:id="idm140312756766864">Jeg saae Dig paa min Vintervei</l>
+               <l xml:id="idm140312756766432">Som Kunstens evigfriske Mai,</l>
+               <l xml:id="idm140312756766000">Der kjæmper kjækt og Krandsen vinder: -</l>
+               <l xml:id="idm140312756765520">Tag Hjertets Tak! og - glem mig ei,</l>
+               <l xml:id="idm140312756765088">Naar Jorden for mit Syn forsvinder!</l>
+            </lg>
+            <pb n="278" xml:id="s278" facs="adl/boedtcher/boedtcher1/boed1278"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Opmuntring</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid79064" decls="#biblid79064">
+            <head xml:id="idm140312757368640">OPMUNTRING</head>
+            <lg xml:id="idm140312757368224">
+               <l xml:id="idm140312757367968">Et Hav vi alle pløje</l>
+               <l xml:id="idm140312757367520">Heel fuldt af blinde Skjer,</l>
+               <l xml:id="idm140312757367088">Snart let og snart med Møje</l>
+               <l xml:id="idm140312757366624">Vi Maalet komme nær:</l>
+               <l xml:id="idm140312757366176">Dybt bruser Skjebnens Bølge</l>
+               <l xml:id="idm140312757365712">Sit underfulde Qvad,</l>
+               <l xml:id="idm140312757365296">Og Livets Skib maa følge</l>
+               <l xml:id="idm140312757364848">Nu sukkende, nu glad. -</l>
+            </lg>
+            <lg xml:id="idm140312757364304">
+               <l xml:id="idm140312757364048">Den Tanke, ganske ene</l>
+               <l xml:id="idm140312757363632">At naae hiin fjerne Kyst,</l>
+               <l xml:id="idm140312757363200">Den slapper mat hver Sene</l>
+               <l xml:id="idm140312757362768">Og ængster saa vort Bryst;</l>
+               <l xml:id="idm140312757362320">Nei, skal en Mand bestige</l>
+               <l xml:id="idm140312757361888">Sit Skib med freidig Aand,</l>
+               <l xml:id="idm140312757361456">Da maa en trofast Pige</l>
+               <l xml:id="idm140312757361040">Ømt vandre ved hans Haand.</l>
+            </lg>
+            <lg xml:id="idm140312757360480">
+               <l xml:id="idm140312757360224">Lad mørke Skyer da ile,</l>
+               <l xml:id="idm140312757359776">Og over Skibet staa;</l>
+               <l xml:id="idm140312757359360">Han seer sin Pige smile, -</l>
+               <l xml:id="idm140312757358928">Og Himlen smiler blaa;</l>
+               <l xml:id="idm140312757358512">Lad Skjebnens Bølger true</l>
+               <l xml:id="idm140312757358064">At slukke Livets Brand;</l>
+               <l xml:id="idm140312757357648">Hans elskovsømme Lue</l>
+               <l xml:id="idm140312757357200">Den dog ei slukke kan! - -</l>
+            </lg>
+            <pb n="224" xml:id="s224" facs="adl/boedtcher/boedtcher1/boed1224"/>
+            <lg xml:id="idm140312757355392">
+               <l xml:id="idm140312757355136">Saa iil paa Haabets Vinger</l>
+               <l xml:id="idm140312757354704">Hver Mø, hver kraftfuld Mand!</l>
+               <l xml:id="idm140312757354240">Mens Elskov Flaget svinger</l>
+               <l xml:id="idm140312757353808">Sæt trøstig kun fra Land!</l>
+               <l xml:id="idm140312757353360">Og Gud vil mild oplade</l>
+               <l xml:id="idm140312757352944">Sin Verden uden Navn,</l>
+               <l xml:id="idm140312757352528">Og I skal synke glade,</l>
+               <l xml:id="idm140312757352112">Forklarte Favn mod Favn!</l>
+            </lg>
+            <pb n="225" xml:id="s225" facs="adl/boedtcher/boedtcher1/boed1225"/>
+         </div>
+      </body>
+   </text>
+</TEI>

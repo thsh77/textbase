@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Balvise</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid79376" decls="#biblid79376">
+            <head xml:id="idm140312757329936">BALVISE</head>
+            <lg xml:id="idm140312757329520">
+               <l xml:id="idm140312757329264">Ved Dands vort Blod blev varmt, vi synes end at høre</l>
+               <l xml:id="idm140312757328752">De muntre Toners Ild!</l>
+               <l xml:id="idm140312757328336">Nu vil vi Glassets Klang velvillig laane Øre</l>
+               <l xml:id="idm140312757327840">Og secundere til.</l>
+            </lg>
+            <lg xml:id="idm140312757327296">
+               <l xml:id="idm140312757327040">Ret glad man være kan, om Kjolen ei er sværtet,</l>
+               <l xml:id="idm140312757326544">Om man ei nævnes lærd:</l>
+               <l xml:id="idm140312757326096">Her krones Snillet vel, men hisset krones Hjertet,</l>
+               <l xml:id="idm140312757325648">Og det er mere værd!</l>
+            </lg>
+            <lg xml:id="idm140312757325072">
+               <l xml:id="idm140312757324816">Vel findes her paa vor forkeerte Jord, at Stjernen</l>
+               <l xml:id="idm140312757324368">Paa Hjertet fæstet er:</l>
+               <l xml:id="idm140312757323920">Men skete den sin Ret, man fæsted den paa Hjernen,</l>
+               <l xml:id="idm140312757323424">Dens Himmel findes der.</l>
+            </lg>
+            <lg xml:id="idm140312757322880">
+               <l xml:id="idm140312757322624">Held den, som naar han seer den bedre Morgenrøde</l>
+               <l xml:id="idm140312757322128">Afløse Livets Spas,</l>
+               <l xml:id="idm140312757321680">Kan med et skyldfrit Sind sit fulde Bæger støde</l>
+               <l xml:id="idm140312757321184">Mod Dødens Timeglas!</l>
+            </lg>
+            <lg xml:id="idm140312757320608">
+               <l xml:id="idm140312757320352">Den Braves Skaal, som her sig glad har rosenkrandset</l>
+               <l xml:id="idm140312757319904">Og som var Dydens Ven!</l>
+               <l xml:id="idm140312757319488">Skaal, Venner, for de Been, som har uskyldig dandset</l>
+               <l xml:id="idm140312757319040">Og dem, der dandse end!</l>
+            </lg>
+            <pb n="228" xml:id="s228" facs="adl/boedtcher/boedtcher1/boed1228"/>
+         </div>
+      </body>
+   </text>
+</TEI>

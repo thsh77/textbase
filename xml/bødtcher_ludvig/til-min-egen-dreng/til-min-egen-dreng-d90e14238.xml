@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til min egen
+            dreng</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid84110" decls="#biblid84110">
+            <head xml:id="idm140312756737216">TIL MIN EGEN DRENG</head>
+            <lg xml:id="idm140312756736800">
+               <l xml:id="idm140312756736544">I din Haand du Lille! blinker</l>
+               <l xml:id="idm140312756736112">Nøglen til Alverdens Skat:</l>
+               <l xml:id="idm140312756735664">Naar din Fantasi kun vinker,</l>
+               <l xml:id="idm140312756735232">Faaer du hvert et Ønske fat:</l>
+            </lg>
+            <lg xml:id="idm140312756734640">
+               <l xml:id="idm140312756734384">Kongens Slot du kunstigt bygger -</l>
+               <l xml:id="idm140312756733952">Et Spil Kort er dertil nok,</l>
+               <l xml:id="idm140312756733520">Ønsker du en Hest med Nykker,</l>
+               <l xml:id="idm140312756733088">Sadler du din Faders Stok;</l>
+            </lg>
+            <lg xml:id="idm140312756732528">
+               <l xml:id="idm140312756732272">Hvis sit Trav den stædig mindsker,</l>
+               <l xml:id="idm140312756731808">Bruges Pidsken - det er klart,</l>
+               <l xml:id="idm140312756731376">Og den steiler, og den vrindsker,</l>
+               <l xml:id="idm140312756730944">Men den lystrer i en Fart:</l>
+            </lg>
+            <lg xml:id="idm140312756730384">
+               <l xml:id="idm140312756730128">Hurtig er du da i Skoven,</l>
+               <l xml:id="idm140312756729696">Hvor dig møder Eventyr,</l>
+               <l xml:id="idm140312756729248">Og du seirer kjæk forvoven</l>
+               <l xml:id="idm140312756728800">Over Drager - vilde Dyr; -</l>
+            </lg>
+            <lg xml:id="idm140312756728240">
+               <l xml:id="idm140312756727984">Naar saa Eventyret ender,</l>
+               <l xml:id="idm140312756727552">Sidder du som i en Krands</l>
+               <l xml:id="idm140312756727120">Paa din Bænk blandt lutter <hi rend="italic" xml:id="idm140312756726784">Venner:</hi>
+               </l>
+               <l xml:id="idm140312756726096">Peder, Jørgen, Jens og Hans. -</l>
+            </lg>
+            <pb n="282" xml:id="s282" facs="adl/boedtcher/boedtcher1/boed1282"/>
+            <lg xml:id="idm140312756724256">
+               <l xml:id="idm140312756724000">Lykkelig jeg vil dig kalde,</l>
+               <l xml:id="idm140312756723568">Du min egen lille Strik!</l>
+               <l xml:id="idm140312756723136">Naar du finder blandt dem Alle</l>
+               <l xml:id="idm140312756722704">Een, blot <hi rend="italic" xml:id="idm140312756722416">Een, som holder Stikl</hi>
+               </l>
+            </lg>
+            <pb n="283" xml:id="s283" facs="adl/boedtcher/boedtcher1/boed1283"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sang til kongen
+              (1860)</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid83044" decls="#biblid83044">
+            <head xml:id="idm140312756872304">SANG TIL KONGEN</head>
+            <p xml:id="idm140312756871888">Efter Uddelingen af Præmierne i det kgl. Akademie for de
+            skjønne Konster, d. 31. Marts 1860</p>
+            <lg xml:id="idm140312756871296">
+               <l xml:id="idm140312756871040">Hil Dig, vor Drot! som bytted Thronens Sæde</l>
+               <l xml:id="idm140312756870544">I Festens Stund med Konstens Kongestol:</l>
+               <l xml:id="idm140312756870112">Du veed, Dit Aasyn skaber Mod og Glæde,</l>
+               <l xml:id="idm140312756869632">Du veed, Dit Blik det varmer som en Sol.</l>
+               <l xml:id="idm140312756869184">Ja, tidt, naar Sjælens Vinge vilde dale,</l>
+               <l xml:id="idm140312756868704">Du atter hæved den forsagte Aand,</l>
+               <l xml:id="idm140312756868240">Og styrked Kampen for det Ideale;</l>
+               <l xml:id="idm140312756867808">Thi Palmen vinked fra Din ædle Haand.</l>
+            </lg>
+            <lg xml:id="idm140312756867200">
+               <l xml:id="idm140312756866944">I Musers Hal, i frie Konsters Tempel</l>
+               <l xml:id="idm140312756866512">Hang end en Sky - af Tvang en dunkel Rest:</l>
+               <l xml:id="idm140312756866064">Da gav Dit Bud med Friheds fulde Stempel</l>
+               <l xml:id="idm140312756865616">Selvstændig Dom til hver en Konstens Præst:</l>
+               <l xml:id="idm140312756865120">Selv i Din Borg, som huldrigt sig oplader,</l>
+               <l xml:id="idm140312756864672">Vi møde Trøst, vi finde Haab og Tro, -</l>
+               <l xml:id="idm140312756864192">Gud signe Dig! vor Konge og vor Fader!</l>
+               <l xml:id="idm140312756863760">Dit Scepters Kraft, Din Arnes milde Ro!</l>
+            </lg>
+            <pb n="268" xml:id="s268" facs="adl/boedtcher/boedtcher1/boed1268"/>
+         </div>
+      </body>
+   </text>
+</TEI>

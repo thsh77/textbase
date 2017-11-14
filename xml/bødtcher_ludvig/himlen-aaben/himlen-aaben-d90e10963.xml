@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Himlen aaben</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid76936" decls="#biblid76936">
+            <head xml:id="idm140312757650976">HIMLEN AABEN</head>
+            <lg xml:id="idm140312757650560">
+               <l xml:id="idm140312757650304">Nu endelig fra Himlens Pol</l>
+               <l xml:id="idm140312757649872">Det blege Graa sig fjerner -</l>
+               <l xml:id="idm140312757649440">Mig hilser atter Dagens Sol</l>
+               <l xml:id="idm140312757649008">Og Nattens lyse Stjerner!</l>
+            </lg>
+            <lg xml:id="idm140312757648448">
+               <l xml:id="idm140312757648192">Da nys det Høje laa i Skjul,</l>
+               <l xml:id="idm140312757647728">Og Skyen stod som muret,</l>
+               <l xml:id="idm140312757647296">Var Jorden lig en fangen Fugl,</l>
+               <l xml:id="idm140312757646864">Der sad forladt i Buret.</l>
+            </lg>
+            <lg xml:id="idm140312757646304">
+               <l xml:id="idm140312757646048">Nu taler Solen gyldne Ord,</l>
+               <l xml:id="idm140312757645616">Mens Taagerne sig dele,</l>
+               <l xml:id="idm140312757645200">Og hvisker til den lille Jord:</l>
+               <l xml:id="idm140312757644768">"<hi rend="italic" xml:id="idm140312757644512">Du hører
+                til det Hele.</hi>"</l>
+            </lg>
+            <lg xml:id="idm140312757643536">
+               <l xml:id="idm140312757643280">Og løndomsfuld gaaer Nattens Ild</l>
+               <l xml:id="idm140312757642816">Paa Vandring dybt i Grunden,</l>
+               <l xml:id="idm140312757642384">Og Stjernens Blink er som et Smil</l>
+               <l xml:id="idm140312757641952">Med Fingeren paa Munden!</l>
+            </lg>
+            <pb n="197" xml:id="s197" facs="adl/boedtcher/boedtcher1/boed1197"/>
+         </div>
+      </body>
+   </text>
+</TEI>

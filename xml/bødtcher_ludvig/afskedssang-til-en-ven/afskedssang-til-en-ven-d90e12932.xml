@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Afskedssang til en
+              ven</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid81256" decls="#biblid81256">
+            <head xml:id="idm140312757093696">AFSKEDSSANG TIL EN VEN</head>
+            <lg xml:id="idm140312757093280">
+               <l xml:id="idm140312757093024">Før Morgensolen vinker med sin Lue,</l>
+               <l xml:id="idm140312757092544">Og løser Afskedstaarens Baand,</l>
+               <l xml:id="idm140312757092080">Vi dig, o Ven, i Øjet end maae skue,</l>
+               <l xml:id="idm140312757091600">Og trykke broderligt din Haand.</l>
+               <l xml:id="idm140312757091168">Lad Kinderne blegne og Verdner forgaae,</l>
+               <l xml:id="idm140312757090736">Evigt, som Sjelen, vort Venskab skal staae.</l>
+            </lg>
+            <lg xml:id="idm140312757090160">
+               <l xml:id="idm140312757089904">Det veed vi vist, Du ej den Plet vil glemme,</l>
+               <l xml:id="idm140312757089456">Hvor sødt Du nød din første Blund;</l>
+               <l xml:id="idm140312757088976">Men sukke tidt: o var jeg dog derhjemme,</l>
+               <l xml:id="idm140312757088528">Hos Eder, i min Bøgelund;</l>
+               <l xml:id="idm140312757088080">Da svulmer dig Barmen, din Kind blusser heed,</l>
+               <l xml:id="idm140312757087632">Danmark har Hjertet, men Kunsten din Eed.</l>
+            </lg>
+            <lg xml:id="idm140312757087056">
+               <l xml:id="idm140312757086800">Saa far da vel! din Genius dig vinker,</l>
+               <l xml:id="idm140312757086368">Gud signe dig, farvel, farvel!</l>
+               <l xml:id="idm140312757085936">I Liv og Død vor Stjerne trofast blinker,</l>
+               <l xml:id="idm140312757085456">Og fjerned bo vi Sjel i Sjel.</l>
+               <l xml:id="idm140312757085024">Farvel da, du kjære, du flygtende Ven,</l>
+               <l xml:id="idm140312757084544">Sikkert vi samles en Morgen igjen!</l>
+            </lg>
+            <pb n="250" xml:id="s250" facs="adl/boedtcher/boedtcher1/boed1250"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Den gamles
+            bøn</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid90212" decls="#biblid90212">
+            <head xml:id="idm140312755983600">DEN GAMLES BØN</head>
+            <lg xml:id="idm140312755983168">
+               <l xml:id="idm140312755982912">Send, Ungdom! mig de lyse Minder,</l>
+               <l xml:id="idm140312755982480">Lig Bølger fra en sydlig Kyst,</l>
+               <l xml:id="idm140312755982016">Og bad mit Bryst,</l>
+               <l xml:id="idm140312755981600">At ikke Hjertets Varme svinder.</l>
+            </lg>
+            <lg xml:id="idm140312755981040">
+               <l xml:id="idm140312755980784">Og Phantasus! vær tro til Døden!</l>
+               <l xml:id="idm140312755980320">Drag Kredsen med din Tryllestav,</l>
+               <l xml:id="idm140312755979888">Og fra sin Grav</l>
+               <l xml:id="idm140312755979472">Man Skygger frem i Aftenrøden.</l>
+            </lg>
+            <lg xml:id="idm140312755978880">
+               <l xml:id="idm140312755978624">Da gyldne Sol! er du den Samme!</l>
+               <l xml:id="idm140312755978192">Hvert Kys af dig et Blomsterflor, -</l>
+               <l xml:id="idm140312755977760">Og Vemod boer</l>
+               <l xml:id="idm140312755977344">Som før i Nattens blege Flamme!</l>
+            </lg>
+            <pb n="346" xml:id="s346" facs="adl/boedtcher/boedtcher1/boed1346"/>
+         </div>
+      </body>
+   </text>
+</TEI>

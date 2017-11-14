@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>April</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid86054" decls="#biblid86054">
+            <head xml:id="idm140312756500736">APRIL</head>
+            <lg xml:id="idm140312756500320">
+               <l xml:id="idm140312756500064">Mit Hjerte hilser Dig April! -</l>
+               <l xml:id="idm140312756499632">Jeg kjender godt dit Vexelsmil</l>
+               <l xml:id="idm140312756499200">Og Taaren i dit Øie;</l>
+               <l xml:id="idm140312756498752">Du vil ei ret for Alvor tro,</l>
+               <l xml:id="idm140312756498320">At Vinterstormen gik til Ro</l>
+               <l xml:id="idm140312756497888">Og smukt sig maatte føie;</l>
+            </lg>
+            <lg xml:id="idm140312756497312">
+               <l xml:id="idm140312756497056">Du aner dog, hvad snart vil ske,</l>
+               <l xml:id="idm140312756496624">At bag den kolde, klamme Sne</l>
+               <l xml:id="idm140312756496192">Laa tusind Liv forborgen:</l>
+               <l xml:id="idm140312756495760">At Træet atter faaer sin Frugt,</l>
+               <l xml:id="idm140312756495296">Og Lærkens Sang sin Himmelflugt</l>
+               <l xml:id="idm140312756494832">Den klare Sommermorgen; -</l>
+            </lg>
+            <lg xml:id="idm140312756494272">
+               <l xml:id="idm140312756494016">O blide Haab i Hjertets Vraa,</l>
+               <l xml:id="idm140312756493584">At Intet, Intet skal forgaa,</l>
+               <l xml:id="idm140312756493152">Hvad her til Live kommer!</l>
+               <l xml:id="idm140312756492720">At Alt, hvad her er visnet hen,</l>
+               <l xml:id="idm140312756492288">Skal atter sætte Blomst igjen</l>
+               <l xml:id="idm140312756491824">I Evighedens Sommer!</l>
+            </lg>
+            <pb n="300" xml:id="s300" facs="adl/boedtcher/boedtcher1/boed1300"/>
+         </div>
+      </body>
+   </text>
+</TEI>

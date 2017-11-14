@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Den kløgtige
+            johan</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid77979" decls="#biblid77979">
+            <head xml:id="idm140312757521184">DEN KLØGTIGE JOHAN</head>
+            <lg xml:id="idm140312757520752">
+               <l xml:id="idm140312757520496">Giv hurtig hid, Johan! min Sminke og min Kam;</l>
+               <l xml:id="idm140312757520048">Paris er dog et Himmerig paa Jorden.</l>
+               <l xml:id="idm140312757519616">Saa talte lespende for Speilet Junker Stram,</l>
+               <l xml:id="idm140312757519168">I det han med et Smil sat' Haaret udi Orden.</l>
+            </lg>
+            <lg xml:id="idm140312757518592">
+               <l xml:id="idm140312757518336">Hvor finder du, mon cher! vel Mage til en Talje</l>
+               <l xml:id="idm140312757517888">Som den de søde franske Glutter bær';</l>
+               <l xml:id="idm140312757517408">Saa lille Fod, saa lille Haand, saa lille Mund,
+              Carnalje!</l>
+               <l xml:id="idm140312757516944">Du intet Sted i Verden ellers seer.</l>
+            </lg>
+            <lg xml:id="idm140312757516384">
+               <l xml:id="idm140312757516128">Ja, svarte ham Johan, ja Død og Kritte!</l>
+               <l xml:id="idm140312757515648">(Han ogsaa for det Skjønne havde Sands, -)</l>
+               <l xml:id="idm140312757515168">Saagar Forstanden skal jo her til Lands,</l>
+               <l xml:id="idm140312757514720">Som hele Resten være lille bitte. -</l>
+            </lg>
+            <pb n="211" xml:id="s211" facs="adl/boedtcher/boedtcher1/boed1211"/>
+         </div>
+      </body>
+   </text>
+</TEI>

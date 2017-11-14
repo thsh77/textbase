@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nu knoppes atter
+              træet</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid80463" decls="#biblid80463">
+            <head xml:id="idm140312757194528">NU KNOPPES ATTER TRÆET</head>
+            <p xml:id="idm140312757194080">(d. 12te April 1836)</p>
+            <lg xml:id="idm140312757193664">
+               <l xml:id="idm140312757193408">Nu knoppes atter Træet hist i Haven</l>
+               <l xml:id="idm140312757192928">Og Morgnen skingrer høit af Fugleqvidder,</l>
+               <l xml:id="idm140312757192448">Mens Du min Elskte taus bag Ruden sidder</l>
+               <l xml:id="idm140312757192000">Med Tanken stundom bøjet imod - Graven:</l>
+            </lg>
+            <lg xml:id="idm140312757191392">
+               <l xml:id="idm140312757191136">Din fine Kind lidt blegere er vorden -</l>
+               <l xml:id="idm140312757190704">Du sukker med et ahnelsesfuldt Hjerte,</l>
+               <l xml:id="idm140312757190272">Veed ej, hvor Du er smuk selv i Din Smerte</l>
+               <l xml:id="idm140312757189824">Mens tankefuldt Dit Øje seer mod Jorden. -</l>
+            </lg>
+            <lg xml:id="idm140312757189216">
+               <l xml:id="idm140312757188960">Lad Vaarens Grønt Dig bringe Haab Du Søde!</l>
+               <l xml:id="idm140312757188464">Snart vil en anden Aarstid bringe Trøsten: -</l>
+               <l xml:id="idm140312757187968">Saa sandt som Vaaren Moder er til Høsten</l>
+               <l xml:id="idm140312757187488">Saa sandt skal Frugten smile Dig imøde!</l>
+            </lg>
+            <pb n="240" xml:id="s240" facs="adl/boedtcher/boedtcher1/boed1240"/>
+         </div>
+      </body>
+   </text>
+</TEI>

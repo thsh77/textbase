@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Det er en yndig
+            tid</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid90139" decls="#biblid90139">
+            <head xml:id="idm140312755993024">DET ER EN YNDIG TID</head>
+            <lg xml:id="idm140312755992608">
+               <l xml:id="idm140312755992352">Det er en yndig Tid, naar Vaaren blid sig nærmer,</l>
+               <l xml:id="idm140312755991856">Og Blomsten staaer i Pragt,</l>
+               <l xml:id="idm140312755991424">Og Gartneren i Haven gaaer, mens ømt hans Haand
+              beskjærmer</l>
+               <l xml:id="idm140312755990896">Den Spire, som er vakt.</l>
+            </lg>
+            <lg xml:id="idm140312755990352">
+               <l xml:id="idm140312755990096">Han færdes i det Haab, at moderlig Naturen</l>
+               <l xml:id="idm140312755989616">Vil modne Blomst til Frugt,</l>
+               <l xml:id="idm140312755989184">At Frøet, som blev kjærligt lagt med Omhu ned i
+              Jorden,</l>
+               <l xml:id="idm140312755988672">Maa voxe rigt og smukt.</l>
+            </lg>
+            <lg xml:id="idm140312755988128">
+               <l xml:id="idm140312755987872">Beskjærm da her, o Gud! som for os Alle raader,</l>
+               <l xml:id="idm140312755987376">Et ungt, uskyldigt Bryst</l>
+               <l xml:id="idm140312755986944">Og giv det Kraft og Fromhed til at løse Livets Gaader</l>
+               <l xml:id="idm140312755986432">Til alle Hjerters Lyst!</l>
+            </lg>
+            <pb n="345" xml:id="s345" facs="adl/boedtcher/boedtcher1/boed1345"/>
+         </div>
+      </body>
+   </text>
+</TEI>

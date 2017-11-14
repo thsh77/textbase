@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til min kjære ven il maestro
+              a. p. berggreen!</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid87180" decls="#biblid87180">
+            <head xml:id="idm140312756360224">TIL MIN KJÆRE VEN IL MAESTRO A. P. BERGGREEN!</head>
+            <p xml:id="idm140312756359728">d: 1 Januar 1872</p>
+            <lg xml:id="idm140312756359312">
+               <l xml:id="idm140312756359056">Hvis (hvad jeg ikke kan desværre!)</l>
+               <l xml:id="idm140312756358592">Jeg i Dit Øje kunde finde</l>
+               <l xml:id="idm140312756358144">Hvad Hjertet ønsker dybest inde,</l>
+               <l xml:id="idm140312756357680">Og hvis jeg saa var lidt - "Vorherre" -</l>
+               <l xml:id="idm140312756357248">Da skulde Luften om Dig klinge</l>
+               <l xml:id="idm140312756356816">Saa sødt, som Dine Harmonier,</l>
+               <l xml:id="idm140312756356352">Og Aaret, liigt Hymettus' Bier</l>
+               <l xml:id="idm140312756355920">Dig hver en Dag sin Honning bringe!</l>
+            </lg>
+            <pb n="313" xml:id="s313" facs="adl/boedtcher/boedtcher1/boed1313"/>
+         </div>
+      </body>
+   </text>
+</TEI>

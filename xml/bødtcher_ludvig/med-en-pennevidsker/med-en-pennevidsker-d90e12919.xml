@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Med en
+            pennevidsker</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid81221" decls="#biblid81221">
+            <head xml:id="idm140312757098576">MED EN PENNEVIDSKER</head>
+            <lg xml:id="idm140312757098160">
+               <l xml:id="idm140312757097904">Har Pennen gjort sit sidste Træk,</l>
+               <l xml:id="idm140312757097440">Og standses af Papirets Skranker,</l>
+               <l xml:id="idm140312757097008">Tar jeg med Glæde mod den Rest af Blæk,</l>
+               <l xml:id="idm140312757096528">Som dengang ikke blev til Tanker. -</l>
+            </lg>
+            <pb n="249" xml:id="s249" facs="adl/boedtcher/boedtcher1/boed1249"/>
+         </div>
+      </body>
+   </text>
+</TEI>

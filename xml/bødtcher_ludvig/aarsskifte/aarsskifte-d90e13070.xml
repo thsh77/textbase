@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aarsskifte</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid81563" decls="#biblid81563">
+            <head xml:id="idm140312757055360">AARSSKIFTE</head>
+            <p xml:id="idm140312757054944">(1844-1845)</p>
+            <lg xml:id="idm140312757054528">
+               <l xml:id="idm140312757054272">Med Brusen Tidens Vinge gaaer,</l>
+               <l xml:id="idm140312757053840">Hvert Vingeslag et fuldendt Aar: -</l>
+               <l xml:id="idm140312757053408">Den er et Kraft-Locomotiv,</l>
+               <l xml:id="idm140312757052976">Som drager Jorden med sit Liv;</l>
+               <l xml:id="idm140312757052544">Hvorhen? Igjennem Luftens Hav</l>
+               <l xml:id="idm140312757052112">Til Frihed eller til sin Grav: -</l>
+               <l xml:id="idm140312757051680">Hvornaar? Det kjender Jorden ei,</l>
+               <l xml:id="idm140312757051248">Imens den synger paa sin Vei,</l>
+               <l xml:id="idm140312757050816">Og blander kjækt sin Melodi</l>
+               <l xml:id="idm140312757050352">I andre Sphærers Harmoni. -</l>
+            </lg>
+            <lg xml:id="idm140312757049760">
+               <l xml:id="idm140312757049504">Du, Menneske, saalidt forstaaer,</l>
+               <l xml:id="idm140312757049072">Som Jorden, Verdens nye Aar, -</l>
+               <l xml:id="idm140312757048640">Men følg, som den, med Tidens Strøm,</l>
+               <l xml:id="idm140312757048160">Og sænk Dig ei i Fortids Drøm:</l>
+               <l xml:id="idm140312757047696">Hæv frit dit Blik, og saa afsted!</l>
+               <l xml:id="idm140312757047232">Og viig fra Banen ei et Fjed,</l>
+               <l xml:id="idm140312757046800">Og bland med Haab din Melodi</l>
+               <l xml:id="idm140312757046368">I hele Verdens Harmoni!</l>
+            </lg>
+            <pb n="253" xml:id="s253" facs="adl/boedtcher/boedtcher1/boed1253"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ved en
+            confirmation</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid88399" decls="#biblid88399">
+            <head xml:id="idm140312756209104">VED EN CONFIRMATION</head>
+            <p xml:id="idm140312756208688">1 April 1873</p>
+            <lg xml:id="idm140312756208272">
+               <l xml:id="idm140312756208016">Ak, hvad er vel min svage Sang</l>
+               <l xml:id="idm140312756207584">Og Harpen, som Du knap kan høre,</l>
+               <l xml:id="idm140312756207120">Mod Kirkens Røst og Orglets Klang,</l>
+               <l xml:id="idm140312756206656">Som endnu toner i Dit Øre?</l>
+            </lg>
+            <lg xml:id="idm140312756206080">
+               <l xml:id="idm140312756205824">Og hvad er al Veltalenhed,</l>
+               <l xml:id="idm140312756205392">Som Jordens Kløgt vor Tunge lærte,</l>
+               <l xml:id="idm140312756204912">Imod Dit Løfte og Din Ed,</l>
+               <l xml:id="idm140312756204464">Som kom fra et uskyldigt Hjerte?</l>
+            </lg>
+            <lg xml:id="idm140312756203904">
+               <l xml:id="idm140312756203648">Snart viser Verden Dig sin Fryd,</l>
+               <l xml:id="idm140312756203216">Og Glæden krandse vil Din Pande:</l>
+               <l xml:id="idm140312756202752">Gid da i Alt en sagte Lyd</l>
+               <l xml:id="idm140312756202320">Af Paaskeklokken sig maa blande!</l>
+            </lg>
+            <lg xml:id="idm140312756201760">
+               <l xml:id="idm140312756201504">Træd frejdig kun i Livet ud,</l>
+               <l xml:id="idm140312756201040">Og vil sig mørke Skyer nærme,</l>
+               <l xml:id="idm140312756200576">Ifør Dig Rustningen fra Gud,</l>
+               <l xml:id="idm140312756200112">Og Himlen selv vil Dig beskjærme!</l>
+            </lg>
+            <pb n="326" xml:id="s326" facs="adl/boedtcher/boedtcher1/boed1326"/>
+         </div>
+      </body>
+   </text>
+</TEI>

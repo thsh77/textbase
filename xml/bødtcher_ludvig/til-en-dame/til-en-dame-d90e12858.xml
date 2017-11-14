@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til en dame</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid81086" decls="#biblid81086">
+            <head xml:id="idm140312757115968">TIL EN DAME</head>
+            <p xml:id="idm140312757115552">med et Exemplar af Holberg</p>
+            <lg xml:id="idm140312757115120">
+               <l xml:id="idm140312757114864">Man siger Holberg ynded ikke Qvinden,</l>
+               <l xml:id="idm140312757114432">Blev aldrig smeltet ved en Piges Smil:</l>
+               <l xml:id="idm140312757114000">At derfor i hans Verker Elskerinden</l>
+               <l xml:id="idm140312757113568">Kun taler Pebersvendens kolde Stil:</l>
+               <l xml:id="idm140312757113136">Den arme Skjald! ham Amor negted Vingen!</l>
+               <l xml:id="idm140312757112688">Hvi fandt han ei en Aand, som ham henrev,</l>
+               <l xml:id="idm140312757112240">En Qvinde, som - dog nei, jeg nævner Ingen -</l>
+               <l xml:id="idm140312757111744">Der stundom trykked ømt den Haand, som skrev!</l>
+               <l xml:id="idm140312757111248">Nu derimod, udmattet af at tænke,</l>
+               <l xml:id="idm140312757110784">Ham Rosen kvæged ei paa Livets Tiørn,</l>
+               <l xml:id="idm140312757110304">Og derfor Sorø blev hans lærde Enke,</l>
+               <l xml:id="idm140312757109824">Og Bøger hans udødelige Børn: -</l>
+               <l xml:id="idm140312757109360">De muntre Væsner jeg idag Dem sender,</l>
+               <l xml:id="idm140312757108880">
+                  <hi rend="italic" xml:id="idm140312757108752">Idag</hi>,
+              da Glæden smykker Deres Hjem!</l>
+               <l xml:id="idm140312757107856">De fik dem sikkert af hans egne Hænder,</l>
+               <l xml:id="idm140312757107376">Ifald han levede og kjendte Dem.</l>
+            </lg>
+            <pb n="247" xml:id="s247" facs="adl/boedtcher/boedtcher1/boed1247"/>
+         </div>
+      </body>
+   </text>
+</TEI>

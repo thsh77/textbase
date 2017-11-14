@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prolog</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid77842" decls="#biblid77842">
+            <head xml:id="idm140312757538272">PROLOG</head>
+            <p xml:id="idm140312757537856">(fremsagt af Skuespiller <hi rend="italic" xml:id="idm140312757537552">Haack</hi> ved hans sidste Benefice paa Hoftheatret)</p>
+            <lg xml:id="idm140312757536672">
+               <l xml:id="idm140312757536416">Lyksalig den, som skjænket blev den Gave</l>
+               <l xml:id="idm140312757535936">I Videts og i Kunstens lyse Have</l>
+               <l xml:id="idm140312757535504">At plante Skjønheds Blomst med egen Haand;</l>
+               <l xml:id="idm140312757535024">Men ogsaa Held enhver, som rørt af Tryllestaven,</l>
+               <l xml:id="idm140312757534528">Med sikkert Blik fandt aaben Vei til Haven,</l>
+               <l xml:id="idm140312757534080">Og dvæler der, beruset i sin Aand.</l>
+            </lg>
+            <lg xml:id="idm140312757533488">
+               <l xml:id="idm140312757533232">Vor hulde <hi rend="italic" xml:id="idm140312757532944">Foersom</hi> syslede derinde,</l>
+               <l xml:id="idm140312757532096">Og plantede sig selv et Blomsterminde,</l>
+               <l xml:id="idm140312757531664">Som ei ved Tidens Aande falmer hen; -</l>
+               <l xml:id="idm140312757531232">Og mangt et Blomster, som os halv berøvet,</l>
+               <l xml:id="idm140312757530752">Beskedent, fast forglemt, sig skjulte under Løvet,</l>
+               <l xml:id="idm140312757530256">Gav han med dobbelt Ynde os igjen.</l>
+            </lg>
+            <lg xml:id="idm140312757529696">
+               <l xml:id="idm140312757529440">- Hans Minde vakte i min Sjel den Tanke</l>
+               <l xml:id="idm140312757529008">Ved Venners Hjelp en Blomstbouket at sanke,</l>
+               <l xml:id="idm140312757528560">Og ydmygt stille den for Eders Blik;</l>
+               <l xml:id="idm140312757528128">- Og paa min Bøn jeg varme Hjerter mødte,</l>
+               <l xml:id="idm140312757527648">Som glade og med Kraft mig ville understøtte</l>
+               <l xml:id="idm140312757527152">I denne lærerige Botanik.</l>
+            </lg>
+            <lg xml:id="idm140312757526576">
+               <l xml:id="idm140312757526320">Modtag en fælleds Blomst da af vor Stræben;</l>
+               <l xml:id="idm140312757525824">- En Blomst fremlokker muntert Smiil paa Læben,</l>
+               <l xml:id="idm140312757525328">En Anden fordrer Taarer som sin Ret. -</l>
+               <l xml:id="idm140312757524896">Svagt lyder kun min egen Kunstnerstemme;</l>
+               <l xml:id="idm140312757524448">Men aldrig skal mit rørte Hjerte glemme:</l>
+               <l xml:id="idm140312757523968">At venligt I modtoge min Bouket.</l>
+            </lg>
+            <pb n="210" xml:id="s210" facs="adl/boedtcher/boedtcher1/boed1210"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til min kjære theodor
+              schorn</title>
+            <author>Bødtcher, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140312760524704">
+                     <name xml:id="idm140312760524448">
+                        <surname xml:id="idm140312760524320">Bødtcher</surname>,
+                <forename xml:id="idm140312760523888">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140312760523632">Samlede Digte</title>
+                  <pubPlace xml:id="idm140312760523344">Holstebro</pubPlace>
+                  <date xml:id="idm140312760522832">1940</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid88724" decls="#biblid88724">
+            <head xml:id="idm140312756168784">TIL MIN KJÆRE THEODOR SCHORN</head>
+            <p xml:id="idm140312756168320">d. 12te September 1873</p>
+            <lg xml:id="idm140312756167904">
+               <l xml:id="idm140312756167648">Du hvis Venskab, purt som Guld,</l>
+               <l xml:id="idm140312756167216">Fulgte mig ihvor jeg vandred,</l>
+               <l xml:id="idm140312756166784">Du, som selv af Smerte fuld</l>
+               <l xml:id="idm140312756166352">Var i Ømhed uforandret -</l>
+               <l xml:id="idm140312756165904">Gud velsigne Dig idag,</l>
+               <l xml:id="idm140312756165488">Sende huldt med Faderhænder</l>
+               <l xml:id="idm140312756165024">Sundheds Engel til Dit Tag!</l>
+               <l xml:id="idm140312756164592">Du min kjæreste blandt Venner!</l>
+            </lg>
+            <pb n="329" xml:id="s329" facs="adl/boedtcher/boedtcher1/boed1329"/>
+         </div>
+      </body>
+   </text>
+</TEI>
