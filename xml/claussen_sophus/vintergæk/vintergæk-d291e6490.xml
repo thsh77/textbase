@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vintergæk</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140264665681152">
+                     <name xml:id="idm140264665680896">
+                        <surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140264665680016">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140264665679728">: </title>
+                  <pubPlace xml:id="idm140264665679472">[København]</pubPlace>
+                  <publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140264665678640">1982-</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid68234" decls="#biblid68234">
+            <head xml:id="idm140264663773968">
+               <hi rend="italics" xml:id="idm140264663773712">VINTERGÆK</hi>
+            </head>
+            <lg xml:id="idm140264663772896">
+               <l xml:id="idm140264663772640">For en Vintergæk</l>
+               <l xml:id="idm140264663772208">spilder Narre Blæk.</l>
+               <l xml:id="idm140264663771760">Det er bedst at sé den</l>
+               <l xml:id="idm140264663771312">bag en stille Hæk . . .</l>
+            </lg>
+            <lg xml:id="idm140264663770736">
+               <l xml:id="idm140264663770480">Man skal agte paa den,</l>
+               <l xml:id="idm140264663770064">nøje skal man kende den.</l>
+               <l xml:id="idm140264663769616">Ingen Magt i Verden</l>
+               <l xml:id="idm140264663769200">vil formaa at genne den.</l>
+            </lg>
+            <lg xml:id="idm140264663768640">
+               <l xml:id="idm140264663768384">Thi den gror saa skjult</l>
+               <l xml:id="idm140264663767968">under visne Buske,</l>
+               <l xml:id="idm140264663767552">svær at finde,</l>
+               <l xml:id="idm140264663767120">siden let at huske.</l>
+            </lg>
+            <lg xml:id="idm140264663766576">
+               <l xml:id="idm140264663766320">Jomfrumund skal kysses</l>
+               <l xml:id="idm140264663765904">under Angst og Skræk,</l>
+               <l xml:id="idm140264663765456">Gækker skal man søge,</l>
+               <l xml:id="idm140264663765008">førend Sne gaar væk ...</l>
+            </lg>
+            <lg xml:id="idm140264663764432">
+               <l xml:id="idm140264663764176">det er Gækkevisdom</l>
+               <l xml:id="idm140264663763744">af en gammel Gæk.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

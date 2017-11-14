@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nytaarsønske til chr. v 1677</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015369092032">
+                     <name xml:id="idm140015369091776">
+                        <surname xml:id="idm140015369091648">Kingo</surname>,
+      <forename xml:id="idm140015369091200">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015369090912">Samlede skrifter 2</title>
+                  <pubPlace xml:id="idm140015369090624">København</pubPlace>
+                  <publisher xml:id="idm140015369090192">Munksgaard</publisher>
+                  <date xml:id="idm140015369089856">1939-74.</date>
+                  <biblScope>116-117</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid68728" decls="#biblid68728">
+            <body xml:id="idm140015367267072">
+               <opener xml:id="idm140015367266816">
+                  <salute xml:id="idm140015367266560">
+Taksigeke for det Gamle<lb xml:id="idm140015367266256"/>
+Og<lb xml:id="idm140015367265952"/>
+Lyk-Ønske med det Ny Aar<lb xml:id="idm140015367265632"/>M DCLXXVIL<lb xml:id="idm140015367265344"/>
+TIL<lb xml:id="idm140015367265056"/>Dend Stoormægtigste og Høybaarne Monark oc Enevolds Herre<lb xml:id="idm140015367264672"/>
+                     <name xml:id="idm140015367264416">CHRISTIAN   den  Femte</name>,<lb xml:id="idm140015367264000"/>
+Konge til Danmark og Norge, de Venders og Goters,<lb xml:id="idm140015367263680"/>
+Hertug udi Sleflvig, Holstein, Stormarn og Dytmersken,<lb xml:id="idm140015367263360"/>
+Greve udi Oldenborg og Delmenhorst, etc. etc.
+</salute>
+               </opener>
+               <lg xml:id="idm140015367262784">
+                  <l xml:id="idm140015367262528">Saa er da Aaret i sin Ring og Rundde løbet,</l>
+                  <l xml:id="idm140015367262032">Og har sit Hovet ind i Tidens Fylde svøbet,</l>
+                  <l xml:id="idm140015367261536">En Aften-Soole-Kys det Gamle Aar dog fik.</l>
+                  <l xml:id="idm140015367261088">Før det foor bort til de Usooled Tiders skik.</l>
+                  <l xml:id="idm140015367260592">Tak, Tak aldmægtig Gud, du ævige Regenter,</l>
+                  <l xml:id="idm140015367260096">Som os ved Tjden til din Ævighed indhenter,</l>
+                  <l xml:id="idm140015367259600">Tak, du Guds ævig Sool, tak for dit Naadsens Ord</l>
+                  <l xml:id="idm140015367259104">Som lyvste dette Aar udi vort kaalde Nord.</l>
+                  <l xml:id="idm140015367258656">Tak for hver Seyer-sool! Tak for hver Lykke-tiime,</l>
+                  <l xml:id="idm140015367258208">Som du har ladet sig med KONGENS Ynske riime!</l>
+                  <l xml:id="idm140015367257760">Tak ogsaa for hver Graa og sky-beblanded Dag!</l>
+                  <l xml:id="idm140015367257312">Tak for din underlig Huusholdings Velbehag!</l>
+                  <l xml:id="idm140015367256864">Op NYT-AARS deylig Sool med Sundhed, Ljv og Glæde,</l>
+                  <l xml:id="idm140015367256368">Op, op ved HErrens Haand vor KONGIS Stool at klæde</l>
+                  <l xml:id="idm140015367255872">I dette Ny-Aars .Gang med Seyer udaff Ny,</l>
+                  <l xml:id="idm140015367255424">Og lad saa Fredsens Sool gaa op foruden sky!</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015367254848">
+                  <hi rend="italics" xml:id="idm140015367254080">Tekstgrundlag: Originaltrykket (UB).</hi>
+               </note>
+               <pb n="117" facs="adl/kingo/kingo2/king2117" xml:id="idm140015367253248"/>
+               <lg xml:id="idm140015367252432">
+                  <l xml:id="idm140015367252176">Du Tiidens Herskere, Lad Tiden KONGEN føye.</l>
+                  <l xml:id="idm140015367251680">Lad Lykken af din Haand sig ned til hannem bøye,</l>
+                  <l xml:id="idm140015367251184">At vi maa sige naar vi udaf Aaret gaar:</l>
+                  <l xml:id="idm140015367250752">Det vaar Guds Hielpis Tid, og Danmarks Lyksom Aar.</l>
+               </lg>
+               <trailer xml:id="idm140015367250176">
+Allerunderdanigst<lb xml:id="idm140015367249888"/>
+aff<lb xml:id="idm140015367249600"/>
+Th. Kingo.
+</trailer>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

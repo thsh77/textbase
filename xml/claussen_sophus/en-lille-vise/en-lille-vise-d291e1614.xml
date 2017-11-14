@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>En lille vise</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140264665681152">
+                     <name xml:id="idm140264665680896">
+                        <surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140264665680016">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140264665679728">: </title>
+                  <pubPlace xml:id="idm140264665679472">[København]</pubPlace>
+                  <publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140264665678640">1982-</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid57285" decls="#biblid57285">
+            <head xml:id="idm140264665150688">
+               <hi rend="italics" xml:id="idm140264665150432">EN LILLE VISE</hi>
+            </head>
+            <lg xml:id="idm140264665149616">
+               <l xml:id="idm140264665149360">Mit Hjærte var som pure Guld,</l>
+               <l xml:id="idm140264665148896">en Pige aabned kun dets Skrin</l>
+               <l xml:id="idm140264665148464">og holdt det flink og omsigtsfuld</l>
+               <l xml:id="idm140264665148032">saa blankt, som Pigen selv var fin.</l>
+            </lg>
+            <lg xml:id="idm140264665147472">
+               <l xml:id="idm140264665147216">Men da mit Skrin i Baglaas smak,</l>
+               <l xml:id="idm140264665146784">mit Hjærte sig forvirred - ak!</l>
+               <l xml:id="idm140264665146320">en Gift Metallet overtrak</l>
+               <l xml:id="idm140264665145888">saa det blev grønt og irret - ak!</l>
+            </lg>
+            <lg xml:id="idm140264665145296">
+               <l xml:id="idm140264665145040">Nu findes der ej Hjælp - hvor tungt, -</l>
+               <l xml:id="idm140264665144560">før man en Dirk faar varlig fat,</l>
+               <l xml:id="idm140264665144096">før én, som aander varmt og ungt,</l>
+               <l xml:id="idm140264665143632">vil pudse paa det Dag og Nat</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sandsigelse</title>
+            <author>Baggesen, Jens</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140610052857920">
+                     <name xml:id="idm140610052857664">
+                        <surname xml:id="idm140610052857536">Baggesen</surname>, <forename xml:id="idm140610052857072">Jens</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140610052856784"> Blandede Digte. 2. Samling. - 1903</title>
+                  <pubPlace xml:id="idm140610052856480">København</pubPlace>
+                  <date xml:id="idm140610052855968">1889-1903</date>
+                  <biblScope>17-18</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid54654" decls="#biblid54654">
+            <body xml:id="idm140610052706400">
+               <pb n="18" xml:id="n18" facs="adl/baggesen/baggesen5/bagg5018"/>
+               <p xml:id="idm140610052705040"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

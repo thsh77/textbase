@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Salme. (af 'jens langkniv'.)</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139850578428432">
+                     <name xml:id="idm139850578428176">
+                        <surname xml:id="idm139850578428048">Aakjær</surname>, <forename xml:id="idm139850578427616">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139850578427328"> Digte 1908-1918. - 1918</title>
+                  <pubPlace xml:id="idm139850578427024">København</pubPlace>
+                  <pubPlace xml:id="idm139850578426560">Kristiania</pubPlace>
+                  <publisher xml:id="idm139850578426096">Gyldendal</publisher>
+                  <date xml:id="idm139850578425760">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid75516" decls="#biblid75516">
+            <head xml:id="idm139850575583168">
+               <hi rend="italics" xml:id="idm139850575583040"><!--<emph>-->SALME<!--</emph--></hi>.<lb xml:id="idm139850575582000"/>
+(AF "JENS LANGKNIV".)</head>
+            <lg xml:id="idm139850575581616">
+               <l xml:id="idm139850575581360">TAG min Sjæl</l>
+               <l xml:id="idm139850575580928">naaderige Gud,</l>
+               <l xml:id="idm139850575580512">før min Marterpæl</l>
+               <l xml:id="idm139850575580080">skyder nye Skud!</l>
+               <l xml:id="idm139850575579664">Satans Vingestræk</l>
+               <l xml:id="idm139850575579232">rev min Modstand med.</l>
+               <l xml:id="idm139850575578816">Tag mig Synder væk</l>
+               <l xml:id="idm139850575578384">til din Fred!</l>
+            </lg>
+            <lg xml:id="idm139850575577840">
+               <l xml:id="idm139850575577584">Syndsens Spe</l>
+               <l xml:id="idm139850575577168">stinger Kjød og Blod,</l>
+               <l xml:id="idm139850575576720">Taarens Anger-Ve</l>
+               <l xml:id="idm139850575576304">drypper for min Fod.</l>
+               <l xml:id="idm139850575575888">Alt hvad jeg fik kjær,</l>
+               <l xml:id="idm139850575575440">Moder, Viv og Ven -</l>
+               <l xml:id="idm139850575575024">Verdens Bygevejr</l>
+               <l xml:id="idm139850575574608">bar det hen.</l>
+            </lg>
+            <lg xml:id="idm139850575574064">
+               <l xml:id="idm139850575573808">Slangen bed;</l>
+               <l xml:id="idm139850575573392">Smertens Skaal løb fuld,</l>
+               <l xml:id="idm139850575572944">mens i Mulm jeg stred</l>
+               <l xml:id="idm139850575572528">for en Sjæl af Guld.</l>
+               <l xml:id="idm139850575572080">Om min Kjærlighed</l>
+               <l xml:id="idm139850575571648">regnes mig til Fejl -</l>
+               <l xml:id="idm139850575571232">Herre, skjær den ned</l>
+               <l xml:id="idm139850575570784">med din Segl!</l>
+            </lg>
+            <trailer xml:id="idm139850575570240">
+               <date xml:id="idm139850575570112">29/12 1914</date>.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

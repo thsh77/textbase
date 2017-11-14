@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til solen.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60601" decls="#biblid60601">
+            <head xml:id="idm139731449227696">Til Solen.</head>
+            <lg xml:id="idm139731449227280">
+               <l xml:id="idm139731449227024">Vær hilset høje Sommersol,</l>
+               <l xml:id="idm139731449226560">du stærke, rige, milde!</l>
+               <l xml:id="idm139731449226112">Nu knæle for din Kongestol</l>
+               <l xml:id="idm139731449225664">de Vinterstorme vilde!</l>
+               <l xml:id="idm139731449225248">Snekongens blanke Brynje brast,</l>
+               <l xml:id="idm139731449224816">ham ramte dine Lansekast,</l>
+               <l xml:id="idm139731449224384">den hvide Flok blev bange:</l>
+               <l xml:id="idm139731449223952">Saa Fuglen i den grønne Lund,</l>
+               <l xml:id="idm139731449223488">og Bølgen fra det dybe Sund</l>
+               <l xml:id="idm139731449223024">kan sjunge Sejerssange.</l>
+            </lg>
+            <lg xml:id="idm139731449222480">
+               <l xml:id="idm139731449222224">Ja hilset være Du, hvis Arm</l>
+               <l xml:id="idm139731449221760">strø'r Guld til alle Sider,</l>
+               <l xml:id="idm139731449221296">saatidt din kongelige Karm</l>
+               <l xml:id="idm139731449220864">mod Vesterhvalvet glider;</l>
+               <pb n="49" xml:id="s49" facs="adl/richardt/richardt1/rich1049"/>
+               <l xml:id="idm139731449219232">hvad Verden kalder slet og godt,</l>
+               <l xml:id="idm139731449218800">hvad Verden kalder stort og smaat,</l>
+               <l xml:id="idm139731449218368">vil Drotten ikke dømme:</l>
+               <l xml:id="idm139731449217920">Men Fiskerbaad og Kongestad</l>
+               <l xml:id="idm139731449217488">og Rosenbusk og Neldeblad</l>
+               <l xml:id="idm139731449217056">faa lige gyldne Sømme!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

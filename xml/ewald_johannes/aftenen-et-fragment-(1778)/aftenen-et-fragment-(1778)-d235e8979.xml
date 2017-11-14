@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aftenen: et fragment (1778)</title>
+            <author>Ewald, Johannes</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139851049620320">
+                     <name xml:id="idm139851049620064">
+                        <surname xml:id="idm139851049619936">Ewald</surname>, <forename xml:id="idm139851049619504">Johannes</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139851049619248">Johannes Ewalds samlede skrifter</title>
+                  <pubPlace xml:id="idm139851049618944">(Kbh.)</pubPlace>
+                  <publisher xml:id="idm139851049618480">Gyldendal</publisher>
+                  <date xml:id="idm139851049618144">(1969)</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid74304" decls="#biblid74304" type="poem">
+            <head xml:id="idm139851047142464">AFTENEN: ET FRAGMENT (1778)</head>
+            <lg xml:id="idm139851047142032">
+               <l xml:id="idm139851047141776">SKIUL din Straale! - Skaan mit Hierte</l>
+               <l xml:id="idm139851047141344">For det sidste Spor af Lyst!</l>
+               <l xml:id="idm139851047140912">Frydens Glimt i Skyer af Smerte</l>
+               <l xml:id="idm139851047140480">Knuse kun mit svage Bryst!</l>
+               <l xml:id="idm139851047140048">Dette Nu, hvori du smiler</l>
+               <l xml:id="idm139851047139616">Dræber dig - du Jordens Ven!</l>
+               <l xml:id="idm139851047139152">Mørket haster - Døden iler -</l>
+               <l xml:id="idm139851047138688">Ingen Almagt standser den,</l>
+               <l xml:id="idm139851047138256">Skiul dig snart - o! skiul din Glæde -</l>
+               <l xml:id="idm139851047137776">Bland den ey med Skrækkens Skye,</l>
+               <l xml:id="idm139851047137312">Svøbt i Mørket vil jeg græde</l>
+               <l xml:id="idm139851047136848">Til min Elsktes Fiender flye,</l>
+               <l xml:id="idm139851047136416">I et grundløst Mulm forsvinde</l>
+               <l xml:id="idm139851047135952">Hvert et Glimt, som trøster mig,</l>
+               <l xml:id="idm139851047135488">Medynksløse Virvelvinde</l>
+               <l xml:id="idm139851047135040">Døve mine Klageskrig!</l>
+            </lg>
+            <pb n="117" xml:id="s117" facs="adl/ewald/ewald5/ewald5117"/>
+         </div>
+      </body>
+   </text>
+</TEI>

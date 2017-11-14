@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digterskjæbne.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid73483" decls="#biblid73483">
+            <head xml:id="idm140382755229920">DIGTERSKJÆBNE.</head>
+            <lg xml:id="idm140382755229488">
+               <l xml:id="idm140382755229232">Usalige Poet! Dig, ak, snart i en Bog,</l>
+               <l xml:id="idm140382755228800">Snart i en Krog, hver Pog, hvert Drog, som troer sig klog</l>
+               <l xml:id="idm140382755228336">Frækt river ned - O hjelp, Natur! din Troubadour;</l>
+               <l xml:id="idm140382755227840">Han iler til en Ven, det arme Creatur!</l>
+               <l xml:id="idm140382755227408">Til Flasken - i dens Suk, dens Kluk at finde Trøst.</l>
+               <l xml:id="idm140382755226896">Med varme Følelser han aabner den sit Bryst -</l>
+               <l xml:id="idm140382755226400">Dog see! knap er den tømt - uhørte Troløshed!</l>
+               <l xml:id="idm140382755225904">Han rumler, tumler om - den rev ham ogsaa ned!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

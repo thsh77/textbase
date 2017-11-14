@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vi sad i vinternatten</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352656878784">
+                     <name xml:id="idm140352656878528">
+                        <surname xml:id="idm140352656878400">Aarestrup</surname>, <forename xml:id="idm140352656877920">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352656877632">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140352656877312">København</pubPlace>
+                  <publisher xml:id="idm140352656876880">C. A. Reitzel</publisher>
+                  <date xml:id="idm140352656876544">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid71325" decls="#biblid71325">
+            <head xml:id="idm140352654634000">VI SAD I VINTERNATTEN</head>
+            <lg xml:id="idm140352654633584">
+               <l xml:id="idm140352654633328">Vi sad i Vinternatten</l>
+               <l xml:id="idm140352654632912">Hvor Ovnen sparsomt gløded;</l>
+               <l xml:id="idm140352654632448">Vi holdt i vore Arme</l>
+               <l xml:id="idm140352654632032">Det syge Barn paa Skjødet.</l>
+            </lg>
+            <lg xml:id="idm140352654631456">
+               <l xml:id="idm140352654631200">Jeg følte Pulsen svinde</l>
+               <l xml:id="idm140352654630752">I Gluttens spæde Aarer;</l>
+               <l xml:id="idm140352654630304">Fra dine Øine perle</l>
+               <l xml:id="idm140352654629856">Saae jeg de friske Taarer.</l>
+            </lg>
+            <lg xml:id="idm140352654629296">
+               <l xml:id="idm140352654629040">Jeg saae den lille Strube</l>
+               <l xml:id="idm140352654628608">De sidste Luftdrag tømme;</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

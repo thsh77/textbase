@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jens paludan-müller (1838-1864)</title>
+            <author>Brandes, Georg</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140648092681328">
+                     <name xml:id="idm140648092681072">
+                        <surname xml:id="idm140648092680944">Brandes</surname>, <forename xml:id="idm140648092680512">Georg</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140648092680256">Samlede Skrifter</title>
+                  <pubPlace xml:id="idm140648092679968">København</pubPlace>
+                  <date xml:id="idm140648092679456">1899-1910</date>
+                  <biblScope>499-513</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid57720" decls="#biblid57720">
+            <body xml:id="idm140648092229440">
+               <pb n="500" facs="adl/brandes/brand2/bran2500" xml:id="idm140648092229184"/>
+               <pb n="501" facs="adl/brandes/brand2/bran2501" xml:id="idm140648092228416"/>
+               <pb n="502" facs="adl/brandes/brand2/bran2502" xml:id="idm140648092227648"/>
+               <pb n="503" facs="adl/brandes/brand2/bran2503" xml:id="idm140648092226880"/>
+               <pb n="504" facs="adl/brandes/brand2/bran2504" xml:id="idm140648092226112"/>
+               <pb n="505" facs="adl/brandes/brand2/bran2505" xml:id="idm140648092225344"/>
+               <pb n="506" facs="adl/brandes/brand2/bran2506" xml:id="idm140648092224576"/>
+               <pb n="507" facs="adl/brandes/brand2/bran2507" xml:id="idm140648092223808"/>
+               <pb n="508" facs="adl/brandes/brand2/bran2508" xml:id="idm140648092223040"/>
+               <pb n="509" facs="adl/brandes/brand2/bran2509" xml:id="idm140648092222272"/>
+               <pb n="510" facs="adl/brandes/brand2/bran2510" xml:id="idm140648092221504"/>
+               <pb n="511" facs="adl/brandes/brand2/bran2511" xml:id="idm140648092220736"/>
+               <pb n="512" facs="adl/brandes/brand2/bran2512" xml:id="idm140648092219968"/>
+               <pb n="513" facs="adl/brandes/brand2/bran2513" xml:id="idm140648092219200"/>
+               <p xml:id="idm140648092218432"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

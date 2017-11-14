@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Naturen og kunsten.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid77572" decls="#biblid77572">
+            <head xml:id="idm139731447147504">Naturen og Kunsten.<lb xml:id="idm139731447147216"/>Af en Kantate.</head>
+            <lg xml:id="idm139731447146800">
+               <l xml:id="idm139731447146544">Derfor kan vort Øje glædes</l>
+               <l xml:id="idm139731447146080">ved et Billeds Farvepragt,</l>
+               <l xml:id="idm139731447145648">thi det Lys hvori det klædes,</l>
+               <l xml:id="idm139731447145184">er Naturens egen Dragt;</l>
+               <pb n="193" xml:id="s193" facs="adl/richardt/richardt1/rich1193"/>
+               <l xml:id="idm139731447143568">og den Steen, hvis Skjønhed straalte,</l>
+               <l xml:id="idm139731447143088">formet af en Mesters Haand,</l>
+               <l xml:id="idm139731447142656">den blev skjøn, fordi han maalte</l>
+               <l xml:id="idm139731447142192">med vor Skabers Maalebaand.</l>
+            </lg>
+            <lg xml:id="idm139731447141632">
+               <l xml:id="idm139731447141376">Derfor rørtes vi og vaktes</l>
+               <l xml:id="idm139731447140928">ved en Digters favre Ord,</l>
+               <l xml:id="idm139731447140496">thi de Druer, som os raktes,</l>
+               <l xml:id="idm139731447140064">var fra Livets rige Bord;</l>
+               <l xml:id="idm139731447139632">derfor vugged os i Drømme</l>
+               <l xml:id="idm139731447139184">Tonedybets Havfrusang,</l>
+               <l xml:id="idm139731447138768">thi af Hjertets Kildestrømme</l>
+               <l xml:id="idm139731447138304">svulmed jo dets Bølgegang.</l>
+            </lg>
+            <lg xml:id="idm139731447137728">
+               <l xml:id="idm139731447137472">Alt som ejer Livets Lue:</l>
+               <l xml:id="idm139731447137040">Rosens Blus og Havets Blaa,</l>
+               <l xml:id="idm139731447136608">Skovens Hvalv og Brynets Bue,</l>
+               <l xml:id="idm139731447136176">Læbens fine Folder smaa,</l>
+               <l xml:id="idm139731447135728">Tankens hemmeligste Susen,</l>
+               <l xml:id="idm139731447135296">Elskovsblikkets tause Sprog,</l>
+               <l xml:id="idm139731447134864">Lærkens Sang og Bækkens Brusen, -</l>
+               <l xml:id="idm139731447134400">Alt er Kunstens Lærebog.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

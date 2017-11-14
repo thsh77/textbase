@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England</title>
+            <author>Brandes, Georg</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140687029675216">
+                     <name xml:id="idm140687029674960">
+                        <surname xml:id="idm140687029674832">Brandes</surname>, <forename xml:id="idm140687029674400">Georg</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140687029674112">Samlede Skrifter</title>
+                  <pubPlace xml:id="idm140687029673824">København</pubPlace>
+                  <date xml:id="idm140687029673312">1899-1910</date>
+                  <biblScope>303-336</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid56390" decls="#biblid56390">
+            <body xml:id="idm140687029364096">
+               <pb n="304" facs="adl/brandes/brand11/bran11304" xml:id="idm140687029363840"/>
+               <pb n="305" facs="adl/brandes/brand11/bran11305" xml:id="idm140687029363072"/>
+               <pb n="306" facs="adl/brandes/brand11/bran11306" xml:id="idm140687029362304"/>
+               <pb n="307" facs="adl/brandes/brand11/bran11307" xml:id="idm140687029361536"/>
+               <pb n="308" facs="adl/brandes/brand11/bran11308" xml:id="idm140687029360720"/>
+               <pb n="309" facs="adl/brandes/brand11/bran11309" xml:id="idm140687029359904"/>
+               <pb n="310" facs="adl/brandes/brand11/bran11310" xml:id="idm140687029359088"/>
+               <pb n="311" facs="adl/brandes/brand11/bran11311" xml:id="idm140687029358272"/>
+               <pb n="312" facs="adl/brandes/brand11/bran11312" xml:id="idm140687029357456"/>
+               <pb n="313" facs="adl/brandes/brand11/bran11313" xml:id="idm140687029356640"/>
+               <pb n="314" facs="adl/brandes/brand11/bran11314" xml:id="idm140687029355872"/>
+               <pb n="315" facs="adl/brandes/brand11/bran11315" xml:id="idm140687029355104"/>
+               <pb n="316" facs="adl/brandes/brand11/bran11316" xml:id="idm140687029354336"/>
+               <pb n="317" facs="adl/brandes/brand11/bran11317" xml:id="idm140687029353568"/>
+               <pb n="318" facs="adl/brandes/brand11/bran11318" xml:id="idm140687029352800"/>
+               <pb n="319" facs="adl/brandes/brand11/bran11319" xml:id="idm140687029352032"/>
+               <pb n="320" facs="adl/brandes/brand11/bran11320" xml:id="idm140687029351264"/>
+               <pb n="321" facs="adl/brandes/brand11/bran11321" xml:id="idm140687029350496"/>
+               <pb n="322" facs="adl/brandes/brand11/bran11322" xml:id="idm140687029349728"/>
+               <pb n="323" facs="adl/brandes/brand11/bran11323" xml:id="idm140687029348912"/>
+               <pb n="324" facs="adl/brandes/brand11/bran11324" xml:id="idm140687029348144"/>
+               <pb n="325" facs="adl/brandes/brand11/bran11325" xml:id="idm140687029347376"/>
+               <pb n="326" facs="adl/brandes/brand11/bran11326" xml:id="idm140687029346608"/>
+               <pb n="327" facs="adl/brandes/brand11/bran11327" xml:id="idm140687029345792"/>
+               <pb n="328" facs="adl/brandes/brand11/bran11328" xml:id="idm140687029344976"/>
+               <pb n="329" facs="adl/brandes/brand11/bran11329" xml:id="idm140687029344208"/>
+               <pb n="330" facs="adl/brandes/brand11/bran11330" xml:id="idm140687029343440"/>
+               <pb n="331" facs="adl/brandes/brand11/bran11331" xml:id="idm140687029342672"/>
+               <pb n="332" facs="adl/brandes/brand11/bran11332" xml:id="idm140687029341904"/>
+               <pb n="333" facs="adl/brandes/brand11/bran11333" xml:id="idm140687029341088"/>
+               <pb n="334" facs="adl/brandes/brand11/bran11334" xml:id="idm140687029340272"/>
+               <pb n="335" facs="adl/brandes/brand11/bran11335" xml:id="idm140687029339504"/>
+               <pb n="336" facs="adl/brandes/brand11/bran11336" xml:id="idm140687029338736"/>
+               <p xml:id="idm140687029337920"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

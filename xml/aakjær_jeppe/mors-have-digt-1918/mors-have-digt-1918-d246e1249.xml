@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mors have.   digt 1918</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140709994996720">
+                     <name xml:id="idm140709994996464">
+                        <surname xml:id="idm140709994996336">Aakjær</surname>, <forename xml:id="idm140709994995904">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140709994995616"> Artikler og Taler. - 1919</title>
+                  <pubPlace xml:id="idm140709994995312">København</pubPlace>
+                  <pubPlace xml:id="idm140709994994848">Kristiania</pubPlace>
+                  <publisher xml:id="idm140709994994384">Gyldendal</publisher>
+                  <date xml:id="idm140709994994048">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60631" decls="#biblid60631">
+            <pb n="565" xml:id="n565" facs="adl/aakjaer/aakjaer4/aakj4565"/>
+            <pb n="566" xml:id="n566" facs="adl/aakjaer/aakjaer4/aakj4566"/>
+            <p xml:id="idm140709994024384"/>
+         </div>
+      </body>
+   </text>
+</TEI>

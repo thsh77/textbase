@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kejserens gud.</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139850578428432">
+                     <name xml:id="idm139850578428176">
+                        <surname xml:id="idm139850578428048">Aakjær</surname>, <forename xml:id="idm139850578427616">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139850578427328"> Digte 1908-1918. - 1918</title>
+                  <pubPlace xml:id="idm139850578427024">København</pubPlace>
+                  <pubPlace xml:id="idm139850578426560">Kristiania</pubPlace>
+                  <publisher xml:id="idm139850578426096">Gyldendal</publisher>
+                  <date xml:id="idm139850578425760">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid75431" decls="#biblid75431">
+            <head xml:id="idm139850575594208">
+               <hi rend="italics" xml:id="idm139850575594080"><!--<emph>-->KEJSERENS GUD<!--</emph--></hi>.</head>
+            <lg xml:id="idm139850575592912">
+               <l xml:id="idm139850575592656">HAN talte for Fronten til Folk og Hær;</l>
+               <l xml:id="idm139850575592176">med Jernhaand løfted han højt sit Sværd</l>
+               <l xml:id="idm139850575591696">og raabte fra Sadlen i alt sit Skrud:</l>
+               <l xml:id="idm139850575591264">"Vid, Kejserens Gud er en vældig Gud!"</l>
+            </lg>
+            <lg xml:id="idm139850575590656">
+               <l xml:id="idm139850575590400">Han førte de Hære mod Frankerland,</l>
+               <l xml:id="idm139850575589920">og Byer og Borge gik op i Brand.</l>
+               <l xml:id="idm139850575589488">Da trodsed en Fæstning hans Herskerbud.</l>
+               <l xml:id="idm139850575589008">Men Kejserens Gud er en vældig Gud!</l>
+            </lg>
+            <pb n="111" xml:id="s111" facs="adl/aakjaer/aakjaer2/aakj2111"/>
+            <lg xml:id="idm139850575587184">
+               <l xml:id="idm139850575586928">Det lød i Stormen: "En Mørser frem!"</l>
+               <l xml:id="idm139850575586448">Da splintredes alt fra Syld til Rem.</l>
+               <l xml:id="idm139850575586016">Kun Grus var Borgen ved tredje Skud.</l>
+               <l xml:id="idm139850575585584">Jo, Kejserens Gud er en vældig Gud!</l>
+            </lg>
+            <trailer xml:id="idm139850575584976">
+               <date xml:id="idm139850575584848">6/12 1914</date>.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

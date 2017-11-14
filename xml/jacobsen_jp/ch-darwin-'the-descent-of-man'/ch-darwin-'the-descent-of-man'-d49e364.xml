@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ch. darwin: 'the descent of man'</title>
+            <author>Jacobsen, J. P.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140501113474416">
+                     <name xml:id="idm140501113474160">
+                        <surname xml:id="idm140501113474032">Jacobsen</surname>,
+      <forename xml:id="idm140501113473584">J. P.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140501113473120">Samlede Værker
+      V</title>
+                  <title xml:id="idm140501113472672">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title>
+                  <pubPlace xml:id="idm140501113472208">København</pubPlace>
+                  <date xml:id="idm140501113471776">1924-29</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid55961" decls="#biblid55961">
+            <pb n="222" facs="adl/jacobsenjp/jacobjp5/jajp5222" xml:id="idm140501113220384"/>
+            <pb n="223" facs="adl/jacobsenjp/jacobjp5/jajp5223" xml:id="idm140501113219616"/>
+            <pb n="224" facs="adl/jacobsenjp/jacobjp5/jajp5224" xml:id="idm140501113218848"/>
+            <pb n="225" facs="adl/jacobsenjp/jacobjp5/jajp5225" xml:id="idm140501113218080"/>
+            <pb n="226" facs="adl/jacobsenjp/jacobjp5/jajp5226" xml:id="idm140501113217312"/>
+            <p xml:id="idm140501113216544"/>
+         </div>
+      </body>
+   </text>
+</TEI>

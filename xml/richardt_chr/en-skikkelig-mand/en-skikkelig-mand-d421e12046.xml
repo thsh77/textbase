@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>En skikkelig mand.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid78097" decls="#biblid78097">
+            <head xml:id="idm139731447083216">En skikkelig Mand.</head>
+            <lg xml:id="idm139731447082800">
+               <l xml:id="idm139731447082544">Han er skikkelig, maa man ham lade:</l>
+               <l xml:id="idm139731447082112">Han har Hus i den propreste Gade.</l>
+               <l xml:id="idm139731447081680">Han har altid betalt sine Skatter,</l>
+               <l xml:id="idm139731447081248">og med Gjæld han sig aldrig befatter.</l>
+            </lg>
+            <lg xml:id="idm139731447080640">
+               <l xml:id="idm139731447080384">Han har handlet i Tugt og i Ære,</l>
+               <l xml:id="idm139731447079920">han har handlet med Kul og med Tjære;</l>
+               <l xml:id="idm139731447079440">respektere ham maa I og skal I,</l>
+               <l xml:id="idm139731447079008">thi han handlede ej en détail.</l>
+            </lg>
+            <lg xml:id="idm139731447078416">
+               <l xml:id="idm139731447078160">Han har sværmet, sædvanlig ved Theen,</l>
+               <l xml:id="idm139731447077680">for det Store, for Frihedsideen;</l>
+               <l xml:id="idm139731447077248">i sin Vaar for Arcole og Rivoli,</l>
+               <l xml:id="idm139731447076816">i sin Vinter for Øen i Tivoli.</l>
+            </lg>
+            <lg xml:id="idm139731447076224">
+               <l xml:id="idm139731447075968">Og naar Maden er god og fordøjelig,</l>
+               <l xml:id="idm139731447075488">er han virkelig flink og fornøjelig;</l>
+               <l xml:id="idm139731447075008">ja han løber efter Østers fra Fladstrand,</l>
+               <l xml:id="idm139731447074528">som en Pudelhund efter en Madspand.</l>
+            </lg>
+            <lg xml:id="idm139731447073968">
+               <l xml:id="idm139731447073712">Af Forfattere har han de bekjendte,</l>
+               <l xml:id="idm139731447073280">selv det Gamle og det Ny Testamente;</l>
+               <l xml:id="idm139731447072848">Du finder dem paa Bogskabets Række,</l>
+               <l xml:id="idm139731447072368">og lige nye finder Du dem begge.</l>
+            </lg>
+            <lg xml:id="idm139731447071808">
+               <l xml:id="idm139731447071552">Naar han døer, - hvilken Stimen i Kirken!</l>
+               <l xml:id="idm139731447071072">Hvilken Tak for hans Tjære-Tilvirken;</l>
+               <l xml:id="idm139731447070592">thi som <hi rend="italics" xml:id="idm139731447070304">han</hi> effektuered hver Ordre! -</l>
+               <l xml:id="idm139731447069472">Det er Alt, hvad Vorherre kan fordre.</l>
+            </lg>
+            <pb n="198" xml:id="s198" facs="adl/richardt/richardt1/rich1198"/>
+         </div>
+      </body>
+   </text>
+</TEI>

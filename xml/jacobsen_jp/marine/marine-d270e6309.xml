@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Marine.</title>
+            <author>Jacobsen, J. P.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140562724137168">
+                     <name xml:id="idm140562724136912">
+                        <surname xml:id="idm140562724136784">Jacobsen</surname>,
+      <forename xml:id="idm140562724136336">J. P.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140562724135872">Samlede Værker
+      IV</title>
+                  <title xml:id="idm140562724135424">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title>
+                  <pubPlace xml:id="idm140562724135168">København</pubPlace>
+                  <date xml:id="idm140562724134736">1924-29</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid67370" decls="#biblid67370">
+            <head xml:id="idm140562722478880">MARINE.</head>
+            <lg xml:id="idm140562722478464">
+               <l xml:id="idm140562722478208">Frem under Haarets ravnsorte Sky'r</l>
+               <l xml:id="idm140562722477776">Øjnenes blinkende Tvillingefyr</l>
+               <l xml:id="idm140562722477344">Straaler og flyr.</l>
+               <l xml:id="idm140562722476928">Aandedrags-Luftninger lune og blide</l>
+               <l xml:id="idm140562722476496">Henover Skuldrenes Klipper de hvide</l>
+               <l xml:id="idm140562722476064">Sagtelig glide.</l>
+               <l xml:id="idm140562722475648">Mens imod Dragtens Kniplingekyst</l>
+               <l xml:id="idm140562722475216">Svulmende vugges det bølgende Bryst</l>
+               <l xml:id="idm140562722474736">Skumhvidt, men tyst.</l>
+               <l xml:id="idm140562722474320">- Ak om der lød dog</l>
+               <l xml:id="idm140562722473872">Smeltende blød og</l>
+               <l xml:id="idm140562722473440">Daarende mild,</l>
+               <l xml:id="idm140562722473024">Hen til sig dragende,</l>
+               <l xml:id="idm140562722472608">Kjerlighedsklagende</l>
+               <l xml:id="idm140562722472192">Havfruesang!</l>
+            </lg>
+            <pb n="120" facs="adl/jacobsenjp/jacobjp4/jajp4120" xml:id="idm140562722471648"/>
+         </div>
+      </body>
+   </text>
+</TEI>

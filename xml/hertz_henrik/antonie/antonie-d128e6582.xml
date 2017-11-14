@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antonie</title>
+            <author>Hertz, Henrik</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139668653829872">
+                     <name xml:id="idm139668653829616">
+                        <surname xml:id="idm139668653829488">Hertz</surname>, <forename xml:id="idm139668653829056">Henrik</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139668653828768">Digte fra forskjellige Perioder</title>
+                  <pubPlace xml:id="idm139668653828464">København</pubPlace>
+                  <date xml:id="idm139668653827952">1851-1862</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid68045" decls="#biblid68045">
+            <head xml:id="idm139668652068480">Antonie.</head>
+            <lg xml:id="idm139668652068064">
+               <l xml:id="idm139668652067808">Hun sad saa eensom i sin Stue</l>
+               <l xml:id="idm139668652067376">Og folded' sine Hænder smaa.</l>
+               <l xml:id="idm139668652066912">Hun sagde: »O, jeg kunde gaae</l>
+               <l xml:id="idm139668652066448">For ham igjennem Ild og Lue.</l>
+               <l xml:id="idm139668652066016">Hvis han var fattig, hvis han kom</l>
+               <l xml:id="idm139668652065584">Med Bøn i sin forladte Stilling,</l>
+               <l xml:id="idm139668652065120">Jeg gav ham hvad han bad mig om,</l>
+               <l xml:id="idm139668652064688">Jeg gav ham glad min sidste Skilling.«</l>
+            </lg>
+            <lg xml:id="idm139668652064080">
+               <l xml:id="idm139668652063824">Ak, stakkels Barn! da vel han traadte</l>
+               <l xml:id="idm139668652063392">Med Bønner og med Taarer ind,</l>
+               <l xml:id="idm139668652062928">Og Rødmen paa din fine Kind</l>
+               <l xml:id="idm139668652062464">Dit unge Hjertes Slag forraadte,</l>
+               <l xml:id="idm139668652062032">Hvad da han bad dig om, var ei,</l>
+               <l xml:id="idm139668652061600">At gaae igjennem Ild og Lue.</l>
+               <l xml:id="idm139668652061168">Han førte dig en banet Vei,</l>
+               <l xml:id="idm139668652060704">Men en, hvor værre Farer true.</l>
+            </lg>
+            <pb n="157" xml:id="s157" facs="adl/hertz/hertz10/hertz10157"/>
+            <lg xml:id="idm139668652058928">
+               <l xml:id="idm139668652058672">Og mindst af Alting han begjærte</l>
+               <l xml:id="idm139668652058208">Af dig din Armods sidste Skjærv.</l>
+               <l xml:id="idm139668652057744">Ak, til dit unge Livs Fordærv</l>
+               <l xml:id="idm139668652057280">Deslige Tanker mindst han nærte.</l>
+               <l xml:id="idm139668652056816">Han kom, en fiin og fager Svend,</l>
+               <l xml:id="idm139668652056384">Han bad som fine Svende pleie.</l>
+               <l xml:id="idm139668652055952">Og dog - hvad du for ham gav hen,</l>
+               <l xml:id="idm139668652055520">Var meget Meer end alt dit Eie.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

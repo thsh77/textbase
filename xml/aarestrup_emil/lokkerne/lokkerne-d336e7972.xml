@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lokkerne.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352656878784">
+                     <name xml:id="idm140352656878528">
+                        <surname xml:id="idm140352656878400">Aarestrup</surname>, <forename xml:id="idm140352656877920">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352656877632">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140352656877312">København</pubPlace>
+                  <publisher xml:id="idm140352656876880">C. A. Reitzel</publisher>
+                  <date xml:id="idm140352656876544">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid69682" decls="#biblid69682">
+            <head xml:id="idm140352654840496">LOKKERNE.</head>
+            <lg xml:id="idm140352654840080">
+               <l xml:id="idm140352654839824">O jeg synker hen I Tanker</l>
+               <l xml:id="idm140352654839392">Ved at see paa Dine Lokker,</l>
+               <l xml:id="idm140352654838960">Sødere, end Vinens Ranker,</l>
+               <l xml:id="idm140352654838512">Fuldere, end Skovens Klokker!</l>
+            </lg>
+            <lg xml:id="idm140352654837952">
+               <l xml:id="idm140352654837696">Hvilke Anelser og Drømme</l>
+               <l xml:id="idm140352654837248">I det Rtnglende, det Vundne!</l>
+               <l xml:id="idm140352654836816">I de slangesnoete Strømme!</l>
+               <l xml:id="idm140352654836368">I det Løste, i det Bundne!</l>
+            </lg>
+            <lg xml:id="idm140352654835792">
+               <l xml:id="idm140352654835536">Der kan Blikket henrykt famle,</l>
+               <l xml:id="idm140352654835104">Sig fordybe, boltre, vugge -</l>
+               <l xml:id="idm140352654834672">Der kan Digtekonsten samle</l>
+               <l xml:id="idm140352654834240">Hvad den bruger af det Smukke.</l>
+            </lg>
+            <lg xml:id="idm140352654833680">
+               <l xml:id="idm140352654833424">Og naar den har længe samlet</l>
+               <l xml:id="idm140352654832960">Som en Bi af Blomsterkrukken</l>
+               <l xml:id="idm140352654832528">Flyve langsomt til sin Celle</l>
+               <l xml:id="idm140352654832096">Tung af Sødme, skjønhedsdrukken.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

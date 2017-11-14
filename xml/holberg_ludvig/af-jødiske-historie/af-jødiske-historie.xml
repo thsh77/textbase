@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Af jødiske historie</title>
+            <author>Holberg, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140586845515760">
+                     <name xml:id="idm140586845515504">
+                        <surname xml:id="idm140586845515376">Holberg</surname>, <forename xml:id="idm140586845514912">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140586845514624">Værker i tolv bind</title>
+                  <title xml:id="idm140586845514320">8: Økonomi og historie</title>
+                  <pubPlace xml:id="idm140586845514000">[København]</pubPlace>
+                  <publisher xml:id="idm140586845513536">Rosenkilde og Bagger</publisher>
+                  <date xml:id="idm140586845513200">1969-1971</date>
+                  <biblScope>284-292</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid56235" decls="#biblid56235">
+            <body xml:id="idm140586845229664">
+               <pb n="285" facs="adl/holberg/holberg8/holb8285" xml:id="idm140586845229408"/>
+               <pb n="286" facs="adl/holberg/holberg8/holb8286" xml:id="idm140586845228640"/>
+               <pb n="287" facs="adl/holberg/holberg8/holb8287" xml:id="idm140586845227872"/>
+               <pb n="288" facs="adl/holberg/holberg8/holb8288" xml:id="idm140586845227056"/>
+               <pb n="289" facs="adl/holberg/holberg8/holb8289" xml:id="idm140586845226240"/>
+               <pb n="290" facs="adl/holberg/holberg8/holb8290" xml:id="idm140586845225472"/>
+               <pb n="291" facs="adl/holberg/holberg8/holb8291" xml:id="idm140586845224656"/>
+               <pb n="292" facs="adl/holberg/holberg8/holb8292" xml:id="idm140586845223840"/>
+               <p xml:id="idm140586845223072"/>
+            </body>
+            <back xml:id="idm140586845222688">
+               <pb n="293" facs="adl/holberg/holberg8/holb8293" xml:id="idm140586845222432"/>
+               <pb n="294" facs="adl/holberg/holberg8/holb8294" xml:id="idm140586845221664"/>
+            </back>
+         </text>
+      </body>
+   </text>
+</TEI>

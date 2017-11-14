@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ewald.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139983156419504">
+                     <name xml:id="idm139983156419072">
+                        <surname xml:id="idm139983156418768">Aarestrup</surname>, 
+	      <forename xml:id="idm139983156418320">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139983156417648">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm139983156417216">København</pubPlace>
+                  <publisher xml:id="idm139983156416832">C. A. Reitzel</publisher>
+                  <date xml:id="idm139983156416496">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid67266" decls="#biblid67266">
+            <head xml:id="idm139983154689952">EWALD.</head>
+            <lg xml:id="idm139983154689536">
+               <l xml:id="idm139983154689280">Paa Sengen skrev du det, med Taarer tunge,</l>
+               <l xml:id="idm139983154688832">Men Poesien greb dit Digt, og sagde:</l>
+               <l xml:id="idm139983154688400">Det er det bedste af den danske Tunge.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

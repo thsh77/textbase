@@ -1,0 +1,951 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Friderico qvinto</title>
+            <author>Brorson, Hans Adolph</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140139967120288">
+                     <name xml:id="idm140139967120032">
+                        <surname xml:id="idm140139967119904">Brorson</surname>, <forename xml:id="idm140139967119472">Hans Adolph</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140139967119216"> Svane-Sang ; Lissabon ; Mindre digte ; Prosaskrifter ; Tillæg : Paul Diderichsen: Filologisk redegørelse. Arthur Arnholtz: Brorsons vers- og sangkunst. - 1956</title>
+                  <pubPlace xml:id="idm140139967118624">København</pubPlace>
+                  <date xml:id="idm140139967118112">1951-56</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid54385" decls="#biblid54385">
+            <head xml:id="idm140139960868144">FRIDERICO QVINTO</head>
+            <p xml:id="idm140139960867728">REGI</p>
+            <p xml:id="idm140139960867312">DANIÆ, NORVEGIÆ, VANDALORUM GOTHORUMQVE</p>
+            <p xml:id="idm140139960866832">DUCI SLESVICI HOLSATIÆ STORMARIÆ DITHMARSIÆ
+							COMITI OLDENB. ET DELMENHORSTÆ</p>
+            <p xml:id="idm140139960866256">DE REGIMINE ABSOLUTISSIMO A DEO MIRABILITER ET INSTITUTO ET PER TOTUM
+							SECULUM CONSERVATO, INNUMERIS BENEFICIIS CUMULATISSIMO, ET RARISSIMA
+							PACIS FELICITATE ORNATISSIMO</p>
+            <p xml:id="idm140139960865680">GRATULATUR</p>
+            <p xml:id="idm140139960865264">REGIÆ MAJESTATIS VESTRÆ</p>
+            <p xml:id="idm140139960864816">DEVOTISSIMUS ET SUBJECTISSIMUS SERVUS</p>
+            <p xml:id="idm140139960864384">
+              <hi rend="italics" xml:id="idm140139960864128">J.</hi>
+              <hi rend="italics" xml:id="idm140139960863472">A. BRORSON</hi>
+            </p>
+            <lg xml:id="idm140139960862656">
+               <l xml:id="idm140139960862400">Forma novi Imperii Sors est renovata Danorum</l>
+               <l xml:id="idm140139960861952">Membrorum, Capitis gloria semper erat. </l>
+               <l xml:id="idm140139960861520">Gaudia, REX! Regni certant &amp; vota Trionum,</l>
+               <l xml:id="idm140139960861056">Qvæ prius exsuperent, TE præeunte, Polum. </l>
+               <l xml:id="idm140139960860560">Vivat Amor Patriæ, pacis, pietatis &amp; æqvi</l>
+               <l xml:id="idm140139960860080">Vive diu Populi SOL, FRIDERICE! Tui.</l>
+            </lg>
+            <pb n="336" xml:id="s336" facs="adl/brorson/brorson3/bror3336"/>
+            <pb n="337" xml:id="s337" facs="adl/brorson/brorson3/bror3337"/>
+            <div xml:id="idm140139960857072">
+               <head xml:id="idm140139960856816">PRÆFATIO.</head>
+               <p xml:id="idm140139960856400">Miraculorum defectum inter alia numerari opprobria constat,
+								qvæ Ecclesiæ nostræ
+								Evangelicæ sæpenumero, sed gratis, objiciuntur.
+								Nam, ut taceam, nec eadem perpetuas esse veræ
+								Ecclesiæ notas, nec vera nostræ plane ignota,
+								sufficit hic monuisse, miracula saltem plurima ad infideles
+								convincendos fuisse patrata; Credentibus autem ipsa Christi Ecclesia
+								summum est miraculum. Sive enim originem, sive statum
+								Ecclesiæ intueamur, qvot hic sese aperiunt omnis &amp;
+								miseriæ &amp; misericordiæ abyssi?
+								obstupescunt qvidem Sensus ad contemplationem hujus Universi, ex
+								nihilo producti, &amp; omnis Eloqventia obmutescit ad hoc summum
+								&amp; nunqvam satis admirandum Majestatis Divinæ
+								vestigium; sed hic est coelum in terra, non ex nihilo, sed ipso
+								inferno evocatum. Et qvis satis admirari potest maximam
+								Ecclesiæ, etiam hic exulantis, gloriam, gloriosissimi
+								Capitis ejus sive arctissimam cum ea unionem, sive eidem tanqvam
+								Sponsæ communicatam, omnis gratiæ &amp;
+								pacis affluentiam respiciamus, qvæ omnia egregie illustrat
+								Paulus Eph. I, 17-23., qvo ultimo dicitur Caput super
+								omnia Ecclesiæ, qvæ est corpus ejus, plenitudo
+								ejus, qvi omnia in omnibus implet.</p>
+               <p xml:id="idm140139960854432">Nec minori admiratione dignum est Ecclesiæ, in maximis
+								periculis conservatæ, prodigium; omnia enim miracula
+								excedit navigium Christi, inter scopulos &amp; syrtes tot secula
+								jactatum, teste ipsa etiam omnium cælestium Principum
+								&amp; Potestatum experientia, qvibus multifariam Dei Sapientiam
+								per Ecclesiam innotescere Paulus: Eph. III, 10. confitetur. Inter
+								innumera autem specialissimæ hujus Providentiæ
+								mysteria hic imprimis notari meretur, in mediis tentationum flammis
+								adeo non minui, ut potius maxime augeri veram Ecclesiæ
+								felicitatem, ejusdemqve lætissimos fuisse dies, qvos umbra
+								noctis tristior antecessit.</p>
+               <pb n="338" xml:id="s338" facs="adl/brorson/brorson3/bror3338"/>
+               <p xml:id="idm140139960851824">Ex his tenebris ante centum annos piis nostris majoribus illuxit
+								festus ille dies, qvo tanqvam natali, revivixit dulcissima salus
+								Patriæ. Tale inqvain initium habuit seculum, ob in melius
+								mutatam Regiminis formam vere aureum &amp; exoptatissimum, qvod
+								Regia Universitas Hafniensis florentissima in applausu suo festivo
+								vocavit Providentiam Dei admirabilem, Exemplum sine exemplo.
+								Symbolum auspicatissimum DOMINUS PROVIDEBIT, qvod non sine omine
+								inter magnos Patriæ motus elegit, &amp; summa
+								vitæ &amp; regni discrimina firmiter tenuit Rex
+								Sapientissimus FRIDERICUS TERTIUS, gloriosissimæ
+								memoriæ, id ipsum inqvam Patriarchale dictum, ut ipse in
+								se suaqve Domo Regia &amp; regnis mirifice impletum vidit, sic
+								futuris seculis tanqvam certissimum providentiæ
+								Divinæ Præsagium reliqvit. Qvis enim ignorat,
+								regnum hoc Monarchicum a duobus FRIDERICIS &amp; totidem
+								CHRISTIANIS, Regum optimis, toto jam seculo ornatum &amp;
+								amplificatum, esse respectu tam originis qvam incrementi, totius
+								Septentrionis maximum Providentiæ Divinæ
+								monumentum.</p>
+               <p xml:id="idm140139960849888">Benedictus autem coram Deo sit Rex noster Augustissimus, FRIDERICUS
+								QVINTUS, <hi rend="italics" xml:id="idm140139960849536">Pater Patriæ</hi>
+								gratiosissimus, qvi lætissimo hoc Jubilæo
+								renovatam voluit tanti beneficii memoriam, ut regnum ejus, tam clara
+								providentiæ Divinæ vestigia osculatum, sacro
+								gratitudinis jubilo omnes arctoi orbis plagas impleat. Ob qvam
+								summam &amp; Regis &amp; Regiæ domus, &amp;
+								utriusqve regni felicitatem, ut aliqvo signe gaudium cordis intimum
+								contestarer, non alienum videbatur, <hi rend="italics" xml:id="idm140139960848272">Vexillum
+									Ecclesiæ,</hi> omnis veræ felicitatis
+								&amp; lætitiæ indicem &amp; vindicem,
+								publica hac Dissertatione proponere, ubi in tribus vocibus: <hi rend="italics" xml:id="idm140139960847232">Jehova vexillum meum,</hi> hæc tria
+								observanda veniunt.</p>
+               <p xml:id="idm140139960846320">1. Qvis. 2. Qvid. &amp; 3. Cujus sit.</p>
+               <p xml:id="idm140139960845888">ILLUD VEXILLUM.</p>
+               <p xml:id="idm140139960845472">Ut autem omnia in gloriam Dei, nostramqve ædificationem
+								cedant, faxit Pater luminum, gratia Spiritus Sancti per Filium ejus
+								unigenitum Dominum nostrum Jesum Christum. Amen.</p>
+               <pb n="339" xml:id="s339" facs="adl/brorson/brorson3/bror3339"/>
+               <p xml:id="idm140139960843488">J. N. J. A.</p>
+               <p xml:id="idm140139960843072">Cum plane singulare &amp; mirum sit Elogium, qvod Mosi tribuitur
+								præ omnibus Prophetis Deut. XXXIV, 10. uti &amp;
+								præ omnibus hominibus Num. XII, 3. ante omnia respiciendum
+								est ad ipsum fontem, unde &amp; qvomodo tantam hausit animi
+								confidentiam, fortitudinem &amp; æqvanimitatem in
+								omnibus periculis &amp; tentationibus, qvem ita ipse declarat:
+								Jehovah vexillum meum, i.e.<!--rettet HHL fra "5:"--> (Paulo
+								interprete) per fidem, - - Ebr. XI, 23. 24. 27.
+								28.</p>
+               <div xml:id="idm140139960841696">
+                  <head xml:id="idm140139960841440">CAP. I.</head>
+                  <p xml:id="idm140139960841056">Qvis ille sit, qværitur; qvem Ecclesia vexillum suum
+									esse gloriatur? Moses vocat illum <hi rend="italics" xml:id="idm140139960840592">Jehovah.</hi> Notum est, hoc nomen, ut nulli Creaturæ
+									communicabile, sic soli Deo proprium esse, &amp; omnibus
+									tribus Personis commune. Qvemadmodum autem Deus hoc nomine ab
+									omnibus aliis Diis sese discernit, Ego Jehovah, &amp; nullus
+									præterea, præter me nullus Deus Es. XLVI, 9.
+									XLII, 8. Ita Moses ejusdem nominis professione populum Dei ab
+									omnibus aliis gentibus sc. idololatris distingvit, Audi Israel,
+									Jehova Deus noster, Jehova unus est Deut. VI, 4. Qvia enim ab
+									essentia nomen habet Exod. III, 14. ac idem est, qvod apud
+									Johannem: Qvi est, qvi erat, &amp; qvi venturus est Apoc. I,
+									4.     
+									 vel    
+									     
+									   <hi rend="sup" xml:id="idm140139960838400">1</hi>), qvi ex se
+									ipse est, ens summe perfectissimum, qvod non potest non esse,
+									&amp; qvale aliud nullum est, aut esse potest, cui soli
+									omnia alia entia originem &amp; conservationem suam debent;
+									ideo hoc nomine non omnes modo Deos fictitios, ut postea aureum
+									vitulum in pulverem qvasi &amp; cineres redigit, sed etiam
+									omnia alia entia in negotio Religionis &amp; fidei plane
+									annihilat. Ita omnem tantæ victoriæ laudem,
+									nec populo, qvi ferro, nec Josvæ, qvi etiam fide, nec
+									sibi, qvi continuis precibus pugnaverat, sed soli
+									Jehovæ vult tribui atqve totam consecrari; Qvasi
+									diceret: qvid homines, etiam maximi, qvid nos etiam</p>
+                  <note anchored="true" xml:id="idm140139960835792">
+                     <hi rend="sup" xml:id="idm140139960835392">1</hi>)    
+									     
+									  ] konjektur af professor Kaj Barr
+									i st. f. det meningsløse  
+									     
+									    i originaltrykket.
+									Barr henviser til, at da   
+									   forklares ved <hi rend="italics" xml:id="idm140139960834320">qvi ex se ipse est,</hi> skal det andet
+									græske ord formentlig svare til det superlativiske <hi rend="italics" xml:id="idm140139960833456">ens summe perfectissimum,</hi> og hertil har
+									Brorson da dannet en superlativ af  
+									   .</note>
+                  <pb n="340" xml:id="s340" facs="adl/brorson/brorson3/bror3340"/>
+                  <p xml:id="idm140139960831328">omnes, qvid mundus, etiam totus, nisi humus &amp; fumus,
+									pulvis &amp; cinis. Date Jehovæ, filii fortium,
+									afferte Jehovæ gloriam &amp; fortitudinem Psalm.
+									XXIX, 1. si ille nobiscum, qvis contra nos; Vidisti qvidem,
+									Israel, duos maximos hujus veritatis adversarios,
+									Ægyptum &amp; Amalecum, qvi de hac confessione
+									nostra disputarunt ore &amp; gladio, sed ecce! qvod vivi
+									negabant, morte probarunt.</p>
+                  <p xml:id="idm140139960830032">Damnat itaqve se ipsam hodierna illa multitudo tam Atheorum
+									&amp; Naturalistarum, qvi Dei vel existentiam vel
+									providentiam rejiciunt, qvam Pseudo-Christianorum qvi utrumqve
+									ore professi vita abnegant omnium miserrimi, maximeqve
+									detestabiles Jerm. II, 12. 13.</p>
+                  <p xml:id="idm140139960828912">Hoc loco autem per Jehovah imprimis intelligi Filium Dei exinde
+									patet, qvod illum vexillum suum vocat Moses, qvi Israeli ex
+									Ægypto liberato in columna nubis &amp; ignis
+									præivit, per mare rubrum salvum perduxit, manna de
+									cælo cibavit, &amp; ex manibus Amalechi ejusdem
+									nece liberavit. Hune gloriosum Israelis Ducem fuisse exinde
+									patet, qvia ipse vocatur Angelus, Jehovah Exod. XIV, 19. 24.
+									qvod nomen, summam Messiæ tam Personæ, qvam
+									officii dignitatem complexum, nulli nec in cælo, nec
+									in terra nisi Filio Dei unigenito competere unqvam potuit.</p>
+                  <p xml:id="idm140139960827408">Observandus itaqve imprimis hic est Mosis pro divinitate
+									Messiæ defendenda Zelus; Præcipuo enim huic
+									Messianæ Religionis articulo factas malignas
+									objectiones ad illud Christi opprobrium pertinere, de qvo Paulus
+									Ebr. XI, 26. facile conceditur. Messiæ personam
+									sprevit superba Mitzraimi posteritas, utpote ex populo servo
+									&amp; captivo oriundam, nec qvicqvam ægrius
+									ferebat, qvam regnum ejus, omnibus mundi voluptatibus orbum
+									cunctis ditissimæ Patriæ thesauris
+									præferri, idqve a Principe non totius modo populi, sed
+									etiam Sapientum, qvem autem ideo mortalium stultissimum atqve
+									inertissimum habebat. Certe   
+									     
+									    
+									??? qvem ejus gratia sustinuit Moses, ne ullum qvidem,
+									nedum divinum honorem Christo reliqvit, sed maximum probrum,
+									qvod virulenta lingva in servum ejus fidelissimum Pharao eiqve
+									non magnopere dissimiles servi &amp; subditi conjiciebant.
+									Nec dubitamus ejusdem farinæ fuisse Amalechum,</p>
+                  <pb n="341" xml:id="s341" facs="adl/brorson/brorson3/bror3341"/>
+                  <p xml:id="idm140139960823776">qvi deleto Pharaone, ut Josephus libr. 3. Ant. testatur, omnes
+									gentes ad interitum Israelis maturandum sibi associare studuit.
+									Versum 16. nonnulli ita explicant de Deo: Qvia manus super
+									Thronum Dei (jurantis) bellum erit Jehovæ contra
+									Amalechum a generatione in generationem. Alii de Amalecho. Qvia
+									manus (ejus) super (vel adversus) Thronum Dei, bellum erit
+									- - - utraqve sententia monstrat,
+									gentem hanc Deo maxime infensissimam ac detestabilem fuisse, a
+									Davide    ??? 
+									??? hostem Dei vocatam I Sam. XXX, 26. Et
+									certe, qvando hæc omnia cum verbis Josephi &amp;
+									mandatis Dei de Amalecho penitus exstirpando v. 14 Deut. XXV,
+									17-19. I Sam. XV, 2. conferremus, verosimile est,
+									Amalechitas totali Israelitarum deletione vaticinium de Messia
+									illudere &amp; plane irritum reddere voluisse, eumqve
+									&amp; Pharaonem duos V. T. Herodes Magnos &amp;
+									Anti-Christi præcursores fuisse (a). At qvid mirum,
+									eas gentes præ omnibus aliis Idololatriæ
+									deditas gloriam Messiæ despicatui habuisse; cum idem
+									fecerint ipsi iidem Israelitæ, qvos ex
+									Ægypto stupendis miraculis eduxit. Qvando enim Num.
+									XXI. 5. dicuntur contra Deum &amp; Mosen locuti esse, id
+									Paulus vocat: eos tentasse Christum 1 Cor. 10, 9. nempe his
+									verbis: qvare ascendere fecisti nos ex Ægypto? non est
+									panis nobis, neqve aqva. Qvasi dicere vellent: O beatos
+									Ægyptios! qvi Deos suos colentes omni prosperitatis
+									abundantia gaudent, væ autem nobis ab eo die, qvo
+									Messiæ regnum tantopere commendatum audivimus, beatum
+									scilicet, cujus Asseclis in Eremo misere vagantibus tandem fame
+									&amp; siti pereundum est. Idem autem, qvod Israeli, multis
+									proh dolor accidisse videmus, qvi ex Ægypto Romana
+									dudum egressi in longe periculosiorem tentationis Eremum
+									inciderunt. Et qvemadmodum Scriptores dudum observarunt, gentes
+									qvo eruditiores, eo majores idololatras fuisse. Græcia
+									litterarum sedes Deorum myriades habuit, (b) &amp;
+									Ægyptus primo Patrem Chamum, Jovem Hammonem dictum,
+									deinde tauros &amp; canes, vermes &amp; cæpas
+									divino honore mactabat, qvi omnes alias gentes
+									sapientiæ fama superabat, sic illorum infausti Socii
+									videntur, qvi eruditionis præstantia ad solem
+									justitiæ denigrandum abutuntur.</p>
+                  <p xml:id="idm140139960820560">(a) Loc. paral. vid. Psalm. 83. qvem Augustinus ad tempora
+									AntiChristi refert. (b) Hesiod.   
+									    .</p>
+                  <pb n="342" xml:id="s342" facs="adl/brorson/brorson3/bror3342"/>
+                  <p xml:id="idm140139960818848">Sed, qvid mirum, qvando ratio humana, in spiritualibus
+									cæca, spreta vel obscurata revelatione, Systema
+									Theologicum ex propriis conficit, &amp; ad auctoritatem ei
+									conciliandam tot S. Stæ. Scripturæ dicta
+									misere torqvet &amp; lacerat. Exemplo autem sint aliis, qvo
+									dementiæ procedere possunt optima, &amp; ut vocari
+									solent, divina ingenia, nimirum exstincta vel seposita unica
+									salvandarum animarum lucerna Psalm. CXIX, 105. gloriosissimo
+									enim Salvatori nostro æternæ Majestatis,
+									qvantum in iis est, coronam detrahere tanto sibi gloriosius
+									ducunt, qvanto certius constat, ante se neminem ea id licentia
+									&amp; successu tentavisse. Errorem autem eorum non modo
+									indicat &amp; damnat, sed etiam maximopere auget
+									Scripturæ perspicuitas; Qvemadmodum enim omnia ad
+									salutem scitu necessaria clare docet, ita Divinitatem Christi
+									verbis &amp; phrasibus adeo rotundis &amp; lucidis
+									commonstrat, ut ipsa cæli sydera claritate superent.
+									Qvomodo enim Scriptura posset esse Regula fidei certa &amp;
+									infallibilis, si, qvando toties vocat Salvatorem nostrum
+									Jehovah, ut audivimus, Deum super omnia benedictum in secula
+									Rom. IX, 5. qvi omnia novit Joh. XXI. v. 17. omnia potest.
+									    ???, 
+									     
+									     Apoc. I, 8.
+									si non essent id, qvod sint, nempe clarissima &amp;
+									splendidissima Majestatis Divinæ testimonia; vel
+									qvæ fingi potest de tam aperta veritate dubitandi
+									causa, nisi qvæ ex ratione confusa &amp; sibi ipsi
+									adversa depromitur. Nam credere, Scripturam esse Dei verbum,
+									&amp; tamen negare Christo, qvod Scriptura ipsi toties
+									tribuit, est contra omnem sanam rationem ratiocinari; Nec
+									superest ullum, ne in Scriptura qvidem veritatis
+									defendendæ medium, si summæ
+									sapientiæ nomen sibi vindicarit contra lumen non
+									Scripturæ modo sed etiam rationis obstinata
+									argumentandi licentia.</p>
+                  <p xml:id="idm140139960814640">Non enim nomina tantum &amp; attributa, sed etiam opera
+									Divina Scripturam Salvatori svavissimo eadem, id est summa
+									claritate &amp; certitudine vindicare notissimum est,
+									Johannes, qvi teste Eusebio aliisqve, Evangelium contra Ebionem
+									&amp; Cerinthum scripsit, dum divinitatem Christi verbis
+									serenissimis docere vellet, qvi poterat id vel luculentius vel
+									apertius fieri, qvam cum non Apostolica tantum auctoritate, id
+									est divina, ostendat, sed etiam stylo maxime emphatico mentibus
+									imprimat;     , qvi
+									a principio apud Deum fuit dvs. distincta persona a Patre, esse
+									ipsum</p>
+                  <pb n="343" xml:id="s343" facs="adl/brorson/brorson3/bror3343"/>
+                  <p xml:id="idm140139960811616">Deum, idqve non nomine tantum, sed omnipotentem cum Patre
+									Creatorem cæli &amp; terræ, omnia per
+									ipsum facta esse, &amp; sine ipso nihil factum eorum,
+									qvæ facta sunt Joh. I, 3. Ubi observandum est,
+									assertionem Apostoli tam affirmativam, qvam negativam dvs.
+									omnium maximam, exceptiones &amp; dubitationes omnes
+									excludere, ne minima qvidem hæreticis elabendi rima
+									relicta; qvod idem loco parallelo maxime emphatico Col. I, 16.
+									observatur; si autem offendat eos adhuc particula 
+									 , monstrent in tota scriptura exemplum, per
+									unum vel omnes Angelos sive Archangelos factam esse minimam
+									terræ glebam vel aqvæ guttulam; cum e
+									contrario Paulus, ubi ex professo agit de infinita illa inter
+									Salvatorem nostrum &amp; creaturas differentia, solium (Fili
+									Dei) inqvit, tuum, Deus! in seculum &amp; seculum Psalm.
+									XLV, 7. Tu Jehova in seculum permanes &amp; memoria tui in
+									generationem &amp; generationem Psalm. CII, 13 Ebr. I, 8.
+									qvæ verba summam divinam potestatem describere nemo,
+									nisi qvi omnem veritatem, negabit. Imo vero id ipsum ipse Filius
+									Dei in terris non verbis modo testatus est, sed etiam operibus
+									vere divinis. Si non facio opera Patris mei, ne credite mihi, si
+									vero facio, si utiqve mihi non creditis, operibus credite, ut
+									cognoscatis &amp; credatis, qvod Pater in me &amp; ego
+									in Patre, Joh. X, 37.</p>
+                  <p xml:id="idm140139960808288">Hæc paucis monuisse sufficere credo, si non ad errantes
+									convincendos, attamen ad imperitos admonendos; nimirum qvanto
+									studio ab hoc labyrintho sibi hodie imprimis cavere oporteat.</p>
+                  <p xml:id="idm140139960807488">Articulum de Divinitate Christi per omnia secula multos
+									adversarios habuisse nulli miramur. Sudes in oculis
+									Sathanæ semper fuit divina potentia ejus, qvi caput
+									serpentis contrivit, Nec alium fore Messiam, qvam qvi lapides in
+									panem convertere posset, ipse confessus est, sed ultima hac
+									mundi periodo ut eo plures a fide Jesu Christi ejusdemqve
+									plerophoria impedire possit (Personam enim Mediatoris
+									extenuantibus officium necessario vilescit) Ideo non omnem modo
+									Baratri sed etiam carnis &amp; mundi rationem ad gloriam
+									Christi obscurandam acuit.</p>
+                  <p xml:id="idm140139960806224">Ipse Moses noster omni Ægyptiorum sapientia eruditus
+									Act. VII, 22. docet suo Exemplo satis superqve, artes qvidem
+									omnes</p>
+                  <pb n="344" xml:id="s344" facs="adl/brorson/brorson3/bror3344"/>
+                  <p xml:id="idm140139960804352">&amp; scientias laudi Creatoris hominumqve commodo
+									inservituras non habere osores nisi ignorantes. Concedimus! sed
+									deficiente &amp; contempto Dei timore, qvi initium est
+									sapientiæ &amp; omnis cognitionis anima, ratio
+									certe humana a scopo suo eo longius aberrat, qvo magis in
+									scientiis profecisse gloriatur. Si autem cæca in
+									Theologiæ Sanctuarium irrumpat, misceri summa imis
+									&amp; sacra profanis, certum est; Ex hoc enim semine tot
+									hæreseos &amp; naturalismi procrescere lolia,
+									qvorum ætas nostra feracissima est, qvæqve
+									gloriam dulcissimi Salvatoris vel in tantum vel in totum negant,
+									tristissima experientia contestatur. Eo autem majori zelo huic
+									malo, qvod in ipsum fidei fundamentum arietat, &amp;
+									Anti-Christo fenestras omnes &amp; januas aperit, cordati S
+									Stæ. Theologiæ Doctores sese mascule
+									objiciunt; Nec eos terret vel laboris molestia vel multorum
+									offensa, qvoties dulcissimum Ecclesiæ vexillum
+									intuentur. Ardua sane res erat Mosi, populum per desertum, haud
+									secus ac gregem per immanissimarum ferarum latebras, ducere,
+									Qvælibet mutatio loci novi fuit periculi initium.
+									Omnia ruinam minabantur itinere difficillimo vix capris
+									&amp; cervis pervio. Noverat Moses populi genium utriusqve
+									sortis impatientem. Qvot idem molestias, tot Moses timores
+									sustinuit, semper veritus, ne peccaret, vel (ut peccatum
+									fuerit), ne periret. Vidit adversus se, qvem Ducem latronum
+									vocabant, omnes gentes armatas. Sed paleæ erant
+									hæc omnia unico verbulo dissipandæ: Audi
+									Israel! Jehovah Deus noster, Jehovah unus est, noster Jehovah
+									unus nobis sufficit. Hoccine expertus est Amalec, qvi populum
+									Dei, viatores peregrinos aggressus in mucronem
+									vindictæ furiosus irruit.</p>
+                  <p xml:id="idm140139960799760">Jucundum itaqve &amp; omni imitatione dignum est Antistitis
+									hujus exemplum, qvem ante qvadraginta annos latebris Pastorum
+									asvetum, jam in omnium gravissimo munere triumphanti similem
+									videre; fortes animi semper sunt humiles, propriæ
+									infirmitatis bene conscii. Qvis ardua munerum culmina proprio
+									dvs. cæco instinctu peteret? qvis sanæ
+									mentis pericula, nisi Deo Duce &amp; Auspice, sectaretur?
+									Magni animi est, non magna ambire officia, sed oblata mascule
+									obire.</p>
+                  <pb n="345" xml:id="s345" facs="adl/brorson/brorson3/bror3345"/>
+               </div>
+               <div xml:id="idm140139960797552">
+                  <head xml:id="idm140139960797296">CAP. II.</head>
+                  <p xml:id="idm140139960796880">Sed jam tempus est qværere, qvid per illud vexillum
+									intelligatur. Ratione Etymi nulla hic est difficultas. a radice
+									??? vexillum tulit, est ??? vexillum, qvod hic, uti &amp;
+									sæpius, vexillum militare significat Es. V, 26. X, 18.
+									XIII, 2. Jerm. IV, 6.</p>
+                  <p xml:id="idm140139960796112">De vexillis in genere, &amp; præsertim de qvatuor
+									præcipuis in castris Israelis, nempe Judæ,
+									Ruben, Ephraim &amp; Danis in forma Leonis, Hominis,
+										Bovis,<hi rend="bold" xml:id="idm140139960795552"> &amp; </hi>Aqvilæ hic
+									non nihil dixisse, haud abs re foret, si ferret id temporis
+									angustia; Sed festinanti sufficiant, qvæ sponte
+									seqvuntur maxime necessaria. Audivimus supra per vexillum hic
+									intelligi Salvatorem mundi, adeoqve hæc vox vexillum
+									vi comparationis (1) indicat statum Ecclesiæ in terris
+									militarem. Pacem temporalem, qva inter tot aliarum gentium bello
+									oppressarum lacrymas &amp; gemitus singulari Dei
+									misericordia fruimur, magni facit Ecclesia Christi, semper
+									verita, ne pudendo ingratitudinis vitio eam amittat, eoqve
+									ardentius amplectitur &amp; osculatur pacem spiritualem,
+									qvam Christus nobis cruenta morte comparavit. Cum Sathana autem,
+									mundo &amp; propria carne nec pacem nec inducias novit, sed
+									bellum idqve serium &amp; longe acerrimum, cujusqve respectu
+									corporale, qvantumcunqve videri velit, nihil fere aliud est,
+									qvam lusus, sive æstum respicias, qvo nihil
+									vehementius, sive finem, qvo nihil, bene si cesserit,
+									lætius, aut e contrario terribilius.</p>
+                  <!--<p>Et qvid miramur id de membris dici, cum Caput a Simeone vocetur &sgr;
+									&eegr;
+									&mgr;
+									&egr;
+									&itildegr;
+									&ogr;
+									&ngr; ???&ngr;
+									&tgr;
+									&igr;
+									&lgr;
+									&egr;
+									&ggr;
+									&oacgr;
+									&mgr;
+									&egr;
+									&ngr;
+									&ogr;
+									&ngr; Luc. II, 34. Qvod est signum militare seu vexillum, in qvod maximam vim hostium irruere notum est, adeoqve dulcissimum Servatorem nostrum per obstinatam hominis incredulitatem factum esse offensionis lapidem, qvem revera proposuit Deus Propitiatorium in sangvine ejus per fidem Rom. III, 25. sicut etiam vexillum hic. (2) omnibus afflictis solatium promittit, Qvemadmodum in pr&aelig;lio, rebus confusis ac perditis, ad vexillum, si qvid superest, omnes respiciunt, omnes confugiunt, ita pr&aelig;ter Jehovah Nissi, pr&aelig;ter Salvatorem mundi, non aliud refugium, non alia ad Patrem via, non aliud nomen datum est sub c&aelig;lo, in qvo oporteat nos salvari.</p>--><pb n="346" xml:id="s346" facs="adl/brorson/brorson3/bror3346"/>
+                  <p xml:id="idm140139960790656">Qvem enim Moses Jehovah Nissi vocat, hunc sponsa indicat dicens.
+									Amor ejus est vexillum super me Cant. II, 4. &amp; monstrat
+									erecti altaris cum hoc nomine harmoniam, nempe cur id erigeret
+									Moses, nisi ut per altare verum Reconciliationis
+									nostræ sacrificium commendaret. Cur autem Jehovah
+									Nissi denominaretur, nisi ut svavissimo hoc alloqvio omnes
+									afflictos ad salvatorem invitaret; id qvod septuaginta
+									Interpretum versio optime exprimit per  
+									    <hi rend="italics" xml:id="idm140139960789600">
+										    
+										   ???</hi>; Dominus
+									refugium meum; sicut vexillum tribus Judæ, leonis
+									effigiem præferens, ita interpretatur Angelus: noli
+									flere, qvia vicit Leo ex tribu Judæ Apoc. V, 5. ita
+									hic Moses per altare crucifixum præfigurando indicat:
+									noli timere Israel, hic est Refugium, hic est vexillum nostrum,
+									hic verum &amp; unicum &amp; certum est attriti cordis
+									Asylum.</p>
+                  <p xml:id="idm140139960788048">Nonnulli qvidem cum Josepho Libr. III. antiqv. existimant, super
+									hoc altare Mosen sacrificium obtulisse, sed, tacente Scriptura,
+									exstructum esse puto in signum omnibus visibile, qvo Moses ipsis
+									rem maximi momenti inculcatam voluit. Notum est: Mosen non cum
+									omnibus loqvi, nec centesimam populi partem vocem ejus etiam
+									maxime elevatam auribus percipere potuisse. Exceptis pueris
+									&amp; mulieribus sexcentis hominum millibus constabat
+									Israelitarum coetus, qvorum metandis castris vix duo milliaria
+									sufficerent; ut ergo animi hic in fide triumphantis
+									lætitiam omnium ob oculos poneret, eodem, ut opinor,
+									loco altissimo, qvo nuper, dum Josva dimicaret expansis
+									&amp; crucifixi imaginem præfigurantibus
+									() manibus steterat, eodem inqvam edito loco, qvo ab
+									omnibus conspici poterat, magnum illud altare exstruxit, ut novo
+									facto attentione populi excitata, emissis Præfectis
+									&amp; Nuntiis, magnum redemptionis momentum, liberatione ab
+									Ægypti &amp; nunc Amalechi ungvibus
+									præfiguratum, inculcaret, &amp; miro altaris
+									nomine Jehovah Nissi firmam in Deum fiduciam omnibus
+									ingeneraret, dulcissimum inqvam omnis consolationis nucleum, Nam
+									qvi Christum fide amplectitur, in ipso omnia habet, nempe ut est
+									dimicanti vexillum, sic esurienti panis, sitienti vinum,
+									ægrotanti sanitas, langventi robur, erranti via,
+									ignoranti veritas,</p>
+                  <p xml:id="idm140139960785472">() Augustin. de Civ. Dei Libr. X. c. 8. orante Mose,
+									manibus ejus in figura crucis extensis.</p>
+                  <pb n="347" xml:id="s347" facs="adl/brorson/brorson3/bror3347"/>
+                  <p xml:id="idm140139960783776">morienti vita, e contrario, qvi Christum habet, nihil mali
+									timeat, qvia Jesus vexillum, Jesus Refugium Ecclesiæ,
+									Jesus petra credentium, qvæ omnia complectuntur
+									dulcissimum nomen Immanuel, Deus nobiscum, qvod summam fidei
+									plerophoriam excitat, nam si Deus pro nobis, qvis contra nos
+									Rom. VIII, 31.</p>
+                  <p xml:id="idm140139960782688">Est autem (3) Jehovah Nissi jucundissimum Ecclesiæ non
+									tantum defendendæ, sed etiam augendæ
+									symbolum &amp; blanda ad gratiam conseqvendam invitatio; Si
+									enim vexillum militare non subditis modo tutelam promittit, sed
+									etiam submittendis gratiam, multo magis verum est in
+									spiritualibus; qvemadmodum enim non tantum ipsa peculiaris hujus
+									populi electio hunc habuit finem primarium, ut ex illo
+									universalis hominum Salvator nasceretur; qvo facto, &amp;
+									publice patefacto, omnis prærogativa cessaret; totaqve
+									Vet. Test. oeconomia id intendebat, ut, Deum Israelis esse
+									unicum &amp; verum Deum, omnis mundus cognosceret; sicut e
+									contrario eorum (ut nunc Christianorum) impietatis exempla nomen
+									Dei gentibus blasphemandum tradiderunt. Ita huic populo non modo
+									præstita summa beneficia, verum etiam immorigero
+									acerbissima inflicta vulnera, gratiam tam universalem, qvam
+									specialiorem omnibus gentibus proposuerunt. Qvid qvod! ipsa
+									crudelissima bella, qvibus ferocissimas gentes subegerunt, ad
+									eundem finem omnia tendebant, nec alio sensu vexillum suum Moses
+									hic omnibus gentibus Asylum proponit, qvam ut novi foederis
+									præludio Evangelium longe lateqve diffunderet. Hoc
+									animo de jam devictis acerbissimis hostibus triumphum duxit
+									Spiritu gratiæ repletus, ex strage Rebellium, ceu
+									veneno Serpentum, aliarum gentium pharmaca
+									præparaturus.</p>
+                  <p xml:id="idm140139960779184">Objiciunt qvidem particularismi fautores, ruinam Amalechi esse
+									absoluti decreti documentum, &amp; vaticinii de Esavo
+									supplantando complementum: Non autem observant, per Amalechum
+									hic non intelligi Esavi nepotem, sed gentis cujusdam longe
+									majoris &amp; vetustioris Parentem, cujus regnum etiam
+									tempore tam Abrahami, qvam nunc Mosis floruisse videri potest
+									Gen. XIV. Num. XXIV, 20. Mandatum autem Israeli cum Esavo
+									consortium monstrat ex gente hac non fuisse illum Amalec, cui
+									hoc</p>
+                  <pb n="348" xml:id="s348" facs="adl/brorson/brorson3/bror3348"/>
+                  <p xml:id="idm140139960776768">penitus interdictum fuit. At eos imprimis movet denegatum hoc
+									Consortium cum populo Dei, qvod esse signum absolutæ
+									Reprobationis autumant, non considerantes, illos
+									Ægypti vicinos, auditis stupendis ibidem patratis
+									miraculis, non sufficientem modo sed etiam abundantem vocationis
+									gratiam habuisse. Iis autem non flecti, sed furiosis similes
+									sese Deo opponere, innocentes autem &amp; debiles in populo
+									non tam vi armorum, qvam fraude opprimere indubium fuit omnem
+									gratiam respuentis animi documentum. An hoc autem Universalem
+									gratiam tollit, qvando Deus ejusmodi refractarios &amp; in
+									tanto furore perseverantes castigare &amp; e medio tollere
+									cogatur? At tunc demum maxime triumphat gratia universalis,
+									qvando iis locis, qvæ huic universalitati opponuntur,
+									immobilem ejus veritatem stabiliri videmus. Sic etiam Jehova
+									Nissi non scriptum est contra Amalechitas, nisi in qvantum
+									oblatæ gratiæ adversabantur dvs. ut verbis
+									Scripturæ utar, qvamdiu manus eorum erat adversus
+									Thronum Dei; sed hoc ipso verbo, nempe vexillo, qvot superstites
+									erant, non minus qvam omnes ceteræ gentes ad Deum
+									Israelis agnoscendum alliciebantur. Ita certe Mosen explicatum
+									voluit Esaias Cap. XI, 10. Monstrato enim, per vexillum meum,
+									qvod vocat populorum, intelligi Messiam Isai Radicem, indicat
+									emphasin vocis dvs. universalitatem gratiæ in Christo,
+									eum, inqvit, inqvirent gentes, &amp; reqvies ejus (pax
+									&amp; securitas sub ejus umbra gentibus promissa) erit
+									gloria, id est, status non dulcis modo, sed etiam maxime
+									gloriosus, adeo ut sese ad summam filiationis 
+									     evectos
+									ovabundi confiteantur: qvasi dicerent: O svavissimum omnis
+									gratiæ Patrem, omnes peccatores se gremio
+									misericordiæ excepturum tot promissionibus &amp;
+									juramentis, imo mortis unigeniti pignore contestatum. O
+									dulcissimum mundi Salvatorem, mundi inqvam universi Principem
+									salutis, ad qvam impetrandam sese in cruce vexillum gentium
+									erigi non fuit dedignatus. O æternum &amp;
+									immensum gratiæ flamen &amp; flumen Spiritum
+									Sanctum, qvi se in omnium corda emitti, &amp; vehiculo verbi
+									effundi desiderat. Et O! beata corda, qvi in hunc
+									gratiæ pelagum sese totos ingurgitant.</p>
+                  <p xml:id="idm140139960771648">Sed cum nunqvam satis deplorari possit, tantum tam universalis
+									gratiæ æstum a plurimis negligi, vel summo
+									haberi fastidio,</p>
+                  <pb n="349" xml:id="s349" facs="adl/brorson/brorson3/bror3349"/>
+                  <p xml:id="idm140139960769760">ita nihil magis pias mentes torqvet, qvam hanc mortalium
+									ingratitudinem, resistentiam &amp;  
+									     ,
+									unicum salutis conseqvendæ impedimentum, ad gratiam
+									universalem, horribile dictu! denegandam a particularismi
+									auctoribus inverti, qvod summum humani generis scandalum facile
+									evitarent, si verbo Dei clarissimo, sanctissimo, fidelissimo,
+									non autem rationi miseræ, marcidæ &amp;
+									mutilæ &amp; ad abyssum Divinæ
+									oeconomiæ perscrutandam ineptæ fidem habere
+									vellent, vel saltem cavere, ne qvid contra sanam rationem de
+									Deo, ipso amore, decernerent.</p>
+                  <p xml:id="idm140139960768400">Sed eo magis gratiam Dei dulcibus hymnis confiteantur, qvotqvot
+									sub amoris ejus vexillo delitescunt, dicat columba in ruptura
+									petræ: diligam te Jehovah! petra mea &amp; arx
+									mea, &amp; me eruens Deus meus, fortitudo mea. Sperabo in
+									te, scutum meum &amp; cornu salutis meæ, elevatio
+									mea Psalm. XVIII, 2-3. Qvinam autem sint, qvi sub hoc
+									omnis gratiæ vexillo securi &amp; contenti esse
+									possunt, ex jam seqventibus patebit.</p>
+               </div>
+               <div xml:id="idm140139960766912">
+                  <head xml:id="idm140139960766656">CAPUT. III.</head>
+                  <p xml:id="idm140139960766240">Vexilli nostri securitate ac tegmine nulli nisi
+									præsentes &amp; seqventes fruuntur, qvi vocantur
+									populus Dei, vel ecclesia, qvæ vi vocis est evocatio
+									vel coetus a communi irregenitorum agmine evocatus, qvi verbum
+									Dei audit &amp; sacramentis recte utitur. Sed qvi distingvi
+									solet in visibilem &amp; invisibilem seu in coetum, in qvo
+									est &amp; qvi est Ecclesia (ut Gerhardus id apte satis
+									explicat conf. Libr. 2. art. 5. p. 804.)<hi rend="sup" xml:id="idm140139960764944">1</hi>)
+									ita hanc distinctionem luculenter monstrat Paulus in ipso hoc
+									populo, cui Moses vexillum salutis ostendit: Non volo vos
+									ignorare fratres, qvod Patres nostri omnes sub nube fuerint,
+									&amp; omnes per mare transierint &amp; omnes per Mosen
+									baptizati fuerint in nube &amp; in mari, &amp; omnes
+									eandem escam spiritualem comederint, &amp; omnes eundem
+									potum</p>
+                  <note anchored="true" xml:id="idm140139960763728">
+                     <hi rend="sup" xml:id="idm140139960763328">1</hi>) Johan Gerhard, Confessio catholica, liber
+									II, art. V, cap. I,   
+									    3: Distinguendum est
+									inter coetum, in quo est Ecclesia, et coetum, qui est Ecclesia.
+									Ribe købstads gejstlige auktionsprotokol
+									1682-1774, fol. 322 flg. (Landsarkivet, Viborg)
+									udviser, at der 19.6.1765 blev holdt auktion over Brorsons
+									efterladte bogsamling. Blandt bøgerne
+									nævnes Gerhardi Confessio Catholica, 4°. Det
+									ovenstående sidetal 804 viser, at det har
+									været en udgave, som ikke findes pa Kgl. Bibl. og
+									Univbibl.</note>
+                  <pb n="350" xml:id="s350" facs="adl/brorson/brorson3/bror3350"/>
+                  <p xml:id="idm140139960760368">spiritualem biberint, bibebant enim ex spirituali comitante
+									petra, petra autem erat Christus. At non in pluribus illorum
+									complacuit Deo, prostrati enim sunt in deserto, hæc
+									vero Typi nostri fuerunt 1 Cor. X, 1-6. Qvodnam autem
+									magnum illud mysterium fuit, qvod eorum nonnulli tantum
+									habebant, &amp; ob id ipsum Deo placebant, id Paulus alibi
+									vocat mysterium fidei 1 Tim. III, 9. hoc mysterium continet
+									verbulum Mosis: MEUM, qvod est minima tantum vocis particula, at
+									in tantillo apice latet magnum illud mysterium, sine qvo omnia,
+									qvæ de Deo &amp; Messia dicuntur vel promittuntur,
+									qvo gratiosiora &amp; gloriosiora, eo sunt terribiliora:
+									Beati autem, qvi vera fide dicere possunt: Pater meus, Salvator
+									meus, justitia mea, pax mea, gloria mea, vexillum meum. Ad hanc
+									fidei certitudinem, in corde auditorum accendendam, non dicit
+									vexillum nostrum vel populi, qvod tamen in verbis ejus latebat.
+									Mosen enim voluisse totum populum, non se solum, sub hoc vexillo
+									servari, indicavit eo die, qvo promittebat Deus, se illum magnum
+									populum facturum, modo rebellem perderet, Moses e contrario e
+									libro ejus deleri optat, si qvid tristius populo accideret Exod.
+									XXXII, v. 32. Sed ideo dicit vexillum meum, ut proprio exemplo
+									unumqvemqve ad individualem applicationem excitaret. Hanc autem
+									non omnes habebant, alias eremus illa horribilis in Paradisum
+									mutata fuisset, &amp; qvomodo præ gaudio
+									exsultasset anima Mosis, si tot Sanctorum Myriades in itinere
+									habuisset comites. Sed proh dolor! non multi nec plurimi nedum
+									omnes credentes fuerunt; vexillum seqvebantur corpore, non
+									animo, corda in terra Ægyptiorum remanebant, nec ab
+									iis multum differebant, nisi tempore, genere &amp; loco
+									sepulturæ, ut illis nempe in mari, sic his in deserto
+									paratæ. Aversum a Deo animum omni occasione
+									indicabant, &amp; rebellionis abominatione ipsum Pharaonem
+									multi æqvare, nonnulli superare videbantur.
+									Qvemadmodum etiam multos adhuc habet Ecclesia malignos hostes
+									extraneos, sed intra moenia periculosissimos.</p>
+                  <p xml:id="idm140139960755296">Ast ut incredulitatis illorum signa sunt odium, &amp;
+									dissidia, ita verus Israelis character est intimus amor,
+									&amp; inde fluens animorum concordia sub uno vexillo contra
+									eundem hostem, eadem militantium fide. Ejusdem etenim hic est
+									periculi &amp; præmii consortium iis, qvi tanqvam
+									cives foederati pro vita, pro libertate,</p>
+                  <pb n="351" xml:id="s351" facs="adl/brorson/brorson3/bror3351"/>
+                  <p xml:id="idm140139960752896">pro patria nempe spirituali &amp; cælesti dimicant;
+									&amp; amor, qvi illos sociavit, est admirabilis illa Dei
+									Philanthropia, qvæ miseris nobis mortalibus erexit
+									vexillum, Agnum nempe Dei pro nobis omnibus in ara crucis
+									mactatum. Ita animati non erant omnes; sed veri Mosis &amp;
+									Prophetarum Discipuli, dicti: Dei Israel, populus Dei, peculium.
+									Vera, victoriosa &amp; Israele digna progenies, tanti Herois
+									non degeneres filii, qvi, jugo Ægypti infernalis
+									abjecto, crucem amplectendo omnium Patriarcharum &amp;
+									Prophetarum patriam diesqve noctesqve unanimiter anhelabant.</p>
+                  <p xml:id="idm140139960751616">Talis imprimis erat facies populi sub ipso Novi Testamenti
+									exordio, ad hoc nempe unice qværendum, toti
+									Ecclesiæ fuit unum cor, &amp; una anima Act. IV,
+									32. Miraculi instar erat, tot hominum millia, nec
+									consangvinitatis vinculo, nec conditionis æqvalitate,
+									nec officii consortio, sed solo Christi amore unita, videre.
+									Obstupuit omnis admiratio ad contemplandum hanc
+									Ecclesiæ communionem, nec vi compactam, nec dolo
+									tritam, sed cælo dignum veræ fidei
+									documentum; ubi nimirum militantis fuit triumphantis, imperfecta
+									qvidem, vera tamen &amp; jucundissima imago.</p>
+                  <p xml:id="idm140139960750032">Sed qvid mirum, floruisse vineam a tot optimis Christi servis
+									plantatam atqve rigatam. Magnum fuit vidisse in eremo Mosen, Dei
+									Servum in tota ejus domo fidelem, omnium Prophetarum Doctorem,
+									qvem in ruptura stantem omnem Dei iram avertisse, ipse Spiritus
+									Sanctus testatur Psalm CVI, 23. sed qvid dicemus de primis Novi
+									Testamenti testibus, longe majori Evangelii claritate
+									illuminatis, de 70 Evangelistis &amp; aliis multis Evangelii
+									præconibus, omnibus Spiritu Sancto repletis, imprimis,
+									de Salvatoris duodecim Apostolis, qvos ipse Salem
+									terræ &amp; lumina mundi vocavit; Qvi ipsum toties
+									oculis suis conspexerant, mellifluo ejus colloqvio &amp;
+									consortio tam diu usi, qvi immensum Dei amorem ipsis tam blande
+									patefecit, &amp; passione ac morte omnium acerbissima
+									comprobavit.</p>
+                  <p xml:id="idm140139960748720">Hæc &amp; reliqva summi amoris mysteria miro
+									charitatis affectu indesinenter inculcata, ut flamma
+									cælestis omnes animas non rebelles corripuerunt
+									tantoqve fidei &amp; amoris ardore impleverunt, ut etiam
+									hostes suos dilexerint, se ipsos autem invicem, ut filios</p>
+                  <pb n="352" xml:id="s352" facs="adl/brorson/brorson3/bror3352"/>
+                  <p xml:id="idm140139960746432">Dei &amp; cohæredes filii, in ipso impensius
+									amaverint, eoqve minor erat interventuræ formido
+									offensæ, qvo major mutui fuit amoris
+									æmulatio. Qvæ docendi dexteritas tanto
+									exemplo armata svavissimum Christi regnum per totum orbem
+									dilatavit, nec illis viventibus ulla latius serpens
+									concordiæ tabes animadversa est, nec superstite viva
+									vitæ eorum &amp; cruenti Martyrii memoria; Effusum
+									enim confessorum sangvinem &amp; numerum &amp; ardorem
+									Christianorum auxisse, omnis aureæ hujus
+									ætatis historia testatur.</p>
+                  <p xml:id="idm140139960745408">Et hoc hujus loci palmarium est, ut ad exemplum Mosis,
+									Prophetarum, &amp; Apostolorum Doctores in Scholis &amp;
+									Ecclesiis ad hoc gratiæ vexillum vera fide intuendum,
+									ea, qva par est, devotione, omnes excitent. Hoc sensu Paulus
+									dicitur portasse nomen Jesu ante Reges &amp; gentes
+									&amp; filios Israelis Act. IX, 15. Hoc animo omnes vult
+									respicere in fidei Ducem &amp; Consummatorem Jesum, qvi pro
+									gaudio sibi proposito sustinuit crucem, inqve dextra Throni Dei
+									consedit. Ebr. XII, 2. Hoc respectu Ministri verbi
+									primitivæ Ecclesiæ vocabantur signiferi, ita
+									nempe Præfectus Asclepiades Martyrem Romanum apud
+									Prudentium p. m.<hi rend="sup" xml:id="idm140139960743648">1</hi>) 146. alloqvitur:</p>
+                  <p xml:id="idm140139960742864">Infame monstrum, vilis intestabilis tu ventilator &amp; vulgi
+									levis procella - - - &amp;
+									porro</p>
+                  <lg xml:id="idm140139960742224">
+                     <l xml:id="idm140139960741968">Hoc tu parasti perdite spectaculum </l>
+                     <l xml:id="idm140139960741536">cladis cruentæ de necandis civibus </l>
+                     <l xml:id="idm140139960741056">qvos ut profani impiati &amp; seculi </l>
+                     <l xml:id="idm140139960740608">reos necesse est te magistro interfici </l>
+                     <l xml:id="idm140139960740176">Tu causa mortis, tu malorum signifer,<hi rend="sup" xml:id="idm140139960739872">2</hi>)</l>
+                  </lg>
+                  <p xml:id="idm140139960738992">ubi non miramur, Ecclesiarum primipilos metam maximi furoris
+									certissimam fuisse, sed ipsos præ summo in auditores
+									amore omnem persecutionis impetum in se solos non raro
+									convertisse. Beata certe sanctæ legionis castra tantis
+									Ducibus &amp; Signiferis</p>
+                  <note anchored="true" xml:id="idm140139960738048">
+                     <hi rend="sup" xml:id="idm140139960737648">1</hi>) <hi rend="italics" xml:id="idm140139960737024">p.</hi>
+                     <hi rend="italics" xml:id="idm140139960736496">m.</hi>] pagina mea el. pagina mihi (dvs.
+									efter min udgave).</note>
+                  <note anchored="true" xml:id="idm140139960735632">
+                     <hi rend="sup" xml:id="idm140139960735232">2</hi>) Citatet findes i Prudentius'
+									Peristephanon (<hi rend="italics" xml:id="idm140139960734544"/>), hymnus decimus, l. 77-79, 86-90. Hos
+									Brorson er efter <hi rend="italics" xml:id="idm140139960733808">ventilator</hi> udfaldet
+									ordet <hi rend="italics" xml:id="idm140139960733072">urbis, </hi>og der er kommet til at
+									stå <hi rend="italics" xml:id="idm140139960732288">profani</hi> i steden for <hi rend="italics" xml:id="idm140139960731568">profanos.</hi> Ifølge
+									auktionsprotokollen ejede Brorson Prudentii Opera, 12°.
+									Sidetallet 146 svarer ikke til nogen af udgaverne på
+									Kgl. Bibl.</note>
+                  <pb n="353" xml:id="s353" facs="adl/brorson/brorson3/bror3353"/>
+                  <p xml:id="idm140139960729280">illuminata, qvo tempore juxta Sulpit. Sever. ibidem p. m. 143.
+									certatim gloriosa in certamina ruebatur, multoqve avidius tum
+									martyria gloriosis mortibus qværebantur, qvam nunc
+									Episcopatus pravis ambitionibus appetuntur, Sulp. Sev. p. m.
+										143<hi rend="sup" xml:id="idm140139960728448">1</hi>).</p>
+                  <p xml:id="idm140139960727696">Qvomodo langvescentem paulatim hunc primum amorem
+									æmulatio penitus exstinxit, qvomodo ministerium
+									reconciliationis prima rixarum semina sparsit, cujus antea non
+									aliud, qvam mutui amoris &amp; benevolentiæ
+									certamen innotuit, qvomodo, vallo veritatis &amp;
+									concordiæ dejecto, hæreses &amp;
+									schismata, fluminis instar erumpere &amp; omnia inundare
+									coeperunt, qvomodo, relicto vexillo, turbati animi tot viis
+									dissipantur, qvot vel cæca obedientia vel studium
+									partium vel omni peste pejor ambitio traxerit, hæc
+									materia satis nota &amp; prolixior est &amp; tristior,
+									qvam ut tempori sive præsenti brevissimo sive futuro
+									solennissimo inservire possit.</p>
+                  <p xml:id="idm140139960726208">Sola tamen ejus mentio non potest non admonere omnes fideles
+									maximam perseverantiæ necessitatem, qva cessante, non
+									modo nulli usui, sed majori semper damno &amp;
+									ignominiæ fuit omne pietatis studium.</p>
+                  <p xml:id="idm140139960725456">Sal fatuus sunt Matth. V, dvs. qvi antea omnem morum putredinem
+									arcebant jam omnibus piis nauseam movent, canibus &amp;
+									porcis similes, qvi ad vomitum suum &amp; volutabrum redeunt
+									2 Petr. II. Vexillum nostrum hanc doctrinam maxime urget,
+									&amp; acuit; Qvid enim transfuga detestabilius in mundo
+									coram civibus suis? multo autem magis, qvi vexillum crucis
+									fugiendo in castra hostis se conjiciunt,
+									æternæ condemnationis mancipia. Non autem
+									vexillum tantum exigit, sed etiam excitat &amp; auget
+									perseverantiam, in mediis flammis vincit agmen Dei, qvamdiu
+									vexillum intuentes illud strenue seqvuntur. Audivimus sponsam
+									dixisse: Amorem Christi esse vexillum Cant. II. Sensus autem
+									est, hunc semper, ut vexillum, intuendo, per saxa seqvor, per
+									ignes &amp; aqvas, amantissimum. Omnia valeo per eum, qvi me
+									confortat,</p>
+                  <note anchored="true" xml:id="idm140139960723072">
+                     <hi rend="sup" xml:id="idm140139960722672">1</hi>) Sulpitii Severi Historia sacra, Lugd.
+									Batavorum, 1635, liber II, pag. 143-44: <hi rend="italics" xml:id="idm140139960721936">certatim</hi>... <hi rend="italics" xml:id="idm140139960721216">appetuntur,</hi> ordret citat. Brorson ejede bogen. Det ser
+									mærkeligt ud, at stedet, hvorfra citatet er hentet,
+									angives 2 gange, og <hi rend="italics" xml:id="idm140139960720240">ibidem</hi> synes ikke at
+									give nogen mening. Der er formentlig noget galt ved trykningen.</note>
+                  <pb n="354" xml:id="s354" facs="adl/brorson/brorson3/bror3354"/>
+                  <p xml:id="idm140139960718128">Christium Phil. 4. de qvibus verbis eleganter Bernhard: Qvidni,
+									inqvit, omnia possibilia sunt innitenti super eum, qvi omnia
+									potest? qvantæ fiduciæ vox: omnia possum in
+									eo, qvi me confortat? nil omnipotentiam verbi clariorem reddit,
+									qvam qvod omnipotentes facit omnes, qvi in se sperant. Deniqve
+									omnia possibilia sunt credenti Marc. IX. Annon omnipotens, cui
+									omnia possibilia sunt? ita animus, si non præsumat de
+									se, sed si confortetur a verbo, poterit utiqve dominari sibi, ut
+									non dominetur ei omnis injustitia Psalm. CXVIII. Ita, inqvam,
+									verbo innixum &amp; indutum virtute ex alto, nulla vis,
+									nulla fraus, nulla jam illecebra poterit vel stantem dejicere,
+									vel subjicere dominantem, (b) Notum est Romanas variis
+									cognominibus distinctas fuisse legiones, habuerunt nempe pias,
+									fideles, fulminatrices, victrices. Boni autem milites Christi
+									meliori jure dicuntur non modo pii &amp; fideles,
+									fulminatrices &amp; victrices,<hi rend="sup" xml:id="idm140139960715312">1</hi>) sed
+									etiam soli invincibiles, id est, qvos (Rom. VIII,
+									37-39.) neqve mors, neqve vita, neqve Angeli, neqve
+									principatus, neqve virtutes, neqve instantia, neqve futura,
+									neqve altitudo, neqve profunditas, neqve aliqva Creatura alia
+									separabunt a dilectione Dei, qvæ in Christo Jesu
+									Domino nostro, cui eapropter cum Patre &amp; Spiritu Sancto
+									sit omnis gloria, laus &amp; honor in secula seculorum,
+									Amen.</p>
+                  <lg xml:id="idm140139960713792">
+                     <l xml:id="idm140139960713536">Hoc sub VEXILLO vivat Stirps Regia, regnum:</l>
+                     <l xml:id="idm140139960713088">Vive PATER PATRIÆ! jubilat omne tuum.</l>
+                  </lg>
+                  <p xml:id="idm140139960712480">(b) Bernhard sup. Cant. p. m. 184. Column. 4.<hi rend="sup" xml:id="idm140139960712160">2</hi>)</p>
+                  <note anchored="true" xml:id="idm140139960711408">
+                     <hi rend="sup" xml:id="idm140139960711008">1</hi>) Ved en uagtsomhed er <hi rend="italics" xml:id="idm140139960710352">fulminatrices, victrices</hi> ligesom et par linier ovenfor
+									kommet til at stå som femininum; ovenfor
+									hørte de 2 ord jo til <hi rend="italics" xml:id="idm140139960709408">legiones,</hi> men her til <hi rend="italics" xml:id="idm140139960708688">milites,</hi>
+									så der skulle have stået <hi rend="italics" xml:id="idm140139960707904">fulminatores, viciores.</hi>
+                  </note>
+                  <note anchored="true" xml:id="idm140139960707216">
+                     <hi rend="sup" xml:id="idm140139960706816">2</hi>) Citatet er fra Bernhard af Clairvaux,
+									Sermones super Cantica, Sermo 85. De fleste udgaver
+									læser i den første sætning <hi rend="italics" xml:id="idm140139960705888">possibilia sint innitenti;</hi> men nogle har
+										<hi rend="italics" xml:id="idm140139960705136">sunt</hi> som Brorson; derimod synes
+									læsemåden <hi rend="italics" xml:id="idm140139960704336">dominari
+									sui</hi> at være enerådende, medens Brorson
+									har <hi rend="italics" xml:id="idm140139960703536">sibi.</hi> Det er ikke lykkedes at finde
+									en udgave, hvor citatet står pag. 184. Bernardi Opera
+									omnia, Lugd. 1520, har det pag. 188, column. 4, og Op. ommia,
+									Paris. 1566, har det pag. 185, col. 4; men antagelsen af, at en
+									af disse udgaver har været brugt af Brorson, og at
+									paginatallet har en trykfejl, er usandsynlig, fordi der i begge
+									står <hi rend="italics" xml:id="idm140139960702096">sint</hi> (og <hi rend="italics" xml:id="idm140139960701376">sui</hi>). Intet af Bernhard i listen over
+									Brorsons auktion.</note>
+                  <pb n="355" xml:id="s355" facs="adl/brorson/brorson3/bror3355"/>
+                  <p xml:id="idm140139960699312">Teologisk afhandling om</p>
+                  <p xml:id="idm140139960698896">KIRKENS BANNER</p>
+                  <p xml:id="idm140139960698480">2. Mos. 17, 15,</p>
+                  <p xml:id="idm140139960698064">til minde om den eksempelløst store guddommelige
+									forsorg,</p>
+                  <p xml:id="idm140139960697536">hvorved</p>
+                  <p xml:id="idm140139960697120">Den højkongelige dansk-norske Majestæt</p>
+                  <p xml:id="idm140139960696640">den 16. okt. i året 1660</p>
+                  <p xml:id="idm140139960696192">efter at være ophøjet til enevælde
+									og største lykke</p>
+                  <p xml:id="idm140139960695664">gjorde den bedste begyndelse på et gyldent
+									århundrede,</p>
+                  <p xml:id="idm140139960695136">
+                     <hi rend="italics" xml:id="idm140139960694880">ved selve den højtidelige
+									fest</hi>
+                  </p>
+                  <p xml:id="idm140139960694000">den... okt. i året 1760,</p>
+                  <p xml:id="idm140139960693552">som</p>
+                  <p xml:id="idm140139960693168">
+                     <hi rend="italics" xml:id="idm140139960692912">vor ophøjede konge,</hi>
+                  </p>
+                  <p xml:id="idm140139960692064">FREDERIK DEN FEMTE</p>
+                  <p xml:id="idm140139960691648">FÆDRELANDETS FADER,</p>
+                  <p xml:id="idm140139960691200">har ønsket helliget til lov og pris for så
+									stor en guddommelig nåde,</p>
+                  <p xml:id="idm140139960690640">udgivet af</p>
+                  <p xml:id="idm140139960690224">HANS ADOLPH BRORSON</p>
+                  <p xml:id="idm140139960689808">biskop over Ribe stift.</p>
+                  <p xml:id="idm140139960689392">København, trykt hos Andreas Hartvig Godiche.</p>
+                  <note anchored="true" xml:id="idm140139960688896">Overarkivar, dr. theol. Bjørn Kornerup har vist
+									udgiveren den venlighed at gennemgå
+									oversættelsen.</note>
+                  <pb n="356" xml:id="s356" facs="adl/brorson/brorson3/bror3356"/>
+                  <p xml:id="idm140139960686784">Må trykkes.</p>
+                  <p xml:id="idm140139960686352">Til bekræftelse ifølge det teologiske
+									fakultets protokol.</p>
+                  <p xml:id="idm140139960685808">Hans Otho Bang, dr.</p>
+                  <pb n="357" xml:id="s357" facs="adl/brorson/brorson3/bror3357"/>
+                  <p xml:id="idm140139960684192">Den ophøjede monark,</p>
+                  <p xml:id="idm140139960683744">fædrelandets fader,</p>
+                  <p xml:id="idm140139960683296">den berømmeligste, allernådigste</p>
+                  <p xml:id="idm140139960682832">FREDERIK DEN FEMTE,</p>
+                  <p xml:id="idm140139960682416">konge</p>
+                  <p xml:id="idm140139960682000">til Danmark og Norge, de venders og goters,</p>
+                  <p xml:id="idm140139960681552">hertug til Slesvig, Holsten, Stormarn og Ditmarsken,</p>
+                  <p xml:id="idm140139960681104">greve til Oldenb. og Delmenhorst</p>
+                  <p xml:id="idm140139960680672">lykønskes</p>
+                  <p xml:id="idm140139960680256">til den enevældige regering, som af Gud underfuldt</p>
+                  <p xml:id="idm140139960679760">både er indstiftet og gennem et helt
+									århundrede bevaret,</p>
+                  <p xml:id="idm140139960679232">overøst med utallige velgerninger og prydet med den
+									sjældneste</p>
+                  <p xml:id="idm140139960678688">fredens lykke,</p>
+                  <p xml:id="idm140139960678272">af DERES KONGELIGE MAJESTÆTS</p>
+                  <p xml:id="idm140139960677808">mest hengivne og allerunderdanigste tjener</p>
+                  <p xml:id="idm140139960677360">
+                     <hi rend="italics" xml:id="idm140139960677104">H. A. BRORSON</hi>
+                  </p>
+                  <p xml:id="idm140139960676288">Den nye regeringsform er en fornyet skæbne for
+									danskerne; hovedets ære var altid lemmernes.<hi rend="sup" xml:id="idm140139960675808">1</hi>) Rigets glæde, o konge, og
+									Nordens bønner kappes om, hvem der først
+									med dig i spidsen kan overvinde himlen. Leve
+									kærligheden til fædreland, fred, fromhed og
+									retfærd!</p>
+                  <p xml:id="idm140139960674624">Lev længe, Frederik, som dit folks sol!</p>
+                  <note anchored="true" xml:id="idm140139960674144">
+                     <hi rend="sup" xml:id="idm140139960673744">1</hi>) Oversættelsen er her givet
+									efter forslag af P. Diderichsen, der henviser til, at datidens
+									interpunktionsmåde ikke kræver, at man
+									lægger vægt på, at komma mangler
+									efter linie 1 og står efter <hi rend="italics" xml:id="idm140139960672640">membrorum</hi> i linie 2. Lader man sig bestemme heraf,
+									må oversættelsen blive: <hi rend="italics" xml:id="idm140139960671776">Den nye regeringsform er en fornyet skæbne for de
+										danske lemmer; hovedets ære var altid til stede.
+										-</hi> Med <hi rend="italics" xml:id="idm140139960670832">hovedet</hi> menes
+									kongen, med <hi rend="italics" xml:id="idm140139960670096">lemmerne</hi>
+									undersåtterne.</note>
+                  <pb n="358" xml:id="s358" facs="adl/brorson/brorson3/bror3358"/>
+                  <pb n="359" xml:id="s359" facs="adl/brorson/brorson3/bror3359"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Grubleren.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid77252" decls="#biblid77252">
+            <head xml:id="idm140382754764624">GRUBLEREN.</head>
+            <lg xml:id="idm140382754764208">
+               <head xml:id="idm140382754763952">I</head>
+               <l xml:id="idm140382754763568">Lad mig sige</l>
+               <l xml:id="idm140382754763152">Dig Besked</l>
+               <l xml:id="idm140382754762736">Om mit Hjertes</l>
+               <l xml:id="idm140382754762320">Lønlighed.</l>
+            </lg>
+            <lg xml:id="idm140382754761776">
+               <head xml:id="idm140382754761520">II</head>
+               <l xml:id="idm140382754761136">Hvad mig glæder,</l>
+               <l xml:id="idm140382754760704">Hvad med Lyst</l>
+               <l xml:id="idm140382754760288">Oftest fylder</l>
+               <l xml:id="idm140382754759872">Dette Bryst.</l>
+            </lg>
+            <lg xml:id="idm140382754759328">
+               <head xml:id="idm140382754759072">III</head>
+               <l xml:id="idm140382754758688">Ingen Tummel,</l>
+               <l xml:id="idm140382754758272">Ingen Glands;</l>
+               <l xml:id="idm140382754757856">Ikke Ærens</l>
+               <l xml:id="idm140382754757440">Døde Krands.</l>
+            </lg>
+            <lg xml:id="idm140382754756880">
+               <head xml:id="idm140382754756624">IV</head>
+               <l xml:id="idm140382754756240">Ikke Venskabs</l>
+               <l xml:id="idm140382754755824">Milde Dyd;</l>
+               <l xml:id="idm140382754755408">Ikke Elskovs</l>
+               <l xml:id="idm140382754754992">Drukne Fryd.</l>
+            </lg>
+            <lg xml:id="idm140382754754448">
+               <head xml:id="idm140382754754192">V</head>
+               <l xml:id="idm140382754753808">Hvad mig glæder,</l>
+               <l xml:id="idm140382754753376">Hvad med Lyst</l>
+               <l xml:id="idm140382754752960">Oftest fylder</l>
+               <l xml:id="idm140382754752544">Dette Bryst:</l>
+            </lg>
+            <pb n="224" facs="adl/aarestrup/aare1/aare1224" xml:id="idm140382754752000"/>
+            <lg xml:id="idm140382754751184">
+               <head xml:id="idm140382754750928">VI</head>
+               <l xml:id="idm140382754750544">Er den stille,</l>
+               <l xml:id="idm140382754750128">Er den tro</l>
+               <l xml:id="idm140382754749712">Eftertankes</l>
+               <l xml:id="idm140382754749296">Dybe Ro.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

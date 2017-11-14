@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Agnete fra holmegaard</title>
+            <author>Baggesen, Jens</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140610052857920">
+                     <name xml:id="idm140610052857664">
+                        <surname xml:id="idm140610052857536">Baggesen</surname>, <forename xml:id="idm140610052857072">Jens</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140610052856784"> Blandede Digte. 2. Samling. - 1903</title>
+                  <pubPlace xml:id="idm140610052856480">København</pubPlace>
+                  <date xml:id="idm140610052855968">1889-1903</date>
+                  <biblScope>36-43</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid54942" decls="#biblid54942">
+            <body xml:id="idm140610052662528">
+               <pb n="37" xml:id="n37" facs="adl/baggesen/baggesen5/bagg5037"/>
+               <pb n="38" xml:id="n38" facs="adl/baggesen/baggesen5/bagg5038"/>
+               <pb n="39" xml:id="n39" facs="adl/baggesen/baggesen5/bagg5039"/>
+               <pb n="40" xml:id="n40" facs="adl/baggesen/baggesen5/bagg5040"/>
+               <pb n="41" xml:id="n41" facs="adl/baggesen/baggesen5/bagg5041"/>
+               <pb n="42" xml:id="n42" facs="adl/baggesen/baggesen5/bagg5042"/>
+               <pb n="43" xml:id="n43" facs="adl/baggesen/baggesen5/bagg5043"/>
+               <p xml:id="idm140610052654176"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

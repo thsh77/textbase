@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>H. f. feilberg.</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139850578428432">
+                     <name xml:id="idm139850578428176">
+                        <surname xml:id="idm139850578428048">Aakjær</surname>, <forename xml:id="idm139850578427616">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139850578427328"> Digte 1908-1918. - 1918</title>
+                  <pubPlace xml:id="idm139850578427024">København</pubPlace>
+                  <pubPlace xml:id="idm139850578426560">Kristiania</pubPlace>
+                  <publisher xml:id="idm139850578426096">Gyldendal</publisher>
+                  <date xml:id="idm139850578425760">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid68885" decls="#biblid68885">
+            <head xml:id="idm139850576449552">
+               <hi rend="italics" xml:id="idm139850576449424"><!--<emph>-->H. F. FEILBERG<!--</emph--></hi>.</head>
+            <lg xml:id="idm139850576448256">
+               <l xml:id="idm139850576448000">SAA do bløw føj her mødt i Høst</l>
+               <l xml:id="idm139850576447536">mell aall Guds gued Gawer,</l>
+               <l xml:id="idm139850576447104">og fæk dérfræ den skjønne Lyst</l>
+               <l xml:id="idm139850576446640">aa sammel Nieg i Trawer!</l>
+            </lg>
+            <lg xml:id="idm139850576446080">
+               <l xml:id="idm139850576445824">Den Stak, do saatt paa Jyllands Towt</l>
+               <l xml:id="idm139850576445392">med Nieg fræ <hi rend="italics" xml:id="idm139850576445088">Slett</hi> te <hi rend="italics" xml:id="idm139850576444400">Slien</hi>,</l>
+               <l xml:id="idm139850576443584">vil fyld wal paa wor Muers Lowt,</l>
+               <l xml:id="idm139850576443152">og der er Drywsel i'en.</l>
+            </lg>
+            <trailer xml:id="idm139850576442608">
+               <date xml:id="idm139850576442480">4/8 1911</date>.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

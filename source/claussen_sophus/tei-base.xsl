@@ -26,13 +26,13 @@
   </xsl:template>
 
   <!--text part -->
-  <xsl:template match="//tei:group/tei:text/tei:group/tei:text[1]/tei:body//tei:div[tei:head]">
+  <xsl:template match="//tei:group/tei:text[9]/tei:body//tei:div[tei:head]">
     <xsl:variable name="from-page" select=".//tei:pb/@n"/>
     <xsl:variable name="work-title">
       <xsl:value-of
         select="lower-case(replace((tei:head/normalize-space(string())), ' ', '-'))"/>
     </xsl:variable>
-    <xsl:result-document href="claussen_sophus/fabler/{$work-title}_{generate-id()}.xml">
+    <xsl:result-document href="claussen_sophus/heroica/09/{$work-title}_{generate-id()}.xml">
       <TEI>
         <teiHeader>
           <fileDesc>

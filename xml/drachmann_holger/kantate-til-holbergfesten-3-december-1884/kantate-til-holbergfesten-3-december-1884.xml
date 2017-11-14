@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kantate til holbergfesten 3. december 1884</title>
+            <author>Drachmann, Holger</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140702591009808">
+                     <name xml:id="idm140702591009552">
+                        <surname xml:id="idm140702591009424">Drachmann</surname>, <forename xml:id="idm140702591008992">Holger</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140702591008704">Samlede poetiske Skrifter</title>
+                  <pubPlace xml:id="idm140702591008400">Kbh. &amp; Kristiania</pubPlace>
+                  <date xml:id="idm140702591007776">1906-1909</date>
+                  <biblScope>44-48</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid53727" decls="#biblid53727">
+            <body xml:id="idm140702590916688">
+               <pb n="45" facs="adl/drachmann/drachmann07/drac07045" xml:id="idm140702590916432"/>
+               <pb n="46" facs="adl/drachmann/drachmann07/drac07046" xml:id="idm140702590915664"/>
+               <pb n="47" facs="adl/drachmann/drachmann07/drac07047" xml:id="idm140702590914896"/>
+               <pb n="48" facs="adl/drachmann/drachmann07/drac07048" xml:id="idm140702590914128"/>
+               <p xml:id="idm140702590913360"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

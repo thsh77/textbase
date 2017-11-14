@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Frieri.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62482" decls="#biblid62482">
+            <head xml:id="idm139731448994896">Frieri.</head>
+            <lg xml:id="idm139731448994480">
+               <l xml:id="idm139731448994224">Alene vi gik i den grønne Skov,</l>
+               <l xml:id="idm139731448993760">hun og jeg;</l>
+               <l xml:id="idm139731448993344">alle smaa Fugle paa Kvisten sov,</l>
+               <l xml:id="idm139731448992912">vi hørte kun Gangerens trampende Hov</l>
+               <l xml:id="idm139731448992432">fra den støvede Vej.</l>
+               <l xml:id="idm139731448991984">Saa tause vi gik vinder Stjernetavl</l>
+               <l xml:id="idm139731448991552">den ganske Vej.</l>
+               <pb n="65" xml:id="s65" facs="adl/richardt/richardt1/rich1065"/>
+               <l xml:id="idm139731448989936">Alt blinkede Husets hvide Gavl,</l>
+               <l xml:id="idm139731448989504">men jeg er nu saadan' et underligt Skravl,</l>
+               <l xml:id="idm139731448989056">skal jeg sige Dig.</l>
+            </lg>
+            <lg xml:id="idm139731448988512">
+               <l xml:id="idm139731448988256">Da gjøede Hunden, som havde Vagt</l>
+               <l xml:id="idm139731448987792">Hjemmet nær;</l>
+               <l xml:id="idm139731448987360">det gjaldt at tage Tiden iagt,</l>
+               <l xml:id="idm139731448986928">og endelig fik jeg da Ordet sagt:</l>
+               <l xml:id="idm139731448986496">Det er dejligt Vær!</l>
+            </lg>
+            <lg xml:id="idm139731448985920">
+               <l xml:id="idm139731448985664">Men Præsten kom, og vi blev tre</l>
+               <l xml:id="idm139731448985200">paa vor Vej;</l>
+               <l xml:id="idm139731448984784">han kom for tidligt, vil Du see!</l>
+               <l xml:id="idm139731448984352">Vi var og blev kun et Par in spe,</l>
+               <l xml:id="idm139731448983920">hun og jeg.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Latinsk sørgedigt [1697?]</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015369092032">
+                     <name xml:id="idm140015369091776">
+                        <surname xml:id="idm140015369091648">Kingo</surname>,
+      <forename xml:id="idm140015369091200">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015369090912">Samlede skrifter 2</title>
+                  <pubPlace xml:id="idm140015369090624">København</pubPlace>
+                  <publisher xml:id="idm140015369090192">Munksgaard</publisher>
+                  <date xml:id="idm140015369089856">1939-74.</date>
+                  <biblScope>227-228</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid79968" decls="#biblid79968">
+            <front xml:id="idm140015365892304">
+               <pb n="226" facs="adl/kingo/kingo2/king2226" xml:id="idm140015365892048"/>
+            </front>
+            <pb n="227" facs="adl/kingo/kingo2/king2227" xml:id="idm140015365891152"/>
+            <body xml:id="idm140015365890336">
+               <lg xml:id="idm140015365890080">
+                  <l xml:id="idm140015365889824">Heus! pete, FAMA, polos, vastumq; effusa per orbem,</l>
+                  <l xml:id="idm140015365889376">Remigiô alarum, qvà patet aura, vola,</l>
+                  <l xml:id="idm140015365888896">Æternos tuba prompta sonet resonetqve triumfos,</l>
+                  <l xml:id="idm140015365888448">Amplaq;victrici parta trophæa manu!</l>
+                  <l xml:id="idm140015365887968">Qvas lauros palmasq; tulit GENEROSUS JULUS</l>
+                  <l xml:id="idm140015365887520">Buccina veridicô gutture mota tonet.</l>
+                  <l xml:id="idm140015365887040">Agmina die qvoties rostrata in Tethyos arvis</l>
+                  <l xml:id="idm140015365886592">Duxerit intrepidô pectore, forte manu,</l>
+                  <l xml:id="idm140015365886112">Vectus aqvis inter fluitantes æqvore sylvas,</l>
+                  <l xml:id="idm140015365885616">Et portentosas ignivomasq; rates.</l>
+                  <l xml:id="idm140015365885184">Qvot numerô naves, dices tot adesse CHIMÆRAS,</l>
+                  <l xml:id="idm140015365884688">Inq; CODANONIIS nidificasse FRETIS! || </l>
+                  <l xml:id="idm140015365884256">BELLEROPHON sed JULUS eas vel, vindice dextrâ</l>
+                  <l xml:id="idm140015365883760">Captivas duxit, mersit, abegit ovans.</l>
+                  <l xml:id="idm140015365883328">Sic JOVE dante redit VICTOR, provolvere pronus</l>
+                  <l xml:id="idm140015365882880">Ad JOVIS ARCTOI clara trophæa pedes.</l>
+                  <l xml:id="idm140015365882400">Insere, FAMA, Viros fastis durabilis ævi,</l>
+                  <l xml:id="idm140015365881920">In magnis primum qvi meruêre locum.</l>
+                  <l xml:id="idm140015365881440">Jactet ROMA suos FABIOS fortesq; CAMILLOS,</l>
+                  <l xml:id="idm140015365880992">Enumeret GALLUS Nomina magna DUCUM.</l>
+                  <l xml:id="idm140015365880560">HISPANI, BATAVI, &amp; reliqva cum gente, BRITANNI</l>
+                  <l xml:id="idm140015365880032">HEROAS monstrent indomitosqve VIROS!</l>
+                  <l xml:id="idm140015365879600">Emineant vecti nitidis super astra Qvadrigis!</l>
+                  <l xml:id="idm140015365879152">CONTIGUUS summis DANUS JULUS erit. || (</l>
+                  <l xml:id="idm140015365878720">Intra, FAMA, polos, veterisq; INSIGNIA stirpis</l>
+                  <l xml:id="idm140015365878272">STELLAS da Superis, a JOVE pauca petes,</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015365877712">
+                  <hi rend="italics" xml:id="idm140015365877072">Tekstgrundlag:   P. Jesper søn,   Ligprædiken   over   Niels Juel  (1699)</hi> 
+8 forte] forte, A</note>
+               <pb n="228" facs="adl/kingo/kingo2/king2228" xml:id="idm140015365876096"/>
+               <lg xml:id="idm140015365875280">
+                  <l xml:id="idm140015365875024">Scilicet: ut meritis radiet VICTORIS JULI</l>
+                  <l xml:id="idm140015365874576">STRENUA PROGENIES, has imitata FACES !</l>
+                  <l xml:id="idm140015365874144">UNA, Tridentiferi qvæ lucet ad æqvora Regni</l>
+                  <l xml:id="idm140015365873648">Ut micet ARCTOIS utile sidus aqvis!</l>
+                  <l xml:id="idm140015365873216">ALTERA, qvæ geminis lucet suffulta LACERTIS,</l>
+                  <l xml:id="idm140015365872720">Offerat ut COELIS, qvod tribuêre, Jubar!</l>
+                  <l xml:id="idm140015365872240">Donec in astriferô rutilans figatur OLYMPÔ</l>
+                  <l xml:id="idm140015365871744">FIXAqve MAGNANIMIS sit CYNOSURA VIRIS.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015365871184">1 Scilicet:] Scilicet; A</note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

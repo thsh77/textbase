@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Med foraarets nytaarsgave</title>
+            <author>Hertz, Henrik</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139668653829872">
+                     <name xml:id="idm139668653829616">
+                        <surname xml:id="idm139668653829488">Hertz</surname>, <forename xml:id="idm139668653829056">Henrik</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139668653828768">Digte fra forskjellige Perioder</title>
+                  <pubPlace xml:id="idm139668653828464">København</pubPlace>
+                  <date xml:id="idm139668653827952">1851-1862</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid76398" decls="#biblid76398">
+            <head xml:id="idm139668653793760">Med »Foraarets Nytaarsgave.«</head>
+            <stage type="mix" xml:id="idm139668653793296">Febr. 1850.</stage>
+            <lg xml:id="idm139668653792640">
+               <l xml:id="idm139668653792384">Det er nu anden Gang, at denne Bog</l>
+               <l xml:id="idm139668653792000">Til Dem, Veninde, hen sig Vender</l>
+               <l xml:id="idm139668653791616">Og anden Gang i Digtekunstens Sprog</l>
+               <l xml:id="idm139668653791232">En Hilsen mine Musers Sværm Dem sender.</l>
+            </lg>
+            <lg xml:id="idm139668653790624">
+               <l xml:id="idm139668653790368">Som dengang Deres Moders milde Aand</l>
+               <l xml:id="idm139668653789984">Gav Hjemmets Lykke</l>
+               <l xml:id="idm139668653789568">Et ubemærket, men det bedste Smykke,</l>
+               <l xml:id="idm139668653789088">Og bandt os blidt med et usynligt Baand,</l>
+               <l xml:id="idm139668653788640">Saaleded nu, i Taarepilens Skygge,</l>
+               <l xml:id="idm139668653788256">I hendes nys forladte Hjem,</l>
+               <l xml:id="idm139668653787872">Seg seer med stille Glæde Dem at bygge,</l>
+               <l xml:id="idm139668653787392">Og hendes Mildheds Aand gaae ud fra Dem.</l>
+            </lg>
+            <pb n="252" xml:id="s252" facs="adl/hertz/hertz10/hertz10252"/>
+            <lg xml:id="idm139668653785680">
+               <l xml:id="idm139668653785424">En opløst Kjede</l>
+               <l xml:id="idm139668653784992">Paany forskjønnet knyttes allerede.</l>
+               <l xml:id="idm139668653784512">En yngre Slægt paany</l>
+               <l xml:id="idm139668653784064">Fortryller mig i denne Mildheds Ly.</l>
+               <l xml:id="idm139668653783680">Den ældre Tid, der end min Hu kan binde</l>
+               <l xml:id="idm139668653783200">Og i Erindrings Lyst mig rive hen,</l>
+               <l xml:id="idm139668653782816">Maa nu som Led igjen</l>
+               <l xml:id="idm139668653782400">I en forynget Tid forsvinde,</l>
+               <l xml:id="idm139668653782016">Og det Nærende sig former nu til Minde.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

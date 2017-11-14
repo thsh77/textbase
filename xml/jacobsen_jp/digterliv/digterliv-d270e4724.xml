@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digterliv.</title>
+            <author>Jacobsen, J. P.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140562724137168">
+                     <name xml:id="idm140562724136912">
+                        <surname xml:id="idm140562724136784">Jacobsen</surname>,
+      <forename xml:id="idm140562724136336">J. P.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140562724135872">Samlede Værker
+      IV</title>
+                  <title xml:id="idm140562724135424">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title>
+                  <pubPlace xml:id="idm140562724135168">København</pubPlace>
+                  <date xml:id="idm140562724134736">1924-29</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid64177" decls="#biblid64177">
+            <head xml:id="idm140562722880016">DIGTERLIV.</head>
+            <lg xml:id="idm140562722879600">
+               <l xml:id="idm140562722879344">De gamle Eventyr fortælle</l>
+               <l xml:id="idm140562722878896">Os om den stakkels Askepot</l>
+               <l xml:id="idm140562722878464">Og om de himmelsk gode Feer</l>
+               <l xml:id="idm140562722878032">Som komme og gjør Alting godt,</l>
+               <l xml:id="idm140562722877568">Saa at den stille lille Pige</l>
+               <l xml:id="idm140562722877136">Faar Prindsen og det halve Rige.</l>
+            </lg>
+            <lg xml:id="idm140562722876576">
+               <l xml:id="idm140562722876320">De gode Feer nemlig trylle</l>
+               <l xml:id="idm140562722875888">Hver Taare til en Perle tung,</l>
+               <l xml:id="idm140562722875456">Og hendes lyse Smil det folde [?]</l>
+               <l xml:id="idm140562722875024">De til en Rose fin og ung.</l>
+               <l xml:id="idm140562722874592">Og derved faar den lille Pige</l>
+               <l xml:id="idm140562722874160">Nu Prindsen og det halve Rige.</l>
+            </lg>
+            <lg xml:id="idm140562722873600">
+               <l xml:id="idm140562722873344">Men intet Eventyr fortæller,</l>
+               <l xml:id="idm140562722872880">Hvad Kval der blev paa Pigen lagt,</l>
+               <l xml:id="idm140562722872448">Hvis Kinder ingen Graad forfrisked,</l>
+               <l xml:id="idm140562722872016">Hvis Smil kun blev en Roses Pragt,</l>
+               <l xml:id="idm140562722871584">Om hun fandt Trøst den lille Pige</l>
+               <l xml:id="idm140562722871120">I Prindsen og det halve Rige.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

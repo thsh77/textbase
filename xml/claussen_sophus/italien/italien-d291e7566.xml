@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Italien</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140264665681152">
+                     <name xml:id="idm140264665680896">
+                        <surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140264665680016">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140264665679728">: </title>
+                  <pubPlace xml:id="idm140264665679472">[København]</pubPlace>
+                  <publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140264665678640">1982-</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid70623" decls="#biblid70623">
+            <head xml:id="idm140264663485072">
+               <hi rend="italics" xml:id="idm140264663484816">ITALIEN</hi>
+            </head>
+            <lg xml:id="idm140264663484000">
+               <l xml:id="idm140264663483744">Jeg kvidred hendes Litani og Noder,</l>
+               <l xml:id="idm140264663483360">min højlig elskede, saa stolt og streng . . .</l>
+               <l xml:id="idm140264663482864">men savned fjærnt min Ungdoms grønne Seng</l>
+               <l xml:id="idm140264663482384">ved Jordens Bryst, vor evig frie Moder.</l>
+            </lg>
+            <lg xml:id="idm140264663481872">
+               <l xml:id="idm140264663481616">Blandt Fortidsstæders Støv, berømte Floder,</l>
+               <l xml:id="idm140264663481120">der svandt i deres altfor brede Seng,</l>
+               <l xml:id="idm140264663480736">jeg gik og drømte Yppighed og Eng,</l>
+               <l xml:id="idm140264663480272">de fyldte Have, foraarsgrønne Kloder.</l>
+            </lg>
+            <lg xml:id="idm140264663479664">
+               <l xml:id="idm140264663479408">Hun havde givet mig et gyldent Bælte,</l>
+               <l xml:id="idm140264663478928">spændt mig min Elskovs sølvblaa Rustning om</l>
+               <l xml:id="idm140264663478432">og bedt mig gaa til Rom som andre Helte.</l>
+            </lg>
+            <lg xml:id="idm140264663477856">
+               <l xml:id="idm140264663477600">Jeg bar den trange Brynje helt til Rom;</l>
+               <l xml:id="idm140264663477216">der krængte jeg den af mig ufortrøden.</l>
+            </lg>
+            <trailer xml:id="idm140264663476608">
+               <hi rend="italics" xml:id="idm140264663476352">Ræk mig igen min Rustning - ræk mig Døden!</hi>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

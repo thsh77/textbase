@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kjærlighed.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid89168" decls="#biblid89168">
+            <head xml:id="idm140352319414656">Kjærlighed.</head>
+            <lg xml:id="idm140352319414224">
+               <l xml:id="idm140352319413968">»Kjærlighed er Lovens Fylde«,</l>
+               <l xml:id="idm140352319413536">er Guds Lov i Blomsterskrift;</l>
+               <l xml:id="idm140352319413104">kommer ej med Flammetorden</l>
+               <l xml:id="idm140352319412672">men med Foraarsvindens Vift.</l>
+            </lg>
+            <lg xml:id="idm140352319412112">
+               <l xml:id="idm140352319411856">Kjærligheden er en Rose,</l>
+               <l xml:id="idm140352319411408">fuld og duftende og rig;</l>
+               <l xml:id="idm140352319410976">Pligten er det grønne Bæger</l>
+               <l xml:id="idm140352319410512">under Kjærlighedens Flig.</l>
+            </lg>
+            <lg xml:id="idm140352319409936">
+               <l xml:id="idm140352319409680">Kjærligheden er som Havet,</l>
+               <l xml:id="idm140352319409232">gjør med Sang sit Hverdagsværk;</l>
+               <l xml:id="idm140352319408768">den har Byrder nok at bære,</l>
+               <l xml:id="idm140352319408304">men den er saa bølgestærk.</l>
+            </lg>
+            <pb n="282" facs="adl/richardt/richardt2/rich2282" xml:id="idm140352319407712"/>
+            <lg xml:id="idm140352319406944">
+               <l xml:id="idm140352319406688">Kjærlighed har Vaarens Solblink,</l>
+               <l xml:id="idm140352319406224">Somrens Fylde, Høstens Fred,</l>
+               <l xml:id="idm140352319405760">kjender kun af Vintren Hvilen,</l>
+               <l xml:id="idm140352319405328">- falmer ej i Evighed.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

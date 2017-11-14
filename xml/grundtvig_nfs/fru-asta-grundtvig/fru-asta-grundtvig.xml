@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fru asta grundtvig</title>
+            <author>Grundtvig, N. F. S.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139947089396064">
+                     <name xml:id="idm139947089395808">
+                        <surname xml:id="idm139947089395680">Grundtvig</surname>, <forename xml:id="idm139947089395248">N. F. S.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139947089394992">N. F. S. Grundtvigs udvalgte Skrifter</title>
+                  <pubPlace xml:id="idm139947089394688">København</pubPlace>
+                  <publisher xml:id="idm139947089394224">Gyldendalske Boghandel</publisher>
+                  <date xml:id="idm139947089393888">1904-1909</date>
+                  <biblScope>485-489</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid128527" decls="#biblid128527">
+            <front xml:id="idm139947080424544">
+               <titlePage xml:id="idm139947080424288">
+                  <titlePart type="main" xml:id="idm139947080424032">FRU ASTA GRUNDTVIG.</titlePart>
+               </titlePage>
+               <div xml:id="idm139947080423216">
+                  <p xml:id="idm139947080422960">GRUNDTVIG blev den 16. April 1858 gift med Asta <hi rend="italics" xml:id="idm139947080422640"><!--<emph>-->Tugendreich Adelheid<!--</emph>--></hi>, født Komtesse
+								<hi rend="italics" xml:id="idm139947080421536"><!--<emph>-->Krag Juel Vind
+							Frijs<!--</emph>--></hi>, der var Enke efter Kammerherre <hi rend="italics" xml:id="idm139947080420464"><!--<emph>-->Holger Reedtz<!--</emph>--></hi> til
+							Palsgaard. Hun var født den 12. Marts 1826. Indtil sit andet Giftermaal
+							blev hun kaldt <hi rend="italics" xml:id="idm139947080419232"><!--<emph>-->Adelheid<!--</emph>--></hi>, men Grundtvig kaldte hende
+								<hi rend="italics" xml:id="idm139947080418176"><!--<emph>-->Asta<!--</emph>--></hi> og udlagde
+							dette Navn som »Kærlighed«. - I Sommeren 1860 fødte hun
+							Datteren <hi rend="italics" xml:id="idm139947080416960"><!--<emph>-->Asta Marie
+								Elisabeth<!--</emph>--></hi>, der siden blev gift med Læge, Dr. <hi rend="italics" xml:id="idm139947080415840"><!--<emph>-->Kristian Poulsen<!--</emph>--></hi>.
+							- Fru Grundtvig døde d. 5. Oktober 1890.</p>
+                  <p xml:id="idm139947080414592">Det er Fru Asta Grundtvigs Fortjeneste, at Oldingen fik et hyggeligt Hjem
+							paa sine sidste Dage, og at dette Hjem kom til at staa aabent for en
+							stor Kreds af hans Venner. Det var vel ogsaa hende, der fik de store
+							»Vennemøder« sat i Gang fra 1863 til Grundtvigs Død.</p>
+                  <p xml:id="idm139947080413616">Som Prøve paa, hvorledes Grundtvig priste hende i Sang, skal her meddeles
+							tre Digte, der tidligere har været trykte i »Mindeblade om Fru Asta
+							Grundtvig« (1891).</p>
+               </div>
+            </front>
+            <body xml:id="idm139947080412608">
+               <div xml:id="idm139947080412352">
+                  <head xml:id="idm139947080412096">Til min Asta.<lb xml:id="idm139947080411840"/> (1858.)</head>
+                  <lg xml:id="idm139947080411424">
+                     <l xml:id="idm139947080411168">
+                        <hi rend="bold" xml:id="idm139947080411040">U</hi>nderligt er vort jævne Land,</l>
+                     <l xml:id="idm139947080410128">Alfer omsvæve dets Skove,</l>
+                     <l xml:id="idm139947080409680">Og under Fuglesang ved Strand</l>
+                     <l xml:id="idm139947080409248">Havfruer dandse paa Vove;</l>
+                     <l xml:id="idm139947080408816">Særsynet kommer som en Tyv,</l>
+                     <l xml:id="idm139947080408352">Skov! fra Dit Skjul og Havets Dyb!</l>
+                  </lg>
+                  <pb n="486" xml:id="s486" facs="adl/grundtvig/grundtvig10/grun10486"/>
+                  <lg xml:id="idm139947080406592">
+                     <l xml:id="idm139947080406336">Kvindeligt er vort Modersmaa,</l>
+                     <l xml:id="idm139947080405904">Skjoldmø kun der under Vaaben,</l>
+                     <l xml:id="idm139947080405440">Kraften er Kys og Dyden Taal,</l>
+                     <l xml:id="idm139947080405008">Vid titter ud under Kaaben,</l>
+                     <l xml:id="idm139947080404576">Som i et Moderskiød ogsaa</l>
+                     <l xml:id="idm139947080404128">Mylrer det tit af Skjalde smaa!</l>
+                  </lg>
+                  <lg xml:id="idm139947080403568">
+                     <l xml:id="idm139947080403312">Lykkelig er den lille Skjald,</l>
+                     <l xml:id="idm139947080402880">Graalig med Lærkernes Tunge,</l>
+                     <l xml:id="idm139947080402416">Thi for hans Vugge, Tre i Tal,</l>
+                     <l xml:id="idm139947080401984">Alfernes Norner, de sjunge:</l>
+                     <l xml:id="idm139947080401552">Hvad dig end brister, op og ned,</l>
+                     <l xml:id="idm139947080401120">Vis er Dig <hi rend="italics" xml:id="idm139947080400832"><!--<emph>-->Kvindens
+									Kiærlighed<!--</emph>--></hi>.</l>
+                  </lg>
+                  <lg xml:id="idm139947080399488">
+                     <l xml:id="idm139947080399232">
+                        <hi rend="italics" xml:id="idm139947080399104"><!--<emph>-->Søsterlig<!--</emph>--></hi> var min
+								første Viv,</l>
+                     <l xml:id="idm139947080397888">Duftende sødt som Violen,</l>
+                     <l xml:id="idm139947080397440">Sjelden et meer <hi rend="italics" xml:id="idm139947080397184"><!--<emph>-->idyllisk<!--</emph>--></hi> Liv</l>
+                     <l xml:id="idm139947080396016">Leves der nu under Solen,</l>
+                     <l xml:id="idm139947080395584">End, under smaa, men smukke Kaar,</l>
+                     <l xml:id="idm139947080395152">Vores fra Jul til Efteraar!</l>
+                  </lg>
+                  <lg xml:id="idm139947080394592">
+                     <l xml:id="idm139947080394336">
+                        <hi rend="italics" xml:id="idm139947080394208"><!--<emph>-->Moderlig<!--</emph>--></hi> var min
+								anden Viv,</l>
+                     <l xml:id="idm139947080392992">Funklende som Ædelstenen,</l>
+                     <l xml:id="idm139947080392544">Det var et boldt <hi rend="italics" xml:id="idm139947080392288"><!--<emph>-->romantisk<!--</emph>--></hi> Liv,</l>
+                     <l xml:id="idm139947080391120">
+                        <hi rend="italics" xml:id="idm139947080390992"><!--<emph>-->Artemis<!--</emph>--></hi> spandt
+								paa Guldtenen,</l>
+                     <l xml:id="idm139947080389776">I hendes Skiød et Barn paany</l>
+                     <l xml:id="idm139947080389312">Sang jeg og græd i høien Sky!</l>
+                  </lg>
+                  <lg xml:id="idm139947080388720">
+                     <l xml:id="idm139947080388464">
+                        <hi rend="italics" xml:id="idm139947080388336"><!--<emph>-->Datterlig<!--</emph>--></hi> er min
+								tredje Viv,</l>
+                     <l xml:id="idm139947080387152">Svævende for mig som Feen,</l>
+                     <l xml:id="idm139947080386704">Det er et <hi rend="italics" xml:id="idm139947080386448"><!--<emph>-->æventyrligt<!--</emph>--></hi> Liv,</l>
+                     <l xml:id="idm139947080385280">Roser udspringe paa Sneen,</l>
+                     <l xml:id="idm139947080384848">Ungdom og Ælde lege Skjul,</l>
+                     <l xml:id="idm139947080384400">Lege om Kys og Kage Jul!</l>
+                  </lg>
+               </div>
+               <pb n="487" xml:id="s487" facs="adl/grundtvig/grundtvig10/grun10487"/>
+               <div xml:id="idm139947080382576">
+                  <head xml:id="idm139947080382320">Til Asta-Moderen, Fru Asta.<lb xml:id="idm139947080382016"/> (12. Marts 1865.)</head>
+                  <lg xml:id="idm139947080381600">
+                     <l xml:id="idm139947080381344">
+                        <hi rend="bold" xml:id="idm139947080381216">T</hi>allet »<hi rend="italics" xml:id="idm139947080380528"><!--<emph>-->Syv<!--</emph>--></hi>« fra gamle Dage</l>
+                     <l xml:id="idm139947080379360">Fra den første »<hi rend="italics" xml:id="idm139947080379056"><!--<emph>-->Hviledag<!--</emph>--></hi>«</l>
+                     <l xml:id="idm139947080377888">Helligholdtes uden Mage</l>
+                     <l xml:id="idm139947080377472">Under Telt og under Tag;</l>
+                     <l xml:id="idm139947080377040">Derfor og ved Bryllups-Gilde</l>
+                     <l xml:id="idm139947080376608">Fordum Bryllups-Glædens Kilde</l>
+                     <l xml:id="idm139947080376144">Sprudled fast i <hi rend="italics" xml:id="idm139947080375856"><!--<emph>-->Dage
+									syv<!--</emph>--></hi>!</l>
+                  </lg>
+                  <lg xml:id="idm139947080374560">
+                     <l xml:id="idm139947080374304">For et gammelt Ord dog giælder,</l>
+                     <l xml:id="idm139947080373840">At i <hi rend="italics" xml:id="idm139947080373584"><!--<emph>-->syv<!--</emph>--></hi> samfulde
+									<hi rend="italics" xml:id="idm139947080372544"><!--<emph>-->Aar<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm139947080371376">Ikke, som Forfaring melder,</l>
+                     <l xml:id="idm139947080370944">Som i <hi rend="italics" xml:id="idm139947080370688"><!--<emph>-->Dage syv<!--</emph>--></hi> det
+								gaar,</l>
+                     <l xml:id="idm139947080369520">Og, naar man skal skrifte Sanden,</l>
+                     <l xml:id="idm139947080369088">Allermindst i Ægtestanden:</l>
+                     <l xml:id="idm139947080368640">Klærlighedens Rosengaard.</l>
+                  </lg>
+                  <lg xml:id="idm139947080368064">
+                     <l xml:id="idm139947080367808">Prise maa vi da vor Lykke,</l>
+                     <l xml:id="idm139947080367376">Først og sidst dog prise Gud,</l>
+                     <l xml:id="idm139947080366912">Som, til Trods for Verdens Tykke,</l>
+                     <l xml:id="idm139947080366480">Hos en Brudgom med sin Brud</l>
+                     <l xml:id="idm139947080366048">Det lod gaa paa Fødder svage</l>
+                     <l xml:id="idm139947080365584">Som i glade Bryllups-Dage,</l>
+                     <l xml:id="idm139947080365152">Saa i <hi rend="italics" xml:id="idm139947080364864"><!--<emph>-->syv<!--</emph>--></hi> samfulde
+									<hi rend="italics" xml:id="idm139947080363824"><!--<emph>-->Aar!<!--</emph>--></hi>
+                     </l>
+                  </lg>
+                  <lg xml:id="idm139947080362528">
+                     <l xml:id="idm139947080362272">Ja, de svunde, Aar som Dage,</l>
+                     <l xml:id="idm139947080361840">Sorger som den lette Sky,</l>
+                     <l xml:id="idm139947080361408">Og kun Glæden blev tilbage,</l>
+                     <l xml:id="idm139947080360944">Uforandret, altid ny,</l>
+                     <l xml:id="idm139947080360560">Som, neddalet fra det Høie,</l>
+                     <l xml:id="idm139947080360096">Den af lille <hi rend="italics" xml:id="idm139947080359808"><!--<emph>-->Astas<!--</emph>--></hi>
+								Øie</l>
+                     <l xml:id="idm139947080358592">Straaler ud med yndig Glands!</l>
+                  </lg>
+                  <pb n="488" xml:id="s488" facs="adl/grundtvig/grundtvig10/grun10488"/>
+                  <lg xml:id="idm139947080356816">
+                     <l xml:id="idm139947080356560">Gud ske Lov for Glæde-Speilet,</l>
+                     <l xml:id="idm139947080356096">Dannet ved Hans Aandepust,</l>
+                     <l xml:id="idm139947080355664">For det Haab, som ei har feilet,</l>
+                     <l xml:id="idm139947080355232">Klærligheden uden Rust,</l>
+                     <l xml:id="idm139947080354784">For de mange glade Dage,</l>
+                     <l xml:id="idm139947080354352">Som med Dig har lagt tilbage</l>
+                     <l xml:id="idm139947080353920">Oldingen paa Gravens Bred!</l>
+                  </lg>
+                  <lg xml:id="idm139947080353360">
+                     <l xml:id="idm139947080353104">Ja, kun i det fjerne Østen</l>
+                     <l xml:id="idm139947080352656">Blev vor Lykke overbudt,</l>
+                     <l xml:id="idm139947080352224">Da til <hi rend="italics" xml:id="idm139947080351936"><!--<emph>-->Vaaren<!--</emph>--></hi>
+								beiled <hi rend="italics" xml:id="idm139947080350896"><!--<emph>-->Høsten<!--</emph>--></hi>,</l>
+                     <l xml:id="idm139947080349728">
+                        <hi rend="italics" xml:id="idm139947080349600"><!--<emph>-->Boas<!--</emph>--></hi> gifted sig
+								med <hi rend="italics" xml:id="idm139947080348544"><!--<emph>-->Rut<!--</emph>--></hi>,</l>
+                     <l xml:id="idm139947080347408">Blev til Konger Arvelader,</l>
+                     <l xml:id="idm139947080346976">Blev til <hi rend="italics" xml:id="idm139947080346720"><!--<emph>-->David<!--</emph>--></hi>
+								Oldefader,</l>
+                     <l xml:id="idm139947080345552">Patriark til <hi rend="italics" xml:id="idm139947080345264"><!--<emph>-->Davids
+								Søn<!--</emph>--></hi> !</l>
+                  </lg>
+                  <lg xml:id="idm139947080343952">
+                     <l xml:id="idm139947080343696">Ordet ligger mig paa Tunge,</l>
+                     <l xml:id="idm139947080343264">Løber giennem Pennen let,</l>
+                     <l xml:id="idm139947080342816">At dog kiønt Smaafugle sjunge</l>
+                     <l xml:id="idm139947080342352">Skal engang om <hi rend="italics" xml:id="idm139947080342096"><!--<emph>-->Astas
+								Æt<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm139947080340912">Rigest mellem <hi rend="italics" xml:id="idm139947080340656"><!--<emph>-->Dannekvinder<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm139947080339488">Paa de elskeligste Minder,</l>
+                     <l xml:id="idm139947080339056">Mødre til det bedste Haab!</l>
+                  </lg>
+                  <trailer xml:id="idm139947080338480">Din gamle Skjald<lb xml:id="idm139947080338224"/>
+                     <hi rend="italics" xml:id="idm139947080337968"><!--<emph>-->N. F. S.
+						Grundtvig<!--</emph>--></hi>.</trailer>
+               </div>
+               <div xml:id="idm139947080336656">
+                  <head xml:id="idm139947080336400">Til min Fru Asta.<lb xml:id="idm139947080336144"/> (Mens Pennen endnu skælvede).<hi rend="sup" xml:id="idm139947080335808">1</hi>
+                  </head>
+                  <lg xml:id="idm139947080335056">
+                     <l xml:id="idm139947080334800">
+                        <hi rend="bold" xml:id="idm139947080334672">K</hi>un en Guds Engel</l>
+                     <l xml:id="idm139947080333856">Med Kvinde-Blik</l>
+                     <l xml:id="idm139947080333440">Finder i Ørken</l>
+                     <l xml:id="idm139947080333008">En Lædske-Drik,</l>
+                     <l xml:id="idm139947080332576">Kvinden med <hi rend="italics" xml:id="idm139947080332288"><!--<emph>-->Kiærligheds<!--</emph>--></hi> Navn!</l>
+                  </lg>
+                  <note anchored="true" xml:id="idm139947080330976">
+                     <hi rend="sup" xml:id="idm139947080330576">1</hi> Grundtvig var syg i Sommeren 1865.</note>
+                  <pb n="489" xml:id="s489" facs="adl/grundtvig/grundtvig10/grun10489"/>
+                  <lg xml:id="idm139947080328576">
+                     <l xml:id="idm139947080328320">Som en Guds Engel,</l>
+                     <l xml:id="idm139947080327904">Saa øm og blid,</l>
+                     <l xml:id="idm139947080327472">Lædsked Du Gubben</l>
+                     <l xml:id="idm139947080327040">I Trængsels-Tid;</l>
+                     <l xml:id="idm139947080326608">Derfor velsigne Dig Gud!</l>
+                  </lg>
+                  <lg xml:id="idm139947080326048">
+                     <l xml:id="idm139947080325792">Sommeren bragde</l>
+                     <l xml:id="idm139947080325376">Mig Vinter-Luft,</l>
+                     <l xml:id="idm139947080324960">Paa Dine Læber</l>
+                     <l xml:id="idm139947080324528">Var Rosen-Duft!</l>
+                     <l xml:id="idm139947080324112">Derfor velsigne Dig Gud!</l>
+                  </lg>
+                  <lg xml:id="idm139947080323552">
+                     <l xml:id="idm139947080323296">Længe jeg sanded</l>
+                     <l xml:id="idm139947080322864">Det Aar for Aar,</l>
+                     <l xml:id="idm139947080322448">Du i min Vinter</l>
+                     <l xml:id="idm139947080322032">Mig blev en Vaar!</l>
+                     <l xml:id="idm139947080321616">Derfor velsigne Dig Gud!</l>
+                  </lg>
+                  <lg xml:id="idm139947080321056">
+                     <l xml:id="idm139947080320800">Nylig, da strængest</l>
+                     <l xml:id="idm139947080320352">Blev Vinterlag,</l>
+                     <l xml:id="idm139947080319936">Du mig tilsmiled</l>
+                     <l xml:id="idm139947080319520">En Sommerdag!</l>
+                     <l xml:id="idm139947080319104">Derfor velsigne Dig Gud '</l>
+                  </lg>
+                  <lg xml:id="idm139947080318544">
+                     <l xml:id="idm139947080318288">Godt kan den taale</l>
+                     <l xml:id="idm139947080317872">At kvædes om,</l>
+                     <l xml:id="idm139947080317440">Med al sin <hi rend="italics" xml:id="idm139947080317152"><!--<emph>-->Glæde<!--</emph>--></hi>,</l>
+                     <l xml:id="idm139947080315984">Din <hi rend="italics" xml:id="idm139947080315728"><!--<emph>-->Christendom<!--</emph>--></hi>;</l>
+                     <l xml:id="idm139947080314560">Derfor velsigne Dig Gud!</l>
+                  </lg>
+                  <lg xml:id="idm139947080314000">
+                     <l xml:id="idm139947080313744">Godt kan Du bære</l>
+                     <l xml:id="idm139947080313312">Dit <hi rend="italics" xml:id="idm139947080313056"><!--<emph>-->Asta<!--</emph>--></hi>-Navn,</l>
+                     <l xml:id="idm139947080311888">Som liden <hi rend="italics" xml:id="idm139947080311600"><!--<emph>-->Asta<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm139947080310432">Du bær i Favn!</l>
+                     <l xml:id="idm139947080310000">Derfor velsigne Dig Gud !</l>
+                  </lg>
+                  <trailer xml:id="idm139947080309440">
+                     <hi rend="italics" xml:id="idm139947080309312"><!--<emph>-->N. F. S.
+						Grundtvig<!--</emph>--></hi>.</trailer>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

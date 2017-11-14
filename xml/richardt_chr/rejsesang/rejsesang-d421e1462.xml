@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rejsesang.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid56217" decls="#biblid56217">
+            <head xml:id="idm139731449773728">Rejsesang.<lb xml:id="idm139731449773440"/>(Til Upsalatoget 1856.)</head>
+            <lg xml:id="idm139731449773024">
+               <l xml:id="idm139731449772768">Paa mægtige Vinger mod Norden det gaar,</l>
+               <l xml:id="idm139731449772288">og det er en Rejse fra Vaar og til Vaar;</l>
+               <l xml:id="idm139731449771840">fra Bøgenes Skjærm, fra Konvallernes Flok,</l>
+               <l xml:id="idm139731449771344">til Birken, den Jomfru med flagrende Lok.</l>
+            </lg>
+            <lg xml:id="idm139731449770768">
+               <l xml:id="idm139731449770512">Didhen, hvor med Haabet vi styrede kjækt:</l>
+               <l xml:id="idm139731449770032">Fra Slægt og fra Venner til Venner og Slægt l</l>
+               <l xml:id="idm139731449769536">Fra Hverdagens taagede, tyngede Gang</l>
+               <l xml:id="idm139731449769104">til Flugt over Fjeldet, til Solskin og Sang!</l>
+            </lg>
+            <lg xml:id="idm139731449768528">
+               <l xml:id="idm139731449768272">Vor Bog lod vi ligge, men Uglen er med,</l>
+               <l xml:id="idm139731449767840">hun følger Studenten fra Sted og til Sted!</l>
+               <l xml:id="idm139731449767360">Og med os er Musernes venlige Krans,</l>
+               <l xml:id="idm139731449766928">thi vi er Studenter tillands og tilvands.</l>
+            </lg>
+            <lg xml:id="idm139731449766352">
+               <l xml:id="idm139731449766096">Saa bær os o »Hekla« fra Kyst og til Kyst!</l>
+               <l xml:id="idm139731449765600">Din Ild det er Ungdommens Længsel og Lyst,</l>
+               <l xml:id="idm139731449765120">din Lava de Toner, der rulle mod Land,</l>
+               <l xml:id="idm139731449764688">de fostre Kjærminder paa fremmede Strand.</l>
+            </lg>
+            <lg xml:id="idm139731449764080">
+               <l xml:id="idm139731449763824">Og Tonen er Tankens bevingede Tolk,</l>
+               <l xml:id="idm139731449763392">og Tanken er Hilsen fra Folk og til Folk,</l>
+               <l xml:id="idm139731449762944">og Hilsen er Pantet paa Brødren'es Pagt,</l>
+               <l xml:id="idm139731449762464">og Pagten er Fremtidens sikkreste Vagt!</l>
+            </lg>
+            <lg xml:id="idm139731449761904">
+               <l xml:id="idm139731449761648">Om Gud giver Lykke, da brister det ej,</l>
+               <l xml:id="idm139731449761216">da grønnes for Norden den fejreste Maj:</l>
+               <l xml:id="idm139731449760736">Ja Gud give Lykke, saa fremad det gaar</l>
+               <l xml:id="idm139731449760304">for Bøgen og Birken til lysere Vaar!</l>
+            </lg>
+            <pb n="11" xml:id="s11" facs="adl/richardt/richardt1/rich1011"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Smerte og trøst.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59663" decls="#biblid59663">
+            <head xml:id="idm140382756935520">SMERTE OG TRØST.</head>
+            <lg xml:id="idm140382756935088">
+               <l xml:id="idm140382756934832">Dybt smerter det vor Ven KOTILL,</l>
+               <l xml:id="idm140382756934400">At ei hans JUTTA sig forbedre vil;</l>
+               <l xml:id="idm140382756933968">Dog trøster det den arme Mand,</l>
+               <l xml:id="idm140382756933504">At hun sig ei forværre kan.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

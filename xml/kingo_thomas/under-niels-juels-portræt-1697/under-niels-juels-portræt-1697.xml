@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Under niels juels portræt [1697?]</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015369092032">
+                     <name xml:id="idm140015369091776">
+                        <surname xml:id="idm140015369091648">Kingo</surname>,
+      <forename xml:id="idm140015369091200">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015369090912">Samlede skrifter 2</title>
+                  <pubPlace xml:id="idm140015369090624">København</pubPlace>
+                  <publisher xml:id="idm140015369090192">Munksgaard</publisher>
+                  <date xml:id="idm140015369089856">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid79903" decls="#biblid79903">
+            <body xml:id="idm140015365900944">
+               <head xml:id="idm140015365900688">Under Niels Juels Portræt.</head>
+               <lg xml:id="idm140015365900240">
+                  <l xml:id="idm140015365899984">Bort SkyggeKunst, som Her NIELS JUEL vil eftertrykke,</l>
+                  <l xml:id="idm140015365899536">Du trefler ey Hans Siæls og Dyds og Mandoms Smykke,</l>
+                  <l xml:id="idm140015365899024">Naturen gaf Ham Skiold og Hielm ved Fødsels Ære,</l>
+                  <l xml:id="idm140015365898528">Gud selv jern-klædde Ham for Seyer at hiembære</l>
+                  <l xml:id="idm140015365898032">Fra hver Hans Fiendes Haand der maatte underskrive</l>
+                  <l xml:id="idm140015365897584">Hans Mandom med sit Blood, og i Hans Magt sig give;</l>
+                  <l xml:id="idm140015365897136">Nu triner Hand paa ald den Rustning Krigen eyer,</l>
+                  <l xml:id="idm140015365896688">Og i Triumf hos Gud udsiunger Herrens Seyer.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015365896112">
+                  <hi rend="italics" xml:id="idm140015365895344">Tekstgrundlag: Det originale Stik. Overskriften tilføjet af Udg. L. i er
+saaledes inddelt under Portrattet.</hi>
+               </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

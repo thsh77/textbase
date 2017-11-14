@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mit piletræ.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid92413" decls="#biblid92413">
+            <head xml:id="idm140352318999248">Mit Piletræ.</head>
+            <lg xml:id="idm140352318998816">
+               <l xml:id="idm140352318998560">Mit Piletræ, Du fryder mig</l>
+               <l xml:id="idm140352318998112">med dine lette Vifter,</l>
+               <l xml:id="idm140352318997696">og selv i Vintrens Nøgenhed</l>
+               <l xml:id="idm140352318997232">din Skjønhed ej Du skifter!</l>
+               <l xml:id="idm140352318996768">De andre staa saa mørkt og sort,</l>
+               <l xml:id="idm140352318996304">men Du er lys og munter;</l>
+               <l xml:id="idm140352318995872">Du vinker med din gule Kvist, -</l>
+               <l xml:id="idm140352318995440">jeg kjender godt fra Banken hist</l>
+               <l xml:id="idm140352318995008">de lette Fjeder-Bundter.</l>
+            </lg>
+            <lg xml:id="idm140352318994448">
+               <l xml:id="idm140352318994192">Og naar ved Solfald fint og blødt</l>
+               <l xml:id="idm140352318993728">Du tegner Dig mod Himlen,</l>
+               <l xml:id="idm140352318993296">Du tykkes mig en Kunstnersjæl</l>
+               <l xml:id="idm140352318992832">imellem Hverdags-Vrimlen!</l>
+               <l xml:id="idm140352318992400">Et Vindpust gjør Dig bævende,</l>
+               <l xml:id="idm140352318991936">en Storm kan ej Dig kue, -</l>
+               <l xml:id="idm140352318991504">Du staar saa rank, saa svævende,</l>
+               <l xml:id="idm140352318991040">og tykkes mig saa levende</l>
+               <l xml:id="idm140352318990608">i Aftnens stille Lue.</l>
+            </lg>
+            <pb n="308" facs="adl/richardt/richardt2/rich2308" xml:id="idm140352318990064"/>
+            <lg xml:id="idm140352318989248">
+               <l xml:id="idm140352318988992">Og, <hi rend="italics" xml:id="idm140352318988704">skal</hi> jeg lægges her i Grav</l>
+               <l xml:id="idm140352318987824">i Landsbykirkens Skygge,</l>
+               <l xml:id="idm140352318987392">da hvisk mig Du et tyst Farvel</l>
+               <l xml:id="idm140352318986960">fra Jorden og dens Lykke!</l>
+               <l xml:id="idm140352318986528">Bring Hilsen med dit Bladehang</l>
+               <l xml:id="idm140352318986096">fra Haven og dens Gammen,</l>
+               <l xml:id="idm140352318985664">stem i med Kirkeklokkens Klang, -</l>
+               <l xml:id="idm140352318985232">vi to har dog saa mangen Gang</l>
+               <l xml:id="idm140352318984800">seet Nedgangs-Timen sammen!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

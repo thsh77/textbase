@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Slottet</title>
+            <author>Hertz, Henrik</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139668653829872">
+                     <name xml:id="idm139668653829616">
+                        <surname xml:id="idm139668653829488">Hertz</surname>, <forename xml:id="idm139668653829056">Henrik</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139668653828768">Digte fra forskjellige Perioder</title>
+                  <pubPlace xml:id="idm139668653828464">København</pubPlace>
+                  <date xml:id="idm139668653827952">1851-1862</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59181" decls="#biblid59181">
+            <head xml:id="idm139668653141248">Slottet.</head>
+            <lg xml:id="idm139668653140832">
+               <l xml:id="idm139668653140576">Nær ved Arnoflodens Vande,</l>
+               <l xml:id="idm139668653140128">Høit paa en Bakke ligger et Slot.</l>
+               <l xml:id="idm139668653139664">Fra et Indløb, hvor vi lande,</l>
+               <l xml:id="idm139668653139200">Løber en Gangsti snævert og skraat.</l>
+               <l xml:id="idm139668653138720">Ak, denne Sti jeg kjender saa godt!</l>
+               <l xml:id="idm139668653138288">Her har jeg tilbragt Barndommens Dage.</l>
+               <l xml:id="idm139668653137856">Nu maa jeg klage!</l>
+               <l xml:id="idm139668653137440">Fremmede Herrer i Skovene jage</l>
+               <l xml:id="idm139668653137008">Nær ved mit Fædrene-Slot.</l>
+            </lg>
+            <lg xml:id="idm139668653136432">
+               <l xml:id="idm139668653136176">Dengang smiilte gjæstfrit Hallen;</l>
+               <l xml:id="idm139668653135712">Vandene rulled' kjøligt og blaat.</l>
+               <l xml:id="idm139668653135248">Nu er Slottets Port forfalden,</l>
+               <l xml:id="idm139668653134816">Luften mig møder høstligt og raat.</l>
+               <l xml:id="idm139668653134336">Ak, denne Port jeg kjender saa godt!</l>
+               <l xml:id="idm139668653133904">Men, naar jeg fat i Klinken vil tage,</l>
+               <l xml:id="idm139668653133472">Da maa jeg klage!</l>
+               <l xml:id="idm139668653133056">Hunden ved Porten mig driver tilbage,</l>
+               <l xml:id="idm139668653132624">Ak, fra mit Fædrene-Slot!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

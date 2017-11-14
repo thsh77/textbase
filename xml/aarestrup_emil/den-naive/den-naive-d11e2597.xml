@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Den naive.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid58818" decls="#biblid58818">
+            <head xml:id="idm140382757039072">DEN NAIVE.</head>
+            <lg xml:id="idm140382757038656">
+               <l xml:id="idm140382757038400">Bondepige! lille Bondepige!</l>
+               <l xml:id="idm140382757037968">Kjender du Cytheres kjælne Hytter?</l>
+               <l xml:id="idm140382757037504">Skal vi os derhen i Aften snige?</l>
+               <l xml:id="idm140382757037072">Dunkelt Løv for Storm og Regn beskytter.</l>
+            </lg>
+            <lg xml:id="idm140382757036464">
+               <l xml:id="idm140382757036208">"Hvad skal dette hedensk' Kram vel sige,</l>
+               <l xml:id="idm140382757035760">Som du veed jeg slettes ikke skjøtter?</l>
+               <l xml:id="idm140382757035280">Ind af Vindvet til mig kan du stige;</l>
+               <l xml:id="idm140382757034848">Der paa dig, min Kjæreste! jeg lytter."</l>
+            </lg>
+            <lg xml:id="idm140382757034240">
+               <l xml:id="idm140382757033984">Nytaarsnyet brænder over Skoven!</l>
+               <l xml:id="idm140382757033520">Bondepige! lille Bondepige!</l>
+               <l xml:id="idm140382757033088">Skal vor søde Fryd da aldrig falme?</l>
+            </lg>
+            <lg xml:id="idm140382757032480">
+               <l xml:id="idm140382757032224">"Tys, min Kjærest!   Her er Psalmebogen.</l>
+               <l xml:id="idm140382757031744">Lad nu Bladet os vor Lykke sige -</l>
+               <l xml:id="idm140382757031312">Ja, min Tro! det er en Brudepsalme!"</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

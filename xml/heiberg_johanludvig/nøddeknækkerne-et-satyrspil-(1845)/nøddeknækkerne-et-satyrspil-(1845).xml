@@ -1,0 +1,1909 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nøddeknækkerne. et satyrspil (1845)</title>
+            <author>Heiberg, Johan Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140684021846096">
+                     <name xml:id="idm140684021845840">
+                        <surname xml:id="idm140684021845712">Heiberg</surname>, <forename xml:id="idm140684021845280">Johan Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140684021844992">Poetiske Skrifter</title>
+                  <pubPlace xml:id="idm140684021844704">København</pubPlace>
+                  <date xml:id="idm140684021844192">1931-32</date>
+                  <biblScope>133-187</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid73852" decls="#biblid73852">
+            <body xml:id="idm140684019465216">
+               <head xml:id="idm140684019464960">NØDDEKNÆKKERNE<lb xml:id="idm140684019464656"/>ET SATYRSPIL (1845)</head>
+               <pb n="134" xml:id="s134" facs="adl/heibergjl/heibergjl3/hejl3134"/>
+               <div xml:id="idm140684019462992">
+                  <pb n="135" xml:id="s135" facs="adl/heibergjl/heibergjl3/hejl3135"/>
+                  <stage type="mix" xml:id="idm140684019461456">HANDLINGEN FOREGAAER I EN SKOV</stage>
+                  <stage type="mix" xml:id="idm140684019460784">ASTRÆA og POMONA</stage>
+                  <sp xml:id="idm140684019460112">
+                     <speaker xml:id="idm140684019459856">POMONA</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019459088">Velkommen paa dit aarlige Besøg,</l>
+                     <l xml:id="idm140684019458624">Du Guders Dronning!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019457760">
+                     <speaker xml:id="idm140684019457504">ASTRÆA</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019456768">Som sædvanlig, kommer</l>
+                     <l xml:id="idm140684019456320">Jeg henimod den Tid, da Frugten modnes,</l>
+                     <l xml:id="idm140684019455888">Thi skinner høstlig Sol paa dine Æbler,</l>
+                     <l xml:id="idm140684019455408">Da drømmer jeg om Fortids gyldne Frugt,</l>
+                     <l xml:id="idm140684019454928">Og troer at see Guldaldren vendt tilbage.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019454032">
+                     <speaker xml:id="idm140684019453776">POMONA</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019453040">Maaskee den er det; see min Æbleskov!</l>
+                     <l xml:id="idm140684019452560">Er ikke hver en Frugt i Solens Straaler</l>
+                     <l xml:id="idm140684019452128">Et gyldent Pant?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019451264">
+                     <speaker xml:id="idm140684019451008">ASTRÆA</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019450272">Men Pantet kan bedrage.</l>
+                     <l xml:id="idm140684019449888">Du veed, Pomona, dengang alle Guder <pb n="136" xml:id="s136" facs="adl/heibergjl/heibergjl3/hejl3136"/>
+                     </l>
+                     <l xml:id="idm140684019448272">Fra Jorden flygted ved Jernaldrens Komme,</l>
+                     <l xml:id="idm140684019447824">Var jeg den Sidste, som forlod vort Hjem,</l>
+                     <l xml:id="idm140684019447376">Thi nødig opgav jeg den kjære Jord;</l>
+                     <l xml:id="idm140684019446896">Og først da Menneskenes Slethed tiltog,</l>
+                     <l xml:id="idm140684019446416">Drog ogsaa jeg fra Jorden op til Himlen,</l>
+                     <l xml:id="idm140684019445968">For der at samles med de andre Guder,</l>
+                     <l xml:id="idm140684019445536">Som forud vare gaaet. Der boe vi nu,</l>
+                     <l xml:id="idm140684019445104">Vi selv usynlige for Jordens Øie,</l>
+                     <l xml:id="idm140684019444640">Men sendende den Bud i klare Nætter</l>
+                     <l xml:id="idm140684019444160">Ved Stjerners Lys, der synligt stiller frem</l>
+                     <l xml:id="idm140684019443712">Vel ei os selv, men vor Bedrift, vor Vandel,</l>
+                     <l xml:id="idm140684019443264">Og minder Jorden om, at end vi leve,</l>
+                     <l xml:id="idm140684019442832">Og tause skue den, og holde Bog</l>
+                     <l xml:id="idm140684019442400">Med al dens Færd, og dømme den omsider.</l>
+                     <l xml:id="idm140684019441920">Til Tegn derpaa har jeg min gyldne Vægt</l>
+                     <l xml:id="idm140684019441440">Paa Himlen sat. Hvert Aar, i Høstens Tid,</l>
+                     <l xml:id="idm140684019440960">Naar Himlens Jomfru, sendt af Ceres ud,</l>
+                     <l xml:id="idm140684019440528">I Haanden holdende sit Ax af Guld,</l>
+                     <l xml:id="idm140684019440096">Unddrager sig det Favnetag, hvori</l>
+                     <l xml:id="idm140684019439664">Den stærke Solgud holder Møen fangen,</l>
+                     <l xml:id="idm140684019439184">Da stiller sig min Vægt paa hendes Plads,</l>
+                     <l xml:id="idm140684019438704">Usynlig vel i Solens Flammehav,</l>
+                     <l xml:id="idm140684019438272">Men virksom just. Som synligt Tegn du seer</l>
+                     <l xml:id="idm140684019437824">Andromeda ved Midnatstid at hvile</l>
+                     <l xml:id="idm140684019437392">Sit Hoved paa den dunkle Hvælvings Toppunkt,</l>
+                     <l xml:id="idm140684019436896">Og hende følger Jasons gyldne Vædder,</l>
+                     <l xml:id="idm140684019436416">Og lavt paa Himlen Hvalen, hendes Fiende,</l>
+                     <l xml:id="idm140684019435968">Men høit Befrieren, den kjække Perseus,</l>
+                     <l xml:id="idm140684019435488">Imens Europas skuffende Forfører</l>
+                     <l xml:id="idm140684019435024">Dem følger baglænds, med sit Øie fæstet</l>
+                     <l xml:id="idm140684019434544">Paa Jagtens Drot, den truende Orion,</l>
+                     <l xml:id="idm140684019434112">Som hæver just af Oceanets Bad</l>
+                     <l xml:id="idm140684019433648">Sin Midie, sluttet ind af tre Saphirer. <pb n="137" xml:id="s137" facs="adl/heibergjl/heibergjl3/hejl3137"/>
+                     </l>
+                     <l xml:id="idm140684019432016">Da skiftes lige mellem Dag og Nat,</l>
+                     <l xml:id="idm140684019431584">Og i det Øieblik, da begge mødes,</l>
+                     <l xml:id="idm140684019431120">Nedstiger jeg til Jorden, for at see,</l>
+                     <l xml:id="idm140684019430688">Om jeg kan kaare den til stadig Bolig</l>
+                     <l xml:id="idm140684019430256">Og lokke Guderne paanye tilbage.</l>
+                     <l xml:id="idm140684019429824">Thi sandelig, vi Guder elske Jorden</l>
+                     <l xml:id="idm140684019429392">End meer end Himlen. Hellere vi færdes</l>
+                     <l xml:id="idm140684019428912">Blandt Jordens kjække Sønner, skjønne Døttre,</l>
+                     <l xml:id="idm140684019428416">End blandt de funklende, de kolde Stjerner;</l>
+                     <l xml:id="idm140684019427968">Paa Grønsvær og paa Blomsterleier hvile</l>
+                     <l xml:id="idm140684019427488">Vi heller end i Himlen, der, lig Havet,</l>
+                     <l xml:id="idm140684019427056">Ufrugtbart ruller sine sølvblaae Bølger;</l>
+                     <l xml:id="idm140684019426576">Og gjerne bytted vi det rene Lys</l>
+                     <l xml:id="idm140684019426144">For Lysets Brydning i en jordisk Luft,</l>
+                     <l xml:id="idm140684019425712">Hvor Skyer sænke sig mod Horizonten</l>
+                     <l xml:id="idm140684019425232">Og staae i Morgen- eller Aftenrøde.</l>
+                     <l xml:id="idm140684019424752">Her er dog Frugter, her er Fuglesang,</l>
+                     <l xml:id="idm140684019424320">Og Tiden har et Indhold. Ak! i Himlen</l>
+                     <l xml:id="idm140684019423888">Er Tiden tom, og hviler, skjøndt ustandset.</l>
+                     <l xml:id="idm140684019423392">Hvad Stilling hver en Stjerne har om tusind,</l>
+                     <l xml:id="idm140684019422944">Om Millioner Aar, det veed jeg alt,</l>
+                     <l xml:id="idm140684019422512">Selv fjernest Tid er her nærværende,</l>
+                     <l xml:id="idm140684019422032">Saa godt som Øieblikket i sin Flugt,</l>
+                     <l xml:id="idm140684019421552">Og Døden er i dette Rige Hersker,</l>
+                     <l xml:id="idm140684019421088">Fordi man ikke lever i Momentet</l>
+                     <l xml:id="idm140684019420656">Meer end i Det, som svandt, og Det, som kommer.</l>
+                     <l xml:id="idm140684019420208">Men her hos eder veed ei selv en Gud,</l>
+                     <l xml:id="idm140684019419776">Hvad næste Time bringer, thi paa Jorden</l>
+                     <l xml:id="idm140684019419296">Er Tiden ei den indholdsløse Afstand,</l>
+                     <l xml:id="idm140684019418816">Som Stjerner maale paa uhørlig Gang,</l>
+                     <l xml:id="idm140684019418336">Men den er fuld af Spirer, som vi Guder</l>
+                     <l xml:id="idm140684019417904">Vel have lagt deri, men for hvis Fremvæxt</l>
+                     <l xml:id="idm140684019417424">Kun Mennesket tør raade.</l>
+                     <!-- </lg> --><pb n="138" xml:id="s138" facs="adl/heibergjl/heibergjl3/hejl3138"/>
+                  </sp>
+                  <sp xml:id="idm140684019415232">
+                     <speaker xml:id="idm140684019414976">POMONA</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019414208">Du har Ret,</l>
+                     <l xml:id="idm140684019413824">Og jeg forstaaer dig, skjøndt jeg selv kun fører</l>
+                     <l xml:id="idm140684019413328">Et jordisk Liv, hvorvel jeg er Gudinde.</l>
+                     <l xml:id="idm140684019412896">Jeg kommer aldrig op til Guders Bolig;</l>
+                     <l xml:id="idm140684019412464">Og fæster stundom sig mit Blik paa Himlen,</l>
+                     <l xml:id="idm140684019411984">Da speider jeg kun der de strenge Magter,</l>
+                     <l xml:id="idm140684019411536">Som bringe Nat og Dag og Aarets Tider.</l>
+                     <l xml:id="idm140684019411104">Paa Riimfrost agter jeg, paa Hagl og Solskin,</l>
+                     <l xml:id="idm140684019410656">Paa Veirliget, som Solens Nedgang lover</l>
+                     <l xml:id="idm140684019410224">For næste Dag; og seer jeg op til Maanen,</l>
+                     <l xml:id="idm140684019409744">Da tænker jeg kun paa, at ogsaa dette</l>
+                     <l xml:id="idm140684019409264">Saa stille Lys kan fremme mine Spirer</l>
+                     <l xml:id="idm140684019408832">I Væxt og Modning mellem Ny og Næ.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019407872">
+                     <speaker xml:id="idm140684019407616">ASTRÆA</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019406880">Og du er lykkelig, fordi du fylder</l>
+                     <l xml:id="idm140684019406448">Den tomme Tidsbetragtning med et Indhold -</l>
+                     <l xml:id="idm140684019406000">Og med et jordisk, - ogsaa Det er godt.</l>
+                     <l xml:id="idm140684019405568">Paa Frugten kommer Alt dog an tilsidst,</l>
+                     <l xml:id="idm140684019405136">Og af dens Frugter skal man kjende Tiden.</l>
+                     <l xml:id="idm140684019404688">Velan, jeg kommer for at see din Rigdom.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019403792">
+                     <speaker xml:id="idm140684019403536">POMONA</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019402800">Men nu gik Solen ned; og kommer Natten,</l>
+                     <l xml:id="idm140684019402368">Da lukker sig hvert Blad paa mine Træer,</l>
+                     <l xml:id="idm140684019401888">Og alle Frugter hænge mat paa Grenen.</l>
+                     <l xml:id="idm140684019401408">Men kom imorgen ved det klare Solskin,</l>
+                     <l xml:id="idm140684019400976">Da skal jeg vise dig en Skov af Æbler,</l>
+                     <l xml:id="idm140684019400496">Der titte frem bag Høstens røde Løv,</l>
+                     <l xml:id="idm140684019400016">Lig Hoveder af skjulte Amoriner</l>
+                     <l xml:id="idm140684019399584">Med Alabasterhud og Purpurkinder.</l>
+                     <l xml:id="idm140684019399152">Jeg viser dig mit Viinbjerg med dets Druer, <pb n="139" xml:id="s139" facs="adl/heibergjl/heibergjl3/hejl3139"/>
+                     </l>
+                     <l xml:id="idm140684019397536">Og mine Blommer, Ferskner, Abricoser,</l>
+                     <l xml:id="idm140684019397104">Og Nøddeskoven, som er stor og rig.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019396144">
+                     <speaker xml:id="idm140684019395888">ASTRÆA</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019395152">Nu vel, jeg møder dig i Solens Glands.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019394224">
+                     <speaker xml:id="idm140684019393968">POMONA</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019393232">I Solens Glands jeg aabner dig mit Hegn.</l>
+                     <!-- </lg> --><stage type="mix" xml:id="idm140684019392464">(De gaae.)</stage>
+                     <stage type="mix" xml:id="idm140684019391840">Vexelsang mellem Nattens og Mørkets Aander.</stage>
+                  </sp>
+                  <sp xml:id="idm140684019390976">
+                     <speaker xml:id="idm140684019390720">NATTENS AANDER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019389952">Nu tabte Dagen sit sidste Skjær,</l>
+                     <l xml:id="idm140684019389488">Og Natten løfter sin Vinge,</l>
+                     <l xml:id="idm140684019389024">Nu falder Duggen paa Blomster og Træer,</l>
+                     <l xml:id="idm140684019388544">Og vil dem Kjølighed bringe.</l>
+                     <l xml:id="idm140684019388080">Sit Liv Naturen har indad vendt,</l>
+                     <l xml:id="idm140684019387648">Den hviler i Drømmenes Taage,</l>
+                     <l xml:id="idm140684019387184">Til Alt den qvægende Søvn er sendt,</l>
+                     <l xml:id="idm140684019386704">Nattens Tanker kun vaage.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019385824">
+                     <speaker xml:id="idm140684019385568">MØRKETS AANDER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019384816">Nu bliver det mørkt, nu bliver det godt,</l>
+                     <l xml:id="idm140684019384336">Nu snige sig Tudser og Snoge</l>
+                     <l xml:id="idm140684019383904">Med Flaggermusen fra Hexens Slot</l>
+                     <l xml:id="idm140684019383472">Ud af de dybeste Kroge.</l>
+                     <l xml:id="idm140684019383088">Paa Rov alt Ulven og Ræven gaaer,</l>
+                     <l xml:id="idm140684019382624">De speide med List, de lytte;</l>
+                     <l xml:id="idm140684019382192">Med den hvæssede Kniv Morderen staaer,</l>
+                     <l xml:id="idm140684019381712">Og Vandreren er hans Bytte.</l>
+                     <!-- </lg> --><pb n="140" xml:id="s140" facs="adl/heibergjl/heibergjl3/hejl3140"/>
+                  </sp>
+                  <sp xml:id="idm140684019379584">
+                     <speaker xml:id="idm140684019379328">NATTENS AANDER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019378560">Inat Astræa paa Jorden gaaer,</l>
+                     <l xml:id="idm140684019378096">Og om Retfærdighed freder;</l>
+                     <l xml:id="idm140684019377648">Med Stjernekrandsen omkring sit Haar</l>
+                     <l xml:id="idm140684019377216">Det rugende Mulm hun spreder;</l>
+                     <l xml:id="idm140684019376784">Thi Natten er kun en mildnet Dag,</l>
+                     <l xml:id="idm140684019376352">Som Larm og Lidenskab fjerner,</l>
+                     <l xml:id="idm140684019375920">Hvor Sjælen prøver sit Vingeslag</l>
+                     <l xml:id="idm140684019375456">Ved Glimt af evige Stjerner.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019374576">
+                     <speaker xml:id="idm140684019374320">MØRKETS AANDER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019373568">Hvi falder Mørket ei rigtigt paa?</l>
+                     <l xml:id="idm140684019373104">Ha! bort, I lysende Stjerner!</l>
+                     <l xml:id="idm140684019372672">De sorte Skyer vi kalde maae:</l>
+                     <l xml:id="idm140684019372240">Kommer hid, vore hjelpende Terner!</l>
+                     <l xml:id="idm140684019371808">Ei Andet fortjener Navn af Nat,</l>
+                     <l xml:id="idm140684019371376">End Ravnemørket det sorte;</l>
+                     <l xml:id="idm140684019370928">Da tage vi paa vor Gjerning fat,</l>
+                     <l xml:id="idm140684019370496">Naar Himlen har lukt sine Porte.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019369616">
+                     <speaker xml:id="idm140684019369360">NATTENS AANDER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019368624">Hvad er vel skjønt som en Efteraarsnat,</l>
+                     <l xml:id="idm140684019368144">Naar talløse Stjerner funkle,</l>
+                     <l xml:id="idm140684019367680">Naar Himlen aabner sin rige Skat,</l>
+                     <l xml:id="idm140684019367248">For Jordens Pragt at fordunkle?</l>
+                     <l xml:id="idm140684019366816">Har Rosen sænket det sidste Blad</l>
+                     <l xml:id="idm140684019366352">Og Skoven de høieste Toppe</l>
+                     <l xml:id="idm140684019365904">I Forgængelighed, som splitter dem ad,</l>
+                     <l xml:id="idm140684019365424">Da fødes Vaaren deroppe.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019364528">
+                     <speaker xml:id="idm140684019364272">MØRKETS AANDER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019363520">Den forventede Nat ei frem vil gaae</l>
+                     <l xml:id="idm140684019363088">Under Himlens Hvælving heroppe. <pb n="141" xml:id="s141" facs="adl/heibergjl/heibergjl3/hejl3141"/>
+                     </l>
+                     <l xml:id="idm140684019361472">Tre Favne dybt vi den søge maae</l>
+                     <l xml:id="idm140684019361008">Mellem de døde Kroppe.</l>
+                     <l xml:id="idm140684019360560">Ei plages vi der af Stjerneskin,</l>
+                     <l xml:id="idm140684019360128">For Lyset vor Dont sig skjuler.</l>
+                     <l xml:id="idm140684019359696">Afsted! vi os bore med Vellyst ind</l>
+                     <l xml:id="idm140684019359264">I Dødens lukkede Huler.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019358336">
+                     <speaker xml:id="idm140684019358080">NATTENS AANDER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019357344">Her aandes Æther ved Stjerneskin,</l>
+                     <l xml:id="idm140684019356880">Her møde de himmelske Muser,</l>
+                     <l xml:id="idm140684019356416">Og tale til Sjælen i Nattens Vind,</l>
+                     <l xml:id="idm140684019355952">Som sagte vifter og suser.</l>
+                     <l xml:id="idm140684019355520">Om Dagen drømmer du Verdens Drøm,</l>
+                     <l xml:id="idm140684019355056">Men først naar Stjernerne tindre,</l>
+                     <l xml:id="idm140684019354592">Naar Natten favner dig kold, men øm,</l>
+                     <l xml:id="idm140684019354112">Vaagner af Søvn dit Indre.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019353216">
+                     <speaker xml:id="idm140684019352960">MORGENSTJERNEN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019352224">Med Diademet paa min Pande</l>
+                     <l xml:id="idm140684019351792">Jeg vandrer ud,</l>
+                     <l xml:id="idm140684019351408">Og stiger over Verdens Lande</l>
+                     <l xml:id="idm140684019350976">Som Lysets Bud.</l>
+                     <l xml:id="idm140684019350560">I Morgenrøden hvid jeg funkler,</l>
+                     <l xml:id="idm140684019350096">Som Lilien i en Rosenkrands.</l>
+                     <l xml:id="idm140684019349664">Betragt mig nu, thi snart fordunkler</l>
+                     <l xml:id="idm140684019349232">Mig Solens Glands.</l>
+                     <!-- </lg> --><!-- <lg> --><l xml:id="idm140684019348144">Jeg hilser jer med venligt Øie,</l>
+                     <l xml:id="idm140684019347680">I Brødre smaa,</l>
+                     <l xml:id="idm140684019347248">I Blomster, som paa Mark og Høie</l>
+                     <l xml:id="idm140684019346784">Lig Stjerner staae!</l>
+                     <l xml:id="idm140684019346400">Jeg selv er Himlens, men jeg kjender</l>
+                     <l xml:id="idm140684019345968">I eder dog min Slægt paa Jord, <pb n="142" xml:id="s142" facs="adl/heibergjl/heibergjl3/hejl3142"/>
+                     </l>
+                     <l xml:id="idm140684019344320">Og Vexler med jer, som med Venner,</l>
+                     <l xml:id="idm140684019343888">Saa mangt et Ord.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019342992">
+                     <speaker xml:id="idm140684019342736">EN ASTER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019342000">O! seer du mig, som staaer saa ene</l>
+                     <l xml:id="idm140684019341568">I ukjendt Vraa,</l>
+                     <l xml:id="idm140684019341184">Hvor Tidsler kun og Neldegrene</l>
+                     <l xml:id="idm140684019340752">Omkring mig staae?</l>
+                     <l xml:id="idm140684019340336">Jeg voxer i en Skovfogds Have,</l>
+                     <l xml:id="idm140684019339904">Som ingen kjærlig Pleie fik;</l>
+                     <l xml:id="idm140684019339440">Paa mine Farvers rige Gave</l>
+                     <l xml:id="idm140684019339008">Seer intet Blik.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019338112">
+                     <speaker xml:id="idm140684019337856">MORGENSTJERNEN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019337120">Jeg seer den, naar jeg Blikket kaster</l>
+                     <l xml:id="idm140684019336688">I Krogen hen;</l>
+                     <l xml:id="idm140684019336304">En Stjerne seer jo let en Aster</l>
+                     <l xml:id="idm140684019335872">Og sees af den.</l>
+                     <l xml:id="idm140684019335456">Men du, som deler med mig Navnet,</l>
+                     <l xml:id="idm140684019335024">Hvorledes falder Skjæbnen paa,</l>
+                     <l xml:id="idm140684019334560">Dig her, blandt ædle Blomster savnet,</l>
+                     <l xml:id="idm140684019334080">At lade staae?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019333184">
+                     <speaker xml:id="idm140684019332928">ASTEREN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019332192">Vel sandt, jeg fører Navn af Stjerne,</l>
+                     <l xml:id="idm140684019331712">Men til hvad Gavn?</l>
+                     <l xml:id="idm140684019331328">Ak! jeg er ikke meer moderne</l>
+                     <l xml:id="idm140684019330896">Med samt mit Navn.</l>
+                     <l xml:id="idm140684019330480">Enhver, som har en Kjendermine,</l>
+                     <l xml:id="idm140684019330048">Mig siger, jeg er ikke Stort,</l>
+                     <l xml:id="idm140684019329616">Men hed jeg bare Georgine,</l>
+                     <l xml:id="idm140684019329184">Var Lykken gjort.</l>
+                     <!-- </lg> --><pb n="143" xml:id="s143" facs="adl/heibergjl/heibergjl3/hejl3143"/>
+                  </sp>
+                  <sp xml:id="idm140684019327184">
+                     <speaker xml:id="idm140684019326928">MORGENSTJERNEN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019326160">Hvem er da hiin Udødelige,</l>
+                     <l xml:id="idm140684019325712">Som har saa kjæk</l>
+                     <l xml:id="idm140684019325280">Faaet selv en Stjerne til at vige</l>
+                     <l xml:id="idm140684019324848">Fra Pladsen væk?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019323968">
+                     <speaker xml:id="idm140684019323712">ASTEREN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019322976">Jeg veed ei, om en Fyrstekrone</l>
+                     <l xml:id="idm140684019322544">Var trindt om hendes Lokker slængt,</l>
+                     <l xml:id="idm140684019322064">Hvad eller, om en simpel Kone</l>
+                     <l xml:id="idm140684019321632">Har mig fortrængt.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019320752">
+                     <speaker xml:id="idm140684019320496">MORGENSTJERNEN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019319760">Dog er der Nogen vel, som Tingen</l>
+                     <l xml:id="idm140684019319328">at tyde veed?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019318464">
+                     <speaker xml:id="idm140684019318208">ASTEREN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019317472">Vel er det haardt, dog veed nok Ingen</l>
+                     <l xml:id="idm140684019317040">Derom Besked.</l>
+                     <l xml:id="idm140684019316656">Jeg, som var Efteraarets Hæder,</l>
+                     <l xml:id="idm140684019316192">Dets Stolthed og dets bedste Glands,</l>
+                     <l xml:id="idm140684019315760">Maa see, at man med Fødder træder</l>
+                     <l xml:id="idm140684019315296">Min ædle Krands.</l>
+                     <!-- </lg> --><!-- <lg> --><l xml:id="idm140684019314192">Mig, som paa Jorden er en Stjerne</l>
+                     <l xml:id="idm140684019313760">I Høstens Løv,</l>
+                     <l xml:id="idm140684019313328">Mig vil man for en Anden fjerne,</l>
+                     <l xml:id="idm140684019312896">Hvis Navn er Støv!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019312016">
+                     <speaker xml:id="idm140684019311760">MORGENSTJERNEN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019311024">Du Stakkel! du er ilde faren:</l>
+                     <l xml:id="idm140684019310592">Et Navn, som Intet sige vil, <pb n="144" xml:id="s144" facs="adl/heibergjl/heibergjl3/hejl3144"/>
+                     </l>
+                     <l xml:id="idm140684019309008">Fortrænger dig, hvem Stjerneskaren</l>
+                     <l xml:id="idm140684019308544">Stod Fadder til.</l>
+                     <!-- </lg> --><!-- <lg> --><l xml:id="idm140684019307456">I Tidens Retning tydes Meget</l>
+                     <l xml:id="idm140684019307024">Ved dette Træk,</l>
+                     <l xml:id="idm140684019306592">Thi fra dens Nydelser er veget</l>
+                     <l xml:id="idm140684019306160">Hver Stjerne væk.</l>
+                     <l xml:id="idm140684019305728">Den hænger ei ved en Gudindes,</l>
+                     <l xml:id="idm140684019305264">Ei ved en Stjernedronnings Favn,</l>
+                     <l xml:id="idm140684019304832">Men ved den første bedste Qvindes</l>
+                     <l xml:id="idm140684019304368">Private Navn.</l>
+                     <!-- </lg> --><!-- <lg> --><l xml:id="idm140684019303312">Men trøst dig, Broder! Du maa heller</l>
+                     <l xml:id="idm140684019302832">Som Stjerne staae,</l>
+                     <l xml:id="idm140684019302448">Ja mellem Tidsler selv og Nelder</l>
+                     <l xml:id="idm140684019302016">Tilsidst forgaae,</l>
+                     <l xml:id="idm140684019301600">End med en flau Betegning prale</l>
+                     <l xml:id="idm140684019301168">I fine Blomsters Compagnie,</l>
+                     <l xml:id="idm140684019300736">Og lade Moden dig befale,</l>
+                     <l xml:id="idm140684019300304">Du som er fri.</l>
+                     <!-- </lg> --><!-- <lg> --><l xml:id="idm140684019299216">Farvel! Jeg tør ei længer tøve,</l>
+                     <l xml:id="idm140684019298752">Thi Solens Glands</l>
+                     <l xml:id="idm140684019298368">Er nær, og vil min Isse røve</l>
+                     <l xml:id="idm140684019297904">Dens Morgenkrands.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019297008">
+                     <speaker xml:id="idm140684019296752">ASTEREN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019296016">Han drager bort og Faklen slukker,</l>
+                     <l xml:id="idm140684019295584">Men Solen stiger mægtig op,</l>
+                     <l xml:id="idm140684019295120">Og allerede Fuglen klukker</l>
+                     <l xml:id="idm140684019294688">I Redens Top.</l>
+                     <!-- </lg> --><pb n="145" xml:id="s145" facs="adl/heibergjl/heibergjl3/hejl3145"/>
+                     <!-- <lg> --><l xml:id="idm140684019292336">Men hvilken Larmen, hvilken Tummel!</l>
+                     <l xml:id="idm140684019291904">Den stille Skov</l>
+                     <l xml:id="idm140684019291520">Gjenlyder alt af Vognes Rummel</l>
+                     <l xml:id="idm140684019291088">Og Hestes Hov;</l>
+                     <l xml:id="idm140684019290672">De grove Stemmer huje, skrige,</l>
+                     <l xml:id="idm140684019290240">Alt hører jeg dem nær herved.</l>
+                     <l xml:id="idm140684019289776">Farvel, mit stille Drømmerige!</l>
+                     <l xml:id="idm140684019289312">Farvel, min Fred!</l>
+                     <!-- </lg> --><stage type="mix" xml:id="idm140684019288544">EN SKARE KJØBSTEDFOLK</stage>
+                  </sp>
+                  <sp xml:id="idm140684019287728">
+                     <speaker xml:id="idm140684019287472">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019286736">Nu troer jeg, at vi ved Maalet staae,</l>
+                     <l xml:id="idm140684019286304">Og Løn for Møien vi snart vil faae.</l>
+                     <l xml:id="idm140684019285824">Det er en gammel, agtværdig Skik,</l>
+                     <l xml:id="idm140684019285360">Som holder endnu bestandig Stik,</l>
+                     <l xml:id="idm140684019284928">At drage til Skoven om Efteraaret,</l>
+                     <l xml:id="idm140684019284496">Og plukke hvad Nøddebusken har baaret.</l>
+                     <l xml:id="idm140684019284016">Jeg haaber, Kone, du har ei glemt</l>
+                     <l xml:id="idm140684019283584">Syposen hjemme, thi det var slemt.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019282704">
+                     <speaker xml:id="idm140684019282448">METTE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019281712">Nei, lille Mand! Og see, den er stor,</l>
+                     <l xml:id="idm140684019281280">Den rummer adskillige Pund, jeg troer.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019280400">
+                     <speaker xml:id="idm140684019280144">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019279408">Du, Jens, min Søn, du husked vel nok</l>
+                     <l xml:id="idm140684019278928">At tage med dig din krogede Stok,</l>
+                     <l xml:id="idm140684019278496">Som er ved Plukningen saa beqvem?</l>
+                     <!-- </lg> --><pb n="146" xml:id="s146" facs="adl/heibergjl/heibergjl3/hejl3146"/>
+                  </sp>
+                  <sp xml:id="idm140684019276464">
+                     <speaker xml:id="idm140684019276208">JENS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019275440">Her er den, Papa, den er meget nem,</l>
+                     <l xml:id="idm140684019275008">Og min Kone, Maren, din Svigerdatter,</l>
+                     <l xml:id="idm140684019274576">Har ogsaa medbragt sin største Pose.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019273648">
+                     <speaker xml:id="idm140684019273392">MAREN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019272656">Ja to for een.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019271792">
+                     <speaker xml:id="idm140684019271536">JENS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019270800">Og seer du, Fatter,</l>
+                     <l xml:id="idm140684019270416">Vor Søn, af hvem jeg mig ikke vil rose,</l>
+                     <l xml:id="idm140684019269936">Er en Pokkers Dreng: vor lille Mads</l>
+                     <l xml:id="idm140684019269504">Kryber op i Træet, han er tilpas</l>
+                     <l xml:id="idm140684019269040">Til at bane sig Vei til den øverste Top,</l>
+                     <l xml:id="idm140684019268560">Hvortil selv Stokken ei rækker op.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019267616">
+                     <speaker xml:id="idm140684019267360">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019266624">Den Tolvaars-Dreng er saa rask som kjøn,</l>
+                     <l xml:id="idm140684019266144">Jeg mærker, han er min Sønnesøn.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019265232">
+                     <speaker xml:id="idm140684019264976">METTE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019264240">Ja, det er en prægtig lille Pog.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019263328">
+                     <speaker xml:id="idm140684019263072">PEER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019262336">Hr. Hans! jeg ogsaa har Kjep med Krog.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019261456">
+                     <speaker xml:id="idm140684019261200">POUL</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019260464">Jeg ligeledes.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019259600">
+                     <speaker xml:id="idm140684019259344">METTE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019258608">Vor Datter Gine</l>
+                     <l xml:id="idm140684019258224">Er forsynet med mageløse Lommer.</l>
+                     <!-- </lg> --><pb n="147" xml:id="s147" facs="adl/heibergjl/heibergjl3/hejl3147"/>
+                  </sp>
+                  <sp xml:id="idm140684019256016">
+                     <speaker xml:id="idm140684019255760">GINE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019254992">Og Peer har en Datter, som hedder Line,</l>
+                     <l xml:id="idm140684019254560">Og Poul har en Søster, som hedder Bine,</l>
+                     <l xml:id="idm140684019254080">Hver af dem, med Pose bevæbnet, kommer.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019253152">
+                     <speaker xml:id="idm140684019252896">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019252160">Saaledes er Alting da parat.</l>
+                     <l xml:id="idm140684019251728">Saa kryb nu op, du lille Krabat!</l>
+                     <l xml:id="idm140684019251296">I Toppen kommer kun du allene,</l>
+                     <l xml:id="idm140684019250864">Vi Andre vil staae paa de lavere Grene.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019249984">
+                     <speaker xml:id="idm140684019249728">MAREN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019248992">Men fald ei ned, min søde Mads!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019248080">
+                     <speaker xml:id="idm140684019247824">MADS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019247088">Og om saa var, jeg er ikke af Glas.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019246208">
+                     <speaker xml:id="idm140684019245952">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019245216">Det er Pokker til Hoved, den Dreng han har!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019244320">
+                     <speaker xml:id="idm140684019244064">METTE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019243328">Det mangler ham aldrig paa kløgtigt Svar.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019242400">
+                     <speaker xml:id="idm140684019242144">JENS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019241408">Han skabtes til noget Stort at være.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019240480">
+                     <speaker xml:id="idm140684019240224">MAREN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019239488">Han bliver engang Familiens Ære.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019238576">
+                     <speaker xml:id="idm140684019238320">PEER</speaker>
+                     <stage type="mix" xml:id="idm140684019237936">(til Poul).</stage>
+                     <!-- <lg> --><l xml:id="idm140684019236928">De tale vel meget i høie Toner.</l>
+                     <!-- </lg> --><pb n="148" xml:id="s148" facs="adl/heibergjl/heibergjl3/hejl3148"/>
+                  </sp>
+                  <sp xml:id="idm140684019234752">
+                     <speaker xml:id="idm140684019234496">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019233728">Det er mærkeligt nok: tre Generationer</l>
+                     <l xml:id="idm140684019233248">Ere samlede her for at plukke Nødder.</l>
+                     <l xml:id="idm140684019232768">Velan, saa bruger nu Hænder og Fødder</l>
+                     <l xml:id="idm140684019232288">Og krogede Kjeppe, gode Mænd,</l>
+                     <l xml:id="idm140684019231824">Mens Damerne brede Forklæder hen,</l>
+                     <l xml:id="idm140684019231360">Hvori de sanke med Ivrighed,</l>
+                     <l xml:id="idm140684019230928">Hvad vi Andre kaste fra Træet ned.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019230016">
+                     <speaker xml:id="idm140684019229760">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019229024">Nu pluk!</l>
+                     <l xml:id="idm140684019228640">Pluk, pluk!</l>
+                     <l xml:id="idm140684019228224">Alt falde de vægtige Nødder</l>
+                     <l xml:id="idm140684019227760">I Pigernes Skjød fra den gyngende Top.</l>
+                     <l xml:id="idm140684019227280">Nu buk,</l>
+                     <l xml:id="idm140684019226864">Buk, buk</l>
+                     <l xml:id="idm140684019226448">Dig ned ved de knudrede Rødder</l>
+                     <l xml:id="idm140684019225984">Og sank dem i Forklædet op.</l>
+                     <l xml:id="idm140684019225520">Jeg svimler heroppe ved ned at see,</l>
+                     <l xml:id="idm140684019225088">Over alle de Skjønheder bøiet.</l>
+                     <l xml:id="idm140684019224624">Nu luk,</l>
+                     <l xml:id="idm140684019224208">Luk, luk</l>
+                     <l xml:id="idm140684019223792">De smilende Læber, som mod mig lee,</l>
+                     <l xml:id="idm140684019223312">Og luk for Skjelmen i Øiet.</l>
+                     <l xml:id="idm140684019222848">Hr. Nabo! jeg tørster, saavidt jeg kan mærke,</l>
+                     <l xml:id="idm140684019222352">Thi sluk,</l>
+                     <l xml:id="idm140684019221936">Sluk, sluk</l>
+                     <l xml:id="idm140684019221520">Min Tørst, lad mig laane din Lærke.</l>
+                     <l xml:id="idm140684019221040">Tilgiv, at tilbunds jeg den stikker!</l>
+                     <l xml:id="idm140684019220608">Kluk kluk,</l>
+                     <l xml:id="idm140684019220192">Kluk kluk,</l>
+                     <l xml:id="idm140684019219776">Det er Damernes Skaal, som jeg drikker, <pb n="149" xml:id="s149" facs="adl/heibergjl/heibergjl3/hejl3149"/>
+                     </l>
+                     <l xml:id="idm140684019218192">Mens Fuglen lig, der forlod sit Buur,</l>
+                     <l xml:id="idm140684019217760">Jeg skuer fra Høiden en rank Figur,</l>
+                     <l xml:id="idm140684019217280">Saa smuk,</l>
+                     <l xml:id="idm140684019216864">Smuk, smuk,</l>
+                     <l xml:id="idm140684019216448">At et Nedblik maatte mig friste.</l>
+                     <l xml:id="idm140684019216016">Ja suk,</l>
+                     <l xml:id="idm140684019215600">Suk, suk,</l>
+                     <l xml:id="idm140684019215184">Mit Hjerte, kun ikke du briste!</l>
+                     <l xml:id="idm140684019214752">Nu pluk,</l>
+                     <l xml:id="idm140684019214336">Pluk. pluk!</l>
+                     <l xml:id="idm140684019213920">Her kaster jeg Grenen, den sidste.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019213008">
+                     <speaker xml:id="idm140684019212752">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019212016">Min Tro! vi fik en rigelig Høst.</l>
+                     <l xml:id="idm140684019211552">Men efter Arbeid forlanges Lyst.</l>
+                     <l xml:id="idm140684019211120">Nu, mener jeg, er der kun Eet tilbage:</l>
+                     <l xml:id="idm140684019210688">At i Mag og Ro vi paa Nødderne smage.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019209760">
+                     <speaker xml:id="idm140684019209504">MADS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019208768">Min Bedstefa'er taler som en Philosoph.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019207888">
+                     <speaker xml:id="idm140684019207632">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019206896">Den Dreng er dog af et eget Stof,</l>
+                     <l xml:id="idm140684019206464">Han kjender endog Philosophie.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019205584">
+                     <speaker xml:id="idm140684019205328">JENS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019204592">Ja, det er et mageløst Genie.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019203680">
+                     <speaker xml:id="idm140684019203424">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019202688">I Græsset her vi os leire vil,</l>
+                     <l xml:id="idm140684019202224">Mens ugeneert Enhver sig strækker,</l>
+                     <l xml:id="idm140684019201760">Og vi prøve, hvad Nødderne due til.</l>
+                     <l xml:id="idm140684019201280">Men, Kone, hvor er vor Nøddeknækker?</l>
+                     <!-- </lg> --><pb n="150" xml:id="s150" facs="adl/heibergjl/heibergjl3/hejl3150"/>
+                  </sp>
+                  <sp xml:id="idm140684019199200">
+                     <speaker xml:id="idm140684019198944">METTE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019198176">Ak I Noget skal man dog altid glemme;</l>
+                     <l xml:id="idm140684019197744">Vor Nøddeknækker er bleven hjemme.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019196816">
+                     <speaker xml:id="idm140684019196560">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019195824">Hvorledes! Nu har jeg hørt saa galt!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019194896">
+                     <speaker xml:id="idm140684019194640">METTE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019193904">Ja, bedste Mand, det er ret fatalt.</l>
+                     <l xml:id="idm140684019193472">Men, Jens, maaskee har du din i Lommen?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019192592">
+                     <speaker xml:id="idm140684019192336">JENS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019191600">Desværre, min egen er forkommen;</l>
+                     <l xml:id="idm140684019191136">Jeg stolede paa, her var en anden.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019190256">
+                     <speaker xml:id="idm140684019190000">MAREN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019189264">Vor lille Mads har slaaet den for Panden,</l>
+                     <l xml:id="idm140684019188816">Han legede med den som Soldat,</l>
+                     <l xml:id="idm140684019188384">Og slog den istykker reent placat.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019187504">
+                     <speaker xml:id="idm140684019187248">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019186512">Saa maae vi laane hos fremmede Mænd,</l>
+                     <l xml:id="idm140684019186032">Og love dem, de skal faaer. den igjen.</l>
+                     <l xml:id="idm140684019185600">Mon ikke der findes en hos Jeppe.</l>
+                     <l xml:id="idm140684019185168">Eller ogsaa hos Christen?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019184288">
+                     <speaker xml:id="idm140684019184032">GINE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019183296">Jeg troer det neppe.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019182432">
+                     <speaker xml:id="idm140684019182176">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019181440">Hr. Peer! tillad mig eder at spørge,</l>
+                     <l xml:id="idm140684019180960">Om I kan med Nøddeknækker forsørge.</l>
+                     <!-- </lg> --><pb n="151" xml:id="s151" facs="adl/heibergjl/heibergjl3/hejl3151"/>
+                  </sp>
+                  <sp xml:id="idm140684019178928">
+                     <speaker xml:id="idm140684019178672">PEER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019177904">Nei, det er dog mærkeligt! den har jeg glemt.</l>
+                     <l xml:id="idm140684019177408">Men Poul maaskee?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019176544">
+                     <speaker xml:id="idm140684019176288">POUL</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019175552">Ak nei! For Fanden!</l>
+                     <l xml:id="idm140684019175168">Jeg Tosse den glemte.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019174272">
+                     <speaker xml:id="idm140684019174016">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019173280">Det var da slemt!</l>
+                     <l xml:id="idm140684019172896">Men saa maa her være nogen Anden ....</l>
+                     <l xml:id="idm140684019172416">I gode Herrer og Damer her!</l>
+                     <l xml:id="idm140684019171984">Behager at høre mit Ord: Enhver,</l>
+                     <l xml:id="idm140684019171520">Som er forsynet med Nøddeknækker,</l>
+                     <l xml:id="idm140684019171056">Og vil være saa god at lægge den til,</l>
+                     <l xml:id="idm140684019170576">Den høire Haand iveiret rækker,</l>
+                     <l xml:id="idm140684019170112">(Eller ogsaa den venstre, hvad helst han vil);</l>
+                     <l xml:id="idm140684019169664">Men Alle, som ingen Knækker bære,</l>
+                     <l xml:id="idm140684019169200">Have den Godhed at lade det være.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019168256">
+                     <speaker xml:id="idm140684019168000">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019167264">O Vee! o Nød!</l>
+                     <l xml:id="idm140684019166832">Ei Nogen vover sin Haand at række.</l>
+                     <l xml:id="idm140684019166368">Vi maae Hænderne lægge</l>
+                     <l xml:id="idm140684019165920">Med Flauhed i Skjød!</l>
+                     <l xml:id="idm140684019165472">O haarde Stød!</l>
+                     <l xml:id="idm140684019165040">Hvordan skal vi Nødderne knække?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019164128">
+                     <speaker xml:id="idm140684019163872">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019163136">Det eneste Raad, som nu jeg kjænder,</l>
+                     <l xml:id="idm140684019162656">Er at knække dem da med egne Tænder.</l>
+                     <l xml:id="idm140684019162176">Jeg selv mig ikke dermed befatter,</l>
+                     <l xml:id="idm140684019161744">Men jeg tænker, min Kone, min Søn og min Datter</l>
+                     <l xml:id="idm140684019161248">Ere villige til ....</l>
+                     <!-- </lg> --><pb n="152" xml:id="s152" facs="adl/heibergjl/heibergjl3/hejl3152"/>
+                  </sp>
+                  <sp xml:id="idm140684019159168">
+                     <speaker xml:id="idm140684019158912">METTE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019158144">Men, kjære Mand!</l>
+                     <l xml:id="idm140684019157712">Du veed, jeg har en forloren Tand,</l>
+                     <l xml:id="idm140684019157280">Og den har kostet dig fem Rigsdaler;</l>
+                     <l xml:id="idm140684019156848">At spendere de Penge, det gaaer ei an.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019155968">
+                     <speaker xml:id="idm140684019155712">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019154976">Du har Ret; men maaskee da vor Gine kan.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019154080">
+                     <speaker xml:id="idm140684019153824">GINE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019153088">Nei Tak! dertil mig Ingen befaler.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019152208">
+                     <speaker xml:id="idm140684019151952">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019151216">Min Søn, min Støtte! har du Mod dertil?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019150288">
+                     <speaker xml:id="idm140684019150032">JENS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019149296">Nei, Fader, jeg nødigt prale vil.</l>
+                     <l xml:id="idm140684019148832">Men jeg tænker, min Mads, min unge Pode,</l>
+                     <l xml:id="idm140684019148352">Maa have Tænder, som ere gode.</l>
+                     <l xml:id="idm140684019147888">Hvor er han dog? Jeg vil strax ham kalde.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019146992">
+                     <speaker xml:id="idm140684019146736">MAREN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019146000">Nei nei! han har ikke skiftet dem alle.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019145120">
+                     <speaker xml:id="idm140684019144864">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019144128">I gode Herrer og Damer her!</l>
+                     <l xml:id="idm140684019143696">Behager at høre mit Ord: Enhver,</l>
+                     <l xml:id="idm140684019143232">Som er forsynet med stærke Tænder,</l>
+                     <l xml:id="idm140684019142752">Og vil være saa god at lægge dem til,</l>
+                     <l xml:id="idm140684019142272">Iveiret maa løfte begge Hænder,</l>
+                     <l xml:id="idm140684019141808">(Eller ogsaa den ene, hvad helst han vil);</l>
+                     <l xml:id="idm140684019141360">Men Alle, som svage Tænder bære,</l>
+                     <l xml:id="idm140684019140896">Have den Godhed at lade det være.</l>
+                     <!-- </lg> --><pb n="153" xml:id="s153" facs="adl/heibergjl/heibergjl3/hejl3153"/>
+                  </sp>
+                  <sp xml:id="idm140684019138768">
+                     <speaker xml:id="idm140684019138512">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019137744">O traurige Kaar!</l>
+                     <l xml:id="idm140684019137360">Ei Nogen vover sin Tand at byde;</l>
+                     <l xml:id="idm140684019136928">Man saa let kan den bryde</l>
+                     <l xml:id="idm140684019136496">Paa Skallen haard.</l>
+                     <l xml:id="idm140684019136080">Det bedrøveligt gaaer!</l>
+                     <l xml:id="idm140684019135632">Hvordan skal vi Nødderne nyde?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019134688">
+                     <speaker xml:id="idm140684019134432">ET EGERN</speaker>
+                     <stage type="mix" xml:id="idm140684019134048">(i Trætoppen.)</stage>
+                     <!-- <lg> --><l xml:id="idm140684019133024">Knik knak!</l>
+                     <l xml:id="idm140684019132640">Knik knak!</l>
+                     <l xml:id="idm140684019132224">Saadan gaaer det til.</l>
+                     <l xml:id="idm140684019131808">Det lurvede Pak</l>
+                     <l xml:id="idm140684019131392">Bestjæle mig vil,</l>
+                     <l xml:id="idm140684019130960">Mig skille ved Nøddernes Føde,</l>
+                     <l xml:id="idm140684019130496">Og kan ikke formaae</l>
+                     <l xml:id="idm140684019130080">Gjennem Skallen at naae</l>
+                     <l xml:id="idm140684019129664">Til Kjernen, den liflige, søde.</l>
+                     <l xml:id="idm140684019129200">Mig smager den ret,</l>
+                     <l xml:id="idm140684019128784">Mig er det saa let,</l>
+                     <l xml:id="idm140684019128368">Hvormed Disse sig Hovedet brøde.</l>
+                     <l xml:id="idm140684019127904">Vil I see, hvori Knuden den stak?</l>
+                     <l xml:id="idm140684019127472">Vil I see, om jeg rigtig forstod 'et?</l>
+                     <l xml:id="idm140684019127040">Her spiser jeg Nødden, da Skallen brak,</l>
+                     <l xml:id="idm140684019126560">Hvorpaa jeg, til Tak,</l>
+                     <l xml:id="idm140684019126144">Knik, knak,</l>
+                     <l xml:id="idm140684019125728">Knik, knak,</l>
+                     <l xml:id="idm140684019125312">Jer Skallerne kaster i Ho'det.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019124400">
+                     <speaker xml:id="idm140684019124144">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019123408">Uforskammede Kræ!</l>
+                     <l xml:id="idm140684019122976">Umælende Fæ!</l>
+                     <l xml:id="idm140684019122544">Kaste Skallerne paa Dyrenes Herre!</l>
+                     <!-- </lg> --><pb n="154" xml:id="s154" facs="adl/heibergjl/heibergjl3/hejl3154"/>
+                  </sp>
+                  <sp xml:id="idm140684019120448">
+                     <speaker xml:id="idm140684019120192">EGERNET</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019119424">I kan glæde jer ved,</l>
+                     <l xml:id="idm140684019118976">At jeg ikke derned</l>
+                     <l xml:id="idm140684019118592">Lod falde Det, som er værre.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019117648">
+                     <speaker xml:id="idm140684019117392">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019116656">Nu gaaer det for vidt! Du skal komme tilkort!</l>
+                     <l xml:id="idm140684019116208">Lad os stene den Tølper af Træet bort!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019115280">
+                     <speaker xml:id="idm140684019115024">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019114288">I gode Herrer og Damer! Et Ord!</l>
+                     <l xml:id="idm140684019113856">Vi til den dannede Classe høre,</l>
+                     <l xml:id="idm140684019113392">Og vil os ikke gemene gjøre</l>
+                     <l xml:id="idm140684019112928">Med den Pøbel, som her i Skoven boer.</l>
+                     <l xml:id="idm140684019112448">Jeg selv er Krigsraad, min Kone Frue,</l>
+                     <l xml:id="idm140684019112016">Og her er Flere, som er af Stand.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019111136">
+                     <speaker xml:id="idm140684019110880">JENS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019110144">Men Knægten er fim; velklædt er han;</l>
+                     <l xml:id="idm140684019109664">Har du seet hans Pels, hans Slæb og hans Hue?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019108720">
+                     <speaker xml:id="idm140684019108464">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019107728">I vore Tider det gjælder ei meer,</l>
+                     <l xml:id="idm140684019107264">I alle Dragter man Pøbel seer.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019106352">
+                     <speaker xml:id="idm140684019106096">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019105360">Hvad skal vi Stakler da finde paa?</l>
+                     <l xml:id="idm140684019104928">Hvordan skal vi Kjernen af Skallen faae?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019104032">
+                     <speaker xml:id="idm140684019103776">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019103040">At knuse Skallen med tvende Stene</l>
+                     <l xml:id="idm140684019102608">Er det eneste Middel, skulde jeg mene.</l>
+                     <!-- </lg> --><pb n="155" xml:id="s155" facs="adl/heibergjl/heibergjl3/hejl3155"/>
+                  </sp>
+                  <sp xml:id="idm140684019100576">
+                     <speaker xml:id="idm140684019100320">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019099552">Hvilken taabelig Sladder! Saa gaaer Kjernen i Smadder.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019098656">
+                     <speaker xml:id="idm140684019098400">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019097664">Om mit Raad ei Bifald vinder, jeg veed,</l>
+                     <l xml:id="idm140684019097232">I kunde dog svare med Høflighed.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019096320">
+                     <speaker xml:id="idm140684019096064">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019095328">Nei, nei, Kammerat!</l>
+                     <l xml:id="idm140684019094944">Nu er Massen desp'rat.</l>
+                     <l xml:id="idm140684019094528">Naar den Hunger skal lide,</l>
+                     <l xml:id="idm140684019094096">Det maa du vide,</l>
+                     <l xml:id="idm140684019093680">Gaaer det galt i en Stat.</l>
+                     <l xml:id="idm140684019093248">Du dig troer noget Stort,</l>
+                     <l xml:id="idm140684019092816">Til vor Fører du selv dig har gjort,</l>
+                     <l xml:id="idm140684019092336">Blev ei valgt ved vor Stemme,</l>
+                     <l xml:id="idm140684019091904">Og nu du os gjækker!</l>
+                     <l xml:id="idm140684019091456">Hvi lod du din Knækker</l>
+                     <l xml:id="idm140684019091008">Blive derhjemme?</l>
+                     <l xml:id="idm140684019090592">Hvorfor lod din Søn</l>
+                     <l xml:id="idm140684019090144">Sin Mads, som han holder for vittig og skjøn,</l>
+                     <l xml:id="idm140684019089648">Og trækker omkring med som Bjørnetrækker,</l>
+                     <l xml:id="idm140684019089152">Være Knækkerens Knækker?</l>
+                     <l xml:id="idm140684019088704">Alt længe vi følte den tunge Vægt</l>
+                     <l xml:id="idm140684019088224">Af dig og din Slægt;</l>
+                     <l xml:id="idm140684019087776">Og var du end Krigsraad hundrede Gange,</l>
+                     <l xml:id="idm140684019087344">Det gjør os ei bange,</l>
+                     <l xml:id="idm140684019086896">Vi dog hænge dig op ved de lange Been</l>
+                     <l xml:id="idm140684019086416">I Træets Green.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019085504">
+                     <speaker xml:id="idm140684019085248">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019084512">Forbarmende Himmel!</l>
+                     <!-- </lg> --><pb n="156" xml:id="s156" facs="adl/heibergjl/heibergjl3/hejl3156"/>
+                  </sp>
+                  <sp xml:id="idm140684019082432">
+                     <speaker xml:id="idm140684019082176">JENS og GINE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019081408">Min Fader!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019080544">
+                     <speaker xml:id="idm140684019080288">METTE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019079552">Min Mand!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019078688">
+                     <speaker xml:id="idm140684019078432">MAREN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019077696">Min Svigerpapa!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019076832">
+                     <speaker xml:id="idm140684019076576">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019075840">Til Værket! Velan!</l>
+                     <l xml:id="idm140684019075408">Kom, Krigsraad! Og var du endog Baron ....</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019074512">
+                     <speaker xml:id="idm140684019074256">MADS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019073520">Ha hvilken frygtelig Revolution!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019072640">
+                     <speaker xml:id="idm140684019072384">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019071648">Er der Ingen tilstede bag disse Træer?</l>
+                     <l xml:id="idm140684019071168">Er der Ingen til Hjelp?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019070304">
+                     <speaker xml:id="idm140684019070048">CHOR BAG SKOVEN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019069312">Hjelpen er nær.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019068432">
+                     <speaker xml:id="idm140684019068176">CHOR PAA SCENEN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019067440">Tys! tys! Hvad var Det?</l>
+                     <l xml:id="idm140684019067056">Hørte jeg ret?</l>
+                     <l xml:id="idm140684019066624">Hvad er Det for en Skare,</l>
+                     <l xml:id="idm140684019066192">Som vil Skurken forsvare?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019065280">
+                     <speaker xml:id="idm140684019065024">GINE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019064288">Papa! knap troer jeg mit eget Øie,</l>
+                     <l xml:id="idm140684019063824">Og dog er det saa, jeg seer det jo nøie:</l>
+                     <l xml:id="idm140684019063344">Smaabitte Mænder mylre frem,</l>
+                     <l xml:id="idm140684019062880">Med Nisser kunde man ligne dem, <pb n="157" xml:id="s157" facs="adl/heibergjl/heibergjl3/hejl3157"/>
+                     </l>
+                     <l xml:id="idm140684019061184">De har tykke Hoveder, korte Been</l>
+                     <l xml:id="idm140684019060752">Og svære Maver. Nei, sikken Een,</l>
+                     <l xml:id="idm140684019060288">Som gaaer i Spidsen og fører dem an!</l>
+                     <l xml:id="idm140684019059808">Hans Ansigt er fast en eneste Tand,</l>
+                     <l xml:id="idm140684019059376">Rød er hans Trøie, besat med Snore,</l>
+                     <l xml:id="idm140684019058896">Han har Sabel ved Siden, paa Støvlen Spore.</l>
+                     <l xml:id="idm140684019058400">Ifald han kun mere velskabt var,</l>
+                     <l xml:id="idm140684019057968">Saa vilde jeg troe, han var Husar.</l>
+                     <l xml:id="idm140684019057536">Min Gud! det er Nøddeknækkere, Fatter,</l>
+                     <l xml:id="idm140684019057056">Accurat som man seer dem i Isenboden,</l>
+                     <l xml:id="idm140684019056624">Men med levende Lemmer, rappe paa Foden!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019055696">
+                     <speaker xml:id="idm140684019055440">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019054704">Tilforladelig, du har Ret, min Datter!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019053824">
+                     <speaker xml:id="idm140684019053568">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019052800">I Skoven hørte vi Larm og Støi,</l>
+                     <l xml:id="idm140684019052336">Og hurtigt frem af vort Skjul vi fløi.</l>
+                     <l xml:id="idm140684019051856">Naar jeg siger, vi fløi, er det Metaphor,</l>
+                     <l xml:id="idm140684019051376">Thi vi kravlede frem af den dybe Jord,</l>
+                     <l xml:id="idm140684019050944">Af en Kjelder, hvor Muldvarpen hos os boer.</l>
+                     <l xml:id="idm140684019050496">Et Egern just havde bragt Besked</l>
+                     <l xml:id="idm140684019050064">Om et æret Selskabs Forlegenhed,</l>
+                     <l xml:id="idm140684019049600">Som og om sit eget uvorne Styr.</l>
+                     <l xml:id="idm140684019049168">Med Riis vi tugted det uartige Dyr;</l>
+                     <l xml:id="idm140684019048736">Saa skyndte vi os, for Hjelp at yde;</l>
+                     <l xml:id="idm140684019048304">Det er just vort Fag. Vil De Nødder nyde,</l>
+                     <l xml:id="idm140684019047824">Vor Mund har en Qværn, som Stene maler,</l>
+                     <l xml:id="idm140684019047344">Vi knække saamange, som De befaler,</l>
+                     <l xml:id="idm140684019046864">Naar et svagt Abonnement De betaler.</l>
+                     <l xml:id="idm140684019046432">Hermed, jeg tænker, er Enhver tilfreds,</l>
+                     <l xml:id="idm140684019045952">Og Freden stiftet i Deres Kreds.</l>
+                     <l xml:id="idm140684019045520">Lad det ærede Selskab faaer. Nødder knækket,</l>
+                     <l xml:id="idm140684019045024">Men ikke Halsen paa hinanden brækket.</l>
+                     <!-- </lg> --><pb n="158" xml:id="s158" facs="adl/heibergjl/heibergjl3/hejl3158"/>
+                  </sp>
+                  <sp xml:id="idm140684019042880">
+                     <speaker xml:id="idm140684019042624">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019041856">Herligt! Hurra!</l>
+                     <l xml:id="idm140684019041472">Hvad Nød har vi da?</l>
+                     <l xml:id="idm140684019041024">Alle nu ville vi Venner være,</l>
+                     <l xml:id="idm140684019040560">Og de piinligt ventede Nødder fortære.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019039600">
+                     <speaker xml:id="idm140684019039344">METTE</speaker>
+                     <stage type="mix" xml:id="idm140684019038960">(til Første Nøddeknækker).</stage>
+                     <!-- <lg> --><l xml:id="idm140684019037904">Modtag en rørt Families Tak!</l>
+                     <l xml:id="idm140684019037440">Vor Støtte, vor Værge, vor Ven, vor Fader</l>
+                     <l xml:id="idm140684019036960">Af truende Farer ud De trak.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019036080">
+                     <speaker xml:id="idm140684019035824">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019035088">Ædle Velgjører! De mig tillader,</l>
+                     <l xml:id="idm140684019034656">At jeg spørger om Deres ærede Navn,</l>
+                     <l xml:id="idm140684019034176">Thi tilvisse, mit Hjerte føler et Savn,</l>
+                     <l xml:id="idm140684019033696">Indtil jeg faaer tolket til Deres Priis</l>
+                     <l xml:id="idm140684019033264">Min Erkjendtlighed i vor Adresse-Avis.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019032384">
+                     <speaker xml:id="idm140684019032128">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019031360">Meget forbunden, kjære Mand!</l>
+                     <l xml:id="idm140684019030896">Men at sige mit Navn, det gaaer ei an.</l>
+                     <l xml:id="idm140684019030464">De maa vide, jeg og min hele Flok</l>
+                     <l xml:id="idm140684019030032">Er anonyme; De begriber nok,</l>
+                     <l xml:id="idm140684019029600">At det kan have gyldige Grunde</l>
+                     <l xml:id="idm140684019029168">For hvem der har saa enorme Munde.</l>
+                     <l xml:id="idm140684019028736">Thi, seer De, det Arbeid var dog omsonst</l>
+                     <l xml:id="idm140684019028288">At knække Skallen, hvis ei vor Kunst</l>
+                     <l xml:id="idm140684019027808">Bestod i, Kjernens Værd at bedømme,</l>
+                     <l xml:id="idm140684019027328">At dadle den eller og den berømme.</l>
+                     <l xml:id="idm140684019026864">Derom maa jeg forud Dem underrette,</l>
+                     <l xml:id="idm140684019026432">(Thi Forord bryder ingen Trætte), <pb n="159" xml:id="s159" facs="adl/heibergjl/heibergjl3/hejl3159"/>
+                     </l>
+                     <l xml:id="idm140684019024752">Mine Herrer og Damer: Naar Skallen vi knække,</l>
+                     <l xml:id="idm140684019024256">Kan vi Nødden ei strax til Spise række,</l>
+                     <l xml:id="idm140684019023776">Ei før De har hørt en grundig Dom</l>
+                     <l xml:id="idm140684019023312">Og en lille Forelæsning derom.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019022368">
+                     <speaker xml:id="idm140684019022112">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019021376">Fortræffeligt!</l>
+                     <l xml:id="idm140684019020944">Det er lærerigt;</l>
+                     <l xml:id="idm140684019020512">Utile dulci kalder man Sligt.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019019632">
+                     <speaker xml:id="idm140684019019376">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019018608">Og hænder det sig, at vi Kjernen laste,</l>
+                     <l xml:id="idm140684019018128">Saa maae De den strax paa Jorden kaste,</l>
+                     <l xml:id="idm140684019017696">For Himlens Skyld ikke spise den.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019016816">
+                     <speaker xml:id="idm140684019016560">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019015824">Men ikke sandt, høistærede Ven,</l>
+                     <l xml:id="idm140684019015360">De vil dog vel ikke laste dem alle?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684019014480">
+                     <speaker xml:id="idm140684019014224">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684019013456">Det maa komme, som det sig bedst kan falde,</l>
+                     <l xml:id="idm140684019013008">Bestemte Løfter jeg nødig giver,</l>
+                     <l xml:id="idm140684019012544">Thi Upartiskhed er al vor Iver.</l>
+                     <l xml:id="idm140684019012112">Og her er mange Nødder iaar,</l>
+                     <l xml:id="idm140684019011648">Som Enhver, der sig paa Nødder forstaaer,</l>
+                     <l xml:id="idm140684019011168">Umuligt kan Andet end vrage.</l>
+                     <l xml:id="idm140684019010736">Desuden have vi Grund til Klage;</l>
+                     <l xml:id="idm140684019010304">Jeg skal sige Dem, men i Fortrolighed,</l>
+                     <l xml:id="idm140684019009872">Især ifald De det ikke veed:</l>
+                     <l xml:id="idm140684019009408">Her boer i Skoven en Slags Gudinde,</l>
+                     <l xml:id="idm140684019008976">Forresten en smuk og anseelig Qvinde,</l>
+                     <l xml:id="idm140684019008544">Saa at sige, Frugtens Forfatterinde.</l>
+                     <l xml:id="idm140684019008112">Hendes Navn er Pomona, vi Knækkere maae <pb n="160" xml:id="s160" facs="adl/heibergjl/heibergjl3/hejl3160"/>
+                     </l>
+                     <l xml:id="idm140684019006416">Under hendes Scepter desværre staae,</l>
+                     <l xml:id="idm140684019005936">Og i Meget, som ei er saa rart, os finde.</l>
+                     <l xml:id="idm140684019005488">Vort lille Laug - jeg kalder det saa,</l>
+                     <l xml:id="idm140684019005056">Fordi vi selv jo kun ere smaa,</l>
+                     <l xml:id="idm140684019004624">Thi af Antal ere vi ikke faa -</l>
+                     <l xml:id="idm140684019004192">Har villet udvide sin Bedrift,</l>
+                     <l xml:id="idm140684019003760">Men fik et Afslag, og det var stift.</l>
+                     <l xml:id="idm140684019003328">Vi gav en ydmyg Ansøgning ind,</l>
+                     <l xml:id="idm140684019002864">At det maatte behage hendes høie Sind,</l>
+                     <l xml:id="idm140684019002384">At hver en Knækker, som Lauget tæller,</l>
+                     <l xml:id="idm140684019001904">Fik ogsaa Bevilling som Æbleskræller.</l>
+                     <l xml:id="idm140684019001424">Men gjætter De, hvad hun svarte, monstro?</l>
+                     <l xml:id="idm140684019000944">At Nødder var Eet, men Æbler var To,</l>
+                     <l xml:id="idm140684019000464">- Iøvrigt en høist besynderlig Sætning,</l>
+                     <l xml:id="idm140684018999984">Hvis Mening undflyer den dristigste Gjetning, -</l>
+                     <l xml:id="idm140684018999536">Men, føied hun til, - og det kan man forstaae -</l>
+                     <l xml:id="idm140684018999040">Desuden maatte hun sige som saa,</l>
+                     <l xml:id="idm140684018998608">- De vil mærke, Konen er ikke fim -</l>
+                     <l xml:id="idm140684018998128">At hun kastede nødigt Æbler for Sviin.</l>
+                     <l xml:id="idm140684018997648">De begriber vel, efter saadan en Skose</l>
+                     <l xml:id="idm140684018997216">Er man ikke genegen til at rose,</l>
+                     <l xml:id="idm140684018996784">Og følgelig vil det Dem ei frappere,</l>
+                     <l xml:id="idm140684018996304">Om vi temmelig mange Nødder cassere.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018995344">
+                     <speaker xml:id="idm140684018995088">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018994352">Jeg seer, De har skammelig Uret liidt,</l>
+                     <l xml:id="idm140684018993920">Men Saadant hændes desværre tidt.</l>
+                     <l xml:id="idm140684018993456">Jeg indseer sandelig ikke heller,</l>
+                     <l xml:id="idm140684018993024">Hvorfor ei Den, som med Nødder faaer Bugt,</l>
+                     <l xml:id="idm140684018992544">Skulde være capabel som Æbleskræller;</l>
+                     <l xml:id="idm140684018992064">Baade Nødder og Æbler ere dog Frugt.</l>
+                     <l xml:id="idm140684018991584">Vi have hos os, og det midt i en By,</l>
+                     <l xml:id="idm140684018991152">Hvor Privilegier ellers er strenge, <pb n="161" xml:id="s161" facs="adl/heibergjl/heibergjl3/hejl3161"/>
+                     </l>
+                     <l xml:id="idm140684018989616">En Corporation, som er langtfra ny,</l>
+                     <l xml:id="idm140684018989184">Men tvertimod subsisterer længe:</l>
+                     <l xml:id="idm140684018988720">Jeg mener Frugt- og Vildthandler-Faget,</l>
+                     <l xml:id="idm140684018988288">Hvorover hidtil Ingen har klaget,</l>
+                     <l xml:id="idm140684018987856">Skjøndt Vildtet dog ikke voxer paa Træer,</l>
+                     <l xml:id="idm140684018987376">Og Frugten skydes ei med Gevær.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018986432">
+                     <speaker xml:id="idm140684018986176">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018985408">Jeg takker! Deeltagelse gjør saa godt;</l>
+                     <l xml:id="idm140684018984928">Fik vi dog Ønsket bevilget blot!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018984016">
+                     <speaker xml:id="idm140684018983760">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018983024">Men nu til Sagen!</l>
+                     <l xml:id="idm140684018982640">Lad os Tiden ei trække.</l>
+                     <l xml:id="idm140684018982192">Det lider med Dagen,</l>
+                     <l xml:id="idm140684018981776">Begynder at knække,</l>
+                     <l xml:id="idm140684018981328">Begynder jer' Vragen!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018980432">
+                     <speaker xml:id="idm140684018980176">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018979408">Giver hid eders Poser!</l>
+                     <l xml:id="idm140684018979024">Giver hid, giver hid!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018978128">
+                     <speaker xml:id="idm140684018977872">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018977136">Mon han dadler? mon han roser?</l>
+                     <l xml:id="idm140684018976704">Naar faaer man en Bid?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018975840">
+                     <speaker xml:id="idm140684018975584">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018974816">Lutter Politik</l>
+                     <l xml:id="idm140684018974432">I den Pose jeg fik.</l>
+                     <l xml:id="idm140684018974016">Her er Æsthetik,</l>
+                     <l xml:id="idm140684018973584">Og her er Poesie,</l>
+                     <l xml:id="idm140684018973168">Og her Dramaturgie, <pb n="162" xml:id="s162" facs="adl/heibergjl/heibergjl3/hejl3162"/>
+                     </l>
+                     <l xml:id="idm140684018971552">Og her hviler mit Blik</l>
+                     <l xml:id="idm140684018971136">Paa Philosophie.</l>
+                     <l xml:id="idm140684018970720">Brødre! kommer hid</l>
+                     <l xml:id="idm140684018970288">For at dele min Slid!</l>
+                     <l xml:id="idm140684018969872">Hver har sit Fag,</l>
+                     <l xml:id="idm140684018969456">Hver af jer nu tag</l>
+                     <l xml:id="idm140684018969040">En passende Part,</l>
+                     <l xml:id="idm140684018968624">Saa faaer Arbeidet Art</l>
+                     <l xml:id="idm140684018968208">Og gaaer i en Fart.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018967312">
+                     <speaker xml:id="idm140684018967056">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018966320">Men det regner, det regner!</l>
+                     <l xml:id="idm140684018965888">Under Møien man segner.</l>
+                     <l xml:id="idm140684018965440">Paa en frygtelig Maade</l>
+                     <l xml:id="idm140684018965056">Vore Damer blive vaade.</l>
+                     <l xml:id="idm140684018964640">Skrækkelige Dag!</l>
+                     <l xml:id="idm140684018964208">Bedst man troer sig i Mag,</l>
+                     <l xml:id="idm140684018963776">Møder der med Eet</l>
+                     <l xml:id="idm140684018963344">Ny Difficultet.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018962448">
+                     <speaker xml:id="idm140684018962192">NØDDEKNÆKKERNE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018961440">Kommer ind her i Læ,</l>
+                     <l xml:id="idm140684018960992">Hvor sig hvælver et Træ,</l>
+                     <l xml:id="idm140684018960544">Ved dets Fod er en Hule,</l>
+                     <l xml:id="idm140684018960112">Hvori Værkstedet ligger;</l>
+                     <l xml:id="idm140684018959664">Der kan man skjule</l>
+                     <l xml:id="idm140684018959280">Sig godt og være sikker.</l>
+                     <l xml:id="idm140684018958832">Lad saa Regnen fortrække,</l>
+                     <l xml:id="idm140684018958384">Mens vi Nødderne knække.</l>
+                     <!-- </lg> --><stage type="mix" xml:id="idm140684018957584">(Alle ile bort.)</stage>
+                     <pb n="163" xml:id="s163" facs="adl/heibergjl/heibergjl3/hejl3163"/>
+                     <stage type="mix" xml:id="idm140684018955760">EN FLOK SATYRER.</stage>
+                  </sp>
+                  <sp xml:id="idm140684018954976">
+                     <speaker xml:id="idm140684018954720">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018953952">Lad regne, lad regne!</l>
+                     <l xml:id="idm140684018953568">Det plasker allevegne.</l>
+                     <l xml:id="idm140684018953152">Det er Latterens Graad,</l>
+                     <l xml:id="idm140684018952736">Hvormed Himlen gjør vaad,</l>
+                     <l xml:id="idm140684018952288">Naar den seer med sit Øie</l>
+                     <l xml:id="idm140684018951840">Paa Philisternes Møie.</l>
+                     <!-- </lg> --><!-- <lg> --><l xml:id="idm140684018950720">For Satyrer, som svinge</l>
+                     <l xml:id="idm140684018950336">Sig dristigt og springe,</l>
+                     <l xml:id="idm140684018949904">Er Øieblikket godt.</l>
+                     <l xml:id="idm140684018949456">Her, hvor Græsset er vaadt,</l>
+                     <l xml:id="idm140684018948992">De sig boltre, sig bade</l>
+                     <l xml:id="idm140684018948576">Under dryppende Blade.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018947680">
+                     <speaker xml:id="idm140684018947424">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018946672">Vil I see den Caravane,</l>
+                     <l xml:id="idm140684018946288">Som i Ly af vaade Træer</l>
+                     <l xml:id="idm140684018945840">Stolper frem, og vil paa Tæer</l>
+                     <l xml:id="idm140684018945376">Sig en Vei til Hulen bane!</l>
+                     <l xml:id="idm140684018944944">See, hvor net hun løfter op,</l>
+                     <l xml:id="idm140684018944480">Hun, som sine Strømper hytter!</l>
+                     <l xml:id="idm140684018944016">Over Tuer, over Pytter</l>
+                     <l xml:id="idm140684018943600">Gjør hun mangt fortvivlet Hop.</l>
+                     <l xml:id="idm140684018943136">Nu de tæt ved Hulen staae,</l>
+                     <l xml:id="idm140684018942688">Men først nu begynder Qviden:</l>
+                     <l xml:id="idm140684018942224">Hulens Indgang er for liden,</l>
+                     <l xml:id="idm140684018941792">Den er gravet for de Smaa.</l>
+                     <l xml:id="idm140684018941360">Medens Nøddeknækker-Skaren</l>
+                     <l xml:id="idm140684018940896">Vimser lystig ud og ind,</l>
+                     <l xml:id="idm140684018940464">Staae de Andre, mod i Sind, <pb n="164" xml:id="s164" facs="adl/heibergjl/heibergjl3/hejl3164"/>
+                     </l>
+                     <l xml:id="idm140684018938848">Udenfor i Uveirsfaren.</l>
+                     <l xml:id="idm140684018938432">Nu de sig paa Maven lægge,</l>
+                     <l xml:id="idm140684018937984">Og paa alle Fire krybe</l>
+                     <l xml:id="idm140684018937568">Ind i Hulen, i den dybe,</l>
+                     <l xml:id="idm140684018937136">Hvor man Nødder lader knække.</l>
+                     <l xml:id="idm140684018936672">Dog de Stakler kunde sparet</l>
+                     <l xml:id="idm140684018936240">Hele den Besværlighed,</l>
+                     <l xml:id="idm140684018935792">Thi nu skinner Solen ned,</l>
+                     <l xml:id="idm140684018935360">Himlen har igjen sig klaret,</l>
+                     <l xml:id="idm140684018934928">Al Naturen er i Ro,</l>
+                     <l xml:id="idm140684018934512">Efter Badet den sig smykker,</l>
+                     <l xml:id="idm140684018934080">Mellem Jord og Himmel bygger</l>
+                     <l xml:id="idm140684018933648">Iris en syvfarvet Bro,</l>
+                     <l xml:id="idm140684018933232">Solen er sin Nedgang nær,</l>
+                     <l xml:id="idm140684018932784">Aftenrøden alt sig melder,</l>
+                     <l xml:id="idm140684018932336">Og sit Purpurbæger helder</l>
+                     <l xml:id="idm140684018931888">Over Skyer, over Træer.</l>
+                     <l xml:id="idm140684018931440">Ført paa slig en Times Vinge</l>
+                     <l xml:id="idm140684018930976">Føler man en Gud tilstede;</l>
+                     <l xml:id="idm140684018930528">Lad os Offer ham berede,</l>
+                     <l xml:id="idm140684018930096">Lad de gyldne Lyrer klinge.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018929184">
+                     <speaker xml:id="idm140684018928928">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018928192">Talløse Kræfter maae Guderne tjene;</l>
+                     <l xml:id="idm140684018927712">Alt, hvad de Himmelske Tiden forlene,</l>
+                     <l xml:id="idm140684018927280">Giver dem Tiden igjen.</l>
+                     <l xml:id="idm140684018926896">Aanderne fødes og svinde,</l>
+                     <l xml:id="idm140684018926448">Alle de finde</l>
+                     <l xml:id="idm140684018926032">Veien derhen.</l>
+                     <l xml:id="idm140684018925616">Hver i den Flamme, som Verden har skaanet,</l>
+                     <l xml:id="idm140684018925168">Bringer sit Offer, og takker for Laanet;</l>
+                     <l xml:id="idm140684018924720">Intet kan offres, som kommer af Jord; <pb n="165" xml:id="s165" facs="adl/heibergjl/heibergjl3/hejl3165"/>
+                     </l>
+                     <l xml:id="idm140684018923040">Ene hvad Guderne Livet</l>
+                     <l xml:id="idm140684018922624">Selv have givet,</l>
+                     <l xml:id="idm140684018922208">Tages igjen af det himmelske Chor.</l>
+                     <!-- </lg> --><!-- <lg> --><l xml:id="idm140684018921104">Digteren bringer de tryllende Sange,</l>
+                     <l xml:id="idm140684018920672">Helten Trophæer, som blodige prange,</l>
+                     <l xml:id="idm140684018920192">Alle det Bedste, de fik.</l>
+                     <l xml:id="idm140684018919760">Selv de letfærdige, kaade Satyrer</l>
+                     <l xml:id="idm140684018919296">Modtog af Guden, som Solvognen styrer,</l>
+                     <l xml:id="idm140684018918864">Tonende Lyrer,</l>
+                     <l xml:id="idm140684018918480">Drag af olympiske Drik.</l>
+                     <l xml:id="idm140684018918064">Lad os da bringe det Givne tilbage,</l>
+                     <l xml:id="idm140684018917632">Phøbus vil tage</l>
+                     <l xml:id="idm140684018917200">Satyrens Offer med smilende Blik.</l>
+                     <!-- </lg> --><!-- <lg> --><l xml:id="idm140684018916096">Selv han os Livet har skjænket, den Mægtige,</l>
+                     <l xml:id="idm140684018915600">Thi med hans Straaler formælet, de prægtige,</l>
+                     <l xml:id="idm140684018915104">Vaaren i Skjødet os fandt.</l>
+                     <l xml:id="idm140684018914656">Vintren er Kræfternes Dvale</l>
+                     <l xml:id="idm140684018914192">Solskin en Almisse, henslængt iblandt;</l>
+                     <l xml:id="idm140684018913712">Ei til Satyrer og Nattergale,</l>
+                     <l xml:id="idm140684018913280">Ikke til Biernes Honning og Braad,</l>
+                     <l xml:id="idm140684018912848">Kun til sin Nødtørft Naturen har Raad.</l>
+                     <l xml:id="idm140684018912368">Først naar Vaarens Gudinde,</l>
+                     <l xml:id="idm140684018911904">Ført af de viftende Vinde,</l>
+                     <l xml:id="idm140684018911456">Møder den mægtige Solgud i Stævnet,</l>
+                     <l xml:id="idm140684018910976">Vorder Natur overdaadig i Levnet,</l>
+                     <l xml:id="idm140684018910544">Ødsler med Spirer og Saft,</l>
+                     <l xml:id="idm140684018910112">Har til det Unødvendige Kraft.</l>
+                     <l xml:id="idm140684018909648">Da mellem Blomsternes Vrimmel,</l>
+                     <l xml:id="idm140684018909216">Fuglenes qviddrende Stimmel,</l>
+                     <l xml:id="idm140684018908784">Ogsaa Satyrernes Chor</l>
+                     <l xml:id="idm140684018908400">Vaagner til Liv paa den gjenfødte Jord.</l>
+                     <!-- </lg> --><pb n="166" xml:id="s166" facs="adl/heibergjl/heibergjl3/hejl3166"/>
+                     <!-- <lg> --><l xml:id="idm140684018906064">Vanskeligt dog i den blomstrende Vaar</l>
+                     <l xml:id="idm140684018905632">Vilde man Satyren kjende.</l>
+                     <l xml:id="idm140684018905200">Let han forvexles med Faunen, sin Frænde,</l>
+                     <l xml:id="idm140684018904720">Naar han ungdommelig, letfodet gaaer</l>
+                     <l xml:id="idm140684018904288">Under de skyggende Bøge,</l>
+                     <l xml:id="idm140684018903840">Medens Dryaderne søge</l>
+                     <l xml:id="idm140684018903392">Skjelmen at holde ved flagrende Haar.</l>
+                     <l xml:id="idm140684018902960">Snart man ham møder med Nympher i Dands,</l>
+                     <l xml:id="idm140684018902480">Hovedet smykt med en duftende Krands;</l>
+                     <l xml:id="idm140684018902048">Drømmende snart han betræder</l>
+                     <l xml:id="idm140684018901584">Skovenes eensomste Steder.</l>
+                     <l xml:id="idm140684018901152">Vee ham, den Satyr, som aldrig har sværmet,</l>
+                     <l xml:id="idm140684018900656">Smeltet af yndige Smiil,</l>
+                     <l xml:id="idm140684018900224">Hvem sig den vingede Gud med sin Piil</l>
+                     <l xml:id="idm140684018899792">Aldrig har nærmet!</l>
+                     <l xml:id="idm140684018899360">Vee ham, om Rosernes Duft</l>
+                     <l xml:id="idm140684018898928">Gik ham forbi i den vaarlige Luft!</l>
+                     <l xml:id="idm140684018898496">Vee ham, naar Tiden er svunden,</l>
+                     <l xml:id="idm140684018898064">Om han dens Krav har forsømt,</l>
+                     <l xml:id="idm140684018897600">Aldrig har omfavnet ømt,</l>
+                     <l xml:id="idm140684018897152">Aldrig begeistret har drømt,</l>
+                     <l xml:id="idm140684018896688">Aldrig beruset har tømt</l>
+                     <l xml:id="idm140684018896240">Skummende Bæger til Bunden!</l>
+                     <!-- </lg> --><!-- <lg> --><l xml:id="idm140684018895136">Men naar den stærke, den mandige Sommer,</l>
+                     <l xml:id="idm140684018894656">Bringende Byger og Tordener, kommer,</l>
+                     <l xml:id="idm140684018894224">Sænkende Faklen mod Jord,</l>
+                     <l xml:id="idm140684018893776">Satyren dybt i Skoven sig skjuler,</l>
+                     <l xml:id="idm140684018893344">Hvor i dens kjølige Grotter og Huler</l>
+                     <l xml:id="idm140684018892864">Pan, den Forfærdende, boer.</l>
+                     <l xml:id="idm140684018892400">Der, mens han lever i Skoven,</l>
+                     <l xml:id="idm140684018891968">Voxer ham, dulgt i dens Hjem,</l>
+                     <l xml:id="idm140684018891536">Bukkefodshoven, <pb n="167" xml:id="s167" facs="adl/heibergjl/heibergjl3/hejl3167"/>
+                     </l>
+                     <l xml:id="idm140684018889952">Voxe ham Hornene frem.</l>
+                     <l xml:id="idm140684018889536">Skindet, det laadne, ham dækker,</l>
+                     <l xml:id="idm140684018889072">Skjønhedens Tid er ei meer;</l>
+                     <l xml:id="idm140684018888608">Hvergang i Kilden han seer,</l>
+                     <l xml:id="idm140684018888176">Over sit Billed han leer,</l>
+                     <l xml:id="idm140684018887744">Mens han undseelig tilbage sig trækker,</l>
+                     <l xml:id="idm140684018887264">Søger sit Ly, hvor han stille sig skammer</l>
+                     <l xml:id="idm140684018886784">Mellem de tætteste Stammer.</l>
+                     <!-- </lg> --><!-- <lg> --><l xml:id="idm140684018885648">Snart han dog glemmer sin Skam,</l>
+                     <l xml:id="idm140684018885216">Høsten er kommen, den kalder og ham.</l>
+                     <l xml:id="idm140684018884736">Frugten er moden, det rødmende Løv</l>
+                     <l xml:id="idm140684018884256">Falder fra Træet og vorder til Støv.</l>
+                     <l xml:id="idm140684018883776">Snart vil Hyader fra Skovene feie</l>
+                     <l xml:id="idm140684018883344">Kronernes Rest,</l>
+                     <l xml:id="idm140684018882960">Strøe dem i Blæst</l>
+                     <l xml:id="idm140684018882528">Over de vildene Veie.</l>
+                     <l xml:id="idm140684018882112">Hele Naturen Forgængeligheden</l>
+                     <l xml:id="idm140684018881648">Aner, og venter sin dræbende Piil,</l>
+                     <l xml:id="idm140684018881184">Mærker, at Skjønhed herneden</l>
+                     <l xml:id="idm140684018880720">Er kun i Døden et Smiil.</l>
+                     <l xml:id="idm140684018880272">Ikke fortvivler den dog i sin Kummer,</l>
+                     <l xml:id="idm140684018879840">End, førend Parcen faaer Magt,</l>
+                     <l xml:id="idm140684018879376">Før den gaaer ind til sin Slummer,</l>
+                     <l xml:id="idm140684018878912">Klæder den sig i sin prægtigste Dragt,</l>
+                     <l xml:id="idm140684018878432">Indbyder Alle til Gjæst,</l>
+                     <l xml:id="idm140684018877984">Giver en glimrende Efteraarsfest.</l>
+                     <l xml:id="idm140684018877552">Smykt med de sidste Farver er Salen,</l>
+                     <l xml:id="idm140684018877120">Druen er krystet og staaer i Pocalen.</l>
+                     <l xml:id="idm140684018876688">Nu, da det helder med Flammen,</l>
+                     <l xml:id="idm140684018876256">Samler Naturen sin Kraft,</l>
+                     <l xml:id="idm140684018875824">Tager i Døden sig sammen,</l>
+                     <l xml:id="idm140684018875376">Skjænker sin ædleste Saft. <pb n="168" xml:id="s168" facs="adl/heibergjl/heibergjl3/hejl3168"/>
+                     </l>
+                     <l xml:id="idm140684018873664">Afskedens Time forgylde den vil,</l>
+                     <l xml:id="idm140684018873232">Intet skal spares, Alt skal gaae til.</l>
+                     <l xml:id="idm140684018872800">Lystigt, Bacchanter! Hver sin Mænade</l>
+                     <l xml:id="idm140684018872320">Krandse med Viinløvblade,</l>
+                     <l xml:id="idm140684018871872">Svinge ved Fløitespil!</l>
+                     <l xml:id="idm140684018871424">Nu fra sit lønlige Gjemme</l>
+                     <l xml:id="idm140684018870976">Drager Satyrernes Chor,</l>
+                     <l xml:id="idm140684018870560">Tager sin Plads ved det smykkede Bord,</l>
+                     <l xml:id="idm140684018870128">Viser sit Aasyn og hæver sin Stemme.</l>
+                     <l xml:id="idm140684018869648">Nu, da dog Alt skal visne paa Jord,</l>
+                     <l xml:id="idm140684018869216">Nu er vor Skjønhed tilstrækkelig stor,</l>
+                     <l xml:id="idm140684018868736">Lad os Undseelsen glemme,</l>
+                     <l xml:id="idm140684018868304">Træde med Bukkefod Afskedens Dands,</l>
+                     <l xml:id="idm140684018867824">Hænge paa Hornet i Panden en Krands,</l>
+                     <l xml:id="idm140684018867344">Løse vor Tunge,</l>
+                     <l xml:id="idm140684018866912">Lade den Hymner ved Høstgildet sjunge,</l>
+                     <l xml:id="idm140684018866432">Dristig og kaad</l>
+                     <l xml:id="idm140684018866016">Blandende Latter med Graad!</l>
+                     <!-- </lg> --><!-- <lg> --><l xml:id="idm140684018864912">Phøbus, vor Fader, som Liv os har givet!</l>
+                     <l xml:id="idm140684018864432">Før du gaaer ned til atlantiske Bund,</l>
+                     <l xml:id="idm140684018863952">Hør dine Sønner at juble for Livet</l>
+                     <l xml:id="idm140684018863472">Just i dets flygtende Stund!</l>
+                     <!-- </lg> --><stage type="mix" xml:id="idm140684018862720">NØDDEKNÆKKERNE og KJØBSTEDFOLKENE</stage>
+                  </sp>
+                  <sp xml:id="idm140684018861872">
+                     <speaker xml:id="idm140684018861616">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018860880">Men det er dog en fortvivlet Ting!</l>
+                     <l xml:id="idm140684018860448">Den hele Dag man trasker omkring,</l>
+                     <l xml:id="idm140684018860016">Man udstaaer Plage, Møie, Besvær,</l>
+                     <l xml:id="idm140684018859552">Og er bestandig dog lige nær.</l>
+                     <!-- </lg> --><pb n="169" xml:id="s169" facs="adl/heibergjl/heibergjl3/hejl3169"/>
+                  </sp>
+                  <sp xml:id="idm140684018857376">
+                     <speaker xml:id="idm140684018857120">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018856320">Høistærede! min er Skylden ei,</l>
+                     <l xml:id="idm140684018855856">Og mine Brødres ei heller.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018854960">
+                     <speaker xml:id="idm140684018854704">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018853968">Nei!</l>
+                     <l xml:id="idm140684018853584">Jeg tilstaaer, naar alle Nødder var slette,</l>
+                     <l xml:id="idm140684018853088">Saa maatte de vrages, det var det Rette.</l>
+                     <l xml:id="idm140684018852640">Men sørgeligt er det dog, min Tro,</l>
+                     <l xml:id="idm140684018852176">For Den, der stod op, før Hanen fik Sko,</l>
+                     <l xml:id="idm140684018851696">Og drog til Skoven, for sig at fornøie,</l>
+                     <l xml:id="idm140684018851216">Og plukkede Nødder med største Møie,</l>
+                     <l xml:id="idm140684018850736">Og blev i Regnen saa vaad som en Hund,</l>
+                     <l xml:id="idm140684018850304">Og fik spoleret i Bund og Grund</l>
+                     <l xml:id="idm140684018849872">Sit eget og sine Damers Tøi,</l>
+                     <l xml:id="idm140684018849408">Hvis Indkjøbspriis er forbandet høi, -</l>
+                     <l xml:id="idm140684018848928">Jeg siger, sørgeligt er det for ham,</l>
+                     <l xml:id="idm140684018848448">Og maa næsten betragtes som en Skam,</l>
+                     <l xml:id="idm140684018847968">At komme, ved Enden af slig en Dag,</l>
+                     <l xml:id="idm140684018847536">Tilbage med uforrettet Sag,</l>
+                     <l xml:id="idm140684018847104">Begive sig hjem med smudsket Dragt,</l>
+                     <l xml:id="idm140684018846672">Og ikke den mindste Nød have smagt.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018845712">
+                     <speaker xml:id="idm140684018845456">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018844688">Jeg nægter ei, det er ubehageligt,</l>
+                     <l xml:id="idm140684018844224">Og jeg beder Dem være forsikkret om,</l>
+                     <l xml:id="idm140684018843744">At vi finde det Alle meget beklageligt</l>
+                     <l xml:id="idm140684018843312">At maatte fælde saa streng en Dom.</l>
+                     <l xml:id="idm140684018842848">Men, ærede Selskab, ifald De vil</l>
+                     <l xml:id="idm140684018842384">- Hvad visselig De har Aarsag til -</l>
+                     <l xml:id="idm140684018841952">Beklage Dem over hvad her er hændt,</l>
+                     <l xml:id="idm140684018841472">Og især det daarlige Tractement,</l>
+                     <l xml:id="idm140684018841008">Da ville De gunstigen behage <pb n="170" xml:id="s170" facs="adl/heibergjl/heibergjl3/hejl3170"/>
+                     </l>
+                     <l xml:id="idm140684018839424">At rette Deres grundede Klage,</l>
+                     <l xml:id="idm140684018838992">Ikke til os uskyldige Smaa,</l>
+                     <l xml:id="idm140684018838560">Men til Den, som maa tage sig Alting paa,</l>
+                     <l xml:id="idm140684018838112">Og som, naar vi Nødderne slette finde,</l>
+                     <l xml:id="idm140684018837632">Allene bør til Ansvar staae,</l>
+                     <l xml:id="idm140684018837168">Jeg mener den før omtalte Gudinde,</l>
+                     <l xml:id="idm140684018836704">Pomona, som raader for denne Skov.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018835792">
+                     <speaker xml:id="idm140684018835536">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018834800">Men hun skal jo være saa frygtelig grov?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018833872">
+                     <speaker xml:id="idm140684018833616">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018832848">Det kan ikke nægtes, men hun faaer vel Lov</l>
+                     <l xml:id="idm140684018832368">Til at høre paa hvad De forebringer.</l>
+                     <l xml:id="idm140684018831888">Deres Kreds, saavidt jeg kjender til den,</l>
+                     <l xml:id="idm140684018831440">Bestaaer af frie, selvstændige Mænd,</l>
+                     <l xml:id="idm140684018830960">Der ikke staae under hendes Vinger,</l>
+                     <l xml:id="idm140684018830528">Saaledes som vi, der maae tie tidt,</l>
+                     <l xml:id="idm140684018830096">Fordi vi boe her i Skoven frit.</l>
+                     <l xml:id="idm140684018829664">Hun giver os nemlig Bolig her,</l>
+                     <l xml:id="idm140684018829232">Men ingen Kost, som er noget værd,</l>
+                     <l xml:id="idm140684018828768">Thi Nødder og andre Frugter spise</l>
+                     <l xml:id="idm140684018828304">Vi nødigt, vi æde hellere Kjød,</l>
+                     <l xml:id="idm140684018827840">Og maae os ret lykkelige prise,</l>
+                     <l xml:id="idm140684018827408">Naar vi bare hver Søndag en Skovmuus nød.</l>
+                     <l xml:id="idm140684018826928">Men vil De klage, saa gjør det snart,</l>
+                     <l xml:id="idm140684018826448">Thi, seer De, det træffer sig just saa rart,</l>
+                     <l xml:id="idm140684018825952">At en anden, meget fornem Gudinde</l>
+                     <l xml:id="idm140684018825520">Er paa Besøg hos vor Herskerinde,</l>
+                     <l xml:id="idm140684018825056">Og flittigt omkring med hende spadserer;</l>
+                     <l xml:id="idm140684018824608">Jeg troer, at hun Skoven inspicerer,</l>
+                     <l xml:id="idm140684018824176">Thi paa denne Tid kommer hun aarlig,</l>
+                     <l xml:id="idm140684018823744">For at see, om ikke Frugten er daarlig. <pb n="171" xml:id="s171" facs="adl/heibergjl/heibergjl3/hejl3171"/>
+                     </l>
+                     <l xml:id="idm140684018822128">Hvem veed? maaskee hun giver Dem Ret,</l>
+                     <l xml:id="idm140684018821696">Ifald Pomona begegner Dem slet</l>
+                     <l xml:id="idm140684018821264">Det kan altid forsøges. Om ei til Gavn,</l>
+                     <l xml:id="idm140684018820784">Til Skade bliver det ei. Hendes Navn</l>
+                     <l xml:id="idm140684018820352">Er Astræa.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018819456">
+                     <speaker xml:id="idm140684018819200">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018818464">Jeg kjender ikke den Slægt.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018817552">
+                     <speaker xml:id="idm140684018817296">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018816528">Det er en Dame, som har en Vægt.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018815616">
+                     <speaker xml:id="idm140684018815360">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018814624">Ja saa? Den kunde man vel behøve.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018813712">
+                     <speaker xml:id="idm140684018813456">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018812688">Og ved samme Leilighed vil De prøve</l>
+                     <l xml:id="idm140684018812208">- Ei sandt? De gav os et Haab derom -</l>
+                     <l xml:id="idm140684018811776">At formilde Pomonas haarde Dom,</l>
+                     <l xml:id="idm140684018811344">Hvorved hun vort usle Laug vil røve</l>
+                     <l xml:id="idm140684018810864">Dets Ret til Æbleskrælleri?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018809952">
+                     <speaker xml:id="idm140684018809696">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018808960">Om muligt, tjener jeg Dem deri.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018808080">
+                     <speaker xml:id="idm140684018807824">MAREN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018807088">Men Lige for Lige! De veed, Hr. Knækker,</l>
+                     <l xml:id="idm140684018806608">At min Mads, som har et stort Genie,</l>
+                     <l xml:id="idm140684018806176">Og gjerne vil være for Skolen fri,</l>
+                     <l xml:id="idm140684018805712">Ønsker en Plads i Deres Rækker.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018804832">
+                     <speaker xml:id="idm140684018804576">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018803808">Forsaavidt som Tingen paa os beroer,</l>
+                     <l xml:id="idm140684018803376">Er intet til Hinder, Æren er stor, <pb n="172" xml:id="s172" facs="adl/heibergjl/heibergjl3/hejl3172"/>
+                     </l>
+                     <l xml:id="idm140684018801680">Vi skal ham gjerne recommandere,</l>
+                     <l xml:id="idm140684018801248">Men Pomona raader for Det, som for Mere.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018800320">
+                     <speaker xml:id="idm140684018800064">JENS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018799328">Men min Dreng, har du ogsaa betænkt det vel?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018798384">
+                     <speaker xml:id="idm140684018798128">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018797392">Og troer du, den Bane vil bringe dig Held?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018796496">
+                     <speaker xml:id="idm140684018796240">MADS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018795504">Ja, jeg føler, at Nøddeknækkerstanden</l>
+                     <l xml:id="idm140684018795024">Er min Bestemmelse fremfor en anden.</l>
+                     <l xml:id="idm140684018794592">At spise Nødder er en simpel Smag,</l>
+                     <l xml:id="idm140684018794128">Men knække dem, det er en anden Sag.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018793200">
+                     <speaker xml:id="idm140684018792944">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018792208">Men troer De, hans Tænder forslaae dertil?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018791280">
+                     <speaker xml:id="idm140684018791024">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018790256">Med Tiden det vistnok komme vil.</l>
+                     <l xml:id="idm140684018789824">Nogle nye har han vel og ivente</l>
+                     <l xml:id="idm140684018789392">Foruden de hidtil os bekjendte.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018788512">
+                     <speaker xml:id="idm140684018788256">METTE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018787520">Men har du betænkt, at dit Christennavn</l>
+                     <l xml:id="idm140684018787040">Du mister, og du skal navnløs være?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018786112">
+                     <speaker xml:id="idm140684018785856">MADS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018785120">For Den, som paa Navn af Mads maa bære,</l>
+                     <l xml:id="idm140684018784640">Er Tab af Navnet et ringe Savn,</l>
+                     <l xml:id="idm140684018784208">Og Navnløsheden næsten en Ære.</l>
+                     <l xml:id="idm140684018783744">Herefter, saa tidt jeg bedømmer en Kjerne,</l>
+                     <l xml:id="idm140684018783264">Vil jeg betegne mig selv med en Stjerne.</l>
+                     <!-- </lg> --><pb n="173" xml:id="s173" facs="adl/heibergjl/heibergjl3/hejl3173"/>
+                  </sp>
+                  <sp xml:id="idm140684018781104">
+                     <speaker xml:id="idm140684018780848">PEER</speaker>
+                     <stage type="mix" xml:id="idm140684018780432">(til Poul).</stage>
+                     <!-- <lg> --><l xml:id="idm140684018779424">Fra Mads til Stjerne, det Spring er stort.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018778528">
+                     <speaker xml:id="idm140684018778272">MADS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018777536">Ei meer end hvad Mangen før mig har gjort.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018776608">
+                     <speaker xml:id="idm140684018776352">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018775616">Jeg mærker, han er bestemt derpaa,</l>
+                     <l xml:id="idm140684018775152">Lad ham faae sin Villie da, lad gaae!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018774272">
+                     <speaker xml:id="idm140684018774016">JENS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018773280">At sætte sig mod, nytter ei.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018772368">
+                     <speaker xml:id="idm140684018772112">METTE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018771376">Saa er han dog altid i en Vei.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018770496">
+                     <speaker xml:id="idm140684018770240">MAREN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018769504">Forsørget alt i saa ung en Alder!</l>
+                     <l xml:id="idm140684018769040">Det skulde jeg troe, man Lykke kalder.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018768160">
+                     <speaker xml:id="idm140684018767904">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018767136">Men jeg har alt sagt Dem, at Kosten er daarlig</l>
+                     <l xml:id="idm140684018766688">Og Fortjenesten liden.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018765824">
+                     <speaker xml:id="idm140684018765568">JENS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018764832">Jeg giver ham aarlig</l>
+                     <l xml:id="idm140684018764448">Nogle hundrede Daler i Soutien.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018763536">
+                     <speaker xml:id="idm140684018763280">MAREN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018762544">Og Mad skal du faae fra mig, min Dreng!</l>
+                     <!-- </lg> --><pb n="174" xml:id="s174" facs="adl/heibergjl/heibergjl3/hejl3174"/>
+                  </sp>
+                  <sp xml:id="idm140684018760448">
+                     <speaker xml:id="idm140684018760192">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018759424">Men hvorledes erholder man Audiens?</l>
+                     <l xml:id="idm140684018758992">Hvor er den Naadiges Residens?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018758112">
+                     <speaker xml:id="idm140684018757856">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018757088">Derhenne seer jeg en Satyrflok,</l>
+                     <l xml:id="idm140684018756656">Lad os spørge dem ad, de vide det nok,</l>
+                     <l xml:id="idm140684018756176">De staae hos Gudinden i Gunst og Ære,</l>
+                     <l xml:id="idm140684018755696">Og kan os til megen Nytte være.</l>
+                     <l xml:id="idm140684018755232">De nærme sig alt, saavidt jeg seer.</l>
+                     <l xml:id="idm140684018754752">Lad os gaae dem imøde, det vil dem flattere;</l>
+                     <l xml:id="idm140684018754256">Jeg kjender dem lidt, og med god Maneer</l>
+                     <l xml:id="idm140684018753824">Skal jeg Selskabet for dem præsentere.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018752896">
+                     <speaker xml:id="idm140684018752640">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018751888">Som jeg seer, o Nøddeknækker, du med os nok tale vil.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018750928">
+                     <speaker xml:id="idm140684018750672">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018749904">Ja, saafremt ei ubeleiligt Øieblikket er dertil,</l>
+                     <l xml:id="idm140684018749408">Vil jeg tage mig den Frihed under Skovens grønne Ly</l>
+                     <l xml:id="idm140684018748896">Eder her at forestille disse Folk fra næste By.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018747952">
+                     <speaker xml:id="idm140684018747696">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018746960">Mine Herrer! Et Bekjendtskab, hvorved Æren vist er min!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018746000">
+                     <speaker xml:id="idm140684018745744">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018744992">Siig mig, siig mig, Nøddeknækker, hvad er det for en Flok Sviin,</l>
+                     <l xml:id="idm140684018744464">Som du driver her i Skoven?</l>
+                     <!-- </lg> --><pb n="175" xml:id="s175" facs="adl/heibergjl/heibergjl3/hejl3175"/>
+                  </sp>
+                  <sp xml:id="idm140684018742368">
+                     <speaker xml:id="idm140684018742112">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018741344">Bedste Herre! hvilket Ord!</l>
+                     <l xml:id="idm140684018740912">Vi har, gjennemblødt af Regnen, kravlet paa den sorte Jord,</l>
+                     <l xml:id="idm140684018740384">Og der findes her i Skoven ingen Børster, ingen Dug,</l>
+                     <l xml:id="idm140684018739872">Ellers er vi, maa De vide, propre Folk til daglig Brug.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018738976">
+                     <speaker xml:id="idm140684018738720">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018737968">Men til Sagen! Eders Ønske?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018737056">
+                     <speaker xml:id="idm140684018736800">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018736064">Kun en Audiens at faae</l>
+                     <l xml:id="idm140684018735680">Hos Pomona, blot en Time.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018734768">
+                     <speaker xml:id="idm140684018734512">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018733760">Men hvad tænker du dog paa?</l>
+                     <l xml:id="idm140684018733296">For Gudinden vil du træde, saadan som du staaer og gaaer?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018732336">
+                     <speaker xml:id="idm140684018732080">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018731344">Nok hun veed, som dannet Kone, ei man skuer Hund paa Haar.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018730432">
+                     <speaker xml:id="idm140684018730176">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018729424">Ja, men hun er ikke dannet.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018728544">
+                     <speaker xml:id="idm140684018728288">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018727552">Det kan være. Nogle Træk,</l>
+                     <l xml:id="idm140684018727104">Man fortæller, tyde paa det. Tiden vilde dog gaae væk,</l>
+                     <l xml:id="idm140684018726592">Om jeg skulde først til Byen, for at pynte mig. Derfor <pb n="176" xml:id="s176" facs="adl/heibergjl/heibergjl3/hejl3176"/>
+                     </l>
+                     <l xml:id="idm140684018724864">Vil jeg Alting strax risquere. Denne Mening er nu vor,</l>
+                     <l xml:id="idm140684018724416">At hvis De, min bedste Herre, vil os hjelpe til at faae</l>
+                     <l xml:id="idm140684018723968">Audiensen, Alt vil lykkes, Alt paa bedste Maade gaae.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018723040">
+                     <speaker xml:id="idm140684018722784">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018722032">Lad mig høre din Begjering hos Gudinden.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018721104">
+                     <speaker xml:id="idm140684018720848">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018720112">Først jeg vil</l>
+                     <l xml:id="idm140684018719680">Over disse Nødder klage, som herude lægges til;</l>
+                     <l xml:id="idm140684018719184">Hver een af dem har en Feiler.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018718304">
+                     <speaker xml:id="idm140684018718048">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018717296">Er det muligt?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018716432">
+                     <speaker xml:id="idm140684018716176">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018715440">Vist og sandt!</l>
+                     <l xml:id="idm140684018715056">Disse Herrer kan bevidne, ingen spiselig vi fandt.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018714128">
+                     <speaker xml:id="idm140684018713872">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018713104">Ja desværre! Det mig smerter, men saaledes er vor Dom,</l>
+                     <l xml:id="idm140684018712592">Hvortil etter megen Gransken vi med Upartiskhed kom.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018711696">
+                     <speaker xml:id="idm140684018711440">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018710704">Dernæst vil jeg ydmyg gjøre Fruen en Proposition,</l>
+                     <l xml:id="idm140684018710208">Og, hvis hun bevilger denne, (saadan er min Condition),</l>
+                     <l xml:id="idm140684018709760">Lade Nøddeklagen falde, hvori dog, hvis ei Forlig</l>
+                     <l xml:id="idm140684018709264">Hun vil indgaae, let hun trækker kortest Straa.</l>
+                     <!-- </lg> --><pb n="177" xml:id="s177" facs="adl/heibergjl/heibergjl3/hejl3177"/>
+                  </sp>
+                  <sp xml:id="idm140684018707168">
+                     <speaker xml:id="idm140684018706912">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018706128">Lad høre, siig</l>
+                     <l xml:id="idm140684018705696">Conditionen, som du fordrer.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018704816">
+                     <speaker xml:id="idm140684018704560">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018703824">Denne Nøddeknækkerflok,</l>
+                     <l xml:id="idm140684018703376">Brave Folk med store Hov'der, har ei her Fortæring nok,</l>
+                     <l xml:id="idm140684018702864">Professionen er kun liden og ernærer ei sin Mand,</l>
+                     <l xml:id="idm140684018702368">Derfor skal hun dem bevilge, hvad hun let bevilge kan,</l>
+                     <l xml:id="idm140684018701920">At, foruden Nøddeknækken, de sig og befatte maae</l>
+                     <l xml:id="idm140684018701424">Med lidt Æbleskrællen; derved vil de bedre Vilkaar faae.</l>
+                     <l xml:id="idm140684018700912">Æbler attraaes meer end Nødder, og det fordrer meer Critik</l>
+                     <l xml:id="idm140684018700448">Der at skjelne blandt de mange Sorter i enhver Boutik,</l>
+                     <l xml:id="idm140684018700000">At bestemme blot ved Synet, om en ringe bruunlig Plet</l>
+                     <l xml:id="idm140684018699552">Er et Tegn paa gode Safter, eller gjør et Æble slet,</l>
+                     <l xml:id="idm140684018699040">Om det er en Gravenstener, værdig til U. G. med Plus,</l>
+                     <l xml:id="idm140684018698528">En Pigeon, Rainet, Borstorffer, eller en Paspommerus.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018697632">
+                     <speaker xml:id="idm140684018697376">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018696624">Har du flere Conditioner?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018695744">
+                     <speaker xml:id="idm140684018695488">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018694752">Een endnu.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018693888">
+                     <speaker xml:id="idm140684018693632">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018692880">Dog ikke fleer?</l>
+                     <!-- </lg> --><pb n="178" xml:id="s178" facs="adl/heibergjl/heibergjl3/hejl3178"/>
+                  </sp>
+                  <sp xml:id="idm140684018690848">
+                     <speaker xml:id="idm140684018690592">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018689824">Mads! kom hid og buk for Herren. Denne Yngling, som De seer,</l>
+                     <l xml:id="idm140684018689360">Er min Sønnesøn, begavet med et ikke ringe Pund,</l>
+                     <l xml:id="idm140684018688864">Som han ønsker at benytte værdigt i Pomonas Lund.</l>
+                     <l xml:id="idm140684018688368">Han har ingen Lyst til Nødder, han fortærer ingen Frugt,</l>
+                     <l xml:id="idm140684018687856">Men desbedre vil hans Evne faae med Skal og Skrælling Bugt.</l>
+                     <l xml:id="idm140684018687328">Kort og godt, han vil som Medlem paa det lille Værksted ind,</l>
+                     <l xml:id="idm140684018686800">Han vil Nøddeknækker være, dertil staaer hans hele Sind.</l>
+                     <l xml:id="idm140684018686288">Disse brave Folk af Lauget have givet deres Ord,</l>
+                     <l xml:id="idm140684018685840">De vil tage ham i Lære, de vil lede ham paa Spor.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018684896">
+                     <speaker xml:id="idm140684018684640">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018683872">Vi vil gjerne, paa Pomonas Villie nu beroer det blot.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018682976">
+                     <speaker xml:id="idm140684018682720">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018681968">Kan han binde sine Buxer?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018681088">
+                     <speaker xml:id="idm140684018680832">MAREN</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018680096">Gud bevares! meget godt.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018679216">
+                     <speaker xml:id="idm140684018678960">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018678224">Det er vore Conditioner. Troer De, hun bevilger dem?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018677328">
+                     <speaker xml:id="idm140684018677072">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018676320">Derom har jeg ingen Mening.</l>
+                     <!-- </lg> --><pb n="179" xml:id="s179" facs="adl/heibergjl/heibergjl3/hejl3179"/>
+                  </sp>
+                  <sp xml:id="idm140684018674272">
+                     <speaker xml:id="idm140684018674016">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018673248">Tør vi stole lidt paa Dem,</l>
+                     <l xml:id="idm140684018672800">At De vil os producere? Tør vi?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018671888">
+                     <speaker xml:id="idm140684018671632">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018670880">Det behøves ei,</l>
+                     <l xml:id="idm140684018670448">Thi der kommer selv Gudinden.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018669568">
+                     <speaker xml:id="idm140684018669312">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018668576">Hvor dog? hvor?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018667712">
+                     <speaker xml:id="idm140684018667456">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018666704">Ad denne Vei.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018665840">
+                     <speaker xml:id="idm140684018665584">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018664848">Der er To; hvem er den Rette?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018663968">
+                     <speaker xml:id="idm140684018663712">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018662960">Hun med Æblegreen i Haar</l>
+                     <l xml:id="idm140684018662512">Er Pomona; men den Anden, som med Stjernekrandsen gaaer,</l>
+                     <l xml:id="idm140684018662048">Er Astræa.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018661184">
+                     <speaker xml:id="idm140684018660928">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018660160">Det er hende, som jeg talte til Dem om.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018659280">
+                     <speaker xml:id="idm140684018659024">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018658288">Naa! det kan man kalde Lykke, at paa eengang Begge kom.</l>
+                     <!-- </lg> --><pb n="180" xml:id="s180" facs="adl/heibergjl/heibergjl3/hejl3180"/>
+                     <stage type="mix" xml:id="idm140684018656304">ASTRÆA og POMONA komme.</stage>
+                  </sp>
+                  <sp xml:id="idm140684018655488">
+                     <speaker xml:id="idm140684018655232">FØRSTE NØDDEKNÆKKER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018654432">Herskerinde! Denne Skare vil en Klage føre frem</l>
+                     <l xml:id="idm140684018653936">Samt et Par beskedne Bønner.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018653024">
+                     <speaker xml:id="idm140684018652768">POMONA</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018652032">Godt! saa lad mig høre dem.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018651120">
+                     <speaker xml:id="idm140684018650864">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018650128">Eders Naade! Kun som Talsmand for en stor Majoritet,</l>
+                     <l xml:id="idm140684018649680">Der paa Grund af min Erfaring mig til Fører ud har seet,</l>
+                     <l xml:id="idm140684018649168">Som desuden, i Betragtning af min Værdighed, min Rang,</l>
+                     <l xml:id="idm140684018648656">Følger mig med barnlig Tillid ad den ubekjendte Gang,</l>
+                     <l xml:id="idm140684018648144">Kort og godt, ei i mit eget Navn og ei som Krigsraad Hans,</l>
+                     <l xml:id="idm140684018647680">Men i Navn af alle Disse, som med ædel, dannet Sands</l>
+                     <l xml:id="idm140684018647168">Vide rigtigt at vurdere Skovens Frugter, og i Sum</l>
+                     <l xml:id="idm140684018646720">Kun som første Deputeret for et agtbart Publicum,</l>
+                     <l xml:id="idm140684018646224">Forebringer jeg en Klage over Det, som er os hændt.</l>
+                     <l xml:id="idm140684018645712">Eders Naade var det sagtens alt fra Arilds Tid bekjendt,</l>
+                     <l xml:id="idm140684018645248">At man, efter gammel Vedtægt, drager hid hvert Efteraar,</l>
+                     <l xml:id="idm140684018644736">For at plukke Hasselnødder, som man altid gratis faaer.</l>
+                     <l xml:id="idm140684018644224">Æbler tør man ikke røre, det er strax et Tyveri,</l>
+                     <l xml:id="idm140684018643776">Men paa Nøddebusken pleier Plukningen at være fri. <pb n="181" xml:id="s181" facs="adl/heibergjl/heibergjl3/hejl3181"/>
+                     </l>
+                     <l xml:id="idm140684018642048">Men tillad mig nu at spørge: Er det billigt, er det ret,</l>
+                     <l xml:id="idm140684018641536">At fordi man ei betaler, skal man strax behandles slet?</l>
+                     <l xml:id="idm140684018641088">Og desuden, skjøndt vi have, som det hedder, fri Entrée,</l>
+                     <l xml:id="idm140684018640576">Koster den dog svære Penge, som De nu skal faae at see.</l>
+                     <l xml:id="idm140684018640064">Otte Vogne her i Følge, det er ikke Lidt, Madam!</l>
+                     <l xml:id="idm140684018639568">Tænk Dem Hyrekudskens Regning! men De kjender ikke ham.</l>
+                     <l xml:id="idm140684018639056">Otte Kjøresvende maa man give Drikkepenge til,</l>
+                     <l xml:id="idm140684018638560">Og en Daler er det Mindste, hvormed Nogen nøies vil.</l>
+                     <l xml:id="idm140684018638048">Og ved hver af Veiens Bomme - jeg forbittres i mit Sind -</l>
+                     <l xml:id="idm140684018637584">Maa man sexten Gange skatte, naar jeg regner ud og ind;</l>
+                     <l xml:id="idm140684018637136">Og nu er der fire Bomme, det gjør altsaa, som De seer,</l>
+                     <l xml:id="idm140684018636624">Fiir' og tredsindstyve Gange, hverken Mindre eller Meer.</l>
+                     <l xml:id="idm140684018636160">Dernæst hvert et Klædningsstykke faaer man ganske ruineert</l>
+                     <l xml:id="idm140684018635632">Af den stærke Regn og Snavset, hvormed her man er geneert.</l>
+                     <l xml:id="idm140684018635120">De kan altsaa let beregne, paa hvad Viis det holder Stik,</l>
+                     <l xml:id="idm140684018634656">Naar det hedder, at i Skoven Nødderne man gratis fik.</l>
+                     <l xml:id="idm140684018634144">Tvertimod, i dyre Domme de, min Tro, betales maae,</l>
+                     <l xml:id="idm140684018633696">Men desmere maae vi klage, naar vi slette Nødder faae.</l>
+                     <!-- </lg> --><pb n="182" xml:id="s182" facs="adl/heibergjl/heibergjl3/hejl3182"/>
+                  </sp>
+                  <sp xml:id="idm140684018631536">
+                     <speaker xml:id="idm140684018631280">CHOR AF KJØBSTEDFOLKENE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018630480">Bravo! Bravo! See den Gamle, hvor han ride kan tilvands!</l>
+                     <l xml:id="idm140684018630016">Hvilken Djervhed i hans Tale! Bravo! Bravo! Leve Hans!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018629120">
+                     <speaker xml:id="idm140684018628864">POMONA</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018628128">Lad de vilde Skraal forstumme! Stilhed i Pomonas Lund!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018627232">
+                     <speaker xml:id="idm140684018626976">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018626240">Vi har Lov til os at yttre.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018625360">
+                     <speaker xml:id="idm140684018625104">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018624352">Vil I holde jeres Mund!</l>
+                     <l xml:id="idm140684018623968">Bifaldsyttring er forbuden, Mishagsyttring ligesaa.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018623040">
+                     <speaker xml:id="idm140684018622784">POMONA</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018622048">Mine Nødder ere gode; selv jeg maa det bedst forstaae.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018621088">
+                     <speaker xml:id="idm140684018620832">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018620096">Tvertimod, om De tillader! De, som Frugtens Producent,</l>
+                     <l xml:id="idm140684018619648">Er til Frugten at bedømme netop meest incompetent.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018618704">
+                     <speaker xml:id="idm140684018618448">POMONA</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018617712">Jeg, som Frugternes Gudinde, jeg har ingen Dom om Frugt?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018616800">
+                     <speaker xml:id="idm140684018616544">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018615808">Den, som selv er Part i Sagen, bliver ei til Dommer brugt. <pb n="183" xml:id="s183" facs="adl/heibergjl/heibergjl3/hejl3183"/>
+                     </l>
+                     <l xml:id="idm140684018614080">Vil De Sandhed høre, spørg da Hver af disse Folk derom,</l>
+                     <l xml:id="idm140684018613568">Alle have samme Mening, Peer og Poul har samme Dom.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018612640">
+                     <speaker xml:id="idm140684018612384">POMONA</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018611648">Peer og Poul mig ei bekymre. Har du smagt paa Kjernen?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018610752">
+                     <speaker xml:id="idm140684018610496">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018609760">Nei,</l>
+                     <l xml:id="idm140684018609376">Smagt den har jeg ikke.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018608480">
+                     <speaker xml:id="idm140684018608224">POMONA</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018607488">Hvoraf veed du da, den duer ei?</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018606608">
+                     <speaker xml:id="idm140684018606352">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018605616">Dette Nøddekneekkersamfund har mig sagt, at den er slet.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018604656">
+                     <speaker xml:id="idm140684018604400">POMONA</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018603664">Men nu siger jeg dig, Daare, den er god, og jeg har Ret.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018602752">
+                     <speaker xml:id="idm140684018602496">HANS</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018601760">Dermed er ei Sagen afgjort; Fruens Mening er ei min.</l>
+                     <l xml:id="idm140684018601312">Ene Skallen er anseelig, Kjernen er forbandet fim.</l>
+                     <l xml:id="idm140684018600864">End af uforsøgte Nødder jeg i Lommen har en Skok,</l>
+                     <l xml:id="idm140684018600368">Thi til een og hver at prøve var ei Tiden udstrakt nok;</l>
+                     <l xml:id="idm140684018599856">Hvis man disse blot vil veie, er jeg overtydet om, <pb n="184" xml:id="s184" facs="adl/heibergjl/heibergjl3/hejl3184"/>
+                     </l>
+                     <l xml:id="idm140684018598192">Det paa Vægten alt skal kjendes, at hver anden fast er tom.</l>
+                     <l xml:id="idm140684018597664">Denne Dame, Fru Astræa, som nok er af Deres Slægt,</l>
+                     <l xml:id="idm140684018597152">Vil jeg bede om at veie disse Nødder paa sin Vægt.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018596160">
+                     <speaker xml:id="idm140684018595904">CHOR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018595168">Ogsaa mine skal hun veie.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018594288">
+                     <speaker xml:id="idm140684018594032">FØRSTE SATYR</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018593280">Vil I holde jer i Skind,</l>
+                     <l xml:id="idm140684018592848">Og især dog ikke storme paa Gudinden saadan ind!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018591904">
+                     <speaker xml:id="idm140684018591648">ASTRÆA</speaker>
+                     <stage type="mix" xml:id="idm140684018591264">(til Pomona).</stage>
+                     <!-- <lg> --><l xml:id="idm140684018590256">Jeg, som ned til Jord var steget, kun for Tidens Frugt at see,</l>
+                     <l xml:id="idm140684018589792">Ikke vented jeg, at Tiden sig saa selsomt vilde tee.</l>
+                     <l xml:id="idm140684018589344">Hvad kan alle Frugter hjelpe for en Slægt, som ei formaaer</l>
+                     <l xml:id="idm140684018588832">Dem at nyde? som med Sløvhed gjennem Skov og Have gaaer?</l>
+                     <l xml:id="idm140684018588320">Vel jeg vidste det, Bedrifter give denne Tid ei Glands,</l>
+                     <l xml:id="idm140684018587872">Men jeg troede dog, den smykte sig med Nydelsernes Krands.</l>
+                     <l xml:id="idm140684018587408">Men hvad her jeg seer, mig viser Tidens Yngel slap og tung</l>
+                     <l xml:id="idm140684018586944">Som en alt udlevet Olding, skjøndt den roser sig som ung.</l>
+                     <l xml:id="idm140684018586432">Alle Sandser har den svækket; den kun hører, den kun seer <pb n="185" xml:id="s185" facs="adl/heibergjl/heibergjl3/hejl3185"/>
+                     </l>
+                     <l xml:id="idm140684018584752">Gjennem Hørerør og Briller; den har ingen Tænder meer,</l>
+                     <l xml:id="idm140684018584240">Den maa lade Skallen knækkes af et dødt Maskineri,</l>
+                     <l xml:id="idm140684018583728">Og erfare ved dets Viser, om der Kjerne var deri.</l>
+                     <l xml:id="idm140684018583280">Før mig hen til andre Steder, hvor der ogsaa voxer Frugt;</l>
+                     <l xml:id="idm140684018582768">Seer jeg der den samme Slaphed, da til Himlen gaaer min Flugt.</l>
+                     <!-- </lg> --><stage type="mix" xml:id="idm140684018581952">(Hun gaaer.)</stage>
+                  </sp>
+                  <sp xml:id="idm140684018581200">
+                     <speaker xml:id="idm140684018580944">POMONA</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018580176">Gak, du Nøddeknækkerskare, hjem til dine Skallers Rest;</l>
+                     <l xml:id="idm140684018579664">Husk, du taales kun i Skoven som en gammel Snyltegjæst.</l>
+                     <l xml:id="idm140684018579152">Eder, hurtige Satyrer, giver jeg det muntre Bud,*</l>
+                     <l xml:id="idm140684018578704">At I flux af Skoven drive disse Kjøbstedrotter ud.</l>
+                     <l xml:id="idm140684018578208">Lad dem Bukkefoden føle, naar I jage dem paa Flugt.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018577248">
+                     <speaker xml:id="idm140684018576992">CHOR AF SATYRERNE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018576256">Det skal have gode Veie, vi skal snart med dem faae Bugt.</l>
+                     <!-- </lg> --><stage type="mix" xml:id="idm140684018575472">(Pomona gaaer.)</stage>
+                  </sp>
+                  <sp xml:id="idm140684018574720">
+                     <speaker xml:id="idm140684018574464">CHOR AF KJØBSTEDFOLKENE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018573664">Lad være! lad være!</l>
+                     <l xml:id="idm140684018573216">Jeg skal gaae med det Gode.</l>
+                     <l xml:id="idm140684018572784">Hvilken mageløs Affaire!</l>
+                     <l xml:id="idm140684018572336">Jeg er skrækkelig tilmode!</l>
+                     <l xml:id="idm140684018571888">Som Orkaner de blæse,</l>
+                     <l xml:id="idm140684018571440">De fremad mig støde, <pb n="186" xml:id="s186" facs="adl/heibergjl/heibergjl3/hejl3186"/>
+                     </l>
+                     <l xml:id="idm140684018569792">Jeg falder paa min Næse,</l>
+                     <l xml:id="idm140684018569344">Jeg slaaer mig tildøde.</l>
+                     <l xml:id="idm140684018568896">Jeg føler mod min Ende</l>
+                     <l xml:id="idm140684018568448">Bukkefoden spænde,</l>
+                     <l xml:id="idm140684018568016">Lad være! lad være!</l>
+                     <l xml:id="idm140684018567568">Jeg føler i min Nakke</l>
+                     <l xml:id="idm140684018567120">Hornene hakke,</l>
+                     <l xml:id="idm140684018566704">Lad være! lad være!</l>
+                     <l xml:id="idm140684018566256">I Ryggen det mig kilder,</l>
+                     <l xml:id="idm140684018565824">I Panden det mig hviner,</l>
+                     <l xml:id="idm140684018565392">Min Tanke sig forvilder,</l>
+                     <l xml:id="idm140684018564960">Og det Hele mig piner.</l>
+                     <l xml:id="idm140684018564544">Hvilken mageløs Affaire!</l>
+                     <l xml:id="idm140684018564096">Jeg er skrækkelig tilmode!</l>
+                     <l xml:id="idm140684018563648">Lad være! lad være!</l>
+                     <l xml:id="idm140684018563200">Jeg skal gaae med det Gode!</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018562288">
+                     <speaker xml:id="idm140684018562032">CHOR AF SATYRERNE</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018561296">Lykke paa Reisen, I Q vinder og Mænd!</l>
+                     <l xml:id="idm140684018560816">I komme nok ikke saa snart igjen.</l>
+                     <!-- </lg> --><!-- <lg> --><l xml:id="idm140684018559744">Nu tier den hele Hverdagslarm,</l>
+                     <l xml:id="idm140684018559312">I Skoven er atter stille,</l>
+                     <l xml:id="idm140684018558880">Paa Nattens hvælvede, sorte Barm</l>
+                     <l xml:id="idm140684018558416">Atter Stjernerne spille,</l>
+                     <l xml:id="idm140684018557984">Og alle Naturens Børn paa Jord</l>
+                     <l xml:id="idm140684018557520">Lukke deres Øienlaage;</l>
+                     <l xml:id="idm140684018557072">Til Hvile gaaer og Satyrernes Chor.</l>
+                     <!-- </lg> --></sp>
+                  <sp xml:id="idm140684018556192">
+                     <speaker xml:id="idm140684018555936">CHOR AF NATTENS AANDER</speaker>
+                     <!-- <lg> --><l xml:id="idm140684018555200">Nattens Tanker kun vaage.</l>
+                     <!-- </lg> --></sp>
+                  <pb n="187" xml:id="s187" facs="adl/heibergjl/heibergjl3/hejl3187"/>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

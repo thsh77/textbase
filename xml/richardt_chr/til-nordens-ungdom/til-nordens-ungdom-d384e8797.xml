@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til nordens ungdom.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid70871" decls="#biblid70871">
+            <head xml:id="idm140352321656704">Til Nordens Ungdom.<lb xml:id="idm140352321656416"/>(Den 7. Juni 1875.)</head>
+            <lg xml:id="idm140352321656000">
+               <l xml:id="idm140352321655744">Godt I Unge, lydt at sjunge</l>
+               <l xml:id="idm140352321655312">Nordens Lov paa Nordens Tunge,</l>
+               <l xml:id="idm140352321654880">spinde Mindets gyldne Traad!</l>
+               <l xml:id="idm140352321654448">Godt at hige mod den fjerne,</l>
+               <l xml:id="idm140352321654016">altid klare Haabets Stjerne,</l>
+               <l xml:id="idm140352321653584">bedre dog vor Arv at værne</l>
+               <l xml:id="idm140352321653136">Dag for Dag ved møjsom Daad!</l>
+               <l xml:id="idm140352321652672">Godt at hædre bolde Fædre, -</l>
+               <l xml:id="idm140352321652208">
+                  <hi rend="italics" xml:id="idm140352321652080">ligne</hi> dem er altid bedre,</l>
+               <l xml:id="idm140352321651232">rede Nuets Vadmeltraad!</l>
+            </lg>
+            <lg xml:id="idm140352321650688">
+               <l xml:id="idm140352321650432">Anden Bane, anden Vane, -</l>
+               <l xml:id="idm140352321650000">Dampens Hest har afløst <hi rend="italics" xml:id="idm140352321649680">Grane</hi>,</l>
+               <l xml:id="idm140352321648864">vi maa slaa som Tidens Børn!</l>
+               <l xml:id="idm140352321648400">
+                  <hi rend="italics" xml:id="idm140352321648272">Olafs</hi> Sværd blev Ordets Klinge;</l>
+               <l xml:id="idm140352321647392">
+                  <hi rend="italics" xml:id="idm140352321647264">Mora</hi> Steen er sat paa Thinge;</l>
+               <l xml:id="idm140352321646400">og paa Kjærlighedens Vinge</l>
+               <l xml:id="idm140352321645952">flyver bedst <hi rend="italics" xml:id="idm140352321645664">Margretes</hi> Ørn:</l>
+               <l xml:id="idm140352321644816">Andre Tide, andre Stride -</l>
+               <l xml:id="idm140352321644384">trofast elske, kæmpe, lide</l>
+               <l xml:id="idm140352321643936">skal endnu dog Nordens Børn.</l>
+            </lg>
+            <pb n="130" facs="adl/richardt/richardt2/rich2130" xml:id="idm140352321643344"/>
+            <lg xml:id="idm140352321642576">
+               <l xml:id="idm140352321642320">Haand paa Værket, Maalet mærket!</l>
+               <l xml:id="idm140352321641856">Frem - om ikke pantsersærket -</l>
+               <l xml:id="idm140352321641392">frem mod Lys og frem i Aand!</l>
+               <l xml:id="idm140352321640960">Frem i meer end i at age!</l>
+               <l xml:id="idm140352321640528">Kun i Tro og Haab tilbage</l>
+               <l xml:id="idm140352321640096">til de gamle Pintsedage,</l>
+               <l xml:id="idm140352321639664">ellers fremad Haand i Haand!</l>
+               <l xml:id="idm140352321639232">Gav ej Dværge Kæmper Værge?</l>
+               <l xml:id="idm140352321638768">Vel, saa vil vi Smaa, vi Dværge,</l>
+               <l xml:id="idm140352321638304">smede Skjold for Nordens Aand!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

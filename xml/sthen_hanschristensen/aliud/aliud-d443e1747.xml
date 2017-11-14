@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aliud</title>
+            <author>Sthen, Hans Christensen</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140299314457616">
+                     <name xml:id="idm140299314457360">
+                        <surname xml:id="idm140299314457232">Sthen</surname>,
+      <forename xml:id="idm140299314456848">Hans Christensen</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140299314456560">En liden Vandrebog</title>
+                  <pubPlace xml:id="idm140299314456272">København</pubPlace>
+                  <publisher xml:id="idm140299314455808">Det Danske Sprog- og Litteraturselskab</publisher>
+                  <publisher xml:id="idm140299314455504">C.A. Reitzel</publisher>
+                  <date xml:id="idm140299314455168">1994</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid57529" decls="#biblid57529">
+            <head xml:id="idm140299313945472">
+               <hi rend="italics" xml:id="idm140299313945344">
+                  <emph xml:id="idm140299313944944">ALIUD</emph>
+               </hi>.</head>
+            <lg xml:id="idm140299313944400">
+               <l xml:id="idm140299313944144">GVds Barmhjertighed benaade mig,</l>
+               <l xml:id="idm140299313943712">Guds Godhed oc Naade hielpe mig,</l>
+               <l xml:id="idm140299313943280">Guds Almæctighed beskærme oc beuare mig,</l>
+               <l xml:id="idm140299313942800">Guds Vijßdom opliuse oc regære mig,</l>
+               <l xml:id="idm140299313942320">Guds Kierlighed være met mig,</l>
+               <l xml:id="idm140299313941856">Oc ledsage mig paa alle mine Veye,</l>
+               <l xml:id="idm140299313941424">Oc opholde mig til det euige Liff oc salighed,</l>
+               <l xml:id="idm140299313940976">I Naffn Gud Faders, etc.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

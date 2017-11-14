@@ -1,0 +1,394 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hører seer-skjaldens ord</title>
+            <author>Grundtvig, N. F. S.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140571812926336">
+                     <name xml:id="idm140571812926080">
+                        <surname xml:id="idm140571812925952">Grundtvig</surname>, <forename xml:id="idm140571812925520">N. F. S.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140571812925232"> Sang-Værk til den danske Kirkeskole. - 1946</title>
+                  <pubPlace xml:id="idm140571812924864">København</pubPlace>
+                  <date xml:id="idm140571812924352">1944-1964</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid73485" decls="#biblid73485">
+            <head xml:id="idm140571810475584">
+               <hi rend="bold" xml:id="idm140571810475328">
+                  <hi rend="italics" xml:id="idm140571810474800">No. 35.</hi>
+               </hi>
+               <lb xml:id="idm140571810473984"/>
+               <hi rend="bold" xml:id="idm140571810473728">
+                  <hi rend="italics" xml:id="idm140571810473200">Moses Svanesang.</hi>
+               </hi>
+            </head>
+            <lg xml:id="idm140571810472256">
+               <l xml:id="idm140571810472000">Hører Seer-Skjaldens Ord,</l>
+               <l xml:id="idm140571810471552">I høie Himmel-Sale!</l>
+               <l xml:id="idm140571810471104">Lyt til mig, Du skiønne Jord,</l>
+               <l xml:id="idm140571810470640">Og hør hvad jeg vil tale!</l>
+            </lg>
+            <lg xml:id="idm140571810470064">
+               <l xml:id="idm140571810469808">Fald, mit Billedsprog, som Regn,</l>
+               <l xml:id="idm140571810469424">Som Dug til Blomster-Kiæden!</l>
+               <l xml:id="idm140571810468960">Fald som Snee i Frostens Egn</l>
+               <l xml:id="idm140571810468576">At skjule Vinter-Sæden!</l>
+            </lg>
+            <lg xml:id="idm140571810468000">
+               <l xml:id="idm140571810467744">Herrens Navn er Sangens Rod,</l>
+               <l xml:id="idm140571810467360">Hans Priis er og dens Kierne,</l>
+               <l xml:id="idm140571810466976">Som en Lygte for Hans Fod</l>
+               <l xml:id="idm140571810466592">Kun tindrer hver en Stjerne!</l>
+            </lg>
+            <lg xml:id="idm140571810466080">
+               <l xml:id="idm140571810465824">Sandhed er Guds Heltedaad,</l>
+               <l xml:id="idm140571810465440">Hans Vei, det er den rette,</l>
+               <l xml:id="idm140571810465056">Kiærligt er hans Klogskabs-Raad,</l>
+               <l xml:id="idm140571810464592">Han kan ei falsk forjætte.</l>
+            </lg>
+            <pb n="123" xml:id="s123" facs="adl/grundtvig/grundtvig12/grun12123"/>
+            <lg xml:id="idm140571810462880">
+               <l xml:id="idm140571810462624">Børn af Gud! hvi synder I?</l>
+               <l xml:id="idm140571810462176">Er det Ham Tak at yde!</l>
+               <l xml:id="idm140571810461760">Kringel-Vei er eders Sti,</l>
+               <l xml:id="idm140571810461376">Mangfoldig eders Lyde.</l>
+            </lg>
+            <lg xml:id="idm140571810460832">
+               <l xml:id="idm140571810460576">Herrens Folk! vend om, bliv klog!</l>
+               <l xml:id="idm140571810460192">Din Daarskab du forsage!</l>
+               <l xml:id="idm140571810459808">Gud er jo din Skaber dog,</l>
+               <l xml:id="idm140571810459424">Din Fader alle Dage.</l>
+            </lg>
+            <lg xml:id="idm140571810458880">
+               <l xml:id="idm140571810458624">Arilds-Tiden kom ihu,</l>
+               <l xml:id="idm140571810458208">Og Slægterne i Følge!</l>
+               <l xml:id="idm140571810457760">Fædrene udfritte du!</l>
+               <l xml:id="idm140571810457312">De vil ei Sandhed dølge.</l>
+            </lg>
+            <lg xml:id="idm140571810456736">
+               <l xml:id="idm140571810456480">Adams Børn afdeelde Han,</l>
+               <l xml:id="idm140571810456032">Som har for Alt at raade,</l>
+               <l xml:id="idm140571810455648">Skiænked Lykke, skifted Land</l>
+               <l xml:id="idm140571810455184">Alt af sin Gunst og Naade!</l>
+            </lg>
+            <lg xml:id="idm140571810454672">
+               <l xml:id="idm140571810454416">Mangt et Rige stort og stolt</l>
+               <l xml:id="idm140571810454032">Fik Engle med det Samme,</l>
+               <l xml:id="idm140571810453648">Herren selv sig forbeholdt</l>
+               <l xml:id="idm140571810453264">Kun
+                        <hi rend="italics" xml:id="idm140571810453008">Jakobs</hi>
+Huus og Stamme.</l>
+            </lg>
+            <lg xml:id="idm140571810452032">
+               <l xml:id="idm140571810451776"> Nøies vilde ydmyg Han</l>
+               <l xml:id="idm140571810451328">Da med et Folk i Ørken,</l>
+               <l xml:id="idm140571810450880">Hvor kun Tørst i hede Sand</l>
+               <l xml:id="idm140571810450432">Der voxe kan for Tørken.</l>
+            </lg>
+            <lg xml:id="idm140571810449856">
+               <l xml:id="idm140571810449600">Der Han i dets Midte treen,</l>
+               <l xml:id="idm140571810449216">Og blev dets Foster-Fader,</l>
+               <l xml:id="idm140571810448832">Tog det som sin Øiesteen</l>
+               <l xml:id="idm140571810448384">I Agt paa alle Stader.</l>
+            </lg>
+            <pb n="124" xml:id="s124" facs="adl/grundtvig/grundtvig12/grun12124"/>
+            <lg xml:id="idm140571810446736">
+               <l xml:id="idm140571810446480">Som paa Vagt en Konge-Ørn</l>
+               <l xml:id="idm140571810446032">Sig om sin Rede svinger,</l>
+               <l xml:id="idm140571810445648">Bærer sine spæde Børn</l>
+               <l xml:id="idm140571810445200">Paa vidtudbredte Vinger;</l>
+            </lg>
+            <lg xml:id="idm140571810444688">
+               <l xml:id="idm140571810444432">Saa Han vogted Israel,</l>
+               <l xml:id="idm140571810444048">Og bar ham over Bjerge,</l>
+               <l xml:id="idm140571810443664">Kaldes maa med Ret og Skiel</l>
+               <l xml:id="idm140571810443280">Hans Leder og hans Værge.</l>
+            </lg>
+            <lg xml:id="idm140571810442704">
+               <l xml:id="idm140571810442448">Ikke dog i Ørkens Sand</l>
+               <l xml:id="idm140571810442000">De skulde Bopæl fæste,</l>
+               <l xml:id="idm140571810441552">Reisen gik til Ønskets Land,</l>
+               <l xml:id="idm140571810441088">Hvis Jord var af den Bedste.</l>
+            </lg>
+            <lg xml:id="idm140571810440576">
+               <l xml:id="idm140571810440320">Ax og Vippe der de fandt,</l>
+               <l xml:id="idm140571810439936">Som vented kun paa Riven,</l>
+               <l xml:id="idm140571810439552">Ned ad Klippen Honning randt,</l>
+               <l xml:id="idm140571810439168">Og Bjerget bar Oliven.</l>
+            </lg>
+            <lg xml:id="idm140571810438656">
+               <l xml:id="idm140571810438400">Mælk og Smør gav Kiør og Faar,</l>
+               <l xml:id="idm140571810437936">Og Lammene var fede,</l>
+               <l xml:id="idm140571810437552">Kid og Kalv med glatte Haar</l>
+               <l xml:id="idm140571810437168">Til Giæstebud var rede.</l>
+            </lg>
+            <lg xml:id="idm140571810436592">
+               <l xml:id="idm140571810436336">Drue-Blod af Ranken sprang,</l>
+               <l xml:id="idm140571810435952">Og Hvede-Brød af Straaet,</l>
+               <l xml:id="idm140571810435504">Klart det meldte Frydesang,</l>
+               <l xml:id="idm140571810435120">At Ønsket var opnaaet.</l>
+            </lg>
+            <lg xml:id="idm140571810434544">
+               <l xml:id="idm140571810434288">Yndlingen, som Mælk og Blod,</l>
+               <l xml:id="idm140571810433824">Forkiælet blev da fage,</l>
+               <l xml:id="idm140571810433376">Ilde bar med Overmod</l>
+               <l xml:id="idm140571810432992">Han sine gode Dage.</l>
+            </lg>
+            <pb n="125" xml:id="s125" facs="adl/grundtvig/grundtvig12/grun12125"/>
+            <lg xml:id="idm140571810431280">
+               <l xml:id="idm140571810431024">Israel blev feed og kaad,</l>
+               <l xml:id="idm140571810430640">Sin Skaber han forgiætted,</l>
+               <l xml:id="idm140571810430192">Frelseren med Heltedaad</l>
+               <l xml:id="idm140571810429776">Af Hjertet han udsletted.</l>
+            </lg>
+            <lg xml:id="idm140571810429264">
+               <l xml:id="idm140571810429008">Andre Guder splinternye</l>
+               <l xml:id="idm140571810428592">Begyndte de at dyrke,</l>
+               <l xml:id="idm140571810428176">Vraged Herren over Sky</l>
+               <l xml:id="idm140571810427760">Hans Lov, Hans Ord og Styrke.</l>
+            </lg>
+            <lg xml:id="idm140571810427248">
+               <l xml:id="idm140571810426992">Han dem avled og opdrog,</l>
+               <l xml:id="idm140571810426560">De kosted vaagne Nætter,</l>
+               <l xml:id="idm140571810426112">Dog de Ham i Veiret slog,</l>
+               <l xml:id="idm140571810425680">Paakaldte onde Vætter!</l>
+            </lg>
+            <lg xml:id="idm140571810425104">
+               <l xml:id="idm140571810424848">Som en Fader vorder vred</l>
+               <l xml:id="idm140571810424416">Paa Døttre og paa Sønner,</l>
+               <l xml:id="idm140571810423968">Naar hans ømme Kiærlighed</l>
+               <l xml:id="idm140571810423520">De kun med Utak lønner;</l>
+            </lg>
+            <lg xml:id="idm140571810422944">
+               <l xml:id="idm140571810422688">Herren sagde vred: o vee!</l>
+               <l xml:id="idm140571810422256">Jeg vil dem Ryggen vende,</l>
+               <l xml:id="idm140571810421824">Snart de skal da faae at see,</l>
+               <l xml:id="idm140571810421392">Hvor daarlig det vil ende.</l>
+            </lg>
+            <lg xml:id="idm140571810420832">
+               <l xml:id="idm140571810420576">Hjerte-Sorg af Børn utroe</l>
+               <l xml:id="idm140571810420128">Jeg har foruden Brøde,</l>
+               <l xml:id="idm140571810419680">Men af Vanart Torne groe,</l>
+               <l xml:id="idm140571810419248">De lære dem at bløde.</l>
+            </lg>
+            <lg xml:id="idm140571810418672">
+               <l xml:id="idm140571810418416">Skabe de af ingen Ting</l>
+               <l xml:id="idm140571810418000">Sig
+                        <hi rend="italics" xml:id="idm140571810417696">Guder</hi>
+mig til Kvide,</l>
+               <l xml:id="idm140571810416848">De for
+                        <hi rend="italics" xml:id="idm140571810416544">Folk</hi>
+af ingen Ting</l>
+               <l xml:id="idm140571810415696">Sig skal i Læben bide.</l>
+            </lg>
+            <pb n="126" xml:id="s126" facs="adl/grundtvig/grundtvig12/grun12126"/>
+            <lg xml:id="idm140571810413872">
+               <l xml:id="idm140571810413616">Drilles Jeg, som Intet værd,</l>
+               <l xml:id="idm140571810413152">Af dem med Afguds-Vrimlen,</l>
+               <l xml:id="idm140571810412720">Jeg et aandløst Folkefærd</l>
+               <l xml:id="idm140571810412272">Optage vil til Himlen.</l>
+            </lg>
+            <lg xml:id="idm140571810411728">
+               <l xml:id="idm140571810411472">Vreden min er som en Ild,</l>
+               <l xml:id="idm140571810411040">Den Jord og Himmel tænder,</l>
+               <l xml:id="idm140571810410592">Bryder ud af Bjerge vild,</l>
+               <l xml:id="idm140571810410160">Og Bølgerne opbrænder.</l>
+            </lg>
+            <lg xml:id="idm140571810409584">
+               <l xml:id="idm140571810409328">Mine Pile som en Sky</l>
+               <l xml:id="idm140571810408912">Dem skal om Øren suse,</l>
+               <l xml:id="idm140571810408464">Spørges skal Ulykker nye</l>
+               <l xml:id="idm140571810408016">Hver Dag i deres Huse.</l>
+            </lg>
+            <lg xml:id="idm140571810407472">
+               <l xml:id="idm140571810407216">Sult og Sot i deres Land</l>
+               <l xml:id="idm140571810406784">Skal blege Kinder røde,</l>
+               <l xml:id="idm140571810406336">Tiger-Klo og Edder-Tand</l>
+               <l xml:id="idm140571810405920">Dem skal paa Veien møde.</l>
+            </lg>
+            <lg xml:id="idm140571810405344">
+               <l xml:id="idm140571810405088">Segne skal for Odd og Egg</l>
+               <l xml:id="idm140571810404656">I aaben Mark Fuldmange,</l>
+               <l xml:id="idm140571810404240">Blegne skal og døe af Skræk</l>
+               <l xml:id="idm140571810403776">I Kamrene de Bange.</l>
+            </lg>
+            <lg xml:id="idm140571810403232">
+               <l xml:id="idm140571810402976">Barnet ved sin Moders Bryst,</l>
+               <l xml:id="idm140571810402544">Og Oldingen ved Staven,</l>
+               <l xml:id="idm140571810402128">Stærk og Svag i Vaar og Høst,</l>
+               <l xml:id="idm140571810401664">Er lige nær ved Graven.</l>
+            </lg>
+            <lg xml:id="idm140571810401088">
+               <l xml:id="idm140571810400832">Paa mit Ord, af Folke-Lag</l>
+               <l xml:id="idm140571810400400">Jeg vilde dem udslettet,</l>
+               <l xml:id="idm140571810399968">Deres Navn og Fødselsdag</l>
+               <l xml:id="idm140571810399520">De skulde selv forgiættet,</l>
+            </lg>
+            <pb n="127" xml:id="s127" facs="adl/grundtvig/grundtvig12/grun12127"/>
+            <lg xml:id="idm140571810397808">
+               <l xml:id="idm140571810397552">Naar ei til min Spot og Harm</l>
+               <l xml:id="idm140571810397120">Det kom i Folke-Munde,</l>
+               <l xml:id="idm140571810396704">At for Fiendens Kæmpe-Arm</l>
+               <l xml:id="idm140571810396256">Min Yndling gik tilgrunde!</l>
+            </lg>
+            <lg xml:id="idm140571810395696">
+               <l xml:id="idm140571810395440">Derfor, trøst dig, Israel!</l>
+               <l xml:id="idm140571810394992">Er dine Fiender grumme,</l>
+               <l xml:id="idm140571810394576">Paa det Dybe, til dit Held,</l>
+               <l xml:id="idm140571810394144">De er som Dyr saa dumme.</l>
+            </lg>
+            <lg xml:id="idm140571810393584">
+               <l xml:id="idm140571810393328">De ei see, den Sag er reen,</l>
+               <l xml:id="idm140571810392896">At deres Kraft ei klækker,</l>
+               <l xml:id="idm140571810392448">Tusinder maa flye for Een,</l>
+               <l xml:id="idm140571810392016">Naar Himlen dem forskrækker.</l>
+            </lg>
+            <lg xml:id="idm140571810391424">
+               <l xml:id="idm140571810391168">Trøst dig meer, mit Folk, endnu,</l>
+               <l xml:id="idm140571810390704">Naar dine Fiender braske!</l>
+               <l xml:id="idm140571810390272">Deres Styrke, kom ihu,</l>
+               <l xml:id="idm140571810389856">Er dog kun Støv og Aske!</l>
+            </lg>
+            <lg xml:id="idm140571810389280">
+               <l xml:id="idm140571810389024">Deres Hellig er jo søgn,</l>
+               <l xml:id="idm140571810388576">Trods Lamperne, de tænde,</l>
+               <l xml:id="idm140571810388128">Deres Guder er jo Løgn,</l>
+               <l xml:id="idm140571810387680">Trods Røgelsen, de brænde!</l>
+            </lg>
+            <lg xml:id="idm140571810387088">
+               <l xml:id="idm140571810386832">Med sin Rod i Sodoms Grav</l>
+               <l xml:id="idm140571810386400">Og i Gomorras Emmer,</l>
+               <l xml:id="idm140571810385984">Ranken ved det døde Hav</l>
+               <l xml:id="idm140571810385536">Sin Jordbund ei beskiæmmer:</l>
+            </lg>
+            <lg xml:id="idm140571810384944">
+               <l xml:id="idm140571810384688">Deres Drue leversød</l>
+               <l xml:id="idm140571810384240">Er Galde dog i Grunden,</l>
+               <l xml:id="idm140571810383824">Deres Viin, saa hvid og rød,</l>
+               <l xml:id="idm140571810383360">Kun Skum af Slange-Munden.</l>
+            </lg>
+            <pb n="128" xml:id="s128" facs="adl/grundtvig/grundtvig12/grun12128"/>
+            <lg xml:id="idm140571810381600">
+               <l xml:id="idm140571810381344">Den Forstand paa Tidens Tegn</l>
+               <l xml:id="idm140571810380912">Det er en Skat paa Rente,</l>
+               <l xml:id="idm140571810380480">Deres Fod i Mørkheds Egn</l>
+               <l xml:id="idm140571810380032">Skal snuble før de vente.</l>
+            </lg>
+            <lg xml:id="idm140571810379456">
+               <l xml:id="idm140571810379200">Tiden rinder, Timen slaaer,</l>
+               <l xml:id="idm140571810378768">Giengiældelsen skal komme,</l>
+               <l xml:id="idm140571810378320">Sandhed Undergangen spaaer,</l>
+               <l xml:id="idm140571810377888">Thi rette er Guds Domme.</l>
+            </lg>
+            <lg xml:id="idm140571810377328">
+               <l xml:id="idm140571810377072">Himlens Herre da sin Trøst</l>
+               <l xml:id="idm140571810376624">Skal over Folket aande,</l>
+               <l xml:id="idm140571810376208">Raade Bod paa deres Brøst</l>
+               <l xml:id="idm140571810375760">Og Bod paa deres Vaande.</l>
+            </lg>
+            <lg xml:id="idm140571810375200">
+               <l xml:id="idm140571810374944">Hjelpeløse findes de,</l>
+               <l xml:id="idm140571810374496">Og selv de Intet mægte,</l>
+               <l xml:id="idm140571810374048">Ynk det er for Gud at see</l>
+               <l xml:id="idm140571810373616">Paa Veien dem forsmægte.</l>
+            </lg>
+            <lg xml:id="idm140571810373040">
+               <l xml:id="idm140571810372784">Da tiltaler Han igien</l>
+               <l xml:id="idm140571810372368">De Bange og de Matte:</l>
+               <l xml:id="idm140571810371952">Hvor fløi nu de Guder hen,</l>
+               <l xml:id="idm140571810371504">Til hvem I Liden satte?</l>
+            </lg>
+            <lg xml:id="idm140571810370960">
+               <l xml:id="idm140571810370704">Hjordens Fedme, Druens Blod,</l>
+               <l xml:id="idm140571810370272">I offred dem til Ære,</l>
+               <l xml:id="idm140571810369824">Røre Haand de nu og Fod</l>
+               <l xml:id="idm140571810369376">For eders Skjold at være?</l>
+            </lg>
+            <lg xml:id="idm140571810368800">
+               <l xml:id="idm140571810368544">Gud er Jeg i Gry og Kveld,</l>
+               <l xml:id="idm140571810368112">Skal Jævning aldrig møde,</l>
+               <l xml:id="idm140571810367664">Jeg er Den, som slaaer ihjel</l>
+               <l xml:id="idm140571810367232">Og vækker op af Døde!</l>
+            </lg>
+            <pb n="129" xml:id="s129" facs="adl/grundtvig/grundtvig12/grun12129"/>
+            <lg xml:id="idm140571810365520">
+               <l xml:id="idm140571810365264">Lægedom for alle Saar</l>
+               <l xml:id="idm140571810364816">Jeg har mit Folk at give;</l>
+               <l xml:id="idm140571810364384">Ingen dem med hvide Haar</l>
+               <l xml:id="idm140571810363952">Skal af min Haand udrive!</l>
+            </lg>
+            <lg xml:id="idm140571810363392">
+               <l xml:id="idm140571810363136">Fingrene Jeg rækker op,</l>
+               <l xml:id="idm140571810362688">Til ved min Haand at sværge:</l>
+               <l xml:id="idm140571810362224">Lever Jeg, mod hver en Trop</l>
+               <l xml:id="idm140571810361792">Jeg skal min Odel værge!</l>
+            </lg>
+            <lg xml:id="idm140571810361216">
+               <l xml:id="idm140571810360960">Ja, for Sagn skal times Syn,</l>
+               <l xml:id="idm140571810360528">Hvor Haand i med Jeg tager,</l>
+               <l xml:id="idm140571810360096">Blinke skal og slaae som Lyn</l>
+               <l xml:id="idm140571810359664">Det Sværd, som Jeg uddrager.</l>
+            </lg>
+            <lg xml:id="idm140571810359072">
+               <l xml:id="idm140571810358816">Fienden i sin egen Stil</l>
+               <l xml:id="idm140571810358400">Da til min Ære kvæder:</l>
+               <l xml:id="idm140571810357952">En Blod-Igel er Hans Piil,</l>
+               <l xml:id="idm140571810357520">Og Sværdet en Kiød-Æder.</l>
+            </lg>
+            <lg xml:id="idm140571810356944">
+               <l xml:id="idm140571810356688">Fuld Betaling af min Haand</l>
+               <l xml:id="idm140571810356256">Skal Fiender alle have:</l>
+               <l xml:id="idm140571810355840">Bane-Saar og Trælle-Baand</l>
+               <l xml:id="idm140571810355392">Til Høie og til Lave!</l>
+            </lg>
+            <lg xml:id="idm140571810354816">
+               <l xml:id="idm140571810354560">Himmel! vær Hans Glædes Tolk!</l>
+               <l xml:id="idm140571810354096">Nedknæler, Engle-Hære!</l>
+               <l xml:id="idm140571810353648">Fryder Eder med Hans Folk,</l>
+               <l xml:id="idm140571810353216">I Hedninger livkiære!</l>
+            </lg>
+            <lg xml:id="idm140571810352640">
+               <l xml:id="idm140571810352384">Børne-Flok af Gud! fat Mod!</l>
+               <l xml:id="idm140571810351920">Reis Hoved dit iveiret!</l>
+               <l xml:id="idm140571810351504">Hevnet er alt Broder-Blod,</l>
+               <l xml:id="idm140571810351072">Din Fader, Han har seiret!</l>
+            </lg>
+            <pb n="130" xml:id="s130" facs="adl/grundtvig/grundtvig12/grun12130"/>
+            <lg xml:id="idm140571810349264">
+               <l xml:id="idm140571810349008">Avinds-Manden, sat i Band,</l>
+               <l xml:id="idm140571810348576">Skal sig ei meer ophøie;</l>
+               <l xml:id="idm140571810348128">Renses skal Guds Folk og Land</l>
+               <l xml:id="idm140571810347696">Og blomstre for Hans Øie!*)</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

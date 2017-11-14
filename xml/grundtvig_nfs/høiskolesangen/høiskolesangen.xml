@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Høiskolesangen</title>
+            <author>Grundtvig, N. F. S.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139947089396064">
+                     <name xml:id="idm139947089395808">
+                        <surname xml:id="idm139947089395680">Grundtvig</surname>, <forename xml:id="idm139947089395248">N. F. S.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139947089394992">N. F. S. Grundtvigs udvalgte Skrifter</title>
+                  <pubPlace xml:id="idm139947089394688">København</pubPlace>
+                  <publisher xml:id="idm139947089394224">Gyldendalske Boghandel</publisher>
+                  <date xml:id="idm139947089393888">1904-1909</date>
+                  <biblScope>77-79</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid70110" decls="#biblid70110">
+            <front xml:id="idm139947087437088">
+               <titlePage xml:id="idm139947087436832">
+                  <titlePart type="main" xml:id="idm139947087436576">HØISKOLESANGEN.</titlePart>
+               </titlePage>
+               <div xml:id="idm139947087435744">
+                  <p xml:id="idm139947087435488">DEN bekendte Højskolesang: »Hvad Solskin er for det sorte Muld«, har
+							Grundtvig digtet i Sommeren 1856. Den blev første Gang trykt og sunget
+							ved Indvielsen af Skolen i Sjolte i Snesere Sogn ved Præstø, den 25.
+							Juli 1856, og det var sikkert Præsten Peter Rørdam, der havde faa
+							etGrundtvig til at lade den trykke. I et Brev til Rørdam fra den 16.
+							Juli 1856 skriver Grundtvig: »Jeg hittede dog paa et par andre Linier,
+							saa der kommer »Sjolte« i Skolevisen.« Begyndelsen af Sangens sidste
+							Vers har sandsynligvis oprindelig lydt som nu almindeligt :</p>
+                  <lg xml:id="idm139947087434464">
+                     <l xml:id="idm139947087434208">Som Dansken seired en Sommerdag,</l>
+                     <l xml:id="idm139947087433776">Og jog af Marken de lede Trolde,</l>
+                     <l xml:id="idm139947087433344">Nu seire Lysets den gode Sag</l>
+                     <l xml:id="idm139947087432912">Hvor Løver føres i Hjerteskjolde;</l>
+                  </lg>
+                  <p xml:id="idm139947087432320">Men disse Linjer har Grundtvig efter Rørdams Ønske rettet saaledes, at
+							Jens Olsen og de andre gode Bønder i Sjolte kunde have den Glæde at se
+							deres Bys Navn i Sangen.</p>
+                  <p xml:id="idm139947087431552">Ved Indvielsen af Grundtvigs egen Højskole paa <hi rend="italics" xml:id="idm139947087431184"><!--<emph>-->Marielys<!--</emph>--></hi>t den 3. November 1856 blev
+							Sangen optrykt. I femte Vers var Teksten ændret til det formentlig
+							oprindelige. Foran dette Vers var der indskudt et nyt, der lyder:</p>
+                  <lg xml:id="idm139947087429648">
+                     <l xml:id="idm139947087429392">Oprind da over <hi rend="italics" xml:id="idm139947087429136"><!--<emph>-->Marielyst<!--</emph>--></hi>,</l>
+                     <l xml:id="idm139947087427968">Oplysnings-Sol med din Morgenrøde!</l>
+                     <l xml:id="idm139947087427504">Syng, Ungdomsfugl, af dit fulde Bryst!</l>
+                     <l xml:id="idm139947087427072">Thi Modersmaalet har Toner søde;</l>
+                     <l xml:id="idm139947087426608">Trods Mørkets Harme</l>
+                     <l xml:id="idm139947087426160">I Straale-Arme</l>
+                     <l xml:id="idm139947087425776">Af Lys og Varme</l>
+                     <l xml:id="idm139947087425360">Er Dansken sød!</l>
+                  </lg>
+                  <p xml:id="idm139947087424800">(Første Linje af dette Vers blev senere ændret til: »Oprind da herlig til
+							Fugletrøst«).</p>
+                  <pb n="77" xml:id="s77" facs="adl/grundtvig/grundtvig10/grun10077"/>
+                  <p xml:id="idm139947087423056">Og der var tilføjet et nyt Slutningsvers, saa lydende:</p>
+                  <lg xml:id="idm139947087422544">
+                     <l xml:id="idm139947087422288">Vorherre vidner, at Lys er godt,</l>
+                     <l xml:id="idm139947087421856">Som Sandhed elskes, saa Lyset yndes,</l>
+                     <l xml:id="idm139947087421424">Og med Vorherre, som leer ad Spot,</l>
+                     <l xml:id="idm139947087420992">Skal Værket lykkes, som her begyndes;</l>
+                     <l xml:id="idm139947087420512">I Gyldenkarme</l>
+                     <l xml:id="idm139947087420096">Skal Lys og Varme</l>
+                     <l xml:id="idm139947087419680">Med Straale-Arme</l>
+                     <l xml:id="idm139947087419264">For Styret staae !</l>
+                  </lg>
+                  <p xml:id="idm139947087418720">Her skal Sangen gengives i sin første trykte Form.</p>
+               </div>
+            </front>
+            <body xml:id="idm139947087417968">
+               <pb n="78" xml:id="s78" facs="adl/grundtvig/grundtvig10/grun10078"/>
+               <div xml:id="idm139947087416560">
+                  <head xml:id="idm139947087416304">
+                     <hi rend="italics" xml:id="idm139947087416176"><!--<emph>-->Ved Indvielsen<!--</emph>--></hi>
+                     <lb xml:id="idm139947087415264"/> af<lb xml:id="idm139947087415008"/>
+                     <hi rend="italics" xml:id="idm139947087414880"><!--<emph>-->Skolen i Sjolte<!--</emph>--></hi>,<lb xml:id="idm139947087413872"/>
+                     <hi rend="italics" xml:id="idm139947087413744"><!--<emph>-->i Snesere Sogn ved Præstø<!--</emph>--></hi>.<lb xml:id="idm139947087412704"/>
+                     <hi rend="italics" xml:id="idm139947087412576"><!--<emph>-->25de Juli 1856<!--</emph>--></hi>.</head>
+                  <stage type="mix" xml:id="idm139947087411440">Mel.: Det er saa yndigt at følges ad.</stage>
+                  <lg xml:id="idm139947087410720">
+                     <l xml:id="idm139947087410464">
+                        <hi rend="bold" xml:id="idm139947087410336">H</hi>vad Soelskin er for det sorte Muld</l>
+                     <l xml:id="idm139947087409536">Er sand Oplysning for Muldets Frænde,</l>
+                     <l xml:id="idm139947087409056">Langt mere værdt end det røde Guld,</l>
+                     <l xml:id="idm139947087408576">Det er sin Gud og sig selv at kiende;</l>
+                     <l xml:id="idm139947087408144">Trods Mørkets Harme,</l>
+                     <l xml:id="idm139947087407696">I Straale-Arme</l>
+                     <l xml:id="idm139947087407280">Af Lys og Varme</l>
+                     <l xml:id="idm139947087406864">Er Lykken klar!</l>
+                  </lg>
+                  <lg xml:id="idm139947087406320">
+                     <l xml:id="idm139947087406064">Som Solen skinner i Foraarstid,</l>
+                     <l xml:id="idm139947087405632">Og som den varmer i Sommerdage,</l>
+                     <l xml:id="idm139947087405200">Al sand Oplysning er mild og blid,</l>
+                     <l xml:id="idm139947087404768">Saa den vort Hjerte maa vel behage;</l>
+                     <l xml:id="idm139947087404336">Trods Mørkets Harme.</l>
+                     <l xml:id="idm139947087403888">I Straale-Arme</l>
+                     <l xml:id="idm139947087403472">Af Lys og Varme</l>
+                     <l xml:id="idm139947087403056">Er Hjertensfryd!</l>
+                  </lg>
+                  <pb n="79" xml:id="s79" facs="adl/grundtvig/grundtvig10/grun10079"/>
+                  <lg xml:id="idm139947087401408">
+                     <l xml:id="idm139947087401152">Som Urter blomstre og Kornet groer</l>
+                     <l xml:id="idm139947087400720">I varme Dage og lyse Nætter,</l>
+                     <l xml:id="idm139947087400256">Saa <hi rend="italics" xml:id="idm139947087399968"><!--<emph>-->Livs-Oplysning<!--</emph>--></hi>
+								i høie Nord</l>
+                     <l xml:id="idm139947087398736">Vor Ungdom Blomster og Frugt forjætter;</l>
+                     <l xml:id="idm139947087398256">Trods Mørkets Harme,</l>
+                     <l xml:id="idm139947087397808">I Straale-Arme</l>
+                     <l xml:id="idm139947087397424">Af Lys og Varme</l>
+                     <l xml:id="idm139947087397008">Er Frugtbarhed!</l>
+                  </lg>
+                  <lg xml:id="idm139947087396464">
+                     <l xml:id="idm139947087396208">Som Fuglesangen i grønne Lund,</l>
+                     <l xml:id="idm139947087395744">Den<hi rend="sup" xml:id="idm139947087395440">1</hi> liflig klinger i Vaar og Sommer,</l>
+                     <l xml:id="idm139947087394640">Vort <hi rend="italics" xml:id="idm139947087394352"><!--<emph>-->Modersmaal<!--</emph>--></hi> i
+								vor Ungdoms Mund</l>
+                     <l xml:id="idm139947087393136">Skal liflig klinge, naar Lyset kommer;</l>
+                     <l xml:id="idm139947087392704">Trods Mørkets Harme,</l>
+                     <l xml:id="idm139947087392256">I Straale-Arme</l>
+                     <l xml:id="idm139947087391872">Af Lys og Varme</l>
+                     <l xml:id="idm139947087391456">Er Røsten klar!</l>
+                  </lg>
+                  <lg xml:id="idm139947087390896">
+                     <l xml:id="idm139947087390640">Som <hi rend="italics" xml:id="idm139947087390352"><!--<emph>-->Dansken<!--</emph>--></hi> seired
+								en Sommerdag,</l>
+                     <l xml:id="idm139947087389136">Og jog af Marken hvad Ufred voldte,</l>
+                     <l xml:id="idm139947087388704">Nu seire Lysets den gode Sag</l>
+                     <l xml:id="idm139947087388272">I hele <hi rend="italics" xml:id="idm139947087388016"><!--<emph>-->Danmark<!--</emph>--></hi> og
+								her i <hi rend="italics" xml:id="idm139947087386976"><!--<emph>-->Sjolte!<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm139947087385808">Trods Mørkets Harme,</l>
+                     <l xml:id="idm139947087385360">Med Straale-Arme</l>
+                     <l xml:id="idm139947087384976">Af Lys og Varme</l>
+                     <l xml:id="idm139947087384560">
+                        <hi rend="italics" xml:id="idm139947087384432"><!--<emph>-->Vor Skole<!--</emph>--></hi>
+							staae!</l>
+                  </lg>
+                  <note anchored="true" xml:id="idm139947087383136">
+                     <hi rend="sup" xml:id="idm139947087382736">1</hi> Teksten fra 3. November 1856: »Der«</note>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

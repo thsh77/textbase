@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paræneticum ad astronomiae cultores</title>
+            <author>Brahe, Tycho</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139905714229008">
+                     <name xml:id="idm139905714228752">
+                        <surname xml:id="idm139905714228624">Brahe</surname>, <forename xml:id="idm139905714228160">Tycho</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139905714227872">Tychonis Brahe Dani opera omnia</title>
+                  <pubPlace xml:id="idm139905714227568">Hauniæ</pubPlace>
+                  <date xml:id="idm139905714227056">1913-29</date>
+                  <biblScope>302-303</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid54250" decls="#biblid54250">
+            <body xml:id="idm139905714206624">
+               <pb n="303" xml:id="n303" facs="adl/tycho/tycho02/tycho2303"/>
+               <p xml:id="idm139905714205136"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

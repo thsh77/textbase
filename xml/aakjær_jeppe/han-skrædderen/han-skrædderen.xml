@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Han-skrædderen</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140240949773344">
+                     <name xml:id="idm140240949773088">
+                        <surname xml:id="idm140240949772960">Aakjær</surname>, <forename xml:id="idm140240949772528">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140240949772272"> Vadmelsfolk ; Af Gammel Jehannes hans Bivelskistaarri ; Esper Tækki. - 1919</title>
+                  <pubPlace xml:id="idm140240949771840">København</pubPlace>
+                  <pubPlace xml:id="idm140240949771376">Kristiania</pubPlace>
+                  <publisher xml:id="idm140240949770912">Gyldendal</publisher>
+                  <date xml:id="idm140240949770576">1918-19</date>
+                  <biblScope>218-225</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid56752" decls="#biblid56752">
+            <body xml:id="idm140240949403248">
+               <pb n="219" xml:id="n219" facs="adl/aakjaer/aakjaer7/aakj7219"/>
+               <pb n="220" xml:id="n220" facs="adl/aakjaer/aakjaer7/aakj7220"/>
+               <pb n="221" xml:id="n221" facs="adl/aakjaer/aakjaer7/aakj7221"/>
+               <pb n="222" xml:id="n222" facs="adl/aakjaer/aakjaer7/aakj7222"/>
+               <pb n="223" xml:id="n223" facs="adl/aakjaer/aakjaer7/aakj7223"/>
+               <pb n="224" xml:id="n224" facs="adl/aakjaer/aakjaer7/aakj7224"/>
+               <pb n="225" xml:id="n225" facs="adl/aakjaer/aakjaer7/aakj7225"/>
+               <p xml:id="idm140240949394544"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

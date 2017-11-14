@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Et epigram.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid63618" decls="#biblid63618">
+            <head xml:id="idm140382756447104">ET EPIGRAM.</head>
+            <lg xml:id="idm140382756446688">
+               <l xml:id="idm140382756446432">Den gamle B. skjøn Ida monne sit Hjerte skjænke;</l>
+               <l xml:id="idm140382756445936">Ak stakkels Glut! hvor er hun tidlig bleven Enke! -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Parnasdommen, 1814</title>
+            <author>Baggesen, Jens</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139898996227984">
+                     <name xml:id="idm139898996227728">
+                        <surname xml:id="idm139898996227600">Baggesen</surname>, <forename xml:id="idm139898996227136">Jens</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139898996226848"> Riimbreve og poetiske Epistler. 2. Samling, 1809-1823. - 1894</title>
+                  <pubPlace xml:id="idm139898996226512">København</pubPlace>
+                  <date xml:id="idm139898996226000">1889-1903</date>
+                  <biblScope>139-141</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid56038" decls="#biblid56038">
+            <body xml:id="idm139898995938048">
+               <pb n="140" xml:id="n140" facs="adl/baggesen/baggesen3/bagg3140"/>
+               <pb n="141" xml:id="n141" facs="adl/baggesen/baggesen3/bagg3141"/>
+               <p xml:id="idm139898995935264"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

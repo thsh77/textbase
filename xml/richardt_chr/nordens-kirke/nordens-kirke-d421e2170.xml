@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nordens kirke.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid57640" decls="#biblid57640">
+            <head xml:id="idm139731449596752">Nordens Kirke.<lb xml:id="idm139731449596464"/>(Ved Kirkemødet 1857.)</head>
+            <lg xml:id="idm139731449596016">
+               <l xml:id="idm139731449595760">Jeg veed en gammel Kirke - dens Taarne er tre -</l>
+               <l xml:id="idm139731449595312">ombrust af Havets rullende Torden,</l>
+               <l xml:id="idm139731449594880">snart staar den mellem Blomster, snart staar den i Snee,</l>
+               <l xml:id="idm139731449594416">dens Navn det er Kirken i Norden!</l>
+               <l xml:id="idm139731449593984">Ansgar har den bygget; med Blod er den kjøbt;</l>
+               <l xml:id="idm139731449593488">til den blev jeg baaret, i den er jeg døbt,</l>
+               <l xml:id="idm139731449592992">fra den skal jeg sænkes i Jorden.</l>
+            </lg>
+            <pb n="23" xml:id="s23" facs="adl/richardt/richardt1/rich1023"/>
+            <lg xml:id="idm139731449591232">
+               <l xml:id="idm139731449590976">Det Taarn imod Syd staar i Bøgenes Ly,</l>
+               <l xml:id="idm139731449590496">og Kingo gav Sangværket Tone;</l>
+               <l xml:id="idm139731449590032">og Taarnet mod Vester har Guldspir i Sky,</l>
+               <l xml:id="idm139731449589584">det smedded Sanct Olaf af sin Krone;</l>
+               <l xml:id="idm139731449589152">men Taarnet i Øst stander Broderen nær,</l>
+               <l xml:id="idm139731449588672">der hænger Gustav Adolfs korsdannede Sværd,</l>
+               <l xml:id="idm139731449588176">som splintred den romerske Trone.</l>
+            </lg>
+            <lg xml:id="idm139731449587616">
+               <l xml:id="idm139731449587360">Og vel er Kirkens Væg baade gammel og svag</l>
+               <l xml:id="idm139731449586880">og haver saamangen en Fure,</l>
+               <l xml:id="idm139731449586448">men Han, som er Herre over Tordenens Brag,</l>
+               <l xml:id="idm139731449586000">han leder og Lynet fra dens Mure;</l>
+               <l xml:id="idm139731449585568">han rejser sine Taarne med Klokker i Sky,</l>
+               <l xml:id="idm139731449585120">han aabner sine Haller, den Trætte til Ly,</l>
+               <l xml:id="idm139731449584640">han selv er sin Kirkes gode Kure!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

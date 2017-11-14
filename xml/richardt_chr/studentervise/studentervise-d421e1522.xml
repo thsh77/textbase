@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Studentervise.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid56347" decls="#biblid56347">
+            <head xml:id="idm139731449757392">Studentervise.<lb xml:id="idm139731449757104"/>(Ved C. Plougs Studenterjubilæum.)</head>
+            <lg xml:id="idm139731449756640">
+               <l xml:id="idm139731449756384">Vi Studenter har en Skik:</l>
+               <l xml:id="idm139731449755952">Naar vi længe har kukeluret</l>
+               <l xml:id="idm139731449755488">og med længselsfulde Blik</l>
+               <l xml:id="idm139731449755040">stirret ud gjennem Buret,</l>
+               <l xml:id="idm139731449754608">pakke vi sammen vor Visdom med Mere</l>
+               <l xml:id="idm139731449754176">og den til Bloksbjerg i Hast adressere,</l>
+               <l xml:id="idm139731449753744">flokkes med Brødre og salte paa Trods</l>
+               <l xml:id="idm139731449753264">Verden, til den smager os.</l>
+            </lg>
+            <lg xml:id="idm139731449752704">
+               <l xml:id="idm139731449752448">Vi Studenter har en Tro</l>
+               <l xml:id="idm139731449752032">og et mægtigt tonende Løsen:</l>
+               <l xml:id="idm139731449751568">Vi er Eet med dem, der bo</l>
+               <l xml:id="idm139731449751136">ved Málaren og Mjøsen.</l>
+               <l xml:id="idm139731449750688">Enten man snurrer paa Normannamaalet,</l>
+               <l xml:id="idm139731449750256">eller det runger som Klangen af Staalet,</l>
+               <l xml:id="idm139731449749808">eller man traver et ordentligt Dansk,</l>
+               <l xml:id="idm139731449749376">det er lige Indenlandsk!</l>
+            </lg>
+            <lg xml:id="idm139731449748816">
+               <l xml:id="idm139731449748560">Vi Studenter har et Held:</l>
+               <l xml:id="idm139731449748128">det er det, at vi kun er unge;</l>
+               <l xml:id="idm139731449747696">Friheds klare Kildevæld</l>
+               <l xml:id="idm139731449747248">kan vi høre sjunge;</l>
+               <l xml:id="idm139731449746800">hvordan det ledes maa Andre forsvare,</l>
+               <l xml:id="idm139731449746368">men, at det sprudler, vil vi tage vare!</l>
+               <l xml:id="idm139731449745936">»Ingen maa udjage Hunde deri!«</l>
+               <l xml:id="idm139731449745504">Vi er selv vort Politi.</l>
+            </lg>
+            <pb n="12" xml:id="s12" facs="adl/richardt/richardt1/rich1012"/>
+            <lg xml:id="idm139731449743792">
+               <l xml:id="idm139731449743536">Vi Studenter har en Ven,</l>
+               <l xml:id="idm139731449743104">som os aldrig nogentid sviger,</l>
+               <l xml:id="idm139731449742672">som staar Vagt med Mund og Pen</l>
+               <l xml:id="idm139731449742240">om Ideernes Riger;</l>
+               <l xml:id="idm139731449741824">han stod ved Ror, naar vi styred mod Norden,</l>
+               <l xml:id="idm139731449741376">han var vor Thor, naar vi trængte til Torden,</l>
+               <l xml:id="idm139731449740880">han var vor Hejmdal, naar Vægterne sov -</l>
+               <l xml:id="idm139731449740400">kjender I saa <emph xml:id="idm139731449740112">Carl Ploug</emph> !</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

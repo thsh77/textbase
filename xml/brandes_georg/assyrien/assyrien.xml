@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Assyrien</title>
+            <author>Brandes, Georg</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139814160721040">
+                     <name xml:id="idm139814160720784">
+                        <surname xml:id="idm139814160720656">Brandes</surname>, <forename xml:id="idm139814160720192">Georg</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139814160719904">Samlede Skrifter</title>
+                  <pubPlace xml:id="idm139814160719616">København</pubPlace>
+                  <date xml:id="idm139814160719104">1899-1910</date>
+                  <biblScope>164-168</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid55396" decls="#biblid55396">
+            <body xml:id="idm139814160532416">
+               <pb n="165" facs="adl/brandes/brand17/bran17165" xml:id="idm139814160532160"/>
+               <pb n="166" facs="adl/brandes/brand17/bran17166" xml:id="idm139814160531392"/>
+               <pb n="167" facs="adl/brandes/brand17/bran17167" xml:id="idm139814160530624"/>
+               <pb n="168" facs="adl/brandes/brand17/bran17168" xml:id="idm139814160529856"/>
+               <p xml:id="idm139814160529040"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

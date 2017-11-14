@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tonernes flugt</title>
+            <author>Hertz, Henrik</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139668653829872">
+                     <name xml:id="idm139668653829616">
+                        <surname xml:id="idm139668653829488">Hertz</surname>, <forename xml:id="idm139668653829056">Henrik</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139668653828768">Digte fra forskjellige Perioder</title>
+                  <pubPlace xml:id="idm139668653828464">København</pubPlace>
+                  <date xml:id="idm139668653827952">1851-1862</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59270" decls="#biblid59270">
+            <head xml:id="idm139668653129856">Tonernes Flugt.</head>
+            <lg xml:id="idm139668653129440">
+               <l xml:id="idm139668653129184">Der kommer i Vaaren en Sværm til Nord;</l>
+               <l xml:id="idm139668653128704">det er Fuglenes sjungende Chor.</l>
+               <l xml:id="idm139668653128272">De længes igjen til Orangernes Hjem,</l>
+               <l xml:id="idm139668653127792">Og vor Længsel vil drage med dem.</l>
+               <l xml:id="idm139668653127328">O, lad os flygte fra Land og By!</l>
+               <l xml:id="idm139668653126896">Lad os med Skyerne flye!</l>
+               <l xml:id="idm139668653126464">Med Straalerne fra den stigende Sol</l>
+               <l xml:id="idm139668653126032">Forlade vor nordlige Pol!</l>
+            </lg>
+            <lg xml:id="idm139668653125472">
+               <l xml:id="idm139668653125216">O, hør, hvor det klinger - afsted, afsted!</l>
+               <l xml:id="idm139668653124736">Med vor drømmende Sjæl gaae vi med!</l>
+               <l xml:id="idm139668653124256">Af Toner vi løftes, med Toner vi gaae,</l>
+               <l xml:id="idm139668653123776">Og med dem vi Hesperien naae.</l>
+               <l xml:id="idm139668653123344">En gyngende Phaëton, let og fiin,</l>
+               <l xml:id="idm139668653122880">Den bærer os, Elskede min!</l>
+               <l xml:id="idm139668653122432">Og Phøbos Apollons vælige Spand</l>
+               <l xml:id="idm139668653121968">Os fører fra Land til Land!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

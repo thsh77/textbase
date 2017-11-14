@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Med berggreens folkesange og melodier</title>
+            <author>Hertz, Henrik</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139668653829872">
+                     <name xml:id="idm139668653829616">
+                        <surname xml:id="idm139668653829488">Hertz</surname>, <forename xml:id="idm139668653829056">Henrik</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139668653828768">Digte fra forskjellige Perioder</title>
+                  <pubPlace xml:id="idm139668653828464">København</pubPlace>
+                  <date xml:id="idm139668653827952">1851-1862</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid73575" decls="#biblid73575">
+            <head xml:id="idm139668651393040">Med Berggreens Folkesange og Melodier.</head>
+            <stage type="mix" xml:id="idm139668651392608">Til en Confirmant.</stage>
+            <lg xml:id="idm139668651391952">
+               <l xml:id="idm139668651391696">Med Toner og med Ord jeg hilser Dig!</l>
+               <l xml:id="idm139668651391264">Paa denne Dag, her gjennem Gud Dig vier</l>
+               <l xml:id="idm139668651390832">Til Verdens Lyst og Sorg, jeg nærmer mig</l>
+               <l xml:id="idm139668651390352">Med gamle Digte, gamle Melodier.</l>
+            </lg>
+            <lg xml:id="idm139668651389792">
+               <l xml:id="idm139668651389536">Alvorlig denne Festdag peger hen</l>
+               <l xml:id="idm139668651389104">Til Livets Ord, naar Verden Dig vil daare;</l>
+               <l xml:id="idm139668651388656">Og disse Digte - Du kan troe Din Ven -</l>
+               <l xml:id="idm139668651388224">Fra Sangens Rige sende Dig igjen</l>
+               <l xml:id="idm139668651387792">Et Livets Ord, der vel er værdt at kaare.</l>
+            </lg>
+            <lg xml:id="idm139668651387184">
+               <l xml:id="idm139668651386928">O lyt! der er i denne gamle Sang</l>
+               <l xml:id="idm139668651386496">En Røst fra Slægter, der er' længst forsvundne;</l>
+               <l xml:id="idm139668651386000">Og Fryd i Smerte, Frihed under Tvang</l>
+               <l xml:id="idm139668651385568">Er' underfuldt til disse Digte bundne.</l>
+            </lg>
+            <pb n="221" xml:id="s221" facs="adl/hertz/hertz10/hertz10221"/>
+            <lg xml:id="idm139668651383712">
+               <l xml:id="idm139668651383456">Der er - og dertil har vi Alle Trang -</l>
+               <l xml:id="idm139668651383024">En Trøst i dem, der Sorg og Savn formilder,</l>
+               <l xml:id="idm139668651382528">Et Livets Ord fra Livets egne Kilder.</l>
+            </lg>
+            <lg xml:id="idm139668651381968">
+               <l xml:id="idm139668651381712">Min Emma! naar Din Sjæl er træt engang</l>
+               <l xml:id="idm139668651381232">Af kunstige, forføreriske Triller,</l>
+               <l xml:id="idm139668651380768">Da styrk Dig atter ved en kunstløs Sang,</l>
+               <l xml:id="idm139668651380288">Og lyt til disse Toners dybe Klang,</l>
+               <l xml:id="idm139668651379856">Hvori en svunden Tid med sagte Veemod spiller.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

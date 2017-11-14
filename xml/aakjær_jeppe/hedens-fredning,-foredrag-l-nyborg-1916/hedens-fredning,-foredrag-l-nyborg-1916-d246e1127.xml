@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hedens fredning, foredrag l nyborg 1916</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140709994996720">
+                     <name xml:id="idm140709994996464">
+                        <surname xml:id="idm140709994996336">Aakjær</surname>, <forename xml:id="idm140709994995904">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140709994995616"> Artikler og Taler. - 1919</title>
+                  <pubPlace xml:id="idm140709994995312">København</pubPlace>
+                  <pubPlace xml:id="idm140709994994848">Kristiania</pubPlace>
+                  <publisher xml:id="idm140709994994384">Gyldendal</publisher>
+                  <date xml:id="idm140709994994048">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59547" decls="#biblid59547">
+            <pb n="480" xml:id="n480" facs="adl/aakjaer/aakjaer4/aakj4480"/>
+            <pb n="481" xml:id="n481" facs="adl/aakjaer/aakjaer4/aakj4481"/>
+            <pb n="482" xml:id="n482" facs="adl/aakjaer/aakjaer4/aakj4482"/>
+            <pb n="483" xml:id="n483" facs="adl/aakjaer/aakjaer4/aakj4483"/>
+            <pb n="484" xml:id="n484" facs="adl/aakjaer/aakjaer4/aakj4484"/>
+            <pb n="485" xml:id="n485" facs="adl/aakjaer/aakjaer4/aakj4485"/>
+            <pb n="486" xml:id="n486" facs="adl/aakjaer/aakjaer4/aakj4486"/>
+            <pb n="487" xml:id="n487" facs="adl/aakjaer/aakjaer4/aakj4487"/>
+            <pb n="488" xml:id="n488" facs="adl/aakjaer/aakjaer4/aakj4488"/>
+            <pb n="489" xml:id="n489" facs="adl/aakjaer/aakjaer4/aakj4489"/>
+            <p xml:id="idm140709994138128"/>
+         </div>
+      </body>
+   </text>
+</TEI>

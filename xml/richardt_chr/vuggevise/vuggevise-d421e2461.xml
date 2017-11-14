@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vuggevise.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid58241" decls="#biblid58241">
+            <head xml:id="idm139731449521664">Vuggevise.</head>
+            <lg xml:id="idm139731449521248">
+               <l xml:id="idm139731449520992">Sov mit Barn, sov længe,</l>
+               <l xml:id="idm139731449520544">jeg rører Vuggens Gænge,</l>
+               <l xml:id="idm139731449520096">vifter Fluen fra din Kind,</l>
+               <pb n="28" xml:id="s28" facs="adl/richardt/richardt1/rich1028"/>
+               <l xml:id="idm139731449518560">kalder Drømmen til dit Sind;</l>
+               <l xml:id="idm139731449518096">sov mit Barn, sov længe!</l>
+            </lg>
+            <lg xml:id="idm139731449517520">
+               <l xml:id="idm139731449517264">Frodig som en Ranke</l>
+               <l xml:id="idm139731449516848">Du voxer for min Tanke,</l>
+               <l xml:id="idm139731449516432">voxer fra din Moders Arm</l>
+               <l xml:id="idm139731449516000">ud i Verdens vilde Larm,</l>
+               <l xml:id="idm139731449515568">frodig som en Ranke.</l>
+            </lg>
+            <lg xml:id="idm139731449515024">
+               <l xml:id="idm139731449514768">Glem dog ej din Vugge,</l>
+               <l xml:id="idm139731449514352">og ej din Moders Sukke!</l>
+               <l xml:id="idm139731449513936">Voxer Du fra Barnekaar,</l>
+               <l xml:id="idm139731449513520">glem dog ej dit Fadervor.</l>
+               <l xml:id="idm139731449513088">Glem dog ej din Vugge!</l>
+            </lg>
+            <lg xml:id="idm139731449512544">
+               <l xml:id="idm139731449512288">Lykkens Roser røde</l>
+               <l xml:id="idm139731449511856">kun mellem Torne gløde;.</l>
+               <l xml:id="idm139731449511408">Tornen tager jeg for mig,</l>
+               <l xml:id="idm139731449510976">Rosen gjemmer jeg til Dig:</l>
+               <l xml:id="idm139731449510544">Lykkens Roser røde!</l>
+            </lg>
+            <lg xml:id="idm139731449509968">
+               <l xml:id="idm139731449509712">Vaagn med Smil om Munden,</l>
+               <l xml:id="idm139731449509280">saa fro som Fugl i Lunden!</l>
+               <l xml:id="idm139731449508848">Reden din er lun og blød:</l>
+               <l xml:id="idm139731449508400">Moderfavn og Moderskjød;</l>
+               <l xml:id="idm139731449507952">vaagn med Smil om Munden!</l>
+            </lg>
+            <pb n="29" xml:id="s29" facs="adl/richardt/richardt1/rich1029"/>
+         </div>
+      </body>
+   </text>
+</TEI>

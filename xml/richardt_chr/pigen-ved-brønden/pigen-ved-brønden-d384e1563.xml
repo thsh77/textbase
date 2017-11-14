@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pigen ved brønden.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid56425" decls="#biblid56425">
+            <head xml:id="idm140352323403040">Pigen ved Brønden.</head>
+            <lg xml:id="idm140352323402608">
+               <l xml:id="idm140352323402352">Hver Dag jeg maa til Brønden</l>
+               <l xml:id="idm140352323401888">og fylde Vand i Spanden.</l>
+               <l xml:id="idm140352323401456">Men i mig er Maalet fuldt,</l>
+               <l xml:id="idm140352323401024">det strømmer over Randen.</l>
+            </lg>
+            <lg xml:id="idm140352323400448">
+               <l xml:id="idm140352323400192">Og Aaget maa jeg bære</l>
+               <l xml:id="idm140352323399744">paa mine Skuldre trætte.</l>
+               <l xml:id="idm140352323399296">Men et Aag jeg bærer paa,</l>
+               <l xml:id="idm140352323398848">som knuger meer end dette.</l>
+            </lg>
+            <lg xml:id="idm140352323398288">
+               <l xml:id="idm140352323398032">Jeg lægger Kors i Spanden,</l>
+               <l xml:id="idm140352323397584">at ej det flyder over.</l>
+               <l xml:id="idm140352323397168">Du, som lagde Kors paa mig,</l>
+               <l xml:id="idm140352323396736">stil Du mit Hjertes Vover!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

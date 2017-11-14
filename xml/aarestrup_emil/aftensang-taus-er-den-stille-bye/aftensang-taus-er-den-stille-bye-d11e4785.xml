@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aftensang [taus er den stille bye]</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid63484" decls="#biblid63484">
+            <head xml:id="idm140382756463712">AFTENSANG.</head>
+            <lg xml:id="idm140382756463296">
+               <l xml:id="idm140382756463040">Taus er den stille Bye,</l>
+               <l xml:id="idm140382756462624">Dødmat det blege Nye</l>
+               <l xml:id="idm140382756462176">Hist paa det gamle Taarn</l>
+               <l xml:id="idm140382756461744">Hviler sit hvide Horn.</l>
+            </lg>
+            <lg xml:id="idm140382756461200">
+               <l xml:id="idm140382756460944">Lærkelil reder Seng</l>
+               <l xml:id="idm140382756460496">Luunt i den bløde Eng;</l>
+               <l xml:id="idm140382756460048">Pigen til Gud i Løn</l>
+               <l xml:id="idm140382756459600">Hvidsker sin Bøn.</l>
+            </lg>
+            <lg xml:id="idm140382756459040">
+               <l xml:id="idm140382756458784">Ak ingen Rosenmund</l>
+               <l xml:id="idm140382756458368">Beder i Nattens Stund</l>
+               <l xml:id="idm140382756457952">Fromt for den Arme, som</l>
+               <l xml:id="idm140382756457536">Vanker paa Heden om!</l>
+               <l xml:id="idm140382756457120">O, men fortvivl dog ei,</l>
+               <l xml:id="idm140382756456704">Lys Blomstrer Naadens Vei;</l>
+               <l xml:id="idm140382756456272">Hvo som paa Sorgen bær</l>
+               <l xml:id="idm140382756455824">Lykken er nær!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

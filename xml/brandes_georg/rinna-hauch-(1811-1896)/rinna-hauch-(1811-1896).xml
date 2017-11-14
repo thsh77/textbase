@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rinna hauch (1811-1896)</title>
+            <author>Brandes, Georg</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140648092681328">
+                     <name xml:id="idm140648092681072">
+                        <surname xml:id="idm140648092680944">Brandes</surname>, <forename xml:id="idm140648092680512">Georg</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140648092680256">Samlede Skrifter</title>
+                  <pubPlace xml:id="idm140648092679968">København</pubPlace>
+                  <date xml:id="idm140648092679456">1899-1910</date>
+                  <biblScope>210-214</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid55740" decls="#biblid55740">
+            <body xml:id="idm140648092448480">
+               <pb n="211" facs="adl/brandes/brand2/bran2211" xml:id="idm140648092448224"/>
+               <pb n="212" facs="adl/brandes/brand2/bran2212" xml:id="idm140648092447456"/>
+               <pb n="213" facs="adl/brandes/brand2/bran2213" xml:id="idm140648092446688"/>
+               <pb n="214" facs="adl/brandes/brand2/bran2214" xml:id="idm140648092445920"/>
+               <p xml:id="idm140648092445104"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

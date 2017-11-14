@@ -1,0 +1,1012 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nytaarsnat</title>
+            <author>Grundtvig, N. F. S.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139691387806192">
+                     <name xml:id="idm139691387805936">
+                        <surname xml:id="idm139691387805808">Grundtvig</surname>, <forename xml:id="idm139691387805376">N. F. S.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139691387805088">N. F. S. Grundtvigs udvalgte Skrifter</title>
+                  <pubPlace xml:id="idm139691387804784">København</pubPlace>
+                  <publisher xml:id="idm139691387804320">Gyldendalske Boghandel</publisher>
+                  <date xml:id="idm139691387803984">1904-1909</date>
+                  <biblScope>53-68</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid58987" decls="#biblid58987">
+            <front xml:id="idm139691387214064">
+               <titlePage xml:id="idm139691387213808">
+                  <titlePart type="main" xml:id="idm139691387213552">NYTAARSNAT.</titlePart>
+               </titlePage>
+               <div xml:id="idm139691387212736">
+                  <p xml:id="idm139691387212480">OM de Forhold, hvorunder dette mærkelige lille Skrift blev til, har Grundtvig som gammel  fortalt følgende i <hi rend="italics" xml:id="idm139691387211936"><!--<emph>-->Kirke-Spejl<!--</emph>--></hi>, hvormed man kan sammenligne Slutningen af det ovenfor Side 29-31 anførte Brudstykke af en Optegnelse om Efteraaret 1810:<lb xml:id="idm139691387210640"/>
+»Jeg husker godt endnu, hvordan det begyndte, thi jeg sad en Aften alene og læste i Kotzebues Historie af Prøjsen, som var den nyeste over dette Land, og som jeg, skjønt jeg dybt foragtede Navnet, mente som Lærer i Historien af Pligt at maatte benytte; men jeg var ikke kommen længere end til det trettende Aarhundrede, da de tyske Riddere indtog og med Sværdet kristnede Prøjsen, thi her havde Kotzebue plantet en af sine Giftblomster under, hvad han kaldte »det visne Kors«; og derved løb det mig koldt ned ad Ryggen, saa at jeg ikke blot smed Bogen fra mig, men sprang op som greben af en mægtig Aand, der kaldte mig til Reformator. Derpaa fulgt et Par Maaneder af stolt men stille Sværmeri, hvori jeg første Gang siden min Barndom for Alvor læste Bibelen, især Profeterne, Luthers og Kingos Salmer, bad og grublede over, hvordan en Reformation, især med Pen og Blæk, i vore Dage lod sig udføre. »NyaarsNat« er i Læseverdenen det eneste Spor af dette Sværmer-Liv, thi det endtes pludselig, da jeg med eet blev sønderknust ved de Spørgsmaal: Er Du selv en Kristen? og har du dine Synders Forladelse? - Samvittigheds-Spørgsmaal, der faldt mig som Stene, ja, som Klipper paa Hjærtet. Da lukkede jeg alle Bøgerne, lod alle stolte Planer fare og skyndte mig hjem til min gamle Fader, som havde nedlagt Embedet, da man den Gang, langt fra at gjøre Ære ad Jubellærere, ej engang vilde lade ham faa sin Søn til Kapellan, fordi der var ledige Kapellaner i Stiftet«.</p>
+                  <p xml:id="idm139691387208432">Det var efter dette Besøg i Hjemmet, at Grundtvig Nytaarsaften underskrev Fortalen til sin lille Bog. Nærmere Oplysning findes i Holger Begtrups »N. F. S. Grundtvigs kristelige Opvækkelse i Vinteren 1810-11« (København 1899).</p>
+               </div>
+               <pb n="46" xml:id="s46" facs="adl/grundtvig/grundtvig02/grun2046"/>
+               <titlePage xml:id="idm139691387206368">
+                  <docTitle xml:id="idm139691387206112">
+                     <titlePart type="main" xml:id="idm139691387205856">
+                        <hi rend="bold" xml:id="idm139691387205456">Nytaarsnat</hi>
+                        <lb xml:id="idm139691387204896"/>eller<lb xml:id="idm139691387204608"/>
+                        <hi rend="bold" xml:id="idm139691387204480">Blik paa Kristendom og Historie</hi>
+                        <lb xml:id="idm139691387203904"/>af<lb xml:id="idm139691387203648"/>Nik. Fred. Sev. Grundtvig,<lb xml:id="idm139691387203344"/>
+                        <hi rend="italics" xml:id="idm139691387203216"><!--<emph>-->Kandidat i Teologien<!--</emph>--></hi>.</titlePart>
+                  </docTitle>
+                  <epigraph xml:id="idm139691387201920">
+                     <cit xml:id="idm139691387201664">
+                        <q xml:id="idm139691387201408">Dersom Nogen iblandt eder mener sig at være viis i denne Verden,<lb xml:id="idm139691387201008"/>han vorde en Daare, at han kan vorde viis!</q>
+                     </cit>
+                     <bibl xml:id="idm139691387200432">1. Kor. 3, 18.</bibl>
+                  </epigraph>
+                  <docImprint xml:id="idm139691387199920">
+                     <publisher xml:id="idm139691387199664">Kjøbenhavn, 1811.<lb xml:id="idm139691387199360"/>Trykt hos og forlagt af <hi rend="italics" xml:id="idm139691387199056"><!--<emph>-->Andreas Seidelin<!--</emph>--></hi>,<lb xml:id="idm139691387198016"/>i store Kannikestræde No. 46.</publisher>
+                  </docImprint>
+               </titlePage>
+               <pb n="47" xml:id="s47" facs="adl/grundtvig/grundtvig02/grun2047"/>
+               <div xml:id="idm139691387196160">
+                  <head xml:id="idm139691387195904">
+                     <hi rend="bold" xml:id="idm139691387195776">Til min Fader</hi>
+                     <lb xml:id="idm139691387195216"/>
+paa<lb xml:id="idm139691387194928"/>
+Hans Jubelfest den 5te Decbr. 1810.</head>
+                  <lg xml:id="idm139691387194496">
+                     <l xml:id="idm139691387194240">
+                        <hi rend="bold" xml:id="idm139691387194112">G</hi>amle Fader! paa Din Høitidsdag</l>
+                     <l xml:id="idm139691387193248">Maa jeg Dig en Sønnehilsen bære;</l>
+                     <l xml:id="idm139691387192784">Alderen har gjort Dig mat og svag,</l>
+                     <l xml:id="idm139691387192352">Men ei stum til Jesu Kristi Ære:</l>
+                     <l xml:id="idm139691387191888">Lavere er vel Din Tunges Røst,</l>
+                     <l xml:id="idm139691387191424">Høiere dog Stemmen i Dit Bryst;</l>
+                     <l xml:id="idm139691387190960">Thi, o Kristen! naar Din Røst mon dale,</l>
+                     <l xml:id="idm139691387190480">Synker den i Hjertets Stemme ned,</l>
+                     <l xml:id="idm139691387190048">Vorder Maalet, som Guds Engle tale,</l>
+                     <l xml:id="idm139691387189616">Sphærers Lovsang i al Evighed.</l>
+                  </lg>
+                  <lg xml:id="idm139691387189024">
+                     <l xml:id="idm139691387188768">Issen krandses af de hvide Haar,</l>
+                     <l xml:id="idm139691387188336">Ei som Sne de Vinteren forkynde,</l>
+                     <l xml:id="idm139691387187904">Men som Sneens hvide Blomst i Vaar:</l>
+                     <l xml:id="idm139691387187472">At for Dig skal Vaaren snart begynde.</l>
+                     <l xml:id="idm139691387187040">Sneblomst! ja, du ene skal bestaa,</l>
+                     <l xml:id="idm139691387186608">Naar hver Blomst paa Jorden maa forgaa:</l>
+                     <l xml:id="idm139691387186176">Farven er kun Skin af brudte Straale,</l>
+                     <l xml:id="idm139691387185744">Farveløs er Straalens rene Glands,</l>
+                     <l xml:id="idm139691387185280">Og naar Øiet lærer den at taale,</l>
+                     <l xml:id="idm139691387184816">Vorder Blomsten til en Straalekrands.</l>
+                  </lg>
+                  <pb n="48" xml:id="s48" facs="adl/grundtvig/grundtvig02/grun2048"/>
+                  <lg xml:id="idm139691387183104">
+                     <l xml:id="idm139691387182848">Hil Dig, Fader, Præst i Luthers Aand,</l>
+                     <l xml:id="idm139691387182368">Med Din Krands, og hil Dig med Din Krone,</l>
+                     <l xml:id="idm139691387181920">Naar, udløst af Støvets tunge Baand,</l>
+                     <l xml:id="idm139691387181440">Kæk Du svinger Dig mod Herrens Trone!</l>
+                     <l xml:id="idm139691387180960">Hil Dig, Fader, paa Din Jubelfest!</l>
+                     <l xml:id="idm139691387180528">Thi Du var en sanddru Jesu Præst:</l>
+                     <l xml:id="idm139691387180064">Fræk Du ei med Herren gik i Rette,</l>
+                     <l xml:id="idm139691387179600">Vilde ei <hi rend="italics" xml:id="idm139691387179312"><!--<emph>-->fortjene<!--</emph>--></hi> Himmerig,</l>
+                     <l xml:id="idm139691387178144">Derfor Gud vil al Din Skyld udslette,</l>
+                     <l xml:id="idm139691387177712">Salighed af Naade skænke Dig.</l>
+                  </lg>
+                  <lg xml:id="idm139691387177120">
+                     <l xml:id="idm139691387176864">Jubellærer! paa Din Jubelfest</l>
+                     <l xml:id="idm139691387176400">Se, hvor Man Lutheri Lig omfører!</l>
+                     <l xml:id="idm139691387175936">Han var Herrens ypperlige Præst,</l>
+                     <l xml:id="idm139691387175472">Men hans Aand i Liget ei sig rører:</l>
+                     <l xml:id="idm139691387174992">Navnet har han, som fra Herren lød,</l>
+                     <l xml:id="idm139691387174512">At han lever, skøndt han dog er død<hi rend="sup" xml:id="idm139691387174160">l</hi>.</l>
+                     <l xml:id="idm139691387173408">Se, hvor de paa Mindestenen hugge!</l>
+                     <l xml:id="idm139691387172976">Den skal reises paa hans Jubelfest,</l>
+                     <l xml:id="idm139691387172544">Med den vil de Graven da tillukke,</l>
+                     <l xml:id="idm139691387172112">Frit bekende: død er Herrens Præst.</l>
+                  </lg>
+                  <lg xml:id="idm139691387171504">
+                     <l xml:id="idm139691387171248">Gamle Fader! Du har tjent saa tro</l>
+                     <l xml:id="idm139691387170816">I halvtredsindstyve Aar til Ende,</l>
+                     <l xml:id="idm139691387170384">Vel Din Sjæl maa længes efter Ro,</l>
+                     <l xml:id="idm139691387169920">For mod Himlen ene sig at vende;</l>
+                     <l xml:id="idm139691387169488">Men før end Du vender Dig fra Jord,</l>
+                     <l xml:id="idm139691387169008">Medens Du kan tale <hi rend="italics" xml:id="idm139691387168720"><!--<emph>-->Herrens<!--</emph>--></hi> Ord,</l>
+                     <l xml:id="idm139691387167552">Og fra Altret i Hans Navn velsigne,</l>
+                     <l xml:id="idm139691387167120">Lys Velsignelsen da over mig!</l>
+                     <l xml:id="idm139691387166688">At min Tro de Helliges maa ligne,</l>
+                     <l xml:id="idm139691387166256">Løfte mig til Krist i Himmerig!</l>
+                  </lg>
+                  <lg xml:id="idm139691387165664">
+                     <l xml:id="idm139691387165408">Himlens Herre det allene veed,</l>
+                     <l xml:id="idm139691387164976">Hvad sig i min Sjæl saa stærkt bevæger;</l>
+                     <l xml:id="idm139691387164496">Det dog veed Du, Fader, Herrens Fred</l>
+                     <l xml:id="idm139691387164064">Er det Eneste, paa Jord, som kvæger;</l>
+                     <l xml:id="idm139691387163584">Lys den over mig i Jesu Navn!</l>
+                  </lg>
+                  <note anchored="true" xml:id="idm139691387163024">
+                     <hi rend="sup" xml:id="idm139691387162624">1</hi> Disse Ord af Brevet til <hi rend="italics" xml:id="idm139691387161952"><!--<emph>-->Sardes<!--</emph>--></hi>, i <hi rend="italics" xml:id="idm139691387160912"><!--<emph>-->Joh. Aabenb<!--</emph>--></hi>. III. l, har Grundtvig her første Gang anvendt paa den tyske Menighed.</note>
+                  <pb n="49" xml:id="s49" facs="adl/grundtvig/grundtvig02/grun2049"/>
+                  <lg xml:id="idm139691387158512">
+                     <l xml:id="idm139691387158256">Rolig da mod Himlens sikkre Havn</l>
+                     <l xml:id="idm139691387157824">Skal jeg stævne over Livets Bølger,</l>
+                     <l xml:id="idm139691387157344">Lad dem løfte sig med Skum og Brag!</l>
+                     <l xml:id="idm139691387156864">Tryg jeg er, naar mig min Jesus følger,</l>
+                     <l xml:id="idm139691387156384">Lys og Kraft Han er endnu i Dag.</l>
+                  </lg>
+                  <lg xml:id="idm139691387155824">
+                     <l xml:id="idm139691387155568">Laurbærkrandsen har jeg beilet til,</l>
+                     <l xml:id="idm139691387155088">Men ei mer jeg tragter den at vinde,</l>
+                     <l xml:id="idm139691387154656">Hvad er vel et borget Farvespil,</l>
+                     <l xml:id="idm139691387154224">Hvad en Krands, som Mennesker kan binde,</l>
+                     <l xml:id="idm139691387153776">Hvad er Kløgt, og hvad er Alt paa Jord</l>
+                     <l xml:id="idm139691387153296">Mod det rene, klare Guddomsord!</l>
+                     <l xml:id="idm139691387152864">Derfor skal min Sang nu ene tone</l>
+                     <l xml:id="idm139691387152432">Til hans Pris, som steg fra Himlen ned,</l>
+                     <l xml:id="idm139691387152000">Som os vilde med vor Gud forsone,</l>
+                     <l xml:id="idm139691387151568">Skænke os en salig Evighed<hi rend="sup" xml:id="idm139691387151248">1</hi>.</l>
+                  </lg>
+                  <note anchored="true" xml:id="idm139691387150368">
+                     <hi rend="sup" xml:id="idm139691387149968">1</hi> Blandt de efterladte Papirer findes en Renskrift af dette Digt paa Brevpapir med Guldsnit, som rimeligvis har været sendt til Faderen den 5 December 1810. Den bærer Overskriften: <hi rend="italics" xml:id="idm139691387148960"><!--<emph>-->Til min Fader, Hr. Johan Grundtvig, paa hans Jubelfest 5te Decbr 1810<!--</emph>--></hi>. Versenes Orden er deri: <hi rend="bold" xml:id="idm139691387147824">1, 2, 5, 6, 7, 4, 3</hi>. Se Poet. Skr. I. 266.</note>
+               </div>
+               <pb n="50" xml:id="s50" facs="adl/grundtvig/grundtvig02/grun2050"/>
+               <div xml:id="idm139691387145728">
+                  <head xml:id="idm139691387145472">
+                     <hi rend="italics" xml:id="idm139691387145344"><!--<emph>-->Fortale<!--</emph>--></hi>.</head>
+                  <p xml:id="idm139691387144176">
+                     <hi rend="bold" xml:id="idm139691387144048">A</hi>dam syndede, og alle Jordens Slægter i ham, tabt var det rene Gudsbillede, tabt var den klare Beskuelse af Guddommen, forsvundet var Naturens Glands og Harmoni, forsvundet Freden og Enheden i og omkring Mennesket. Første nu blev Sjæl og Legeme to, først nu opstod den moralske Strid i Menneskets Indvortes, og den naturlige i Legemet som maatte avle Døden. Det arme Menneske stod i Strid med sig selv og Alt, og skjalv paa det Uendeliges Rand, hvis Dyb hans Forstand i daarlig Hovmod havde ment at kunne udmaale. Dog en Levning af Gudebilledet lod Skaberens evige Kærlighed overleve Faldet, paa det at den arme Slægt ei aldeles skulde nedsynke i det Endelige og glemme sit Slægtskab med Guddommen. Denne Levning var ingen anden, end hin forborgne, uden Skriftens Oplysning uforklarlige, Higen ud over det Synlige, som, hvor den var stærkest, blev Poesi. Alle de gamle Religioner, disse matte Stjerner i Natten, avledes af den, og at det var af Religionerne alt det høiere Liv, som skinner og glimrer i Oldtiden, udviklede sig, derom vidner Historien, ja tav den og, kunde vi dog indse at det saa maatte være; thi uden Tro, uden fast Forvisning om det Usynlige, dets Høihed og vort Slægtskab dermed, lader sig ingen Stræben imod det tænke. Ogsaa Videnskaberne fødtes da af Religionen, men disse selvkloge Sønner foragtede snart deres Moder, og selv Poesien, den evig unge Oldemoder, forlod sin aldrende Datter, nedsteg fra sin høie Trone, hvorfra hun havde stirret mod Himmelen og skuet dybt i Livets Hemmeligheder, for i Dalen, med sin velklingende Stemme, at forlyste Jordens sjunkne Børn. Dog her omtaagedes snarlig hendes Øie af Jordens Dunster, dets Lys udslukkedes alt mer og mer, og Blindheden var hendes Død. Hendes selvkloge Ætmænd fældte en tvetydig Taare ved hendes Lig, men maatte snart selv følge
+	<pb n="51" xml:id="s51" facs="adl/grundtvig/grundtvig02/grun2051"/>
+hende i Graven. Dette er tilsammen Religions, Daads og Videnskabs Historie i de gamle Tider.</p>
+                  <p xml:id="idm139691387140144">Kristus kom, og beviste ved mange kraftige Gerninger, men fremfor Alt ved sin Opstandelse, for den dybt nedsjunkne, tvivlende Slægt, at der er et høiere Liv og en høiere Kraft end Jordens; men han gjorde Mere, han fremstillede sig selv som det tabte Guds Billede, som den ny Adam, hvori Menneskene kunne vorde delagtige, ved i Troen at tilegne sig ham, hans Død og Fortjeneste. Da Han opstod af Graven, opstod Poesien med ham, stirrede længselsfuld op mod den Himmelfarne, forkyndte hans Pris, og stræbte overalt i Tiden og Rummet at opdage hans Spor og Glimt af hans Herlighed. Dog Videnskaberne, som Kristendommen ei allene, lig andre Religioner, avlede, men endog havde helliget til sin Tjeneste, bortkastede alligevel Ærbødigheden for deres guddommelige Moder, og skammede sig ved hendes Ledebaand, som de mente at kunne undvære. Med formastelig Haand stræbte de at nedrive Verdens himmelske Dronning fra sin Trone, ja erklærede hende, bespottende, for deres egen umyndige Datter. O I Lærde og Selvkloge! vider at Herren har gjort eders Visdom til Daarlighed, lad dog den daglige Erfaring lære eder, at Urten, som skæres fra sin Rod, vel enstund kan føre et sygeligt Liv, men visner dog sikkerlig, lad Historien lære eder, at saa gik det altid med Videnskaberne i de forbigangne Tider! Eller, have I virkelig Lyst til at forære Verden en Mumie som den alexandrinske?</p>
+                  <p xml:id="idm139691387137424">Det var at forudse, at Poesien vilde sidst forlade Kristendommen, thi den maa dog føle, at dens Hjem er ikke herneden, og at den maa dø, naar den ei længere kan tale et himmelsk Tungemaal. Fuld er Skilsmissen end ei i denne Time, men ogsaa Poesien er tilvisse besmittet af Tidsalderens jordiske Sind og dens Hovmod, den føler ei det fornedrende i at male og forgylde Graven med det stinkende Aadsel, den vover formastelig at sætte sig selv paa Kristendommens Trone, og lade som om den mægtede at give sin foragtede Dronning Ly og laane hende Glands.</p>
+                  <p xml:id="idm139691387136256">Med Smerte og Skam maa jeg bekende, at jeg selv, saa fuldt som Nogen, har været delagtig i denne Forstandens Hovmod, ja at min Brøde vel endog var større end mange Andres. Jeg vil ikke tale om den Tid, da jeg, som Tidens Genlyd, besmittede Herrens Hus med unyttig og bespottelig Tale om Pligt og Saligheds Fortjeneste, om den dydige Mand, den redelige Sandhedens Lærer, Jesus, som dog ikke tog i Betænkning at udgive sig for
+	<pb n="52" xml:id="s52" facs="adl/grundtvig/grundtvig02/grun2052"/>
+andet end han var, og at bekræfte Usandheden ved tilsyneladende Underværker; thi ved den Tid har min Hovmod skammet sig for længe siden. Men i flere Aar har jeg agtet Kristendommen for Guds umiddelbare Aabenbaring ved sin Enbaarne, og dog har jeg vovet, ret som for at redde dens Sandhed, at spænde den i menneskelig Menings Aag*). Det faldt mig endnu stedse for tungt, at tage Fornuften fangen under Troens Lydighed, jeg vilde selv udgrunde <hi rend="italics" xml:id="idm139691387133456"><!--<emph>-->hvorfor<!--</emph>--></hi> Kristendommen var sand, og selv da jeg erkendte Umuligheden heraf, kostede det mig dog Overvindelse, offenlig at bekende, jeg ei om det Usynlige havde nogen Vished som var min egen. Skønt Menneskets Fald længe havde været mig klart, og skønt jeg ikke vidste noget andet Middel til Opreisning end Kristus, forargede hans Forsoning mig dog paa en Maade, fordi jeg ikke kunde finde Noget i min Grubien, som lignede den. Gid dette maa tjene til Advarsel for dem, som tro, at de ere Kristne, naar de dele den falske Ærbødighed for Kristendommens Hemmeligheder, som nogle af de nyeste Filosofer stille til Skue! Ved Guds Naade har jeg nu bøiet min Forstands Hovmod, og nu forekommer det mig ubegribeligt, hvorledes Man kan tro, at Kristus var mer end et Menneske, og dog ikke tro hans Lære, blot fordi det er hans, da vi ved at fordre andet Bevis af os selv som Troens Betingelse, forudsætte, at vi anse os i det ringeste for lige saa kloge som han. Dette udelukker ingenlunde Grubien, men bestemmer den blot som en Stræben efter klarere Indsigt i Kristendommen, om hvis Sandhed ingen Tvivl kan være. Saaledes er det ikke allene tilladt, men endog ueftergivelig Pligt for de Kristne, at drive Kundskaben <hi rend="italics" xml:id="idm139691387129856">i</hi> de døde Sprog, om Naturens og Historiens Hemmeligheder, til det høiest mulige Trin, kun at alle disse Videnskaber træde villig i Kristendommens Tjeneste, thi naar de ville staa ved sig selv og dyrkes for deres egen Skyld, da er det jo klart at de ere Afguder, den menneskelige Hovmods besmittede Børn, der lede deres Dyrkere og alle Ubekræftede bort fra den Korsfæstede, og, efter hans eget Udsagn, fra Salighed. At min Synspunkt for Poesien i sine adskillige Skikkelser er ligedan som den for Videnskaberne, er følgeligt, og naar den forstod sig selv, vilde den ei vægre sig ved at hvile i Kristendommens Skygge; thi ene derved vinder den det høie, guddommelige Præg, selv de Vanhellige og Vantro maa beundre, skønt de maa blive sært tilmode ved at spørge sig, hvorfor? Med denne Vished vil vel
+<note anchored="true" xml:id="idm139691387127584">*) Fremforalt i min Afhandling om Religion og Liturgi, hvor imidlertid Digteren var adskillige Aar forud for Mennesket.</note>
+							              <pb n="53" xml:id="s53" facs="adl/grundtvig/grundtvig02/grun2053"/>
+Ingen mene, at jeg i nærværende Tidsalder kan vanke rolig om mellem det gamle Nordens Kæmpeskygger. Nedkaste mig i den brusende Strøm, det maa jeg, henrive mig mægter den ei, men om den skal lukke sig over mig, derfor raader den Evige. Paa Randen af det bundløse Svælg, mod hvilket Tidsalderen blind fremhaster, der vil jeg stande, jeg vil udspænde for den sit eget Billede og ved Siden vil jeg stille to luende Blus: Herrens Ord og de forbigangne Tiders Vidnesbyrd. Kalde og varsle i Herrens Navn, det vil jeg saalænge Han forlener mig Kraft og tillader mig at opløfte Røsten; thi Hans er Magten og Æren i al Evighed.</p>
+                  <p xml:id="idm139691387124800">Dette var egenlig ingen Fortale til efterfølgende Smaadigte, men udgør meget mere i Forening med dem Fortalen til mit følgende Liv. Nu til Slutning et Par Ord om Digtene. De vare bestemte til en af mig besørget Nytaarsgave<hi rend="sup" xml:id="idm139691387124080">1</hi>, men da der baade fattedes Tid og Rum, fandt jeg det ogsaa ret passende, at udgive dem for sig selv. Deres Hensigt er umiskiendelig, og jeg skulde vel ikke tro, det kunde falde Nogen ind, at beskylde mig for at have vanhædret nogen Skjoldung, ved at sige, som Sandt er, at alt eftersom Kristendommens Lue slukkedes i Hjerterne, sank Riget dybere til Vanmagt. Digtet selv maa vise, hvor langt jeg er fra at tilregne Kongerne Folkenes Brøde, og Ingen kan fuldere end jeg være overbevist om, at en Konge maa bruge sit Folk, som det er, efter Øieblikkets Trang, omskabe eller genføde det mægter han ei, det kan Religionen allene. O! gid jeg kunde dybt indpræge denne Overbevisning hos hver Dansk, thi da vare vi frelste, da skulde ethvert ligesaa daarligt, som landsforrædersk, Knur mod Konge og Regjering, bortvige, vige bort til hine Vilde, som bande deres Husguder, naar Uheld ramme, til hine Blinde, som med Glæde lade Sjælen forgifte, og dens inderste Marv udsuge, men slaa deres Konger ihjel, naar de udskrive Skat! O gid dog Enhver, som fristes til saadant Knur, vilde gribe i sin egen Barm, og spørge sig selv oprigtig om han er villig til at opoffre <hi rend="italics" xml:id="idm139691387120752"><!--<emph>-->Liv og Gods<!--</emph>--></hi> for Fædrenelandet; thi paa Svaret skal han mærke, hvad der er Skyld i Nøden, mærke, at dersom vi ei selv fatte et andet Sind, da kan ingen Konge, da vil Gud ikke hjelpe os.</p>
+                  <p xml:id="idm139691387119216">Valkendorfs Kollegium, den <date xml:id="idm139691387118912">31te Decbr. 1810</date>.</p>
+                  <note anchored="true" xml:id="idm139691387118400">
+                     <hi rend="sup" xml:id="idm139691387118000">1</hi> Idunna.</note>
+               </div>
+            </front>
+            <body xml:id="idm139691387116960">
+               <pb n="54" xml:id="s54" facs="adl/grundtvig/grundtvig02/grun2054"/>
+               <div xml:id="idm139691387115552">
+                  <head xml:id="idm139691387115296">
+                     <hi rend="italics" xml:id="idm139691387115168"><!--<emph>-->Livets Æbler<!--</emph>--></hi>.<hi rend="sup" xml:id="idm139691387114112">1</hi>
+                  </head>
+                  <lg xml:id="idm139691387113488">
+                     <l xml:id="idm139691387113232">
+                        <hi rend="bold" xml:id="idm139691387113104">E</hi>n Viv haver Bragur saa deilig og fin</l>
+                     <l xml:id="idm139691387112256">Som Skjaldene om monne synge:</l>
+                     <l xml:id="idm139691387111824">Idunna hun vogter de Æbler i Skrin,</l>
+                     <l xml:id="idm139691387111344">Som Aserne kunne forynge;</l>
+                     <l xml:id="idm139691387110912">De ere at ligne ved Skjaldskabets Id,</l>
+                     <l xml:id="idm139691387110480">Det Svundne, som stod i den nyfødte Tid,</l>
+                     <l xml:id="idm139691387110000">I Skjaldskab end tykkes at leve.</l>
+                  </lg>
+                  <lg xml:id="idm139691387109440">
+                     <l xml:id="idm139691387109184">De Aser dog bleve saa gamle og graa,</l>
+                     <l xml:id="idm139691387108752">De sjunke i Graven hin mørke,</l>
+                     <l xml:id="idm139691387108288">De Æbler de kunde ei længer forstaa</l>
+                     <l xml:id="idm139691387107808">At give dem Ungdom og Størke;</l>
+                     <l xml:id="idm139691387107344">Men Skyggerne kan de end trylle os frem,</l>
+                     <l xml:id="idm139691387106896">Saa vi kunne skue og agte paa dem,</l>
+                     <l xml:id="idm139691387106464">Hvad Størke i Livet dem fulgte.</l>
+                  </lg>
+                  <lg xml:id="idm139691387105872">
+                     <l xml:id="idm139691387105616">Alt saa, som det monne med Aserne gaa,</l>
+                     <l xml:id="idm139691387105184">Saa mon det med Fædrene gange,</l>
+                     <l xml:id="idm139691387104720">Af Graven de kunne ei mere opstaa,</l>
+                     <l xml:id="idm139691387104288">Ei vækkes ved galdrende Sange;</l>
+                     <l xml:id="idm139691387103824">Men alt som de ginge og stode paa Jord,</l>
+                     <l xml:id="idm139691387103392">Maa Skyggerne komme paa Digterens Ord,</l>
+                     <l xml:id="idm139691387102960">Omvandre i Verden saa vide.</l>
+                  </lg>
+                  <lg xml:id="idm139691387102400">
+                     <l xml:id="idm139691387102144">De Jotuner havde en Klogskab saa ond,</l>
+                     <l xml:id="idm139691387101712">Som Skjaldene end monne sjunge,</l>
+                     <l xml:id="idm139691387101280">Det skar dem i Sindet saa mangelund,</l>
+                     <l xml:id="idm139691387100848">At Aserne bleve saa unge;</l>
+                     <l xml:id="idm139691387100416">De Æbler dem vilde de stjæle med List,</l>
+                     <l xml:id="idm139691387099936">Da maatte de Guder dog ældes forvist,</l>
+                     <l xml:id="idm139691387099456">Men Jotuner leve og vinde.</l>
+                  </lg>
+                  <note anchored="true" xml:id="idm139691387098896">
+                     <hi rend="sup" xml:id="idm139691387098496">1</hi> Dette Digt er optrykt i <hi rend="italics" xml:id="idm139691387097824"><!--<emph>-->Kvædlinger<!--</emph>--></hi> med nogle mindre Ændringer. Se <hi rend="italics" xml:id="idm139691387096704"><!--<emph>-->Poet. Skr<!--</emph>--></hi>. I 273-277.</note>
+                  <pb n="55" xml:id="s55" facs="adl/grundtvig/grundtvig02/grun2055"/>
+                  <lg xml:id="idm139691387094416">
+                     <l xml:id="idm139691387094160">Nu Loke henganger for Idun at staa,</l>
+                     <l xml:id="idm139691387093728">O, hør du mig, Kvinde hin fine!</l>
+                     <l xml:id="idm139691387093264">Et Træ har jeg fundet og Æbler derpaa,</l>
+                     <l xml:id="idm139691387092784">De ere fuld bedre end dine,</l>
+                     <l xml:id="idm139691387092352">Og vil du mig følge i Morgenens Stund,</l>
+                     <l xml:id="idm139691387091872">Da skal du dem skue saa fagre i Lund,</l>
+                     <l xml:id="idm139691387091440">Da kan du med dine dem ligne.</l>
+                  </lg>
+                  <lg xml:id="idm139691387090880">
+                     <l xml:id="idm139691387090624">Idunna hun ganger med Fristeren ud,</l>
+                     <l xml:id="idm139691387090192">Han monne med hende bortflyve,</l>
+                     <l xml:id="idm139691387089760">Og nu skal du vorde en Hrimthussebrud,</l>
+                     <l xml:id="idm139691387089328">Ei længer mig lyster at lyve,</l>
+                     <l xml:id="idm139691387088864">Nu ere de Æbler i Jotuners Vold,</l>
+                     <l xml:id="idm139691387088400">Saa ung og saa deilig hver Thusse og Trold</l>
+                     <l xml:id="idm139691387087952">Omspringer paa Fjeld og i Dale.</l>
+                  </lg>
+                  <lg xml:id="idm139691387087392">
+                     <l xml:id="idm139691387087136">De Æbler maa lignes ved Skjaldskabens Id,</l>
+                     <l xml:id="idm139691387086656">Den sidder i Gudernes Sale,</l>
+                     <l xml:id="idm139691387086224">Derfra mon den lokkes af Kløgt og af Vid</l>
+                     <l xml:id="idm139691387085744">Til Jordens de taagede Dale,</l>
+                     <l xml:id="idm139691387085312">Selv Urten, som stander af Edder saa tung,</l>
+                     <l xml:id="idm139691387084864">Da tykkes for Øiet saa fager og ung,</l>
+                     <l xml:id="idm139691387084384">Oplivet af Skjaldskabens Aande.</l>
+                  </lg>
+                  <lg xml:id="idm139691387083824">
+                     <l xml:id="idm139691387083568">Nu fnyste de Aser af Vrede og Sorg,</l>
+                     <l xml:id="idm139691387083136">Som Skjaldene end monne sjunge,</l>
+                     <l xml:id="idm139691387082704">Dem glæder ei Livet i herlige Borg,</l>
+                     <l xml:id="idm139691387082224">De gøres saa gamle og tunge,</l>
+                     <l xml:id="idm139691387081760">Omlynet af Sværdene Fristeren staar,</l>
+                     <l xml:id="idm139691387081280">Han tvinges at flyve til Jotuners Gaard,</l>
+                     <l xml:id="idm139691387080832">Idunna til Asgaard at føre.</l>
+                  </lg>
+                  <lg xml:id="idm139691387080240">
+                     <l xml:id="idm139691387079984">I dette allene ei Skjaldskabens Id</l>
+                     <l xml:id="idm139691387079552">Til Æblerne fagre er Mage,</l>
+                     <l xml:id="idm139691387079104">Nedlokke den kunne vel Klogskab og Vid,</l>
+                     <l xml:id="idm139691387078672">Men aldrig den føre tilbage,</l>
+                     <l xml:id="idm139691387078208">Den Giften i Helvedes Urter gør sød,</l>
+                     <l xml:id="idm139691387077728">Den borger dem Liv, men betaler med Død,</l>
+                     <l xml:id="idm139691387077248">Saa lønner al Helvedes Yngel.</l>
+                  </lg>
+                  <lg xml:id="idm139691387076656">
+                     <l xml:id="idm139691387076400">Et Æble af Livsens det hellige Træ</l>
+                     <l xml:id="idm139691387075920">Har Kristus til Jorden nedbaaret;</l>
+                     <l xml:id="idm139691387075488">Naar Kærnerne vokse, da modnes i Læ</l>
+                     <l xml:id="idm139691387075008">Og Æblet, som Kløgten har daaret.</l>
+                     <pb n="56" xml:id="s56" facs="adl/grundtvig/grundtvig02/grun2056"/>
+                     <l xml:id="idm139691387073328">O herlige Æble, som Kristus nedbar!</l>
+                     <l xml:id="idm139691387072848">Det evige Liv i sit Inderste har</l>
+                     <l xml:id="idm139691387072416">Enhver, som det undes at smage.</l>
+                  </lg>
+                  <lg xml:id="idm139691387071856">
+                     <l xml:id="idm139691387071600">Det Æble i kosteligt Skrin er nedlagt,</l>
+                     <l xml:id="idm139691387071120">Det Jotuner kunne ei bruge,</l>
+                     <l xml:id="idm139691387070688">Dog Skrinet de stjal fra den sovende Vagt,</l>
+                     <l xml:id="idm139691387070240">Og monne derover nu ruge;</l>
+                     <l xml:id="idm139691387069808">Et andet de satte udsmykket saa rigt,</l>
+                     <l xml:id="idm139691387069376">Det tykdes saa fagert, det tykdes saa ligt,</l>
+                     <l xml:id="idm139691387068928">Men Æblet er ikke derinde.</l>
+                  </lg>
+                  <lg xml:id="idm139691387068352">
+                     <l xml:id="idm139691387068096">O Brødre! o vaagner, o vaagner dog brat!</l>
+                     <l xml:id="idm139691387067616">Mens Glimt er af Dagen at skue,</l>
+                     <l xml:id="idm139691387067184">Thi ellers der kommer en sørgelig Nat,</l>
+                     <l xml:id="idm139691387066704">Da kan vi kun sukke og grue,</l>
+                     <l xml:id="idm139691387066272">Da spøge de Genfærd ved Midnattens Stund,</l>
+                     <l xml:id="idm139691387065792">Og hvor vi opvaagne af rædsomme Blund,</l>
+                     <l xml:id="idm139691387065312">Der var det vist bedre at sove.</l>
+                  </lg>
+                  <lg xml:id="idm139691387064752">
+                     <l xml:id="idm139691387064496">O lader os kæmpe for Frugten saa sød,</l>
+                     <l xml:id="idm139691387064016">Og Korset til Banner fremholde!</l>
+                     <l xml:id="idm139691387063584">Et Korstog allene kan frelse fra Død,</l>
+                     <l xml:id="idm139691387063104">Et Korstog mod Jetter og Trolde.</l>
+                     <l xml:id="idm139691387062672">De hyle, de flygte, naar Korset de se,</l>
+                     <l xml:id="idm139691387062240">Og ikkun i Hulen som Djævle de le,</l>
+                     <l xml:id="idm139691387061776">Men Seier de aldrig kan vinde.</l>
+                  </lg>
+                  <lg xml:id="idm139691387061216">
+                     <l xml:id="idm139691387060960">Ei er det om Kristi den hellige Grav</l>
+                     <l xml:id="idm139691387060528">Vi skulle med Hedninge stride,</l>
+                     <l xml:id="idm139691387060096">Ei kalder os Korset saa vidt over Hav,</l>
+                     <l xml:id="idm139691387059664">Vi maa det vel alle nu vide:</l>
+                     <l xml:id="idm139691387059232">At Herren er nær, hvor vi gange paa Jord,</l>
+                     <l xml:id="idm139691387058752">Og haver sit Tempel i Syd og i Nord,</l>
+                     <l xml:id="idm139691387058320">Hvor efter ham Hjerterne længes.</l>
+                  </lg>
+                  <lg xml:id="idm139691387057728">
+                     <l xml:id="idm139691387057472">De Vantro de bygge os selv udi Bryst,</l>
+                     <l xml:id="idm139691387057040">To Høvdinge føre den Skare,</l>
+                     <l xml:id="idm139691387056576">Dem tjener hver Sands og dem tjener hver Lyst,</l>
+                     <l xml:id="idm139691387056128">Selv Aanden er i deres Snare,</l>
+                     <l xml:id="idm139691387055696">Den ene har visselig Hovmod til Navn,</l>
+                     <l xml:id="idm139691387055264">Den anden som Løgner sig kalder vort Gavn,</l>
+                     <l xml:id="idm139691387054784">De Høvdinge ere saa onde.</l>
+                  </lg>
+                  <pb n="57" xml:id="s57" facs="adl/grundtvig/grundtvig02/grun2057"/>
+                  <lg xml:id="idm139691387053040">
+                     <l xml:id="idm139691387052784">O Brødre, o lader os agte det vel,</l>
+                     <l xml:id="idm139691387052320">Hvad gavner det os om vi vinde</l>
+                     <l xml:id="idm139691387051888">Al Verden, men tabe det evige Held,</l>
+                     <l xml:id="idm139691387051456">Som ei er i Verden at finde?</l>
+                     <l xml:id="idm139691387051024">Kan Hovmod os frelse fra Synd og fra Død?</l>
+                     <l xml:id="idm139691387050544">Kan Hovmod udslukke den evige Glød?</l>
+                     <l xml:id="idm139691387050064">Kan den os med Herren forsone?</l>
+                  </lg>
+                  <lg xml:id="idm139691387049504">
+                     <l xml:id="idm139691387049248">O lader os vandre til Gravene ind,</l>
+                     <l xml:id="idm139691387048816">Hvor Fædrenes Aander omsvæve,</l>
+                     <l xml:id="idm139691387048352">Der bøies maaskee det hovmodige Sind,</l>
+                     <l xml:id="idm139691387047872">Saa Troen sig mægter at hæve,</l>
+                     <l xml:id="idm139691387047408">Og fange vi Tro paa den Helliges Navn,</l>
+                     <l xml:id="idm139691387046976">Da snarlig vi mærke hvad os er til Gavn,</l>
+                     <l xml:id="idm139691387046496">Og Æblet tilbage er vundet.</l>
+                  </lg>
+               </div>
+               <div xml:id="idm139691387045776">
+                  <head xml:id="idm139691387045520">
+                     <hi rend="italics" xml:id="idm139691387045264"><!--<emph>-->Sorø Kirke.<hi rend="sup" xml:id="idm139691387044496">1</hi>
+                        <!--</emph>--></hi>
+                  </head>
+                  <lg xml:id="idm139691387043584">
+                     <l xml:id="idm139691387043328">
+                        <hi rend="bold" xml:id="idm139691387043200">H</hi>øie, lyse Guddomsbolig!</l>
+                     <l xml:id="idm139691387042400">Under din den stolte Bue</l>
+                     <l xml:id="idm139691387041968">Andagt maa i Hjertet lue;</l>
+                     <l xml:id="idm139691387041536">Mangen slumrer her saa rolig.</l>
+                     <l xml:id="idm139691387041104">Som i den forgangne Tid</l>
+                     <l xml:id="idm139691387040688">Rørte sig her i vort Nord,</l>
+                     <l xml:id="idm139691387040240">Vældig i den skarpe Strid,</l>
+                     <l xml:id="idm139691387039792">Kløgtig i det stærke Ord</l>
+                     <l xml:id="idm139691387039344">Hellig for dit Alterbord.</l>
+                  </lg>
+                  <lg xml:id="idm139691387038784">
+                     <l xml:id="idm139691387038528">Men hvad er det, som Øiet hist mon skue?</l>
+                     <l xml:id="idm139691387038048">En Vaabenkrands alt under hvalvte Bue</l>
+                     <l xml:id="idm139691387037616">Omringer Muren med sit Farvespil;</l>
+                     <l xml:id="idm139691387037184">O, hvilken Slægt er fundet værdig til</l>
+                     <l xml:id="idm139691387036704">At glimre saa paa Helligdommens Tinde,</l>
+                     <l xml:id="idm139691387036272">Og leve der i evigt Helgenminde?</l>
+                     <l xml:id="idm139691387035840">Foruden Skjolds af Slægter jeg kun een</l>
+                     <l xml:id="idm139691387035360">I Danmark veed, som værdig var den Ære</l>
+                  </lg>
+                  <note anchored="true" xml:id="idm139691387034752">
+                     <hi rend="sup" xml:id="idm139691387034352">1</hi> Optrykt i <hi rend="italics" xml:id="idm139691387033696"><!--<emph>-->Kvædlinger<!--</emph>--></hi> med faa Ændringer. Se <hi rend="italics" xml:id="idm139691387032592"><!--<emph>-->Poet. Skr<!--</emph>--></hi>. I. 277-288.</note>
+                  <pb n="58" xml:id="s58" facs="adl/grundtvig/grundtvig02/grun2058"/>
+                  <lg xml:id="idm139691387030352">
+                     <l xml:id="idm139691387030096">At eie slig udhulet Bautasten,</l>
+                     <l xml:id="idm139691387029664">O, mon det ikke Palnatokes være?</l>
+                     <l xml:id="idm139691387029200">Jo, den det er, og den det er med Ret;</l>
+                     <l xml:id="idm139691387028768">Thi hvor er Slægten, som i Seklers Række</l>
+                     <l xml:id="idm139691387028288">Kan ved sit Navn saa stolte Minder vække,</l>
+                     <l xml:id="idm139691387027808">Som blev saa seent af Hædersgangen træt?</l>
+                  </lg>
+                  <lg xml:id="idm139691387027200">
+                     <l xml:id="idm139691387026944">O, Jomsborgs Høvding, Kæmpe uden Mage!</l>
+                     <l xml:id="idm139691387026464">Ei dine Ben er' gemt i viet Jord,</l>
+                     <l xml:id="idm139691387026032">Dit Liv indfaldt i hine tunge Dage,</l>
+                     <l xml:id="idm139691387025600">Da Krist og Odin kæmpede i Nord,</l>
+                     <l xml:id="idm139691387025136">Den svundne Tid, den vilde du genføde</l>
+                     <l xml:id="idm139691387024656">Og Liv igen indtrylle i det Døde,</l>
+                     <l xml:id="idm139691387024192">Men kun forgæves var din blinde Daad.</l>
+                     <l xml:id="idm139691387023712">Her stander jeg i andre tunge Dage,</l>
+                     <l xml:id="idm139691387023280">I Hjerte vist, men ei i Kraft din Mage,</l>
+                     <l xml:id="idm139691387022848">Og grunder dybt paa Herrens skjulte Raad.</l>
+                     <l xml:id="idm139691387022400">Det Hellige, som dig og Odin overvandt,</l>
+                     <l xml:id="idm139691387021968">Det ligger nu saa sygt og døende i Norden,</l>
+                     <l xml:id="idm139691387021488">Ak, evige Forbarmer! er det sandt,</l>
+                     <l xml:id="idm139691387021056">At ei det Døde kan igen opstaa paa Jorden,</l>
+                     <l xml:id="idm139691387020576">Saa brist kun Hjerte i et Krampesiag;</l>
+                     <l xml:id="idm139691387020144">Thi svundet er da Jordens sidste Dag.</l>
+                     <l xml:id="idm139691387019712">Kan Herren vel en Søn paa ny til Jorden sende,</l>
+                     <l xml:id="idm139691387019216">Som kan nedslagne Blik mod Himlen atter vende?</l>
+                     <l xml:id="idm139691387018768">Ak nei, det er forbi, det haaber ikkun Daaren,</l>
+                     <l xml:id="idm139691387018320">At stige skal til Jord en ny Enbaaren.</l>
+                     <l xml:id="idm139691387017888">Dog, Hjerte! stands med dine Rædselsskrig!</l>
+                     <l xml:id="idm139691387017408">Veed du det ei, at Kristus seierrig,</l>
+                     <l xml:id="idm139691387016976">Som de Opstandnes første Grøde,</l>
+                     <l xml:id="idm139691387016512">Opstanden er med Ære fra de Døde?</l>
+                     <l xml:id="idm139691387016048">Mon eengang kun af Graven han opstod;</l>
+                     <l xml:id="idm139691387015616">Opstod han ei i Kristnes Martyrblod,</l>
+                     <l xml:id="idm139691387015184">Som randt for Korsets og for Gravens Ære?</l>
+                     <l xml:id="idm139691387014704">Opstod han ei, da Luther kækt oplod</l>
+                     <l xml:id="idm139691387014224">Det blinde Øie for hans sande Lære?</l>
+                     <l xml:id="idm139691387013744">Lad Tiden da sin Kundskabs tunge Sten</l>
+                     <l xml:id="idm139691387013312">Kun fræk henvelte over Jesu Ben,</l>
+                     <l xml:id="idm139691387012848">Og fast den binde med Forstandens Seigl!</l>
+                     <l xml:id="idm139691387012400">Lad den kun gange med sig selv i Pagt,</l>
+                     <l xml:id="idm139691387011968">Og Mand ved Mand om Graven holde Vagt!</l>
+                     <l xml:id="idm139691387011536">Det hjelper ei, naar Englene nedsvæve;</l>
+                     <pb n="59" xml:id="s59" facs="adl/grundtvig/grundtvig02/grun2059"/>
+                     <l xml:id="idm139691387009904">Da Vægterne skal fly, thi de maa bæve,</l>
+                     <l xml:id="idm139691387009424">Da Stenen skal sig høit mod Himlen hæve,</l>
+                     <l xml:id="idm139691387008944">Og straalende den Jordede opstaaer,</l>
+                     <l xml:id="idm139691387008512">Da Slægter skal igen paa Jord fremtræde,</l>
+                     <l xml:id="idm139691387008032">Som den, hvis Støv og Fald vi her begræde;</l>
+                     <l xml:id="idm139691387007536">Som Skjalm, og som de Tvillinger i Aand,</l>
+                     <l xml:id="idm139691387007088">Som Esbern Snare og som Absalon.</l>
+                  </lg>
+                  <lg xml:id="idm139691387006528">
+                     <l xml:id="idm139691387006272">Saa hvile sig da under denne Sten</l>
+                     <l xml:id="idm139691387005840">Nu Absalons de trætte Helgenben,</l>
+                     <l xml:id="idm139691387005376">Det er da ham, hvis Billed her man præged,</l>
+                     <l xml:id="idm139691387004896">Det er da dig, hvis Daad mig saa bevæged.</l>
+                     <l xml:id="idm139691387004416">Saa staar jeg nu da for den Ædlings Grav,</l>
+                     <l xml:id="idm139691387003936">Som tidlig mig den Følelse indgav,</l>
+                     <l xml:id="idm139691387003472">At det er stolt, at være født i Norden,</l>
+                     <l xml:id="idm139691387002992">Ja, klart jeg dig i Lignelsen kan skue,</l>
+                     <l xml:id="idm139691387002560">Som om din Aand til Kroppens Hvilested,</l>
+                     <l xml:id="idm139691387002128">En føie Stund i Dæmring, svæved ned.</l>
+                     <l xml:id="idm139691387001648">I Øiet seer jeg Kraft og Fromhed lue;</l>
+                     <l xml:id="idm139691387001168">Thi Søn du er af Krist og gamle Nord,</l>
+                     <l xml:id="idm139691387000688">En Gjord er spændt om dine stærke Lænder,</l>
+                     <l xml:id="idm139691387000192">Og tunge Sværd nedhænger fra den Gjord;</l>
+                     <l xml:id="idm139691386999712">Med det du slog til Jord de grumme Vender;</l>
+                     <l xml:id="idm139691386999264">For dette Sværd fra Tempelbænk nedfaldt</l>
+                     <l xml:id="idm139691386998784">Hver Stok og Sten som var en Guddom kaldt;</l>
+                     <l xml:id="idm139691386998336">Det samme høit du op i Luften bar</l>
+                     <l xml:id="idm139691386997872">Dengang du slog til Konge Valdemar.</l>
+                     <l xml:id="idm139691386997440">Din Stav - o se, den er jo søndersprungen,</l>
+                     <l xml:id="idm139691386996960">Da Bisper stred mod Fædreland og Kongen,</l>
+                     <l xml:id="idm139691386996480">Da Danmarks Hæder sank i mørke Grav,</l>
+                     <l xml:id="idm139691386996000">Da knuged du saa haardt din Bispestav,</l>
+                     <l xml:id="idm139691386995568">At Stenen selv isønder maatte springe.</l>
+                     <l xml:id="idm139691386995088">Med Kraft den Stav du som et Septer førte,</l>
+                     <l xml:id="idm139691386994608">Da Lov du gav mod Synd og Overvold,</l>
+                     <l xml:id="idm139691386994176">Med den det var, du Saxos Øie rørte,</l>
+                     <l xml:id="idm139691386993696">Med den opmaned du den svundne Old.</l>
+                     <l xml:id="idm139691386993264">Ja, Ædling, naar ved Valdemarers Minder,</l>
+                     <l xml:id="idm139691386992784">Og naar ved dit opblusse mine Kinder,</l>
+                     <l xml:id="idm139691386992352">Naar Øiet funkler ved en stor Bedrift,</l>
+                     <l xml:id="idm139691386991872">Som du lod præge i den faste Skrift;</l>
+                     <l xml:id="idm139691386991392">Og naar i Gru jeg gyse maa og blegne</l>
+                     <l xml:id="idm139691386990960">Ved Tanken om, at var din Saxo ei,</l>
+                     <pb n="60" xml:id="s60" facs="adl/grundtvig/grundtvig02/grun2060"/>
+                     <l xml:id="idm139691386989376">Da maatte jeg, forvildet, uden Vei,</l>
+                     <l xml:id="idm139691386988944">Omvandre her i Fædrelandets Egne,</l>
+                     <l xml:id="idm139691386988480">Da knæler jeg med Tak for ham, som gav</l>
+                     <l xml:id="idm139691386988000">I Haanden dig en hellig Bispestav.</l>
+                     <l xml:id="idm139691386987568">Ja laa din Sten for høien Altar end,</l>
+                     <l xml:id="idm139691386987088">For Gud jeg nu nedknælede paa den.</l>
+                     <l xml:id="idm139691386986624">Saa er da Alt i haarde Sten indpræget,</l>
+                     <l xml:id="idm139691386986144">Hvorved dit Liv mig har saa dybt bevæget!</l>
+                     <l xml:id="idm139691386985664">Nei Kaaben ei, hvorpaa i Roskild hviled</l>
+                     <l xml:id="idm139691386985232">Den svegne faldne Knud, da i dit Venneskød</l>
+                     <l xml:id="idm139691386984752">Han rørt sin Aand opgav, og end i Døden smiled,</l>
+                     <l xml:id="idm139691386984256">At præges udi Sten, dertil var den for blød,</l>
+                     <l xml:id="idm139691386983760">Men derfor dog dens Minde vist skal vare,</l>
+                     <l xml:id="idm139691386983312">Saalænge gævt og stolt det er i Nord</l>
+                     <l xml:id="idm139691386982832">I Vennenød at glemme egen Fare.</l>
+                     <l xml:id="idm139691386982368">Saa sov da sødt i hellig Kirkejord!</l>
+                     <l xml:id="idm139691386981888">Du Støv af ham, som pryded Land og Kirke:</l>
+                     <l xml:id="idm139691386981408">Det under dig vel dog forkeerte Old,</l>
+                     <l xml:id="idm139691386980976">Der stormer mod de Døde blind og kold,</l>
+                     <l xml:id="idm139691386980496">Som det var dem, der Landfarsoten virke.</l>
+                  </lg>
+                  <lg xml:id="idm139691386979920">
+                     <l xml:id="idm139691386979664">Hil være dig, udhugne Dannerkonning!</l>
+                     <l xml:id="idm139691386979184">Uroligt var dit Liv, nu har du Fred,</l>
+                     <l xml:id="idm139691386978752">Ei driver Gert dig mer fra Land og Dronning,</l>
+                     <l xml:id="idm139691386978304">Thi ogsaa han i Graven lagdes ned.</l>
+                     <l xml:id="idm139691386977872">For store Kæmpeværk han Jylland tog i Pandt,</l>
+                     <l xml:id="idm139691386977376">Der søgte han sin Løn, der ogsaa den han fandt.</l>
+                     <l xml:id="idm139691386976880">Kristoffer! ja, et Offer var du vist,</l>
+                     <l xml:id="idm139691386976448">For den i Nord vanhelligede Krist,</l>
+                     <l xml:id="idm139691386976016">Din Stol hardtad du fløtted fra dit Rige;</l>
+                     <l xml:id="idm139691386975536">O, tungt for dig og Dannemark tillige!</l>
+                     <l xml:id="idm139691386975104">Naar Herrens sande Frygt fra Tronen maa nedstige,</l>
+                     <l xml:id="idm139691386974656">Og naar fra Altret selv den nødes til at vige,</l>
+                     <l xml:id="idm139691386974160">Da kommer saadan Tid, da maa en Konge bøde,</l>
+                     <l xml:id="idm139691386973664">Ei for sin egen blot, for hele Rigets Brøde.</l>
+                     <l xml:id="idm139691386973168">Saa rind da Taare for det arme Rige,</l>
+                     <l xml:id="idm139691386972736">Men rind kun for den svage Drot tillige,</l>
+                     <l xml:id="idm139691386972288">Og rind for Sønnen, som de stærke Ben</l>
+                     <l xml:id="idm139691386971808">Nu hviler hisset under tunge Sten!</l>
+                     <l xml:id="idm139691386971376">Thi Saga det med Smerte vidnet har,</l>
+                     <l xml:id="idm139691386970944">Ei atter Dag det blev med Valdemar;</l>
+                     <l xml:id="idm139691386970512">Saa vakler ei ved Dag en Konges Trone,</l>
+                     <pb n="61" xml:id="s61" facs="adl/grundtvig/grundtvig02/grun2061"/>
+                     <l xml:id="idm139691386968928">Saa raader ei vantrevne Kræmmerflok</l>
+                     <l xml:id="idm139691386968448">Ved lyse Dag for Dannerkongens Krone,</l>
+                     <l xml:id="idm139691386968016">Ja, kan vel List og onde Rænker taale,</l>
+                     <l xml:id="idm139691386967536">At skinnes paa af Jordens klare Straale?</l>
+                     <l xml:id="idm139691386967088">Her fordum hun, den kloge Danneqvinde,</l>
+                     <l xml:id="idm139691386966656">Som det sig burde, mellem Frænder laa.</l>
+                     <l xml:id="idm139691386966176">O! var du her endnu i Rad at finde,</l>
+                     <l xml:id="idm139691386965744">Og kunde fra de Døde du opstaa,</l>
+                     <l xml:id="idm139691386965280">Et sanddru Vidnesbyrd du skulde da frembære,</l>
+                     <l xml:id="idm139691386964784">Om det var Dannemarks og Norges Kraft til Ære,</l>
+                     <l xml:id="idm139691386964288">At saa du bøded med en konstig Haand</l>
+                     <l xml:id="idm139691386963808">Den nye Klud paa gamle Klædebon,</l>
+                     <l xml:id="idm139691386963344">Om Kvindekløgt og Banghed udi Sind,</l>
+                     <l xml:id="idm139691386962864">Hvad heller Kraft det var, da i dit Rige</l>
+                     <l xml:id="idm139691386962416">Med stor Besvær du murede dig ind,</l>
+                     <l xml:id="idm139691386961952">At Tyve ei sig skulde der indsnige</l>
+                     <l xml:id="idm139691386961520">Ved Nattetid; thi kun naar Folket sover</l>
+                     <l xml:id="idm139691386961088">Den rædde Tyv sig ind i Huset vover.</l>
+                  </lg>
+                  <lg xml:id="idm139691386960480">
+                     <l xml:id="idm139691386960224">Nu, sover vel, I gamle Kongeben!</l>
+                     <l xml:id="idm139691386959792">Jeg skride maa forbi den sidste Sten,</l>
+                     <l xml:id="idm139691386959360">Som Saga taus og grundende tillige,</l>
+                     <l xml:id="idm139691386958928">Tredobbelt, Olaf, var din Slægt, dit Arverige,</l>
+                     <l xml:id="idm139691386958432">Tredobbelt Slægt med dig i Graven maatte stige.</l>
+                  </lg>
+                  <lg xml:id="idm139691386957808">
+                     <l xml:id="idm139691386957552">Men hvem er du, som stander der allene?</l>
+                     <l xml:id="idm139691386957120">Mig tykkes ret saa spottende du leer</l>
+                     <l xml:id="idm139691386956688">Ad Kæmperne og deres Mindestene.</l>
+                     <l xml:id="idm139691386956224">Det er fordi du kun paa Skraa dem seer;</l>
+                     <l xml:id="idm139691386955792">Hvi blev du ei imellem dem herinde?</l>
+                     <l xml:id="idm139691386955360">Om sjeldne Daad jo vidner dog dit Minde,</l>
+                     <l xml:id="idm139691386954912">Og Altret kan du i din Krog ej se!</l>
+                     <l xml:id="idm139691386954480">Ak, er det dig, du Paarses store Digter,</l>
+                     <l xml:id="idm139691386954032">Som nødte os til Kæmper at bele?</l>
+                     <l xml:id="idm139691386953568">Ei for din Daad ukyndig jeg dig sigter,</l>
+                     <l xml:id="idm139691386953136">Jeg veed den Punkt, hvorpaa din Alder stod.</l>
+                     <l xml:id="idm139691386952688">Den Lærde grandsked i de gamle Skrifter,</l>
+                     <l xml:id="idm139691386952208">Ei glødende ved Hedenolds Bedrifter,</l>
+                     <l xml:id="idm139691386951728">Men drevet af en uforstaaet Trang.</l>
+                     <l xml:id="idm139691386951296">Paa saadan Færd kun findes hvad Man søger,</l>
+                     <l xml:id="idm139691386950800">Og ikkun Ord han fandt i gamle Bøger;</l>
+                     <l xml:id="idm139691386950320">Han pløjede Homerers Heltesang</l>
+                     <pb n="62" xml:id="s62" facs="adl/grundtvig/grundtvig02/grun2062"/>
+                     <l xml:id="idm139691386948704">Og sanked Fraser i den aabne Fure;</l>
+                     <l xml:id="idm139691386948272">En Cicero, Ovid, Horats, Virgil</l>
+                     <l xml:id="idm139691386947840">Han læste for at gøre klassisk Stil.</l>
+                     <l xml:id="idm139691386947360">Om hver en Pind i Oldtids Fuglebure</l>
+                     <l xml:id="idm139691386946928">Man trættedes paa god og slet Latin;</l>
+                     <l xml:id="idm139691386946448">Men Fuglen selv, som sad og sang derinde,</l>
+                     <l xml:id="idm139691386946000">Og Æggene, som laa i gyldne Skrin,</l>
+                     <l xml:id="idm139691386945536">Dem fandt man ei, dem kunde man ei finde,</l>
+                     <l xml:id="idm139691386945088">Saalænge man end fra Olympen ei</l>
+                     <l xml:id="idm139691386944624">Til Herrens Himmel havde fundet Vei.</l>
+                     <l xml:id="idm139691386944192">Saa Oldtids Glands er skjult den Dag i Dag</l>
+                     <l xml:id="idm139691386943744">For hver som seer i Guder kun Bedrag;</l>
+                     <l xml:id="idm139691386943312">Thi ret som intet Folk var mer end sine Guder,</l>
+                     <l xml:id="idm139691386942864">Saa er det og for os ei mindre eller meer,</l>
+                     <l xml:id="idm139691386942416">End sløve, lyse Blik udi dets Guder seer.</l>
+                     <l xml:id="idm139691386941936">Dit Øie, Holberg, for hver Hedningold</l>
+                     <l xml:id="idm139691386941456">Fik, som din Tid, og du fra dine Fædre,</l>
+                     <l xml:id="idm139691386940976">Dem fried Luther fra Afguders Vold,</l>
+                     <l xml:id="idm139691386940544">Og Hedningguder kunde de ei hædre.</l>
+                     <l xml:id="idm139691386940080">Men Blikket, som din Tid dig gav for Heltedaad,</l>
+                     <l xml:id="idm139691386939632">Fra eders Fædre det I arved ingenlunde,</l>
+                     <l xml:id="idm139691386939152">Det hvasse Sværd hos Jer var blevet til en Braad,</l>
+                     <l xml:id="idm139691386938656">Med den I stak, da ei med det I hugge kunde.</l>
+                     <l xml:id="idm139691386938208">Saalænge Kristi Aand var over Stat og Kirke,</l>
+                     <l xml:id="idm139691386937712">Saalænge Danmarks Folk saamangen stor Bedrift</l>
+                     <l xml:id="idm139691386937216">Ved Jesu Kristi Kraft end mægtede at virke,</l>
+                     <l xml:id="idm139691386936720">Var Øiet og opladt for Daad i gammel Skrift,</l>
+                     <l xml:id="idm139691386936224">Var det og deres Lyst at digte og at skrive</l>
+                     <l xml:id="idm139691386935776">Om Heltefærd og Daad paa gammel nordisk Viis,</l>
+                     <l xml:id="idm139691386935280">At til Eksempel det for Sønner kunde blive,</l>
+                     <l xml:id="idm139691386934784">At ingen Helt saa gæv forlorede sin Pris.</l>
+                  </lg>
+                  <lg xml:id="idm139691386934176">
+                     <l xml:id="idm139691386933920">Dengang ved Svarteraa de første Lutherdrenge,</l>
+                     <l xml:id="idm139691386933424">Med Gudsfrygt udi Sind, med frit og freidigt Mod,</l>
+                     <l xml:id="idm139691386932976">Afskurede den Rust i Svenskens Hjerteblod,</l>
+                     <l xml:id="idm139691386932528">Som havde sig indædt i Danmarks Sværd saalænge;</l>
+                     <l xml:id="idm139691386932032">Da aabnedes igen de gamle Kæmpehøie,</l>
+                     <l xml:id="idm139691386931552">Da kom det saa, da maatte det sig føie,</l>
+                     <l xml:id="idm139691386931072">At Snorro! du, og Saxo! af Jer Grav</l>
+                     <l xml:id="idm139691386930640">Igen opstod og tog Jer Vandringsstav,</l>
+                     <l xml:id="idm139691386930208">Og gik i Land omkring, saagodt I Gamle kunde;</l>
+                     <l xml:id="idm139691386929760">I snakkede nu Dansk paa Jeres Sønners Viis</l>
+                     <pb n="63" xml:id="s63" facs="adl/grundtvig/grundtvig02/grun2063"/>
+                     <l xml:id="idm139691386928064">Med hver en Adelsmand, hver Rosenkrands og Friis,</l>
+                     <l xml:id="idm139691386927616">I gæsted, hvor I kom, hver Borger og hver Bonde,</l>
+                     <l xml:id="idm139691386927120">Og satte Jer paa Bænk for Enden af hans Bord</l>
+                     <l xml:id="idm139691386926624">Og glæded ham i Sind med Jeres snilde Ord.</l>
+                     <l xml:id="idm139691386926144">Da var det og at du, vor store Kristians Moder!</l>
+                     <l xml:id="idm139691386925696">Da Tyge du engang besøgte paa hans Hveen,</l>
+                     <l xml:id="idm139691386925216">Med Mester Anders om de gamle Syngenoder</l>
+                     <l xml:id="idm139691386924768">Saa ivrig skifted Ord, som om en Ædelsten</l>
+                     <l xml:id="idm139691386924288">Med Straaleglands der sad i hver en gammel Tone,</l>
+                     <l xml:id="idm139691386923840">Og du dig ønsked den til Smykke i din Krone.</l>
+                     <l xml:id="idm139691386923344">Du fik dem, delte ud til Frøkener og Fruer,</l>
+                     <l xml:id="idm139691386922848">Paa gammel Dronningvis, og du endnu dem har;</l>
+                     <l xml:id="idm139691386922400">Thi Stads saa gammeldags er ei for vore Fruer.</l>
+                     <l xml:id="idm139691386921952">Kun for at smile af hvad Oldemødre bar,</l>
+                     <l xml:id="idm139691386921472">Vi gemme dem endnu, de gamle Kæmpeviser,</l>
+                     <l xml:id="idm139691386920992">Som ikkun Kærlighed og Mod og Troskab priser,</l>
+                     <l xml:id="idm139691386920496">Saadan som de saae ud i gamle Arilds Tid;</l>
+                     <l xml:id="idm139691386920048">Thi gamle Arild sad just i de samme Dage</l>
+                     <l xml:id="idm139691386919600">Og sanked paa Dragsholm med sindrig Kløgt og Flid,</l>
+                     <l xml:id="idm139691386919104">Hvad der af Sagn og Skrift om Danmark var tilbage.</l>
+                     <l xml:id="idm139691386918656">Da fjerde Kristian ved Kalmar stred og vandt,</l>
+                     <l xml:id="idm139691386918208">Der Dannebrog igen sig løfted under Ø,</l>
+                     <l xml:id="idm139691386917728">Da Kæmpen Frederiksborg opvokste udi Sø,</l>
+                     <l xml:id="idm139691386917248">Da Grønland Lindenov og Edda Brynjulf fandt;</l>
+                     <l xml:id="idm139691386916752">Da fandtes og en Mand som kunde sjunge</l>
+                     <l xml:id="idm139691386916320">Om slig Bedrift, og medens Arbo sang</l>
+                     <l xml:id="idm139691386915888">Med hellig Aand om Skaberværkets Gang,</l>
+                     <l xml:id="idm139691386915408">Da rørte du, Lyskander, kæk din Tunge</l>
+                     <l xml:id="idm139691386914928">Om Verdens Herrers Værk; det bedre du forstod,</l>
+                     <l xml:id="idm139691386914432">End dem at elske op af Danmarks Kongerod.</l>
+                  </lg>
+                  <lg xml:id="idm139691386913856">
+                     <l xml:id="idm139691386913600">Nu nærmer Svensken sig saa tæt til København,</l>
+                     <l xml:id="idm139691386913104">Den stod som Adelsmand og vandt sig Adelsnavn;</l>
+                     <l xml:id="idm139691386912656">Men skønt det end var Dag, var det dog blevet silde.</l>
+                     <l xml:id="idm139691386912144">En større Frændeflok alt havde Anders Bilde,</l>
+                     <l xml:id="idm139691386911648">End, danske Præstemand!du store Henrik Gerner;</l>
+                     <l xml:id="idm139691386911152">Men derfor og din Daad var større end din Sang.</l>
+                     <l xml:id="idm139691386910656">O, brave Syv! hvad hjelper det du værner</l>
+                     <l xml:id="idm139691386910176">Saa trofast om det gamle Dannersprog,</l>
+                     <l xml:id="idm139691386909744">Som du fra Stevns saae dine Juler værne</l>
+                     <l xml:id="idm139691386909264">I Køgebugt om gamle Dannebrog?</l>
+                     <l xml:id="idm139691386908800">Seer du Torfæus hist? Han bryder nu sin Hjerne,</l>
+                     <pb n="64" xml:id="s64" facs="adl/grundtvig/grundtvig02/grun2064"/>
+                     <l xml:id="idm139691386907200">For som Stephanius, og Vorm, og Bartholin,</l>
+                     <l xml:id="idm139691386906752">At grave ned igen, hvad der er nys opgravet,</l>
+                     <l xml:id="idm139691386906304">Begrave Nordens Sagn og Saga i Latin.</l>
+                  </lg>
+                  <lg xml:id="idm139691386905744">
+                     <l xml:id="idm139691386905488">En Røg saa gloende jo stiger hist af Havet,</l>
+                     <l xml:id="idm139691386904992">Og i den klarlig seer jeg Danmarks røde Flag,</l>
+                     <l xml:id="idm139691386904496">Det vaier stolt paa store Høitidsdag.</l>
+                     <l xml:id="idm139691386904016">Herr Sehsted har en Søn sig avlet under Ø,</l>
+                     <l xml:id="idm139691386903520">Som har det store Kaar, at han skal aldrig dø;</l>
+                     <l xml:id="idm139691386903024">Det svor du, Sorterup, til Gud og Fædreland;</l>
+                     <l xml:id="idm139691386902528">Jeg har den faste Tro, at Eden vorder sand.</l>
+                     <l xml:id="idm139691386902080">Den Søn og har paa danske Bølger vandret,</l>
+                     <l xml:id="idm139691386901600">Skønt han sit Navn, som Tiden, har forandret;</l>
+                     <l xml:id="idm139691386901104">Han først hed Tordenskjold, han sidst hed Villemoes.</l>
+                  </lg>
+                  <lg xml:id="idm139691386900464">
+                     <l xml:id="idm139691386900208">O Sorterup! din Alders sidste danske Mand,</l>
+                     <l xml:id="idm139691386899760">Som digted høit og kækt om Danmarks Helteros,</l>
+                     <l xml:id="idm139691386899264">Saa sorrigfuld du stod i sjunkne Fædreland,</l>
+                     <l xml:id="idm139691386898768">Begreb det ei hvorfor kun Viser om Krysillis,</l>
+                     <l xml:id="idm139691386898320">Som blødne mer end skærpe Mandemod,</l>
+                     <l xml:id="idm139691386897840">Om Paars og Synderen, som maa for Bøddel stilles,</l>
+                     <l xml:id="idm139691386897344">I Danmarks Egelund sig mærke, høre lod;</l>
+                     <l xml:id="idm139691386896864">O hørte du da ei fra Skaane høie Rygte</l>
+                     <l xml:id="idm139691386896384">Om Dannerhæren, som for Stenbuk maatte flygte;</l>
+                     <l xml:id="idm139691386895888">O, følte du det ei, alt Gammelt var forbi,</l>
+                     <l xml:id="idm139691386895408">Den gamle Kristendom, og Kraft og Poesi?</l>
+                     <l xml:id="idm139691386894960">Ja, Kristus selv ei mer i Straaleglands</l>
+                     <l xml:id="idm139691386894528">Saa herlig stod for Sjælens Skuesands,</l>
+                     <l xml:id="idm139691386894048">I tvende Sekler dæmpet var den Lue,</l>
+                     <l xml:id="idm139691386893568">Som Luther tændte under Himlens Bue.</l>
+                     <l xml:id="idm139691386893088">Ei til Bedrift var Tiden længer dygtig,</l>
+                     <l xml:id="idm139691386892608">Og, Holberg, du var til dens Færd for stor.</l>
+                     <l xml:id="idm139691386892112">Hvad var tilovers da? kun det at spotte kløgtig,</l>
+                     <l xml:id="idm139691386891616">Med Sorgen dybt i Sind at mæle Latters Ord.</l>
+                     <l xml:id="idm139691386891120">Saa tro da ei, du Martyr, jeg er blind,</l>
+                     <l xml:id="idm139691386890688">For hvad du var, og hvad du maatte være!</l>
+                     <l xml:id="idm139691386890208">Nei ikkun da jeg harmes udi Sind,</l>
+                     <l xml:id="idm139691386889776">Naar sløve Folk vil skoggre dig til Ære,</l>
+                     <l xml:id="idm139691386889296">Som mindste Glimt ei af din Aand kan se,</l>
+                     <l xml:id="idm139691386888848">Som mener fræk, dit Maal kun var i Livet,</l>
+                     <l xml:id="idm139691386888368">Hvad deres er, at nyde og at le!</l>
+                     <l xml:id="idm139691386887936">Et andet Syn af Herren mig blev givet;</l>
+                     <pb n="65" xml:id="s65" facs="adl/grundtvig/grundtvig02/grun2065"/>
+                     <l xml:id="idm139691386886288">Jeg veed det vist, at hver en kraftig Aand</l>
+                     <l xml:id="idm139691386885840">I sig forener Alt, hvad i hans Tid og Folk</l>
+                     <l xml:id="idm139691386885392">Der findes vidt adspredt, i Enkelthedens Baand;</l>
+                     <l xml:id="idm139691386884944">Saa var og du <hi rend="italics" xml:id="idm139691386884656"><!--<emph>-->din<!--</emph>--></hi> Tids, <hi rend="italics" xml:id="idm139691386883616"><!--<emph>-->dit<!--</emph>--></hi> Nordens sanddru Tolk;</l>
+                     <l xml:id="idm139691386882448">Men det, som med sig selv Forening kun kan avle,</l>
+                     <l xml:id="idm139691386882000">Det ubekendte Tal paa Aandens Regnetavle,</l>
+                     <l xml:id="idm139691386881552">Det genialske Blik var Herrens og dit eget.</l>
+                  </lg>
+                  <lg xml:id="idm139691386880976">
+                     <l xml:id="idm139691386880720">Saa skal jeg da forlade dig saa rolig,</l>
+                     <l xml:id="idm139691386880288">Du underfulde, lyse Guddomsbolig?</l>
+                     <l xml:id="idm139691386879856">Ja, rolig vel; thi nu for vist jeg veed,</l>
+                     <l xml:id="idm139691386879408">At Kristus lever i al Evighed;</l>
+                     <l xml:id="idm139691386878976">Men dog med Taarer i det vaade Øie;</l>
+                     <l xml:id="idm139691386878496">Thi hvilken Dansk kan stande her urørt?</l>
+                     <l xml:id="idm139691386878016">Paa hvilken Dansk kan Øiet blive tørt</l>
+                     <l xml:id="idm139691386877536">Ved Valdemars og ved Kristoffers Leie?</l>
+                     <l xml:id="idm139691386877104">Vel Dannekongers Ben sig hvile andensteds,</l>
+                     <l xml:id="idm139691386876656">Ja ligge hist og her end tættere i Kreds;</l>
+                     <l xml:id="idm139691386876176">Men, Sorøs Guddomshus! det var dog kun i dig</l>
+                     <l xml:id="idm139691386875680">At Fædrene begrov det hele Danmarks Lig.</l>
+                     <l xml:id="idm139691386875200">Fra Leire kun til Roskild Harald flytted,</l>
+                     <l xml:id="idm139691386874752">Og Kongehøi med Kirkejord ombytted;</l>
+                     <l xml:id="idm139691386874272">End Danmark straaled i sin fulde Glands,</l>
+                     <l xml:id="idm139691386873824">Og trende Riger gik om Knud i Dands.</l>
+                     <l xml:id="idm139691386873392">Fra Estrids Søn til store Valdemar</l>
+                     <l xml:id="idm139691386872928">En Kløft hel dyb der er at overspringe,</l>
+                     <l xml:id="idm139691386872448">I Roskild ligger Svend, i Ringsted Valdemar,</l>
+                     <l xml:id="idm139691386872000">For gamle Danmarks Liv begyndte det at ringe.</l>
+                     <l xml:id="idm139691386871552">Den anden Valdemar man Seiernavnet gav,</l>
+                     <l xml:id="idm139691386871120">Han planted røde Kors ved gamle Danmarks Grav.</l>
+                     <l xml:id="idm139691386870624">Som Frodes, Liget blev end ført omkring enstund,</l>
+                     <l xml:id="idm139691386870128">Indtil det her nedsank i Sorøs Kirkegrund.</l>
+                     <l xml:id="idm139691386869648">Dog, slig en Kæmpe ei saa snart kan rolig sove,</l>
+                     <l xml:id="idm139691386869152">Som Genfærd se vi ham endnu engang sig vove,</l>
+                     <l xml:id="idm139691386868656">Ved Midnat op af Grav og kaldes Valdemar,</l>
+                     <l xml:id="idm139691386868208">Han gaaer som det var Dag, og som ei død han var;</l>
+                     <l xml:id="idm139691386867712">Dog Døden rædsom, mørk, i Øiet malet staaer.</l>
+                     <l xml:id="idm139691386867216">Der Timen er forbi, igen i Grav han gaaer,</l>
+                     <l xml:id="idm139691386866768">Og kun forgæves vil en trolddomskyndig Vole</l>
+                     <l xml:id="idm139691386866272">Ham mane op igen paa trende Kongestole:</l>
+                     <l xml:id="idm139691386865840">Han kommer som et Barn, som hellig Olafs Skygge,</l>
+                     <l xml:id="idm139691386865392">Kun for at i sin Grav trekronet han kan bygge.</l>
+                     <pb n="66" xml:id="s66" facs="adl/grundtvig/grundtvig02/grun2066"/>
+                     <l xml:id="idm139691386863728">Nu længe vi i Kirken have dvælet,</l>
+                     <l xml:id="idm139691386863264">Det Døde til os Levende har mælet</l>
+                     <l xml:id="idm139691386862800">Om nære Frændskab i den svundne Tid</l>
+                     <l xml:id="idm139691386862320">Imellem Tro og Sang og kraftig Id.</l>
+                     <l xml:id="idm139691386861888">Det samme vil og vore Ætmænd finde;</l>
+                     <l xml:id="idm139691386861408">O lader det ei gange jer af Minde!</l>
+                     <l xml:id="idm139691386860976">Dog stille! end det Døde til os mæler,</l>
+                     <l xml:id="idm139691386860496">En hellig Aand det døde Malm besjæler.</l>
+                     <l xml:id="idm139691386860016">O hører I ei hvad det er som toner</l>
+                     <l xml:id="idm139691386859552">Fra Hvælvingen? det er om vor Forsoner.</l>
+                     <l xml:id="idm139691386859072">Ved Midnatstid, da blev vor Frelser født,</l>
+                     <l xml:id="idm139691386858592">Til Verdens Trøst, som ellers var forødt.</l>
+                     <l xml:id="idm139691386858112">O gid I dette Ord i Hjertet vilde gemme,</l>
+                     <l xml:id="idm139691386857664">Da maatte frit hvert andet I forglemme,</l>
+                     <l xml:id="idm139691386857232">Thi kun i ham der gives Salighed,</l>
+                     <l xml:id="idm139691386856800">For alle dem der af hans Fødsel veed.</l>
+                  </lg>
+               </div>
+               <div xml:id="idm139691386856064">
+                  <head xml:id="idm139691386855808">
+                     <hi rend="italics" xml:id="idm139691386855552"><!--<emph>-->Julesang.<hi rend="sup" xml:id="idm139691386854832">1</hi>
+                        <!--</emph>--></hi>
+                  </head>
+                  <lg xml:id="idm139691386853888">
+                     <l xml:id="idm139691386853632">
+                        <hi rend="bold" xml:id="idm139691386853504">O</hi>p, alle Kristne! stemmer i!</l>
+                     <l xml:id="idm139691386852704">Om Kristus vil vi sjunge,</l>
+                     <l xml:id="idm139691386852272">Med Sjæl og Hjerte sjunge vi,</l>
+                     <l xml:id="idm139691386851808">Alt som med Mund og Tunge,</l>
+                     <l xml:id="idm139691386851376">Og prise Herrens Kærlighed,</l>
+                     <l xml:id="idm139691386850912">Som sendte os fra Himlen ned</l>
+                     <l xml:id="idm139691386850480">Sin elskede Enbaarne.</l>
+                  </lg>
+                  <lg xml:id="idm139691386849936">
+                     <l xml:id="idm139691386849680">Naar saae man før det Underværk,</l>
+                     <l xml:id="idm139691386849216">At Stjerner maa nedskride,</l>
+                     <l xml:id="idm139691386848784">Og Sol opgaae saa klar og stærk</l>
+                     <l xml:id="idm139691386848320">Ved dybe Midnatstide!</l>
+                     <l xml:id="idm139691386847904">O Midnat! lysere du er</l>
+                     <l xml:id="idm139691386847488">End nogen Dag med Straaleskær</l>
+                     <l xml:id="idm139691386847024">Fra Verdens første Morgen.</l>
+                  </lg>
+                  <lg xml:id="idm139691386846448">
+                     <l xml:id="idm139691386846192">O Foraarsol! din Magt er stor,</l>
+                     <l xml:id="idm139691386845760">Naar Sneen du mon smelte.</l>
+                     <l xml:id="idm139691386845328">Du løser ud den fangne Jord</l>
+                     <l xml:id="idm139691386844864">Af Isens haarde Belte;</l>
+                  </lg>
+                  <note anchored="true" xml:id="idm139691386844320">
+                     <hi rend="sup" xml:id="idm139691386843920">1</hi> Optrykt med en enkelt Ændring i <hi rend="italics" xml:id="idm139691386843216"><!--<emph>-->Kvædlinger<!--</emph>--></hi>. Se <hi rend="italics" xml:id="idm139691386842176"><!--<emph>-->Poet. Skr<!--</emph>--></hi>. I. 288 - 91.</note>
+                  <pb n="67" xml:id="s67" facs="adl/grundtvig/grundtvig02/grun2067"/>
+                  <lg xml:id="idm139691386839856">
+                     <l xml:id="idm139691386839600">Alt paa din Straales Vennebud</l>
+                     <l xml:id="idm139691386839168">Af Kvisten springer Knoppen ud</l>
+                     <l xml:id="idm139691386838736">Og Blomsten op af Jorden.</l>
+                  </lg>
+                  <lg xml:id="idm139691386838176">
+                     <l xml:id="idm139691386837920">Dog aldrig med den Vintersol</l>
+                     <l xml:id="idm139691386837488">Du vove dig at maale,</l>
+                     <l xml:id="idm139691386837072">Som klar, da Midnatshanen gol,</l>
+                     <l xml:id="idm139691386836640">Opgik med gyldne Straale!</l>
+                     <l xml:id="idm139691386836208">Kun Billed er din stolte Pragt,</l>
+                     <l xml:id="idm139691386835776">Kun Skygge er din store Magt,</l>
+                     <l xml:id="idm139691386835344">Af den, af Kongesolen.</l>
+                  </lg>
+                  <lg xml:id="idm139691386834800">
+                     <l xml:id="idm139691386834544">Alt som et Lig foruden Aand</l>
+                     <l xml:id="idm139691386834112">Var Jorden at beskue,</l>
+                     <l xml:id="idm139691386833696">I Satans Mørke, Syndens Baand</l>
+                     <l xml:id="idm139691386833232">Den svarlig maatte grue:</l>
+                     <l xml:id="idm139691386832800">Ei vokste nogen Blomst derpaa,</l>
+                     <l xml:id="idm139691386832368">Thi Dødens Is den knuged saa,</l>
+                     <l xml:id="idm139691386831904">At Intet spire kunde.</l>
+                  </lg>
+                  <lg xml:id="idm139691386831360">
+                     <l xml:id="idm139691386831104">Da kom du, Sol, o Jesu sød!</l>
+                     <l xml:id="idm139691386830640">Dig fulgte Guddomsstørke,</l>
+                     <l xml:id="idm139691386830192">Med den du Syndens Lænker brød,</l>
+                     <l xml:id="idm139691386829728">Adsplitted Satans Mørke,</l>
+                     <l xml:id="idm139691386829280">Og Dødens Is saa stærk og kold,</l>
+                     <l xml:id="idm139691386828816">Den onde Fjendes Herreskjold,</l>
+                     <l xml:id="idm139691386828384">Du med din Straale smelted.</l>
+                  </lg>
+                  <lg xml:id="idm139691386827824">
+                     <l xml:id="idm139691386827568">Slet ingen Vraa er nu saa mørk,</l>
+                     <l xml:id="idm139691386827104">Du den jo kan oplyse,</l>
+                     <l xml:id="idm139691386826688">Saa vildsom er slet ingen Ørk,</l>
+                     <l xml:id="idm139691386826224">At Vei du jo kan vise;</l>
+                     <l xml:id="idm139691386825808">Saa lys er ingen Kongehald,</l>
+                     <l xml:id="idm139691386825376">Saa lys er ingen Hjerneskal,</l>
+                     <l xml:id="idm139691386824944">At de dig kan undvære.</l>
+                  </lg>
+                  <lg xml:id="idm139691386824368">
+                     <l xml:id="idm139691386824112">Saa skin da, gyldne Sol, saa klar</l>
+                     <l xml:id="idm139691386823680">Foruden Aar og Alder!</l>
+                     <l xml:id="idm139691386823264">Din Straale og den Størke har,</l>
+                     <l xml:id="idm139691386822800">At Blomster den fremkalder;</l>
+                     <l xml:id="idm139691386822368">Thi Kærlighed og Haab og Tro,</l>
+                     <l xml:id="idm139691386821904">Det er den Blomst, som nu mon gro</l>
+                     <l xml:id="idm139691386821472">Trefoldig, høit mod Himlen.</l>
+                  </lg>
+                  <pb n="68" xml:id="s68" facs="adl/grundtvig/grundtvig02/grun2068"/>
+                  <lg xml:id="idm139691386819712">
+                     <l xml:id="idm139691386819456">Den Blomst, som paa dit Bud opkom,</l>
+                     <l xml:id="idm139691386819024">Ei Mage her kan finde,</l>
+                     <l xml:id="idm139691386818608">For Hjertet er den Lægedom,</l>
+                     <l xml:id="idm139691386818144">Den visner ingensinde,</l>
+                     <l xml:id="idm139691386817728">Og hvo den først beskuer ret,</l>
+                     <l xml:id="idm139691386817264">Han af det Syn ei vorder træt,</l>
+                     <l xml:id="idm139691386816800">Før han i Graven synker.</l>
+                  </lg>
+                  <lg xml:id="idm139691386816224">
+                     <l xml:id="idm139691386815968">Naar Is optøes af Solens Glød,</l>
+                     <l xml:id="idm139691386815504">Den vorder frugtbar Væde,</l>
+                     <l xml:id="idm139691386815056">Saaledes maa nu og vor Død</l>
+                     <l xml:id="idm139691386814608">Forvandle sig til Glæde;</l>
+                     <l xml:id="idm139691386814160">Thi Tro og Haab og Kærlighed</l>
+                     <l xml:id="idm139691386813696">Opgro til Liv og Salighed</l>
+                     <l xml:id="idm139691386813264">Af Dødens løste Vande.</l>
+                  </lg>
+                  <lg xml:id="idm139691386812688">
+                     <l xml:id="idm139691386812432">Saa hav da Tak, o Herre from,</l>
+                     <l xml:id="idm139691386812000">For Lys og Blomst tillige!</l>
+                     <l xml:id="idm139691386811568">Fordi du som en Frelser kom</l>
+                     <l xml:id="idm139691386811136">Til faldne Jorderige!</l>
+                     <l xml:id="idm139691386810720">O lad os paa din Fødselsfest</l>
+                     <l xml:id="idm139691386810256">Dig takke, som du takkes bedst,</l>
+                     <l xml:id="idm139691386809824">Ved Tro i rene Hjerter!</l>
+                  </lg>
+                  <lg xml:id="idm139691386809280">
+                     <l xml:id="idm139691386809024">Og, Frelser, naar saamangengang</l>
+                     <l xml:id="idm139691386808592">I Midnatsmulm vi vanke,</l>
+                     <l xml:id="idm139691386808176">Forført af Lysters Trolddomssang,</l>
+                     <l xml:id="idm139691386807712">Forvildet af vor Tanke;</l>
+                     <l xml:id="idm139691386807296">O, fødes da hos os paa ny!</l>
+                     <l xml:id="idm139691386806848">Forsmaa ei Hjertets ringe Ly!</l>
+                     <l xml:id="idm139691386806416">Tilgiv hver daarlig Tanke!</l>
+                  </lg>
+                  <lg xml:id="idm139691386805856">
+                     <l xml:id="idm139691386805600">Ja, derfor du, o Frelsermand!</l>
+                     <l xml:id="idm139691386805168">Dig lod i Krybben lægge,</l>
+                     <l xml:id="idm139691386804720">Imellem Dyr med Uforstand,</l>
+                     <l xml:id="idm139691386804288">Alt inden ringe Vægge.</l>
+                     <l xml:id="idm139691386803840">Dit Tegn det var i svundne Tid,</l>
+                     <l xml:id="idm139691386803408">Hvergang du dig genfødte blid;</l>
+                     <l xml:id="idm139691386802944">Du altid <hi rend="italics" xml:id="idm139691386802656"><!--<emph>-->saa<!--</emph>--></hi> vil fødes.</l>
+                  </lg>
+               </div>
+            </body>
+            <back xml:id="idm139691386801056">
+               <pb n="69" xml:id="s69" facs="adl/grundtvig/grundtvig02/grun2069"/>
+               <div xml:id="idm139691386799728">
+                  <opener xml:id="idm139691386799472">I <hi rend="italics" xml:id="idm139691386799216"><!--<emph>-->Kvædlinger<!--</emph>--></hi> er <hi rend="italics" xml:id="idm139691386798176"><!--<emph>-->Nytaarsnat<!--</emph>--></hi> optrykt med følgende</opener>
+                  <head xml:id="idm139691386796944">
+                     <hi rend="italics" xml:id="idm139691386796816"><!--<emph>-->Tillæg<!--</emph>--></hi>.</head>
+                  <p xml:id="idm139691386795680">Det er ingenlunde Uskjels at disse Blik paa Christendom og Krønike føre Navn af <hi rend="italics" xml:id="idm139691386795248"><!--<emph>-->Nytaarsnat<!--</emph>--></hi>, thi dette Ord udtrykker i alle Maader deres Vilkaar. Først er det aabenbart at denne lille Bog er skrevet og udgivet paa Grændsen af mit Levnets tvende Aar, det saae jeg dengang allerede, og sagde derfor at dens Fortale var ei saameget Fortale til de efterfølgende Riim, som, tilligemed dem, Fortalen til mit følgende Liv. Men just heraf følger en anden Lighed mellem Nytaarsnat og denne Bogs Indhold, thi som mit Stade var, saa var mit Syn. Det er en gammel Troe om Nytaarsnat, at alle det tilkommende Aars Hændelser lade sig i den forbilledlig tilsyne, men i saa forblommet Skikkelse at der skal egne Øine til at see de fleste og en egen Konst til dem at samle og udlægge; det er nu ikke Timen her at sige, om og man vidste, hvad jeg ikke veed, Beskeed om hvad det gamle Ord kan have i og paa sig, men det er vist, at der er i Menneskens og allermeest i Skjaldens Levnet slig en Nytaarsnat, da Livets Billede staaer dunkelt for hans Øine, i mangfoldig Skikkelse, og rører ham heel underlig, og er han Skjald saa han kan ret indbilde sig de Syn og afbilde dem i Ord og Toner, da kunde og et opladt Søndagsøie saa nogenlunde gjætte sig til hans Bedrift, saavidt den maatte rimeligen følge, thi det kunde Ingen just saa lige vide om hans Levnet vilde sande, hvad han førde i sit Skjold. Nu mener jeg, at ligesom den lille Bog er skrevet i en Nytaarsnat, saa er den selv en saadan, og for mit Øie staaer i den et underlig forsamlet Billede af hvad jeg var og hvad jeg er, af hvad jeg gjorde og af hvad jeg haver end tilbage; men at ei dette stod mig klart for Øie, imens jeg selv stod i den stjerneklare Vinternat, det kan man vide ogsaa deraf, at det da havde været mig umuligt at tale og at siunge saa.</p>
+                  <p xml:id="idm139691386792064">Bogen begynder med en lille Sang til min gamle Fader, som blev Jubellærer i de samme Dage og var en af de faa overblevne
+	<pb n="70" xml:id="s70" facs="adl/grundtvig/grundtvig02/grun2070"/>
+Guds Ords Tjenere, som var Præst i Morten Luthers og de gamle Dages christelige Aand, og mens jeg stirrede paa Søiverkrandsen om det gamle Præstehoved, da maatte Øiet sagtens see et Glimt af den usynlige Guldkrone i det Høie, og kjedes ved al Verdens forfængelige Væsen, ja selv ved Laurbærkrandsen og det tomme Gjøgleværk som Verden gav Udødeligheds Navn, og Tungen maatte sjunge:</p>
+                  <lg xml:id="idm139691386789680">
+                     <l xml:id="idm139691386789424">Laurbærkrandsen har jeg beilet til,</l>
+                     <l xml:id="idm139691386788944">Men ei meer jeg tragter den at vinde,</l>
+                     <l xml:id="idm139691386788512">Hvad er vel et borget Farvespil,</l>
+                     <l xml:id="idm139691386788080">Hvad en Krands, som Mennesker kan binde,</l>
+                     <l xml:id="idm139691386787632">Hvad er Kløgt og hvad er alt paa Jord</l>
+                     <l xml:id="idm139691386787152">Med det rene, klare Guddoms Ord?</l>
+                     <l xml:id="idm139691386786720">Derfor skal min Sang nu ene tone</l>
+                     <l xml:id="idm139691386786288">Til Hans Priis, som steeg fra Himlen ned,</l>
+                     <l xml:id="idm139691386785840">Som os vilde med vor Gud forsone,</l>
+                     <l xml:id="idm139691386785408">Skjænke os en salig Evighed.</l>
+                  </lg>
+                  <p xml:id="idm139691386784816">Vel maatte det i slige Timer falde mig paa Sinde, at død var Morten Luther, den Aand, som gjennem ham oplivede Kirken, bortsvævet, at før kunde Ingen tænke paa at vandre til hans Grav for at komme ham ihu, ei kunde man ønske at give den livløse Steen hans Navn i Gjemme før de hule, klangfulde Stene havde holdt op at velsigne hans Minde og gjentage hans Psalmers hellige Toner. Vel maatte jeg fra det høie Stade paa Morten Luthers Grav see store Vidnesbyrd, om hvilken Kraft Guds rene Ord mon eie og kundgjorde i de forbigangne Dage, see den nærværende Tid i sin hele Krøblingskikkelse, stolt i sine glimrende Pjalter af sin egen Usselhed og Skjændsel; vel maatte jeg føle en brændende Længsel efter at see det kraftige Ord atter vandre paa Veirets Vinger, og indaande Liv og Mod og Kraft i den døende Slægt, men og maatte jeg stande nedbøiet, forsagt, naar jeg spurgte hvorledes? og Intet kunde trøste mig uden Tanken om den Guds høie Fred og Jesu Christi Kraft, hvis Spor jeg saae paa Tidens Bølger, uden dog ret at føle dem inden i mit eget Hjerte. Derfor bad jeg Oldingen</p>
+                  <lg xml:id="idm139691386782400">
+                     <l xml:id="idm139691386782144">Medens du kan tale Herrens Ord,</l>
+                     <l xml:id="idm139691386781712">Og fra Altret i hans Navn velsigne,</l>
+                     <l xml:id="idm139691386781280">Lys Velsignelsen da over mig,</l>
+                     <l xml:id="idm139691386780848">At min Tro de Helliges maa ligne,</l>
+                     <l xml:id="idm139691386780416">Løfte mig til Christ i Himmerig!</l>
+                     <pb n="71" xml:id="s71" facs="adl/grundtvig/grundtvig02/grun2071"/>
+                     <l xml:id="idm139691386778800">Himlens Herre det alene veed,</l>
+                     <l xml:id="idm139691386778368">Hvad sig i min Sjæl saa stærkt bevæger,</l>
+                     <l xml:id="idm139691386777888">Det dog veed du, Fader! Herrens Fred</l>
+                     <l xml:id="idm139691386777456">Er det Eneste paa Jord, som kvæger,</l>
+                     <l xml:id="idm139691386776976">Lys den over mig i Jesu Navn!</l>
+                     <l xml:id="idm139691386776544">Rolig da mod Himlens sikkre Havn</l>
+                     <l xml:id="idm139691386776112">Skal jeg stævne over Livets Bølger,</l>
+                     <l xml:id="idm139691386775632">Lad dem løfte sig med Skum og Brag!</l>
+                     <l xml:id="idm139691386775152">Tryg jeg er, naar mig min Jesus følger,</l>
+                     <l xml:id="idm139691386774672">Lys og Kraft Han er endnu i Dag.</l>
+                  </lg>
+                  <p xml:id="idm139691386774112">Takket være den hensovne Olding! han lysde Herrens Velsignelse over mig. Takket være den Guders Gud evindelig! Han skjænkede mig den. Alt have Verdens Bølger løftet sig med Skum og Brag imod mig, og det er vel kun lidet imod hvad som forestaaer, men hidindtil haver Herren hjulpet og gjort store Ting imod mig, og naar jeg skal see de større Trængsler, da skal jeg og see større Ting end disse, tryg jeg er, thi mig min Jesus følger, Lys og Liv Han er endnu i Dag, og Han er i al Evighed den Samme.</p>
+                  <p xml:id="idm139691386773088">Fortalen giver tilkjende hvorledes jeg saae ud over Livet, og i hvilket Lys jeg nu betragtede Menneskets indvortes og udvortes Rørelse i Støvet, den gav og tilkjende, at det var mit fulde Alvor, med al den Kraft, Gud vilde forlene, at gribe ind i Tidens Hjul, og hjelpe til, om det var muligt at dreie det tilbage til de gamle Stier. Nedkaste mig, sagde jeg, i den brusende Strøm, det maae jeg, henrive mig mægter den ei, men om den skal lukke sig over mig, derfor raader den Evige. Paa Randen af det bundløse Svælg, mod hvilket Tidsalderen blind fremhaster, der vil jeg stande, jeg vil udspænde for den sit eget Billede, og ved Siden vil jeg stille de tvende Blus: Herrens Ord og de forbigangne Tiders Vidnesbyrd. Kalde og varsle i Herrens Navn, det vil jeg, saalænge Han forlener mig Kraft og tillader mig at opløfte Røsten, thi Hans er Magten og Æren i al Evighed.</p>
+                  <p xml:id="idm139691386770672">Det er klart at jeg nu vidste hvad jeg skulde troe og gjøre, <hi rend="italics" xml:id="idm139691386770272"><!--<emph>-->hvor<!--</emph>--></hi> Kraften var at finde og <hi rend="italics" xml:id="idm139691386769184"><!--<emph>-->Hvis<!--</emph>--></hi> Æren skulde være; men de Riim som følge efter kunde vel lært en ret opmærksom Christen, hvad jeg maatte lære i en haardere Skole, at man kan vide Meget, som man hverken føler eller følger, eller dog kun halvt; thi Rimene vise, at jeg endnu lagde megen Vægt paa Troen <hi rend="italics" xml:id="idm139691386767600"><!--<emph>-->af den Grund<!--</emph>--></hi> at den er den eneste Rod hvoraf et aandeligt Træ med livlige Safter, med stærke Grene og deilige Frugter, kan
+	<pb n="72" xml:id="s72" facs="adl/grundtvig/grundtvig02/grun2072"/>
+							              <hi rend="italics" xml:id="idm139691386765216"><!--<emph>-->timelig<!--</emph>--></hi> opvoxe, at Bekymringen for Sjælen og dens evige Salighed, min egen og Næstens, var endnu hel ringe, men min Lyst tit at tækkes Verden endnu dygtig stor.</p>
+                  <p xml:id="idm139691386763712">Nu at tale et Par Ord om hvert Riim især, da sees lettelig at det om Livets Æbler er en heel underlig Blanding af verdslig og christelig Tale, men ogsaa et sanddru Billede af Nytaarsnatten i mit Inderste, thi gjennem Mythesløret skimtes Morgenrøden, paa Valhals Tag staaer Korsets Tegn som Seiersbanneret til Ragnaroke, men Odin tømmer end Guldbægeret med Saga, og Einherierne drikke rolig Suttungs Mjød paa Valhals Bænke; rørde de sig end paa Jorden, da spurgtes vel ei saa stort om Korset, mægtede Idunnas Æbler at trylle Mere frem end store Skygger, at trylle Liv og Kraft og Vid og Sang i Dødningen, da spurgtes vel ei saa stort efter Æblet fra Guds sande Paradis; thi det er klart der <hi rend="italics" xml:id="idm139691386761952"><!--<emph>-->lides<!--</emph>--></hi> ei men strides ikkun kjæmpeligen ander Korset, det er ei Korset selv, men kun dets Tegn i Dannebraag, der skygger over Valhal, der er intet Spor dertil at Syndens Legeme skal først korsfæstes, før Aandens Legeme kan staae forklaret op, det skal ikkun lemlæstes ved et Pederssværd, og Livets Æble skal gjenføde os, før Giften er uddraget under Pine. Kort sagt, det Kors er sat saa høit, at Valhals Kjæmper, kan, uden sig at bøie indgaae i Gimle, naar de kun med Sværdet hilse for det og primsigne sig, og troe at det er Thors den rette Hammer hvis Størke underlig er deelt imellem dem, og knuser Midgardsormen, uden at dens Gift kan skade os. Visselig kunde jeg selv have det behov hvad Rimet siger:</p>
+                  <lg xml:id="idm139691386759328">
+                     <l xml:id="idm139691386759072">O! lader os vandre til Gravene ind,</l>
+                     <l xml:id="idm139691386758640">Hvor Fædrenes Aander omsvæve,</l>
+                     <l xml:id="idm139691386758176">Der bøies maaskee det hovmodige Sind,</l>
+                     <l xml:id="idm139691386757696">Saa Troen sig mægter <hi rend="italics" xml:id="idm139691386757376"><!--<emph>-->at hæve<!--</emph>--></hi>.</l>
+                  </lg>
+                  <p xml:id="idm139691386756112">Skal der nu endelig meldes et Ord om den Betydning somher er lagt i den gamle Mythe om Idunnas Æbler, og om hendes Fangenskab hos Thurserne, da skjønner jeg ei rettere, endat den ei er langt fra Sandhed, det behøves kun at see Idunnaei som Skjaldskaben i sin Udøvelse, thi Billedet derfor var Bragur, men som dens Hjerte og Liv, der vakde Begeistringen, thihun var Bragurs Viv; og Meget var at sige om den underligeDybde som findes i saamangen nordisk Mythe, men her er Stedet ei, thi vel staae alle disse Myther som Sphinxer uden forden danske Kirkedør, men de forstaas kun, naar de beskues
+	<pb n="73" xml:id="s73" facs="adl/grundtvig/grundtvig02/grun2073"/>
+høit fra Choret gjennem Kirkeruden, og saavidt ere vi end ingenlunde, det falder os nu først paa Sinde, det var vel godt, ifald man lavede sig til at gaae i Kirke.</p>
+                  <p xml:id="idm139691386753456">Nu følger da det andet Riim og kaldes Sorø Kirke, og det skal da afbilde Kirkegangen, som det ogsaa gjør, thi Gangen var som Sangen, ei til Opbyggelse, men et Besøg ved Heltegravene derinde, en Vandring gjennem Kirkens Vaabenhuus, med Øiet heftet paa de skjønne Farver i hvilke Lyset bryder sig naar det bestraaler Korsets Tegn paa Jord. Det røber ogsaa Rimet flux, at vi er kun i Vaabenhuset, thi knap giver Øiet sig Tid til at kaste et flygtigt Blik paa Altret, og iler med at fæste sig paa Vaabenkrandsen under hvalvte Bue, som smykker Muren med sit Farvespil, og det er disse Vaabener, og Ravnebanneret fra Hedenold, og Dannebraag paa røde Val og over Bølgen blaa, og Sagas Skjoldmænd og Bragurs Billedværk, paa hvilke Øiet næsten hele Tiden hviler. Tabt af Syne er nu Sneblomsten som ene kan bestaae naar hver jordisk Blomst forgaaer, glemte synes nu de sande Ord:</p>
+                  <lg xml:id="idm139691386751280">
+                     <l xml:id="idm139691386751024">Farven er kun Skin af brudte Straale,</l>
+                     <l xml:id="idm139691386750592">Farveløs er Straalens rene Glands,</l>
+                     <l xml:id="idm139691386750128">Og naar Øiet lærer den at taale,</l>
+                     <l xml:id="idm139691386749664">Vorder Blomsten til en Straalekrands.</l>
+                  </lg>
+                  <p xml:id="idm139691386749104">Dette er ikke her videre at udlægge stykkeviis, de Vaagne see det selv, og for Sovende er Lyset spildt, men det er ganske mærkeligt, at jeg henstirrede paa Palnaioke som det Forbillede, jeg havde Lyst at ligne, kun med den Forskjel at det, som brast for ham, skulde lykkes mig, fordi jeg havde i det stærke Jesu Navn den Talerune til at opvække Døde, som han forgjæves ledte om i Vegtams Runer, ja, et christent Jomsborg, en Borg med stærke, kolde Kjæmper, som vandrede til Golgata, mest kun for at finde Dannebraag, som stirrede paa Zions Tempel mest kun for at frydes ved de favre Lignelser, kun for at styrkes ved de Livets Aandepust der susede fra Choret, som kun forsagede det bløde Levnet og de lave Lyster og Sjælens Hovmod for at hovmode sig i Aanden; en saadan Borg, el saadant christent Vaabenhus det var min Lyst, det var hvad jeg kaldte Christi Kirke. Ved stolte Kjæmpeskridt og ei ved ydmygt Knæfald meende jeg at komme Herren nær, og jeg indbildte mig, at Vingerne, jeg dog kun saae, var mine, enddog de voxe kun, naar Himmelfuglen avles og elskes op i Kjærlighed. Paa dette
+	<pb n="74" xml:id="s74" facs="adl/grundtvig/grundtvig02/grun2074"/>
+Stade maatte Sorø Kirke drage Øiet ret besynderligen til sig, thi den er selv et Vaabenhus i alle Maader, det siger Vaabenkrandsen paa dens Mure, det see vi paa Liigstenene tillige, thi ret som det var Skik i gamle Dage at Degn og <hi rend="italics" xml:id="idm139691386745328"><!--<emph>-->Kirkeværger<!--</emph>--></hi> fandt i Vaabenhuset deres Leie, saa maa det falde os paa Sinde, at Absalon var meer en Kirkeværger og en Kirkesanger end en Biskop, og at hartad alle de Navnkundige, hvis Støv nedlagdes her, var slige Folk, som havde ikkun lidt med Herrens Huus at gjøre, og havde lidet eller intet Godt forskyldt af Kirken, men var dog formedelst Embed eller Hoved af den Stand at Ingen vilde lægge dem hos menig Mand. End deri ligner denne Kirke Vaabenhusene, at den som de, er bygget sidst, først bygdes i Roskilde den Hellig Trefoldigheds Kirke, det er <hi rend="italics" xml:id="idm139691386743472"><!--<emph>-->Choret<!--</emph>--></hi>, saa Fruekirke udi Ringsted, som siden kaldtes efter Knud Martyr, det er Kirkestuen, og tilsids t Sanct Jacobs Huus i Sorø, det er Vaabenhuset. At Kongebenene og flyttede i samme Orden, det vidner Saga, og det siger Rimet, men hvi Margrethe ikke blev i Soer, det kunde Rimet ikke sige, thi hun bedrev jo intet Kjæmpeværk.</p>
+                  <p xml:id="idm139691386741664">Nu er kun det tilsidst at mærke, at saameget Øiet og skottede endnu til Verden, til dens Glimmer og dens Dom, saa blændedes det dog ei længere af Glimmeren i Valdemarers Dage, det saae i dem kun røde Kors som plantedes paa Danmarks Gravstie, og Øret hørte det i Ringsted ringe for Danmarks Liig, og Øiet saae at det blev ikke atter Dag med Valdemar, endskjøndt han meende det, og kaldtes saa; og endelig, da Timen skrider og Vaabenkrandsens Drape er udsjunget, da vender Øiet sig til Hvælvingen, og kommer Himmelen ihu, og Rimet mindes som ved Midnatsklokken om at det var Kirkegang der skulde holdes, og udbryder:</p>
+                  <lg xml:id="idm139691386740608">
+                     <l xml:id="idm139691386740352">Ved Midnatstid, da blev vor Frelser født</l>
+                     <l xml:id="idm139691386739872">Til Verdens Trøst, som ellers var forødt,</l>
+                     <l xml:id="idm139691386739392">O! gid I dette Ord i Hjertet vilde gjemme!</l>
+                     <l xml:id="idm139691386738944">Da maatte frit hvert andet I forglemme,</l>
+                     <l xml:id="idm139691386738512">
+                        <hi rend="italics" xml:id="idm139691386738256"><!--<emph>-->Thi kun i Ham der gives Salighed<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm139691386737104">
+                        <hi rend="italics" xml:id="idm139691386736976"><!--<emph>-->For alle dem, der af Hans Fødsel veed<!--</emph>--></hi>.</l>
+                  </lg>
+                  <p xml:id="idm139691386735648">Jeg kommer det ihu, hvad Kamp det kostede at føie disse Ord til Rimet; thi det er ingen Sag at sjunge høit i Billedtoner om Herrens Majestæt, og om de glimrende Bedrifter som virkedes i Jesu Navn paa Jorderig, det kan endog en hedensk Skjald,
+	<pb n="75" xml:id="s75" facs="adl/grundtvig/grundtvig02/grun2075"/>
+naar han kun i Begeistringen hengiver sig til Synet, men i enfoldige Ord at knæle for den lidende Forsoner og sige Verden det i Øinene, at der er ikke Salighed i nogen Anden, det koster Overvindelse, saalænge man endnu har Verden kjær og frygter for dens Had og Spot. Dog, Gud skee Lov! jeg vandt og sagde Ordet, og derfor ene er det Rim Forbillede paa Kirkegang.</p>
+                  <p xml:id="idm139691386732880">Det tredie Riim er en Julesang og her maa vi da spørge om Psalmetonen, men vi spørge kun forgjæves, den er der ikke, der er hartad intet Spor af den Aand og Salvelse, som antænder og glæder vort Hjerte i Luthers og Kingos Høitidsspalmer, det er ingen Psalme, men det er dog et Suk efter Psalmetonen, som efter Frelserens Fødsel i Hjertet, og Hans reneTroes Gjenfødelse i Verden. Sangen vover dog at bekjende gamle Christnes Troe, at der Jesus kom:</p>
+                  <lg xml:id="idm139691386731776">
+                     <l xml:id="idm139691386731520">Alt som et Liig foruden Aand</l>
+                     <l xml:id="idm139691386731088">Var Jorden at beskue,</l>
+                     <l xml:id="idm139691386730672">
+                        <hi rend="italics" xml:id="idm139691386730416"><!--<emph>-->I Satans Mørke, Syndens Baand<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm139691386729200">Den svarlig maatte grue.</l>
+                  </lg>
+                  <p xml:id="idm139691386728640">Den bekjender dog at <hi rend="italics" xml:id="idm139691386728384"><!--<emph>-->Kjærlighed<!--</emph>--></hi> maa være Blomstens Krone som voxer op i Christen Jord, og Hjertet følde dog sin Afmagt og Besmittelse, der Tungen sang:</p>
+                  <lg xml:id="idm139691386726960">
+                     <l xml:id="idm139691386726704">Og, Frelser! naar saamangengang</l>
+                     <l xml:id="idm139691386726272">I Midnatsmulm vi vanke,</l>
+                     <l xml:id="idm139691386725888">Forført af Lysters Troidomssang,</l>
+                     <l xml:id="idm139691386725424">Forvildet af vor Tanke,</l>
+                     <l xml:id="idm139691386725008">O! fødes da hos os paa ny!</l>
+                     <l xml:id="idm139691386724560">Forsmaa ei Hjertets ringe Ly!</l>
+                     <l xml:id="idm139691386724128">Tilgiv hver daarlig Tanke!</l>
+                  </lg>
+                  <lg xml:id="idm139691386723568">
+                     <l xml:id="idm139691386723312">Ja derfor Du, o Frelsermand!</l>
+                     <l xml:id="idm139691386722880">Dig lod i Krybben lægge</l>
+                     <l xml:id="idm139691386722432">Imellem Dyr med Uforstand</l>
+                     <l xml:id="idm139691386722000">Alt inden ringe Vægge,</l>
+                     <l xml:id="idm139691386721552">Dit Tegn det var i svundne Tid,</l>
+                     <l xml:id="idm139691386721120">Hvergang Du dig gienfødte blid,</l>
+                     <l xml:id="idm139691386720656">Du altid <hi rend="italics" xml:id="idm139691386720368"><!--<emph>-->saa<!--</emph>--></hi> vil fødes.</l>
+                  </lg>
+                  <p xml:id="idm139691386719024">Her er en Ahnelse af Psalmetonen, en mat Forklang i Nytaarsnat af en Julepsalme, som jeg ei endnu har kunnet synge.</p>
+               </div>
+            </back>
+         </text>
+      </body>
+   </text>
+</TEI>

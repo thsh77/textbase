@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Omvendelse.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352656878784">
+                     <name xml:id="idm140352656878528">
+                        <surname xml:id="idm140352656878400">Aarestrup</surname>, <forename xml:id="idm140352656877920">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352656877632">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140352656877312">København</pubPlace>
+                  <publisher xml:id="idm140352656876880">C. A. Reitzel</publisher>
+                  <date xml:id="idm140352656876544">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid71279" decls="#biblid71279">
+            <head xml:id="idm140352654640240">OMVENDELSE.</head>
+            <lg xml:id="idm140352654639824">
+               <l xml:id="idm140352654639568">Der var en Tid, jeg troede ei paa Gud,</l>
+               <l xml:id="idm140352654639136">Og havde intet Haab om Evighed;</l>
+               <l xml:id="idm140352654638704">Tilintetgj øreisens uhyre Ro</l>
+               <l xml:id="idm140352654638240">Var mine mørke Tankers Ideal.</l>
+               <l xml:id="idm140352654637776">Men siden jeg har følt en Lidenskab,</l>
+               <l xml:id="idm140352654637296">Som den, jeg nu besjæles af:</l>
+               <l xml:id="idm140352654636832">Har jeg begyndt at troe, der er en Gud,</l>
+               <l xml:id="idm140352654636400">Og har det Haab, der er en Evighed.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

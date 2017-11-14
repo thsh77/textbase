@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F.l. liebenberg (1810-1894)</title>
+            <author>Brandes, Georg</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140648092681328">
+                     <name xml:id="idm140648092681072">
+                        <surname xml:id="idm140648092680944">Brandes</surname>, <forename xml:id="idm140648092680512">Georg</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140648092680256">Samlede Skrifter</title>
+                  <pubPlace xml:id="idm140648092679968">København</pubPlace>
+                  <date xml:id="idm140648092679456">1899-1910</date>
+                  <biblScope>215-224</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid55781" decls="#biblid55781">
+            <body xml:id="idm140648092442880">
+               <pb n="216" facs="adl/brandes/brand2/bran2216" xml:id="idm140648092442624"/>
+               <pb n="217" facs="adl/brandes/brand2/bran2217" xml:id="idm140648092441856"/>
+               <pb n="218" facs="adl/brandes/brand2/bran2218" xml:id="idm140648092441040"/>
+               <pb n="219" facs="adl/brandes/brand2/bran2219" xml:id="idm140648092440272"/>
+               <pb n="220" facs="adl/brandes/brand2/bran2220" xml:id="idm140648092439504"/>
+               <pb n="221" facs="adl/brandes/brand2/bran2221" xml:id="idm140648092438688"/>
+               <pb n="222" facs="adl/brandes/brand2/bran2222" xml:id="idm140648092437872"/>
+               <pb n="223" facs="adl/brandes/brand2/bran2223" xml:id="idm140648092437104"/>
+               <pb n="224" facs="adl/brandes/brand2/bran2224" xml:id="idm140648092436288"/>
+               <p xml:id="idm140648092435472"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

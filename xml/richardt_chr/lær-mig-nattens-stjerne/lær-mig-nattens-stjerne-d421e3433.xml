@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lær mig nattens stjerne.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60262" decls="#biblid60262">
+            <head xml:id="idm139731449270672">Lær mig.</head>
+            <lg xml:id="idm139731449270256">
+               <l xml:id="idm139731449270000">Lær mig Nattens Stjerne</l>
+               <l xml:id="idm139731449269552">at lyde fast og gjerne!</l>
+               <l xml:id="idm139731449269136">Ej at vige fra den Vej,</l>
+               <l xml:id="idm139731449268720">Himlens Gud tilmaalte mig!</l>
+               <l xml:id="idm139731449268288">Lær mig Nattens Stjerne!</l>
+            </lg>
+            <lg xml:id="idm139731449267712">
+               <l xml:id="idm139731449267456">Lær mig Markens Blommer</l>
+               <l xml:id="idm139731449267008">at bie paa min Sommer,</l>
+               <l xml:id="idm139731449266592">midt i Verdens dybe Vee</l>
+               <l xml:id="idm139731449266176">at spire under Vintersnee!</l>
+            </lg>
+            <lg xml:id="idm139731449265616">
+               <l xml:id="idm139731449265360">Lær mig golde Hede,</l>
+               <l xml:id="idm139731449264912">Du brune Lærkerede,</l>
+               <l xml:id="idm139731449264464">nøjet med en fattig Høst,</l>
+               <l xml:id="idm139731449264016">at huse Sangen ved mit Bryst!</l>
+            </lg>
+            <lg xml:id="idm139731449263456">
+               <l xml:id="idm139731449263200">Havets Bølge-Hære,</l>
+               <l xml:id="idm139731449262752">lær mig mit Aag at bære,</l>
+               <l xml:id="idm139731449262304">og som I, naar Sol gaar ned,</l>
+               <l xml:id="idm139731449261872">at spejle lidt af Himlens Fred!</l>
+            </lg>
+            <pb n="46" xml:id="s46" facs="adl/richardt/richardt1/rich1046"/>
+            <lg xml:id="idm139731449260096">
+               <l xml:id="idm139731449259840">Lær mig grønne Lunde</l>
+               <l xml:id="idm139731449259392">at skygge, om jeg kunde,</l>
+               <l xml:id="idm139731449258960">hver som kommer mig forbi,</l>
+               <l xml:id="idm139731449258528">Ven og Fjende paa min Sti!</l>
+            </lg>
+            <lg xml:id="idm139731449257968">
+               <l xml:id="idm139731449257712">Sol i Aftensvale,</l>
+               <l xml:id="idm139731449257296">lær mig den Kunst at dale!</l>
+               <l xml:id="idm139731449256848">Kun mod Nattens Dyb at gaa,</l>
+               <l xml:id="idm139731449256416">for nyfødt atter at opstaa!</l>
+               <l xml:id="idm139731449255952">Lær mig Sol at dale!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

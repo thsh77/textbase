@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ære</title>
+            <author>Larsen, Karl</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139822172218736">
+                     <name xml:id="idm139822172218480">
+                        <surname xml:id="idm139822172218352">Larsen</surname>, <forename xml:id="idm139822172217888">Karl</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139822172217600">Kvinder</title>
+                  <pubPlace xml:id="idm139822172217312">København</pubPlace>
+                  <publisher xml:id="idm139822172216848">Gyldendalske Boghandels Forlag</publisher>
+                  <date xml:id="idm139822172216496">1889</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59254" decls="#biblid59254">
+            <p xml:id="idm139822171593088">ÆRE</p>
+            <p xml:id="idm139822171592672">NUTIDSBILLEDE FRA TYSKLAND</p>
+            <p xml:id="idm139822171592240">I TO AKTER</p>
+         </div>
+      </body>
+   </text>
+</TEI>

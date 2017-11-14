@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tyrkisk rokoko. en mode-legende fra anno 1748</title>
+            <author>Drachmann, Holger</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139873598141696">
+                     <name xml:id="idm139873598141440">
+                        <surname xml:id="idm139873598141312">Drachmann</surname>, <forename xml:id="idm139873598140848">Holger</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139873598140560">Samlede poetiske Skrifter</title>
+                  <pubPlace xml:id="idm139873598140256">Kbh. &amp; Kristiania</pubPlace>
+                  <date xml:id="idm139873598139632">1906-1909</date>
+                  <biblScope>265-282</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid56043" decls="#biblid56043">
+            <body xml:id="idm139873597855584">
+               <pb n="266" facs="adl/drachmann/drachmann08/drac08266" xml:id="idm139873597855328"/>
+               <pb n="267" facs="adl/drachmann/drachmann08/drac08267" xml:id="idm139873597854560"/>
+               <pb n="268" facs="adl/drachmann/drachmann08/drac08268" xml:id="idm139873597853792"/>
+               <pb n="269" facs="adl/drachmann/drachmann08/drac08269" xml:id="idm139873597853024"/>
+               <pb n="270" facs="adl/drachmann/drachmann08/drac08270" xml:id="idm139873597852256"/>
+               <pb n="271" facs="adl/drachmann/drachmann08/drac08271" xml:id="idm139873597851440"/>
+               <pb n="272" facs="adl/drachmann/drachmann08/drac08272" xml:id="idm139873597850624"/>
+               <pb n="273" facs="adl/drachmann/drachmann08/drac08273" xml:id="idm139873597849856"/>
+               <pb n="274" facs="adl/drachmann/drachmann08/drac08274" xml:id="idm139873597849088"/>
+               <pb n="275" facs="adl/drachmann/drachmann08/drac08275" xml:id="idm139873597848320"/>
+               <pb n="276" facs="adl/drachmann/drachmann08/drac08276" xml:id="idm139873597847552"/>
+               <pb n="277" facs="adl/drachmann/drachmann08/drac08277" xml:id="idm139873597846784"/>
+               <pb n="278" facs="adl/drachmann/drachmann08/drac08278" xml:id="idm139873597845968"/>
+               <pb n="279" facs="adl/drachmann/drachmann08/drac08279" xml:id="idm139873597845200"/>
+               <pb n="280" facs="adl/drachmann/drachmann08/drac08280" xml:id="idm139873597844432"/>
+               <pb n="281" facs="adl/drachmann/drachmann08/drac08281" xml:id="idm139873597843664"/>
+               <pb n="282" facs="adl/drachmann/drachmann08/drac08282" xml:id="idm139873597842848"/>
+               <p xml:id="idm139873597842080"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

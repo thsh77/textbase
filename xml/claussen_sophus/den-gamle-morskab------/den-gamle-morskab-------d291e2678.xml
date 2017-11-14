@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Den gamle morskab - - -</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140264665681152">
+                     <name xml:id="idm140264665680896">
+                        <surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140264665680016">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140264665679728">: </title>
+                  <pubPlace xml:id="idm140264665679472">[København]</pubPlace>
+                  <publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140264665678640">1982-</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59668" decls="#biblid59668">
+            <head xml:id="idm140264664849712">
+               <hi rend="italics" xml:id="idm140264664849584">DEN GAMLE MORSKAB</hi> - - -</head>
+            <lg xml:id="idm140264664848736">
+               <l xml:id="idm140264664848480">Den gamle Morskab dør ud,</l>
+               <l xml:id="idm140264664848032">paa Gud tror ingen mer,</l>
+               <l xml:id="idm140264664847616">end ikke Naturens Gud -</l>
+               <l xml:id="idm140264664847200">Hvor findes et Hjærte, som ler.</l>
+            </lg>
+            <lg xml:id="idm140264664846608">
+               <l xml:id="idm140264664846352">Den store Pan er død</l>
+               <l xml:id="idm140264664845904">og Skæmt og Elskov lagt øde.</l>
+               <l xml:id="idm140264664845440">Selv Fromheden mangler Brød,</l>
+               <l xml:id="idm140264664844976">da Momus og Venus er døde.</l>
+            </lg>
+            <lg xml:id="idm140264664844400">
+               <l xml:id="idm140264664844144">Dog gaar jeg i Nødens Stund</l>
+               <l xml:id="idm140264664843680">i Fromhed og med Liste</l>
+               <l xml:id="idm140264664843264">til Skæmtens og Skønhedens Lund</l>
+               <l xml:id="idm140264664842800">og samler Ønskekviste.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

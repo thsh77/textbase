@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Syner.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid69325" decls="#biblid69325">
+            <head xml:id="idm140382755747056">SYNER.</head>
+            <lg xml:id="idm140382755746640">
+               <l xml:id="idm140382755746384">Jeg seer et Land, og seer en Fredens Engel</l>
+               <l xml:id="idm140382755745936">Om Blomsterhaugen. Hænderne at folde,</l>
+               <l xml:id="idm140382755745456">Den gyldne Aften over Slottet holde</l>
+               <l xml:id="idm140382755745024">Med Musika for dig, du milde Engel!</l>
+            </lg>
+            <lg xml:id="idm140382755744464">
+               <l xml:id="idm140382755744208">Jeg seer en blad- og torneziret Stengel,</l>
+               <l xml:id="idm140382755743760">Der træder Rosen ud paa grønne Volde;</l>
+               <l xml:id="idm140382755743280">Jeg seer de ædle Mænd med Kors og Skjolde,</l>
+               <l xml:id="idm140382755742784">Og hvide Damer - o du Fredens Engel!</l>
+            </lg>
+            <lg xml:id="idm140382755742224">
+               <l xml:id="idm140382755741968">Jeg seer et Kirkespiir mod Himlen række,</l>
+               <l xml:id="idm140382755741488">Og Svanerne omkring paa Floden seile,</l>
+               <l xml:id="idm140382755741056">En Qvist sig under Nattergale bøie.</l>
+            </lg>
+            <lg xml:id="idm140382755740448">
+               <l xml:id="idm140382755740192">Jeg seer en Yngling Elskovsbrevet brække,</l>
+               <l xml:id="idm140382755739712">Og svanebleg mig selv i Floden speile</l>
+               <l xml:id="idm140382755739280">Den klare Taare og det dunkle Øie.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

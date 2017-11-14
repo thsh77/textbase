@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Esper tækki</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140240949773344">
+                     <name xml:id="idm140240949773088">
+                        <surname xml:id="idm140240949772960">Aakjær</surname>, <forename xml:id="idm140240949772528">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140240949772272"> Vadmelsfolk ; Af Gammel Jehannes hans Bivelskistaarri ; Esper Tækki. - 1919</title>
+                  <pubPlace xml:id="idm140240949771840">København</pubPlace>
+                  <pubPlace xml:id="idm140240949771376">Kristiania</pubPlace>
+                  <publisher xml:id="idm140240949770912">Gyldendal</publisher>
+                  <date xml:id="idm140240949770576">1918-19</date>
+                  <biblScope>375-397</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid58238" decls="#biblid58238">
+            <body xml:id="idm140240949180912">
+               <pb n="376" xml:id="n376" facs="adl/aakjaer/aakjaer7/aakj7376"/>
+               <pb n="377" xml:id="n377" facs="adl/aakjaer/aakjaer7/aakj7377"/>
+               <pb n="378" xml:id="n378" facs="adl/aakjaer/aakjaer7/aakj7378"/>
+               <pb n="379" xml:id="n379" facs="adl/aakjaer/aakjaer7/aakj7379"/>
+               <pb n="380" xml:id="n380" facs="adl/aakjaer/aakjaer7/aakj7380"/>
+               <pb n="381" xml:id="n381" facs="adl/aakjaer/aakjaer7/aakj7381"/>
+               <pb n="382" xml:id="n382" facs="adl/aakjaer/aakjaer7/aakj7382"/>
+               <pb n="383" xml:id="n383" facs="adl/aakjaer/aakjaer7/aakj7383"/>
+               <pb n="384" xml:id="n384" facs="adl/aakjaer/aakjaer7/aakj7384"/>
+               <pb n="385" xml:id="n385" facs="adl/aakjaer/aakjaer7/aakj7385"/>
+               <pb n="386" xml:id="n386" facs="adl/aakjaer/aakjaer7/aakj7386"/>
+               <pb n="387" xml:id="n387" facs="adl/aakjaer/aakjaer7/aakj7387"/>
+               <pb n="388" xml:id="n388" facs="adl/aakjaer/aakjaer7/aakj7388"/>
+               <pb n="389" xml:id="n389" facs="adl/aakjaer/aakjaer7/aakj7389"/>
+               <pb n="390" xml:id="n390" facs="adl/aakjaer/aakjaer7/aakj7390"/>
+               <pb n="391" xml:id="n391" facs="adl/aakjaer/aakjaer7/aakj7391"/>
+               <pb n="392" xml:id="n392" facs="adl/aakjaer/aakjaer7/aakj7392"/>
+               <pb n="393" xml:id="n393" facs="adl/aakjaer/aakjaer7/aakj7393"/>
+               <pb n="394" xml:id="n394" facs="adl/aakjaer/aakjaer7/aakj7394"/>
+               <pb n="395" xml:id="n395" facs="adl/aakjaer/aakjaer7/aakj7395"/>
+               <pb n="396" xml:id="n396" facs="adl/aakjaer/aakjaer7/aakj7396"/>
+               <pb n="397" xml:id="n397" facs="adl/aakjaer/aakjaer7/aakj7397"/>
+               <p xml:id="idm140240949153248"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

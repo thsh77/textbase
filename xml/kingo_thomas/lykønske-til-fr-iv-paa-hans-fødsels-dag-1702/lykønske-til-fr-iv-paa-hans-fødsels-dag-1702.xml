@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lykønske til fr. iv paa hans fødsels dag 1702</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015369092032">
+                     <name xml:id="idm140015369091776">
+                        <surname xml:id="idm140015369091648">Kingo</surname>,
+      <forename xml:id="idm140015369091200">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015369090912">Samlede skrifter 2</title>
+                  <pubPlace xml:id="idm140015369090624">København</pubPlace>
+                  <publisher xml:id="idm140015369090192">Munksgaard</publisher>
+                  <date xml:id="idm140015369089856">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid76006" decls="#biblid76006">
+            <body xml:id="idm140015366375120">
+               <opener xml:id="idm140015366374864">
+                  <salute xml:id="idm140015366374608">
+Allerunderdanigste Erindring og Lyk-Ønske<lb xml:id="idm140015366374256"/>
+Til<lb xml:id="idm140015366373968"/>dend Stormægtigste Monarch,<lb xml:id="idm140015366373632"/>
+                     <name xml:id="idm140015366373376">Kong Frederich dend Fierde</name>,<lb xml:id="idm140015366372944"/>
+Konge til Danmark og Norge etc: etc:<lb xml:id="idm140015366372640"/>
+Paa<lb xml:id="idm140015366372352"/>Hands Maj<hi rend="sup" xml:id="idm140015366372064">ts</hi>
+                     <lb xml:id="idm140015366371440"/>
+Fødsels Dag<lb xml:id="idm140015366371136"/>den 11 Octob: 1702.<lb xml:id="idm140015366370848"/>
+                  </salute>
+               </opener>
+               <lg xml:id="idm140015366370336">
+                  <l xml:id="idm140015366370080">See! Mægtig Konge, see, hvor Dagens Øyenbryne</l>
+                  <l xml:id="idm140015366369584">I Morgen-Røden seer, og giver os at syne,</l>
+                  <l xml:id="idm140015366369104">Hvor hand lyksalig op paa <hi rend="italics" xml:id="idm140015366368800">Firmamentet </hi>gaaer</l>
+                  <l xml:id="idm140015366367952">At slutte et, og staae paa Vagt for mange Aar.</l>
+                  <l xml:id="idm140015366367504">I Din Regierings Tid Soel, Maane, Stierner møder</l>
+                  <l xml:id="idm140015366367008">Ved dend allmægtig Haand, som dæmper, dræber, døder</l>
+                  <l xml:id="idm140015366366496">Alt det, som Kongens Liv og Fred kand staae imod,</l>
+                  <l xml:id="idm140015366366048">Og Lykke-Grendser giør vit for Hands Konge-Blod.</l>
+                  <l xml:id="idm140015366365552">Thi alle Dage [vist] vil stræbe for dend Ære,</l>
+                  <l xml:id="idm140015366365056">Hvem i Hands Levnet dend Lyksaligste maa være;</l>
+                  <l xml:id="idm140015366364560">Ja Maaneder, som har i Dage deres Tall,</l>
+                  <l xml:id="idm140015366364128">Vil baade først og sidst i Tiden ynske Vall,</l>
+                  <l xml:id="idm140015366363632">At føre Kongen til Liv, Seyr og Naades Fylde,</l>
+                  <l xml:id="idm140015366363136">Som Himlen vilde selv besegle og forgylde!</l>
+                  <l xml:id="idm140015366362688">Gak Tid, og kom igien, fornye Hands Fødsels Dag</l>
+                  <l xml:id="idm140015366362192">I mange Aar med Fred og Himlens Velbehag!</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015366361616">
+                  <hi rend="italics" xml:id="idm140015366360976">Tekstgrundlag: NkS 2° 489 S. 52.     </hi>19 [vist] <hi rend="italics" xml:id="idm140015366360192">eller muligvis </hi>de; vi A
+18 Scyr] Seyér A; <hi rend="italics" xml:id="idm140015366359424">muligvis Fejl for </hi>Seyer, Naades Fylde</note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Æresvers under elisabeth høgs portræt 1672</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>226-227</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid90990" decls="#biblid90990">
+            <body xml:id="idm140721238817760">
+               <head xml:id="idm140721238817504"> Til <lb xml:id="idm140721238817216"/> Dend Høy- og Velbaarne, <lb xml:id="idm140721238816896"/> Nu Høy-salige Fruis, <lb xml:id="idm140721238816576"/>
+							Fru ELISABETH HØG,<lb xml:id="idm140721238816256"/> etc. etc. <lb xml:id="idm140721238815968"/> Hendis <lb xml:id="idm140721238815680"/>Contrafey. <lb xml:id="idm140721238815392"/>
+							((daggert) 29. Nov. 1672). </head>
+               <lg xml:id="idm140721238814960">
+                  <l xml:id="idm140721238814704">KOm Contrafeyer, giør din Fliid</l>
+                  <l xml:id="idm140721238814240"> At føye mig paa denne Tiid,</l>
+                  <l xml:id="idm140721238813776">Kand nu din lærde Pensel gaa</l>
+                  <l xml:id="idm140721238813312">I Tanker en Kopi at faa</l>
+                  <l xml:id="idm140721238812896">Af Fru Elisabetha Høg?</l>
+                  <l xml:id="idm140721238812448">Spend Sandsern' op, din Konst forøg,</l>
+                  <l xml:id="idm140721238811968"> Prøv her dit Mester-Stykke paa,</l>
+                  <l xml:id="idm140721238811504">Din Pensel ævig Priis skal naa.</l>
+               </lg>
+               <lg xml:id="idm140721238810912">
+                  <l xml:id="idm140721238810656">I hendis Nakke Rids en Sky,</l>
+                  <l xml:id="idm140721238810224">Lad Dagen der igiennem gry,</l>
+                  <l xml:id="idm140721238809792">At udaf hendis Ansigt maa</l>
+                  <l xml:id="idm140721238809360"> Et Lyvs af alle Dyder gaa,</l>
+                  <l xml:id="idm140721238808928">Lad Straaler der fra skyde dem</l>
+                  <l xml:id="idm140721238808496">En fuld Natur at viise frem:</l>
+                  <l xml:id="idm140721238808064">Sæt Himmel-Naader rundt omkring</l>
+                  <l xml:id="idm140721238807600">Udi en tusind-straaled Ring,</l>
+                  <l xml:id="idm140721238807168"> Lad Himlen der igiennem see,</l>
+                  <l xml:id="idm140721238806736">Og Engr af hendis Øyne lee:</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721238806144">
+                  <hi rend="italics" xml:id="idm140721238805376">Tekstgrundlag: Originaltrykket, indklabet foran
+								Titelbladet i P. Friis <lb xml:id="idm140721238804752"/>Sigfridssøn, Ligprædiken over Elisabeth
+								Høeg (1674) (UB)</hi>
+               </note>
+               <pb n="227" xml:id="s227" facs="adl/kingo/kingo1/king1227"/>
+               <lg xml:id="idm140721238802848">
+                  <l xml:id="idm140721238802592">Sæt der iblant en deilig Vaar,</l>
+                  <l xml:id="idm140721238802128">Af huert det Blomster hand formaar:</l>
+                  <l xml:id="idm140721238801696">Drag rundt omkring paa hendis Bryst,</l>
+                  <l xml:id="idm140721238801264">GVds Fryct, Tro, Kierlighed og Lyst,</l>
+                  <l xml:id="idm140721238800832">Lad Troskabs Sool af hendis Barm </l>
+                  <l xml:id="idm140721238800400">Indskyde sig til huer en Arm,</l>
+                  <l xml:id="idm140721238799968">Og giøre Deman-straaled Guld</l>
+                  <l xml:id="idm140721238799504">Til huer en Finger Troskab-fuld:</l>
+                  <l xml:id="idm140721238799072">Af hendis Liv lad Kyskhed staa</l>
+                  <l xml:id="idm140721238798640">Med tusind ædle Quiste paa. </l>
+                  <l xml:id="idm140721238798176">Mael Døden under hendis Food</l>
+                  <l xml:id="idm140721238797712">Ald fuld af Skam og uden Mood,</l>
+                  <l xml:id="idm140721238797280">Fyld op hans hule Øyen-kriig</l>
+                  <l xml:id="idm140721238796816">Med Støven udaf hendis Liig:</l>
+                  <l xml:id="idm140721238796352">Rids af, huor hand med Skam forsvandt,</l>
+                  <l xml:id="idm140721238795920">Og huor Hun Livsens Krone vandt.</l>
+               </lg>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

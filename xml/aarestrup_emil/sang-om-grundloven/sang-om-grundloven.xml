@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sang om grundloven</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139962190171264">
+                     <name xml:id="idm139962190171008">
+                        <surname xml:id="idm139962190170880">Aarestrup</surname>, <forename xml:id="idm139962190170416">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139962190170128">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm139962190169824">København</pubPlace>
+                  <publisher xml:id="idm139962190169392">C. A. Reitzel</publisher>
+                  <date xml:id="idm139962190169056">1976</date>
+                  <biblScope>7-8</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid54217" decls="#biblid54217">
+            <body xml:id="idm139962190112032">
+               <pb n="8" facs="adl/aarestrup/aare6/sup008" xml:id="idm139962190111776"/>
+               <p xml:id="idm139962190111008"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

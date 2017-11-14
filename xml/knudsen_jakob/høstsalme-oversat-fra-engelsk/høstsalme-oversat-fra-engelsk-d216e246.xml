@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Høstsalme [oversat fra engelsk]</title>
+            <author>Knudsen, Jakob</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140058960584672">
+                     <name xml:id="idm140058960584416">
+                        <surname xml:id="idm140058960584288">Knudsen</surname>, <forename xml:id="idm140058960583856">Jakob</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140058960583568">Digte</title>
+                  <pubPlace xml:id="idm140058960583280">København</pubPlace>
+                  <date xml:id="idm140058960582800">1938</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid55263" decls="#biblid55263">
+            <pb n="74" xml:id="n74" facs="adl/knudsenj/knudsenj8/knud8074"/>
+            <p xml:id="idm140058960403888"/>
+         </div>
+      </body>
+   </text>
+</TEI>

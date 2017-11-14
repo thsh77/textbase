@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Et riimbrev, kjære glut, her førstegang jeg skriver</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139903867502080">
+                     <name xml:id="idm139903867501824">
+                        <surname xml:id="idm139903867501696">Aarestrup</surname>,
+      <forename xml:id="idm139903867501248">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139903867500960">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm139903867500656">København</pubPlace>
+                  <publisher xml:id="idm139903867500224">C. A. Reitzel</publisher>
+                  <date xml:id="idm139903867499888">1976</date>
+                  <biblScope>361-363</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid56689" decls="#biblid56689">
+            <body xml:id="idm139903867173504">
+               <pb n="362" facs="adl/aarestrup/aare5/aare5362" xml:id="idm139903867173248"/>
+               <pb n="363" facs="adl/aarestrup/aare5/aare5363" xml:id="idm139903867172480"/>
+               <p xml:id="idm139903867171664"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

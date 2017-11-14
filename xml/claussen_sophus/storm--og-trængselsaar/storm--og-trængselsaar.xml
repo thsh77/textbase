@@ -1,0 +1,545 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Storm- og trængselsaar</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140208214446192">
+                     <name xml:id="idm140208214445936">
+                        <surname xml:id="idm140208214445808">Claussen</surname>, <forename xml:id="idm140208214445344">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140208214445056">Sophus Claussens lyrik</title>
+                  <pubPlace xml:id="idm140208214444768">[København]</pubPlace>
+                  <publisher xml:id="idm140208214444304">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140208214443936">1982-</date>
+                  <biblScope>66-76</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid60838" decls="#biblid60838">
+            <front xml:id="idm140208213529344">
+               <head xml:id="idm140208213529088">
+                  <hi rend="italics" xml:id="idm140208213528832">Storm- og Trængselsaar</hi>
+               </head>
+               <epigraph xml:id="idm140208213527984">
+                  <cit xml:id="idm140208213527728">
+                     <q xml:id="idm140208213527472">
+                        <lg xml:id="idm140208213527216">
+                           <l xml:id="idm140208213526912">
+                              <hi rend="italics" xml:id="idm140208213526608">Ma ben veggio or si come
+												al popol tutto</hi>
+                           </l>
+                           <l xml:id="idm140208213525760">
+                              <hi rend="italics" xml:id="idm140208213525504">favola fui gran tempo,
+												onde sovente</hi>
+                           </l>
+                           <l xml:id="idm140208213524656">
+                              <hi rend="italics" xml:id="idm140208213524528">di me medesmo meco mi
+												vergogne</hi>;</l>
+                        </lg>
+                     </q>
+                  </cit>
+                  <bibl xml:id="idm140208213523248">
+                     <hi rend="italics" xml:id="idm140208213523120">Petrarca</hi>.</bibl>
+               </epigraph>
+               <pb n="66" xml:id="s66" facs="adl/claussen/claussen04/claussen4066"/>
+            </front>
+            <body xml:id="idm140208213520880">
+               <pb n="67" xml:id="s67" facs="adl/claussen/claussen04/claussen4067"/>
+               <div xml:id="workid60921" decls="#biblid60921">
+                  <head xml:id="idm140208213518560">
+                     <hi rend="italics" xml:id="idm140208213518304">Afskedsharmoni</hi>
+                  </head>
+                  <lg xml:id="idm140208213517488">
+                     <l xml:id="idm140208213517232">Oktober-Regnfald over fynske Haver,</l>
+                     <l xml:id="idm140208213516800">al Verden som et smuldrende Kadaver.</l>
+                     <l xml:id="idm140208213516368">Jeg pakker ind, og rejseklædt paa Skramlet</l>
+                     <l xml:id="idm140208213515888">af Minder føler jeg til Gavns mig Hamleth.</l>
+                  </lg>
+                  <lg xml:id="idm140208213515280">
+                     <l xml:id="idm140208213515024">En Moders Afsked, vage, ømme Savn!</l>
+                     <l xml:id="idm140208213514560">Og saa paa ny det skumle København</l>
+                     <l xml:id="idm140208213514096">med Rigsdagstaler og Forlæggerkvaler,</l>
+                     <l xml:id="idm140208213513616">et Slud, hvor næppe Kittys Kys husvaler!</l>
+                  </lg>
+                  <lg xml:id="idm140208213513008">
+                     <l xml:id="idm140208213512752">Den sidste Dag i Nysted, Verdens Ende,</l>
+                     <l xml:id="idm140208213512320">hvor Aarestrup forgik ... Blandt danske Penne</l>
+                     <l xml:id="idm140208213511872">hver vælger, som han kan - <hi rend="italics" xml:id="idm140208213511536">jeg</hi> fandt nu denne.</l>
+                  </lg>
+                  <lg xml:id="idm140208213510592">
+                     <l xml:id="idm140208213510336">Saa lod jeg mig af Østersø bestænke.</l>
+                     <l xml:id="idm140208213509856">Berlin og Køln! Slotspladser, Anlæg, Bænke,</l>
+                     <l xml:id="idm140208213509360">hvor en fornuftig Mand igen kan tænke.</l>
+                  </lg>
+               </div>
+               <div xml:id="workid61006" decls="#biblid61006">
+                  <head xml:id="idm140208213507728">
+                     <hi rend="italics" xml:id="idm140208213507472">Til en Søster</hi>
+                  </head>
+                  <lg xml:id="idm140208213506640">
+                     <l xml:id="idm140208213506384">Jeg mindes dig fra Høsten, kære Søster,</l>
+                     <l xml:id="idm140208213505904">den Soldag paa det flade Lollands Kyster,</l>
+                     <l xml:id="idm140208213505456">Nysted og Aalholm, Støtten for Grev Raben,</l>
+                     <l xml:id="idm140208213504976">den gule Jagthund med sin Sten i Flaben
+											-</l>
+                  </lg>
+                  <lg xml:id="idm140208213504400">
+                     <l xml:id="idm140208213504144">der fulgte os langs Skov og Strand og Næs,</l>
+                     <l xml:id="idm140208213503664">hvor midt i Planteverdnen, Dyreriget,</l>
+                     <pb n="68" xml:id="s68" facs="adl/claussen/claussen04/claussen4068"/>
+                     <l xml:id="idm140208213501968">blandt Raavildt, Slaaentjørn og vissent Græs</l>
+                     <l xml:id="idm140208213501472">ved Løvfald fordum Aarestrup har higet.</l>
+                  </lg>
+                  <lg xml:id="idm140208213500864">
+                     <l xml:id="idm140208213500608">
+                        <hi rend="italics" xml:id="idm140208213500480">Hans</hi> Tid var for en
+												grundtvigsk Domprovst fri,</l>
+                     <l xml:id="idm140208213499600">og i et højst naivt Kondittori</l>
+                     <l xml:id="idm140208213499136">man fandt kun Rum for sig og sin Charlotte.</l>
+                  </lg>
+                  <lg xml:id="idm140208213498560">
+                     <l xml:id="idm140208213498304">Aa Søster, brav som hine Tider, maatte</l>
+                     <l xml:id="idm140208213497824">du ene være Moder, intet andet!</l>
+                     <l xml:id="idm140208213497360">Vi trænger til honnette Folk i Landet.</l>
+                  </lg>
+               </div>
+               <div xml:id="workid61099" decls="#biblid61099">
+                  <head xml:id="idm140208213495664">
+                     <hi rend="italics" xml:id="idm140208213495536">Til I. og V</hi>.</head>
+                  <lg xml:id="idm140208213494720">
+                     <l xml:id="idm140208213494464">Den Nat paa Østersøen, aa hvor gynger</l>
+                     <l xml:id="idm140208213493984">og skumpier Færgen! Storm og Bølger synger!</l>
+                     <l xml:id="idm140208213493488">Det er paa Havet, Underværker hænder</l>
+                     <l xml:id="idm140208213493008">og - Fabel - at jeg træffer Jer
+												to Venner!</l>
+                  </lg>
+                  <lg xml:id="idm140208213492368">
+                     <l xml:id="idm140208213492112">At vi drak Rhinskvin her paa Dækkets Fjæle</l>
+                     <l xml:id="idm140208213491616">og klinked med min fordums Lærer H.,</l>
+                     <l xml:id="idm140208213491136">som blev fornærmet og lod Glasset staa.</l>
+                     <l xml:id="idm140208213490656">Ak hvilken Dansk forstaar vel friske Sjæle?</l>
+                  </lg>
+                  <lg xml:id="idm140208213490032">
+                     <l xml:id="idm140208213489776">Det frie Hav og hævede Pokaler!</l>
+                     <l xml:id="idm140208213489312">... Da jeg gaar agterud, hvor Vinden svaler,</l>
+                     <l xml:id="idm140208213488864">krydser endnu den unge Prins min Vej.</l>
+                  </lg>
+                  <lg xml:id="idm140208213488304">
+                     <l xml:id="idm140208213488048">"Det stormer syd for Danmark!"
+												raabte jeg</l>
+                     <l xml:id="idm140208213487600">i Sejr og Fryd. Han standser uden Mæle ...</l>
+                     <l xml:id="idm140208213487120">Ak hvilken Dansk forstaar vel friske Sjæle?</l>
+                  </lg>
+               </div>
+               <pb n="69" xml:id="s69" facs="adl/claussen/claussen04/claussen4069"/>
+               <div xml:id="workid61188" decls="#biblid61188">
+                  <head xml:id="idm140208213484144">
+                     <hi rend="italics" xml:id="idm140208213483888">Tysk Kystby</hi>
+                  </head>
+                  <lg xml:id="idm140208213483072">
+                     <l xml:id="idm140208213482816">Nu larmer Østersøen. Flad - flad
+												- flad</l>
+                     <l xml:id="idm140208213482304">er Bredden, hvor den rejser sine Rygge.</l>
+                     <l xml:id="idm140208213481872">Jeg driver i den gamle Hansestad</l>
+                     <l xml:id="idm140208213481440">og blæser Storm og Østersø et Stykke.</l>
+                  </lg>
+                  <lg xml:id="idm140208213480832">
+                     <l xml:id="idm140208213480576">I Skumring bruser dette Saltvandsbad,</l>
+                     <l xml:id="idm140208213480144">en Øredouche, hvor tør jeg kan mig dykke;</l>
+                     <l xml:id="idm140208213479664">jeg tror paa hverken Havfru eller Nøkke,</l>
+                     <l xml:id="idm140208213479184">men Havets Syner gør mig gudeglad.</l>
+                  </lg>
+                  <lg xml:id="idm140208213478592">
+                     <l xml:id="idm140208213478336">Det er en Gang et Spil for fuldt Orkester.</l>
+                     <l xml:id="idm140208213477888">Her gad jeg føre an som Tonemester</l>
+                     <l xml:id="idm140208213477424">med Skumguirlander om min svungne Stav.</l>
+                  </lg>
+                  <lg xml:id="idm140208213476864">
+                     <l xml:id="idm140208213476608">Men her er Søen høj og Kysten lav:</l>
+                     <l xml:id="idm140208213476128">tag Jer i Agt, I andagtsløse Gæster,</l>
+                     <l xml:id="idm140208213475648">som jeg i Naade bød til mine Fester.</l>
+                  </lg>
+               </div>
+               <div xml:id="workid61267" decls="#biblid61267">
+                  <head xml:id="idm140208213473952">
+                     <hi rend="italics" xml:id="idm140208213473696">Køln</hi>
+                  </head>
+                  <lg xml:id="idm140208213472880">
+                     <l xml:id="idm140208213472624">Den skumle Kathedral, den skidne Rhin,</l>
+                     <l xml:id="idm140208213472192">og Køln en Regnvejrsnat! En Klang af Flasker,</l>
+                     <l xml:id="idm140208213471696">Kvinder i Rødt, som kvinker Violin,</l>
+                     <l xml:id="idm140208213471216">og Folk, som gylper, mens hver Tagtud plasker.</l>
+                  </lg>
+                  <lg xml:id="idm140208213470640">
+                     <l xml:id="idm140208213470384">Jeg købte, før jeg rejste, et Prospekt</l>
+                     <l xml:id="idm140208213469904">af By og Dom, erfarede perfekt</l>
+                     <l xml:id="idm140208213469472">af Frøknen bag sin Disk, hvad disse Egne</l>
+                     <l xml:id="idm140208213468992">vel tænkte om den gudsforladte Heine.</l>
+                  </lg>
+                  <pb n="70" xml:id="s70" facs="adl/claussen/claussen04/claussen4070"/>
+                  <lg xml:id="idm140208213467216">
+                     <l xml:id="idm140208213466960">"I Køln var Heine afholdt, han forspildte</l>
+                     <l xml:id="idm140208213466480">sin Gunst, da han holdt Bryllup med Mathilde.</l>
+                     <l xml:id="idm140208213466032">Man vidste jo, han var saa ødelagt!<hi rend="italics" xml:id="idm140208213465680">"</hi>
+                     </l>
+                  </lg>
+                  <lg xml:id="idm140208213464768">
+                     <l xml:id="idm140208213464512">Ak stakkels Digter, brudt af Gigt og Tæring!</l>
+                     <l xml:id="idm140208213464016">der er ej Sot, der standser Hjærtets Magt,</l>
+                     <l xml:id="idm140208213463536">som i saa klam en Verden kræver Næring!</l>
+                  </lg>
+               </div>
+               <div xml:id="workid61362" decls="#biblid61362">
+                  <head xml:id="idm140208213461904">
+                     <hi rend="italics" xml:id="idm140208213461648">Damen fra Køln</hi>
+                  </head>
+                  <lg xml:id="idm140208213460816">
+                     <l xml:id="idm140208213460560">Hun pegte paa sin Rygrad med en Gestus,</l>
+                     <l xml:id="idm140208213460128">saa skødesløst, for flygtig at betegne</l>
+                     <l xml:id="idm140208213459648">den Sygdoms skælmske Art, som satte Heine</l>
+                     <l xml:id="idm140208213459168">paa Aftægt i det mennesklige Kvæsthus.</l>
+                  </lg>
+                  <lg xml:id="idm140208213458560">
+                     <l xml:id="idm140208213458304">Jeg suser over Rhinens duggraa Sletter</l>
+                     <l xml:id="idm140208213457872">langt bort fra Køln - men ser endnu, hvor
+												klog</l>
+                     <l xml:id="idm140208213457360">hun stod bag Disken i sin dunkle Krog,</l>
+                     <l xml:id="idm140208213456928">en af Provinsens strænge Henrietter.</l>
+                  </lg>
+                  <lg xml:id="idm140208213456320">
+                     <l xml:id="idm140208213456064">Et Søsterslæng, hvis dømmende Forstand</l>
+                     <l xml:id="idm140208213455584">skjuler en Sjæl, som intet mere mætter:</l>
+                     <l xml:id="idm140208213455104">de delte gærne Mandens Sot og Brand,</l>
+                  </lg>
+                  <lg xml:id="idm140208213454496">
+                     <l xml:id="idm140208213454240">ja røved gærne Døden dens Skeletter.</l>
+                     <l xml:id="idm140208213453760">Og deres Tro, som ingen Frygt kan ave,</l>
+                     <l xml:id="idm140208213453328">dækker med Savnets Vedbend alle Grave.</l>
+                  </lg>
+               </div>
+               <div xml:id="workid61441" decls="#biblid61441">
+                  <head xml:id="idm140208213451632">
+                     <hi rend="italics" xml:id="idm140208213451376">Til en Søster</hi>
+                  </head>
+                  <lg xml:id="idm140208213450544">
+                     <l xml:id="idm140208213450288">Aa, Søster, du forstod, da jeg var Dreng,</l>
+                     <l xml:id="idm140208213449808">forrædersk blidt og dog saa klog og stræng</l>
+                     <pb n="71" xml:id="s71" facs="adl/claussen/claussen04/claussen4071"/>
+                     <l xml:id="idm140208213448096">at tale min Vredagtighed til Rette,</l>
+                     <l xml:id="idm140208213447664">min Sorg og Ve blot med et Blik at slette.</l>
+                  </lg>
+                  <lg xml:id="idm140208213447088">
+                     <l xml:id="idm140208213446832">Da jeg blev større og det faldt mig ind,</l>
+                     <l xml:id="idm140208213446352">jeg vilde mig en Trøst og Lykke finde</l>
+                     <l xml:id="idm140208213445872">skabt i dit Billed og af samme Sind,</l>
+                     <l xml:id="idm140208213445440">da blev du <hi rend="italics" xml:id="idm140208213445152">hendes</hi> ømmeste
+												Veninde.</l>
+                  </lg>
+                  <lg xml:id="idm140208213444128">
+                     <l xml:id="idm140208213443872">Men i mit Liv gik mange Ting til agter,</l>
+                     <l xml:id="idm140208213443440">jeg søgte mig med Manddomstrods at væbne,</l>
+                     <l xml:id="idm140208213442960">og jeg blev uens med de stille Magter.</l>
+                  </lg>
+                  <lg xml:id="idm140208213442400">
+                     <l xml:id="idm140208213442144">Jeg sidder i det fremmede Paris</l>
+                     <l xml:id="idm140208213441712">og tømmer denne dunkle Vin til Pris</l>
+                     <l xml:id="idm140208213441232">for dine dunkle Øjnes Indskrift: <hi rend="italics" xml:id="idm140208213440896">Skæbne</hi>.</l>
+                  </lg>
+               </div>
+               <div xml:id="workid61541" decls="#biblid61541">
+                  <head xml:id="idm140208213438816">
+                     <hi rend="italics" xml:id="idm140208213438560">Til Hende</hi>
+                  </head>
+                  <lg xml:id="idm140208213437744">
+                     <l xml:id="idm140208213437488">Paa dig, min Elskede fra hine Dage,</l>
+                     <l xml:id="idm140208213437056">da mine Sejl var fyldt af bedre Vind,</l>
+                     <l xml:id="idm140208213436624">jeg tænker, mens i Mulm jeg ruller ind</l>
+                     <l xml:id="idm140208213436144">iblandt Paris' oktobervaade Tage.</l>
+                  </lg>
+                  <lg xml:id="idm140208213435584">
+                     <l xml:id="idm140208213435328">O du Retfærdighed og Helligdom,</l>
+                     <l xml:id="idm140208213434864">min Elskede, der var saa dansk som dygtig,</l>
+                     <l xml:id="idm140208213434416">dit Minde møder mig paa ny i Rom,</l>
+                     <l xml:id="idm140208213433952">naar jeg for anden Gang gør mig landflygtig.</l>
+                  </lg>
+                  <lg xml:id="idm140208213433328">
+                     <l xml:id="idm140208213433072">Dog undes der en Gang mit Hjærte Fred,</l>
+                     <l xml:id="idm140208213432592">naar ingen Dag min Trodsighed belyser,</l>
+                     <l xml:id="idm140208213432160">naar jeg er død og paa mit rette Sted.</l>
+                  </lg>
+                  <lg xml:id="idm140208213431552">
+                     <l xml:id="idm140208213431296">Da har jeg sunget dig i Himlen ind;</l>
+                     <l xml:id="idm140208213430864">dér tænker du paa <hi rend="italics" xml:id="idm140208213430544">mig</hi> med
+												lettet Sind,</l>
+                     <l xml:id="idm140208213429664">som Gudskelov er dér, hvor ingen fryser.</l>
+                  </lg>
+               </div>
+               <pb n="72" xml:id="s72" facs="adl/claussen/claussen04/claussen4072"/>
+               <div xml:id="workid61634" decls="#biblid61634">
+                  <head xml:id="idm140208213426880">
+                     <hi rend="italics" xml:id="idm140208213426624">Hassan og Digteren. Persisk
+											Fabel</hi>
+                  </head>
+                  <lg xml:id="idm140208213425776">
+                     <l xml:id="idm140208213425520">Den lille Hassan med de skæve Ben</l>
+                     <l xml:id="idm140208213425056">skrev til mig: "Grunde har jeg ti for én</l>
+                     <l xml:id="idm140208213424576">til ej at trykke Deres Bog. For Resten</l>
+                     <l xml:id="idm140208213424144">den bedste er: jeg har endnu ej læst'en."
+												-</l>
+                  </lg>
+                  <lg xml:id="idm140208213423504">
+                     <l xml:id="idm140208213423248">Den lille Hassan skrev for anden Gang:</l>
+                     <l xml:id="idm140208213422816">"Jeg læser nu, men ak min Tid er trang,</l>
+                     <l xml:id="idm140208213422336">og Overvejelsen er svær og sen</l>
+                     <l xml:id="idm140208213421872">af Grunde, hvoraf jeg har ti for én."</l>
+                  </lg>
+                  <lg xml:id="idm140208213421264">
+                     <l xml:id="idm140208213421008">Det samme Retsind og de samme Ben!</l>
+                     <l xml:id="idm140208213420576">Et Fjerdingaar gik hen, og tredje Gang</l>
+                     <l xml:id="idm140208213420144">kom Brev med Hassans Haand: "Jeg maa
+												beklage -</l>
+                  </lg>
+                  <lg xml:id="idm140208213419552">
+                     <l xml:id="idm140208213419296">Jeg kunde rose Et, et Andet vrage,</l>
+                     <l xml:id="idm140208213418864">men sender her det hele Værk tilbage</l>
+                     <l xml:id="idm140208213418384">i Tavshed ... Grunde har jeg ri for
+											én!"</l>
+                  </lg>
+               </div>
+               <div xml:id="workid61714" decls="#biblid61714">
+                  <head xml:id="idm140208213416656">
+                     <hi rend="italics" xml:id="idm140208213416400">Digteren og Hassan. Persisk
+											Fabel</hi>
+                  </head>
+                  <lg xml:id="idm140208213415552">
+                     <l xml:id="idm140208213415296">Jeg lagde i et ildfast Jærnskab Brevet,</l>
+                     <l xml:id="idm140208213414816">som lille Hassan flittig havde skrevet,</l>
+                     <l xml:id="idm140208213414384">og svaled i et Digt min hævnske Pen,</l>
+                     <l xml:id="idm140208213413904">hvor Hassan gik lyslevende igen.</l>
+                  </lg>
+                  <lg xml:id="idm140208213413344">
+                     <l xml:id="idm140208213413088">Det blev ej trykt, fordi jeg ikke kunde,</l>
+                     <l xml:id="idm140208213412640">(tro mig: jeg havde ti for én af Grunde!)</l>
+                     <l xml:id="idm140208213412160">Men stille svor jeg Hævn for denne Mén,</l>
+                     <l xml:id="idm140208213411680">naar jeg fik ti Forlæggere for én.</l>
+                  </lg>
+                  <lg xml:id="idm140208213411072">
+                     <l xml:id="idm140208213410816">Dog, da min Venten kunde blive sen,</l>
+                     <l xml:id="idm140208213410384">og det er hæsligt at gaa om og hade,</l>
+                     <l xml:id="idm140208213409904">saa har jeg gjort Besked paa disse Blade.</l>
+                  </lg>
+                  <pb n="73" xml:id="s73" facs="adl/claussen/claussen04/claussen4073"/>
+                  <lg xml:id="idm140208213408160">
+                     <l xml:id="idm140208213407904">
+                        <hi rend="italics" xml:id="idm140208213407776">Det</hi> var den ydmygste af mine
+												Faser,</l>
+                     <l xml:id="idm140208213406880">da udstødt som en Hund paa Gadens Sten</l>
+                     <l xml:id="idm140208213406400">jeg maatte snappe efter <hi rend="italics" xml:id="idm140208213406096">Hassans</hi> Haser.</l>
+                  </lg>
+               </div>
+               <div xml:id="workid61812" decls="#biblid61812">
+                  <head xml:id="idm140208213403984">
+                     <hi rend="italics" xml:id="idm140208213403728">Før Stævnemødet</hi>
+                  </head>
+                  <lg xml:id="idm140208213402896">
+                     <l xml:id="idm140208213402640">Det bliver Aften i Vorherres Gaard;</l>
+                     <l xml:id="idm140208213402208">langs Himmelranden, paa en Bred af Okker,</l>
+                     <l xml:id="idm140208213401760">en lille Vogtertøs med gule Haar</l>
+                     <l xml:id="idm140208213401296">saar grønne Stjærner tæt som Padderokker.</l>
+                  </lg>
+                  <lg xml:id="idm140208213400672">
+                     <l xml:id="idm140208213400416">Af Skyfaar græsses denne Stjærnebund,</l>
+                     <l xml:id="idm140208213399936">vidt ringer over Verden deres Klokker.</l>
+                     <l xml:id="idm140208213399504">Kometen er Vorherres Vogterhund,</l>
+                     <l xml:id="idm140208213399072">hvis Hale vesterude vagtsomt rokker.</l>
+                  </lg>
+                  <lg xml:id="idm140208213398512">
+                     <l xml:id="idm140208213398256">Ved Himlens Arne Hjorden nu sig flokker.</l>
+                     <l xml:id="idm140208213397808">Men for mig selv er tændt et Velkomst-Baal.</l>
+                     <l xml:id="idm140208213397312">
+                        <hi rend="italics" xml:id="idm140208213397184">Hun venter mig</hi>: det er vor
+												Hyrdetime.</l>
+                  </lg>
+                  <lg xml:id="idm140208213396192">
+                     <l xml:id="idm140208213395936">Og Natten sænker Skodderne af Staal,</l>
+                     <l xml:id="idm140208213395456">med gyldne Røster alle Klokker kime</l>
+                     <l xml:id="idm140208213394976">og taler Hjærteguldets Tungemaal.</l>
+                  </lg>
+               </div>
+               <div xml:id="workid61896" decls="#biblid61896">
+                  <head xml:id="idm140208213393296">
+                     <hi rend="italics" xml:id="idm140208213393040">Gensynet</hi>
+                  </head>
+                  <lg xml:id="idm140208213392224">
+                     <l xml:id="idm140208213391968">Der drypped Blomster røde som en Brand</l>
+                     <l xml:id="idm140208213391488">for mine Blik ... jeg gensaa hendes Øjne,</l>
+                     <l xml:id="idm140208213391008">hvis Bund er dobbelt som et frossent Vand.</l>
+                     <l xml:id="idm140208213390560">Men Blomsterne var Læbens Smil - det
+											nøgne!</l>
+                  </lg>
+                  <pb n="74" xml:id="s74" facs="adl/claussen/claussen04/claussen4074"/>
+                  <lg xml:id="idm140208213388768">
+                     <l xml:id="idm140208213388512">Hun var saa næsvis i sin Flagre-Flugt,</l>
+                     <l xml:id="idm140208213388032">en Fugl, som med for tunge Fjedre brammer!</l>
+                     <l xml:id="idm140208213387584">Og Haaret dobbelt mørkt. Og dybt og smukt</l>
+                     <l xml:id="idm140208213387104">stod Kind og Tindinger i Dobbeltflammer.</l>
+                  </lg>
+                  <lg xml:id="idm140208213386528">
+                     <l xml:id="idm140208213386272">Det var din gamle Dobbelthed, min Fe,</l>
+                     <l xml:id="idm140208213385840">dit Smil saa fuldt af Løfter og af Ve.</l>
+                     <l xml:id="idm140208213385360">Tvetvunden bringer du mig tvefold Jammer.
+											-</l>
+                  </lg>
+                  <lg xml:id="idm140208213384784">
+                     <l xml:id="idm140208213384528">Med ét begyndte alt mit Blod at le:</l>
+                     <l xml:id="idm140208213384048">jeg saa dig af en Rembrandtsk Livsild skinne.</l>
+                     <l xml:id="idm140208213383600">Saa fandt jeg Dobbeltmand min Dobbeltkvinde.</l>
+                  </lg>
+               </div>
+               <div xml:id="workid61984" decls="#biblid61984">
+                  <head xml:id="idm140208213381936">
+                     <hi rend="italics" xml:id="idm140208213381808">Gargantua eller
+												"sikket-Gab-du-har"</hi>.<lb xml:id="idm140208213381088"/>
+                     <hi rend="italics" xml:id="idm140208213380960">Frit efter Rabelais</hi>
+                  </head>
+                  <lg xml:id="idm140208213380272">
+                     <l xml:id="idm140208213380016">Han græd, da han blev født. Og Barnets Far</l>
+                     <l xml:id="idm140208213379520">kaldt ind fra Gæstebud og Venners Tale</l>
+                     <l xml:id="idm140208213379040">slog op en Latter: "Sikket Gab du
+												har!"</l>
+                     <l xml:id="idm140208213378592">Det kloge Barn fandt snart paa alt det gale!</l>
+                  </lg>
+                  <lg xml:id="idm140208213378016">
+                     <l xml:id="idm140208213377760">tissed mod Sol og tog i Regnvejr Bad,</l>
+                     <l xml:id="idm140208213377328">forfulgte under lave Skyr en Svale,</l>
+                     <l xml:id="idm140208213376896">lod Gaardens Hunde spise af sit Fad</l>
+                     <l xml:id="idm140208213376464">og pusted dem paa Dril i deres Hale.</l>
+                  </lg>
+                  <lg xml:id="idm140208213375904">
+                     <l xml:id="idm140208213375648">De gode Kvinder, som den spæde skøtter,</l>
+                     <l xml:id="idm140208213375168">ombandt hans lille Manddom glad og tit</l>
+                     <l xml:id="idm140208213374736">med Blomster, Baand og Fandens Mælkebøtter.</l>
+                  </lg>
+                  <lg xml:id="idm140208213374112">
+                     <l xml:id="idm140208213373856">Hvorfor er jeg bedrøvet? Gik det skidt</l>
+                     <l xml:id="idm140208213373376">ved Livets Gæstebud og Sammenkomster:</l>
+                     <l xml:id="idm140208213372896">der findes altid dem, der flætter Blomster.</l>
+                  </lg>
+               </div>
+               <pb n="75" xml:id="s75" facs="adl/claussen/claussen04/claussen4075"/>
+               <div xml:id="workid62077" decls="#biblid62077">
+                  <head xml:id="idm140208213370080">
+                     <hi rend="italics" xml:id="idm140208213369952">Kunstner-Existens</hi>
+                     <lb xml:id="idm140208213369392"/>
+                     <hi rend="italics" xml:id="idm140208213369264">(Ved et Hus, jeg en Aften gik forbi i
+												Paris</hi>)</head>
+                  <lg xml:id="idm140208213368416">
+                     <l xml:id="idm140208213368160">Der paa de onde Urters Bulevard,</l>
+                     <l xml:id="idm140208213367728">der grunder man sin Velstand i en Fart;</l>
+                     <l xml:id="idm140208213367296">man holder Vogn og lader sig misunde</l>
+                     <l xml:id="idm140208213366864">i et Palæ med Kvinder, Kunst og Hunde.</l>
+                  </lg>
+                  <lg xml:id="idm140208213366256">
+                     <l xml:id="idm140208213366000">Man hæfter i sin Regnskabsbog et Folie,</l>
+                     <l xml:id="idm140208213365520">hvor der kun staar om Børs og Baisse i Olie,</l>
+                     <l xml:id="idm140208213365024">har Ungdom, Skønhed og til Tegn paa Standen</l>
+                     <l xml:id="idm140208213364528">en let Skavank som Byron og som Fanden.</l>
+                  </lg>
+                  <lg xml:id="idm140208213363968">
+                     <l xml:id="idm140208213363712">Der paa de onde Urters Bulevard</l>
+                     <l xml:id="idm140208213363280">bor Skønhedsdyrkere af kostbar Art.</l>
+                     <l xml:id="idm140208213362800">Og var jeg ikke én fra alle Kanter</l>
+                  </lg>
+                  <lg xml:id="idm140208213362208">
+                     <l xml:id="idm140208213361952">udstødt, fordømt og redelig Poet,</l>
+                     <l xml:id="idm140208213361488">hvis ej jeg var Diogenes, Profet -</l>
+                     <l xml:id="idm140208213361056">der gad jeg bygge flot som Alexander.</l>
+                  </lg>
+               </div>
+               <div xml:id="workid62160" decls="#biblid62160">
+                  <head xml:id="idm140208213359408">
+                     <hi rend="italics" xml:id="idm140208213359152">Paa ny ved Østersøen</hi>
+                  </head>
+                  <lg xml:id="idm140208213358304">
+                     <l xml:id="idm140208213358048">Se Skyens vilde Jagt med Horn og Hunde.</l>
+                     <l xml:id="idm140208213357616">Nu rykker Stormens Haand i Jordens Skæg</l>
+                     <l xml:id="idm140208213357136">og river Trær med Rode op i Lunde.</l>
+                     <l xml:id="idm140208213356672">Den gamle Verden aabner sine Læg.</l>
+                  </lg>
+                  <lg xml:id="idm140208213356080">
+                     <l xml:id="idm140208213355824">Ny Verdner fødes af dens Kæmpe-Æg</l>
+                     <l xml:id="idm140208213355344">til Vejrets Glam og Fraad af Bølgemunde.</l>
+                     <l xml:id="idm140208213354864">Lad Borgerskabet snorke bag sin Væg!</l>
+                     <l xml:id="idm140208213354384">En Frihedsstund - i Nat kan jeg ej
+											blunde.</l>
+                  </lg>
+                  <pb n="76" xml:id="s76" facs="adl/claussen/claussen04/claussen4076"/>
+                  <lg xml:id="idm140208213352608">
+                     <l xml:id="idm140208213352352">Ved Midnat svøbt i Blæstens graavejrs-grove</l>
+                     <l xml:id="idm140208213351856">Slængkappe gaar jeg i den tyske By,</l>
+                     <l xml:id="idm140208213351376">mens Hunnerhære over Himlen fly.</l>
+                  </lg>
+                  <lg xml:id="idm140208213350784">
+                     <l xml:id="idm140208213350528">Nu graaner alle Skyr af Maaneny.</l>
+                     <l xml:id="idm140208213350096">I alle Lande Folk og Husdyr sove.</l>
+                     <l xml:id="idm140208213349664">Nu bruser Bøgen i de danske Skove.</l>
+                  </lg>
+               </div>
+               <div xml:id="workid62249" decls="#biblid62249">
+                  <head xml:id="idm140208213348000">
+                     <hi rend="italics" xml:id="idm140208213347744">Træerne</hi>
+                  </head>
+                  <lg xml:id="idm140208213346928">
+                     <l xml:id="idm140208213346672">Jeg elsker det, som gror og gror igen</l>
+                     <l xml:id="idm140208213346240">og spørger næppe Vind og Vejr om Lov:</l>
+                     <l xml:id="idm140208213345760">Græsmarken og den stormopfyldte Skov!</l>
+                     <l xml:id="idm140208213345280">Jeg synes, Træerne er Adelsmænd.</l>
+                  </lg>
+                  <lg xml:id="idm140208213344688">
+                     <l xml:id="idm140208213344432">Med Løv i Hatten og med barket Lænd</l>
+                     <l xml:id="idm140208213343952">de hilser lige fint paa fin og grov,</l>
+                     <l xml:id="idm140208213343520">de holder deres Skygge ej for Rov</l>
+                     <l xml:id="idm140208213343088">og taler aldrig ondt om den og den.</l>
+                  </lg>
+                  <lg xml:id="idm140208213342528">
+                     <l xml:id="idm140208213342272">Ved deres Side kan du hvile ud</l>
+                     <l xml:id="idm140208213341840">og nyde frit den Lyst, de altid giver,</l>
+                     <l xml:id="idm140208213341408">saa godt de evner, med den samme Iver.</l>
+                  </lg>
+                  <lg xml:id="idm140208213340848">
+                     <l xml:id="idm140208213340592">De kan den Kunst at gro og gro igen.</l>
+                     <l xml:id="idm140208213340160">Hos dem er selv den bange Tyv en Gud.</l>
+                     <l xml:id="idm140208213339728">Jeg synes, Træerne er Adelsmænd.</l>
+                  </lg>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

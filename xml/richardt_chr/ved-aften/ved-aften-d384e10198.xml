@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ved aften.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid73687" decls="#biblid73687">
+            <head xml:id="idm140352321312208">Ved Aften.<lb xml:id="idm140352321311920"/>(Til et Beethovensk Thema.)</head>
+            <lg xml:id="idm140352321311488">
+               <l xml:id="idm140352321311232">Solen sank, og Vinden taug,</l>
+               <l xml:id="idm140352321310800">Stilhed aander Land og Hav,</l>
+               <l xml:id="idm140352321310368">tyst blev ogsaa Lundens Kor, -</l>
+               <l xml:id="idm140352321309936">saa Godnat, Du tause Jord!</l>
+            </lg>
+            <lg xml:id="idm140352321309376">
+               <l xml:id="idm140352321309120">Blændværk er dog al din Fred,</l>
+               <l xml:id="idm140352321308656">kun et Skjær i Vesterled!</l>
+               <l xml:id="idm140352321308208">skriger ej fra Nattens Favn</l>
+               <l xml:id="idm140352321307776">Synd og Ufred, Sorg og Savn?</l>
+            </lg>
+            <lg xml:id="idm140352321307216">
+               <l xml:id="idm140352321306960">»Tys, tal sagte, sagte Søn?</l>
+               <l xml:id="idm140352321306528">Styrr mig ej min Aftenbøn!</l>
+               <l xml:id="idm140352321306080">Naar min sidste Sol gaar ned,</l>
+               <l xml:id="idm140352321305648">luttres ogsaa jeg til Fred.«</l>
+            </lg>
+            <pb n="153" facs="adl/richardt/richardt2/rich2153" xml:id="idm140352321305056"/>
+         </div>
+      </body>
+   </text>
+</TEI>

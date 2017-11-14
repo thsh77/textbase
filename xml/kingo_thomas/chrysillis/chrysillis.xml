@@ -1,0 +1,715 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Chrysillis</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>79-95</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid70457" decls="#biblid70457">
+            <body xml:id="idm140721241335248">
+               <head xml:id="idm140721241334992">Chrysillis</head>
+               <lg xml:id="idm140721241334576">
+                  <head xml:id="idm140721241334320">1.</head>
+                  <l xml:id="idm140721241333936">
+                     <hi rend="italics" xml:id="idm140721241333808">CHrysillis </hi>du mit Verdens Guld</l>
+                  <l xml:id="idm140721241332960">Min een' och ynsche skat</l>
+                  <l xml:id="idm140721241332528">Mit lius i lychens nat </l>
+                  <l xml:id="idm140721241332112">Kom nermer hid o hierte huld</l>
+                  <l xml:id="idm140721241331680">Og leg dit øre til</l>
+                  <l xml:id="idm140721241331248">Jeg for dig siunge vil</l>
+                  <l xml:id="idm140721241330832">Lychens Sang</l>
+                  <l xml:id="idm140721241330416">Lychens Gang </l>
+                  <l xml:id="idm140721241330000">Vil ieg viße uden feil</l>
+                  <l xml:id="idm140721241329552">Hvor du mig</l>
+                  <l xml:id="idm140721241329136">jeg og dig</l>
+                  <l xml:id="idm140721241328720">Schue maa som i et speil,</l>
+                  <l xml:id="idm140721241328288">Solen schal iche naa </l>
+                  <l xml:id="idm140721241327872">De vester vande blaa</l>
+                  <l xml:id="idm140721241327456">Ey henge lyßen loch</l>
+                  <l xml:id="idm140721241327008">Paa stierne floch</l>
+                  <l xml:id="idm140721241326592">Før ieg <hi rend="italics" xml:id="idm140721241326304">Chrysillis </hi>har</l>
+                  <l xml:id="idm140721241325440">Giort mig for verden bar </l>
+                  <l xml:id="idm140721241325008">Hvor høyt ieg elscher dig</l>
+                  <l xml:id="idm140721241324560">Bestandelig.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721241324016">
+                  <hi rend="italics" xml:id="idm140721241323376">Tekstgrundlag: Rostg 2° 152 S. 39 ff. </hi>i
+								<hi rend="italics" xml:id="idm140721241322592">Chrysillis} Udg. Chrisillis </hi>D <hi rend="italics" xml:id="idm140721241321888">(paa <lb xml:id="idm140721241321328"/>Omslaget: Kingo </hi>Biskop i Fyens Stift
+								<hi rend="italics" xml:id="idm140721241320864">Chrisillis. Aria. </hi>med en <hi rend="italics" xml:id="idm140721241320144">Parodië); <lb xml:id="idm140721241319584"/>alle andre Kilder uden Overskr. </hi>3 mit] <hi rend="italics" xml:id="idm140721241319120">Hss. </hi>rm'"<hi rend="bold" xml:id="idm140721241318400">A</hi>Verdens]
+							Ver(d)- <lb xml:id="idm140721241317696"/>sens<hi rend="bold" xml:id="idm140721241317408"> B </hi>
+                  <hi rend="sup" xml:id="idm140721241316880">2</hi> C E 4 een'] C F<hi rend="sup" xml:id="idm140721241316224">1</hi> een B E
+								eene<hi rend="bold" xml:id="idm140721241315568">D</hi>Min een' och] <hi rend="bold" xml:id="idm140721241314880">B-F<hi rend="sup" xml:id="idm140721241314304">1</hi>G <lb xml:id="idm140721241313632"/>O </hi>du min <hi rend="bold" xml:id="idm140721241313216">A F<hi rend="sup" xml:id="idm140721241312640">2</hi>
+                  </hi>ynsche]<hi rend="bold" xml:id="idm140721241311856">A</hi>F ynskte <hi rend="bold" xml:id="idm140721241311168">B<hi rend="sup" xml:id="idm140721241310640">1</hi> C-E </hi>høiste<hi rend="bold" xml:id="idm140721241309824"> B </hi>
+                  <hi rend="sup" xml:id="idm140721241309296">2</hi> 5 lychens] <lb xml:id="idm140721241308640"/>
+                  <hi rend="bold" xml:id="idm140721241308512">A B<hi rend="sup" xml:id="idm140721241307984">1</hi> D E</hi> Lockens F<hi rend="sup" xml:id="idm140721241307168">2</hi> mørche(-) C F<hi rend="sup" xml:id="idm140721241306496">1</hi> mørchen<hi rend="bold" xml:id="idm140721241305840"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241305312">2</hi> 19 ieg] <hi rend="italics" xml:id="idm140721241304656">Hss. </hi>du<hi rend="bold" xml:id="idm140721241303920"> A </hi>
+                  <lb xml:id="idm140721241303392"/>20 mig] <hi rend="bold" xml:id="idm140721241303104">A C D</hi> det<hi rend="bold" xml:id="idm140721241302384"> B E F </hi>
+                  <hi rend="sup" xml:id="idm140721241301824">2</hi>
+               </note>
+               <pb n="80" xml:id="s80" facs="adl/kingo/kingo1/king1080"/>
+               <lg xml:id="idm140721241300000">
+                  <head xml:id="idm140721241299744">2.</head>
+                  <l xml:id="idm140721241299312">En hyrde Daatter est du jo</l>
+                  <l xml:id="idm140721241298880">Og blant din faderß faar</l>
+                  <l xml:id="idm140721241298432">Gich første Blomsters aar</l>
+                  <l xml:id="idm140721241297984"> Dig glædde tit den hyrde bo.</l>
+                  <l xml:id="idm140721241297520">Hyrdindens mälche spand</l>
+                  <l xml:id="idm140721241297072">Kom tit for mund og Tand</l>
+                  <l xml:id="idm140721241296640">Hyrden dig</l>
+                  <l xml:id="idm140721241296224">Tog med sig</l>
+                  <l xml:id="idm140721241295808"> Tit op paa dend bøye hald</l>
+                  <l xml:id="idm140721241295360">Hvor du saa</l>
+                  <l xml:id="idm140721241294944">Hiorden gaa</l>
+                  <l xml:id="idm140721241294528">Neder i dend fæde dal</l>
+                  <l xml:id="idm140721241294080">Naar Solen dend randt op</l>
+                  <l xml:id="idm140721241293648"> Forgylte Klippens top</l>
+                  <l xml:id="idm140721241293232">Dig vachte hyrden ey</l>
+                  <l xml:id="idm140721241292816">Men gich sin vey</l>
+                  <l xml:id="idm140721241292400">Hente de fæde lam</l>
+                  <l xml:id="idm140721241291968">Til dig naar afiten kam</l>
+                  <l xml:id="idm140721241291552"> Da var hyrdindens schiød</l>
+                  <l xml:id="idm140721241291104">Din seng saa blød.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721241290544"> 10 dend] de<hi rend="bold" xml:id="idm140721241289744"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241289088">1</hi> C 13 Neder] nedre F<hi rend="sup" xml:id="idm140721241288432">1</hi> Neden <hi rend="bold" xml:id="idm140721241287776">B D</hi> dend] de <hi rend="bold" xml:id="idm140721241287040">B<hi rend="sup" xml:id="idm140721241286512">1
+									<lb xml:id="idm140721241285984"/>
+                     </hi>
+                  </hi>fæde]<hi rend="bold" xml:id="idm140721241285440">A B</hi>
+                  <hi rend="sup" xml:id="idm140721241284784">1</hi> D F dybe<hi rend="bold" xml:id="idm140721241284128"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241283472">2</hi> C E <hi rend="italics" xml:id="idm140721241282816">(rett. t. </hi>fede) 14
+							Naar] <hi rend="italics" xml:id="idm140721241282096">Hss. </hi>Da<hi rend="bold" xml:id="idm140721241281408">A</hi>randt] <lb xml:id="idm140721241280720"/>
+                  <hi rend="italics" xml:id="idm140721241280464">Hss. </hi>rand<hi rend="bold" xml:id="idm140721241279744">A</hi>15 Forgylte] <hi rend="bold" xml:id="idm140721241279056">B<hi rend="sup" xml:id="idm140721241278528">2</hi> C-F<hi rend="sup" xml:id="idm140721241277872">1</hi>
+                  </hi>Forgyldet<hi rend="bold" xml:id="idm140721241277088">A B</hi>
+                  <hi rend="sup" xml:id="idm140721241276432">1</hi> Forgyldes (?) F* <lb xml:id="idm140721241275776"/>Klippens] bierge- C F
+							i6_yachte] vogted F Vartet C 18 Hente] <hi rend="italics" xml:id="idm140721241275440">Hss.</hi>
+                  <lb xml:id="idm140721241274752"/>Hentet <hi rend="bold" xml:id="idm140721241274464">
+                     <hi rend="bold" xml:id="idm140721241274064">A E</hi>
+                  </hi>19 kam] <hi rend="bold" xml:id="idm140721241273376">ÅB </hi>kom C-F 20 hyrdindens] och hyrdenß
+								<hi rend="bold" xml:id="idm140721241272576">B<hi rend="sup" xml:id="idm140721241272048">1 <lb xml:id="idm140721241271552"/>
+                     </hi>
+                  </hi>20-21 Da laa i Hyrdens skiød | Din Krop saa blød.<hi rend="bold" xml:id="idm140721241270928"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241270272">2</hi> 18-21 Naar <lb xml:id="idm140721241269616"/>(Nu F<hi rend="sup" xml:id="idm140721241269328">2</hi>) Natten
+							dagen drev | Og Liuset sønderrev, | da blussed Hierte <lb xml:id="idm140721241268544"/>blod l For
+							Hyrden god. F </note>
+               <pb n="81" xml:id="s81" facs="adl/kingo/kingo1/king1081"/>
+               <lg xml:id="idm140721241266960">
+                  <head xml:id="idm140721241266704"> 3.</head>
+                  <l xml:id="idm140721241266272">Hvor tit har hafvit dig til lyst</l>
+                  <l xml:id="idm140721241265840">Giort grummen Bølge plat</l>
+                  <l xml:id="idm140721241265392">Og som <hi rend="italics" xml:id="idm140721241265104">Chrystdlle </hi>glat</l>
+                  <l xml:id="idm140721241264256">Du saast paa schibbets roelig bryst </l>
+                  <l xml:id="idm140721241263824">Dend rige handels mand</l>
+                  <l xml:id="idm140721241263408">Paa dend forsølfvet strand</l>
+                  <l xml:id="idm140721241262960">Styremand</l>
+                  <l xml:id="idm140721241262544">Ret hoß land</l>
+                  <l xml:id="idm140721241262112">Kaste ancher laad og traad </l>
+                  <l xml:id="idm140721241261680">Seylets pracht</l>
+                  <l xml:id="idm140721241261264">Blef ned lagt</l>
+                  <l xml:id="idm140721241260848">For dend fattig fischerbaad</l>
+                  <l xml:id="idm140721241260416">Da saaest du runden om</l>
+                  <l xml:id="idm140721241260000">Dend Kolde fischer Kom </l>
+                  <l xml:id="idm140721241259584">Hvor fischen sprat og sprang</l>
+                  <l xml:id="idm140721241259152">For baadens Tvang</l>
+                  <l xml:id="idm140721241258736">Da min <hi rend="italics" xml:id="idm140721241258448">Chrisillis </hi>saa</l>
+                  <l xml:id="idm140721241257584">Bublen paa vandet staa</l>
+                  <l xml:id="idm140721241257168">Opblæst i samme paß </l>
+                  <l xml:id="idm140721241256720">Som flugtig glaß.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721241256160"> 2 hafvit] <hi rend="italics" xml:id="idm140721241255360">Hss. </hi>hofvit<hi rend="bold" xml:id="idm140721241254640">A</hi>3 gnimmen Bølge] <hi rend="bold" xml:id="idm140721241253936">F<hi rend="sup" xml:id="idm140721241253408">1</hi>
+                  </hi>grummen bolge<hi rend="bold" xml:id="idm140721241252624"> A </hi>
+                  <lb xml:id="idm140721241251968"/>grumme bølge C grumme (grummen E) bølger<hi rend="bold" xml:id="idm140721241251616"> B D E F</hi>
+                  <hi rend="sup" xml:id="idm140721241250928">2</hi> 4 Chry- <lb xml:id="idm140721241250272"/>
+                  <hi rend="italics" xml:id="idm140721241250016">stallé] </hi>
+                  <hi rend="bold" xml:id="idm140721241249328"> B C E F</hi>
+                  <hi rend="italics" xml:id="idm140721241248640">Chrystallen </hi>A <hi rend="italics" xml:id="idm140721241247952">Chrystallet
+							</hi>D 5 bryst] <hi rend="italics" xml:id="idm140721241247232">Hss. </hi>bryest<hi rend="bold" xml:id="idm140721241246512"> A </hi>
+                  <lb xml:id="idm140721241245856"/>9 Ret] ACD Strax<hi rend="bold" xml:id="idm140721241245568"> B E F </hi>hoß] <hi rend="italics" xml:id="idm140721241244848">Hss. </hi>om<hi rend="bold" xml:id="idm140721241244160">A</hi>paa F<hi rend="sup" xml:id="idm140721241243472">2</hi> n
+							Seylets] <lb xml:id="idm140721241242816"/>Skibetz C F<hi rend="sup" xml:id="idm140721241242528">1</hi> 13 For] <hi rend="italics" xml:id="idm140721241241872">Hss. </hi>Hos<hi rend="bold" xml:id="idm140721241241184">A</hi>dend] din <hi rend="bold" xml:id="idm140721241240496">F<hi rend="sup" xml:id="idm140721241239968">1</hi>
+                  </hi>14 Da saaest du] <lb xml:id="idm140721241239184"/>
+                  <hi rend="italics" xml:id="idm140721241238928">Hss. </hi>Du saast dig<hi rend="bold" xml:id="idm140721241238208">A</hi>16 sprat]
+								spredt<hi rend="bold" xml:id="idm140721241237504">D</hi>
+                  <hi rend="italics" xml:id="idm140721241236848">(jf. </hi>sprat og spr(e)d (?) E) <lb xml:id="idm140721241236112"/>spræll <hi rend="bold" xml:id="idm140721241235824">F<hi rend="sup" xml:id="idm140721241235296">2</hi>
+                  </hi>17 Tvang]<hi rend="bold" xml:id="idm140721241234512">D</hi>Thuang E trang<hi rend="bold" xml:id="idm140721241233824">A</hi>(?) <hi rend="bold" xml:id="idm140721241233136"> B C F</hi> 19] Paa <lb xml:id="idm140721241232416"/>Vandet Boblen staae
+								<hi rend="bold" xml:id="idm140721241232112">F<hi rend="sup" xml:id="idm140721241231584">1</hi>
+                  </hi>21 flugtig] E flugt i<hi rend="bold" xml:id="idm140721241230800">A</hi>flygtig D F<hi rend="sup" xml:id="idm140721241230112">1</hi> fuchtig <lb xml:id="idm140721241229456"/>
+                  <hi rend="bold" xml:id="idm140721241229200"> B C F</hi>
+                  <hi rend="sup" xml:id="idm140721241228512">1</hi>
+               </note>
+               <pb n="82" xml:id="s82" facs="adl/kingo/kingo1/king1082"/>
+               <lg xml:id="idm140721241226560">
+                  <head xml:id="idm140721241226304">4.</head>
+                  <l xml:id="idm140721241225872">Naar Solen af sin gylden Karm</l>
+                  <l xml:id="idm140721241225440">De Jlde-straaler schiød</l>
+                  <l xml:id="idm140721241224992">Og schyens teppe brød</l>
+                  <l xml:id="idm140721241224544"> Da middags stunden blef saa varm</l>
+                  <l xml:id="idm140721241224112">At nøgen fisch sin gang</l>
+                  <l xml:id="idm140721241223664">Skiød hen bag schær og tang</l>
+                  <l xml:id="idm140721241223200">
+                     <hi rend="italics" xml:id="idm140721241223072">Flora </hi>da</l>
+                  <l xml:id="idm140721241222256">Bød dig fra</l>
+                  <l xml:id="idm140721241221824"> Hafvet til sin løfve sal</l>
+                  <l xml:id="idm140721241221376">Blomster smaa</l>
+                  <l xml:id="idm140721241220960">Strøde paa</l>
+                  <l xml:id="idm140721241220544">Gulf og benche dig til pral</l>
+                  <l xml:id="idm140721241220112">Træer som bøygte sig</l>
+                  <l xml:id="idm140721241219664"> Mod dig med grønnen flig</l>
+                  <l xml:id="idm140721241219216">Ragte dig schyggen til</l>
+                  <l xml:id="idm140721241218800">Mod Solens Jld</l>
+                  <l xml:id="idm140721241218384">Det purpur Rosen træe</l>
+                  <l xml:id="idm140721241217936">Lochet dig hen til læe</l>
+                  <l xml:id="idm140721241217488"> Hvor haßlen schiulte smucht</l>
+                  <l xml:id="idm140721241217024">Dend Rosen lugt.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721241216480"> 6 nøgen] <hi rend="bold" xml:id="idm140721241215680"> B C E F</hi> nøg<hi rend="bold" xml:id="idm140721241214960">A</hi>ingen<hi rend="bold" xml:id="idm140721241214272">D</hi>7 bag] blant C D F schær] <hi rend="italics" xml:id="idm140721241213552">Hss.</hi>
+                  <lb xml:id="idm140721241212864"/>scharA 11 smaa] <hi rend="italics" xml:id="idm140721241212576">Hss. </hi>saa<hi rend="bold" xml:id="idm140721241211888">A</hi>13 dig til pral] til gefall F<hi rend="sup" xml:id="idm140721241211184">1</hi> 14 Træer
+								<lb xml:id="idm140721241210512"/>som]<hi rend="bold" xml:id="idm140721241210224"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241209568">1</hi> C D F Træerne som<hi rend="bold" xml:id="idm140721241208896"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241208240">2</hi> E Træerne<hi rend="bold" xml:id="idm140721241207584">A</hi>bøygte]<hi rend="bold" xml:id="idm140721241206896">A</hi>bøyde<hi rend="bold" xml:id="idm140721241206208"> B</hi>
+                  <lb xml:id="idm140721241205552"/>bøjet C D F bøyede E 16 Ragte dig] <hi rend="italics" xml:id="idm140721241205200">Hss. </hi>Dig
+								ragte<hi rend="bold" xml:id="idm140721241204480">A</hi>F<hi rend="sup" xml:id="idm140721241203824">1</hi> schyggen]
+								<lb xml:id="idm140721241203168"/>skugge(n)<hi rend="bold" xml:id="idm140721241202880"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241202224">2</hi> E 18 træe] <hi rend="italics" xml:id="idm140721241201552">Hss. </hi>trær<hi rend="bold" xml:id="idm140721241200832">A</hi>19 Lochet dig] Dig loched F<hi rend="sup" xml:id="idm140721241200128">1 <lb xml:id="idm140721241199632"/>
+                  </hi>læe] <hi rend="italics" xml:id="idm140721241199216">Hss. </hi>lae<hi rend="bold" xml:id="idm140721241198528">A</hi>21
+							Rosen] Rosens<hi rend="bold" xml:id="idm140721241197840"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241197184">2</hi> E </note>
+               <pb n="83" xml:id="s83" facs="adl/kingo/kingo1/king1083"/>
+               <lg xml:id="idm140721241195280">
+                  <head xml:id="idm140721241195024"> 5.</head>
+                  <l xml:id="idm140721241194640">Dend Kroned hiort og Kaade hind</l>
+                  <l xml:id="idm140721241194208">Opknejßede og saae</l>
+                  <l xml:id="idm140721241193776">Dend grønne schytte gaae</l>
+                  <l xml:id="idm140721241193328">Kraagrygget mod dend sachte vind </l>
+                  <l xml:id="idm140721241192896">Gaar der for strax i spring</l>
+                  <l xml:id="idm140721241192464">Og dantz dend schov om Kring</l>
+                  <l xml:id="idm140721241192032">Du da saae</l>
+                  <l xml:id="idm140721241191616">Lyst oppaa</l>
+                  <l xml:id="idm140721241191200">Haren sammen Krymped sad </l>
+                  <l xml:id="idm140721241190768">Hvor hand sprat</l>
+                  <l xml:id="idm140721241190352">Naar dend Krat</l>
+                  <l xml:id="idm140721241189936">Knaßede af schyttens traed</l>
+                  <l xml:id="idm140721241189488">Midler tid fuglen sad</l>
+                  <l xml:id="idm140721241189072">Sicher bag bøge blad </l>
+                  <l xml:id="idm140721241188624">Nachtergal paa <hi rend="italics" xml:id="idm140721241188336">postiv</hi>
+                  </l>
+                  <l xml:id="idm140721241187520">Legt' i sit Lif</l>
+                  <l xml:id="idm140721241187104">Rør drommen var <hi rend="italics" xml:id="idm140721241186800">basist</hi>
+                  </l>
+                  <l xml:id="idm140721241185984">Bogfinchen <hi rend="italics" xml:id="idm140721241185696">Tenorist</hi>
+                  </l>
+                  <l xml:id="idm140721241184880">
+                     <hi rend="italics" xml:id="idm140721241184752">Discanten </hi>holt </l>
+                  <l xml:id="idm140721241183904">Solsorten <hi rend="italics" xml:id="idm140721241183616">alt.</hi>
+                  </l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721241182672"> 4 schytte] sk(i)øtter <hi rend="bold" xml:id="idm140721241181840">B<hi rend="sup" xml:id="idm140721241181312">1</hi> F<hi rend="sup" xml:id="idm140721241180688">2</hi>
+                  </hi>6-7] I Skofven Trint omkring | Ret i en <lb xml:id="idm140721241179872"/>kredtz oc ring<hi rend="bold" xml:id="idm140721241179584"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241178928">2</hi> 7 dantz dend] <hi rend="italics" xml:id="idm140721241178272">Hss.
+							</hi>(dandsede D) dantz d: dend<hi rend="bold" xml:id="idm140721241177536">A</hi>10 <lb xml:id="idm140721241176880"/>Krymped]<hi rend="bold" xml:id="idm140721241176592">
+                     <hi rend="bold" xml:id="idm140721241176192">A D F</hi>
+                  </hi> Krumped <hi rend="bold" xml:id="idm140721241175472">B<hi rend="sup" xml:id="idm140721241174944">1</hi>
+                  </hi>krumpen<hi rend="bold" xml:id="idm140721241174160"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241173504">2</hi> C E 12 dend] det D F<hi rend="sup" xml:id="idm140721241172848">1 <lb xml:id="idm140721241172352"/>
+                  </hi>13 Knaßede] Kraslede F Knaßede af schyttens] Knased aff den
+							Skytterß <lb xml:id="idm140721241171792"/>(skyttes E)<hi rend="bold" xml:id="idm140721241171504"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241170848">1</hi> E Udaf Skøttens haarde <hi rend="bold" xml:id="idm140721241170160">B<hi rend="sup" xml:id="idm140721241169632">2</hi>
+                  </hi>traed]<hi rend="bold" xml:id="idm140721241168848">A</hi>tratt <hi rend="bold" xml:id="idm140721241168160">F<hi rend="sup" xml:id="idm140721241167632">2</hi>
+                  </hi>drat <hi rend="bold" xml:id="idm140721241166848">B<hi rend="sup" xml:id="idm140721241166320">2 <lb xml:id="idm140721241165824"/>
+                     </hi>
+                  </hi>traad <hi rend="bold" xml:id="idm140721241165280">BM3 F<hi rend="sup" xml:id="idm140721241164720">1</hi>
+                  </hi>throd E 16 Nachtergal] C F Nat(t)ergal(l)<hi rend="bold" xml:id="idm140721241163904"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241163248">2</hi>
+                  <hi rend="bold" xml:id="idm140721241162624">D E</hi>
+                  <lb xml:id="idm140721241161920"/>Nachter galen<hi rend="bold" xml:id="idm140721241161632">A</hi>Nattergalen <hi rend="bold" xml:id="idm140721241160944">B<hi rend="sup" xml:id="idm140721241160416">1</hi>
+                  </hi>17 Legt'] Leegt' <hi rend="bold" xml:id="idm140721241159632"> B C F</hi> Legte<hi rend="bold" xml:id="idm140721241158912">A
+								D E</hi>
+                  <lb xml:id="idm140721241158224"/>20 Lerchen <hi rend="italics" xml:id="idm140721241157936">Discanten] </hi>Discanten Lærchen <hi rend="bold" xml:id="idm140721241157200">F<hi rend="sup" xml:id="idm140721241156672">1</hi>
+                  </hi>21 Solsorten] S(i)elf(f)- <lb xml:id="idm140721241155872"/>sorten<hi rend="bold" xml:id="idm140721241155584"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241154928">x</hi> E </note>
+               <pb n="84" xml:id="s84" facs="adl/kingo/kingo1/king1084"/>
+               <lg xml:id="idm140721241152912">
+                  <head xml:id="idm140721241152656">6.</head>
+                  <l xml:id="idm140721241152224">Naar Stierne teppet da blef lagt</l>
+                  <l xml:id="idm140721241151792">Og hver en flod blef fuld</l>
+                  <l xml:id="idm140721241151360">Af Stierne stuchet Guld,</l>
+                  <l xml:id="idm140721241150928"> Og hyrden sine faar saa sagt</l>
+                  <l xml:id="idm140721241150496">J afften svalen dref</l>
+                  <l xml:id="idm140721241150080">Og spor i Duggen schref</l>
+                  <l xml:id="idm140721241149664">Du da med</l>
+                  <l xml:id="idm140721241149248">Gich af sted</l>
+                  <l xml:id="idm140721241148832"> Faare flochen talte tit</l>
+                  <l xml:id="idm140721241148400">Og besaa</l>
+                  <l xml:id="idm140721241147984">Stor' og smaa</l>
+                  <l xml:id="idm140721241147568">Himmel-fachel blusset frit</l>
+                  <l xml:id="idm140721241147136">Stierne <hi rend="italics" xml:id="idm140721241146848">rubinen </hi>klar</l>
+                  <l xml:id="idm140721241146000"> Skint' i dit melche Kar</l>
+                  <l xml:id="idm140721241145568">Og perle dugen falt</l>
+                  <l xml:id="idm140721241145152">Paa haar og alt</l>
+                  <l xml:id="idm140721241144736">
+                     <hi rend="italics" xml:id="idm140721241144608">Philax </hi>den trofast hund</l>
+                  <l xml:id="idm140721241143760">Opvartet ald den stund</l>
+                  <l xml:id="idm140721241143344"> Hiorden forsiunet blef</l>
+                  <l xml:id="idm140721241142928">Og ulfven dref.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721241142384"> 6 svalen] <hi rend="italics" xml:id="idm140721241141584">Hss. </hi>svale <hi rend="bold" xml:id="idm140721241140864">A F</hi>
+                  <hi rend="sup" xml:id="idm140721241140208">2</hi> 12 Stor'] B F Sto(e)r <hi rend="bold" xml:id="idm140721241139552">A
+							E</hi>Stort D 13 <lb xml:id="idm140721241138832"/>blusset] C-F<hi rend="sup" xml:id="idm140721241138544">1</hi> bluste<hi rend="bold" xml:id="idm140721241137888"> B </hi>blusse F<hi rend="sup" xml:id="idm140721241137200">2</hi> bloße<hi rend="bold" xml:id="idm140721241136544">A</hi>14] ÅB<hi rend="sup" xml:id="idm140721241135856">1</hi> Stierne-jRwføwr klar
+							<lb xml:id="idm140721241135152"/>D Stierner (Stierne C) <hi rend="italics" xml:id="idm140721241134864">Rubine </hi>klar<hi rend="bold" xml:id="idm140721241134144"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241133488">2</hi> C F Stierne klar E 15 skint'] <lb xml:id="idm140721241132816"/>B<hi rend="sup" xml:id="idm140721241132560">2</hi> C F skinte<hi rend="bold" xml:id="idm140721241131904"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241131248">1</hi> Skin<hi rend="bold" xml:id="idm140721241130592">D</hi>Skined<hi rend="bold" xml:id="idm140721241129904">A</hi>dit]<hi rend="bold" xml:id="idm140721241129216"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241128560">1</hi> C D F<hi rend="sup" xml:id="idm140721241127904">1</hi> det<hi rend="bold" xml:id="idm140721241127248"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241126592">2</hi> E <hi rend="italics" xml:id="idm140721241125968">(rett. t. </hi>dit) <lb xml:id="idm140721241125248"/>F<hi rend="sup" xml:id="idm140721241124992">2</hi> de<hi rend="bold" xml:id="idm140721241124320">A</hi>melche] ACD <hi rend="bold" xml:id="idm140721241123632">F<hi rend="sup" xml:id="idm140721241123104">2</hi>
+                  </hi>malke- <hi rend="bold" xml:id="idm140721241122320"> B E F</hi>
+                  <hi rend="sup" xml:id="idm140721241121632">1</hi> 18 den] <hi rend="italics" xml:id="idm140721241120976">Hss. </hi>min<hi rend="bold" xml:id="idm140721241120240"> A </hi>
+                  <lb xml:id="idm140721241119584"/>20] Forsiunet Hiorden blef F<hi rend="sup" xml:id="idm140721241119280">r</hi>
+               </note>
+               <pb n="85" xml:id="s85" facs="adl/kingo/kingo1/king1085"/>
+               <lg xml:id="idm140721241117360">
+                  <head xml:id="idm140721241117104"> 7.</head>
+                  <l xml:id="idm140721241116672">Dig lagde himlens ansicht paa</l>
+                  <l xml:id="idm140721241116240">Sit aasiun mildelig</l>
+                  <l xml:id="idm140721241115824">Hver Dag som blottet sig</l>
+                  <l xml:id="idm140721241115392">Mand fandt ey hyrde datter gaa </l>
+                  <l xml:id="idm140721241114960">J større <hi rend="italics" xml:id="idm140721241114672">fryd </hi>og flor</l>
+                  <l xml:id="idm140721241113824">End du <hi rend="italics" xml:id="idm140721241113536">Chrysillis </hi>staar</l>
+                  <l xml:id="idm140721241112688">Ønsk' og løst</l>
+                  <l xml:id="idm140721241112272">Fandt ey brøst</l>
+                  <l xml:id="idm140721241111840">
+                     <hi rend="italics" xml:id="idm140721241111712">Croned </hi>lychsomhed </l>
+                  <l xml:id="idm140721241110864">Dog var ey</l>
+                  <l xml:id="idm140721241110448">Paa dend vey</l>
+                  <l xml:id="idm140721241110032">Lychens stadig sted og beed,</l>
+                  <l xml:id="idm140721241109600">Mens strax i ungdoms aar</l>
+                  <l xml:id="idm140721241109168">Paa lychens vinger staar </l>
+                  <l xml:id="idm140721241108736">
+                     <hi rend="italics" xml:id="idm140721241108608">Chrysillis </hi>seylet giør</l>
+                  <l xml:id="idm140721241107744">Fra Faders dør</l>
+                  <l xml:id="idm140721241107312">Skibet med hauf og Vind</l>
+                  <l xml:id="idm140721241106896">Lagde sig venschab ind</l>
+                  <l xml:id="idm140721241106480">Førte dig i sin favn </l>
+                  <l xml:id="idm140721241106032">Fra Føde staufn.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721241105472"> 2 Dig] Daa E lagde] <hi rend="italics" xml:id="idm140721241104672">Hss. </hi>lagd<hi rend="bold" xml:id="idm140721241103952">A</hi>3 mildelig] <hi rend="italics" xml:id="idm140721241103264">Hss. </hi>ind
+								delig<hi rend="bold" xml:id="idm140721241102544"> A </hi>
+                  <lb xml:id="idm140721241101888"/>4 Hver Dag som] Som hver dag BF* 5 fandt] <hi rend="italics" xml:id="idm140721241101568">Hss.
+								</hi>saa<hi rend="bold" xml:id="idm140721241100880">A</hi>7 du] <lb xml:id="idm140721241100192"/>
+                  <hi rend="bold" xml:id="idm140721241099936">A B F</hi>
+                  <hi rend="sup" xml:id="idm140721241099248">1</hi> da C F<hi rend="sup" xml:id="idm140721241098592">8</hi> daa E som<hi rend="bold" xml:id="idm140721241097936">D</hi>staar] gaar E giord F* 8 Ønsk'] F<hi rend="sup" xml:id="idm140721241097200">1
+								<lb xml:id="idm140721241096672"/>
+                  </hi>Ønsch <hi rend="italics" xml:id="idm140721241096256">Hss. </hi>9 ey] i<hi rend="bold" xml:id="idm140721241095536"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241094880">2</hi> och E 10 dend] sin C 13 stadig sted og <lb xml:id="idm140721241094192"/>beed]
+								<hi rend="bold" xml:id="idm140721241093904">A E</hi>Stadighed og beed B C stadighed optræd (?)
+								F<hi rend="sup" xml:id="idm140721241093120">2</hi> Stadig fied og <lb xml:id="idm140721241092464"/>Sted F<hi rend="sup" xml:id="idm140721241092176">1</hi> 14 Mens] Men<hi rend="bold" xml:id="idm140721241091520"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241090864">2</hi> F 15 lychens] Lychen C 19 Lagde sig] <lb xml:id="idm140721241090192"/>Sig
+							lagde F<hi rend="sup" xml:id="idm140721241089904">1</hi> 20 Førte dig] <hi rend="italics" xml:id="idm140721241089232">Hss.
+							</hi>Dig førte <hi rend="bold" xml:id="idm140721241088512">A F</hi>
+                  <hi rend="sup" xml:id="idm140721241087856">1</hi> 21 Føde staufn] <lb xml:id="idm140721241087184"/>Føde i Stafun (?) E støde
+							stafn C Faders Stavn <hi rend="bold" xml:id="idm140721241086800">B<hi rend="sup" xml:id="idm140721241086272">2</hi>
+                  </hi>
+               </note>
+               <pb n="86" xml:id="s86" facs="adl/kingo/kingo1/king1086"/>
+               <lg xml:id="idm140721241084192">
+                  <head xml:id="idm140721241083936">8.</head>
+                  <l xml:id="idm140721241083552">Der du nedsatte da din fod</l>
+                  <l xml:id="idm140721241083120">Paa fremmed sted og grund</l>
+                  <l xml:id="idm140721241082688">Da strax i samme stund</l>
+                  <l xml:id="idm140721241082272"> Dend fruchtbar lyche for dig stoed</l>
+                  <l xml:id="idm140721241081840">Som i et Kilde veld</l>
+                  <l xml:id="idm140721241081424">Med hver mands gunst og held</l>
+                  <l xml:id="idm140721241080992">Tiden gich</l>
+                  <l xml:id="idm140721241080576">Ynd' og schich</l>
+                  <l xml:id="idm140721241080160"> Gaf dig hver dags undergang</l>
+                  <l xml:id="idm140721241079728">Lychen leer</l>
+                  <l xml:id="idm140721241079312">Mer og meer</l>
+                  <l xml:id="idm140721241078896">Og gaar frem i fulde svang,</l>
+                  <l xml:id="idm140721241078464">Da mangen hyrde Søn</l>
+                  <l xml:id="idm140721241078016"> Elschte dig høyt i løn</l>
+                  <l xml:id="idm140721241077568">Som lych' og føysom tid</l>
+                  <l xml:id="idm140721241077120">Var dog ublid</l>
+                  <l xml:id="idm140721241076704">Omsider <hi rend="italics" xml:id="idm140721241076416">Coridon</hi>
+                  </l>
+                  <l xml:id="idm140721241075600">Op løfft paa lychens tron'</l>
+                  <l xml:id="idm140721241075152"> Fich dog din Kierlighed</l>
+                  <l xml:id="idm140721241074720">Som hver mand ved.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721241074176"> 2 din] <hi rend="italics" xml:id="idm140721241073376">Hss. </hi>den<hi rend="bold" xml:id="idm140721241072688">A</hi>3 sted] land<hi rend="bold" xml:id="idm140721241072000"> B </hi>9 Ynd'] <hi rend="bold" xml:id="idm140721241071312">B<hi rend="sup" xml:id="idm140721241070784">2</hi> F<hi rend="sup" xml:id="idm140721241070160">1</hi>
+                  </hi>Ynd <hi rend="italics" xml:id="idm140721241069376">Hss. </hi>13 <lb xml:id="idm140721241068688"/>frem] fram E 15 Elschte
+							dig] Dig elskte <hi rend="bold" xml:id="idm140721241068368">F<hi rend="sup" xml:id="idm140721241067840">1</hi>
+                  </hi>16 lych'] B« D F lych <lb xml:id="idm140721241067024"/>
+                  <hi rend="italics" xml:id="idm140721241066768">Hss. </hi>føysom] fløysom<hi rend="bold" xml:id="idm140721241066032"> B </hi>17
+							dog] dig B« E ublid] da blid E 19 tron'] <lb xml:id="idm140721241065248"/>B D tron <hi rend="italics" xml:id="idm140721241064960">Hss.</hi>
+               </note>
+               <pb n="87" xml:id="s87" facs="adl/kingo/kingo1/king1087"/>
+               <lg xml:id="idm140721241062928">
+                  <head xml:id="idm140721241062672"> 9.</head>
+                  <l xml:id="idm140721241062288">En dag i tidens langsom gang</l>
+                  <l xml:id="idm140721241061856">Fra gylden Morgen brød</l>
+                  <l xml:id="idm140721241061408">Med Sølf i barm og Schiød</l>
+                  <l xml:id="idm140721241060960"> Da ieg<hi rend="italics" xml:id="idm140721241060672">Myrtillo </hi>sad og sang </l>
+                  <l xml:id="idm140721241059824">Hos mine faar saa smaae</l>
+                  <l xml:id="idm140721241059408">Ved malet eng og aae</l>
+                  <l xml:id="idm140721241058992">Jeg da saae</l>
+                  <l xml:id="idm140721241058576">Dig fremgaae</l>
+                  <l xml:id="idm140721241058160">J din vanlig pynt og pracht </l>
+                  <l xml:id="idm140721241057728">Strax mit Sind</l>
+                  <l xml:id="idm140721241057312">Skiød mig ind</l>
+                  <l xml:id="idm140721241056880">Det ieg nu maa gifve macht</l>
+                  <l xml:id="idm140721241056448">Blodet i mig blef Kalt</l>
+                  <l xml:id="idm140721241056032">Maalet mig hastig falt </l>
+                  <l xml:id="idm140721241055616">Skamrød mit ansicht blef</l>
+                  <l xml:id="idm140721241055168">Og tancher dref,</l>
+                  <l xml:id="idm140721241054752">Øyne forstirret sig</l>
+                  <l xml:id="idm140721241054336">Sindet dog sagde mig</l>
+                  <l xml:id="idm140721241053920">See hist ey see dog hvor </l>
+                  <l xml:id="idm140721241053488">
+                     <hi rend="italics" xml:id="idm140721241053360">Chrysillis </hi>gaar.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721241052384"> 2 langsom gang] <hi rend="italics" xml:id="idm140721241051584">Hss. </hi>langsomhed<hi rend="bold" xml:id="idm140721241050864">A</hi>3 Fra gylden] Fra Gyldne <hi rend="bold" xml:id="idm140721241050160">B<hi rend="sup" xml:id="idm140721241049632">1 <lb xml:id="idm140721241049136"/>
+                     </hi>
+                  </hi>forgylden <hi rend="bold" xml:id="idm140721241048592">B<hi rend="sup" xml:id="idm140721241048064">1</hi> F<hi rend="sup" xml:id="idm140721241047440">1</hi>
+                  </hi>Morgen brød] <hi rend="italics" xml:id="idm140721241046640">Hss. </hi>Morgenrød <hi rend="bold" xml:id="idm140721241045920">A B<hi rend="sup" xml:id="idm140721241045392">2</hi>
+                  </hi> 6 saa] <hi rend="italics" xml:id="idm140721241044608">Hss. </hi>og <lb xml:id="idm140721241043920"/>A 7 malet] <hi rend="italics" xml:id="idm140721241043632">Hss. </hi>maalet<hi rend="bold" xml:id="idm140721241042912">A</hi>maaltid E 10
+							vanlig] <hi rend="bold" xml:id="idm140721241042208">B<hi rend="sup" xml:id="idm140721241041680">1</hi> F<hi rend="sup" xml:id="idm140721241041056">1</hi>
+                  </hi>vaanlig<hi rend="bold" xml:id="idm140721241040272"> A </hi>
+                  <lb xml:id="idm140721241039616"/>venlig <hi rend="bold" xml:id="idm140721241039328">B<hi rend="sup" xml:id="idm140721241038800">a</hi>
+                  </hi>
+                  <hi rend="italics" xml:id="idm140721241038048">(rett. t. </hi>vanlig) <hi rend="bold" xml:id="idm140721241037328">D E F</hi>
+                  <hi rend="sup" xml:id="idm140721241036640">2</hi> 12 Skiød] gaf E F* mig] dig B* 13] <lb xml:id="idm140721241035920"/>Jeg paa
+							dig gav nøye Agt.<hi rend="bold" xml:id="idm140721241035584">D</hi>14] Mit blod blev i Mig kaaldt,
+								F<hi rend="sup" xml:id="idm140721241034864">1</hi> Kalt] <lb xml:id="idm140721241034208"/>
+                  <hi rend="bold" xml:id="idm140721241033952"> B E F</hi>« kaaldt F<hi rend="sup" xml:id="idm140721241033232">1</hi>
+							Kolt <hi rend="bold" xml:id="idm140721241032576">AD </hi>15 Maalet]<hi rend="bold" xml:id="idm140721241031888"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241031232">2</hi> D F<hi rend="sup" xml:id="idm140721241030576">1</hi> Mælet<hi rend="bold" xml:id="idm140721241029920">A</hi>modet<hi rend="bold" xml:id="idm140721241029232"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241028576">1</hi> E <lb xml:id="idm140721241027952"/>F* Maalet mig] Mig Maalet F<hi rend="sup" xml:id="idm140721241027648">1</hi> och modet mig <hi rend="bold" xml:id="idm140721241026992">B<hi rend="sup" xml:id="idm140721241026464">1</hi>
+                  </hi>16] Mit ansigt skam- <lb xml:id="idm140721241025680"/>rød blev F<hi rend="sup" xml:id="idm140721241025392">1</hi> -rød]<hi rend="bold" xml:id="idm140721241024736"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241024080">2</hi> E F rødt<hi rend="bold" xml:id="idm140721241023424">D</hi>-rodt<hi rend="bold" xml:id="idm140721241022736">A</hi>-røt <hi rend="bold" xml:id="idm140721241022048">B<hi rend="sup" xml:id="idm140721241021520">1</hi>
+                  </hi>18 Øyne] Øynen'<hi rend="bold" xml:id="idm140721241020720"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241020064">1 <lb xml:id="idm140721241019568"/>
+                  </hi>D forstirret] forstyrred F<hi rend="sup" xml:id="idm140721241019136">1</hi> forferdet <hi rend="bold" xml:id="idm140721241018480">B<hi rend="sup" xml:id="idm140721241017952">2</hi>
+                  </hi>19] Dog sagde Sindit mig F<hi rend="sup" xml:id="idm140721241017152">1 <lb xml:id="idm140721241016656"/>
+                  </hi>21 gaar] staar F* </note>
+               <pb n="88" xml:id="s88" facs="adl/kingo/kingo1/king1088"/>
+               <lg xml:id="idm140721241014960">
+                  <head xml:id="idm140721241014704">10.</head>
+                  <l xml:id="idm140721241014272">Jeg veed ey hvor mit hierte blef</l>
+                  <l xml:id="idm140721241013840">Det foer af brystet hen</l>
+                  <l xml:id="idm140721241013424">Som stoch stoed ieg igien</l>
+                  <l xml:id="idm140721241012992"> J brystet dog sin meening schref</l>
+                  <l xml:id="idm140721241012560">Staa her <hi rend="italics" xml:id="idm140721241012272">Myrtillo </hi>staa</l>
+                  <l xml:id="idm140721241011424">Thi ieg fra dig mon gaa</l>
+                  <l xml:id="idm140721241011008">Far nu vel</l>
+                  <l xml:id="idm140721241010592">Lif og Siel</l>
+                  <l xml:id="idm140721241010176"> Sagde hiertet foer saa hen</l>
+                  <l xml:id="idm140721241009744">Og besaa</l>
+                  <l xml:id="idm140721241009328">Hvad der laa</l>
+                  <l xml:id="idm140721241008912">Brøst forborgit hos sin ven</l>
+                  <l xml:id="idm140721241008448">
+                     <hi rend="italics" xml:id="idm140721241008320">Chrysillis </hi>øyne blaae</l>
+                  <l xml:id="idm140721241007472"> Som vey til hiertet laae</l>
+                  <l xml:id="idm140721241007040">Antente fachel snart</l>
+                  <l xml:id="idm140721241006624">For sindets art</l>
+                  <l xml:id="idm140721241006208">Giennem det Sinde glaß</l>
+                  <l xml:id="idm140721241005760">Saaes der et dydß <hi rend="italics" xml:id="idm140721241005456">Compas</hi>
+                  </l>
+                  <l xml:id="idm140721241004640">
+                     <hi rend="italics" xml:id="idm140721241004512">Centrum </hi>stoed</l>
+                  <l xml:id="idm140721241003664">J Hierte roed.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721241003120"> 7 mon] ma(a)<hi rend="bold" xml:id="idm140721241002320"> B</hi>
+                  <hi rend="sup" xml:id="idm140721241001664">1</hi> E 10] Sagde: hierte far <hi rend="italics" xml:id="idm140721241000992">(rett.
+								t. </hi>foer) saa hen <hi rend="bold" xml:id="idm140721241000272">B<hi rend="sup" xml:id="idm140721240999744">a</hi>
+                  </hi>Sagde] <lb xml:id="idm140721240998960"/>
+                  <hi rend="italics" xml:id="idm140721240998704">Hss. </hi>Sagde i<hi rend="bold" xml:id="idm140721240997984">A</hi>foer] faar E
+							13 Brøst] <hi rend="italics" xml:id="idm140721240997248">Hss. </hi>Brost<hi rend="bold" xml:id="idm140721240996528">A</hi>14
+							øyne] Øyen <hi rend="bold" xml:id="idm140721240995808">D E</hi>
+                  <lb xml:id="idm140721240995152"/>15 hiertet] <hi rend="italics" xml:id="idm140721240994864">Hss. </hi>hierte<hi rend="bold" xml:id="idm140721240994144">A</hi>18] Igiennem Øyne-glaß <hi rend="bold" xml:id="idm140721240993424">F<hi rend="sup" xml:id="idm140721240992896">1</hi>
+                  </hi>det] <hi rend="bold" xml:id="idm140721240992112">D E F</hi>* de<hi rend="bold" xml:id="idm140721240991392"> B</hi>
+                  <lb xml:id="idm140721240990736"/>detz<hi rend="bold" xml:id="idm140721240990448">A</hi>det Sinde glaß] de øine glas <hi rend="bold" xml:id="idm140721240989712">B<hi rend="sup" xml:id="idm140721240989184">2</hi>
+                  </hi>19 Saaes der] Der saaés <hi rend="bold" xml:id="idm140721240988368">F<hi rend="sup" xml:id="idm140721240987840">1 <lb xml:id="idm140721240987344"/>
+                     </hi>
+                  </hi>Saa der E Gaaer der<hi rend="bold" xml:id="idm140721240986800">D</hi>dydß] <hi rend="bold" xml:id="idm140721240986112">B
+									F<hi rend="sup" xml:id="idm140721240985552">1</hi>
+                  </hi>Dyd- <hi rend="bold" xml:id="idm140721240984768">
+                     <hi rend="bold" xml:id="idm140721240984368">D E</hi> dyrt F<hi rend="sup" xml:id="idm140721240983680">a</hi> dyb<hi rend="bold" xml:id="idm140721240983024"> A </hi>
+                  </hi>
+               </note>
+               <pb n="89" xml:id="s89" facs="adl/kingo/kingo1/king1089"/>
+               <lg xml:id="idm140721240981072">
+                  <head xml:id="idm140721240980816"> 11.</head>
+                  <l xml:id="idm140721240980400">En tusind egget Tanche pul</l>
+                  <l xml:id="idm140721240979968">Mit hierte strax bestack</l>
+                  <l xml:id="idm140721240979536">En Dvale drich ieg drach</l>
+                  <l xml:id="idm140721240979104">At hvasse Sverd og naggit fiil </l>
+                  <l xml:id="idm140721240978672">Som giennem sindet gich</l>
+                  <l xml:id="idm140721240978256">Mich gaff ey dødßens such</l>
+                  <l xml:id="idm140721240977808">Søfn og Slum</l>
+                  <l xml:id="idm140721240977376">Giorde dum</l>
+                  <l xml:id="idm140721240976960">Dag og øye blef som Kul </l>
+                  <l xml:id="idm140721240976512">
+                     <hi rend="italics" xml:id="idm140721240976256">Phantasi</hi>
+                  </l>
+                  <l xml:id="idm140721240975440">Pant dog Sti</l>
+                  <l xml:id="idm140721240975024">Giennem Søfnens mørch og Mul</l>
+                  <l xml:id="idm140721240974560">Nu siuntis mig Jeg stoed</l>
+                  <l xml:id="idm140721240974128">Hos dend bespeilet floed </l>
+                  <l xml:id="idm140721240973696">Hvor ieg forbaußet saae</l>
+                  <l xml:id="idm140721240973248">Dit ansigt staae</l>
+                  <l xml:id="idm140721240972832">Nu siuntis mig ieg dig</l>
+                  <l xml:id="idm140721240972416">Hafd' i min vogn hos mig</l>
+                  <l xml:id="idm140721240971984">Hvor lychen tøylen loed </l>
+                  <l xml:id="idm140721240971536">Til haand och foed.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721240970992"> 2 Tanche] <hi rend="italics" xml:id="idm140721240970192">Hss. </hi>tagget<hi rend="bold" xml:id="idm140721240969472">A</hi>Takke- <hi rend="italics" xml:id="idm140721240968784">(rett. t.
+								</hi>Tanke-)<hi rend="bold" xml:id="idm140721240968064">D</hi>5 At] A B<hi rend="sup" xml:id="idm140721240967376">1</hi> E
+							Af <lb xml:id="idm140721240966720"/>B* D Et F hvasse] <hi rend="bold" xml:id="idm140721240966432">A D</hi>Huassen E huesse <hi rend="bold" xml:id="idm140721240965744">B<hi rend="sup" xml:id="idm140721240965216">1</hi>
+                  </hi>hvessed B* F naggit]<hi rend="bold" xml:id="idm140721240964432"> A </hi>
+                  <lb xml:id="idm140721240963776"/>nagget F<hi rend="sup" xml:id="idm140721240963488">2</hi> nagged <hi rend="bold" xml:id="idm140721240962832">B<hi rend="sup" xml:id="idm140721240962304">1</hi>
+                  </hi>naget<hi rend="bold" xml:id="idm140721240961520"> B</hi>
+                  <hi rend="sup" xml:id="idm140721240960864">2</hi>
+                  <hi rend="bold" xml:id="idm140721240960240">D</hi>Nogget F<hi rend="sup" xml:id="idm140721240959552">1</hi> nøgen E fiil] piil E
+							F* <lb xml:id="idm140721240958848"/>6-7] <hi rend="italics" xml:id="idm140721240958560">Hss.; i<hi rend="bold" xml:id="idm140721240958000">A</hi>er Linierne
+								ombyttet. </hi>7 gaff ey] <hi rend="bold" xml:id="idm140721240957136">A B</hi>gaff et C-F<hi rend="italics" xml:id="idm140721240956448">
+                     <hi rend="sup" xml:id="idm140721240956048">l</hi>
+                  </hi>gafvner <lb xml:id="idm140721240955392"/>F<hi rend="sup" xml:id="idm140721240955136">1</hi> 9 Giorde] Giord mig E 12 dog]
+							og <hi rend="bold" xml:id="idm140721240954448">Eb F<hi rend="sup" xml:id="idm140721240953888">1</hi>
+                  </hi>15 bespeilet] beseüet <lb xml:id="idm140721240953072"/>D F<hi rend="sup" xml:id="idm140721240952816">1</hi> 18 siuntis]
+								tychtiß<hi rend="bold" xml:id="idm140721240952112"> B </hi>19 Hafd']<hi rend="bold" xml:id="idm140721240951424"> B</hi>
+                  <hi rend="sup" xml:id="idm140721240950768">2</hi>
+                  <hi rend="bold" xml:id="idm140721240950144">D E F</hi> Hafd.<hi rend="bold" xml:id="idm140721240949424">A</hi>Haffde<hi rend="bold" xml:id="idm140721240948736"> B</hi>
+                  <hi rend="sup" xml:id="idm140721240948080">1 <lb xml:id="idm140721240947584"/>
+                  </hi>21] <hi rend="italics" xml:id="idm140721240947168">Hss. </hi>Fra haand til foed A </note>
+               <pb n="90" xml:id="s90" facs="adl/kingo/kingo1/king1090"/>
+               <lg xml:id="idm140721240945104">
+                  <head xml:id="idm140721240944848">12.</head>
+                  <l xml:id="idm140721240944416">Du mindis vel den afftenstund</l>
+                  <l xml:id="idm140721240943984">Jeg dig ved haanden fich</l>
+                  <l xml:id="idm140721240943552">Og ene hos dig gich</l>
+                  <l xml:id="idm140721240943136">s Endog at Maanens røde Mund</l>
+                  <l xml:id="idm140721240942672">Vdblæste Kuld og vind</l>
+                  <l xml:id="idm140721240942224">Dog blußet frit dit sind</l>
+                  <l xml:id="idm140721240941776">Afftens tvang</l>
+                  <l xml:id="idm140721240941360">Var ey lang</l>
+                  <l xml:id="idm140721240940944"> Time var som øye blich</l>
+                  <l xml:id="idm140721240940496">Tiden flød</l>
+                  <l xml:id="idm140721240940080">Talen brød</l>
+                  <l xml:id="idm140721240939664">Begge hierters schiulte nich</l>
+                  <l xml:id="idm140721240939232">Da blef dend Dulte glød</l>
+                  <l xml:id="idm140721240938784"> Oppusted Klar og rød</l>
+                  <l xml:id="idm140721240938336">Jndtil vor hierte blod</l>
+                  <l xml:id="idm140721240937920">J lue stoed</l>
+                  <l xml:id="idm140721240937504">Da bandtes venschabs baand</l>
+                  <l xml:id="idm140721240937072">Da rachtis mund og haand</l>
+                  <l xml:id="idm140721240936640"> God nat tog hver da glad</l>
+                  <l xml:id="idm140721240936208">Og schiltis ad.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721240935664"> 3 Jeg dig] Du mig B* 4] Jeg hos dig ene gich<hi rend="bold" xml:id="idm140721240934832"> B</hi>
+                  <hi rend="sup" xml:id="idm140721240934176">a</hi> 7 blußet] bluste <lb xml:id="idm140721240933504"/>B<hi rend="sup" xml:id="idm140721240933248">1</hi> E*
+							dit] det E*&gt; mit <hi rend="bold" xml:id="idm140721240932560">F<hi rend="sup" xml:id="idm140721240932032">1</hi>
+                  </hi>10 Time] <hi rend="bold" xml:id="idm140721240931248"> A B</hi>
+                  <hi rend="sup" xml:id="idm140721240930560">1</hi>
+                  <hi rend="bold" xml:id="idm140721240929936">D</hi>Timen <hi rend="bold" xml:id="idm140721240929248">B<hi rend="sup" xml:id="idm140721240928720">8</hi>
+                  </hi>E<hi rend="sup" xml:id="idm140721240927920">b</hi> Timer E* F <lb xml:id="idm140721240927264"/>13 hierters] <hi rend="bold" xml:id="idm140721240926976">B<hi rend="sup" xml:id="idm140721240926448">2</hi>D E F</hi> hiertens <hi rend="bold" xml:id="idm140721240925632">ÅB<hi rend="sup" xml:id="idm140721240925072">1</hi>
+                  </hi>16 vor] <hi rend="italics" xml:id="idm140721240924288">Hss. </hi>vort A </note>
+               <pb n="91" xml:id="s91" facs="adl/kingo/kingo1/king1091"/>
+               <lg xml:id="idm140721240922176">
+                  <head xml:id="idm140721240921920"> 13.</head>
+                  <l xml:id="idm140721240921504">Hver dag var da saa frydefuld</l>
+                  <l xml:id="idm140721240921072">Hver time fuld af schiemt</l>
+                  <l xml:id="idm140721240920640">Ald sorrig død og glemt</l>
+                  <l xml:id="idm140721240920192">Ret som naar Solens morgenguld </l>
+                  <l xml:id="idm140721240919760">Dend <hi rend="italics" xml:id="idm140721240919472">Melancholisch </hi>nat</l>
+                  <l xml:id="idm140721240918608">Bemaler skøn og glat</l>
+                  <l xml:id="idm140721240918160">Naar mand seer</l>
+                  <l xml:id="idm140721240917744">Solen leer</l>
+                  <l xml:id="idm140721240917328">Af sin thrones Øster-Kant </l>
+                  <l xml:id="idm140721240916880">Schygg' og schy</l>
+                  <l xml:id="idm140721240916464">Gaar fra by</l>
+                  <l xml:id="idm140721240916048">Viger Dagens <hi rend="italics" xml:id="idm140721240915760">Commendant</hi>
+                  </l>
+                  <l xml:id="idm140721240914944">Saa svant og Sorgen hen</l>
+                  <l xml:id="idm140721240914528">Naar Jeg min hiertens ven </l>
+                  <l xml:id="idm140721240914096">Med øyne kunde see</l>
+                  <l xml:id="idm140721240913664">Da gich min vee</l>
+                  <l xml:id="idm140721240913248">Naar du og mig ansaae</l>
+                  <l xml:id="idm140721240912832">Strax ieg om hiertet laae</l>
+                  <l xml:id="idm140721240912400">Du som din egen Siel </l>
+                  <l xml:id="idm140721240911984">Mig unte vel.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721240911440"> 4 død og] <hi rend="bold" xml:id="idm140721240910624">A D F</hi>
+                  <hi rend="sup" xml:id="idm140721240909936">1</hi>
+                  <hi rend="bold" xml:id="idm140721240909312">var </hi>da <hi rend="bold" xml:id="idm140721240908624"> B E F</hi>
+                  <hi rend="sup" xml:id="idm140721240907936">1</hi> 6 <hi rend="italics" xml:id="idm140721240907312">Melancholisch} </hi>
+                  <hi rend="bold" xml:id="idm140721240906624"> A B</hi>
+                  <hi rend="sup" xml:id="idm140721240905936">8</hi>
+                  <hi rend="italics" xml:id="idm140721240905312">Melanchol- <lb xml:id="idm140721240904752"/>ske Hss. </hi>7 skøn] <hi rend="italics" xml:id="idm140721240904304">Hss. </hi>kiøn<hi rend="bold" xml:id="idm140721240903584">D</hi>Kiønt<hi rend="bold" xml:id="idm140721240902896">A</hi>11 Schygg'] Skygge<hi rend="bold" xml:id="idm140721240902208"> B</hi>
+                  <lb xml:id="idm140721240901552"/>Mørch F<hi rend="sup" xml:id="idm140721240901264">1</hi> 12 fra by] forbj<hi rend="bold" xml:id="idm140721240900608">D</hi>13 <hi rend="italics" xml:id="idm140721240899952">Commendant] Hss. Commandant </hi>A <lb xml:id="idm140721240899248"/>16]
+							Kunde med øyne see F<hi rend="sup" xml:id="idm140721240898912">2</hi> 18 og mig] mig og <hi rend="bold" xml:id="idm140721240898256">B<hi rend="sup" xml:id="idm140721240897728">1</hi> F<hi rend="sup" xml:id="idm140721240897104">1</hi>
+                  </hi>20-21 Du .. <lb xml:id="idm140721240896320"/>Mig] <hi rend="bold" xml:id="idm140721240896032">A D</hi>£ Mig .. Du
+							B F </note>
+               <pb n="92" xml:id="s92" facs="adl/kingo/kingo1/king1092"/>
+               <lg xml:id="idm140721240894096">
+                  <head xml:id="idm140721240893840">14.</head>
+                  <l xml:id="idm140721240893408">Men ach! hvor snart dend blege had</l>
+                  <l xml:id="idm140721240892976">Forgnistret lod sig see</l>
+                  <l xml:id="idm140721240892560">Os til stor hierte vee</l>
+                  <l xml:id="idm140721240892144"> Forblottede vi daglig sad</l>
+                  <l xml:id="idm140721240891712">Mod mangt et avinds stød</l>
+                  <l xml:id="idm140721240891264">Vor u-ven fra sig schiød</l>
+                  <l xml:id="idm140721240890816">Da dit blod</l>
+                  <l xml:id="idm140721240890400">Offte stoed</l>
+                  <l xml:id="idm140721240889984"> Isnet og forandret slet</l>
+                  <l xml:id="idm140721240889552">Men Jeg mig</l>
+                  <l xml:id="idm140721240889136">Endelig</l>
+                  <l xml:id="idm140721240888720">Ved mit haab dog giorde lett</l>
+                  <l xml:id="idm140721240888288">Blif sagde ieg. Kun ved</l>
+                  <l xml:id="idm140721240887872"> Blif uven slem og leed</l>
+                  <l xml:id="idm140721240887456">Brend flux af Afvinds Jld</l>
+                  <l xml:id="idm140721240887024">Blif aldrig mild</l>
+                  <l xml:id="idm140721240886608">Dog schal mit hierte staae</l>
+                  <l xml:id="idm140721240886176">Som hafsens Klippe graae</l>
+                  <l xml:id="idm140721240885744"> Bryd storm fald mur og Mast</l>
+                  <l xml:id="idm140721240885312">Jeg staar dog fast.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721240884768"> 2 Men] Menß <hi rend="bold" xml:id="idm140721240883952">F<hi rend="sup" xml:id="idm140721240883424">1</hi>
+                  </hi>dend] det<hi rend="bold" xml:id="idm140721240882640">D</hi>6 Mod] med <hi rend="bold" xml:id="idm140721240881952">B<hi rend="sup" xml:id="idm140721240881424">1</hi>
+                  </hi>For <hi rend="bold" xml:id="idm140721240880640">F<hi rend="sup" xml:id="idm140721240880112">1</hi>
+                  </hi>mangt] <lb xml:id="idm140721240879328"/>hver(t)<hi rend="bold" xml:id="idm140721240879040"> B</hi>
+                  <hi rend="sup" xml:id="idm140721240878384">a</hi> E avinds] <hi rend="italics" xml:id="idm140721240877728">Hss. </hi>avind ÅB<hi rend="sup" xml:id="idm140721240877008">1</hi> 8 dit] det E F* mit F<hi rend="sup" xml:id="idm140721240876352">1</hi> 11 Men]
+								<lb xml:id="idm140721240875696"/>menß<hi rend="bold" xml:id="idm140721240875408"> B</hi>
+                  <hi rend="sup" xml:id="idm140721240874752">1</hi> 11 mig] dig E 14 ved] <hi rend="bold" xml:id="idm140721240874096"> A B</hi>
+                  <hi rend="sup" xml:id="idm140721240873408">1</hi> E veed F<hi rend="sup" xml:id="idm140721240872752">2</hi> vred B* D F<hi rend="sup" xml:id="idm140721240872096">1</hi> 19 <lb xml:id="idm140721240871440"/>Klippe] Klipper D F<hi rend="sup" xml:id="idm140721240871152">2</hi>
+							20 fald] <hi rend="italics" xml:id="idm140721240870496">Hss. </hi>fra<hi rend="bold" xml:id="idm140721240869808">A</hi>og] fald
+							B </note>
+               <pb n="93" xml:id="s93" facs="adl/kingo/kingo1/king1093"/>
+               <lg xml:id="idm140721240867776">
+                  <head xml:id="idm140721240867520"> 15.</head>
+                  <l xml:id="idm140721240867104">Trotz der for! ieg dog bie vil</l>
+                  <l xml:id="idm140721240866672">Dend himmel stemte tid</l>
+                  <l xml:id="idm140721240866256">Med troschabhed og flid</l>
+                  <l xml:id="idm140721240865840">Det raadis dog her ofven til </l>
+                  <l xml:id="idm140721240865408">Hvad neden her paa Jor</l>
+                  <l xml:id="idm140721240864992">Gaar rigtig effter snoer</l>
+                  <l xml:id="idm140721240864560">Jeg ey meer</l>
+                  <l xml:id="idm140721240864144">Nu anseer</l>
+                  <l xml:id="idm140721240863728">Seyer verch og time glaß </l>
+                  <l xml:id="idm140721240863280">Gud best ved</l>
+                  <l xml:id="idm140721240862864">Tid og leed</l>
+                  <l xml:id="idm140721240862448">Paa vor Tarves Tanke-pas</l>
+                  <l xml:id="idm140721240862016">Blif himmel midler tid</l>
+                  <l xml:id="idm140721240861600">Alle steds god og blid </l>
+                  <l xml:id="idm140721240861184">Gif glæd' En gang for graad</l>
+                  <l xml:id="idm140721240860720">Gif lych' og raad</l>
+                  <l xml:id="idm140721240860304">Stref verden Kun imod</l>
+                  <l xml:id="idm140721240859888">Brend af dit hitzig blod</l>
+                  <l xml:id="idm140721240859456">
+                     <hi rend="italics" xml:id="idm140721240859328">Chrysillis </hi>elscher mig </l>
+                  <l xml:id="idm140721240858480">Dog hiertelig.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721240857936"> 4 troschabhed] <hi rend="bold" xml:id="idm140721240857136"> A B</hi>
+                  <hi rend="sup" xml:id="idm140721240856448">1</hi> Trofasthed<hi rend="bold" xml:id="idm140721240855792"> B</hi>
+                  <hi rend="sup" xml:id="idm140721240855136">2</hi>
+                  <hi rend="bold" xml:id="idm140721240854512">D E F</hi>
+                  <hi rend="sup" xml:id="idm140721240853824">1</hi> 6 neden] nedre <hi rend="bold" xml:id="idm140721240853168">B<hi rend="sup" xml:id="idm140721240852640">1</hi>
+                  </hi>12 <lb xml:id="idm140721240851840"/>leed] <hi rend="bold" xml:id="idm140721240851552">A D</hi>sted BF 13 vor Tarves
+							Tanke-pas] D F<hi rend="sup" xml:id="idm140721240850832">1</hi> vor tarffviß (Tøfvis <lb xml:id="idm140721240850144"/>
+                  <hi rend="bold" xml:id="idm140721240849888">B<hi rend="sup" xml:id="idm140721240849360">2</hi>) </hi>tanche paß<hi rend="bold" xml:id="idm140721240848528">
+								B </hi>vor tanchis tarfve paß<hi rend="bold" xml:id="idm140721240847776">A</hi>vort Livetz
+							Tanche pass <hi rend="bold" xml:id="idm140721240847072">F<hi rend="sup" xml:id="idm140721240846544">a <lb xml:id="idm140721240846000"/>
+                     </hi>
+                  </hi>15 Allesteds] Bliv altid <hi rend="bold" xml:id="idm140721240845440">F<hi rend="sup" xml:id="idm140721240844912">1</hi>
+                  </hi>god] <hi rend="bold" xml:id="idm140721240844128">A D</hi>mild BF 16 glæd']<hi rend="bold" xml:id="idm140721240843424"> B</hi>
+                  <hi rend="sup" xml:id="idm140721240842768">2</hi>
+                  <hi rend="bold" xml:id="idm140721240842144">D</hi>glæd <lb xml:id="idm140721240841456"/>
+                  <hi rend="bold" xml:id="idm140721240841200"> A B</hi>
+                  <hi rend="sup" xml:id="idm140721240840512">1</hi> fryd F<hi rend="sup" xml:id="idm140721240839856">1</hi> 17 lych'] <hi rend="bold" xml:id="idm140721240839200">B<hi rend="sup" xml:id="idm140721240838672">1</hi>
+                  </hi>
+                  <hi rend="italics" xml:id="idm140721240837920">ofl. </hi>lych<hi rend="bold" xml:id="idm140721240837200">A</hi>18 Stref]<hi rend="bold" xml:id="idm140721240836512">A</hi>Stræb<hi rend="bold" xml:id="idm140721240835824">D</hi>Stat B F <lb xml:id="idm140721240835136"/>19
+							hitzig] <hi rend="bold" xml:id="idm140721240834848">B<hi rend="sup" xml:id="idm140721240834320">2</hi> F<hi rend="sup" xml:id="idm140721240833696">1</hi>
+                  </hi>hitzige <hi rend="bold" xml:id="idm140721240832912">B<hi rend="sup" xml:id="idm140721240832384">1</hi>
+                  </hi>hidsig<hi rend="bold" xml:id="idm140721240831600">D</hi>hissigt F<hi rend="sup" xml:id="idm140721240830912">2</hi>
+								hetzig<hi rend="bold" xml:id="idm140721240830256">A</hi>21] B D F<hi rend="sup" xml:id="idm140721240829568">2 <lb xml:id="idm140721240829072"/>
+                  </hi>Bestandelig <hi rend="bold" xml:id="idm140721240828656">A F</hi>
+                  <hi rend="sup" xml:id="idm140721240828000">1</hi>
+               </note>
+               <pb n="94" xml:id="s94" facs="adl/kingo/kingo1/king1094"/>
+               <lg xml:id="idm140721240826080">
+                  <head xml:id="idm140721240825824">16.</head>
+                  <l xml:id="idm140721240825392">Alt det <hi rend="italics" xml:id="idm140721240825104">Chrysillis </hi>hører til</l>
+                  <l xml:id="idm140721240824256">Det alt er hamret ind</l>
+                  <l xml:id="idm140721240823840">Vdj mit hiert' og sind</l>
+                  <l xml:id="idm140721240823424"> Jeg det og trolig elsche vil</l>
+                  <l xml:id="idm140721240822992">Til baael og Jlde brand</l>
+                  <l xml:id="idm140721240822576">Op slicher Søe og Strand</l>
+                  <l xml:id="idm140721240822128">Lyst og Nød</l>
+                  <l xml:id="idm140721240821696">Lif og Død</l>
+                  <l xml:id="idm140721240821280"> Tager Jeg med dig i haand</l>
+                  <l xml:id="idm140721240820848">Ja ieg staar</l>
+                  <l xml:id="idm140721240820432">Hærdet haar</l>
+                  <l xml:id="idm140721240820000">Før schal brøste lifsens baand</l>
+                  <l xml:id="idm140721240819536">Siung der for nu min Sang</l>
+                  <l xml:id="idm140721240819104"> Siung med mig lychens gang</l>
+                  <l xml:id="idm140721240818672">O du mit Verdens Guld</l>
+                  <l xml:id="idm140721240818256">Vær Morschab fuld</l>
+                  <l xml:id="idm140721240817824">Leg dig min digter pen</l>
+                  <l xml:id="idm140721240817408">Sof vel min hiertens ven</l>
+                  <l xml:id="idm140721240816976"> Her med far vel far vel</l>
+                  <l xml:id="idm140721240816544">Min søde Siel.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721240815984"> 3 alt er] er alt <hi rend="bold" xml:id="idm140721240815184">B<hi rend="sup" xml:id="idm140721240814656">2</hi>
+                  </hi>F<hi rend="sup" xml:id="idm140721240813904">1</hi> 4 hiert'] <hi rend="bold" xml:id="idm140721240813248">B<hi rend="sup" xml:id="idm140721240812720">1</hi>
+                  </hi>
+                  <hi rend="italics" xml:id="idm140721240811968">ofl. </hi>hiert<hi rend="bold" xml:id="idm140721240811248">A</hi>
+                  <hi rend="italics" xml:id="idm140721240810592">ofl. </hi>5 det] dig <hi rend="bold" xml:id="idm140721240809872">B </hi>og] <lb xml:id="idm140721240809184"/>
+                  <hi rend="bold" xml:id="idm140721240808928">AF<hi rend="sup" xml:id="idm140721240808352">1</hi>
+                  </hi>ret <hi rend="bold" xml:id="idm140721240807568">BDF<hi rend="sup" xml:id="idm140721240806992">2</hi>
+                  </hi>n Ja]<hi rend="bold" xml:id="idm140721240806208">A</hi>Og D F<hi rend="sup" xml:id="idm140721240805520">1</hi> thj<hi rend="bold" xml:id="idm140721240804864"> B </hi>12] <hi rend="bold" xml:id="idm140721240804176"> A B</hi>
+                  <hi rend="sup" xml:id="idm140721240803488">1</hi> F<hi rend="sup" xml:id="idm140721240802864">1</hi> Hærde haar D <lb xml:id="idm140721240802192"/>Hvor dett
+							gaar B* <hi rend="italics" xml:id="idm140721240801888">(i Margin; i Teksten </hi>her det haard) F<hi rend="sup" xml:id="idm140721240801168">2</hi> 13 brøste]<hi rend="bold" xml:id="idm140721240800496"> A </hi>
+                  <lb xml:id="idm140721240799840"/>bryste <hi rend="bold" xml:id="idm140721240799552"> B</hi>
+                  <hi rend="sup" xml:id="idm140721240798896">1</hi> briste <hi rend="bold" xml:id="idm140721240798240"> B</hi>
+                  <hi rend="sup" xml:id="idm140721240797584">2</hi> D F 14 nu min] <hi rend="italics" xml:id="idm140721240796928">Hss.
+								</hi>denne<hi rend="bold" xml:id="idm140721240796208">A</hi>16 Verdens] verd- <lb xml:id="idm140721240795520"/>sens <hi rend="bold" xml:id="idm140721240795232"> B</hi>
+                  <hi rend="sup" xml:id="idm140721240794576">2</hi> 17 Morschab fuld] <hi rend="bold" xml:id="idm140721240793920">
+                     <hi rend="bold" xml:id="idm140721240793520"> A B</hi>D</hi> troskab-fuld F 21 Min] 6 B </note>
+               <pb n="95" xml:id="s95" facs="adl/kingo/kingo1/king1095"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

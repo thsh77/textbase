@@ -1,0 +1,616 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Valhalla-legen med baggessen</title>
+            <author>Grundtvig, N. F. S.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139670063464832">
+                     <name xml:id="idm139670063464576">
+                        <surname xml:id="idm139670063464448">Grundtvig</surname>, <forename xml:id="idm139670063463984">N. F. S.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139670063463696">N. F. S. Grundtvigs udvalgte Skrifter</title>
+                  <pubPlace xml:id="idm139670063463392">København</pubPlace>
+                  <publisher xml:id="idm139670063462928">Gyldendalske Boghandel</publisher>
+                  <date xml:id="idm139670063462592">1904-1909</date>
+                  <biblScope>581-601</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid133611" decls="#biblid133611">
+            <front xml:id="idm139670053902752">
+               <titlePage xml:id="idm139670053902496">
+                  <titlePart type="main" xml:id="idm139670053902240">VALHALLA-LEGEN<lb xml:id="idm139670053901680"/>MED BAGGESSEN.</titlePart>
+               </titlePage>
+               <div xml:id="idm139670053901136">
+                  <p xml:id="idm139670053900880">KORT før Grundtvig skrev ovenstaaende Digt, førtes der en Fejde
+            mellem ham og Baggesen, som denne gav det smukke Navn
+            »Vllhalla-Legen«. En Oversigt over Sagens Akter findes i <hi rend="italics" xml:id="idm139670053900208">Poetiske Skrifter</hi>
+            IV. S. 138-150. Grundtvig var Ophavsmand til Striden, idet han i
+            fem Numre af <hi rend="italics" xml:id="idm139670053899408"><!--<emph>-->Nyeste Skilderie for
+            November<!--</emph>--></hi> 1815 skrev et langt satirisk Rimbrev
+            kaldet »<hi rend="bold" xml:id="idm139670053898208">Rimelige Strøe-Tanker</hi> ved <hi rend="italics" xml:id="idm139670053897488"><!--<emph>-->Kalundborgs<!--</emph>--></hi> i <hi rend="italics" xml:id="idm139670053896448"><!--<emph>-->Livet vel meriterede Stads-Satyrikus
+            Jens Baggesens Grav« og heri indflettede<!--</emph>--></hi> »<hi rend="bold" xml:id="idm139670053895280">Gaade-Giætningen</hi> (<hi rend="italics" xml:id="idm139670053894528"><!--<emph>-->til Baggesen<!--</emph>--></hi>)«,
+            hvori han søgte at besvare Baggesens bekendte Prisopgave. Baggesen
+            var i Begyndelsen stærkt optaget af og nærmest velvillig stemt mod
+            denne lange Rimtale i bred sællandsk Stil, hvis Forfatter
+            foreløbig var ham ubekendt. Han gav denne Stemning til Kende i et
+            <hi rend="italics" xml:id="idm139670053892864"><!--<emph>-->Parenthetisk
+            Interimssvar<!--</emph>--></hi>, som han offentliggjorde den
+            25. November, men blev ved de sidste Stykker med Grundtvigs
+            Underskrift bragt saa aldeles ud af Ligevægt, at han i sit Svar i
+            Skilderiet for den 5. December 1815, kaldet: <hi rend="italics" xml:id="idm139670053891344"><!--<emph>-->Tanke-Samleren<!--</emph>--></hi> i
+            <hi rend="italics" xml:id="idm139670053890336"><!--<emph>-->Hjertet til Strøe-Tænkeren i
+            Munden<!--</emph>--></hi>, søger at brændemærke sin Modstander som
+            en Mørkets Aand, der ved styg Smiger vil bringe Baggesen over paa
+            sit Parti. Han kaldte Grundtvig en Hykler med Hovmodsstemplet paa
+            Panden og tilslynger ham Ordene: Vig bag mig Satan!</p>
+                  <p xml:id="idm139670053888544">Herpaa svarede Grundtvig med følgende Artikel i <hi rend="italics" xml:id="idm139670053888176"><!--<emph>-->Nyeste<!--</emph>--></hi>
+							              <hi rend="italics" xml:id="idm139670053887168"><!--<emph>-->Skilderie<!--</emph>--></hi> for 9. December 1815:</p>
+               </div>
+            </front>
+            <body xml:id="idm139670053885776">
+               <div xml:id="idm139670053885520">
+                  <head xml:id="idm139670053885264">Om Baggesen.</head>
+                  <p xml:id="idm139670053884848">
+                     <hi rend="bold" xml:id="idm139670053884720">M</hi>ed nogen Forundring, med dyb Bedrøvelse, men end dybere Rolighed, læsde jeg Baggesens Svar til mig i Skilderiet No. 97. At <hi rend="italics" xml:id="idm139670053883792"><!--<emph>-->svare<!--</emph>--></hi> kan naturligviis ei falde mig ind, da en Baggesen dog umulig for Alvor kan troe, hvad han her, i en mig aldeles ubegribelig Stemning, har sagt, og da hans hardtad rasende Beskyldninger maae i enhver Retsindigs Øie afbevise sig selv. Hvad jeg derimod vil og, som jeg troer, bør gjøre, er at aflægge
+<pb n="582" xml:id="s582" facs="adl/grundtvig/grundtvig03/grun3582"/>
+Velsindede Regnskab for min Adfærd i denne Sag, der vel ikke kan være <hi rend="italics" xml:id="idm139670053880752"><!--<emph>-->dem<!--</emph>--></hi> mistænkelig, men dog fremmed. I fire Aar har jeg været Gjenstanden, hardtad for alle deres Haan, der offentlig omtalde mig og min Færd, uden dog at gribe den Svøbe, Man alt i tidligere Dage havde seet, jeg kunde svinge, i det mindste bedre end de, der vilde dræbe mig med den, og jeg begriber da visselig ikke, hvad der skulde bevæge mig til at prøve den paa en Digter, hvis Mesterskab heri jeg aldrig har betvivlet eller attraaet, og hvis Smaasnert i Forbigaaende jeg sagtens kunde taale. Derimod maatte det være mit Ønske at see denne store Aand vandre en bedre og værdigere Bane, et Ønske, jeg frimodig udsagde allerede 1812 i mit Korte Begreb af Verdens Krønike, og uden storagtig at mene, jeg kunde omvende ham, maatte det dog være mit inderlige Ønske, at gjøre ærlig det Lidet, der stod i min Magt. Jeg har derfor adskillige Gange tænkt paa, i et Digt at kundgjøre min Beskuelse af ham og hans Bane, og nu faldt det mig ind, at det helst burde skee i en skjemtende Tone, mod hvilken hans Øre snarest oplod sig, og i hvilken jeg tillige kunde revse mangen Dagens Daarskab, der egentlig kun var hans Feil i Carricatur; og see, <hi rend="italics" xml:id="idm139670053877872"><!--<emph>-->derfor<!--</emph>--></hi> skrev jeg mine rimelige Strøetanker, Noget, som alle mine Kyndinge veed, og som vel enhver opmærksom Læser selv vil kunne spore. At Baggesen kunde faae i Sinde at tage mig min alvorlige Skjemt ilde op, det forudsaae jeg, og var belavet paa at bære, hvad han i saa Fald vilde overvælde mig med; men at han for Alvor kunde troe, jeg havde talt med et fiendtligt Sind, det ansaae jeg, og det anseer jeg endnu for umuligt. Imidlertid hørde jeg tale om hans Gaade og mærkede af Noget, Man iæsde for mig, at den gjorde sig særdeles kostbar; det faldt mig ind, at Gaadeordet maatte være <hi rend="italics" xml:id="idm139670053876192"><!--<emph>-->Individualitet<!--</emph>--></hi>, som det eneste Ord, der, som Udtryk for <hi rend="italics" xml:id="idm139670053875120"><!--<emph>-->Ordet og Sandheden<!--</emph>--></hi>, kunde bruges om alt <hi rend="italics" xml:id="idm139670053874112"><!--<emph>-->Existerende<!--</emph>--></hi>; jeg læsde Gaaden igjennem, fandt en Deel, jeg ikke forstod og ei engang gad grunde paa, men fandt min Formodning noksom stadfæstet, og midt i et forfængeligt Spil saae jeg dybe genialske Glimt. Jeg tænkde, det kunde maaskee gjøre et godt Indtryk paa Baggesen, hvis han saae, at en Dagens Davus<hi rend="sup" xml:id="idm139670053872448">1</hi> forstod, hvad han meende, var skjult for Oediper, og at det var den samme Davus, som skjemtede; og at det <hi rend="italics" xml:id="idm139670053871696"><!--<emph>-->burde<!--</emph>--></hi> gjort et godt Indtryk, er en Overbeviisning, som ingen Erfaring om mit
+<note anchored="true" xml:id="idm139670053870592">
+                        <hi rend="sup" xml:id="idm139670053870224">1</hi> I en af Terents' Komedier siger Trællen Davus: »Jeg er Davus, ikke Ødipus!« <!--*dolgoeO*-->dvs. jeg er kun et almindeligt Menneske og ikke en, der, som Ødipus, kan gætte Sfinksens Gaade.</note>
+                     <pb n="583" xml:id="s583" facs="adl/grundtvig/grundtvig03/grun3583"/>
+Haabs Skuffelse skal kunne rokke. Baggesen vil, Man skal troe, at jeg af en Fiende fik Lyst til at være hans Ven, fordi han roesde min Skjemt; men det kan dog umulig være hans Alvor; thi vilde han end miskjende den venlige Aand, som jeg tør sige, svæver selv over de stærkeste og alvorligste Bebreidelser i Skjemtetalen, saa maae han jo dog have seet, at i Begyndelsen af Gaade-Gjætningen, der staaer ved Siden af hans Parenthetiske Svar, taler den samme venlige Aand, hvis Røst han sikkert har fornummet i sit Hjerte. Hvad nu overalt den Roes angaaer, som han mener, jeg skal have bygget sataniske Anslag paa, da maae han dog rigtig tiltroe mig en god Portion Dumhed, dersom han mener, at jeg ikke saae <hi rend="italics" xml:id="idm139670053866816"><!--<emph>-->Hanken<!--</emph>--></hi> ved <hi rend="italics" xml:id="idm139670053865776"><!--<emph>-->Kappen<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139670053864736"><!--<emph>-->Halen<!--</emph>--></hi> ved <hi rend="italics" xml:id="idm139670053863696"><!--<emph>-->Jesper<!--</emph>--></hi>, ligesom han dog vel maae see, at jeg har spillet mit Kort som en Dumrian tilgavns, hvis det var Hans Mikkelsens Krands, jeg beilede til, og et Blad af den er jo Alt, hvad Baggesen, med Adskilligt bag Øret, rakde mig. At imidlertid Baggesens Parenthes afbrød mine Strøtanker og gav Anledning til mit Slutningsord i Gaade-Gjætningen, det er ganske rigtigt; men det sagde jeg jo selv, og det maatte vel være et usvigeligt Vidnesbyrd om, at det var ingen <hi rend="italics" xml:id="idm139670053861728"><!--<emph>-->Skjelm<!--</emph>--></hi>, jeg havde bag Øret. Mener Baggesen virkelig, at jeg <hi rend="italics" xml:id="idm139670053860592"><!--<emph>-->for min Person<!--</emph>--></hi> bryder mig synderlig om, enten han forener sin Stemme med Verdens eller min, da kjender han Mennesket, mig og min Bane langt slettere, end jeg havde troet; thi naar Man har hele Verden imod sig, vil selv det største Genie, meer eller mindre, ei sige stort, Man bliver ligefuldt beet, hvis Man ikke har Gud med sig, og har Man det, staaer Man sig nok; ei heller pleier det at være Maaden, hvorpaa Man vil tilsmigre sig en Mands Gunst, at man siger ham hans Feil lige i Øinene, ja, for hele Verdens Øine, og det har jeg jo gjort i det samme Stykke, der skal indeholde den nederdrægtige, sataniske Smiger. At jeg derimod inderlig ønskede at vinde Baggesen for, hvad jeg veed, er <hi rend="italics" xml:id="idm139670053858544"><!--<emph>-->Sandhed<!--</emph>--></hi>, det har jeg jo for længe siden offentlig sagt og fragaaer det aldrig; men visselig, det er for hans egen Skyld og for de Manges, der, efter min Beskuelse, have deres Centralpunkt i hans Aand. At jeg, som Menneske, har desuden det særdeles Ønske, at staae i venligt Forhold til en Aand, jeg elsker, og, den være min nu nok saa overlegen, er mig, efter min Følelse, nærmere beslægtet end de Fleste, jeg kjender, det er dog vel ingen Brøde, og Udsagnet af dette Ønske, som først burde finde Sted, <hi rend="italics" xml:id="idm139670053856880"><!--<emph>-->efter at<!--</emph>--></hi> jeg frimodig havde bedømt hans Færd, og <hi rend="italics" xml:id="idm139670053855776"><!--<emph>-->efter at<!--</emph>--></hi> han havde erklæret, at han ei ansaae mig for et Dummerhoved, dette Udsagn
+<pb n="584" xml:id="s584" facs="adl/grundtvig/grundtvig03/grun3584"/>
+af en Følelse, jeg ei kunde misbillige, er, hvad Baggesen nu vil forvandle deels til et satanisk Hyklerie, deels til et drengeagtigt Kamerad-Spil. Fordi jeg sagde, hvad Sandhed er, at jeg aldrig har dømt Mennesket Baggesen haardt, fordi han i en saa forvirret Tid fulgde den saare skjæve Retning, hvortil jeg i yngre Dage følde en mægtig Lyst i min egen Barm, derfor skal jeg have forandret min Dom <hi rend="italics" xml:id="idm139670053852736"><!--<emph>-->over Skjævheden<!--</emph>--></hi>; fordi jeg sagde, det glædede mig, at Baggesen, for hvis Skyld jeg skjemtede, havde fundet andet end<hi rend="sup" xml:id="idm139670053851456">1</hi> i Skjemten, derfor skal jeg have løftet mig paa Tæerne, derfor skal jeg have kaldt Baggesen englereen, naar han kun vilde rose mig.</p>
+                  <p xml:id="idm139670053850416">Dog, Man bør ikke spilde Ord paa at besvare saa latterlige Ting, der kun blive høistalvorlige ved den Betragtning, hvor saare en Aand, som Baggesens, maae forvirre og omtaage sig for at finde dem rimelige. Jeg vil da kun endnu bemærke, at vel har jeg brændt det Eftermæle, hvormed jeg havde agtet at slutte mine Strøetanker, af Grunde, som staae paa Prent at læse; men ønsker Baggesen det, skal jeg see dog at restituere det saavidt, at han kan see, jeg frygter ikke for en Dyst, naar det skal saa være; men slutte vil jeg heller med den Forsikkring, at mine Tanker om Baggesen ere i Dag ligesaa venlige, som da jeg sluttede Gaade-Gjætningen, og at mit Haab om ham endnu er omtrent det samme, skjøndt hans Roes i Tankesamleren dog vist ikke skal fremgjøgle indtagende Skikkelser for mig, eller indbilde mig, hvad jeg, Gud skee Lov! aldrig har ønsket, at Baggesen skulde tage mit Partie <hi rend="italics" xml:id="idm139670053848320"><!--<emph>-->paa Sandheds Bekostning<!--</emph>--></hi>.</p>
+                  <p xml:id="idm139670053847184">Langtfra derfor, som Baggesen vil indbilde sig, at <hi rend="italics" xml:id="idm139670053846864"><!--<emph>-->skjælve<!--</emph>--></hi>, sidder jeg ganske rolig og beregner, at det vilde glæde mig dobbelt, hvis Baggesen nu engang blev min Ven <hi rend="italics" xml:id="idm139670053845616"><!--<emph>-->for Sandheds Skyld<!--</emph>--></hi>; thi da vilde Verden, netop for <hi rend="italics" xml:id="idm139670053844560"><!--<emph>-->Tankesamlerens<!--</emph>--></hi> Skyld, have dobbelt Uleilighed med at samle sine Tanker. Rolig kan jeg ogsaa sagtens være ved de Smæk, Baggesen giver Skyggen af sin egen syge Phantasie, thi de ramme jo slet ikke mig; og om Verden vilde sige, de slog mig ihjel, det loe jeg kun ad; min Characteer har jeg, med ikke saa faa og, efter Verdens Tanker, [saa] store Opoffrelser lagt for Dagen, at, fremforalt naar Verden sigter mig for <hi rend="italics" xml:id="idm139670053842768"><!--<emph>-->Hyklerie<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139670053841760"><!--<emph>-->Smiger<!--</emph>--></hi>, er jeg ordenlig nødt til at lee den lige i Øinene og svare: nu, min Ven! vær dog ikke saa spydig! tag dig heller selv om Næsen! Har jeg smigret for dig, da er det saamænd skeet af Vanvare, det kan du troe,
+<note anchored="true" xml:id="idm139670053840272">
+                        <hi rend="sup" xml:id="idm139670053839904">1</hi> Her findes aaben Plads for et Ord (Skidt?) i Grundteksten.</note>
+							              <pb n="585" xml:id="s585" facs="adl/grundtvig/grundtvig03/grun3585"/>
+og har jeg hyklet, da har jeg min Troe en god Slump alskens gode Ting tilgode hos dig; thi du pleier jo dog at betale slige Føielighedet ganske anstændig, og du vil dog vel ikke bilde dig ind, at jeg skal tage dine Spottegloser og Næsestyvere &amp;c., &amp;c. &amp;c., for god Betaling. See, paa den Fod staaer jeg med Verden, og derfor kan jeg sagtens være rolig, naar jeg forresten har en god Samvittighed, og en bedre end den, jeg har i min Handel med Baggesen, har saamænd intet Moers Barn. Trods om Baggesen omvendt tør sig det Samme om sin! Det er den eneste Trods imod ham</p>
+                  <trailer xml:id="idm139670053836240">af<lb xml:id="idm139670053835984"/>
+                     <hi rend="bold" xml:id="idm139670053835728">N. F. S. Grundtvig.</hi>
+                  </trailer>
+               </div>
+               <div xml:id="idm139670053834784">
+                  <p xml:id="idm139670053834528">
+Selv efter at have læst dette rolige Stykke lykkedes det ikke Baggesen at komme i Ligevægt efter sin sygelige Ophidselse.</p>
+                  <p xml:id="idm139670053833872">Han skrev i <hi rend="italics" xml:id="idm139670053833584"><!--<emph>-->Skilderiet<!--</emph>--></hi> for 19. <hi rend="italics" xml:id="idm139670053832544"><!--<emph>-->December<!--</emph>--></hi> en <hi rend="italics" xml:id="idm139670053831504"><!--<emph>-->Opfordring til Omvenderen, som vender om<!--</emph>--></hi>, hvori han sammenligner Grundtvig med Simon Troldmand og giver ham Valget mellem sin Medlidenhed og Foragt.</p>
+                  <p xml:id="idm139670053830176">
+Herpaa svarede Grundtvig med nedenstaaende Stykke i <hi rend="italics" xml:id="idm139670053829856"><!--<emph>-->Skilderiet<!--</emph>--></hi> for 26. <hi rend="italics" xml:id="idm139670053828848"><!--<emph>-->December<!--</emph>--></hi> 1815:</p>
+                  <div xml:id="idm139670053827680">
+                     <head xml:id="idm139670053827424">Om Baggesen og om mig.</head>
+                     <p xml:id="idm139670053827008">Havde jeg tvivlet om, at Baggesens Aand er Udtrykket og Hovedet for en saare udbredt Aand i Danmark, da maatte de sidste Dage dog have givet mig Troen i Hænderne; thi hvad der vederfores mig i de forgangne Aar hardtad af alle dem, der omtalde mig, og af saa saare mange, der tav, det vederfares mig nu af Baggesen, kun i høiere Grad og fuldere Maade, fordi Aanden, der kun svagt besjæler de Andre, er hos ham selv hjemme. Naar jeg saaledes betragter Sagen, kan det ikke længere forundre mig, at jeg maae tale, i hvilken Tone jeg vil, og ærlig i dem alle, saa miskjendes dog mit Hjerte, saa mistydes dog mit Ord; taler jeg i Harpens dybere christne, kjærlige Toner, da siger Man, jeg sværmer og hykler, og Baggesen siger, jeg er en Trold og en Djævel; taler jeg Sandheds kraftige, rystende Sprog, da siger Man, jeg er intolerant, ukjærlig og hovmodig,
+<pb n="586" xml:id="s586" facs="adl/grundtvig/grundtvig03/grun3586"/>
+og Baggesen siger det Samme, kun i stærkere, utryksfuldere Ord; griber jeg Skjemtetonen og stiller Daarskab og Forkeerthed i sit fortjente latterlige Lys, da siger Man, enten at jeg sluddrer, eller at jeg udspyer Gift og Galde, og Baggesen siger begge Dele. Hvorledes skal jeg nu tale til denne Slægt, og som for Øieblikket just er Spørgsmaalet: til Baggesen? Jeg skammer mig ikke ved at bekjende: <hi rend="italics" xml:id="idm139670053823888"><!--<emph>-->det<!--</emph>--></hi> er mig en Gaade, som jeg ikke kan løse og altsaa maae lade løse sig selv. Jeg har i den sidste Tid prøvet at tale i den ægte, olddanske, trohjertige Tone, og jeg haabede, deels at den skulde finde Gjenlyd i hvert Hjerte, hvor der endnu var Levning af Dannished, og at den dog skulde overbevise de Bedre om, hvad min Vandel og min hele Færd forgjæves har prædiket, at jeg hverken er en Hykler eller en Sværmer eller en Pesthuuslem; jeg haabede det, fordi jeg meende, ethvert alvorligt Menneske vidste, hvad der baade er umiddelbar vist og stadfæstes af alle Tiders Historie, at Hykleren <hi rend="italics" xml:id="idm139670053822160"><!--<emph>-->kan ikke<!--</emph>--></hi>, Sværmeren <hi rend="italics" xml:id="idm139670053821104"><!--<emph>-->vil ikke<!--</emph>--></hi>, og den Vanvittige <hi rend="italics" xml:id="idm139670053820096"><!--<emph>-->forstaaer ikke<!--</emph>--></hi> at tale let og frit i denne jævne trohjertige Stiil. Aldeles har vist dette Haab ikke glippet, men Baggesens sidste Tiltale har dog gjort mig det ret klart, at endnu er Timen ingenlunde kommet, da Man vil kjende mig, lade mine Hensigter og min Færd vederfares Ret; thi selv denne Tone gjør Baggesen sig Umage for at mistænke, og da han dog føler, det ikke vel gaaer an, vrager og haaner han den som Vrævl og Kjærlingepræk, ja, laster den som gudsbespottelig, og erklærer høit, at jeg kun har to Ting at vælge imellem, at ansees af ham enten for en uvittig Forfører eller en vanvittig forført Sværmer. Hvor er nu den Tone i Tungemaalet, hvor er de Udtryk for Tanker og Følelser, som jeg end kan bruge, jeg vil ikke sige, for at bevæge Baggesen til en sandere og retfærdigere Dom, men selv kun for at ende hans Uvished? Mig synes, ingensteds, og der er da intet andet Raad, end at jeg maae lade ham, og alle dem, der vitterlig og uvitterlig see med hans Øine, høre med hans Øren og skrive med hans Fingre, blive i Uvisheden, saalænge til de vil oplade Øine og Øren for Sandhed; ja, jeg fristes end ikke længer til at oplyse dem, da jeg seer, de har saa fast bestemt sig for <hi rend="italics" xml:id="idm139670053817120"><!--<emph>-->Eet af To<!--</emph>--></hi>, der komme mig her ud paa Eet.</p>
+                     <p xml:id="idm139670053815936">Kan og vil Baggesen og de Andre troe, at Man af Hovmod og Hyklerie kan drives til at kaare den foragtede, tornefulde Bane, jeg har kaaret, styrkes af dem til at vandre den saa urokkelig og frimodig, som jeg har vandret den, til at staae og svare saa rolig, naar man tilsidst manes som en Djævel, da troe Man
+<pb n="587" xml:id="s587" facs="adl/grundtvig/grundtvig03/grun3587"/>
+det, og vil Man ret være vis i sin Sag, da prøve Man det, og naar Man har udholdt Prøven, da lære Man Verden den Konst, som hidindtil har været Sandheds trofaste Vidner forbeholden, og som jeg endnu tør troe, Gud hverken kan eller vil lade andre lære!</p>
+                     <p xml:id="idm139670053813168">Kan og vil Baggesen og de Andre troe, at jeg hadede ham, der næsten ikke havde nævnet mig og aldrig angrebet min Færd, fremfor mine bittreste Modstandere og Anklagere, og greeb Skjemtetonen for at stille ham i saa latterligt og forhadt et Lys, som muligt, da faaer Man troe det; men jeg vil dog minde om, at Man troer en <hi rend="italics" xml:id="idm139670053812240"><!--<emph>-->Umulighed<!--</emph>--></hi>, jeg vil minde om, hvad jo dog Baggesen maae see, at der i det Hele ikke er Spor af Had og Foragt mod ham, men meget mere villig Erkjendelse af hans Fortrin, og heeligjennem det venlige Haab, at han vil beskjæmme sine Fjender og glæde Sandheds Venner ved at kaste den Trøie, Slagene, som han selv siger, ene rammede, og spille sit <hi rend="italics" xml:id="idm139670053810512"><!--<emph>-->Frikort<!--</emph>--></hi> ud, netop det samme Haab, hvis Spire laae i det Ønske, jeg for tre Aar siden udtalde, tilligemed Daddelen, i de klareste, alvorligste Toner. Jeg vil endelig sige til <hi rend="italics" xml:id="idm139670053809152"><!--<emph>-->Christne<!--</emph>--></hi>: var det min Hensigt at gjøre Baggesen foragtelig, at gjøre andet hos ham latterligt, end hvad en Christen i Alvorstale maae kalde syndigt, og som jeg ønskede, han selv vilde foragte og forkaste, <hi rend="italics" xml:id="idm139670053807728"><!--<emph>-->da gjøre Gud mig foragtelig<!--</emph>--></hi>! Kan de saa endnu troe, at den Mand, der har viist, at han slog sin Liid til Gud, kan fremføre en saa gruelig Gudsbespottelse, som dette vilde være, naar hiin Erklæring ikke var en for Guds Øine prøvet Sandhed, nu, saa faaer de troe det! jeg har da ogsaa i dette Stykke en frelst Samvittighed og oppebier rolig Timen, der skal føre til Lyset, hvad som er skjult i Mørket, og aabenbare Hjerternes Raad.</p>
+                     <p xml:id="idm139670053805744">Baggesen fordrer mig til Regnskab for det Lære-Embede, jeg i Dannemark har ført, han lægger Haanden paa Bibelen og erklærer sig for min Dommer. Det samme gjorde Professor Ørsted for hardtad to Aar siden, og sigtede mig ligesom Baggesen nu, erklærede det for uafgjort, om jeg var en vanvittig Sværmer eller en uvittig Forfører, men for afgjort, at jeg i al Fald havde gruelig forført og forvildet Folket. Baggesen synes at have, vel ikke synderlig bedre Tanker om mig, men dog et bedre Sindelag mod mig, og derfor vil jeg minde ham om, at ligesaa pligtig som jeg er til at gjøre Regnskab for min Tale, ligesaa pligtig er den, der vil være min Dommer, til at vise, han <hi rend="italics" xml:id="idm139670053804784"><!--<emph>-->kjender<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139670053803776"><!--<emph>-->forstaaer<!--</emph>--></hi> den, og dømmer Alt efter den eneste Lovbog,
+<pb n="588" xml:id="s588" facs="adl/grundtvig/grundtvig03/grun3588"/>
+hvis Myndighed i aandelige Ting en Christen kan og maae erkjende: <hi rend="italics" xml:id="idm139670053801328"><!--<emph>-->Bibelen<!--</emph>--></hi>. Finder da Baggesen ved en redelig Undersøgelse, at jeg har gaaet paa Rævekløer, da afsløre han mig! finder han, at jeg foer frem som en Pog eller Galning, da foragte han mig, og spilde ei sin Tid og sine Ord paa at bekjæmpe en Tale, der jo maae falde af sig selv! men finder han, at min Færd var aaben og ærlig, at jeg har skrevet med Betænksomhed og med dyb Ærbødighed for den Bog, en Christen maae lade dømme alle sine Tanker og Følelser, da skal han, selv hvor han er uenig med mig, behandle mig med den Agtelse, den ene christelige Mand og Skribent skylder den anden, og vil han ikke det, eller vil han, efter et flygtigt Bekiendskab rask fælde Dom over, hvad jeg brugde <hi rend="italics" xml:id="idm139670053798800"><!--<emph>-->fem Aars<!--</emph>--></hi> Dage og Nætter til at prøve og udarbeide, da maae kan ikke vente, at jeg vil spilde Tid og Flid paa at gientage, hvad jeg har sagt, og hvad der ligger aabent for hvert opladt Øie. Det er sandt, <hi rend="italics" xml:id="idm139670053797376"><!--<emph>-->hidindtil<!--</emph>--></hi> har jeg gjort alvorligt Regnskab, uagtet det fordredes af Mænd, der kun opfordrede og udfordrede mig med Skjældsord og Forhaanelser; men det gjør jeg ikke mere; thi bliver Man ikke ved at udskjælde og forhaane mig isteden for at prøve og drøfte den Lærdom, jeg fører, som om Verdens Nød var afhjulpet, naar blot jeg blev anseet for en Dosmer og Hykler og Pesthuuslem, som om Man ikke trygt kunde overlade Gud Dommen over mit Hjerte og mine Hensigter, Efterslægten Vurderingen af min Aand og mine Kundskaber, og holde sig til, hvad der af mig ene kan have Indflydelse paa Folket: <hi rend="italics" xml:id="idm139670053795632"><!--<emph>-->mit offenlige Ord<!--</emph>--></hi>. Ingen alvorlig Mand kan dog nægte, at vor Tid er syg, ja, dødelig syg, og naar jeg nu forkynder en Lægedom, og beraaber mig ikke paa min Indsigt og Konst, som en Markskriger, men paa et offenligt Guds Ord, som skal kundgjøre, paa de forrige Tiders Historie, som skal stadfæste, paa hvert sandhedskjærligt Menneskes indvortes Erfaring, som skal bevidne dens underfulde Kræfter, da mener jeg, det sømmede sig Alvorsmænd rolig og sindig at prøve og erfare, om de Ting have sig saaledes, og da med Kraft og Forstand, med Inderlighed og Frimodighed, Ting, Gud aldrig lader Sandheds Vidner fattes, opløfte Røsten <hi rend="italics" xml:id="idm139670053793952"><!--<emph>-->for<!--</emph>--></hi> eller <hi rend="italics" xml:id="idm139670053792944"><!--<emph>-->imod<!--</emph>--></hi> den Lægedom, jeg forkynder; overdriver jeg, da lad dem holde Maade! snubler jeg, da lad dem staae fast! mangler jeg Indsigt og Lærdom, da lad dem vise og bruge deres i Sandheds Tjeneste til Folkets Frelse! Hvi slumre, hvi tie de Mænd, der veed det bedre, kan gjøre det bedre end jeg? er det en Roes for Christne at hede fredelige og sagtmodige, naar den
+<pb n="589" xml:id="s589" facs="adl/grundtvig/grundtvig03/grun3589"/>
+skal kjøbes ved oden Kamp at see Christendom uddøe, Folket nedsynke i Vantroe og Uteerlighed? er det en Maade at affærdige den Mand paa, der, trods alt det Verdsliges Tillokkelse og Trudsel, løfter Røsten frimodig, at sige, han hykler, eller er hovmodig, eller elsker Strid? Nu vel, hvis Gud det tillader, skal jeg dog lære de Bedre, hvor saare de tage Feil; de skal lære, at Strid er ikke min Lyst, undtagen for saavidt det er mit Kalds og Embeds Lov; jeg skal tie, til de oplade Øinene og see, at jeg ikke streed uden høieste Nødvendighed, og at mine Vaaben vare ikke kiødelige, at jeg læmpede mig og skaanede overalt, saavidt det med frelst Samvittighed var mig muligt; de skal see, at var det Guds Villie, da vilde jeg gjerne henleve min Tid langt borte fra den store Kamp (e) plads, dyrke min Gud og forkynde Hans Ord og Hans Gjerninger i Stilhed; og kan dog virkelig Nogen, som kjender min Skrift, tvivle om, at jeg ved Harpen og Sagabogen kunde henleve rolige, salige Dage, og at jeg har Hjerte til at nyde og skatte dem, naar jeg kun tør unddrage mig fra den <hi rend="italics" xml:id="idm139670053788208"><!--<emph>-->egenlige Tvekamp<!--</emph>--></hi> med. Nutidens onde Aand! Og, see, det tør jeg nu, saalænge til de Bedre erkjende, at ogsaa jeg var efter Guds Husholdning et nødvendigt Redskab i den store Strid, og stræbde i menneskelig Skrøbelighed at være et villigt, ydmygt og kjærligt Redskab, saalænge til de fremkalde mig i <hi rend="italics" xml:id="idm139670053786576"><!--<emph>-->Herrens Navn<!--</emph>--></hi> til at gjøre min forordnede Gjerning og tømme min beskikkede Kalk. Jeg tør det, thi jeg har talt, talt for døve Øren; i Bogladerne æde Møl de Bøger, jeg skrev under Nattevagt og Bøn og Taarer; vil Man ikke læse og forstaae dem, da har jeg udtalt til den <hi rend="italics" xml:id="idm139670053785024"><!--<emph>-->ældre<!--</emph>--></hi> Slægt; har den <hi rend="italics" xml:id="idm139670053783968"><!--<emph>-->yngre<!--</emph>--></hi> Øren, da vil Gud give Tunger, og for <hi rend="italics" xml:id="idm139670053782864"><!--<emph>-->dem<!--</emph>--></hi> vil jeg arbeide. I mine Prækener <hi rend="italics" xml:id="idm139670053781776"><!--<emph>-->efter Tidens Tarv<!--</emph>--></hi>, som dog vel engang komme for Lyset, har jeg stræbt klart og frimodig at fremstille Tidens Forhold til Christendommens Sandhed, og det skal være den sidste Bog om guddommelige Ting, jeg <hi rend="italics" xml:id="idm139670053780368"><!--<emph>-->udtigger<!--</emph>--></hi> i Verden, den sidste, hvormed jeg bebyrder min Forlægger og mader hans Møl; thi er det usømmeligt at udtigge Fædrelandets Krønike i Verden, hvormeget mere da de evige Sandheder! Hos Gud og i de forbigangne Dage vil jeg sænke mig, <hi rend="italics" xml:id="idm139670053778864"><!--<emph>-->ikke<!--</emph>--></hi> for at <hi rend="italics" xml:id="idm139670053777856"><!--<emph>-->undgaae<!--</emph>--></hi>, men for at fremvirke og <hi rend="italics" xml:id="idm139670053776768"><!--<emph>-->oppebie<!--</emph>--></hi> Kampen, for at styrkes og beredes til den, til Kampen, <hi rend="italics" xml:id="idm139670053775680"><!--<emph>-->ei om mit usle Jeg<!--</emph>--></hi>, det Eneste, Man end har vovet at angribe, medens jeg stedse stræbde at glemme det over Sandheden, nei, til Kampen om den <hi rend="italics" xml:id="idm139670053774400"><!--<emph>-->Sandhed<!--</emph>--></hi>, der ene kan oplive og frelse Folket og Slægten. Jeg veed det jo godt, ogsaa denne Erklæring vil Man miskjende, ogsaa dette Skridt vil Man
+<pb n="590" xml:id="s590" facs="adl/grundtvig/grundtvig03/grun3590"/>
+mistyde, som ethvert, jeg paa Sandheds Bane har gjort; men lad saa være! jeg er kied, inderlig kied af det elendige Spil, Man driver med Bog og Skrift, med Roes og Daddel til Tidsfordriv og for at vinde, tilhøkre eller tilliste sig en Stol paa Parnas eller et Rum paa Athenes Bænke; jeg har kun Valget mellem tvende Ting, at angribe det hele skriftlige Uvæsen i sine benævnte Elskere og Tolke og tvinge dem til at siride <hi rend="italics" xml:id="idm139670053771072">pro aris &amp; focis<hi rend="sup" xml:id="idm139670053770512">1</hi>
+                        </hi>, saa der dog paa en Maade blev <hi rend="italics" xml:id="idm139670053769712"><!--<emph>-->Alvor af Legen<!--</emph>--></hi>, eller at betragte det Hele som en Farce, der maae udspille sig selv for at aabenbare sin Tomhed, og ikke blande mig deri, uden med den Deel af min Personlighed, der kan <hi rend="italics" xml:id="idm139670053768480"><!--<emph>-->spille<!--</emph>--></hi> med, og blot vaage over, at den ei <hi rend="italics" xml:id="idm139670053767424"><!--<emph>-->forspiller<!--</emph>--></hi> sig. Jeg vælger det Sidste, fordi jeg føler og erkjender, <hi rend="italics" xml:id="idm139670053766272"><!--<emph>-->det bør saa være<!--</emph>--></hi>, og i det Mindste skal dog <hi rend="italics" xml:id="idm139670053765200"><!--<emph>-->de Bedre<!--</emph>--></hi> deraf lære, at jeg er hverken <hi rend="italics" xml:id="idm139670053764112"><!--<emph>-->Fanatiker eller Sværmer<!--</emph>--></hi>, om de end ikke, som jeg tænker, ved at faae Øie paa saadanne lyslevende, skal høilig bebreide sig selv, at de, i ubegribelig Blindhed for de menneskelige Vilkaar og Historiens Vidnesbyrd, kunde ansee mig for en saadan, uden at stemple Luther og alle Christendommens uforfærdede Stridsmænd i de forrige Tider med samme Skjændselsnavne. Man skal ikke sige, jeg stjæler mig bort, Man skal ikke sige, jeg lader mine <hi rend="italics" xml:id="idm139670053762400"><!--<emph>-->Hjelpere<!--</emph>--></hi> i Stikken, Man skal ikke sige, jeg lod mig true eller kjøbe til Tavshed, og saalænge jeg har Lov til at røre Tunge og Pen, skal Man vist ikke savne Vidnesbyrd om, at min Troe og Overbeviisning staaer fast, at jeg, Gud være lovet! hverken fattes Mod eller Kraft, men tier kun, <hi rend="italics" xml:id="idm139670053760816"><!--<emph>-->fordi<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139670053759808"><!--<emph>-->saalænge<!--</emph>--></hi> Man ikke vil høre, <hi rend="italics" xml:id="idm139670053758704"><!--<emph>-->fordi<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139670053757696"><!--<emph>-->saalænge<!--</emph>--></hi> Man ikke alvorlig vil spørge og afhandle, <hi rend="italics" xml:id="idm139670053756544"><!--<emph>-->hvad Sandhed er, fordi<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139670053755536"><!--<emph>-->saalænge<!--</emph>--></hi> Man kun vil bekjæmpe min Lærdom i min Person, som om jeg var Christus selv, som om jeg havde prædiket mig selv og ikke <hi rend="italics" xml:id="idm139670053754240"><!--<emph>-->Ham<!--</emph>--></hi> at være Herren. Der ligge mine Bøger og vidne høit om den Korsfæstede men igjen Opstandne, gjentage med lydelig Røst Tidernes Vidnesbyrd om Ham, som lever i al Evighed, udæske Verdens Lærde og Vise og spotte deres Kløgt, medens de erklære mig for en arm Synder og et Intet; der ligge de, og <hi rend="italics" xml:id="idm139670053752608"><!--<emph>-->nu<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139670053751600"><!--<emph>-->stedse<!--</emph>--></hi> vedstaaer og vedkjender jeg mig hvert Ord, som ei kan bevises at stride mod Guds skrevne Ord, Krønikens klare Tale og en troende Fornufts <hi rend="italics" xml:id="idm139670053750256"><!--<emph>-->uimodsigelige<!--</emph>--></hi> Domme; jeg erklærer det høit, <hi rend="italics" xml:id="idm139670053749168"><!--<emph>-->Ingen<!--</emph>--></hi> har endnu fremført et eneste Beviis imod, at de indeholde <hi rend="italics" xml:id="idm139670053748016"><!--<emph>-->christelig Sandhed<!--</emph>--></hi>, saa
+<note anchored="true" xml:id="idm139670053747008">
+                           <hi rend="sup" xml:id="idm139670053746608">1</hi>
+                           <!--*dolgoeO*-->dvs. for Alter og Arne.</note>
+								                <pb n="591" xml:id="s591" facs="adl/grundtvig/grundtvig03/grun3591"/>
+som et <hi rend="italics" xml:id="idm139670053744432"><!--<emph>-->skrøbeligt Menneske<!--</emph>--></hi> kan udsige den, <hi rend="italics" xml:id="idm139670053743360"><!--<emph>-->Beviset<!--</emph>--></hi> skylde endnu alle mine aabenbare og hemmelige Modstandere og Forhaanere <hi rend="italics" xml:id="idm139670053742224"><!--<emph>-->Sandhed<!--</emph>--></hi> og mig, og indtil de have betalt denne vitterlige Gjeld, skylder jeg dem ikke andet end Spot og Trods i <hi rend="italics" xml:id="idm139670053741088"><!--<emph>-->Sandheds Navn<!--</emph>--></hi>. Der ligge mine Bøger, og lad <hi rend="italics" xml:id="idm139670053740000"><!--<emph>-->nu<!--</emph>--></hi> Nogen fremdeles antaste dem med tomme Skjældsord og kaad, letsindig Spot, da skal han fornemme, at de staae omgjærdede af hvasse Spyd, fornemme, at jeg <hi rend="italics" xml:id="idm139670053738672"><!--<emph>-->lever<!--</emph>--></hi>, lever som en troende Christen, der skifter Vaaben og Mæle efter Tidens Tarv, men <hi rend="italics" xml:id="idm139670053737472"><!--<emph>-->skifter hverken Troe eller Farve<!--</emph>--></hi>, om end Sværde klirre, og Pile gløde over Issen!</p>
+                     <p xml:id="idm139670053736208">Nu kan vel Baggesen sige sig selv, hvad jeg maae svare paa hans Opfordring til at gjenføde Knud Sællandsfars Eftermæle og frimodig vove en Dyst; men jeg vil dog sige aabenbar: i Dag er jeg ikke oplagt til at skjemte, Knuds aandelige Støv vil jeg helst lade ligge i Roe; men vil Baggesen endelig see hiint Eftermæle, da opfordre han mig <hi rend="italics" xml:id="idm139670053735248"><!--<emph>-->tredie<!--</emph>--></hi> Gang, og jeg skal gjenføde det saa <hi rend="italics" xml:id="idm139670053734144"><!--<emph>-->sandt og fuldstændigt<!--</emph>--></hi> som mueligt, og vil han fremdeles antage sig Knuds Sag med Sandhed og mig, da <hi rend="italics" xml:id="idm139670053733008"><!--<emph>-->maae<!--</emph>--></hi> Peer Degn være til hans Tjeneste, og Indhold en af hans Præk og Vrøvl skal altid vedstaaes</p>
+                     <trailer xml:id="idm139670053731664">af<lb xml:id="idm139670053731408"/>
+                        <hi rend="bold" xml:id="idm139670053731152">N. F. S. Grundtvig,</hi>
+                        <lb xml:id="idm139670053730496"/>
+Præst.</trailer>
+                  </div>
+               </div>
+               <div xml:id="idm139670053729824">
+                  <p xml:id="idm139670053729568">
+Efter at have læst dette alvorlige Stykke og Grundtvigs nysudkomne Nytaarsgave <hi rend="italics" xml:id="idm139670053729136"><!--<emph>-->Heimdall<!--</emph>--></hi> skrev Baggesen et lille Digt i <hi rend="italics" xml:id="idm139670053728048"><!--<emph>-->Skilderiet<!--</emph>--></hi> for 16. <hi rend="italics" xml:id="idm139670053727040"><!--<emph>-->Januar<!--</emph>--></hi> 1816:</p>
+                  <div xml:id="idm139670053725872">
+                     <head xml:id="idm139670053725616">
+                        <hi rend="bold" xml:id="idm139670053725360">Til Heimdall.</hi>
+                     </head>
+                     <lg xml:id="idm139670053724544">
+                        <l xml:id="idm139670053724288">
+                           <hi rend="bold" xml:id="idm139670053724160">B</hi>eslægtede, som Lys og Varme der,</l>
+                        <l xml:id="idm139670053723296">Hvor Straaler spille,</l>
+                        <l xml:id="idm139670053722880">Er jeg og du i Mørkets Samfund her,</l>
+                        <l xml:id="idm139670053722400">Min Sangs Broerlille!</l>
+                        <l xml:id="idm139670053721984">Beslægtet er min Aand med din, ei blot</l>
+                        <l xml:id="idm139670053721504">I Smil paa Læben,</l>
+                        <l xml:id="idm139670053721072">Men og, med dyb Foragt for Tidens Spot,</l>
+                        <l xml:id="idm139670053720640">I hellig Stræben;</l>
+                        <l xml:id="idm139670053720208">Men, mener du, fordi jeg nemmed din</l>
+                        <l xml:id="idm139670053719776">Miskiendte Gaade,</l>
+                        <pb n="592" xml:id="s592" facs="adl/grundtvig/grundtvig03/grun3592"/>
+                        <l xml:id="idm139670053718160">At du, som Ingenting, nu ogsaa min</l>
+                        <l xml:id="idm139670053717728">Ret nemt kan raade?</l>
+                        <l xml:id="idm139670053717312">Fordi som Barn jeg lege kan med dig,</l>
+                        <l xml:id="idm139670053716880">Søn af min Moder!</l>
+                        <l xml:id="idm139670053716448">Er neppe sagt, du spøge kan med mig,</l>
+                        <l xml:id="idm139670053715968">Din <hi rend="italics" xml:id="idm139670053715680"><!--<emph>-->ældre<!--</emph>--></hi> Broder!</l>
+                        <l xml:id="idm139670053714512">Fra <hi rend="italics" xml:id="idm139670053714224"><!--<emph>-->Stadet<!--</emph>--></hi>, hvor jeg staaer, jeg vel i <hi rend="italics" xml:id="idm139670053713136"><!--<emph>-->dit<!--</emph>--></hi>
+                        </l>
+                        <l xml:id="idm139670053712000">Mig ned kan sætte;</l>
+                        <l xml:id="idm139670053711568">Men Opgangstrinnene fra dit til <hi rend="italics" xml:id="idm139670053711264"><!--<emph>-->mit<!--</emph>--></hi>
+                        </l>
+                        <l xml:id="idm139670053710128">Er ei saa lette!</l>
+                        <l xml:id="idm139670053709744">Som moden Aand, jeg vel erindre mig,</l>
+                        <l xml:id="idm139670053709312">I Barnets Have;</l>
+                        <l xml:id="idm139670053708896">Men føler du, hvad gyse vil i dig</l>
+                        <l xml:id="idm139670053708432">Paa Mandens Grave?</l>
+                        <l xml:id="idm139670053708016">Hvorledes han, som fusker, ofte faldt,</l>
+                        <l xml:id="idm139670053707584">Det Mestren husker;</l>
+                        <l xml:id="idm139670053707168">Men sig mig, Broder! var du Mester alt,</l>
+                        <l xml:id="idm139670053706736">Før du blev Fusker?</l>
+                     </lg>
+                     <p xml:id="idm139670053706160">
+                        <hi rend="italics" xml:id="idm139670053706032"><!--<emph>-->Forfatteren af Gaaden<!--</emph>--></hi>:<lb xml:id="idm139670053704992"/>
+                        <hi rend="italics" xml:id="idm139670053704864"><!--<emph>-->Det evige Sindbillede<!--</emph>--></hi>.</p>
+                     <p xml:id="idm139670053703728">Herpaa svarede Grundtvig i <hi rend="italics" xml:id="idm139670053703424"><!--<emph>-->Nyeste Skilderie<!--</emph>--></hi> for 20. Januar 1816:</p>
+                  </div>
+               </div>
+               <div xml:id="idm139670053702032">
+                  <head xml:id="idm139670053701776">Til Sphinx.</head>
+                  <div xml:id="idm139670053701360">
+                     <lg xml:id="idm139670053701104">
+                        <l xml:id="idm139670053700848">
+                           <hi rend="bold" xml:id="idm139670053700720">E</hi>i har jeg glemt, at naar Gravklokken gaaer,</l>
+                        <l xml:id="idm139670053699872">Da først udringes mine Skoleaar,</l>
+                        <l xml:id="idm139670053699408">Og aldrig har som Mester jeg mig brystet;</l>
+                        <l xml:id="idm139670053698960">Men lært jeg har i tunge Prøveaar</l>
+                        <l xml:id="idm139670053698496">At føle Meer, end nogen Sphinx forstaaer,</l>
+                        <l xml:id="idm139670053698016">Og <hi rend="italics" xml:id="idm139670053697760"><!--<emph>-->af mit Ærme<!--</emph>--></hi> har jeg Barnet rystet</l>
+                     </lg>
+                     <lg xml:id="idm139670053696448">
+                        <l xml:id="idm139670053696192">Hvo høit vil flyve, falder gjerne ned,</l>
+                        <l xml:id="idm139670053695712">Hvo høit sig drømmer, svimler kun derved,</l>
+                        <l xml:id="idm139670053695232">Thi sætter jeg mig lavt paa Runestene;</l>
+                        <l xml:id="idm139670053694752">Stat du for mig, saa høit du kan, i Fred!</l>
+                        <l xml:id="idm139670053694272">Men hvis hovmodig du paa mig seer ned,</l>
+                        <l xml:id="idm139670053693840">Da visselig du staaer ei <hi rend="italics" xml:id="idm139670053693536"><!--<emph>-->paa det Rene<!--</emph>--></hi>.</l>
+                     </lg>
+                     <lg xml:id="idm139670053692240">
+                        <l xml:id="idm139670053691984">Du pukker, hører jeg, paa dine Aar!</l>
+                        <l xml:id="idm139670053691504">Men blegedes paa <hi rend="italics" xml:id="idm139670053691248"><!--<emph>-->Lysets Vej<!--</emph>--></hi> dit Haar,</l>
+                        <l xml:id="idm139670053690080">Saa det omskinner dig som Retfærds Krone?</l>
+                        <l xml:id="idm139670053689600">Du praler, hører jeg, af dine Saar!</l>
+                        <l xml:id="idm139670053689120">Dem fikst du vel i Verdens Ormegaard,</l>
+                        <l xml:id="idm139670053688688">Men fik du dem i <hi rend="italics" xml:id="idm139670053688400"><!--<emph>-->Kamp for Lysets Throne<!--</emph>--></hi>?</l>
+                     </lg>
+                     <pb n="593" xml:id="s593" facs="adl/grundtvig/grundtvig03/grun3593"/>
+                     <lg xml:id="idm139670053685904">
+                        <l xml:id="idm139670053685648">
+                           <hi rend="italics" xml:id="idm139670053685520"><!--<emph>-->Min Gaade<!--</emph>--></hi>, hører jeg, du kløgtig nam!</l>
+                        <l xml:id="idm139670053684272">Var det dengang du lydt med Daareglam</l>
+                        <l xml:id="idm139670053683840">Mig for en Hykler og en Djævel skjældte?</l>
+                        <l xml:id="idm139670053683360">For <hi rend="italics" xml:id="idm139670053683104"><!--<emph>-->Ingenting din Gaade<!--</emph>--></hi> jeg ansaae!</l>
+                        <l xml:id="idm139670053681936">Det siger du, men kan du da forstaae,</l>
+                        <l xml:id="idm139670053681504">At jeg i <hi rend="italics" xml:id="idm139670053681216"><!--<emph>-->Intet<!--</emph>--></hi> saae Orions Belte?</l>
+                     </lg>
+                     <lg xml:id="idm139670053679920">
+                        <l xml:id="idm139670053679664">Hvis om din Gaade jeg har gjættet feil,</l>
+                        <l xml:id="idm139670053679136">Fordi jeg kiged <hi rend="italics" xml:id="idm139670053678848"><!--<emph>-->kun i Sandheds Speil<!--</emph>--></hi>,</l>
+                        <l xml:id="idm139670053677680">Da har i <hi rend="italics" xml:id="idm139670053677424"><!--<emph>-->det<!--</emph>--></hi> du ikke seet din Gaade,</l>
+                        <l xml:id="idm139670053676256">Og jeg tør give under Haand og Seigl,</l>
+                        <l xml:id="idm139670053675776">At ikkun da du tager ikke feil,</l>
+                        <l xml:id="idm139670053675344">Naar du den gjætter paa <hi rend="italics" xml:id="idm139670053675024"><!--<emph>-->min simple Maade<!--</emph>--></hi>.</l>
+                     </lg>
+                     <lg xml:id="idm139670053673760">
+                        <l xml:id="idm139670053673504">Du mener, hører jeg, det var dig nemt</l>
+                        <l xml:id="idm139670053673024">At knegte mig i Alvor og i Skjemt</l>
+                        <l xml:id="idm139670053672592">Og ydmyg dale til mit Barne-Sæde!</l>
+                        <l xml:id="idm139670053672128">Om det er sandt, jeg veed vel ei bestemt,</l>
+                        <l xml:id="idm139670053671680">Men nok jeg veed, at <hi rend="italics" xml:id="idm139670053671424"><!--<emph>-->tro'r du, det er nemt<!--</emph>--></hi>,</l>
+                        <l xml:id="idm139670053670256">Da avler Stolthed kun en dødfødt Glæde.</l>
+                     </lg>
+                     <lg xml:id="idm139670053669648">
+                        <l xml:id="idm139670053669392">Om <hi rend="italics" xml:id="idm139670053669136"><!--<emph>-->virkelig<!--</emph>--></hi> du staaer paa Tempeltind,</l>
+                        <l xml:id="idm139670053667952">Og om jeg op til dig har mange Trin,</l>
+                        <l xml:id="idm139670053667520">Det klarer sig engang vel paa det Sidste;</l>
+                        <l xml:id="idm139670053667072">Men seer jeg ret ved Ordets Lampeskin,</l>
+                        <l xml:id="idm139670053666640">Jeg mod din Høide ikke gjør et Trin,</l>
+                        <l xml:id="idm139670053666160">Og aldrig skal <hi rend="italics" xml:id="idm139670053665904"><!--<emph>-->din Modenhed<!--</emph>--></hi> mig friste.</l>
+                     </lg>
+                     <lg xml:id="idm139670053664608">
+                        <l xml:id="idm139670053664352">At Lyset bo'r ei i din Hjerneskal,</l>
+                        <l xml:id="idm139670053663920">Men hist i Kjærlighedens Gaadehald,</l>
+                        <l xml:id="idm139670053663440">Det har jeg lært af Ham, som Engle dyrke;</l>
+                        <l xml:id="idm139670053662960">Og i Hans Ord, som Lysets Arvetal,</l>
+                        <l xml:id="idm139670053662528">Jeg fandt, at hverken kan, ei heller skal</l>
+                        <l xml:id="idm139670053662080">Der <hi rend="italics" xml:id="idm139670053661792"><!--<emph>-->Samfund<!--</emph>--></hi> være <hi rend="italics" xml:id="idm139670053660752"><!--<emph>-->mellem Lys og Mørke<!--</emph>--></hi>,</l>
+                     </lg>
+                     <lg xml:id="idm139670053659424">
+                        <l xml:id="idm139670053659168">Som Digter, mener du, paa Gravsens Bred</l>
+                        <l xml:id="idm139670053658736">Du og dit Liv er ei at spøge med,</l>
+                        <l xml:id="idm139670053658272">Og det er netop, hvad jeg vilde sige;</l>
+                        <l xml:id="idm139670053657840">Men at <hi rend="italics" xml:id="idm139670053657584"><!--<emph>-->for Alvor<!--</emph>--></hi> jeg tog Skjemten med,</l>
+                        <l xml:id="idm139670053656416">Hvor Alvorsord ei funde bedre Sted,</l>
+                        <l xml:id="idm139670053655984">Det var dog nok ei <hi rend="italics" xml:id="idm139670053655696"><!--<emph>-->Næsviished<!--</emph>--></hi> saa lige.</l>
+                     </lg>
+                     <pb n="594" xml:id="s594" facs="adl/grundtvig/grundtvig03/grun3594"/>
+                     <lg xml:id="idm139670053653200">
+                        <l xml:id="idm139670053652944">See, stolte Sphinx! det er mit Davus-Svar,</l>
+                        <l xml:id="idm139670053652496">En <hi rend="italics" xml:id="idm139670053652240"><!--<emph>-->bunden<!--</emph>--></hi> Tale, baade kold og klar,</l>
+                        <l xml:id="idm139670053651024">Tillukt med Flid for Tonen i mit Hjerte;</l>
+                        <l xml:id="idm139670053650576">Nu er jer seen, som jeg var fordum snar,</l>
+                        <l xml:id="idm139670053650128">Til <hi rend="italics" xml:id="idm139670053649872"><!--<emph>-->Vægterhaanden<!--</emph>--></hi>, du bespyttet har,</l>
+                        <l xml:id="idm139670053648688">At række dig i Skin af Danmarks Kjerte.</l>
+                     </lg>
+                     <lg xml:id="idm139670053648080">
+                        <l xml:id="idm139670053647824">Jeg lod dig rase, <hi rend="italics" xml:id="idm139670053647536"><!--<emph>-->ældre<!--</emph>--></hi> Broder min!</l>
+                        <l xml:id="idm139670053646368">Og paa min Kappe slagte dine Sviin,</l>
+                        <l xml:id="idm139670053645936">Jeg vilde dig ophidse ei men kjøle.</l>
+                        <l xml:id="idm139670053645456">Nu est du kold og stolt med Hjertens Lyst;</l>
+                        <l xml:id="idm139670053645008">Kom nu! saa vove vi en Alvorsdyst,</l>
+                        <l xml:id="idm139670053644576">Og væmmes skal du vist ei ved <hi rend="italics" xml:id="idm139670053644240"><!--<emph>-->min<!--</emph>--></hi> Søle.</l>
+                     </lg>
+                     <lg xml:id="idm139670053642944">
+                        <l xml:id="idm139670053642688">Dog ingen Handske kaster jeg til dig,</l>
+                        <l xml:id="idm139670053642256">Jeg kun optager den, du rakde mig,</l>
+                        <l xml:id="idm139670053641824">Og som jeg dengang ikke maatte røre;</l>
+                        <l xml:id="idm139670053641344">Afbryder jeg med <hi rend="italics" xml:id="idm139670053641056"><!--<emph>-->Fienderne min Krig<!--</emph>--></hi>,</l>
+                        <l xml:id="idm139670053639888">Og venter jeg en <hi rend="italics" xml:id="idm139670053639632"><!--<emph>-->Sandheds Ven<!--</emph>--></hi> i dig,</l>
+                        <l xml:id="idm139670053638464">
+                           <hi rend="italics" xml:id="idm139670053638336"><!--<emph>-->Hvor<!--</emph>--></hi> kan mod dig med Lyst jeg Krigen føre!</l>
+                     </lg>
+                     <lg xml:id="idm139670053636944">
+                        <l xml:id="idm139670053636688">Nei visselig, som Dannemand og Præst</l>
+                        <l xml:id="idm139670053636208">Selv midt i Strid jeg huer Freden bedst,</l>
+                        <l xml:id="idm139670053635760">Og gjerne Hjertet vilde kjærlig tale;</l>
+                        <l xml:id="idm139670053635280">Men til du seer, at ei jeg <hi rend="italics" xml:id="idm139670053634976"><!--<emph>-->leger Hest<!--</emph>--></hi>,</l>
+                        <l xml:id="idm139670053633840">Skjøndt Barn jeg er, det tjener os nok bedst</l>
+                        <l xml:id="idm139670053633344">I Stilhed Gud hinanden at befale.</l>
+                     </lg>
+                  </div>
+                  <div xml:id="idm139670053632656">
+                     <lg xml:id="idm139670053632400">
+                        <l xml:id="idm139670053632144">Dog, Hjerteordet lader sig ei tvinge;</l>
+                        <l xml:id="idm139670053631712">Gid, <hi rend="italics" xml:id="idm139670053631456"><!--<emph>-->Baggesen!<!--</emph>--></hi> du mesterlig fuldbringe,</l>
+                        <l xml:id="idm139670053630240">Hvad jeg har kjækt og ærlig fusket paa!</l>
+                        <l xml:id="idm139670053629760">Da veed jeg vist, at under Lysets Vinge</l>
+                        <l xml:id="idm139670053629328">Min Broderhaand, mit Venneraad saa ringe</l>
+                        <l xml:id="idm139670053628880">Du nænner ei at haane og forsmaae.</l>
+                     </lg>
+                  </div>
+                  <trailer xml:id="idm139670053628160">
+                     <hi rend="bold" xml:id="idm139670053628032">Grundtvig</hi>.</trailer>
+               </div>
+               <pb n="595" xml:id="s595" facs="adl/grundtvig/grundtvig03/grun3595"/>
+               <div xml:id="idm139670053625872">
+                  <p xml:id="idm139670053625616">I Februarheftet af sit Tidsskrift <hi rend="italics" xml:id="idm139670053625312"><!--<emph>-->Danfana<!--</emph>--></hi> meddelte Baggesen flere poetiske og prosaiske Indlæg i »Valhalla-Legen« med Grundtvig. Det viser sig heri, at »Gjallarhornets dybe Hjerteklang i Tusmørkekvadet <hi rend="italics" xml:id="idm139670053623920"><!--<emph>-->Til Sphinx<!--</emph>--></hi>, med den sidste, dybt i hans Hjerte genklingende Tone«, har gjort et betagende Indtryk paa den bevægelige Digter, og de hjertelige Ord, han i den Anledning henvender til sin aandelige Modstander, vakte til Gengæld en inderlig Glæde i Grundtvigs Sjæl, fordi han her for første Gang havde tilkæmpet sig Forstaaelse hos en af Samtidens ordførende Mænd, der før havde miskendt ham grovelig.</p>
+                  <p xml:id="idm139670053622064">
+Glæden over denne Sejer ved det gode Ords Magt genlyder i Grundtvigs næste Indlæg i <hi rend="italics" xml:id="idm139670053621616"><!--<emph>-->Nyeste Skilderie<!--</emph>--></hi> for 2. <hi rend="italics" xml:id="idm139670053620608"><!--<emph>-->Marts<!--</emph>--></hi> l 816:</p>
+                  <div xml:id="idm139670053619440">
+                     <head xml:id="idm139670053619184">Til Jens Baggesen
+<lb xml:id="idm139670053618896"/>
+(Aabent Feidebrev.*)</head>
+                     <div xml:id="idm139670053618480">
+                        <lg xml:id="idm139670053618224">
+                           <l xml:id="idm139670053617968">
+                              <hi rend="bold" xml:id="idm139670053617840">V</hi>elkommen du, hvem jeg har ventet længe!</l>
+                           <l xml:id="idm139670053616960">Velkommen du, hvis Døvhed bandt min Mund!</l>
+                           <l xml:id="idm139670053616480">Velkommen, <hi rend="italics" xml:id="idm139670053616192"><!--<emph>-->Aand!<!--</emph>--></hi> i gamle Danmarks Vænge!</l>
+                           <l xml:id="idm139670053614960">Velkommen, <hi rend="italics" xml:id="idm139670053614704"><!--<emph>-->Aand<!--</emph>--></hi>! i Skjolds Kærmindelund!</l>
+                           <l xml:id="idm139670053613472">Velkommen, <hi rend="italics" xml:id="idm139670053613216"><!--<emph>-->Aand!<!--</emph>--></hi> som ynkes over Vrimlen!</l>
+                           <l xml:id="idm139670053612000">Velkommen, <hi rend="italics" xml:id="idm139670053611744"><!--<emph>-->Aand!<!--</emph>--></hi> som stirrer op mod Himlen</l>
+                           <l xml:id="idm139670053610528">Og speider Stjernerne paa Nattevagt!</l>
+                        </lg>
+                        <lg xml:id="idm139670053609968">
+                           <l xml:id="idm139670053609712">Til Aander talde jeg, mig svared' Kroppe,</l>
+                           <l xml:id="idm139670053609264">Og Latter døvede min Veemods Sang;</l>
+                           <l xml:id="idm139670053608800">O, snart jeg maatte over Skovens Toppe</l>
+                           <l xml:id="idm139670053608368">Mig svunget bort fra den forgjorte Vang,</l>
+                           <l xml:id="idm139670053607920">Hvor Uglerne Man kaldte Nattergale,</l>
+                           <l xml:id="idm139670053607488">Hvor Aande-Ordet kaldtes Galmands Tale,</l>
+                           <l xml:id="idm139670053607056">Og Nidkjærheden var kun Brodernid.</l>
+                        </lg>
+                        <lg xml:id="idm139670053606464">
+                           <l xml:id="idm139670053606208">O, underligt, at Tungen dog har mægtet</l>
+                           <l xml:id="idm139670053605728">At tale som til Ingen Aar for Aar,</l>
+                           <l xml:id="idm139670053605296">At ei min Aand er udtømt og forsmægtet</l>
+                           <l xml:id="idm139670053604816">I Kampen mod de sære Ulivskaar!</l>
+                           <l xml:id="idm139670053604352">Det er Hans Værk, som naadig lod mig skue</l>
+                           <l xml:id="idm139670053603872">Mit Danmarks Stjerne paa den mørke Bue,</l>
+                           <l xml:id="idm139670053603392">Hvor klar den tindrede bag sorten Skye.</l>
+                        </lg>
+                        <note anchored="true" xml:id="idm139670053602832">* I Anledning af Danfanas Februarhefte.</note>
+                        <pb n="596" xml:id="s596" facs="adl/grundtvig/grundtvig03/grun3596"/>
+                        <lg xml:id="idm139670053600912">
+                           <l xml:id="idm139670053600656">Halleluja! nu høit min Aand sig fryder:</l>
+                           <l xml:id="idm139670053600176">See! den <hi rend="italics" xml:id="idm139670053599888"><!--<emph>-->fordeler sig<!--</emph>--></hi>, den sorte Skye!</l>
+                           <l xml:id="idm139670053598720">O, Morgen-Stjerne! brat din Skye du bryder,</l>
+                           <l xml:id="idm139670053598272">Bebudende et helligt Morgengrye!</l>
+                           <l xml:id="idm139670053597840">O, klare Soel! som selv useet er oppe,</l>
+                           <l xml:id="idm139670053597408">Nu skinner snart du over Skovens Toppe,</l>
+                           <l xml:id="idm139670053596976">Sangtoner aner dig i Fuglens Bryst.</l>
+                        </lg>
+                        <lg xml:id="idm139670053596416">
+                           <l xml:id="idm139670053596160">Ja, fattig Fugl! som pipper i mit Hjerte,</l>
+                           <l xml:id="idm139670053595712">Bereed dig nu til Morgen-Lærke-Slag!</l>
+                           <l xml:id="idm139670053595232">Saa du i Glimt af Himlens Morgen-Kjerte</l>
+                           <l xml:id="idm139670053594800">Kan hilse liflig paa den unge Dag,</l>
+                           <l xml:id="idm139670053594368">Saa du kan vække Fuglene i Lunde,</l>
+                           <l xml:id="idm139670053593904">Saa de maae lytte, mens endnu de blunde,</l>
+                           <l xml:id="idm139670053593456">Til Psalmetonen, de gjenføde skal!</l>
+                        </lg>
+                        <lg xml:id="idm139670053592864">
+                           <l xml:id="idm139670053592608">Troe ei, du <hi rend="italics" xml:id="idm139670053592320"><!--<emph>-->Aand!<!--</emph>--></hi> at jeg mig fræk hovmoder!</l>
+                           <l xml:id="idm139670053591088">Troe ei, jeg beiler til din Skaansel nu!</l>
+                           <l xml:id="idm139670053590640">Nei, vel i Aanden kalder jeg dig <hi rend="italics" xml:id="idm139670053590336"><!--<emph>-->Broder<!--</emph>--></hi>,</l>
+                           <l xml:id="idm139670053589200">Men <hi rend="italics" xml:id="idm139670053588944"><!--<emph>-->her<!--</emph>--></hi> jeg møder dig med Kamp i Hu.</l>
+                           <l xml:id="idm139670053587696">Plant kun paa Kryds mod mig de skarpe Landser!</l>
+                           <l xml:id="idm139670053587248">Aftørne ei de brat paa Retfærds Pandser,</l>
+                           <l xml:id="idm139670053586768">Da er de Krandsen og jeg Døden værd.</l>
+                        </lg>
+                        <lg xml:id="idm139670053586160">
+                           <l xml:id="idm139670053585904">Velkommen! siger jeg med hellig Glæde,</l>
+                           <l xml:id="idm139670053585424">Velkommen du, som kjender Aanders Lov!</l>
+                           <l xml:id="idm139670053584992">Nu tør jeg tale, og nu tør jeg kvæde,</l>
+                           <l xml:id="idm139670053584512">Nu tør jeg raabe høit i Daneskov;</l>
+                           <l xml:id="idm139670053584048">Nu tør jeg det, thi nu jeg meer end haaber,</l>
+                           <l xml:id="idm139670053583552">Det sandes skal, at <hi rend="italics" xml:id="idm139670053583296"><!--<emph>-->som<!--</emph>--></hi> i Skov Man raaber,</l>
+                           <l xml:id="idm139670053582128">
+                              <hi rend="italics" xml:id="idm139670053582000"><!--<emph>-->Saa<!--</emph>--></hi> finder Man i Skovens Gjenlyd <hi rend="italics" xml:id="idm139670053580912"><!--<emph>-->Svar<!--</emph>--></hi>.</l>
+                        </lg>
+                        <lg xml:id="idm139670053579648">
+                           <l xml:id="idm139670053579392">Nu er jeg glad, thi nu skal Danmark vaagne,</l>
+                           <l xml:id="idm139670053578944">Nu skal vor Moder høre Sandheds Røst;</l>
+                           <l xml:id="idm139670053578464">Lad falde Hedin, og lad falde Hogne!</l>
+                           <l xml:id="idm139670053578032">De leve op igjen i Hildas Bryst,</l>
+                           <l xml:id="idm139670053577600">Og naar kun <hi rend="italics" xml:id="idm139670053577344"><!--<emph>-->ret af Hjertens Grund<!--</emph>--></hi> de kæmpe,</l>
+                           <l xml:id="idm139670053576176">Maae Bulderet sig efter Rimet læmpe,</l>
+                           <l xml:id="idm139670053575696">Og Vaabengnyet blir et Veemodskvad.</l>
+                        </lg>
+                        <lg xml:id="idm139670053575136">
+                           <l xml:id="idm139670053574880">Her er min Haand i Skin af Danmarks Kjerte!</l>
+                           <l xml:id="idm139670053574432">I Skin af Biaalys over Fædres Grav,</l>
+                           <l xml:id="idm139670053573952">Jeg nu, som før, ret af mit ganske Hjerte</l>
+                           <l xml:id="idm139670053573472">Dig rækker den, skjøndt med en Feidestav,</l>
+                           <pb n="597" xml:id="s597" facs="adl/grundtvig/grundtvig03/grun3597"/>
+                           <l xml:id="idm139670053571792">Og elsker end som før i dig <hi rend="italics" xml:id="idm139670053571456"><!--<emph>-->den Broder<!--</emph>--></hi>,</l>
+                           <l xml:id="idm139670053570288">Hvis Billede jeg skued' hos vor Moder,</l>
+                           <l xml:id="idm139670053569856">Som du maae <hi rend="italics" xml:id="idm139670053569600"><!--<emph>-->være eller slaae ihjel<!--</emph>--></hi>.</l>
+                        </lg>
+                        <lg xml:id="idm139670053568272">
+                           <l xml:id="idm139670053568016">Her er min Haand! den tolker, hvad jeg haaber,</l>
+                           <l xml:id="idm139670053567568">En <hi rend="italics" xml:id="idm139670053567312"><!--<emph>-->ærlig<!--</emph>--></hi> Sandheds, Lysets Ven i dig;</l>
+                           <l xml:id="idm139670053566128">Den siger meer, med Feidestav den raaber:</l>
+                           <l xml:id="idm139670053565680">Jens Baggesen! nu <hi rend="italics" xml:id="idm139670053565424"><!--<emph>-->dansk og ærlig Krig<!--</emph>--></hi>!</l>
+                           <l xml:id="idm139670053564224">Ja, Kamp og Krig, til en af os maae blegne,</l>
+                           <l xml:id="idm139670053563776">Ifald ei før, det give Gud! vi segne</l>
+                           <l xml:id="idm139670053563296">Som <hi rend="italics" xml:id="idm139670053563040"><!--<emph>-->Christne Venner<!--</emph>--></hi> i hinandens Favn.</l>
+                        </lg>
+                        <lg xml:id="idm139670053561744">
+                           <l xml:id="idm139670053561488">Ei er det Skjemt, ei heller Børnetrætte,</l>
+                           <l xml:id="idm139670053561008">Skjøndt Verden kalder det en Drengeleeg;</l>
+                           <l xml:id="idm139670053560528">Nei, Thor i Kredsen gaaer med Hrungner Jette,</l>
+                           <l xml:id="idm139670053560080">At see, om Loke ham med Mjølner sveeg;</l>
+                           <l xml:id="idm139670053559600">Det prøves skal og mærkes trindt i Norden,</l>
+                           <l xml:id="idm139670053559104">Hvem af os bæve, grue maae i Torden,</l>
+                           <l xml:id="idm139670053558624">Og hvem der staaer med <hi rend="italics" xml:id="idm139670053558336"><!--<emph>-->Sandheds<!--</emph>--></hi> Thor i Pagt.</l>
+                        </lg>
+                        <lg xml:id="idm139670053557040">
+                           <l xml:id="idm139670053556784">Kom! lad os nu med vore Feidestave</l>
+                           <l xml:id="idm139670053556352">Afrunde Kreds til Kamp i Daneskov,</l>
+                           <l xml:id="idm139670053555920">Og knytte os i Aanden til de Brave,</l>
+                           <l xml:id="idm139670053555488">Som ei for Levnet brøde Kæmpelov!</l>
+                           <l xml:id="idm139670053555024">Lad klarlig os for Dannemænd forkynde,</l>
+                           <l xml:id="idm139670053554544">
+                              <hi rend="italics" xml:id="idm139670053554416"><!--<emph>-->Hvorom<!--</emph>--></hi> det er, vi yppe og begynde</l>
+                           <l xml:id="idm139670053553200">Som <hi rend="italics" xml:id="idm139670053552944"><!--<emph>-->dødelige<!--</emph>--></hi> Fjender Tvist og Kamp.</l>
+                        </lg>
+                        <lg xml:id="idm139670053551648">
+                           <l xml:id="idm139670053551392">Det være vitterligt! ei kæmpe vi i Lunde</l>
+                           <l xml:id="idm139670053550912">Om Gang og Sæde og om Digterkrands;</l>
+                           <l xml:id="idm139670053550432">Det er kun Løgn, som Sandhed kan misunde,</l>
+                           <l xml:id="idm139670053549952">Og ingen Skygge er for Aander Glands;</l>
+                           <l xml:id="idm139670053549520">Ei kæmpe vi for <hi rend="italics" xml:id="idm139670053549216"><!--<emph>-->Selvet<!--</emph>--></hi> at fordobble,</l>
+                           <l xml:id="idm139670053548048">I Tidens Elv er Selvet kun en Boble,</l>
+                           <l xml:id="idm139670053547616">Hvo sig deri fordyber, er fortabt.</l>
+                        </lg>
+                        <lg xml:id="idm139670053547056">
+                           <l xml:id="idm139670053546800">Skal vi i Lund om dine Skjældsord kæmpe,</l>
+                           <l xml:id="idm139670053546320">Om <hi rend="italics" xml:id="idm139670053546064"><!--<emph>-->Hykleren<!--</emph>--></hi>, som sidde skal i mig?</l>
+                           <l xml:id="idm139670053544896">Nei, hyldet Hede maae vel Kampen dæmpe;</l>
+                           <l xml:id="idm139670053544416">Men <hi rend="italics" xml:id="idm139670053544128"><!--<emph>-->derom<!--</emph>--></hi> ei jeg løfter Sværd mod dig;</l>
+                           <l xml:id="idm139670053542880">Har jeg en Skygge mig udvalgt for Glandsen,</l>
+                           <l xml:id="idm139670053542432">Vil jeg fortabes under Martyr-Krandsen,</l>
+                           <l xml:id="idm139670053542000">Misund mig ei det dyrekjøbte Skin!</l>
+                        </lg>
+                        <pb n="598" xml:id="s598" facs="adl/grundtvig/grundtvig03/grun3598"/>
+                        <lg xml:id="idm139670053540192">
+                           <l xml:id="idm139670053539936">Nei, <hi rend="italics" xml:id="idm139670053539648"><!--<emph>-->hvad er Lys<!--</emph>--></hi> for Aand? og <hi rend="italics" xml:id="idm139670053538608"><!--<emph>-->hvad er Mørke<!--</emph>--></hi>?</l>
+                           <l xml:id="idm139670053537424">Ja, <hi rend="italics" xml:id="idm139670053537168"><!--<emph>-->hvad er Sandhed<!--</emph>--></hi>? <hi rend="italics" xml:id="idm139670053536128"><!--<emph>-->hvad er<!--</emph>--></hi> Tant og <hi rend="italics" xml:id="idm139670053535120"><!--<emph>-->Løgn<!--</emph>--></hi>?</l>
+                           <l xml:id="idm139670053533952">
+                              <hi rend="italics" xml:id="idm139670053533824"><!--<emph>-->Hvad skal Man troe<!--</emph>--></hi>? <hi rend="italics" xml:id="idm139670053532816"><!--<emph>-->Hvem skal man trolig dyrke<!--</emph>--></hi>
+                           </l>
+                           <l xml:id="idm139670053531792">
+                              <hi rend="italics" xml:id="idm139670053531664"><!--<emph>-->Er Kundskab hellig? eller er den søgn<!--</emph>--></hi>?</l>
+                           <l xml:id="idm139670053530464">Skal det for Sandhed staae og gaae paa Jorden,</l>
+                           <l xml:id="idm139670053530016">Hvad jeg forkyndte her i Aandens Norden?</l>
+                           <l xml:id="idm139670053529568">Kun det er værd et ægte Landsebrud.</l>
+                        </lg>
+                        <lg xml:id="idm139670053528960">
+                           <l xml:id="idm139670053528704">O, Baggesen! o, kunde du mig skue,</l>
+                           <l xml:id="idm139670053528272">Hvor tryg jeg sidder under Troens Skjold,</l>
+                           <l xml:id="idm139670053527824">Du neppe vilde mod dets Demantsbue</l>
+                           <l xml:id="idm139670053527392">Din sløve Landse løfte, blind og bold,</l>
+                           <l xml:id="idm139670053526912">Men heller under det ved Præste-Side</l>
+                           <l xml:id="idm139670053526432">Med Smiil see Pilene saa matte glide,</l>
+                           <l xml:id="idm139670053526000">Trods Nastronds Flammer, fra det blanke Speil.</l>
+                        </lg>
+                        <lg xml:id="idm139670053525424">
+                           <l xml:id="idm139670053525168">Dog, vel ei saa det er af Gud beskaaret,</l>
+                           <l xml:id="idm139670053524720">Og skee Hans Vilje paa den ganske Jord!</l>
+                           <l xml:id="idm139670053524288">Af Hjertet maae jeg dig tilønske Kaaret,</l>
+                           <l xml:id="idm139670053523808">Men Aanden minder mig om sande Ord:</l>
+                           <l xml:id="idm139670053523376">Ei vaagner Slægten uden Vaaben-Bulder,</l>
+                           <l xml:id="idm139670053522896">Og det er kun som Venne-Klap paa Skulder,</l>
+                           <l xml:id="idm139670053522448">Hvis begge vi har Retfærds Brynjesærk.</l>
+                        </lg>
+                        <lg xml:id="idm139670053521840">
+                           <l xml:id="idm139670053521584">Dog, før en af os Øiehinde skifter,</l>
+                           <l xml:id="idm139670053521104">Ei begge vandre vi i Lysets Skin;</l>
+                           <l xml:id="idm139670053520672">Du <hi rend="italics" xml:id="idm139670053520416"><!--<emph>-->Virvar<!--</emph>--></hi> seer i mine aabne Skrifter,</l>
+                           <l xml:id="idm139670053519232">Jeg, hvorsomhelst jeg og til dig seer ind;</l>
+                           <l xml:id="idm139670053518784">Hvem der har Ret, kan ei de Lærdes Skare,</l>
+                           <l xml:id="idm139670053518304">Men ene Himmel-Lyset selv opklare,</l>
+                           <l xml:id="idm139670053517872">Og <hi rend="italics" xml:id="idm139670053517616"><!--<emph>-->hvor det er<!--</emph>--></hi>, det vil vi kæmpe om.</l>
+                        </lg>
+                        <lg xml:id="idm139670053516288">
+                           <l xml:id="idm139670053516032">Hvad skal engang Man kalde Danmarks Kirke?</l>
+                           <l xml:id="idm139670053515584">Skal den <hi rend="italics" xml:id="idm139670053515328"><!--<emph>-->gjendøbes<!--</emph>--></hi> i Athen og Rom?</l>
+                           <l xml:id="idm139670053514160">
+                              <hi rend="italics" xml:id="idm139670053514032"><!--<emph>-->Danfana<!--</emph>--></hi> kaldes <hi rend="italics" xml:id="idm139670053512992"><!--<emph>-->eller Danne-Virke<!--</emph>--></hi>?</l>
+                           <l xml:id="idm139670053511824">Det vil for Alvor vi nu kæmpe om;</l>
+                           <l xml:id="idm139670053511360">Ei spørge her vi stort om Confessjoner,</l>
+                           <l xml:id="idm139670053510880">Men søge Grunden til de brudte Toner</l>
+                           <l xml:id="idm139670053510400">Og speide Lys med <hi rend="italics" xml:id="idm139670053510144"><!--<emph>-->aandelig Fornuft<!--</emph>--></hi>.</l>
+                        </lg>
+                        <lg xml:id="idm139670053508848">
+                           <l xml:id="idm139670053508592">Da skal det mærkes: om min Barne-Skammel</l>
+                           <l xml:id="idm139670053508112">Er lavere end Verdens Prækestoel,</l>
+                           <l xml:id="idm139670053507648">Om Barne-Troen blevet er for gammel,</l>
+                           <l xml:id="idm139670053507216">Om udbrændt er den gamle Kirke-Soel,</l>
+                           <pb n="599" xml:id="s599" facs="adl/grundtvig/grundtvig03/grun3599"/>
+                           <l xml:id="idm139670053505568">Om ei endnu den gamle Alter-Lue</l>
+                           <l xml:id="idm139670053505136">Nedlyner hver, som under Kirke-Bue</l>
+                           <l xml:id="idm139670053504704">Indvover sig med Verdens Tørveglød.</l>
+                        </lg>
+                        <lg xml:id="idm139670053504096">
+                           <l xml:id="idm139670053503840">Da skal det mærkes: om den gamle Lampe</l>
+                           <l xml:id="idm139670053503360">Til andet trænger end at <hi rend="italics" xml:id="idm139670053503040"><!--<emph>-->pirres<!--</emph>--></hi> op,</l>
+                           <l xml:id="idm139670053501872">Om i dens Straaler ei til blotte Dampe</l>
+                           <l xml:id="idm139670053501440">Det blir, hvormed den skulde <hi rend="italics" xml:id="idm139670053501136"><!--<emph>-->spædes op<!--</emph>--></hi>,</l>
+                           <l xml:id="idm139670053499968">Om i dens Straaler sig ei <hi rend="italics" xml:id="idm139670053499664"><!--<emph>-->Meer<!--</emph>--></hi> forklarer</l>
+                           <l xml:id="idm139670053498528">End Alt, hvad Verdens-Praasernes Forsvarer</l>
+                           <l xml:id="idm139670053498080">Har anet selv, i Aanden som forrykt.</l>
+                        </lg>
+                        <lg xml:id="idm139670053497520">
+                           <l xml:id="idm139670053497264">Nu, Dannemand! jeg planter Dannebraage</l>
+                           <l xml:id="idm139670053496832">Med hviden Kors imellem dig og mig,</l>
+                           <l xml:id="idm139670053496400">Og evig Mørke paa dens Øielaage,</l>
+                           <l xml:id="idm139670053495936">Som pønser under Dannebraag paa Svig!</l>
+                           <l xml:id="idm139670053495456">Og Skam faae den, som under Danmarks Kjerte</l>
+                           <l xml:id="idm139670053495008">Vil gjennembore sin Modstanders <hi rend="italics" xml:id="idm139670053494704"><!--<emph>-->Hjerte<!--</emph>--></hi>,</l>
+                           <l xml:id="idm139670053493536">Saalænge han ei skjænder Dannebraag!</l>
+                        </lg>
+                        <lg xml:id="idm139670053492928">
+                           <l xml:id="idm139670053492672">Velkommen da i Danmarks gamle Vænge!</l>
+                           <l xml:id="idm139670053492192">Velkommen her i Skjolds Kjærmindelund!</l>
+                           <l xml:id="idm139670053491712">Vi mødes her i Klang af Harpe-Strænge;</l>
+                           <l xml:id="idm139670053491232">Vel mødt, min Broder! i en Morgenstund!</l>
+                           <l xml:id="idm139670053490752">Lad Hænder mødes, mens vi Handsker drage!</l>
+                           <l xml:id="idm139670053490272">Og da i Vaabengny skal Lunden brage,</l>
+                           <l xml:id="idm139670053489840">Og Vee enhver, som os forstyrre tør!</l>
+                        </lg>
+                        <lg xml:id="idm139670053489232">
+                           <l xml:id="idm139670053488976">Ja, hør et Ord! vort Danmarks Kæmpe-Vænge</l>
+                           <l xml:id="idm139670053488480">Har længe været nu et Overdrev</l>
+                           <l xml:id="idm139670053488016">For Svin og Faar og Gjæs og Gadedrenge,</l>
+                           <l xml:id="idm139670053487536">Og den var Mesteren, som kaadest peeb,</l>
+                           <l xml:id="idm139670053487104">Og ingen Forskjel har Man villet vide</l>
+                           <l xml:id="idm139670053486672">Paa at tilrakke og til Gavns at stride,</l>
+                           <l xml:id="idm139670053486240">Og os vil Drenge-Flokken pibe ud.</l>
+                        </lg>
+                        <lg xml:id="idm139670053485680">
+                           <l xml:id="idm139670053485424">Lad nu imellem os <hi rend="italics" xml:id="idm139670053485168"><!--<emph>-->et Ord<!--</emph>--></hi> det være,</l>
+                           <l xml:id="idm139670053484000">At vi vil hjelpes ad med ærligt Sind</l>
+                           <l xml:id="idm139670053483520">Og see, om vi ei Drengene kan lære</l>
+                           <l xml:id="idm139670053483056">At stikke Halerne og Piben ind,</l>
+                           <l xml:id="idm139670053482624">Saa, uden Roes og uden Last af Drenge,</l>
+                           <l xml:id="idm139670053482192">Vi kæmpe kan i Danmarks gamle Vænge,</l>
+                           <l xml:id="idm139670053481712">Og ægte Dannemænd faae Ørenlyd.</l>
+                           <pb n="600" xml:id="s600" facs="adl/grundtvig/grundtvig03/grun3600"/>
+                           <l xml:id="idm139670053480112">Ja, skulde en af os, imens vi stride,</l>
+                           <l xml:id="idm139670053479680">Bagsmækkes af en Nidding eller Pog,</l>
+                           <l xml:id="idm139670053479200">Da lad udtrykkelig ham forud vide,</l>
+                           <l xml:id="idm139670053478768">At To han træffer under Dannebraag,</l>
+                           <l xml:id="idm139670053478288">Ja, indeklemmes ganske mutters ene</l>
+                           <l xml:id="idm139670053477856">Imellem tvende, ja, to haarde Stene,</l>
+                           <l xml:id="idm139670053477424">Der male, knuse ham saa smaat som Smuld.</l>
+                        </lg>
+                     </div>
+                     <div xml:id="idm139670053476720">
+                        <lg xml:id="idm139670053476464">
+                           <l xml:id="idm139670053476208">Men hør I mig, Kjærminder smaa,</l>
+                           <l xml:id="idm139670053475744">Saa blye, saa blaae,</l>
+                           <l xml:id="idm139670053475328">I Fred I staae!</l>
+                           <l xml:id="idm139670053474912">Ja, staaer os nær!</l>
+                           <l xml:id="idm139670053474480">Smaablomster har vi begge kjær,</l>
+                           <l xml:id="idm139670053474016">Og kjærlig I os minde,</l>
+                           <l xml:id="idm139670053473568">Om hvad vi er</l>
+                           <l xml:id="idm139670053473152">I Verden her:</l>
+                           <l xml:id="idm139670053472736">Kun Blomster, som forsvinde,</l>
+                           <l xml:id="idm139670053472304">Hvis Morgenskin og Aftenskjær</l>
+                           <l xml:id="idm139670053471840">Hinanden er som eders nær,</l>
+                           <l xml:id="idm139670053471392">Som Haarets om vor Tinde!</l>
+                        </lg>
+                        <lg xml:id="idm139670053470832">
+                           <l xml:id="idm139670053470576">Og hør mig, I Lærker,</l>
+                           <l xml:id="idm139670053470128">I Fugle paa Kvist og i Top!</l>
+                           <l xml:id="idm139670053469696">O, stemmer kun op!</l>
+                           <l xml:id="idm139670053469280">O, seer dog og mærker,</l>
+                           <l xml:id="idm139670053468832">Ei vilde Bærsærker</l>
+                           <l xml:id="idm139670053468384">Jer gjæste i Lund!</l>
+                           <l xml:id="idm139670053467952">O, sjunger, o, sjunger</l>
+                           <l xml:id="idm139670053467536">Med tusinde Tunger</l>
+                           <l xml:id="idm139670053467120">I Morgenens Stund!</l>
+                           <l xml:id="idm139670053466704">Lad Skovenes Kroner</l>
+                           <l xml:id="idm139670053466288">Os minde i Vang</l>
+                           <l xml:id="idm139670053465872">Om Aandernes Toner</l>
+                           <l xml:id="idm139670053465456">Og Sphærernes Klang!</l>
+                           <l xml:id="idm139670053465008">Paaminder os stedse,</l>
+                           <l xml:id="idm139670053464592">At Sværde vi hvæsse,</l>
+                           <l xml:id="idm139670053464144">Kun hvæsse og svinge</l>
+                           <l xml:id="idm139670053463696">For Lys og for Vinge,</l>
+                           <pb n="601" xml:id="s601" facs="adl/grundtvig/grundtvig03/grun3601"/>
+                           <l xml:id="idm139670053462032">For Blomsten i Skoven,</l>
+                           <l xml:id="idm139670053461616">For Lyset fra Oven,</l>
+                           <l xml:id="idm139670053461200">For Vingen, som mægter</l>
+                           <l xml:id="idm139670053460752">De vordende Slægter</l>
+                           <l xml:id="idm139670053460304">At hæve fra Jord,</l>
+                           <l xml:id="idm139670053459872">For Lys, som kan gløde,</l>
+                           <l xml:id="idm139670053459424">Oplive det Døde</l>
+                           <l xml:id="idm139670053458992">I Nord.</l>
+                        </lg>
+                        <trailer xml:id="idm139670053458448">
+                           <hi rend="bold" xml:id="idm139670053458192">N. F. S. Grundtvig.</hi>
+                        </trailer>
+                     </div>
+                  </div>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

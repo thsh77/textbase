@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epistola ad
+      johannem laurentii (1523)</title>
+            <author>Helgesen, Poul</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140085696765232">
+                     <name xml:id="idm140085696764800">
+                        <surname xml:id="idm140085696764496">Helgesen</surname>, <forename xml:id="idm140085696764032">Poul</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140085696763360">Skrifter af Paulus Helie 1. Bind  / ved Marius
+	  Kristensen. - 1932</title>
+                  <title xml:id="idm140085696762896">Udgivet af Det Danske Sprog- og Litteraturselskab</title>
+                  <pubPlace xml:id="idm140085696762448">København</pubPlace>
+                  <date xml:id="idm140085696761984">1932-1948</date>
+                  <biblScope>162-164</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid60723" decls="#biblid60723">
+            <front xml:id="idm140085695947376">
+               <pb n="161" facs="adl/helgesen/helgesen1/helg1161" xml:id="idm140085695947120"/>
+               <titlePage xml:id="idm140085695946304">
+                  <docTitle xml:id="idm140085695946048">
+                     <titlePart type="main" xml:id="idm140085695945792">EPISTOLA<lb xml:id="idm140085695945232"/>AD<lb xml:id="idm140085695944928"/>JOHANNEM LAVRENTII<lb xml:id="idm140085695944640"/>1523							</titlePart>
+                  </docTitle>
+               </titlePage>
+               <pb n="162" facs="adl/helgesen/helgesen1/helg1162" xml:id="idm140085695943968"/>
+            </front>
+            <body xml:id="idm140085695943072">
+               <pb n="163" facs="adl/helgesen/helgesen1/helg1163" xml:id="idm140085695942816"/>
+               <div xml:id="idm140085695942048">
+                  <head xml:id="idm140085695941792">Venerando domino magistro Johanni<lb xml:id="idm140085695941488"/>
+Laurentij canonico Roschildensi frater<lb xml:id="idm140085695941184"/>
+Paulus Helie Carmelita salutem.</head>
+                  <p xml:id="idm140085695940752">Significare mihi uelis obsecro, amantissime Johan nes, per hunc Petrum nostrum, quando reuerendissimo domino tuo oportunum fuerit illi rei uacare, quam tu nuper ex me secreto didicisti. Ego uero me ad uos iamdudum contulissem, sed ita grauioribus semper iudicabam uos occupatos negociis, ut istis intendere minime uacaret. Interim res mihi cepit non admodum placere, imo penituit me laborum quos illi operi impenderam, quod nouus iste principatus reipublice non cesserit ex animi mei sententia, per quem multi insignem quandam omnium hactenus collapsarum rerum restaurationem expectarunt, que adeo non secuta est, ut plures etiam seditiones, turbe et reipublice pestes uideantur exorte. Liberius nunc uulgus loquitur de totius regni prelatis et proceribus, quam unquam fecerit de rege Christierno, ob magistratum infeliciter gestum tam turpiter expulso. Nec desunt etiam, qui ideo autumant profligatum esse Christiernum, quo priuatis procerum rebus magis quam publicis reipublice commodis consultum
+	<pb n="164" facs="adl/helgesen/helgesen1/helg1164" xml:id="idm140085695939472"/>
+foret. Atque utinam procerum turba tantisper dissimulasset ius suum, si quod habent in subiectos sibi rusticos, dum seditiones exorte fuissent prorsus exstincte! Sed dum omnes ius suum, quod uel sibi finxerunt, uel nescio quo titulo habuerunt, exigere pertinaciter sategerunt, ita ignem admouerunt igni, ut periculum sit ipsum magnum incendium conflaturum. Porro sunt plerique qui existimant, satius esse [78] unius pertulisse tyrannidem quam tam multorum. Unius auaritiam implere non est difficile, at inexplebilem multorum cupiditatem satiare impossibile est, adeoque sui dissimiles facti sunt magistratus et regni con sules, ut omnem pene mereantur appellationem, preter eam, quam sibi ex stemmatum dignitate uendicant, quandoquidem negotiatores eorum ita singulos regni angulos occuparunt, ut etiam facile muscas concluderent, si ipsis usu et commodo forent: Ideoque clamant multi, eos non fuisse meliori principe dignos, quam erat Christiernus omnium tyrannorum facile princeps. Etiam plerique iam magis aduentum Christierni quam olim discessum cupiunt, siue falsi errore uulgi, siue etiam iuste prouocati presentium tyrannide. Ego nihil temere definio; sed hoc scio, quod nisi neglectis priuatis commodis incipiant publicis studere, futurum est, ut iustus dominus et equissimus omnium iudex preteritis plagis adijciat multo atrociores. Hoc ad te scribo, mi Johannes, quod integritas tua mihi nimis est perspecta, quam iccirco non dubito boni consulturam, si quid, raptus animi mei ardore, etiam imprudenter effiitiuero.</p>
+                  <p xml:id="idm140085695937040">Uale. Ex Helsingør anno a Christo nato 1523. 3.die Septembris.</p>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

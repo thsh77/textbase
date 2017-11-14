@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M. goldschmidt (1819-1887)</title>
+            <author>Brandes, Georg</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140648092681328">
+                     <name xml:id="idm140648092681072">
+                        <surname xml:id="idm140648092680944">Brandes</surname>, <forename xml:id="idm140648092680512">Georg</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140648092680256">Samlede Skrifter</title>
+                  <pubPlace xml:id="idm140648092679968">København</pubPlace>
+                  <date xml:id="idm140648092679456">1899-1910</date>
+                  <biblScope>447-468</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid57351" decls="#biblid57351">
+            <body xml:id="idm140648092249840">
+               <pb n="448" facs="adl/brandes/brand2/bran2448" xml:id="idm140648092249584"/>
+               <pb n="449" facs="adl/brandes/brand2/bran2449" xml:id="idm140648092248816"/>
+               <pb n="450" facs="adl/brandes/brand2/bran2450" xml:id="idm140648092248048"/>
+               <pb n="451" facs="adl/brandes/brand2/bran2451" xml:id="idm140648092247280"/>
+               <pb n="452" facs="adl/brandes/brand2/bran2452" xml:id="idm140648092246512"/>
+               <pb n="453" facs="adl/brandes/brand2/bran2453" xml:id="idm140648092645056"/>
+               <pb n="454" facs="adl/brandes/brand2/bran2454" xml:id="idm140648092644288"/>
+               <pb n="455" facs="adl/brandes/brand2/bran2455" xml:id="idm140648092643520"/>
+               <pb n="456" facs="adl/brandes/brand2/bran2456" xml:id="idm140648092642752"/>
+               <pb n="457" facs="adl/brandes/brand2/bran2457" xml:id="idm140648092641984"/>
+               <pb n="458" facs="adl/brandes/brand2/bran2458" xml:id="idm140648092641216"/>
+               <pb n="459" facs="adl/brandes/brand2/bran2459" xml:id="idm140648092640448"/>
+               <pb n="460" facs="adl/brandes/brand2/bran2460" xml:id="idm140648092639680"/>
+               <pb n="461" facs="adl/brandes/brand2/bran2461" xml:id="idm140648092638912"/>
+               <pb n="462" facs="adl/brandes/brand2/bran2462" xml:id="idm140648092638144"/>
+               <pb n="463" facs="adl/brandes/brand2/bran2463" xml:id="idm140648092637376"/>
+               <pb n="464" facs="adl/brandes/brand2/bran2464" xml:id="idm140648092636608"/>
+               <pb n="465" facs="adl/brandes/brand2/bran2465" xml:id="idm140648092635840"/>
+               <pb n="466" facs="adl/brandes/brand2/bran2466" xml:id="idm140648092635072"/>
+               <pb n="467" facs="adl/brandes/brand2/bran2467" xml:id="idm140648092634304"/>
+               <pb n="468" facs="adl/brandes/brand2/bran2468" xml:id="idm140648092633536"/>
+               <p xml:id="idm140648092632768"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

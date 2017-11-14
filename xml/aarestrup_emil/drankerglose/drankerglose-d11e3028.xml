@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Drankerglose.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59694" decls="#biblid59694">
+            <head xml:id="idm140382756931072">DRANKERGLOSE.</head>
+            <lg xml:id="idm140382756930656">
+               <l xml:id="idm140382756930400">Solguden hver en Aften viger</l>
+               <l xml:id="idm140382756929968">Og I sin vaade Seng nedstiger,</l>
+               <l xml:id="idm140382756929536">Dog staaer hver Dag han aarle op. -</l>
+               <l xml:id="idm140382756929104">Ha, paa min Sjæl! en Dranker brøelte,</l>
+               <l xml:id="idm140382756928624">Hvis Viin i Vandets Sted han føelte,</l>
+               <l xml:id="idm140382756928144">Saa stod han ei for Middag op!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

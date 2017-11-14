@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ved kongens hjemkomst fra sin sommerrejse.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid73020" decls="#biblid73020">
+            <head xml:id="idm139731450134240">Ved Kongens Hjemkomst fra sin Sommerrejse.<lb xml:id="idm139731450133920"/>(Paa Kjøbenhavns Rhed den 16 August 1861.)</head>
+            <lg xml:id="idm139731450133440">
+               <l xml:id="idm139731450133184">Velkommen hjem, vor Konge kjær!</l>
+               <l xml:id="idm139731450132720">med bliden Bør,</l>
+               <l xml:id="idm139731450132288">fra hist, hvor Virket lukker sig,</l>
+               <l xml:id="idm139731450131904">til her, hvor frit det vugger sig,</l>
+               <l xml:id="idm139731450131520">mens Svaneflokken dukker sig</l>
+               <l xml:id="idm139731450131136">med Rovfugls Kløer;</l>
+               <l xml:id="idm139731450130688">hin Svaneflok med Flag paa Stang,</l>
+               <l xml:id="idm139731450130304">med brede, hvide Vingefang,</l>
+               <l xml:id="idm139731450129920">som synger ej sin Svanesang</l>
+               <l xml:id="idm139731450129536">før Danmark døer.</l>
+            </lg>
+            <lg xml:id="idm139731450128976">
+               <l xml:id="idm139731450128720">En Kæmpehøj, en Runesteen</l>
+               <l xml:id="idm139731450128272">har her vi ej;</l>
+               <l xml:id="idm139731450127856">men disse Bølger, dette Hav</l>
+               <l xml:id="idm139731450127392">med skum-indristet Runestav</l>
+               <l xml:id="idm139731450127008">er selv en søgrøn Kæmpegrav</l>
+               <l xml:id="idm139731450126544">paa Kongens Vej!</l>
+               <l xml:id="idm139731450126128">Her sjunger hvert et Bølgeslag</l>
+               <l xml:id="idm139731450125664">om Kongedybets Hædersdag,</l>
+               <l xml:id="idm139731450125216">og end en Dyst for Danmarks Flag</l>
+               <l xml:id="idm139731450124832">vi frygter ej!</l>
+            </lg>
+            <lg xml:id="idm139731450124288">
+               <l xml:id="idm139731450124032">Ja, hilset vær, vor Konge god,</l>
+               <l xml:id="idm139731450123568">ved Sjællands Kyst!</l>
+               <l xml:id="idm139731450123120">Paa Himmelbjergets Top Du stod,</l>
+               <l xml:id="idm139731450122736">og under Klintens vaade Fod,</l>
+               <pb n="154" xml:id="s154" facs="adl/richardt/richardt1/rich1154"/>
+               <l xml:id="idm139731450121152">og midt i Markens Overflod,</l>
+               <l xml:id="idm139731450120768">ved Jyllands Bryst!</l>
+               <l xml:id="idm139731450120352">Men her Du seer, hvad hist Du saae:</l>
+               <l xml:id="idm139731450119968">Vor Friheds Rug velsignet staa,</l>
+               <l xml:id="idm139731450119584">og Ax ved Ax dit Hjerte spaa</l>
+               <l xml:id="idm139731450119200">en gylden Høst!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

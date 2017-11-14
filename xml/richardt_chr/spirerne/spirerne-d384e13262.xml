@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spirerne.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid79886" decls="#biblid79886">
+            <head xml:id="idm140352320545984">Spirerne.</head>
+            <lg xml:id="idm140352320545568">
+               <l xml:id="idm140352320545312">I bløde Spirer bag Hegn og Gjærde,</l>
+               <l xml:id="idm140352320544832">der vel er danned' som grønne Sværde,</l>
+               <l xml:id="idm140352320544352">men dog maa svaje for Vind og Vejr, -</l>
+               <l xml:id="idm140352320543920">hvor fik I Magt til at vinde Sejr?</l>
+               <pb n="205" facs="adl/richardt/richardt2/rich2205" xml:id="idm140352320543488"/>
+               <l xml:id="idm140352320542672">Hvor fik I Kraft, med saa spæde Odde</l>
+               <l xml:id="idm140352320542192">at bryde Frostjordens haarde Skodde?</l>
+               <l xml:id="idm140352320541760">- En Hvisken mon gjennem Sæden gaa,</l>
+               <l xml:id="idm140352320541280">det var, som svarte de Tunger smaa:</l>
+            </lg>
+            <lg xml:id="idm140352320540720">
+               <l xml:id="idm140352320540464">»Vi laa saa længe og længtes saare,</l>
+               <l xml:id="idm140352320540032">da faldt i Mulden en Medynkstaare,</l>
+               <l xml:id="idm140352320539600">og Solen drog os, og viste Vej:</l>
+               <l xml:id="idm140352320539168">kom kun, I Spæde, følg efter mig!</l>
+            </lg>
+            <lg xml:id="idm140352320538576">
+               <l xml:id="idm140352320538320">
+                  <hi rend="italics" xml:id="idm140352320538192">Han</hi>, som os kaldte, han gav os Kraften,</l>
+               <l xml:id="idm140352320537360">hvor skulde ellers vi Smaafolk havt'en!</l>
+               <l xml:id="idm140352320536928">Han har mod Lyset os Vej bered', -</l>
+               <l xml:id="idm140352320536496">
+                  <hi rend="italics" xml:id="idm140352320536368">hans</hi> Kraft fuldkommes i Skrøb'lighed!«</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

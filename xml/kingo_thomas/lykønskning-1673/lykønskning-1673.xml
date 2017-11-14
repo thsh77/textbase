@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lykønskning [1673?]</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015369092032">
+                     <name xml:id="idm140015369091776">
+                        <surname xml:id="idm140015369091648">Kingo</surname>,
+      <forename xml:id="idm140015369091200">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015369090912">Samlede skrifter 2</title>
+                  <pubPlace xml:id="idm140015369090624">København</pubPlace>
+                  <publisher xml:id="idm140015369090192">Munksgaard</publisher>
+                  <date xml:id="idm140015369089856">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid76889" decls="#biblid76889">
+            <body xml:id="idm140015366267264">
+               <opener xml:id="idm140015366267008">
+                  <salute xml:id="idm140015366266752">
+Høy-Æxile, Høy og Velbaarne Herre,<lb xml:id="idm140015366266400"/>
+                     <name xml:id="idm140015366266144">Greve Peter Griffenfeld</name>,<lb xml:id="idm140015366265728"/>
+Greve til Griffenfelds Borg,<lb xml:id="idm140015366265424"/>
+Hans Kongl. Majest. Riges Canceler, Ridder af Elephanten<lb xml:id="idm140015366265088"/>
+og Dannebroge, Geheime Raad, Ober og <hi rend="italics" xml:id="idm140015366264784">Geheime-Estats </hi>og<lb xml:id="idm140015366264096"/>
+Kammei-<hi rend="italics" xml:id="idm140015366263808">Secreterer, </hi>Canceli-Raad, <hi rend="italics" xml:id="idm140015366263088">Assessor </hi>i <hi rend="italics" xml:id="idm140015366262400">Collegio Status</hi>
+                     <lb xml:id="idm140015366261712"/>
+og Høyeste-Ræt, Befalnings-Mand over Tønsberg Amt.
+</salute>
+               </opener>
+               <lg xml:id="idm140015366261072">
+                  <l xml:id="idm140015366260816">Guds naadis store Mand, du himmel-baarne Greve,</l>
+                  <l xml:id="idm140015366260368">Her er mit ynskis maal: gid du maat lenge leve!</l>
+                  <l xml:id="idm140015366259920">Gud som har grunden lagt til dend din ære-spiir,</l>
+                  <l xml:id="idm140015366259424">Hand himmel-støtte dend til din og Danmarks siir!</l>
+                  <l xml:id="idm140015366258928">Gud legge hundred aar til dine levnets dage,</l>
+                  <l xml:id="idm140015366258480">Og lede til din seng en hiertens engle-mage,</l>
+                  <l xml:id="idm140015366258032">Som kand formere dig din lykke, lyst og liv,</l>
+                  <l xml:id="idm140015366257584">At Danmark have kand en ævig-lived Griv.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015366256976">
+                  <hi rend="italics" xml:id="idm140015366256336">Tekstgrundlag: Wiélandt X 403 f.    Overskrift i </hi>A<hi rend="sup" xml:id="idm140015366255568">2</hi>
+                  <hi rend="italics" xml:id="idm140015366255072">stærkt forkartet
+i </hi>Høy og] <hi rend="italics" xml:id="idm140015366254320">mgl. </hi>B   3 Greve .. Borg] <hi rend="italics" xml:id="idm140015366253600">mgl. </hi>B   <hi rend="italics" xml:id="idm140015366252880">12 </hi>levnets] Livis B</note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

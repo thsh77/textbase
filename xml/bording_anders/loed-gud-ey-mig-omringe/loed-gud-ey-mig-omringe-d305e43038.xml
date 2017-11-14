@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loed gud ey mig omringe</title>
+            <author>Bording, Anders</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <title xml:id="idm140114471059440">Digte. - 1984</title>
+                  <author n="1" xml:id="idm140607960305264">
+                     <name xml:id="idm140607960305008">
+                        <surname xml:id="idm140607960304880">Bording</surname>,
+	      <forename xml:id="idm140607960304416">Anders</forename>
+                     </name>
+                  </author>
+                  <pubPlace xml:id="idm140114471059184">København</pubPlace>
+                  <publisher xml:id="idm140114471058720">Det Danske Sprog- og
+	  Litteraturselskab</publisher>
+                  <date xml:id="idm140114471058368">1984-86</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid136268" decls="#biblid136268">
+            <head xml:id="idm140114460787696">206.<lb xml:id="idm140114460787408"/>
+               <hi rend="italics" xml:id="idm140114460787152">In Festo Michaelis.</hi>
+            </head>
+            <lg xml:id="idm140114460786336">
+               <head xml:id="idm140114460786080">1.</head>
+               <l xml:id="idm140114460785696">Loed Gud ey mig omringe</l>
+               <l xml:id="idm140114460785280">Med Englers tryge vagt</l>
+               <l xml:id="idm140114460784864">Hvo kunde da betvinge</l>
+               <l xml:id="idm140114460784448">Den grumme Sathans magt</l>
+               <l xml:id="idm140114460784032">Gaf hand ey deres skare</l>
+               <l xml:id="idm140114460783616">Befalning at staae bj</l>
+               <l xml:id="idm140114460783200">Hvo kunde mig forsvare</l>
+               <l xml:id="idm140114460782784">Och for u-lykken frje.</l>
+            </lg>
+            <lg xml:id="idm140114460782240">
+               <head xml:id="idm140114460781984">2.</head>
+               <l xml:id="idm140114460781600">Min egen magt er ringe</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

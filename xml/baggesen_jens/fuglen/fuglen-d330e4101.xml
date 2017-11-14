@@ -1,0 +1,386 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fuglen</title>
+            <author>Baggesen, Jens</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140651424342432">
+                     <name xml:id="idm140651424342176">
+                        <surname xml:id="idm140651424342048">Baggesen</surname>, <forename xml:id="idm140651424341584">Jens</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140651424341296"> Riimbreve og poetiske Epistler. 1. Samling, 1784-1808. - 1890</title>
+                  <pubPlace xml:id="idm140651424340960">København</pubPlace>
+                  <date xml:id="idm140651424340448">1889-1903</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62961" decls="#biblid62961">
+            <head xml:id="idm140651423216464">Fuglen.</head>
+            <opener xml:id="idm140651423216048">Til Frøken Sophie Haller, i Bern.<lb xml:id="idm140651423215712"/> 1790.<lb xml:id="idm140651423215424"/> Lyon.</opener>
+            <lg xml:id="idm140651423215008">
+               <l xml:id="idm140651423214752">Fornemmer du, at jeg mig nærmer dig?</l>
+               <l xml:id="idm140651423214272">Og at mit Legem, som min Siæl,</l>
+               <l xml:id="idm140651423213808">Skiøndt ubevingt, tilbage skynder sig</l>
+               <l xml:id="idm140651423213328">Til Kilden af mit Hiertes Vel?</l>
+               <l xml:id="idm140651423212896">O banker ei dit ellers stille Bryst,</l>
+               <l xml:id="idm140651423212464">Naar du mod Syden vender dig?</l>
+               <l xml:id="idm140651423212032">Sig, evig elskede Veninde! sig!</l>
+               <l xml:id="idm140651423211600">O! føler du, at jeg mig nærmer dig,</l>
+               <l xml:id="idm140651423211120">Med Tusinddeelen af min Lyst?</l>
+               <l xml:id="idm140651423210688">Og ønsker du, at kunne flyve mig</l>
+               <l xml:id="idm140651423210224">Imøde, som en lille Fugl, der svinger</l>
+               <l xml:id="idm140651423209744">Sig over Bierg og Dal og Krat og Elv,</l>
+               <l xml:id="idm140651423209312">Paa himmelovergivne lette Vinger,</l>
+               <l xml:id="idm140651423208880">Som en ætherisk Engel, som du selv?</l>
+            </lg>
+            <lg xml:id="idm140651423208272">
+               <l xml:id="idm140651423208016">Ja du er selv en himmelsk Fugl, <hi rend="italics" xml:id="idm140651423207712"><!--<emph>-->Palmine<!--</emph>--></hi>!</l>
+               <l xml:id="idm140651423206544">Og Engles Kiendemærker ere dine!</l>
+               <l xml:id="idm140651423206080">Som deres er dit Aasyn, deres Sang</l>
+               <l xml:id="idm140651423205648">Er din; og deres lette Flugt din Gang.</l>
+               <l xml:id="idm140651423205216">Jeg saae dig over Blomsterengen svæve</l>
+               <l xml:id="idm140651423204736">Paa Bredden af den underfulde Søe,</l>
+               <l xml:id="idm140651423204272">Hvorom sig Alper høit mod Himlen hæve,</l>
+               <l xml:id="idm140651423203792">Meer lig en himmelsk end en jordisk Møe!</l>
+               <pb n="50" xml:id="s50" facs="adl/baggesen/baggesen2/bagg2050"/>
+               <l xml:id="idm140651423202240">Jeg saae dig klart udfolde fire Vinger:</l>
+               <l xml:id="idm140651423201808">De straalende, som hæved dine Fied,</l>
+               <l xml:id="idm140651423201328">Var Ungdom, Sundhed, Uskyld, Munterhed;</l>
+               <l xml:id="idm140651423200896">O hvilken iblandt Himlens Fugle svinger</l>
+               <l xml:id="idm140651423200464">Sig giennem Luften op og ned</l>
+               <l xml:id="idm140651423200032">Paa fire saa velsignte Vinger?</l>
+               <l xml:id="idm140651423199600">Og Engel er du, hvis en Dødelig</l>
+               <l xml:id="idm140651423199136">Ved Engel ellers noget tænker sig;</l>
+               <l xml:id="idm140651423198672">Thi du er from og venlig, blid og mild,</l>
+               <l xml:id="idm140651423198240">Og i dit Øie lyser Himlens Ild,</l>
+               <l xml:id="idm140651423197776">Og i dit Hierte gløder hellig Varme</l>
+               <l xml:id="idm140651423197296">For alt hvad der er ædelt, skiønt, og got;</l>
+               <l xml:id="idm140651423196800">Og ei med Fødderne du flyver blot;</l>
+               <l xml:id="idm140651423196336">Du flagrer selv med dine Arme.</l>
+            </lg>
+            <lg xml:id="idm140651423195776">
+               <l xml:id="idm140651423195520">Ja flagre kun med disse, slaae dermed</l>
+               <l xml:id="idm140651423195088">I Luften!</l>
+               <l xml:id="idm140651423194672">Hæv op og ned</l>
+               <l xml:id="idm140651423194240">Med inderlig Livsalighed </l>
+               <l xml:id="idm140651423193808">Dem begge mig imøde! føl derved,</l>
+               <l xml:id="idm140651423193344">Hvad Sommerfuglen føler, naar, i Duften</l>
+               <l xml:id="idm140651423192864">Af Roser og Violer, op og ned</l>
+               <l xml:id="idm140651423192432">Den gynger sig,</l>
+               <l xml:id="idm140651423192016">En overgiven Engel lig,</l>
+               <l xml:id="idm140651423191600">Igiennem Luften:</l>
+               <l xml:id="idm140651423191184">Det søde salige jeg veed ei hvad,</l>
+               <l xml:id="idm140651423190720">Som uvilkaarltgen bevæger Livet,</l>
+               <l xml:id="idm140651423190256">Fra Cederen paa Libanon til Sivet,</l>
+               <l xml:id="idm140651423189824">Fra Soles Sol indtil det mindste Blad!</l>
+               <l xml:id="idm140651423189392">Omsonst, <hi rend="italics" xml:id="idm140651423189104"><!--<emph>-->Palmine!<!--</emph>--></hi> blev den
+						dig ei givet</l>
+               <l xml:id="idm140651423187888">Den Egenskab at flagre saa</l>
+               <l xml:id="idm140651423187456">Med Armene! bekiæmp den ei! lad Vane</l>
+               <l xml:id="idm140651423186976">Den kalde dem, som intet himmelskt ane,</l>
+               <l xml:id="idm140651423186544">Hvis Siæle selv ei flyve, men kun gaae;</l>
+               <l xml:id="idm140651423186064">Hvis halve Liv og halvt maa stille staae!</l>
+               <pb n="51" xml:id="s51" facs="adl/baggesen/baggesen2/bagg2051"/>
+               <l xml:id="idm140651423184448">Jeg veed, som Digter, hvad Naturen hyller</l>
+               <l xml:id="idm140651423184000">I hver Bevægelse, hver fri Gestalt,</l>
+               <l xml:id="idm140651423183520">som kiendemærker Enkeltet i alt;</l>
+               <l xml:id="idm140651423183056">Og dette dit Særkiende mig fortryller.</l>
+            </lg>
+            <lg xml:id="idm140651423182448">
+               <l xml:id="idm140651423182192">
+                  <hi rend="italics" xml:id="idm140651423182064"><!--<emph>-->Palmine!<!--</emph>--></hi> jeg vil
+						aabenbare dig,</l>
+               <l xml:id="idm140651423180848">Hvad Musen, der, hvad er, hvad var og vorder, kiender,</l>
+               <l xml:id="idm140651423180400">Om hin Bevægelse med dine Hænder</l>
+               <l xml:id="idm140651423179936">Nys i en Drøm har aabenbaret mig.</l>
+            </lg>
+            <lg xml:id="idm140651423179344">
+               <l xml:id="idm140651423179088">Da jeg paa Bredden, hvor jeg alle Blomster sanker,</l>
+               <l xml:id="idm140651423178640">Alt havde mangen Gang lagt Mærke til,</l>
+               <l xml:id="idm140651423178160">
+                  <hi rend="italics" xml:id="idm140651423178032"><!--<emph>-->Palmine!<!--</emph>--></hi> dine Armes
+						Flagrespil,</l>
+               <l xml:id="idm140651423176848">Faldt jeg engang i dybe Tanker:</l>
+               <l xml:id="idm140651423176416">Hun sikkert, sagde jeg mig selv,</l>
+               <l xml:id="idm140651423175984">Paa Blomsterranden af min Elv,</l>
+               <l xml:id="idm140651423175552">En lille Fugl engang tilforn har været;</l>
+               <l xml:id="idm140651423175072">Snart denne Tanke blev af tusind andre næret.</l>
+               <l xml:id="idm140651423174576">Af Pønsen, Grublen og af Længsel reent fortæret,</l>
+               <l xml:id="idm140651423174080">Blev endelig mit Hierte mat,</l>
+               <l xml:id="idm140651423173648">Og ubevægelig jeg laae,</l>
+               <l xml:id="idm140651423173200">Beskygget, under Rislen af min Aa,</l>
+               <l xml:id="idm140651423172768">I Klippens Læ,</l>
+               <l xml:id="idm140651423172336">Ved Roden af et yndigt Træ,</l>
+               <l xml:id="idm140651423171872">Og saae</l>
+               <l xml:id="idm140651423171488">Paa grønne Qvist en lille lyseblaa,</l>
+               <l xml:id="idm140651423171008">Sølvspraglet Fugl, saa vever og saa let,</l>
+               <l xml:id="idm140651423170528">Saa huld og skiøn og peen og net,</l>
+               <l xml:id="idm140651423170064">At paa dens lille hvide Bryst et Spet</l>
+               <l xml:id="idm140651423169632">Af Guld selv havde syntes mig en Plet.</l>
+            </lg>
+            <lg xml:id="idm140651423169072">
+               <l xml:id="idm140651423168816">I det jeg henrykt stirred paa dens Ynde,</l>
+               <l xml:id="idm140651423168368">Udfoldte den de kiælne Vinger smaa,</l>
+               <l xml:id="idm140651423167888">Og flagrede dermed, som vilde den begynde</l>
+               <l xml:id="idm140651423167440">At flyve ned mod Stedet, hvor jeg laae;</l>
+               <pb n="52" xml:id="s52" facs="adl/baggesen/baggesen2/bagg2052"/>
+               <l xml:id="idm140651423165744">Men meer og meer, jo meer jeg stirrede derpaa,</l>
+               <l xml:id="idm140651423165296">Vedblev den, blot med Vingerne at slaae.</l>
+               <l xml:id="idm140651423164848">"Aldeles," raabte jeg, "aldeles som <hi rend="italics" xml:id="idm140651423164544"><!--<emph>-->Palmine!<!--</emph>--></hi>''</l>
+               <l xml:id="idm140651423163328">Og et tredoppelt Ekko klang</l>
+               <l xml:id="idm140651423162896">Fra Klippens Lund, der over Elven hang:</l>
+               <l xml:id="idm140651423162464">
+                  <hi rend="italics" xml:id="idm140651423162336"><!--<emph>-->"Palmine!<!--</emph>--></hi>"</l>
+               <l xml:id="idm140651423161200">Mit pludselige Raab forskrækte den</l>
+               <l xml:id="idm140651423160736">Saa stærkt, at den, istedenfor at flagre</l>
+               <l xml:id="idm140651423160256">Fra Qvisten bort hen over Eng' og Agre,</l>
+               <l xml:id="idm140651423159824">Gud veed hvorhen,</l>
+               <l xml:id="idm140651423159440">Blev siddende, som i et Buur,</l>
+               <l xml:id="idm140651423159008">Saa stille som en Muur.</l>
+            </lg>
+            <lg xml:id="idm140651423158464">
+               <l xml:id="idm140651423158208">Jeg studsede ved dette Syn</l>
+               <l xml:id="idm140651423157776">Som rørt af Lun,</l>
+               <l xml:id="idm140651423157344">Og som om Hiertet i mit Hoveds Svimmel</l>
+               <l xml:id="idm140651423156912">Blev pludseligen hævet til en Himmel:</l>
+               <l xml:id="idm140651423156432">En lille lyseblaa, sølvspettet Fugl,</l>
+               <l xml:id="idm140651423155952">Som med et Løv paa Qvisten leger Skiul!</l>
+               <l xml:id="idm140651423155472">Som slaaer med Vinger ind og ud,</l>
+               <l xml:id="idm140651423155040">Og ikke flyver, paa mit Raab, sit Skud!</l>
+               <l xml:id="idm140651423154608">Som slaaer med Vinger ud og ind,</l>
+               <l xml:id="idm140651423154176">Og som af Skræk</l>
+               <l xml:id="idm140651423153744">Ei smutter væk,</l>
+               <l xml:id="idm140651423153312">Let som en Vind,</l>
+               <l xml:id="idm140651423152896">Men sidder kiæk</l>
+               <l xml:id="idm140651423152464">Paa Træets Tind</l>
+               <l xml:id="idm140651423152032">Som Lindeblomstret i den stille Lind!</l>
+               <l xml:id="idm140651423151600">Det sikkert ikke er en Fugl som hine,</l>
+               <l xml:id="idm140651423151168">Der ligne blot i Lethed min <hi rend="italics" xml:id="idm140651423150864"><!--<emph>-->Palmine!<!--</emph>--></hi>
+               </l>
+               <l xml:id="idm140651423149696">Saa tænkte jeg, og udbrød anden Gang:</l>
+               <l xml:id="idm140651423149216">"Hvor har du hiemme, lille lyseblaa!</l>
+               <l xml:id="idm140651423148784">Der flagrer først, og sidder stille saa</l>
+               <l xml:id="idm140651423148304">Paa min Palmines Viis?"</l>
+               <l xml:id="idm140651423147920">Den sang</l>
+               <pb n="53" xml:id="s53" facs="adl/baggesen/baggesen2/bagg2053"/>
+               <l xml:id="idm140651423146288">(Øg atter i min Lund et trefoldt Ekko klang):</l>
+               <l xml:id="idm140651423145792">"I paradiis!" -</l>
+               <l xml:id="idm140651423145376">"I min Palmines Hiem" (gientog jeg) "altsaa
+						boer</l>
+               <l xml:id="idm140651423144928">Du venlige?" - "Nei!" svarte den.
+						- "Hvorledes?</l>
+               <l xml:id="idm140651423144480">Er Paradiser over denne Jord?" -</l>
+               <l xml:id="idm140651423144048">"Ja! Himln være lovet!" blev den ved,</l>
+               <l xml:id="idm140651423143568">"I hvert et andet Lysets Opholdssted,</l>
+               <l xml:id="idm140651423143136">"Hvor Himlen, smilende til reen Uskyldighed,</l>
+               <l xml:id="idm140651423142688">"I Favnen af Naturen, aldrig vredes." -</l>
+            </lg>
+            <lg xml:id="idm140651423142128">
+               <l xml:id="idm140651423141872">"Men sig mig, smukke Fugl fra Paradiis!"</l>
+               <l xml:id="idm140651423141424">Begyndte jeg igien fortroligviis,</l>
+               <l xml:id="idm140651423140992">"Hvi kom du hid, da her du ei har hiemme?</l>
+               <l xml:id="idm140651423140544">Hvad søger du paa denne Bred,</l>
+               <l xml:id="idm140651423140080">I min <hi rend="italics" xml:id="idm140651423139792"><!--<emph>-->Palmines<!--</emph>--></hi>
+						Blomsterfied?</l>
+               <l xml:id="idm140651423138624">Tør jeg dit Himmelærende fornemme?"</l>
+               <l xml:id="idm140651423138144">Den svarte med en sød og kiælen Stemme:</l>
+               <l xml:id="idm140651423137664">"Jeg leder om min Søster; saae du ei</l>
+               <l xml:id="idm140651423137184">"Etsteds blandt disse Bierge, paa din Vei,</l>
+               <l xml:id="idm140651423136736">"En lille lyseblaa uskyldig Pige,</l>
+               <l xml:id="idm140651423136304">"Som slaaer med Vinger, nei! med Arme vil jeg sige,</l>
+               <l xml:id="idm140651423135856">"Og som staaer stille, hvor dig andre vige?"
+						-</l>
+               <l xml:id="idm140651423135408">"Palmine? min Palmine?" raabte jeg -</l>
+               <l xml:id="idm140651423134976">"Tilvisse har jeg hende seet! tilvisse!</l>
+               <l xml:id="idm140651423134544">Jeg hende saae, jeg siden intet seer;</l>
+               <l xml:id="idm140651423134112">Naar mig Naturen sig i al sin Ynde teer,</l>
+               <l xml:id="idm140651423133664">Naar Rosen og naar Morgenrøden leer,</l>
+               <l xml:id="idm140651423133184">Naar du med dine Vinger slaaer, i disse,</l>
+               <l xml:id="idm140651423132736">I disse Vinger selv jeg hende seer!</l>
+               <l xml:id="idm140651423132304">Ei nogen Dødelig kan her i Live</l>
+               <l xml:id="idm140651423131840">Om hende dig saa god Beretning give;</l>
+               <l xml:id="idm140651423131408">Jeg intet andet, jeg kun hende veed,</l>
+               <l xml:id="idm140651423130976">Men veed i hende nok til Salighed.</l>
+               <l xml:id="idm140651423130544">Jeg iler just til hendes Opholdssted;</l>
+               <l xml:id="idm140651423130112">Og gierne vil jeg dig til hende bringe!</l>
+               <pb n="54" xml:id="s54" facs="adl/baggesen/baggesen2/bagg2054"/>
+               <l xml:id="idm140651423128528">Men før vi skynde vores Gang,</l>
+               <l xml:id="idm140651423128064">som ei er lang,</l>
+               <l xml:id="idm140651423127648">Og snart til Ende,</l>
+               <l xml:id="idm140651423127232">Du først mig synge, hvad du veed om hende!"</l>
+               <l xml:id="idm140651423126736">Den sang:</l>
+            </lg>
+            <lg xml:id="idm140651423126192">
+               <l xml:id="idm140651423125936">"Jmellem Himmelen og Jorden,</l>
+               <l xml:id="idm140651423125504">"I Morgenrødens Purpuregn</l>
+               <l xml:id="idm140651423125056">"Betrygger os et Regnbuehegn</l>
+               <l xml:id="idm140651423124624">"For Taage, Slud, og Storm, og Torden.</l>
+               <l xml:id="idm140651423124192">" I stille Glæders kiælne Roe</l>
+               <l xml:id="idm140651423123728">"Henflagre vi,</l>
+               <l xml:id="idm140651423123312">"Henfløite vi</l>
+               <l xml:id="idm140651423122880">"Titi! titi!</l>
+               <l xml:id="idm140651423122464">"Vort Liv, til Vaaren er forbi,</l>
+               <l xml:id="idm140651423122032">"Mens Lilier og Roser groe,</l>
+               <l xml:id="idm140651423121600">"For Torne frie,</l>
+               <l xml:id="idm140651423121184">"I Himmelhaven, vi beboc.</l>
+               <l xml:id="idm140651423120752">"Titi! titi!</l>
+               <l xml:id="idm140651423120336">"Palmine var i dette Paradiis</l>
+               <l xml:id="idm140651423119904">"En lyfeblaalig Ætherfugl som jeg,</l>
+               <l xml:id="idm140651423119440">"I hele Himmelhaven var der ei</l>
+               <l xml:id="idm140651423119008">"En mere skiøn! end lyder i hver Leeg,</l>
+               <l xml:id="idm140651423118528">"I hvert et Chor af Fugle hendes Priis.</l>
+               <l xml:id="idm140651423118096">"Sig ingen svang, sig ingen Engel svinger</l>
+               <l xml:id="idm140651423117648">"Paa lettere, paa luftigere Vinger,</l>
+               <l xml:id="idm140651423117216">"Og ingen fløi fra Lund til Lund,</l>
+               <l xml:id="idm140651423116752">" I Morgenstund og Aftenstund,</l>
+               <l xml:id="idm140651423116320">"Saa liveligt (thi Lysets Straale kun</l>
+               <l xml:id="idm140651423115888">"Indhenter vores muntre Flugt) som hun!</l>
+               <l xml:id="idm140651423115456">"Saa himmelsk svæver ingen Colibri;</l>
+               <l xml:id="idm140651423114976">"Men, hvad hun stedse meest Behag fandt i,</l>
+               <l xml:id="idm140651423114528">"Var, med os andre, snart med mig, snart eene,</l>
+               <l xml:id="idm140651423114080">"At lege Skiul blandt Lundens Palmegreene;</l>
+               <pb n="55" xml:id="s55" facs="adl/baggesen/baggesen2/bagg2055"/>
+               <l xml:id="idm140651423112416">"Hvorfor hun og, som du har giettet alt,</l>
+               <l xml:id="idm140651423111968">"I Himmelhaven blev <hi rend="italics" xml:id="idm140651423111680"><!--<emph>-->Palmine<!--</emph>--></hi> kaldt.</l>
+            </lg>
+            <lg xml:id="idm140651423110384">
+               <l xml:id="idm140651423110128">"Saa legte vi en Aften sammen,</l>
+               <l xml:id="idm140651423109696">"I Fugle-Fryd og Fugle-Gammen,</l>
+               <l xml:id="idm140651423109264">"Og skiulte med behendtg Kunst</l>
+               <l xml:id="idm140651423108832">"Vor Flugt i Maanens Ætherdunst.</l>
+               <l xml:id="idm140651423108368">"Henflagret fra sin Palmeqvist,</l>
+               <l xml:id="idm140651423107936">"Hun havde skiult sig allersidst.</l>
+               <l xml:id="idm140651423107504">"Vi alle ledte efter hende,</l>
+               <l xml:id="idm140651423107072">"I hver en Havens Kant og Ende:</l>
+               <l xml:id="idm140651423106640">"Pipipet var et kiælent <hi rend="italics" xml:id="idm140651423106320"><!--<emph>-->Ja<!--</emph>--></hi>!</l>
+               <l xml:id="idm140651423105152">"Vi hørte stedse det, forledet,</l>
+               <l xml:id="idm140651423104688">"Men kunde aldrig finde Stedet,</l>
+               <l xml:id="idm140651423104256">"Som Ja-pipipet tonte fra.</l>
+               <l xml:id="idm140651423103824">"Ufynlig endeligen klang</l>
+               <l xml:id="idm140651423103392">"Os denne søde Brudesang:"</l>
+            </lg>
+            <lg xml:id="idm140651423102816">
+               <l xml:id="idm140651423102560">" "Omsonst I rundt omkring mig svæve!"</l>
+               <l xml:id="idm140651423102080">" "Forgiæves I mig flagre nær!"</l>
+               <l xml:id="idm140651423101616">" "Til Stedet, Søstre! hvor jeg er,"</l>
+               <l xml:id="idm140651423101136">" "I sikkert Eder ei kan hæve."</l>
+               <l xml:id="idm140651423100672">" "Jeg svæver i en anden Egn:"</l>
+               <l xml:id="idm140651423100208">" "Mig klang en himmelsk Harmonie,"</l>
+               <l xml:id="idm140651423099776">" "Jeg svang mig op og fløi forbi"</l>
+               <l xml:id="idm140651423099312">" "Den Have, som I synger i:"</l>
+               <l xml:id="idm140651423098880">" "Titi! titi!"</l>
+               <l xml:id="idm140651423098496">" "Farvel, min fordums Glædes Hegn!"</l>
+               <l xml:id="idm140651423098016">" "O Tryllerie!"</l>
+               <l xml:id="idm140651423097600">" "Jeg toner i en anden Egn:"</l>
+               <l xml:id="idm140651423097168">" "Titi! titi!" " -</l>
+               <l xml:id="idm140651423096752">"Nordlysene nu tændte sig med Bruusen,</l>
+               <l xml:id="idm140651423096272">"Og Sangen tabte sig i deres Suusen;</l>
+               <l xml:id="idm140651423095840">"Vi opgav endelig vort Haab</l>
+               <l xml:id="idm140651423095408">"Og endte Legen og dens Raab.</l>
+               <pb n="56" xml:id="s56" facs="adl/baggesen/baggesen2/bagg2056"/>
+               <l xml:id="idm140651423093760">"Men skiøndt vi sørged femten Foraarsdage</l>
+               <l xml:id="idm140651423093280">"(Hvori fra Lunden intet Ekko klang),</l>
+               <l xml:id="idm140651423092848">"Forvandled dog vor bittre Klage</l>
+               <l xml:id="idm140651423092416">"Til en veemodig Afskeedssang</l>
+               <l xml:id="idm140651423091984">"Den Trøst, at ingensteds usalig Smerte</l>
+               <l xml:id="idm140651423091504">"Vil torde nærme sig et saa ufkyldigt Hierte,</l>
+               <l xml:id="idm140651423091008">"Og at ved hendes første Hiems Forliis</l>
+               <l xml:id="idm140651423090528">"Palmine vandt et andet Paradiis.</l>
+               <l xml:id="idm140651423090096">"I Lunden derfor atter Ekko klang,</l>
+               <l xml:id="idm140651423089664">"Vi sang:"</l>
+            </lg>
+            <lg xml:id="idm140651423089120">
+               <l xml:id="idm140651423088864">" "Hun var uskyldig, from og kiærlig"</l>
+               <l xml:id="idm140651423088384">" "I dette Glædens lille Hegn!"</l>
+               <l xml:id="idm140651423087920">" "Hun svang sig til en anden Egn,"</l>
+               <l xml:id="idm140651423087488">" "For der at flagre mere herlig!"</l>
+               <l xml:id="idm140651423087056">" "Hun finder andre Søstre der;"</l>
+               <l xml:id="idm140651423086592">" "Og engang skulle ogsaa vi,"</l>
+               <l xml:id="idm140651423086160">" "Titi! titi!"</l>
+               <l xml:id="idm140651423085744">" "Did flyve dette Hegn forbi,"</l>
+               <l xml:id="idm140651423085312">" "Titi! titi!"</l>
+               <l xml:id="idm140651423084896">" "Vær altid, Søster, hvor du er,"</l>
+               <l xml:id="idm140651423084416">" "Dig selv kun lig!"</l>
+               <l xml:id="idm140651423084000">" "Vi Fugle, vi, som blive her"</l>
+               <l xml:id="idm140651423083568">" "Vil ligne dig!" "</l>
+            </lg>
+            <lg xml:id="idm140651423083024">
+               <l xml:id="idm140651423082768">Saa tonte Fuglen og fløi ned.</l>
+               <l xml:id="idm140651423082304">Jeg strakte Haanden ud - og vaagnede derved.</l>
+            </lg>
+            <lg xml:id="idm140651423081728">
+               <l xml:id="idm140651423081472">Saaledes lærte mig en himmelsk Drøm</l>
+               <l xml:id="idm140651423080992">Paa Bredden af vor <hi rend="italics" xml:id="idm140651423080704"><!--<emph>-->Thunas<!--</emph>--></hi>
+						Tryllestrøm,</l>
+               <l xml:id="idm140651423079472">Palmine! hvad dit Smiil alt tidlig lod mig ane:</l>
+               <l xml:id="idm140651423079024">Hvorfra du har den englelige Vane,</l>
+               <l xml:id="idm140651423078592">At flagre som en Fugl med din udslagne Favn.</l>
+               <l xml:id="idm140651423078144">O læg den aldrig af! jeg den for meget ynder!</l>
+               <l xml:id="idm140651423077648">Jeg vilde føle smertelig dens Savn!</l>
+               <l xml:id="idm140651423077168">Det er en Flugt mod Himlen, som begynder</l>
+               <pb n="57" xml:id="s57" facs="adl/baggesen/baggesen2/bagg2057"/>
+               <l xml:id="idm140651423075536">I Støvets Lænker alt at yttre sig</l>
+               <l xml:id="idm140651423075072">Som englelig!</l>
+               <l xml:id="idm140651423074656">Vel hæve vi, med al vor beste Flagren,</l>
+               <l xml:id="idm140651423074176">Os ikke høit fra det beskedne Straa,</l>
+               <l xml:id="idm140651423073696">Vi, her i Livets Bane, træde paa,</l>
+               <l xml:id="idm140651423073232">End sige over Ax, som bølge sig i Agren;</l>
+               <l xml:id="idm140651423072752">Men det er altid skiønt, at vidne noget om,</l>
+               <l xml:id="idm140651423072256">Og var det blot i Flugt med Digteraanden</l>
+               <l xml:id="idm140651423071808">Og Flagren op og ned med Armen og med Haanden,</l>
+               <l xml:id="idm140651423071360">At det er Lysets hulde, blide, milde,</l>
+               <l xml:id="idm140651423070928">Bevægelige, livelige Kilde,</l>
+               <l xml:id="idm140651423070464">Hvortil vi gaae, hvorfra vi kom!</l>
+            </lg>
+            <lg xml:id="idm140651423069904">
+               <l xml:id="idm140651423069648">Modtag med Smiil og venlig Mine</l>
+               <l xml:id="idm140651423069216">Din Elskers Toner i et Sprog,</l>
+               <l xml:id="idm140651423068784">Hvori ham fyntes, Nattergalen slog</l>
+               <l xml:id="idm140651423068352">Og Lærken trilled, selv ved Siden af Palmine,</l>
+               <l xml:id="idm140651423067856">Langt borte fra hans eget Hiem!</l>
+               <l xml:id="idm140651423067424">Maaskee <hi rend="italics" xml:id="idm140651423067136"><!--<emph>-->Gallina<!--</emph>--></hi> flagre kan
+						trods dem;</l>
+               <l xml:id="idm140651423065920">Maaskee paa stærkere, maaskee paa flere Vinger</l>
+               <l xml:id="idm140651423065424">
+                  <hi rend="italics" xml:id="idm140651423065296"><!--<emph>-->Teutona<!--</emph>--></hi> høiere sig over
+						Alper svinger;</l>
+               <l xml:id="idm140651423064064">Men Lærkens Dirren, Nattergalens Suk</l>
+               <l xml:id="idm140651423063584">Og Turtelduens dybe kiælne Kluk</l>
+               <l xml:id="idm140651423063120">Er ikke tydske, meget mindre franske.</l>
+               <l xml:id="idm140651423062688">Palmine! læs, hvad qviddrende jeg skrev</l>
+               <l xml:id="idm140651423062208">I dette fuglelige Ffyvebrev;</l>
+               <l xml:id="idm140651423061776">Og lad det ane dig, at hine Toners Svev,</l>
+               <l xml:id="idm140651423061328">Hvis Nyn og Suk i Lunden dig henrev,</l>
+               <l xml:id="idm140651423060896">Er <hi rend="italics" xml:id="idm140651423060592"><!--<emph>-->danske!<!--</emph>--></hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Himmelbjerget (1833)</title>
+            <author>Blicher, Steen Steensen</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140034837471168">
+                     <name xml:id="idm140034837470912">
+                        <surname xml:id="idm140034837470784">Blicher</surname>, <forename xml:id="idm140034837470352">Steen Steensen</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140034837470064">Digte og Noveller</title>
+                  <pubPlace xml:id="idm140034837469776">København</pubPlace>
+                  <date xml:id="idm140034837469264">1946</date>
+                  <biblScope>217-240</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid54179" decls="#biblid54179">
+            <body xml:id="idm140034837129056">
+               <pb n="218" xml:id="n218" facs="adl/blich/blich1/blic1218"/>
+               <pb n="219" xml:id="n219" facs="adl/blich/blich1/blic1219"/>
+               <pb n="220" xml:id="n220" facs="adl/blich/blich1/blic1220"/>
+               <pb n="221" xml:id="n221" facs="adl/blich/blich1/blic1221"/>
+               <pb n="222" xml:id="n222" facs="adl/blich/blich1/blic1222"/>
+               <pb n="223" xml:id="n223" facs="adl/blich/blich1/blic1223"/>
+               <pb n="224" xml:id="n224" facs="adl/blich/blich1/blic1224"/>
+               <pb n="225" xml:id="n225" facs="adl/blich/blich1/blic1225"/>
+               <pb n="226" xml:id="n226" facs="adl/blich/blich1/blic1226"/>
+               <pb n="227" xml:id="n227" facs="adl/blich/blich1/blic1227"/>
+               <pb n="228" xml:id="n228" facs="adl/blich/blich1/blic1228"/>
+               <pb n="229" xml:id="n229" facs="adl/blich/blich1/blic1229"/>
+               <pb n="230" xml:id="n230" facs="adl/blich/blich1/blic1230"/>
+               <pb n="231" xml:id="n231" facs="adl/blich/blich1/blic1231"/>
+               <pb n="232" xml:id="n232" facs="adl/blich/blich1/blic1232"/>
+               <pb n="233" xml:id="n233" facs="adl/blich/blich1/blic1233"/>
+               <pb n="234" xml:id="n234" facs="adl/blich/blich1/blic1234"/>
+               <pb n="235" xml:id="n235" facs="adl/blich/blich1/blic1235"/>
+               <pb n="236" xml:id="n236" facs="adl/blich/blich1/blic1236"/>
+               <pb n="237" xml:id="n237" facs="adl/blich/blich1/blic1237"/>
+               <pb n="238" xml:id="n238" facs="adl/blich/blich1/blic1238"/>
+               <pb n="239" xml:id="n239" facs="adl/blich/blich1/blic1239"/>
+               <pb n="240" xml:id="n240" facs="adl/blich/blich1/blic1240"/>
+               <p xml:id="idm140034837100448"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

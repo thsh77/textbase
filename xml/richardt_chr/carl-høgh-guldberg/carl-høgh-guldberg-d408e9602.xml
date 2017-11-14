@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Carl høgh-guldberg.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140152138539728">
+                     <name xml:id="idm140152138539472">
+                        <surname xml:id="idm140152138539344">Richardt</surname>,
+      <forename xml:id="idm140152138538928">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140152138538640">Samlede Digte. Tredje Deel.</title>
+                  <pubPlace xml:id="idm140152138538336">København</pubPlace>
+                  <date xml:id="idm140152138537824">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid72827" decls="#biblid72827">
+            <head xml:id="idm140152136152352">&#134; Carl Høgh-Guldberg.<lb xml:id="idm140152136152064"/>Marts 1886.<lb xml:id="idm140152136151776"/>
+               <hi rend="italics" xml:id="idm140152136151520">(I Kirken</hi>).</head>
+            <lg xml:id="idm140152136150704">
+               <l xml:id="idm140152136150448">Lad Tonerne følge hans Baare,</l>
+               <l xml:id="idm140152136149984">selv sang han saa sjælfuldt som tyst!</l>
+               <pb n="145" facs="adl/richardt/richardt3/rich3145" xml:id="idm140152136149504"/>
+               <l xml:id="idm140152136148736">for Jordlivets Smil og Taare</l>
+               <l xml:id="idm140152136148304">var der Sangbund og Væld i hans Bryst.</l>
+            </lg>
+            <lg xml:id="idm140152136147696">
+               <l xml:id="idm140152136147440">Han haded ærligt det Lave,</l>
+               <l xml:id="idm140152136146992">holdt blankt sit fædrene Skjold!</l>
+               <l xml:id="idm140152136146528">God var han til Ven at have,</l>
+               <l xml:id="idm140152136146096">og hans Troskab en levende Vold.</l>
+            </lg>
+            <lg xml:id="idm140152136145536">
+               <l xml:id="idm140152136145280">Han var saa ung med de Unge,</l>
+               <l xml:id="idm140152136144848">og mellem de Glade saa glad;</l>
+               <l xml:id="idm140152136144416">dog kjendte han Tider tunge,</l>
+               <l xml:id="idm140152136143984">og til Rosens falmende Blad.</l>
+            </lg>
+            <lg xml:id="idm140152136143424">
+               <l xml:id="idm140152136143168">Men i de Bedendes Skare</l>
+               <l xml:id="idm140152136142752">hans Længsel blev Stilhed og Trøst -</l>
+               <l xml:id="idm140152136142272">lad til Dig, vor Gud, ham fare,</l>
+               <l xml:id="idm140152136141840">til din Naades livsalige Kyst!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ungdomsvers, anden afdeling (1861-1865</title>
+            <author>Brandes, Georg</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140283872281712">
+                     <name xml:id="idm140283872281456">
+                        <surname xml:id="idm140283872281328">Brandes</surname>, <forename xml:id="idm140283872280864">Georg</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140283872280576">Samlede Skrifter</title>
+                  <pubPlace xml:id="idm140283872280288">København</pubPlace>
+                  <date xml:id="idm140283872279776">1899-1910</date>
+                  <biblScope>320-344</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid56454" decls="#biblid56454">
+            <body xml:id="idm140283871972400">
+               <pb n="321" facs="adl/brandes/brand12/bran12321" xml:id="idm140283871972144"/>
+               <pb n="322" facs="adl/brandes/brand12/bran12322" xml:id="idm140283871971376"/>
+               <pb n="323" facs="adl/brandes/brand12/bran12323" xml:id="idm140283871970560"/>
+               <pb n="324" facs="adl/brandes/brand12/bran12324" xml:id="idm140283871969744"/>
+               <pb n="325" facs="adl/brandes/brand12/bran12325" xml:id="idm140283871968976"/>
+               <pb n="326" facs="adl/brandes/brand12/bran12326" xml:id="idm140283871968208"/>
+               <pb n="327" facs="adl/brandes/brand12/bran12327" xml:id="idm140283871967392"/>
+               <pb n="328" facs="adl/brandes/brand12/bran12328" xml:id="idm140283871966624"/>
+               <pb n="329" facs="adl/brandes/brand12/bran12329" xml:id="idm140283871965808"/>
+               <pb n="330" facs="adl/brandes/brand12/bran12330" xml:id="idm140283871964992"/>
+               <pb n="331" facs="adl/brandes/brand12/bran12331" xml:id="idm140283871964176"/>
+               <pb n="332" facs="adl/brandes/brand12/bran12332" xml:id="idm140283871963408"/>
+               <pb n="333" facs="adl/brandes/brand12/bran12333" xml:id="idm140283871962592"/>
+               <pb n="334" facs="adl/brandes/brand12/bran12334" xml:id="idm140283871961824"/>
+               <pb n="335" facs="adl/brandes/brand12/bran12335" xml:id="idm140283871961056"/>
+               <pb n="336" facs="adl/brandes/brand12/bran12336" xml:id="idm140283871960288"/>
+               <pb n="337" facs="adl/brandes/brand12/bran12337" xml:id="idm140283871959520"/>
+               <pb n="338" facs="adl/brandes/brand12/bran12338" xml:id="idm140283871958752"/>
+               <pb n="339" facs="adl/brandes/brand12/bran12339" xml:id="idm140283871957984"/>
+               <pb n="340" facs="adl/brandes/brand12/bran12340" xml:id="idm140283871957216"/>
+               <pb n="341" facs="adl/brandes/brand12/bran12341" xml:id="idm140283871956448"/>
+               <pb n="342" facs="adl/brandes/brand12/bran12342" xml:id="idm140283871955680"/>
+               <pb n="343" facs="adl/brandes/brand12/bran12343" xml:id="idm140283871954864"/>
+               <pb n="344" facs="adl/brandes/brand12/bran12344" xml:id="idm140283871954096"/>
+               <p xml:id="idm140283871953280"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

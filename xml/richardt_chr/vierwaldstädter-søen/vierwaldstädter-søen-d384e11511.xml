@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vierwaldstädter-søen.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid76329" decls="#biblid76329">
+            <head xml:id="idm140352320985104">Vierwaldstädter-Søen.</head>
+            <lg xml:id="idm140352320984656">
+               <l xml:id="idm140352320984400">Jeg saae Dig i Dagens fulde Glans,</l>
+               <l xml:id="idm140352320983968">et Tæppe med gyldne Traade,</l>
+               <l xml:id="idm140352320983504">med alle de granklædte Bjerges Krans,</l>
+               <l xml:id="idm140352320983024">med blinkende Vovers Straaledans</l>
+               <l xml:id="idm140352320982592">om de snehvidt teltede Baade.</l>
+            </lg>
+            <lg xml:id="idm140352320982032">
+               <l xml:id="idm140352320981776">Jeg saae Dig ved Nat i »Føhn« og Slud,</l>
+               <l xml:id="idm140352320981296">naar det sprøjted mod Klipperanden,</l>
+               <l xml:id="idm140352320980816">naar Bølgerne vendte det Hvide ud,</l>
+               <l xml:id="idm140352320980352">og Skyggerne mødtes med stærke Bud</l>
+               <l xml:id="idm140352320979872">fra den ene Bred til den anden.</l>
+            </lg>
+            <lg xml:id="idm140352320979312">
+               <l xml:id="idm140352320979056">Jeg stod i din skraanende Fjeldskovs Ly,</l>
+               <l xml:id="idm140352320978608">jeg aanded Granduftens Sødme;</l>
+               <l xml:id="idm140352320978144">da sank Guds Sol i sin Rosensky -</l>
+               <l xml:id="idm140352320977712">som i en forklaret Verdens Gry</l>
+               <l xml:id="idm140352320977280">stod Fjeldet i glødende Rødme.</l>
+            </lg>
+            <lg xml:id="idm140352320976688">
+               <l xml:id="idm140352320976432">O maatte jeg end engang Dig see,</l>
+               <l xml:id="idm140352320976000">med »Pilatus« i Taager forvildet!</l>
+               <pb n="176" facs="adl/richardt/richardt2/rich2176" xml:id="idm140352320975536"/>
+               <l xml:id="idm140352320974768">med Rutlis rislende Kilder tre,</l>
+               <l xml:id="idm140352320974336">med lyse Lier mod Uris Snee,</l>
+               <l xml:id="idm140352320973904">med Vaar i Vinterens Billed!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

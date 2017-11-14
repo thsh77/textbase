@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nytaarsønske til chr. v 1690</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015369092032">
+                     <name xml:id="idm140015369091776">
+                        <surname xml:id="idm140015369091648">Kingo</surname>,
+      <forename xml:id="idm140015369091200">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015369090912">Samlede skrifter 2</title>
+                  <pubPlace xml:id="idm140015369090624">København</pubPlace>
+                  <publisher xml:id="idm140015369090192">Munksgaard</publisher>
+                  <date xml:id="idm140015369089856">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid73418" decls="#biblid73418">
+            <body xml:id="idm140015366692864">
+               <opener xml:id="idm140015366692608">
+                  <salute xml:id="idm140015366692352">
+Tide-Tanker,<lb xml:id="idm140015366692064"/>
+Eller<lb xml:id="idm140015366691776"/>Allerunderdanigst Hierte-meent<lb xml:id="idm140015366691472"/>
+Nyt-Aars Ynske,<lb xml:id="idm140015366691184"/>
+Til<lb xml:id="idm140015366690896"/>Den Stormægtigste Enevolds-Herre,<lb xml:id="idm140015366690560"/>
+                     <name xml:id="idm140015366690304">Kong Christian dend Femte</name>,<lb xml:id="idm140015366689872"/>
+Konge til Danmark og Norge, de Wenders og Gothers,<lb xml:id="idm140015366689552"/>
+Hertug udi Sleßvig, Holsten, Stormarn og Dytmersken,<lb xml:id="idm140015366689168"/>
+Greve udi Oldenborg og Delmenhorst,<lb xml:id="idm140015366688864"/>
+Ved Indgangen af det Aar 1690.
+</salute>
+               </opener>
+               <lg xml:id="idm140015366688304">
+                  <l xml:id="idm140015366688048">Du Tidens Kiøre-Svend, som Sool og Maane driver</l>
+                  <l xml:id="idm140015366687552">Ved Himlens Tøjel, og alt i din Sirkel bliver.</l>
+                  <l xml:id="idm140015366687056">Spend fra det gamle Aar! velt i Bag-Tidens Slug,</l>
+                  <l xml:id="idm140015366686608">Alt af dit Age-Læs, der ej bør have Brug!</l>
+                  <l xml:id="idm140015366686128">Spend for Nyt-Aar igien, op ad Stenbukkens Bakke,</l>
+                  <l xml:id="idm140015366685680">Rend, til du ham igien i Hasen ind kand hakke,</l>
+                  <l xml:id="idm140015366685232">Naar du har faret om og seet ald Nordens Egn,</l>
+                  <l xml:id="idm140015366684784">Lyksaliggiort udi hver Tidemaal og Tegn.</l>
+                  <l xml:id="idm140015366684336">Driv Lykke midlertid, med hver en Sool og Stierne,</l>
+                  <l xml:id="idm140015366683888">Op for Kong Christian den Femte, Fromheds Kierne,</l>
+                  <l xml:id="idm140015366683440">Vend Tidens Hiul herom for Kongen mange Aar,</l>
+                  <l xml:id="idm140015366682992">Til Hand (trods Nid og Hevn) paa hver sin Uven gaar!</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015366682416">
+                  <hi rend="italics" xml:id="idm140015366681648">Tekstgrundlag: Originaltrykket (UB).</hi>
+               </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,775 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kammerater</title>
+            <author>Nansen, Peter</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140127435363024">
+                     <name xml:id="idm140127435362768">
+                        <surname xml:id="idm140127435362640">Nansen</surname>,
+      <forename xml:id="idm140127435362192">Peter</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140127435361904">Samlede
+      Skrifter</title>
+                  <title xml:id="idm140127435361616">Bd. 3: Noveller; Skitser; Dramatiske Smaating</title>
+                  <pubPlace xml:id="idm140127435361296">[København]</pubPlace>
+                  <publisher xml:id="idm140127435360832">Gyldendal</publisher>
+                  <date xml:id="idm140127435360496">1908-09</date>
+                  <biblScope>270-284</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid69546" decls="#biblid69546">
+            <front xml:id="idm140127433431456">
+               <head xml:id="idm140127433431200">
+                  <hi rend="italics" xml:id="idm140127433430944">KAMMERATER</hi>
+                  <lb xml:id="idm140127433430256"/>
+                  <hi rend="italics" xml:id="idm140127433430000">DRAMATISK SITUATION</hi>
+               </head>
+               <pb n="270" facs="adl/nansen/nansen3/nans3270" xml:id="idm140127433429184"/>
+            </front>
+            <body xml:id="idm140127433428288">
+               <pb n="271" facs="adl/nansen/nansen3/nans3271" xml:id="idm140127433428032"/>
+               <div type="castList" xml:id="idm140127433427216">
+                  <head xml:id="idm140127433426688">PERSONERNE</head>
+                  <list type="simple" xml:id="idm140127433426272">
+                     <item xml:id="idm140127433425744">Henrik – Ellen</item>
+                  </list>
+               </div>
+               <div xml:id="idm140127433425072">
+                  <stage type="mix" xml:id="idm140127433424816">Et hyggelig møbleret Ungherreværelse. I Midten et rundt Bord, hvorpaa en Karaffel Vin og en Buket Blomster. Om Bordet tre Stole. Tilvenstre en Chaiselongue, en Gyngestol og et lille Bord. Tilhøjre to Fag Vinduer. Op mod Baggrunden paaskraa for Vinduet et Skrivebord. I Baggrunden Døren.</stage>
+                  <stage type="mix" xml:id="idm140127433423600">Henrik gaar rundt i Værelset; ordner hist og her, flytter Blomsterne hen paa det lille Bord o. s. v.</stage>
+                  <sp xml:id="idm140127433422752">
+                     <speaker xml:id="idm140127433422496">PIGEN</speaker>
+                     <stage type="mix" xml:id="idm140127433422080">kommer ind med en Konfektpose.</stage>
+                     <p xml:id="idm140127433421408">Værs'go, her er de kandiserede. </p>
+                     <stage type="mix" xml:id="idm140127433420944">Sætter Posen paa Bordet.</stage>
+                  </sp>
+                  <sp xml:id="idm140127433420128">
+                     <speaker xml:id="idm140127433419872">HENRIK.</speaker>
+                     <p xml:id="idm140127433419456">Tak. <stage type="mix" xml:id="idm140127433419168">Gaar hen til Bordet, ryster Frugten ud i en Glasskaal; Pigen er imens gaaet mod Døren.</stage> Og husk saa, Ida, naar den unge Dame kommer – hun er her vist for Resten straks – at lade hende komme ind uden videre. Og mens hun er her, modtager jeg ingen – hører De, <hi rend="italics" xml:id="idm140127433417984">ingen</hi>.</p>
+                     <stage type="mix" xml:id="idm140127433417168">Pigen gaar; Henrik gaar atter rundt og ser efter, om alt er i Orden; kommer hen til Skrivebordet, lægger nogle Papirer tilrette, faar fat i en Billet og løber den halvhøjt igennem.</stage>
+                     <p xml:id="idm140127433416160">"Kære Ven. Har noget vigtigt at meddele. Kommer, om belejligt, imorgen Formiddag Kl. 1. Svar poste restante. Ellen Krog." Hm, hm. <stage type="mix" xml:id="idm140127433415632">Begynder at nynne; et Øjeblik efter ringer det.</stage> Gudsdød! <stage type="mix" xml:id="idm140127433414864">Han skynder sig hen for Spejlet, retter paa Haar og Slips. Det banker.</stage> Kom ind!</p>
+                  </sp>
+                  <pb n="272" facs="adl/nansen/nansen3/nans3272" xml:id="idm140127433413872"/>
+                  <stage type="mix" xml:id="idm140127433413056">Han gaar mod Døren; ELLEN træder ind, tilsløret, i pynteligt Formiddagstoilette. Et Øjebliks forlegen Pavse.</stage>
+                  <sp xml:id="idm140127433412192">
+                     <speaker xml:id="idm140127433411936">HENRIK.</speaker>
+                     <p xml:id="idm140127433411520">Velkommen, Frk. Krog. Deres Besøg . . . jeg forsikrer Dem . . .</p>
+                  </sp>
+                  <sp xml:id="idm140127433410864">
+                     <speaker xml:id="idm140127433410608">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433410192">ler bag Sløret. Slaar det til Side; ser smilende paa ham og strækker Haanden frem.</stage>
+                     <p xml:id="idm140127433409376"> Goddag Henrik. Er vi ikke
+Dus længer? Vi er jo ikke Uvenner, vel? Og jeg synes dog, at vi har kendt hinanden <hi rend="italics" xml:id="idm140127433408880">saa</hi> godt –</p>
+                  </sp>
+                  <sp xml:id="idm140127433407936">
+                     <speaker xml:id="idm140127433407680">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433407264">rækker hende Haanden.</stage>
+                     <p xml:id="idm140127433406576"> Ja, naar <hi rend="italics" xml:id="idm140127433406288">Du</hi> synes,
+Ellen. Men jeg var bange for –</p>
+                  </sp>
+                  <sp xml:id="idm140127433405328">
+                     <speaker xml:id="idm140127433405072">ELLEN.</speaker>
+                     <p xml:id="idm140127433404656">Aa, hvor Du er morsom, Henrik. Saa tragisk som Du har taget vort Forhold siden vi ...</p>
+                  </sp>
+                  <sp xml:id="idm140127433404048">
+                     <speaker xml:id="idm140127433403792">HENRIK.</speaker>
+                     <p xml:id="idm140127433403376">Siden <hi rend="italics" xml:id="idm140127433403088">Du</hi> hævede, mener Du?</p>
+                  </sp>
+                  <sp xml:id="idm140127433402128">
+                     <speaker xml:id="idm140127433401872">ELLEN.</speaker>
+                     <p xml:id="idm140127433401456">Nej, Henrik, siden <hi rend="italics" xml:id="idm140127433401168">Du</hi> gjorde det. Det <hi rend="italics" xml:id="idm140127433400480">var</hi> Dig.</p>
+                  </sp>
+                  <sp xml:id="idm140127433399536">
+                     <speaker xml:id="idm140127433399280">HENRIK.</speaker>
+                     <p xml:id="idm140127433398864">Men hvor kan Du dog –</p>
+                  </sp>
+                  <sp xml:id="idm140127433398320">
+                     <speaker xml:id="idm140127433398064">ELLEN.</speaker>
+                     <p xml:id="idm140127433397648">Naa, ja, ja. Saa siger jeg, som jeg begyndte: siden <hi rend="italics" xml:id="idm140127433397328">vi</hi> hævede vor Forlovelse. Siden den Gang har Du været utrolig. Véd Du, at jeg næsten ikke turde skrive til Dig?</p>
+                  </sp>
+                  <sp xml:id="idm140127433396176">
+                     <speaker xml:id="idm140127433395920">HENRIK.</speaker>
+                     <p xml:id="idm140127433395504">Men hvorfor?</p>
+                  </sp>
+                  <sp xml:id="idm140127433394960">
+                     <speaker xml:id="idm140127433394704">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433394288">tager Handsker af.</stage>
+                     <p xml:id="idm140127433393632"> Aa – saadan som Du har hilst mig paa Gaden. Kan Du huske for et Par Uger siden, jeg mødte Dig med en af dine Venner? Du stillede Dig saadan op hilste saadan <stage type="mix" xml:id="idm140127433393040">hun efterligner hans Hilsen.</stage> Er <hi rend="italics" xml:id="idm140127433392336">det</hi> maaske nødvendigt, naar man ikke mere er forlovet?</p>
+                  </sp>
+                  <sp xml:id="idm140127433391296">
+                     <speaker xml:id="idm140127433391040">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433390624">lidt ironisk.</stage>
+                     <p xml:id="idm140127433389968">Nej, Du. Men man kunde jo ikke vide, hvor smærteligt et Indtryk Begivenheden havde gjort paa Dig, og at hilse en sørgende Enke med et gemytligt Smil vil Du dog vist indrømme mig ikke gaar an! – Men læg nu Tøjet, Du. Maa jeg – ? </p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140127433388976">Under disse Repliker er de gaaet frem paa Scenen; Overtøjet lægges til Side; han hjælper hende ivrigt, og de smiler til hinanden; imens ser hun sig nysgærrigt om i Stuen.</stage>
+                  <pb n="273" facs="adl/nansen/nansen3/nans3273" xml:id="idm140127433387984"/>
+                  <sp xml:id="idm140127433387216">
+                     <speaker xml:id="idm140127433386960">HENRIK.</speaker>
+                     <p xml:id="idm140127433386544">Kan Du kende Lejligheden igen? Jeg tror saamæn ingen Forandringer der er gjort.</p>
+                  </sp>
+                  <sp xml:id="idm140127433385856">
+                     <speaker xml:id="idm140127433385600">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433385184">søgende.</stage>
+                     <p xml:id="idm140127433384528"> Mit Billede paa Skrivebordet er borte.</p>
+                  </sp>
+                  <sp xml:id="idm140127433383968">
+                     <speaker xml:id="idm140127433383712">HENRIK.</speaker>
+                     <p xml:id="idm140127433383296">Det var jo nødvendigt – for en Forms Skyld. Men jeg gemmer det i Skuffen.</p>
+                  </sp>
+                  <sp xml:id="idm140127433382624">
+                     <speaker xml:id="idm140127433382368">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433381952">tager et Album fra Bordet.</stage>
+                     <p xml:id="idm140127433381280">Er det tilladt?</p>
+                  </sp>
+                  <sp xml:id="idm140127433380736">
+                     <speaker xml:id="idm140127433380480">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433380064">stiller sig bagved hende og smiler.</stage>
+                     <p xml:id="idm140127433379392"> Værs'go.</p>
+                  </sp>
+                  <sp xml:id="idm140127433378848">
+                     <speaker xml:id="idm140127433378592">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433378176">lukker op.</stage>
+                     <p xml:id="idm140127433377520">Men Henrik dog! <hi rend="italics" xml:id="idm140127433377232">Jeg</hi> paa første Side.</p>
+                  </sp>
+                  <sp xml:id="idm140127433376272">
+                     <speaker xml:id="idm140127433376016">HENRIK.</speaker>
+                     <p xml:id="idm140127433375600">Aa Du, jeg har, ærligt talt, rent glemt –</p>
+                  </sp>
+                  <sp xml:id="idm140127433374992">
+                     <speaker xml:id="idm140127433374736">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433374320">strængt.</stage>
+                     <p xml:id="idm140127433373664">Men véd Du, at det er højst upassende?</p>
+                  </sp>
+                  <sp xml:id="idm140127433373056">
+                     <speaker xml:id="idm140127433372800">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433372384">ler.</stage>
+                     <p xml:id="idm140127433371728">Aa vist ikke. Men kom nu og sæt Dig.</p>
+                     <stage type="mix" xml:id="idm140127433371248">Han byder hende en magelig Stol ved Bordet; sætter sig selv paa den anden Side.</stage>
+                     <p xml:id="idm140127433370448">Jeg maa nok skænke Dig et lille Glas Madeira? <stage type="mix" xml:id="idm140127433370080">Hun nikker; han skænker til hende og sig; giver hende en lille Tallerken og byder Glasskaalen frem.</stage> Og en kandiseret Frugt, hvis Du tør for Tænderne?</p>
+                  </sp>
+                  <sp xml:id="idm140127433368848">
+                     <speaker xml:id="idm140127433368592">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433368176">tager en Frugt; ler. </stage>
+                     <p xml:id="idm140127433367520"> Aa Tak, de fejler fremdeles ikke noget. </p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140127433366944">Pavse; de nipper til Vinen.</stage>
+                  <sp xml:id="idm140127433366272">
+                     <speaker xml:id="idm140127433366016">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433365600">hyggeligt.</stage>
+                     <p xml:id="idm140127433364944">Naa, lille Ellen – nu sidder Du da her igen. Det er saamæn længe siden! Kan Du huske sidst, hvor vi var i daarligt Humør?</p>
+                  </sp>
+                  <sp xml:id="idm140127433364160">
+                     <speaker xml:id="idm140127433363904">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433363488">spisende Frugt.</stage>
+                     <p xml:id="idm140127433362832">Ja, men <hi rend="italics" xml:id="idm140127433362544">det</hi> havde vi ogsaa Grund til; for den Gang var vi forlovede. Ja, ser Du, Henrik, <hi rend="italics" xml:id="idm140127433361792">det</hi> vil jeg lige saa gærne sige Dig straks: Du skal ikke være bange for min Visit, at den skulde gaa ud paa . . . ja, Du forstaar mig
+	<pb n="274" facs="adl/nansen/nansen3/nans3274" xml:id="idm140127433360848"/>
+nok – at det skulde være – for at gøre det godt igen.</p>
+                  </sp>
+                  <sp xml:id="idm140127433359648">
+                     <speaker xml:id="idm140127433359392">HENRIK.</speaker>
+                     <p xml:id="idm140127433358976">Nej, saa indbildsk er jeg da heller ikke. Skønt <stage type="mix" xml:id="idm140127433358608">koketterende</stage> Du kan dog ikke nægte, at der var en Tid, hvor Du holdt <hi rend="italics" xml:id="idm140127433357824">meget</hi> af mig?</p>
+                  </sp>
+                  <sp xml:id="idm140127433356848">
+                     <speaker xml:id="idm140127433356592">ELLEN.</speaker>
+                     <p xml:id="idm140127433356176">Ja, meget mer end Du fortjente. For i Grunden, Henrik, var det altid smaat med <hi rend="italics" xml:id="idm140127433355824">din</hi> Kærlighed.</p>
+                  </sp>
+                  <sp xml:id="idm140127433354864">
+                     <speaker xml:id="idm140127433354608">HENRIK.</speaker>
+                     <p xml:id="idm140127433354192">Aa, det vil jeg nu ikke sige, – men ser Du – jeg hører jo egenlig ikke til de begejstrede Naturer eller saadan de meget følsomme. Men jeg holdt virkelig en hel Del af Dig.</p>
+                  </sp>
+                  <sp xml:id="idm140127433353312">
+                     <speaker xml:id="idm140127433353056">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433352640">lidt sentimentalt.</stage>
+                     <p xml:id="idm140127433351984"> Ja, i Grunden holdt vi dog meget af hinanden, ikke?</p>
+                  </sp>
+                  <sp xml:id="idm140127433351408">
+                     <speaker xml:id="idm140127433351152">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433350736">indvendende.</stage>
+                     <p xml:id="idm140127433350080">Jo, men vi passede ikke for hinanden. Vi duede ikke til at være forlovede. Kan Du huske, hvor vi ofte var ubehagelige mod hinanden?</p>
+                  </sp>
+                  <sp xml:id="idm140127433349280">
+                     <speaker xml:id="idm140127433349024">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433348608">ivrig.</stage>
+                     <p xml:id="idm140127433347952">Men mest Du, Henrik. Aa, hvor Du tit var utaalelig – saa irritabel. Der var én Ting især, som voldte mig mange Taarer. Men jeg græd altid først, naar Du var borte. Det var, naar jeg spurgte Dig, om Du holdt rigtig meget af mig, og Du saa svarede – aa saa tvært, at det gjorde Du "naturligvis".</p>
+                  </sp>
+                  <sp xml:id="idm140127433346832">
+                     <speaker xml:id="idm140127433346576">HENRIK.</speaker>
+                     <p xml:id="idm140127433346160">Jamen Du var ogsaa slem, Ellen, til at plage mig med det Spørgsmaal. Jeg kan nu én Gang ikke lide at udtale mine Følelser saa bestemt.</p>
+                  </sp>
+                  <sp xml:id="idm140127433345360">
+                     <speaker xml:id="idm140127433345104">ELLEN.</speaker>
+                     <p xml:id="idm140127433344688">Nej Du; men det var netop derfor jeg spurgte. For det pinte mig saa forfærdelig, at <hi rend="italics" xml:id="idm140127433344240">Du</hi> aldrig af Dig selv kunde sige saadan et lille kærligt Ord og derfor kredsede mine Tanker altid derom. Ja <hi rend="italics" xml:id="idm140127433343360">Du</hi> var rigtignok ofte slem imod mig.</p>
+                  </sp>
+                  <sp xml:id="idm140127433342400">
+                     <speaker xml:id="idm140127433342144">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433341728">flytter sig hen paa Stolen nærmere hendes, tager 
+	<pb n="275" facs="adl/nansen/nansen3/nans3275" xml:id="idm140127433341104"/>
+hendes Haand og siger blødt.</stage>
+                     <p xml:id="idm140127433340128">Var jeg <hi rend="italics" xml:id="idm140127433339840">saa</hi> slem imod hende, lille Stakkel! </p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140127433338880">Pavse.</stage>
+                  <sp xml:id="idm140127433338224">
+                     <speaker xml:id="idm140127433337968">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433337552">sagte.</stage>
+                     <p xml:id="idm140127433336896">Aa, hvor jeg har længtes efter at sidde saadan med Dig som gode Venner og tale ganske roligt om alt, hvad der har ligget mig paa Sinde. Ikke, Henrik, vi vil altid være hinanden gode Venner, altid vide, at vi trygt kan stole paa hinanden?</p>
+                  </sp>
+                  <sp xml:id="idm140127433335888">
+                     <speaker xml:id="idm140127433335632">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433335216">slipper hendes Haand.</stage>
+                     <p xml:id="idm140127433334560"> Ja Du . . . Og saa, Ellen, siig mig saa, hvad den egenlige Grund var til, at Du nu søgte mig?</p>
+                  </sp>
+                  <sp xml:id="idm140127433333840">
+                     <speaker xml:id="idm140127433333584">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433333168">muntert.</stage>
+                     <p xml:id="idm140127433332512">Kan Du gætte?</p>
+                  </sp>
+                  <sp xml:id="idm140127433331952">
+                     <speaker xml:id="idm140127433331696">HENRIK.</speaker>
+                     <p xml:id="idm140127433331280">Nej, siig mig det. Jeg kan naturligvis alligevel ikke gætte det . . . Se, nu skænker jeg i Glassene og saa, mens vi ryger os en Cigaret – for Du ryger vel endnu?</p>
+                  </sp>
+                  <sp xml:id="idm140127433330432">
+                     <speaker xml:id="idm140127433330176">ELLEN.</speaker>
+                     <p xml:id="idm140127433329760">Ja, men <hi rend="italics" xml:id="idm140127433329472">nu</hi> kun i Smug.</p>
+                  </sp>
+                  <sp xml:id="idm140127433328528">
+                     <speaker xml:id="idm140127433328272">HENRIK.</speaker>
+                     <p xml:id="idm140127433327856">Hvorfor dog?</p>
+                  </sp>
+                  <sp xml:id="idm140127433327312">
+                     <speaker xml:id="idm140127433327056">ELLEN.</speaker>
+                     <p xml:id="idm140127433326640">Det skal Du nok faa at vide.</p>
+                  </sp>
+                  <sp xml:id="idm140127433326080">
+                     <speaker xml:id="idm140127433325824">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433325408">har skænket i Glassene og taget sit Cigaretfutteral frem.</stage>
+                     <p xml:id="idm140127433324656">Maa jeg byde? Det er dine gamle Cigaretter, Sultana. Og saa <stage type="mix" xml:id="idm140127433324320">stryger Tændstik af og byder</stage> mens vi sidder her og har det hyggeligt, fortæller den lille mig, hvad der ligger hende paa Sinde.</p>
+                  </sp>
+                  <sp xml:id="idm140127433323136">
+                     <speaker xml:id="idm140127433322880">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433322464">rygende i smaa, hurtige Drag.</stage>
+                     <p xml:id="idm140127433321792"> Aa -- det Var for Resten slet ikke noget. Jeg vilde blot tale lidt med Dig om gamle Dage og saa – ja saa var der egenlig ikke noget bestemt.</p>
+                  </sp>
+                  <sp xml:id="idm140127433321120">
+                     <speaker xml:id="idm140127433320864">HENRIK.</speaker>
+                     <p xml:id="idm140127433320448">Nu kniber Du ud. Vær nu ærlig.</p>
+                  </sp>
+                  <sp xml:id="idm140127433319856">
+                     <speaker xml:id="idm140127433319600">ELLEN.</speaker>
+                     <p xml:id="idm140127433319184">Naa ja ja. Siden Du endelig vil – der <hi rend="italics" xml:id="idm140127433318880">var</hi> virkelig ogsaa noget, jeg saa frygtelig gærne vilde vide. Vil Du svare mig sandt?</p>
+                  </sp>
+                  <sp xml:id="idm140127433317792">
+                     <speaker xml:id="idm140127433317536">HENRIK.</speaker>
+                     <p xml:id="idm140127433317120">Paa Ære.</p>
+                  </sp>
+                  <sp xml:id="idm140127433316576">
+                     <speaker xml:id="idm140127433316320">ELLEN.</speaker>
+                     <p xml:id="idm140127433315904">Ja, det var blot det, at jeg saa gærne vilde vide, hvordan Du egenlig var til Mode den
+	<pb n="276" facs="adl/nansen/nansen3/nans3276" xml:id="idm140127433315456"/>
+Gang vor Forlovelse var hævet? Var Du meget bedrøvet?</p>
+                  </sp>
+                  <sp xml:id="idm140127433314304">
+                     <speaker xml:id="idm140127433314048">HENRIK.</speaker>
+                     <p xml:id="idm140127433313632">Var Du?</p>
+                  </sp>
+                  <sp xml:id="idm140127433313088">
+                     <speaker xml:id="idm140127433312832">ELLEN.</speaker>
+                     <p xml:id="idm140127433312416">Svar Du først mig.</p>
+                  </sp>
+                  <sp xml:id="idm140127433311856">
+                     <speaker xml:id="idm140127433311600">HENRIK.</speaker>
+                     <p xml:id="idm140127433311184">Men saa bliver Du ikke vred, naar jeg siger Sandheden?</p>
+                  </sp>
+                  <sp xml:id="idm140127433310608">
+                     <speaker xml:id="idm140127433310352">ELLEN.</speaker>
+                     <p xml:id="idm140127433309936">Nej, naturligvis.</p>
+                  </sp>
+                  <sp xml:id="idm140127433309392">
+                     <speaker xml:id="idm140127433309136">HENRIK.</speaker>
+                     <p xml:id="idm140127433308720">Ja, for ser Du. Ærlig talt <hi rend="italics" xml:id="idm140127433308384">var</hi> Bedrøvelsen ikke saa stor. Naturligvis maatte jeg jo lade lidt fortvivlet, og de første 8 Dage gik jeg rundt med et højtideligt Ansigt og lod mig trykke deltagende i Haanden. Men i Grunden var jeg lumsk glad over, at jeg igen var fri og ikke behøvede at tage alle de Forlovelseshensyn.</p>
+                  </sp>
+                  <sp xml:id="idm140127433306880">
+                     <speaker xml:id="idm140127433306624">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433306208">spydig. </stage>
+                     <p xml:id="idm140127433305552">Aa, Du tog Dig ellers ikke dine Pligter saa tungt.</p>
+                  </sp>
+                  <sp xml:id="idm140127433304976">
+                     <speaker xml:id="idm140127433304720">HENRIK.</speaker>
+                     <p xml:id="idm140127433304304">Men alligevel – en vis Forsigtighed var man dog nødt til. Og nu var jeg saa fri, Du – aa, saa fri, og saa havde jeg ikke alle de kedelige Breve at skrive.</p>
+                  </sp>
+                  <sp xml:id="idm140127433303472">
+                     <speaker xml:id="idm140127433303216">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433302800">inderligt.</stage>
+                     <p xml:id="idm140127433302144">Ja Brevene, <hi rend="italics" xml:id="idm140127433301856">de</hi> var slemme, hu ha. Og <hi rend="italics" xml:id="idm140127433301168">vi</hi> havde det dog forholdsvis nemt, for jeg var da mest hjemme her i Byen.</p>
+                  </sp>
+                  <sp xml:id="idm140127433300176">
+                     <speaker xml:id="idm140127433299920">HENRIK.</speaker>
+                     <p xml:id="idm140127433299504">Jamen saa de daglige Besøg hos Jer. Kan Du huske, hvor vi sad og hang over hinanden og ikke vidste, hvad vi skulde sige? . . . Nu skal jeg forresten fortælle Dig noget morsomt. Kan Du tænke Dig – min gode Ven Strøm gik hen og brød med mig, fordi jeg fortalte ham, at jeg havde været ude at more mig samme Aften som Forlovelsen var hævet. Han blev saa dydig indigneret paa dine Vegne, at han fra det Øjeblik ikke vilde have mere med mig at gøre.</p>
+                  </sp>
+                  <sp xml:id="idm140127433298320">
+                     <speaker xml:id="idm140127433298064">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433297648">medlidende. </stage>
+                     <p xml:id="idm140127433296992">Aa han – han har jo ogsaa altid været saa sart. <stage type="mix" xml:id="idm140127433296624">Nysgærrig, ivrig</stage>. Men var Du virkelig ude at more Dig samme Aften?</p>
+                  </sp>
+                  <pb n="277" facs="adl/nansen/nansen3/nans3277" xml:id="idm140127433295632"/>
+                  <sp xml:id="idm140127433294864">
+                     <speaker xml:id="idm140127433294608">HENRIK.</speaker>
+                     <p xml:id="idm140127433294192">Aa, blot en lille Smule. Jeg trængte til at prøve min Frihed.</p>
+                  </sp>
+                  <sp xml:id="idm140127433293536">
+                     <speaker xml:id="idm140127433293280">ELLEN.</speaker>
+                     <p xml:id="idm140127433292864">Og kan Du saa tænke Dig mig lille Fæ, der gik derhjemme og havde Samvittighedsskrupler, fordi jeg troede, Du var fortvivlet. – Men dit Brev til mig, Henrik, jeg synes dog, det var saa alvorligt?</p>
+                  </sp>
+                  <sp xml:id="idm140127433291936">
+                     <speaker xml:id="idm140127433291680">HENRIK.</speaker>
+                     <p xml:id="idm140127433291264">Ja, Du vilde da vel ikke, at jeg skulde have skrevet humoristisk? – Men nu Du, lad os nu faa dine Bekendelser. Var <hi rend="italics" xml:id="idm140127433290880">Du</hi> fortvivlet?</p>
+                  </sp>
+                  <sp xml:id="idm140127433289936">
+                     <speaker xml:id="idm140127433289680">ELLEN.</speaker>
+                     <p xml:id="idm140127433289264">Ja lige straks.</p>
+                  </sp>
+                  <sp xml:id="idm140127433288720">
+                     <speaker xml:id="idm140127433288464">HENRIK.</speaker>
+                     <p xml:id="idm140127433288048">Hvor længe?</p>
+                  </sp>
+                  <sp xml:id="idm140127433287488">
+                     <speaker xml:id="idm140127433287232">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433286816">efter en lille tøvende Pavse, rask.</stage>
+                     <p xml:id="idm140127433286096"> Til jeg havde sovet paa det og set de andres Bedemandsansigter. For saa forekom pludselig det hele mig saa latterligt, at jeg lo himmelhøjt. Det var om Formiddagen ved Frokosten, da Fa'r med rørt Stemme bød mig Sildesalaten. Jeg lo, saa de troede, jeg var bleven gal.</p>
+                  </sp>
+                  <sp xml:id="idm140127433285024">
+                     <speaker xml:id="idm140127433284768">HENRIK.</speaker>
+                     <p xml:id="idm140127433284352">Og saa siden har Du altsaa været glad?</p>
+                  </sp>
+                  <sp xml:id="idm140127433283744">
+                     <speaker xml:id="idm140127433283488">ELLEN.</speaker>
+                     <p xml:id="idm140127433283072">Ja, jeg var saamæn meget glad. Pavse. Men <hi rend="italics" xml:id="idm140127433282720">var</hi> der alligevel aldrig Dage, Henrik, hvor Du tænkte paa mig og længtes lidt efter mig? Jeg mener naturligvis ikke saadan forelsket, for <hi rend="italics" xml:id="idm140127433281776">det</hi> véd vi jo, at vi ikke elsker hinanden mere, men blot som Ven?</p>
+                  </sp>
+                  <sp xml:id="idm140127433280720">
+                     <speaker xml:id="idm140127433280464">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433280048">alvorlig. </stage>
+                     <p xml:id="idm140127433279392">Jo, Du. Ofte naar jeg sad ene om Aftenen og faldt i Tanker, saa var det Dig, jeg tænkte paa. <stage type="mix" xml:id="idm140127433278928">Tager hendes Haand</stage>. Og saa kunde jeg gribe mig i at længes efter at sidde, som jeg nu sidder, med din lille bløde Haand i min, og tale med Dig, saadan som vi nu sidder og taler – som gode Venner. <stage type="mix" xml:id="idm140127433277888">Pavse</stage>. Og véd Du, hvad jeg aldrig kunde glemme? Hver Gang jeg tændte min Cigar, maatte jeg tænke paa gamle Dage, naar Du, umaadelig
+	<pb n="278" facs="adl/nansen/nansen3/nans3278" xml:id="idm140127433276960"/>
+forsigtig, med Armene strittende langt frem for ikke at stikke Ild i Kjolen, strøg Tændstikken af til mig og holdt den saa længe ved Cigaren, at Du brændte dine smaa Fingre.</p>
+                  </sp>
+                  <sp xml:id="idm140127433275568">
+                     <speaker xml:id="idm140127433275312">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433274896">der har lyttet spændt til hans Ord, bøjet helt frem imod ham, river efter en Pavse pludselig sin Haand løs, rejser sig og gaar over til Chaiselonguen. </stage>
+                     <p xml:id="idm140127433273952">Aa nej, nej! Vi var dog blevet meget ulykkelige, om vi var blevet gift.</p>
+                  </sp>
+                  <sp xml:id="idm140127433273360">
+                     <speaker xml:id="idm140127433273104">HENRIK.</speaker>
+                     <p xml:id="idm140127433272688">Ja, for vi manglede alligevel "Gnisten".</p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140127433272112">Pavse.</stage>
+                  <stage type="mix" xml:id="idm140127433271456">Pludselig ler Ellen.</stage>
+                  <sp xml:id="idm140127433270800">
+                     <speaker xml:id="idm140127433270544">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433270128">rejser sig.</stage>
+                     <p xml:id="idm140127433269472">Men hvorfor ler Du dog?</p>
+                  </sp>
+                  <sp xml:id="idm140127433268928">
+                     <speaker xml:id="idm140127433268672">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433268256">stadig leende. </stage>
+                     <p xml:id="idm140127433267600">Aa, jeg kom til at tænke paa noget saa morsomt. Det var om Dig!</p>
+                  </sp>
+                  <sp xml:id="idm140127433266944">
+                     <speaker xml:id="idm140127433266688">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433266272">henne ved Gyngestolen. </stage>
+                     <p xml:id="idm140127433265616">Vilde det Være Uhøfligt at spørge om, <hi rend="italics" xml:id="idm140127433265264">hvad</hi> det var?</p>
+                  </sp>
+                  <sp xml:id="idm140127433264288">
+                     <speaker xml:id="idm140127433264032">ELLEN.</speaker>
+                     <p xml:id="idm140127433263616">Du er saa naiv, Henrik.</p>
+                  </sp>
+                  <sp xml:id="idm140127433263072">
+                     <speaker xml:id="idm140127433262816">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433262400">sættende sig i Gyngestolen.</stage>
+                     <p xml:id="idm140127433261696">Synes Du i Grunden?</p>
+                  </sp>
+                  <sp xml:id="idm140127433261152">
+                     <speaker xml:id="idm140127433260896">ELLEN.</speaker>
+                     <p xml:id="idm140127433260480">Man kan bilde Dig alt ind. – At tænke sig, at Du tror, jeg er kommen herop for at spørge Dig, hvordan Du var til Mode, da Forlovelsen blev hævet! Du <hi rend="italics" xml:id="idm140127433259904">er</hi> meget naiv.</p>
+                  </sp>
+                  <sp xml:id="idm140127433258960">
+                     <speaker xml:id="idm140127433258704">HENRIK.</speaker>
+                     <p xml:id="idm140127433258288">Var der da noget andet?</p>
+                  </sp>
+                  <sp xml:id="idm140127433257744">
+                     <speaker xml:id="idm140127433257488">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433257072">hemmelighedsfuldt.</stage>
+                     <p xml:id="idm140127433256416">Om der var? – Du skulde bare -! Vilde Du gærne have det at vide?</p>
+                  </sp>
+                  <sp xml:id="idm140127433255760">
+                     <speaker xml:id="idm140127433255504">HENRIK.</speaker>
+                     <p xml:id="idm140127433255088">Naturligvis. </p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140127433254544">Pavse.</stage>
+                  <sp xml:id="idm140127433253888">
+                     <speaker xml:id="idm140127433253632">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433253216">med en rask Beslutning.</stage>
+                     <p xml:id="idm140127433252560"> Vil Du Være alvorlig, naar jeg fortæller Dig det?</p>
+                  </sp>
+                  <sp xml:id="idm140127433251920">
+                     <speaker xml:id="idm140127433251664">HENRIK.</speaker>
+                     <p xml:id="idm140127433251248">Det lover jeg.</p>
+                  </sp>
+                  <sp xml:id="idm140127433250704">
+                     <speaker xml:id="idm140127433250448">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433250032">ser ham ind i Ansigtet og siger hurtigt. </stage>
+                     <p xml:id="idm140127433249344"> Hvad Vilde Du mene, Henrik, om jeg fortalte Dig, at jeg var bleven forlovet?</p>
+                  </sp>
+                  <pb n="279" facs="adl/nansen/nansen3/nans3279" xml:id="idm140127433248736"/>
+                  <sp xml:id="idm140127433247920">
+                     <speaker xml:id="idm140127433247664">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433247248">det har givet et Sæt i ham; saa siger han rolig, smilende.</stage>
+                     <p xml:id="idm140127433246496">Ønske til Lykke – naturligvis.</p>
+                  </sp>
+                  <sp xml:id="idm140127433245936">
+                     <speaker xml:id="idm140127433245680">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433245264">lidt skuffet.</stage>
+                     <p xml:id="idm140127433244608">Hvor roligt Du tager det. Som en ganske naturlig Ting – og Du maa dog indrømme mig, at det er noget usædvanligt, at man gaar hen og forlover sig knap et halvt Aar, efter at -? Havde jeg hørt det om Dig, vilde jeg dog – det tror jeg næsten – være bleven lidt bedrøvet. Men Du – Du lader jo næsten til at ville blive glad.</p>
+                  </sp>
+                  <sp xml:id="idm140127433243424">
+                     <speaker xml:id="idm140127433243168">HENRIK.</speaker>
+                     <p xml:id="idm140127433242752">Ja, kære lille Ellen – jeg vilde være saa glad paa dine Vegne. Jeg vilde finde, at det var det lykkeligste, der kunde være hændt. For <hi rend="italics" xml:id="idm140127433242208">det</hi> har været min største Bekymring i denne Tid, at vor – ubetænksomme Forlovelse skulde blive skæbnesvanger for din Fremtid. <stage type="mix" xml:id="idm140127433241280">Rykker helt hen til hende</stage>, Jeg holder <hi rend="italics" xml:id="idm140127433240576">saa</hi> meget af Dig, Ellen, at den Tanke, at jeg paa nogen Maade kunde være Skyld i, at dit Liv blev mindre lykkeligt, vilde have været mig forfærdelig pinlig . . . <stage type="mix" xml:id="idm140127433239584">kort Pavse</stage>. Men siig mig da, Ellen, <hi rend="italics" xml:id="idm140127433238880">er</hi> Du forlovet? For maa det saa for Alvor være mig tilladt . . .</p>
+                  </sp>
+                  <sp xml:id="idm140127433237824">
+                     <speaker xml:id="idm140127433237568">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433237152">lidt nervøs.</stage>
+                     <p xml:id="idm140127433236480"> Nej, forlovet tror jeg endnu ikke jeg er. Men, Du, jeg er saamæn ikke langt fra det. For han <hi rend="italics" xml:id="idm140127433236016">har</hi> friet.</p>
+                  </sp>
+                  <sp xml:id="idm140127433235072">
+                     <speaker xml:id="idm140127433234816">HENRIK.</speaker>
+                     <p xml:id="idm140127433234400">Og Du har ikke svaret?</p>
+                  </sp>
+                  <sp xml:id="idm140127433233856">
+                     <speaker xml:id="idm140127433233600">ELLEN.</speaker>
+                     <p xml:id="idm140127433233184">Nej, for jeg syntes, jeg vilde først fortælle Dig det. Jeg syntes i Grunden, jeg skyldte Dig det. Kan Du huske, da vi skiltes, lovede Du mig Hjælp med Raad og Daad, naar jeg trængte til en Ven, og derfor kommer jeg nu til Dig.</p>
+                  </sp>
+                  <sp xml:id="idm140127433232192">
+                     <speaker xml:id="idm140127433231936">HENRIK.</speaker>
+                     <p xml:id="idm140127433231520">Men hvem er "han"? For det er da vel ikke indiskret at spørge om Navnet paa sin Efterfølger?</p>
+                  </sp>
+                  <sp xml:id="idm140127433230800">
+                     <speaker xml:id="idm140127433230544">ELLEN.</speaker>
+                     <p xml:id="idm140127433230128">Fy skamme Dig at drille mig! Det er et rigtig net Menneske.</p>
+                  </sp>
+                  <pb n="280" facs="adl/nansen/nansen3/nans3280" xml:id="idm140127433229536"/>
+                  <sp xml:id="idm140127433228720">
+                     <speaker xml:id="idm140127433228464">HENRIK.</speaker>
+                     <p xml:id="idm140127433228048">Lige saa net som jeg?</p>
+                  </sp>
+                  <sp xml:id="idm140127433227504">
+                     <speaker xml:id="idm140127433227248">ELLEN.</speaker>
+                     <p xml:id="idm140127433226832">Ikke vigtig! – Han er Læge og hedder Falck. Jeg traf ham nu i Sommer paa Landet hos min Onkel. Han gjorde frygtelig Kur, og saa for fjorten Dage siden, da jeg skulde rejse, friede han.</p>
+                  </sp>
+                  <sp xml:id="idm140127433225936">
+                     <speaker xml:id="idm140127433225680">HENRIK.</speaker>
+                     <p xml:id="idm140127433225264">Skriftlig eller mundlig?</p>
+                  </sp>
+                  <sp xml:id="idm140127433224704">
+                     <speaker xml:id="idm140127433224448">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433224032">lidt forundret. </stage>
+                     <p xml:id="idm140127433223376"> Skriftlig.</p>
+                  </sp>
+                  <sp xml:id="idm140127433222832">
+                     <speaker xml:id="idm140127433222576">HENRIK.</speaker>
+                     <p xml:id="idm140127433222160">Det var kedeligt. Det andet vilde dog i alt Fald have været en Afveksling. Apropos. Har Du mit Frierbrev endnu?</p>
+                  </sp>
+                  <sp xml:id="idm140127433221408">
+                     <speaker xml:id="idm140127433221152">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433220736">smilende.</stage>
+                     <p xml:id="idm140127433220080">Du glemmer vist, Du lovede at være alvorlig -!</p>
+                  </sp>
+                  <sp xml:id="idm140127433219456">
+                     <speaker xml:id="idm140127433219200">HENRIK.</speaker>
+                     <p xml:id="idm140127433218784">Jamen, ærlig talt, Ellen – finder Du det ikke selv morsomt – hele denne Situation?</p>
+                  </sp>
+                  <sp xml:id="idm140127433218096">
+                     <speaker xml:id="idm140127433217840">ELLEN.</speaker>
+                     <p xml:id="idm140127433217424">Aa – for <hi rend="italics" xml:id="idm140127433217136">mig</hi> er det virkelig ikke saa morsomt. Jeg véd slet ikke, hvad jeg skal gøre –</p>
+                  </sp>
+                  <sp xml:id="idm140127433216000">
+                     <speaker xml:id="idm140127433215744">HENRIK.</speaker>
+                     <p xml:id="idm140127433215328">Men hvad sagde Du da til Manden?</p>
+                  </sp>
+                  <sp xml:id="idm140127433214768">
+                     <speaker xml:id="idm140127433214512">ELLEN.</speaker>
+                     <p xml:id="idm140127433214096">Jeg bad om Betænkningstid. Men nu bestormer han mig med Breve hver eneste Dag. Og han skriver gruelig patetisk.</p>
+                  </sp>
+                  <sp xml:id="idm140127433213344">
+                     <speaker xml:id="idm140127433213088">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433212672">undskyldende.</stage>
+                     <p xml:id="idm140127433212016">Ja, naar Manden er forelsket –</p>
+                  </sp>
+                  <sp xml:id="idm140127433211456">
+                     <speaker xml:id="idm140127433211200">ELLEN.</speaker>
+                     <p xml:id="idm140127433210784">Naa, men siig mig saa: hvad skal jeg svare?</p>
+                  </sp>
+                  <sp xml:id="idm140127433210208">
+                     <speaker xml:id="idm140127433209952">HENRIK.</speaker>
+                     <p xml:id="idm140127433209536">Du holder jo af ham, ikke?</p>
+                  </sp>
+                  <sp xml:id="idm140127433208976">
+                     <speaker xml:id="idm140127433208720">ELLEN.</speaker>
+                     <p xml:id="idm140127433208304">Joh, – han er rigtig rar, og jeg tror nok, han vil være meget god imod mig.</p>
+                  </sp>
+                  <sp xml:id="idm140127433207616">
+                     <speaker xml:id="idm140127433207360">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433206944">rejser sig. </stage>
+                     <p xml:id="idm140127433206288">Saa siig ja. Det er naturligvis ikke meget romantisk, men <hi rend="italics" xml:id="idm140127433205952">enfin –</hi> det er ikke altid det romantiske, der bliver det lykkeligste.</p>
+                  </sp>
+                  <sp xml:id="idm140127433204928">
+                     <speaker xml:id="idm140127433204672">ELLEN.</speaker>
+                     <p xml:id="idm140127433204256">Men han er lidt snærpet, Du. Han kan f. Eks. ikke lide, at jeg ryger Cigaretter. Jeg har maattet love ham at lade være.</p>
+                  </sp>
+                  <sp xml:id="idm140127433203488">
+                     <speaker xml:id="idm140127433203232">HENRIK.</speaker>
+                     <p xml:id="idm140127433202816">Det var ubehageligt. Men Du skal se: hvis Du sætter det som en absolut Betingelse,
+	<pb n="281" facs="adl/nansen/nansen3/nans3281" xml:id="idm140127433202368"/>
+gi'er han sig nok. – Maa jeg byde Dig en frisk Cigaret?</p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140127433201264">Han byder; hun tænder ved hans.</stage>
+                  <sp xml:id="idm140127433200560">
+                     <speaker xml:id="idm140127433200304">ELLEN</speaker>
+                     <p xml:id="idm140127433199888">
+                        <stage type="mix" xml:id="idm140127433199760">dampende</stage>. Og saa er han saa jaloux – –</p>
+                  </sp>
+                  <sp xml:id="idm140127433198800">
+                     <speaker xml:id="idm140127433198544">HENRIK.</speaker>
+                     <p xml:id="idm140127433198128">Det var værre.</p>
+                  </sp>
+                  <sp xml:id="idm140127433197568">
+                     <speaker xml:id="idm140127433197312">ELLEN.</speaker>
+                     <p xml:id="idm140127433196896">
+                        <hi rend="italics" xml:id="idm140127433196768">Dig</hi> kan han nu slet ikke lide.</p>
+                  </sp>
+                  <sp xml:id="idm140127433195760">
+                     <speaker xml:id="idm140127433195504">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433195088">sætter sig. </stage>
+                     <p xml:id="idm140127433194416">Mig? Han kender mig jo ikke –</p>
+                  </sp>
+                  <sp xml:id="idm140127433193856">
+                     <speaker xml:id="idm140127433193600">ELLEN.</speaker>
+                     <p xml:id="idm140127433193184">Jamen, han er vred paa Dig, fordi Du har været forlovet med mig.</p>
+                  </sp>
+                  <sp xml:id="idm140127433192528">
+                     <speaker xml:id="idm140127433192272">HENRIK.</speaker>
+                     <p xml:id="idm140127433191856">Saa faar jeg vel ikke en Gang Lov til at besøge Jer?</p>
+                  </sp>
+                  <sp xml:id="idm140127433191216">
+                     <speaker xml:id="idm140127433190960">ELLEN</speaker>
+                     <p xml:id="idm140127433190544">
+                        <stage type="mix" xml:id="idm140127433190416">meget bestemt.</stage> Det kan der ikke være Tale om. 						<stage type="mix" xml:id="idm140127433189664">Pavse.</stage> Det bliver for Resten kedeligt.</p>
+                  </sp>
+                  <sp xml:id="idm140127433188704">
+                     <speaker xml:id="idm140127433188448">HENRIK.</speaker>
+                     <p xml:id="idm140127433188032">Ak ja. Og jeg, som allerede var begyndt at glæde mig til at sidde som Inventar ved Jeres flammende Arne og en Gang i Tiden blive Onkel. – Men naturligvis, jeg maa resignere. Og det bliver jo værst for mig. <hi rend="italics" xml:id="idm140127433187344">Du</hi> har din Mand.</p>
+                  </sp>
+                  <sp xml:id="idm140127433186400">
+                     <speaker xml:id="idm140127433186144">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433185728">ivrig. </stage>
+                     <p xml:id="idm140127433185072">Men jeg vilde ogsaa gærne have Dig!</p>
+                  </sp>
+                  <sp xml:id="idm140127433184464">
+                     <speaker xml:id="idm140127433184208">HENRIK.</speaker>
+                     <p xml:id="idm140127433183792">Aa, lad os ikke tale mere om den Bagatel ... <stage type="mix" xml:id="idm140127433183472">Pavse.</stage> Han kan naturligvis gifte sig med det samme?</p>
+                  </sp>
+                  <sp xml:id="idm140127433182496">
+                     <speaker xml:id="idm140127433182240">ELLEN.</speaker>
+                     <p xml:id="idm140127433181824">Ja, han har udmærket Praksis.</p>
+                  </sp>
+                  <sp xml:id="idm140127433181232">
+                     <speaker xml:id="idm140127433180976">HENRIK.</speaker>
+                     <p xml:id="idm140127433180560">Ja, for lange Forlovelser – ærlig talt, Ellen, det egner Du Dig ikke til. </p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140127433179888">Pavse.</stage>
+                  <sp xml:id="idm140127433179232">
+                     <speaker xml:id="idm140127433178976">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433178560">langsomt, alvorlig.</stage>
+                     <p xml:id="idm140127433177904"> Ser Du, Henrik. Jeg er blevet meget fornuftigere, siden vi var forlovede. Jeg har tænkt meget over Livet, og jeg er kommen til det Resultat, at da man alligevel aldrig naa'r det ideale, kan man ligesaa gærne straks slaa af paa sine Fordringer og indrette sig behageligt og – praktisk. Og jeg kan faa det meget rart. Falck er elskværdig og dygtig, har Raad til at gøre sit Hjem
+	<pb n="282" facs="adl/nansen/nansen3/nans3282" xml:id="idm140127433176864"/>
+komfortabelt, der er en ret behagelig Omgang i Egnen og kun halvanden Time Jærnbane til Kjøbenhavn.</p>
+                  </sp>
+                  <sp xml:id="idm140127433175616">
+                     <speaker xml:id="idm140127433175360">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433174944">rejser sig.</stage>
+                     <p xml:id="idm140127433174288"> Ja, lille Ellen – der er ingen Tvivl. Du bør sige Ja – ubetinget.</p>
+                  </sp>
+                  <sp xml:id="idm140127433173632">
+                     <speaker xml:id="idm140127433173376">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433172960">eftertænkende.</stage>
+                     <p xml:id="idm140127433172288">Ja, Du har vist Ret. Naturligvis bør jeg sige Ja – – Pavse. Henrik, sagde jeg Dig før, at han har grimme Tænder? Er det ikke kedeligt?</p>
+                  </sp>
+                  <sp xml:id="idm140127433171488">
+                     <speaker xml:id="idm140127433171232">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433170816">forceret.</stage>
+                     <p xml:id="idm140127433170160">Aa hvad! Saadan en Læge kan da let skaffe sig nogle ny. Naar han nu lader alt reparere og pudse op til Brylluppet, kan han jo ogsaa lade Tænderne faa sig en Overhaling – – Men Du bliver saa alvorlig, Ellen, er der noget i Vejen?</p>
+                  </sp>
+                  <sp xml:id="idm140127433169168">
+                     <speaker xml:id="idm140127433168912">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433168496">tager sig rask sammen, rejser sig og gaar over til Bordet. </stage>
+                     <p xml:id="idm140127433167792">Aa – nej. Slet ikke. Jeg har det udmærket.</p>
+                  </sp>
+                  <sp xml:id="idm140127433167184">
+                     <speaker xml:id="idm140127433166928">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433166512">følger efter hende, skænker i Glassene. </stage>
+                     <p xml:id="idm140127433165792">Ja, lad os nu blot være glade de faa Øjeblikke vi kan være sammen. Det er jo nu saa sjælden en Fornøjelse. Men, ikke sandt Du, saa skønner man ogsaa langt mere paa det? – Han hæver sit Glas. – Jeg vil drikke et Glas, Ellen, for din Fremtids Lykke. En Skaal for Dig og din Tilkommende!</p>
+                     <stage type="mix" xml:id="idm140127433164816">De klinker. Saa tager han fra det lille Bord Buketten.</stage>
+                     <p xml:id="idm140127433164128">Og se her, Ellen, hvad jeg har til Dig!</p>
+                  </sp>
+                  <sp xml:id="idm140127433163568">
+                     <speaker xml:id="idm140127433163312">ELLEN.</speaker>
+                     <p xml:id="idm140127433162896">Er de til mig? Aa, hvor de er smukke! Hvor Du er god imod mig, min Ven! </p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140127433162288">Hun sætter en Therose ved Brystet; Henrik sidder nogle Øjeblikke tavs og ser paa hende; endelig:</stage>
+                  <sp xml:id="idm140127433161456">
+                     <speaker xml:id="idm140127433161200">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433160784">bevæget.</stage>
+                     <p xml:id="idm140127433160128">Hvor Du ser smuk ud, Ellen! </p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140127433159568">Atter Pavse.</stage>
+                  <sp xml:id="idm140127433158912">
+                     <speaker xml:id="idm140127433158656">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433158240">langsomt og sagte.</stage>
+                     <p xml:id="idm140127433157584">Kan Du huske, Henrik, det store Bal paa Rosenholm – den Jul vi var paa Landet? Jeg havde ingen Pynt til Haaret, men saa var Du om Morgenen taget til Kjøbenhavn, og da
+	<pb n="283" facs="adl/nansen/nansen3/nans3283" xml:id="idm140127433156976"/>
+Du kom tilbage om Eftermiddagen, havde Du de dejligste Theroser med. Kan Du huske – det var Theroser – ogsaa den Gang. </p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140127433155760">Henrik har siddet med bøjet Hoved og leget med en Blomst. Saa ser han pludselig op mod hende.</stage>
+                  <sp xml:id="idm140127433154928">
+                     <speaker xml:id="idm140127433154672">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433154256">hurtigt, Stemmen lidt usikker.</stage>
+                     <p xml:id="idm140127433153584"> Men siig mig, Ellen, siig mig, hvordan gaar nu egenlig Tiden for Dig – nu – saadan hver Dag?</p>
+                  </sp>
+                  <sp xml:id="idm140127433152960">
+                     <speaker xml:id="idm140127433152704">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433152288">tager sig med Hænderne over Øjnene; siger derpaa med forceret Overstadighed.</stage>
+                     <p xml:id="idm140127433151488">Aa Du, hvad jeg bestiller? Jeg morer mig – gaar meget i Selskaber – jeg lader mig gøre Kur til – jeg koketterer – jeg har lagt mig efter at kokettere, Du – Jeg morer mig – morer mig –</p>
+                  </sp>
+                  <sp xml:id="idm140127433150592">
+                     <speaker xml:id="idm140127433150336">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433149920">med tvungen Latter. </stage>
+                     <p xml:id="idm140127433149264">Naa, jamen saa er jo alt fortræffeligt – Naar Du morer Dig – – <stage type="mix" xml:id="idm140127433148864">Kort Pavse. Saa siger han med samme lidt drillende Tone som under tidligere Repliker.</stage> Og véd Du, hvad jeg nu vilde ønske?</p>
+                  </sp>
+                  <sp xml:id="idm140127433147792">
+                     <speaker xml:id="idm140127433147536">ELLEN.</speaker>
+                     <p xml:id="idm140127433147120">Naa?</p>
+                  </sp>
+                  <sp xml:id="idm140127433146576">
+                     <speaker xml:id="idm140127433146320">HENRIK.</speaker>
+                     <p xml:id="idm140127433145904">At jeg kunde faa Lov til at forære Dig din Brudebuket –</p>
+                  </sp>
+                  <sp xml:id="idm140127433145264">
+                     <speaker xml:id="idm140127433145008">ELLEN.</speaker>
+                     <p xml:id="idm140127433144592">Jeg tror, Du vil. Véd Du da ikke, at den faar man altid af Brudgommen.</p>
+                  </sp>
+                  <sp xml:id="idm140127433143920">
+                     <speaker xml:id="idm140127433143664">HENRIK.</speaker>
+                     <p xml:id="idm140127433143248">Men alligevel. Det kunde være saa morsomt. Ikke?</p>
+                  </sp>
+                  <sp xml:id="idm140127433142624">
+                     <speaker xml:id="idm140127433142368">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433141952">faar pludselig travlt med at se paa sit Ur.</stage>
+                     <p xml:id="idm140127433141264">Aa – jeg véd ikke – – Men du store Gud, som Tiden er gaaet Hvad mon de tænker hjemme! Jeg maa skynde mig forfærdeligt. </p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140127433140496">Hun gaar hurtigt hen til Tøjet, begynder hastigt at trække Overstykket paa; kan ikke komme i det ene Ærme.</stage>
+                  <sp xml:id="idm140127433139632">
+                     <speaker xml:id="idm140127433139376">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433138960">hen til hende.</stage>
+                     <p xml:id="idm140127433138304"> Lad mig dog hjælpe –</p>
+                  </sp>
+                  <sp xml:id="idm140127433137728">
+                     <speaker xml:id="idm140127433137472">ELLEN.</speaker>
+                     <p xml:id="idm140127433137056">Tak, det behøves ikke. Det var blot Foret. Nu er det paa.</p>
+                  </sp>
+                  <sp xml:id="idm140127433136416">
+                     <speaker xml:id="idm140127433136160">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433135744">helt henne ved hende; meget blødt.</stage>
+                     <p xml:id="idm140127433135040"> Og ser man Dig nu aldrig mere?</p>
+                  </sp>
+                  <pb n="284" facs="adl/nansen/nansen3/nans3284" xml:id="idm140127433134480"/>
+                  <sp xml:id="idm140127433133712">
+                     <speaker xml:id="idm140127433133456">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433133040">nervøst. </stage>
+                     <p xml:id="idm140127433132384">Aa, nej, nej – det er vist bedst . . . </p>
+                     <stage type="mix" xml:id="idm140127433131952">Med Overgang.</stage>
+                     <p xml:id="idm140127433131296"> Farvel, Du!</p>
+                  </sp>
+                  <sp xml:id="idm140127433130752">
+                     <speaker xml:id="idm140127433130496">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433130080">dvælende. </stage>
+                     <p xml:id="idm140127433129424">Farvel, Ellen. </p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140127433128880">Pavse.</stage>
+                  <sp xml:id="idm140127433128224">
+                     <speaker xml:id="idm140127433127968">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433127552">i Døren, vender sig.</stage>
+                     <p xml:id="idm140127433126864">Jamen saa han den anden, Du – han Lægen. Henrik, hvad skal jeg dog svare ham?</p>
+                  </sp>
+                  <sp xml:id="idm140127433126176">
+                     <speaker xml:id="idm140127433125920">HENRIK.</speaker>
+                     <p xml:id="idm140127433125504">Vil Du følge mit Raad, og vil Du være <hi rend="italics" xml:id="idm140127433125152">meget</hi> alvorlig -?</p>
+                  </sp>
+                  <sp xml:id="idm140127433124176">
+                     <speaker xml:id="idm140127433123920">ELLEN.</speaker>
+                     <p xml:id="idm140127433123504">Jah.</p>
+                  </sp>
+                  <sp xml:id="idm140127433122960">
+                     <speaker xml:id="idm140127433122704">HENRIK.</speaker>
+                     <p xml:id="idm140127433122288">Ja, for saa Ellen – tror Du ikke selv? – saa: lad være.</p>
+                  </sp>
+                  <sp xml:id="idm140127433121648">
+                     <speaker xml:id="idm140127433121392">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433120976">uvilkaarlig hen imod ham, udbrydende</stage>
+                     <p xml:id="idm140127433120304"> Aa Henrik!</p>
+                  </sp>
+                  <sp xml:id="idm140127433119760">
+                     <speaker xml:id="idm140127433119504">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433119088">(tager hendes Hoved mellem sine Hænder, vender hendes Ansigt op mod sit) . </stage>
+                     <p xml:id="idm140127433118288">Ellen, hvordan var det saa med Brudebuketten? Tror Du nu, det gaar an, at det bliver mig?</p>
+                  </sp>
+                  <sp xml:id="idm140127433117664">
+                     <speaker xml:id="idm140127433117408">ELLEN</speaker>
+                     <stage type="mix" xml:id="idm140127433116992">(kysser ham) . </stage>
+                     <p xml:id="idm140127433116336">Tusind Tak, min Dreng.</p>
+                  </sp>
+                  <sp xml:id="idm140127433115792">
+                     <speaker xml:id="idm140127433115536">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140127433115120">(kysser hende) . </stage>
+                     <p xml:id="idm140127433114464">Dette er vistnok, hvad man kalder mundligt Frieri. </p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140127433113888">Tæppet falder hurtigt.</stage>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

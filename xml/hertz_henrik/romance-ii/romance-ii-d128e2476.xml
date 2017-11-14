@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance [ii]</title>
+            <author>Hertz, Henrik</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139668653829872">
+                     <name xml:id="idm139668653829616">
+                        <surname xml:id="idm139668653829488">Hertz</surname>, <forename xml:id="idm139668653829056">Henrik</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139668653828768">Digte fra forskjellige Perioder</title>
+                  <pubPlace xml:id="idm139668653828464">København</pubPlace>
+                  <date xml:id="idm139668653827952">1851-1862</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59100" decls="#biblid59100">
+            <head xml:id="idm139668653151632">Romance.</head>
+            <lg xml:id="idm139668653151216">
+               <l xml:id="idm139668653150960">Jeg mærker det ved høilys Dag,</l>
+               <l xml:id="idm139668653150496">Og mangen eensom Nat,</l>
+               <l xml:id="idm139668653150080">Min Ungdoms Haab, de gyldne Haab,</l>
+               <l xml:id="idm139668653149648">De har mig snart forladt.</l>
+               <l xml:id="idm139668653149216">Men dog, saa tidt jeg troer beklemt,</l>
+               <l xml:id="idm139668653148784">Der svandt det sidste hen,</l>
+               <l xml:id="idm139668653148352">Da stiger atter et forglemt</l>
+               <l xml:id="idm139668653147920">Uventet op igjen.</l>
+            </lg>
+            <lg xml:id="idm139668653147376">
+               <l xml:id="idm139668653147120">Og daglig mærker jeg, hvor haardt</l>
+               <l xml:id="idm139668653146656">Mit Hjerte sig bedrog,</l>
+               <l xml:id="idm139668653146240">Og at det varmt, og at det fuldt,</l>
+               <l xml:id="idm139668653145808">Men saa forgjæves slog.</l>
+               <l xml:id="idm139668653145360">Men - daarer mig et yndigt Smiil</l>
+               <l xml:id="idm139668653144928">Bag Rødmens fine Slør,</l>
+               <l xml:id="idm139668653144480">Saa sværmer jeg i gammel Stiil,</l>
+               <l xml:id="idm139668653144016">Og holder Stand som før.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

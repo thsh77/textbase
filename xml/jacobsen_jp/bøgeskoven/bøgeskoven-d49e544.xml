@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bøgeskoven</title>
+            <author>Jacobsen, J. P.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140501113474416">
+                     <name xml:id="idm140501113474160">
+                        <surname xml:id="idm140501113474032">Jacobsen</surname>,
+      <forename xml:id="idm140501113473584">J. P.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140501113473120">Samlede Værker
+      V</title>
+                  <title xml:id="idm140501113472672">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title>
+                  <pubPlace xml:id="idm140501113472208">København</pubPlace>
+                  <date xml:id="idm140501113471776">1924-29</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid57026" decls="#biblid57026">
+            <pb n="382" facs="adl/jacobsenjp/jacobjp5/jajp5382" xml:id="idm140501113090672"/>
+            <pb n="383" facs="adl/jacobsenjp/jacobjp5/jajp5383" xml:id="idm140501113089904"/>
+            <pb n="384" facs="adl/jacobsenjp/jacobjp5/jajp5384" xml:id="idm140501113089088"/>
+            <pb n="385" facs="adl/jacobsenjp/jacobjp5/jajp5385" xml:id="idm140501113088320"/>
+            <pb n="386" facs="adl/jacobsenjp/jacobjp5/jajp5386" xml:id="idm140501113087552"/>
+            <pb n="387" facs="adl/jacobsenjp/jacobjp5/jajp5387" xml:id="idm140501113086736"/>
+            <pb n="388" facs="adl/jacobsenjp/jacobjp5/jajp5388" xml:id="idm140501113085920"/>
+            <p xml:id="idm140501113085152"/>
+         </div>
+      </body>
+   </text>
+</TEI>

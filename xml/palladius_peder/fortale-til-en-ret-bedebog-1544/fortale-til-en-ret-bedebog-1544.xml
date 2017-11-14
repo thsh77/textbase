@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fortale til en ret bedebog. 1544</title>
+            <author>Palladius, Peder</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140153321577744">
+                     <name xml:id="idm140153321577488">
+                        <surname xml:id="idm140153321577360">Palladius</surname>, <forename xml:id="idm140153321576896">Peder</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140153321576608">Peder Palladius' Danske Skrifter</title>
+                  <pubPlace xml:id="idm140153321576304">København</pubPlace>
+                  <publisher xml:id="idm140153321575840">H.H. Thiele</publisher>
+                  <date xml:id="idm140153321575504">1911-1926</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid91474" decls="#biblid91474">
+            <front xml:id="idm140153317111824">
+               <titlePage xml:id="idm140153317111568">
+                  <titlePart type="main" xml:id="idm140153317111312">II.<lb xml:id="idm140153317110784"/> Fortale<lb xml:id="idm140153317110496"/> til<lb xml:id="idm140153317110208"/> En ret Bedebog.<lb xml:id="idm140153317109920"/>
+								1544.</titlePart>
+               </titlePage>
+            </front>
+            <body xml:id="idm140153317109248">
+               <div xml:id="idm140153317108992">
+                  <head xml:id="idm140153317108736">D. Peder Palladius<lb xml:id="idm140153317108448"/> til Læsseren.</head>
+                  <p xml:id="idm140153317108016">Kiære Christen/ bleff ieg ombedet ath offuersee den lille bøn
+									bog/ som wdgick paa Danske nu trætten Aar siden/ huilcket ieg
+									giorde wdi saa maade/ ath hues icke behoff vor/ effter tidens
+									leylighed/ det loed ieg være bortte/ oc saa een part aff det/
+									som Psalmebogen indholder/ bedendis deg for Gudz oc din siæls
+									bestandelsis skyld/ ath du wilt wenne deg til ath bede Gud
+									daglige om hues deg oc din fattige neste er behoff til liff oc
+									siæl/ som denne effterfølgendis<lb xml:id="idm140153317107136"/> formaning deg inderlige
+									paaminder. Gud beuare deg/<lb xml:id="idm140153317106800"/> oc høre din bøn/ deg oc alle til
+									gode/</p>
+                  <trailer xml:id="idm140153317106304">AMEN. ||</trailer>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

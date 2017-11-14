@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Theologisk maanedsskrift</title>
+            <author>Grundtvig, N. F. S.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015235768688">
+                     <name xml:id="idm140015235768432">
+                        <surname xml:id="idm140015235768304">Grundtvig</surname>, <forename xml:id="idm140015235767872">N. F. S.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015235767584">N. F. S. Grundtvigs udvalgte Skrifter</title>
+                  <pubPlace xml:id="idm140015235767280">København</pubPlace>
+                  <publisher xml:id="idm140015235766816">Gyldendalske Boghandel</publisher>
+                  <date xml:id="idm140015235766480">1904-1909</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid104490" decls="#biblid104490">
+            <front xml:id="idm140015229718352">
+               <titlePage xml:id="idm140015229718096">
+                  <titlePart type="main" xml:id="idm140015229717840">THEOLOGISK<lb xml:id="idm140015229717280"/>
+MAANEDSSKRIFT.
+</titlePart>
+               </titlePage>
+            </front>
+            <body xml:id="idm140015229716608">
+               <div xml:id="idm140015229716352">
+                  <p xml:id="idm140015229716096">DEN inderlige Længsel »efter en lille Kreds af venlige Medarbejdere« , som Grundtvig udtalte i Fortalen til Nyaars-Morgen, blevopfyldt i det følgende Aar. To af de lærdeste unge Theologer fraKøbenhavns Universitet, Dr. <hi rend="italics" xml:id="idm140015229715376"><!--<emph>-->A. G. Rudelbach<!--</emph>--></hi> og Adjunkt <hi rend="italics" xml:id="idm140015229714336"><!--<emph>-->Jac<!--</emph>--></hi>.<hi rend="italics" xml:id="idm140015229713296"><!--<emph>-->Chr. Lindberg<!--</emph>--></hi>, som var blandt hans stadige Tilhørere i FrelsersKirke, fattede nemlig den Tanke at udgive et videnskabeligt theologisk Tidsskrift, der skulde være et Rustkammer for den gammeldagslutherske Kristendom og en Udfaldsport mod den herskende Rationalisme, og da de i Grundtvig saa' den rette Høvding, hvor det gjaldtden store Kamp mod Kirkens Fjender, bad de ham være med tildette Foretagende.</p>
+                  <p xml:id="idm140015229711472">Grundtvig henviste dem først til Præsten J. P. Mynster, da hansNavn bedre kunde samle alle Venner af sand Kristendom under detfælles Banner. Men da Mynster gav et rent Afslag, sagde Grundtvigmed Glæde ja, og i Slutningen af <hi rend="italics" xml:id="idm140015229710736"><!--<emph>-->Marts<!--</emph>--></hi> 1825 udkom <hi rend="italics" xml:id="idm140015229709728"><!--<emph>-->første Hefte<!--</emph>--></hi>af <hi rend="italics" xml:id="idm140015229708672"><!--<emph>-->Theologisk Maanedsskrift<!--</emph>--></hi> med Grundtvig og Rudelbachsom Udgivere og Lindberg som fast Medarbejder.</p>
+                  <p xml:id="idm140015229707424">I dette Tidsskrift fandt Grundtvig den længe søgte Lejlighed til atfremkomme med et sammenhængende skriftligt Forsvar for densande Kristendom, og det Arbejde, han fra 1823 havde gjort for atklare det store Stridsspørgsmaal mellem den gamle Tro og den moderne »Fornuft«, bar nu sin Frugt i Literaturen<hi rend="sup" xml:id="idm140015229706544">1</hi>.</p>
+                  <p xml:id="idm140015229705792">Første Bind af Maanedsskriftet, for April-Juni 1825, indledesmed hans Digt: <hi rend="italics" xml:id="idm140015229705360"><!--<emph>-->Kirke-Trøst<!--</emph>--></hi>, andet Bind for Juli-September s.A. med Digtet: <hi rend="italics" xml:id="idm140015229704272"><!--<emph>-->Kors-Banneret<!--</emph>--></hi>, der hver for sig er som et Opraabtil den store Kamp, der forestaaer.</p>
+                  <note anchored="true" xml:id="idm140015229703056">
+                     <hi rend="sup" xml:id="idm140015229702688">1</hi> Jfr. <hi rend="italics" xml:id="idm140015229702032"><!--<emph>-->H. Begtrup: Grundtvigs kirkelige Syn<!--</emph>--></hi>, Side 118 - 121.</note>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

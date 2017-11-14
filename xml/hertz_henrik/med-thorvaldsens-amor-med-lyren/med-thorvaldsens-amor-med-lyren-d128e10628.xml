@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Med thorvaldsens amor med lyren</title>
+            <author>Hertz, Henrik</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139668653829872">
+                     <name xml:id="idm139668653829616">
+                        <surname xml:id="idm139668653829488">Hertz</surname>, <forename xml:id="idm139668653829056">Henrik</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139668653828768">Digte fra forskjellige Perioder</title>
+                  <pubPlace xml:id="idm139668653828464">København</pubPlace>
+                  <date xml:id="idm139668653827952">1851-1862</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid76751" decls="#biblid76751">
+            <head xml:id="idm139668651029840">Med Thorvaldsens »Amor med Lyren«</head>
+            <lg xml:id="idm139668651029376">
+               <l xml:id="idm139668651029120">Min yndige, min unge Hustru, tag</l>
+               <l xml:id="idm139668651028736">Paa vor Forenings skjønne, første Dag</l>
+               <l xml:id="idm139668651028256">Med Gunst imod den lille Gud, jeg sender.</l>
+               <l xml:id="idm139668651027808">Vær uden Frytgt, skjøndt farlig er hans Magt.</l>
+               <l xml:id="idm139668651027312">Der er Forsoning i hans Øie lagt.</l>
+               <l xml:id="idm139668651026848">Dets Flamme stærk, men stille brænder.</l>
+            </lg>
+            <lg xml:id="idm139668651026240">
+               <l xml:id="idm139668651025984">Thi husk, at det er Gratiernes Fod,</l>
+               <l xml:id="idm139668651025600">Han nylig, digtende saa smukt, forlod;</l>
+               <l xml:id="idm139668651025216">I Mindet tabt han sidder end og spiller.</l>
+               <l xml:id="idm139668651024768">Min elskte Hustru! Kunst og Poesie,</l>
+               <l xml:id="idm139668651024384">Den Ynde, som Dit Væsen sænkes i,</l>
+               <l xml:id="idm139668651023920">De være Magterne, som Gudens Ild formilder.</l>
+            </lg>
+            <pb n="257" xml:id="s257" facs="adl/hertz/hertz10/hertz10257"/>
+            <lg xml:id="idm139668651022096">
+               <l xml:id="idm139668651021840">Nu kommer han til Dig, den glade Gud,</l>
+               <l xml:id="idm139668651021456">Han kommer paa en henrykt Digters Bud,</l>
+               <l xml:id="idm139668651021072">Og Ved Din Fod han gratiøst sig lægger.</l>
+               <l xml:id="idm139668651020592">Hans Lyra har engang mig lært min Kunst.</l>
+               <l xml:id="idm139668651020112">Hvis jeg igjen erhverve kan hans Gunst,</l>
+               <l xml:id="idm139668651019728">Det er Dit Smiil, der min Begeistring vækker.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

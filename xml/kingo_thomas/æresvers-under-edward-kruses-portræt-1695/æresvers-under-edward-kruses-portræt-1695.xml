@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Æresvers under edward kruses portræt 1695</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid91997" decls="#biblid91997">
+            <body xml:id="idm140721238687024">
+               <head xml:id="idm140721238686768"> Under Edward Kruses Portræt. <lb xml:id="idm140721238686432"/> ((daggert) 9. Okt. 1695). </head>
+               <lg xml:id="idm140721238686000">
+                  <l xml:id="idm140721238685744">SEe, læser, intet paa dend ligning disse Skygger</l>
+                  <l xml:id="idm140721238685248">O Paa EDWARD KRUSE giør, thi under dennem bygger</l>
+                  <l xml:id="idm140721238684752"> Det ingen Mester med sin Pensel eller Preeg,</l>
+                  <l xml:id="idm140721238684304">Afridse kunde, thi hans konst det oversteeg.</l>
+                  <l xml:id="idm140721238683856">Men giør dig tanker, at du seer ham her i live,</l>
+                  <l xml:id="idm140721238683360">Med Sund forstand oc med et waaged Øye drive</l>
+                  <l xml:id="idm140721238682864">Sin KONGES nytte, med ald billighed oc skad</l>
+                  <l xml:id="idm140721238682416"> Foruden Svig, saa seer dit Sind ham treffed vel.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721238681840">
+                  <hi rend="italics" xml:id="idm140721238681200">Tekstgrundlag: Müllers Pinakotek </hi>15 <hi rend="italics" xml:id="idm140721238680464">Litterati LXXIV.</hi>
+               </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

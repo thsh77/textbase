@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Diplomater.</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139850578428432">
+                     <name xml:id="idm139850578428176">
+                        <surname xml:id="idm139850578428048">Aakjær</surname>, <forename xml:id="idm139850578427616">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139850578427328"> Digte 1908-1918. - 1918</title>
+                  <pubPlace xml:id="idm139850578427024">København</pubPlace>
+                  <pubPlace xml:id="idm139850578426560">Kristiania</pubPlace>
+                  <publisher xml:id="idm139850578426096">Gyldendal</publisher>
+                  <date xml:id="idm139850578425760">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid75370" decls="#biblid75370">
+            <head xml:id="idm139850575602384">
+               <hi rend="italics" xml:id="idm139850575602256"><!--<emph>-->DIPLOMATER<!--</emph--></hi>.</head>
+            <lg xml:id="idm139850575601088">
+               <l xml:id="idm139850575600832">MOSES styrede Israels Stat,</l>
+               <l xml:id="idm139850575600400">Aron var øverste Diplomat</l>
+               <l xml:id="idm139850575599952">med to gyldne Horn udi Panden.</l>
+            </lg>
+            <lg xml:id="idm139850575599392">
+               <l xml:id="idm139850575599136">Moses gik sig en Morgentur,</l>
+               <l xml:id="idm139850575598704">Aron tog sig en Middagslur,</l>
+               <l xml:id="idm139850575598272">men hvem der ej sov det var Fanden.</l>
+            </lg>
+            <lg xml:id="idm139850575597712">
+               <l xml:id="idm139850575597456">Da Aron vaagned og Moses kom hjem</l>
+               <l xml:id="idm139850575597024">dem mødte alt Folket, som dansede frem</l>
+               <l xml:id="idm139850575596544">med trukken Kniv mod hinanden.</l>
+            </lg>
+            <trailer xml:id="idm139850575595984">
+               <date xml:id="idm139850575595856">6/12 1914</date>.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

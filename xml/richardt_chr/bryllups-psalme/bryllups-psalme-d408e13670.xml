@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bryllups-psalme.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140152138539728">
+                     <name xml:id="idm140152138539472">
+                        <surname xml:id="idm140152138539344">Richardt</surname>,
+      <forename xml:id="idm140152138538928">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140152138538640">Samlede Digte. Tredje Deel.</title>
+                  <pubPlace xml:id="idm140152138538336">København</pubPlace>
+                  <date xml:id="idm140152138537824">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid80995" decls="#biblid80995">
+            <head xml:id="idm140152135184064">Bryllups-Psalme.</head>
+            <lg xml:id="idm140152135183648">
+               <l xml:id="idm140152135183392">Hold Ja-Ord her i Herrens Hus,</l>
+               <l xml:id="idm140152135182960">og under Kirkens Bue!</l>
+               <l xml:id="idm140152135182544">Tænd Arne-Ild og Brude-Blus</l>
+               <l xml:id="idm140152135182080">ved Alterkjertens Lue!</l>
+               <pb n="209" facs="adl/richardt/richardt3/rich3209" xml:id="idm140152135181664"/>
+               <l xml:id="idm140152135180896">Bed <hi rend="italics" xml:id="idm140152135180608">Ham</hi>, som gjorde Vin af Vand,</l>
+               <l xml:id="idm140152135179776">som Tredjemand</l>
+               <l xml:id="idm140152135179360">at gjæste Hjemmets Stue!</l>
+            </lg>
+            <lg xml:id="idm140152135178784">
+               <l xml:id="idm140152135178528">Thi Kjærlighedens Rose rød,</l>
+               <l xml:id="idm140152135178064">Guds underfulde Gave,</l>
+               <l xml:id="idm140152135177648">fik og sin Deel af Synd og Død,</l>
+               <l xml:id="idm140152135177184">som Alt fra Edens Have;</l>
+               <l xml:id="idm140152135176768">men, vandes den omkring sin Rod</l>
+               <l xml:id="idm140152135176336">fra Jordans Flod,</l>
+               <l xml:id="idm140152135175920">den blomstrer - selv blandt Grave.</l>
+            </lg>
+            <lg xml:id="idm140152135175360">
+               <l xml:id="idm140152135175104">
+                  <hi rend="italics" xml:id="idm140152135174976">Da</hi> planter I om Hjemmet Læ,</l>
+               <l xml:id="idm140152135174128">som ej for Stormen brister!</l>
+               <l xml:id="idm140152135173696">Da lufter det fra Livets Træ,</l>
+               <l xml:id="idm140152135173232">som aldrig Løvet mister!</l>
+               <l xml:id="idm140152135172784">Da bliver Mand og Viv i Pagt</l>
+               <l xml:id="idm140152135172352">hinandens Vagt,</l>
+               <l xml:id="idm140152135171936">og ej hinandens Frister.</l>
+            </lg>
+            <lg xml:id="idm140152135171376">
+               <l xml:id="idm140152135171120">Saa bøjer Knæ i Jesu Navn,</l>
+               <l xml:id="idm140152135170656">da staar ej Livet stille -</l>
+               <l xml:id="idm140152135170224">da faaer I Væxt i Fryd og Savn</l>
+               <l xml:id="idm140152135169760">fra Troens Ungdomskilde!</l>
+               <l xml:id="idm140152135169328">Da blomstrer, end i Sneens Skjød,</l>
+               <l xml:id="idm140152135168864">hin Rose rød</l>
+               <l xml:id="idm140152135168432">med Luerne de milde.</l>
+            </lg>
+            <pb n="210" facs="adl/richardt/richardt3/rich3210" xml:id="idm140152135167888"/>
+         </div>
+      </body>
+   </text>
+</TEI>

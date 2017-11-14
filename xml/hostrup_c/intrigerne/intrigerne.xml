@@ -1,0 +1,2575 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Intrigerne</title>
+            <author>Hostrup, C.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140699402223104">
+                     <name xml:id="idm140699402222848">
+                        <surname xml:id="idm140699402222720">Hostrup</surname>, <forename xml:id="idm140699402222288">C.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140699402221984">Komedier og Digte</title>
+                  <pubPlace xml:id="idm140699402221696">København</pubPlace>
+                  <date xml:id="idm140699402221184">1954</date>
+                  <biblScope>359-396</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid119933" decls="#biblid119933">
+            <front xml:id="idm140699394269152">
+               <head xml:id="idm140699394268896">INTRIGERNE<lb xml:id="idm140699394268608"/>SANGSPIL<lb xml:id="idm140699394268320"/>(1845)</head>
+            </front>
+            <body xml:id="idm140699394267776">
+               <pb n="360" facs="adl/hostrup/hostrup1/host1360" xml:id="idm140699394267520"/>
+               <div type="castList" xml:id="idm140699394266752">
+                  <head xml:id="idm140699394266224">PERSONER.</head>
+                  <list type="simple" xml:id="idm140699394265808">
+                     <item xml:id="idm140699394265280">PRÆSTEN.</item>
+                     <item xml:id="idm140699394264864">AUGUSTA, hans Datter.</item>
+                     <item xml:id="idm140699394264448">Frøken LUNDBERG, hans Svigerinde.</item>
+                     <item xml:id="idm140699394263984">Krigsraad RICHTER.</item>
+                     <item xml:id="idm140699394263568">Skolelærer SØRENSEN.</item>
+                     <item xml:id="idm140699394263120">HELLEBÆK, theologisk Kandidat.</item>
+                  </list>
+                  <p xml:id="idm140699394262528">
+                     <hi rend="italics" xml:id="idm140699394262272">Handlingen foregaar paa en Præstegaard i
+							Sjælland.</hi>
+                  </p>
+               </div>
+               <pb n="361" facs="adl/hostrup/hostrup1/host1361" xml:id="idm140699394261232"/>
+               <div type="scene" n="1" xml:id="idm140699394260416">
+                  <head xml:id="idm140699394259648">FØRSTE SCENE.</head>
+                  <stage type="mix" xml:id="idm140699394259216">
+                     <hi rend="italics" xml:id="idm140699394258848">Frøken Lundberg sidder ved et Sybord, Hellebæk staar
+								foran hende</hi>.</stage>
+                  <div xml:id="idm140699394257904">
+                     <sp xml:id="idm140699394257648">
+                        <speaker xml:id="idm140699394257392">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394256976">Vi tør altsaa stole paa, at Frøkenen vil tage Dem af os og staa
+									os bi med Raad og Daad?</p>
+                     </sp>
+                     <sp xml:id="idm140699394256256">
+                        <speaker xml:id="idm140699394256000">FRØKEN.</speaker>
+                        <p xml:id="idm140699394255584">Jeg lover Dem, at jeg skal bruge al min Indflydelse for at fremme
+									den Sag. Og dog tilstaar jeg Dem rent ud, at jeg ingen Favorit
+									er af Mariager. Nej tvertimod! maatte jeg have en Finger med i
+									Spillet, saa skulde slet ingen Damer gifte sig.</p>
+                     </sp>
+                     <sp xml:id="idm140699394254784">
+                        <speaker xml:id="idm140699394254528">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394254112">Jeg forstaar ikke ret, hvad Frøkenen mener, - maatte
+									Mandfolkene da heller ikke gifte sig?</p>
+                     </sp>
+                     <sp xml:id="idm140699394253376">
+                        <speaker xml:id="idm140699394253120">FRØKEN.</speaker>
+                        <p xml:id="idm140699394252704">Aa jo, lad dem det!</p>
+                     </sp>
+                     <sp xml:id="idm140699394252160">
+                        <speaker xml:id="idm140699394251904">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394251488">Men maa jeg saa spørge, med hvem det da skulde være, for
+									-</p>
+                     </sp>
+                     <sp xml:id="idm140699394250816">
+                        <speaker xml:id="idm140699394250560">FRØKEN.</speaker>
+                        <p xml:id="idm140699394250144">Naa ja, jeg er jo heller ikke saa strix paa det, for der er jo
+									mange Damer, som ikke har saadan Kraft og Inerti nok til at staa
+									paa deres egne Ben, og saa kan det vel ogsaa være det bedste.
+									Men jeg har mange Tilfælde - det forsikrer jeg Dem paa
+									- mange Exempler fra mine Veninder, som nu ligger i
+									deres Grav og græmmer sig over, at de ikke har fulgt mit
+								Raad.</p>
+                     </sp>
+                     <sp xml:id="idm140699394248784">
+                        <speaker xml:id="idm140699394248528">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394248112">Saa?</p>
+                     </sp>
+                     <sp xml:id="idm140699394247568">
+                        <speaker xml:id="idm140699394247312">FRØKEN.</speaker>
+                        <p xml:id="idm140699394246896">Ja De kan tro, jeg har selv døjet mangen haard Dyst i Anledning
+									af den Geschichte. For min salig Fader - Gud forlade
+									ham det - han var Justitsraad, <pb n="362" facs="adl/hostrup/hostrup1/host1362" xml:id="idm140699394246288"/> De har nok hørt Tale om ham -
+									han vilde parbleu, at jeg skulde gifte mig med en Kammerjunker,
+									men jeg svarede: vil Kammerjunkeren gifte mig, saa lad ham sige
+									det rent ud.</p>
+                     </sp>
+                     <sp xml:id="idm140699394244800">
+                        <speaker xml:id="idm140699394244544">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394244128">Naa saa han friede ikke til Frøkenen?</p>
+                     </sp>
+                     <sp xml:id="idm140699394243520">
+                        <speaker xml:id="idm140699394243264">FRØKEN.</speaker>
+                        <p xml:id="idm140699394242848">Nej ikke saadan rent ud, for han kunde jo nok se, at det ikke
+									kunde nytte noget, for han kjendte jo mine Principer. Men det
+									arme Menneske, han gik og faldt af og skæmmede sig, og tilsidst
+									gik han i Desperation hen og tog en rig Baronesse. Aa jeg har
+									saamænd haft mange saadanne Affærer af den Slags. Den Gang var
+									jeg nu ved Hoffet - ja, det har jeg maaske fortalt
+									Dem?</p>
+                     </sp>
+                     <sp xml:id="idm140699394241472">
+                        <speaker xml:id="idm140699394241216">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394240800">Jo! <stage type="mix" xml:id="idm140699394240512">
+                              <hi rend="italics" xml:id="idm140699394240144">Afsides</hi>.</stage> I det mindste et
+									Par hundrede Gange.</p>
+                     </sp>
+                     <sp xml:id="idm140699394239008">
+                        <speaker xml:id="idm140699394238752">FRØKEN.</speaker>
+                        <p xml:id="idm140699394238336">Ja for jeg var nu Kammerjom - Kammerfrøken hos Grevinde
+									Gyldenskjold, som den Gang var Hofdame hos Prinsesse Clara. O
+									det var min lykkeligste Tid! Den der har været ved Hoffet, han
+									kan dog sige, at han har levet.</p>
+                     </sp>
+                  </div>
+                  <div xml:id="idm140699394237200">
+                     <head xml:id="idm140699394236944">Mel. af E. Bruun.</head>
+                     <div xml:id="idm140699394236528">
+                        <head xml:id="idm140699394236272">1.</head>
+                        <lg xml:id="idm140699394235888">
+                           <l xml:id="idm140699394235632">O det var et Liv!</l>
+                           <l xml:id="idm140699394235216">lutter Tidsfordriv,</l>
+                           <l xml:id="idm140699394234800">ingen Pligter, ingen Slæb og Sliden!</l>
+                           <l xml:id="idm140699394234320">Ak, det flygted brat,</l>
+                           <l xml:id="idm140699394233904">men i Vintrens Nat</l>
+                           <l xml:id="idm140699394233488">end jeg henrykt mindes Sommertiden.</l>
+                        </lg>
+                        <sp xml:id="idm140699394232928">
+                           <speaker xml:id="idm140699394232672">HELLEBÆK</speaker>
+                           <stage type="mix" xml:id="idm140699394232256">
+                              <hi rend="italics" xml:id="idm140699394231888">afsides</hi>.</stage>
+                           <lg xml:id="idm140699394231072">
+                              <l xml:id="idm140699394230816">Skjønt det vel er tredve Somre siden.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                     <div xml:id="idm140699394229952">
+                        <head xml:id="idm140699394229696">2.</head>
+                        <sp xml:id="idm140699394229312">
+                           <speaker xml:id="idm140699394229056">FRØKEN.</speaker>
+                           <lg xml:id="idm140699394228640">
+                              <l xml:id="idm140699394228384">Tænk, naar der var Bal,</l>
+                              <l xml:id="idm140699394227936">naar fra Slottets Hal</l>
+                              <pb n="363" facs="adl/hostrup/hostrup1/host1363" xml:id="idm140699394227520"/>
+                              <l xml:id="idm140699394226752">straaled Lys, mens Valsen klang forinden!</l>
+                              <l xml:id="idm140699394226304">O, hvor jeg da fro</l>
+                              <l xml:id="idm140699394225888">fremtog Baand og Sko</l>
+                              <l xml:id="idm140699394225472">og den hvide Baldragt, let som Vinden!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394224784">
+                           <speaker xml:id="idm140699394224528">HELLEBÆK</speaker>
+                           <stage type="mix" xml:id="idm140699394224112">
+                              <hi rend="italics" xml:id="idm140699394223744">afsides</hi>.</stage>
+                           <lg xml:id="idm140699394222928">
+                              <l xml:id="idm140699394222672">Som hun skulde hænge paa Grevinden.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                     <div xml:id="idm140699394221808">
+                        <head xml:id="idm140699394221552">3.</head>
+                        <sp xml:id="idm140699394221168">
+                           <speaker xml:id="idm140699394220912">FRØKEN.</speaker>
+                           <lg xml:id="idm140699394220496">
+                              <l xml:id="idm140699394220240">Fejred vi en Fest,</l>
+                              <l xml:id="idm140699394219824">var Noblessen Gjæst,</l>
+                              <l xml:id="idm140699394219376">smykt med Guld og Fløjel var saa mangen,</l>
+                              <l xml:id="idm140699394218896">Og hvor var jeg glad,</l>
+                              <l xml:id="idm140699394218480">naar om Taflet sad</l>
+                              <l xml:id="idm140699394218064">alt hvad stort og herligt var ved Rangen.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394217360">
+                           <speaker xml:id="idm140699394217104">HELLEBÆK</speaker>
+                           <stage type="mix" xml:id="idm140699394216688">
+                              <hi rend="italics" xml:id="idm140699394216320">afsides</hi>.</stage>
+                           <lg xml:id="idm140699394215504">
+                              <l xml:id="idm140699394215248">Mens hun selv stod udenfor paa Gangen.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                     <div xml:id="idm140699394214432">
+                        <head xml:id="idm140699394214176">4.</head>
+                        <sp xml:id="idm140699394213792">
+                           <speaker xml:id="idm140699394213536">FRØKEN.</speaker>
+                           <lg xml:id="idm140699394213120">
+                              <l xml:id="idm140699394212864">Aldrig nogen Gang</l>
+                              <l xml:id="idm140699394212448">faldt os Tiden lang,</l>
+                              <l xml:id="idm140699394212032">skjønt vi sad om Dagen oftest hjemme;</l>
+                              <l xml:id="idm140699394211552">let man Morskab fandt,</l>
+                              <l xml:id="idm140699394211136">man Intriger spandt -</l>
+                              <l xml:id="idm140699394210720">o, det Liv jeg aldrig kan forglemme!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394210032">
+                           <speaker xml:id="idm140699394209776">HELLEBÆK</speaker>
+                           <stage type="mix" xml:id="idm140699394209360">
+                              <hi rend="italics" xml:id="idm140699394208992">afsides</hi>.</stage>
+                           <lg xml:id="idm140699394208176">
+                              <l xml:id="idm140699394207920">Nej, det faar til Gavns jeg at fornemme.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                     <div xml:id="idm140699394207088">
+                        <head xml:id="idm140699394206832">5.</head>
+                        <sp xml:id="idm140699394206448">
+                           <speaker xml:id="idm140699394206192">FRØKEN.</speaker>
+                           <lg xml:id="idm140699394205776">
+                              <l xml:id="idm140699394205520">Ak, den skjønne Tid</l>
+                              <l xml:id="idm140699394205072">blomstred frem saa blid,</l>
+                              <l xml:id="idm140699394204640">men den svandt som Blomsten paa en Rude!</l>
+                              <l xml:id="idm140699394204192">Jeg, ved Hoffet før,</l>
+                              <l xml:id="idm140699394203744">maa til min Malheur</l>
+                              <l xml:id="idm140699394203328">leve nu imellem Svin og Stude.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394202640">
+                           <speaker xml:id="idm140699394202384">HELLEBÆK</speaker>
+                           <stage type="mix" xml:id="idm140699394201968">
+                              <hi rend="italics" xml:id="idm140699394201600">afsides</hi>.</stage>
+                           <lg xml:id="idm140699394200784">
+                              <l xml:id="idm140699394200528">Bare dog den Vise snart var ude!</l>
+                           </lg>
+                        </sp>
+                     </div>
+                  </div>
+                  <div xml:id="idm140699394199584">
+                     <pb n="364" facs="adl/hostrup/hostrup1/host1364" xml:id="idm140699394199328"/>
+                     <sp xml:id="idm140699394198512">
+                        <speaker xml:id="idm140699394198256">FRØKEN.</speaker>
+                        <p xml:id="idm140699394197840">Ja ser De, for et Aar siden døde min salig Søster, og saa skrev
+									Præsten til mig, om jeg vilde tage ud til ham. Og jeg maa
+									tilstaa, at det var en Opofrelse af mig, men jeg syntes dog, det
+									var en Synd for lille Augusta, om hun skulde gaa her ude uden at
+									faa noget Væsen og Dannelse; hun kunde jo have løbet om og
+									bleven til en ren Bondegaas.</p>
+                     </sp>
+                     <sp xml:id="idm140699394196656">
+                        <speaker xml:id="idm140699394196400">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394195984">Jeg er Frøkenen meget taknemmelig for det Offer. Men skulde der
+									være noget i Vejen for, at Præsten synes om Partiet?</p>
+                     </sp>
+                     <sp xml:id="idm140699394195200">
+                        <speaker xml:id="idm140699394194944">FRØKEN.</speaker>
+                        <p xml:id="idm140699394194528">Ja, som Sagerne nu staar, gjør han det bestemt ikke.</p>
+                     </sp>
+                     <sp xml:id="idm140699394193888">
+                        <speaker xml:id="idm140699394193632">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394193216">Men jeg kan dog ikke begribe Grunden hvorfor. Er jeg ikke
+									Kandidat og desuden Søn af hans Ungdomsven? Han har jo selv
+									inviteret mig herud, og Augusta har jo været et Par Maaneder
+									inde hos os.</p>
+                     </sp>
+                     <sp xml:id="idm140699394192240">
+                        <speaker xml:id="idm140699394191984">FRØKEN.</speaker>
+                        <p xml:id="idm140699394191568">Ja men det er dog let at observere, at han ikke rigtig gouterer
+									Dem. Og - De maa ikke tage det ilde op - men
+									De gererer Dem heller ikke ganske rigtig. I den ene Dag, De har
+									været her, har De jo idelig dispyteret med ham, og De har jo nok
+									mærket, at han er bleven lidt pikant over det.</p>
+                     </sp>
+                     <sp xml:id="idm140699394190400">
+                        <speaker xml:id="idm140699394190144">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394189728">Men jeg kan da ikke sige Ja og Amen til alting.</p>
+                     </sp>
+                     <sp xml:id="idm140699394189152">
+                        <speaker xml:id="idm140699394188896">FRØKEN.</speaker>
+                        <p xml:id="idm140699394188480">Jo, det er netop det, De skal, og det er ogsaa altid det
+									rigtigste, for saadan gjorde vi ved Hoffet. Herregud! hvorfor
+									skal man ikke leve i Fred med alle Mennesker, naar man kan? Nej,
+									følg De nu mit Raad, og se at faa ham god igjen peu om peu, og
+									lad ham snakke!</p>
+                     </sp>
+                     <sp xml:id="idm140699394187360">
+                        <speaker xml:id="idm140699394187104">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394186688">Ja i Grunden er det ogsaa dumt af <pb n="365" facs="adl/hostrup/hostrup1/host1365" xml:id="idm140699394186384"/> mig, at jeg siger ham imod, da jeg dog ikke kan omvende
+								ham.</p>
+                     </sp>
+                     <sp xml:id="idm140699394185232">
+                        <speaker xml:id="idm140699394184976">FRØKEN.</speaker>
+                        <p xml:id="idm140699394184560">Ja vist er det, det er uhyre dumt! Nej, De maa endelig være
+									forsigtig og for Guds Skyld ikke lade ham mærke noget for det
+									første. Jeg skal nok besørge det øvrige, og lidt maa man vel
+									intrigere, for han har bestemt en Absicht med lille Augusta.</p>
+                     </sp>
+                     <sp xml:id="idm140699394183488">
+                        <speaker xml:id="idm140699394183232">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394182816">Hvad mener De?</p>
+                     </sp>
+                     <sp xml:id="idm140699394182272">
+                        <speaker xml:id="idm140699394182016">FRØKEN.</speaker>
+                        <p xml:id="idm140699394181600">Jo, ser De, der er kun to Mandfolk, om hvem der kan være Tale.
+									Skolemesteren kan det jo ikke være, for han er jo gift, men
+									-</p>
+                     </sp>
+                     <sp xml:id="idm140699394180784">
+                        <speaker xml:id="idm140699394180528">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394180112">Mener De da virkelig, at -</p>
+                     </sp>
+                     <sp xml:id="idm140699394179552">
+                        <speaker xml:id="idm140699394179296">FRØKEN.</speaker>
+                        <p xml:id="idm140699394178880">Ja vist mener jeg. Naar man har været ved Hoffet, saa lærer man
+									at have Øjnene med sig. Ser De - Krigsraaden, han er
+									nu Enkemand, og det er rigtig en Mand for min Svoger. Baade
+									spiller han godt Lhombre - det maa De ogsaa lægge Dem
+									efter - og saa forstaar han sig paa sine Køer og sit
+									Væsen og Svineri. Det er jo ogsaa en ganske net Mand, men han
+									har ingen Bonton, han er noget ryde.</p>
+                     </sp>
+                     <sp xml:id="idm140699394177680">
+                        <speaker xml:id="idm140699394177424">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394177008">Men er det da blot en Formodning, eller veed Frøkenen virkelig
+									-</p>
+                     </sp>
+                     <sp xml:id="idm140699394176336">
+                        <speaker xml:id="idm140699394176080">FRØKEN.</speaker>
+                        <p xml:id="idm140699394175664">Stille! der kommer han netop med min Svoger. Gaa nu ind til lille
+									Augusta og beflit Dem paa at være lidt mindre stridbar. Gaa, min
+									Ven! De kan stole paa mig.</p>
+                     </sp>
+                     <stage type="mix" xml:id="idm140699394174784">
+                        <hi rend="italics" xml:id="idm140699394174416">Hellebæk gaar</hi>.</stage>
+                     <sp xml:id="idm140699394173584">
+                        <speaker xml:id="idm140699394173328">FRØKEN.</speaker>
+                        <p xml:id="idm140699394172912">Det er saamænd et vakkert Menneske, og han har virkelig ogsaa
+									temmelig megen savoir, eftersom han ikke har faaet sin Dannelse
+									paa højere Steder. Naa der er de, nu gjælder det nok at passe
+									paa.</p>
+                     </sp>
+                     <pb n="366" facs="adl/hostrup/hostrup1/host1366" xml:id="idm140699394171936"/>
+                  </div>
+               </div>
+               <div type="scene" n="2" xml:id="idm140699394170912">
+                  <head xml:id="idm140699394170144">ANDEN SCENE.</head>
+                  <stage type="mix" xml:id="idm140699394169728">
+                     <hi rend="italics" xml:id="idm140699394169360">Præsten og Krigsraaden med Tobakspiber</hi>.</stage>
+                  <div xml:id="idm140699394168480">
+                     <sp xml:id="idm140699394168224">
+                        <speaker xml:id="idm140699394167968">PRÆST.</speaker>
+                        <p xml:id="idm140699394167552">Naa kom nu herind og stop din Pibe! Og saa maa vi ud i Kostalden,
+									for den store røde skal snart til at kælve.</p>
+                     </sp>
+                     <sp xml:id="idm140699394166784">
+                        <speaker xml:id="idm140699394166528">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699394166112">Saa, skal hun det? ja saa maa vi sgu derud. - God Dag,
+									lille Frøken! har De været ude at malke i Dag? hvad? hahaha!</p>
+                     </sp>
+                     <sp xml:id="idm140699394165328">
+                        <speaker xml:id="idm140699394165072">FRØKEN</speaker>
+                        <stage type="mix" xml:id="idm140699394164656">
+                           <hi rend="italics" xml:id="idm140699394164288">stødt</hi>.</stage>
+                        <p xml:id="idm140699394163472">Jeg kan ikke begribe, Hr. Krigsraad, hvor det kan falde Dem ind
+									at gjøre mig saadan et Spørgsmaal.</p>
+                     </sp>
+                     <sp xml:id="idm140699394162720">
+                        <speaker xml:id="idm140699394162464">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699394162048">Naa naa - jeg troede, at De havde lært at malke ved
+									Hoffet, hahaha! Men - bliv nu ikke vred og følg ud med
+									os i Kostalden, saa skal De se -</p>
+                     </sp>
+                     <sp xml:id="idm140699394161200">
+                        <speaker xml:id="idm140699394160944">FRØKEN.</speaker>
+                        <p xml:id="idm140699394160528">Uh - De er altid saa fæl i Deres Mund.</p>
+                     </sp>
+                     <sp xml:id="idm140699394159920">
+                        <speaker xml:id="idm140699394159664">PRÆST.</speaker>
+                        <p xml:id="idm140699394159248">Ja lad nu være at drille min Svigerinde! Her er Tobakskassen. <stage type="mix" xml:id="idm140699394158848">
+                              <hi rend="italics" xml:id="idm140699394158480">De stoppe deres Piber</hi>.</stage> Det
+									er sandt, har du ikke hørt, hvordan Hveden staar?</p>
+                     </sp>
+                     <sp xml:id="idm140699394157264">
+                        <speaker xml:id="idm140699394157008">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699394156592">Aa den er sgu flov. Jeg har haft Mikkel inde i Byen for at hente
+									mig noget af denne hersens Guano, for den skulde man dog
+								prøve.</p>
+                     </sp>
+                     <sp xml:id="idm140699394155776">
+                        <speaker xml:id="idm140699394155520">PRÆST.</speaker>
+                        <p xml:id="idm140699394155104">Jeg kunde ogsaa have Lyst til noget. Er den kraftig?</p>
+                     </sp>
+                     <sp xml:id="idm140699394154528">
+                        <speaker xml:id="idm140699394154272">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699394153856">Aa den er bestemt fortræffelig, i det mindste har den en ganske
+									udmærket Lugt. Ja Frøkenen veed maaske ikke, hvad Guano er?</p>
+                     </sp>
+                     <sp xml:id="idm140699394153056">
+                        <speaker xml:id="idm140699394152800">FRØKEN.</speaker>
+                        <p xml:id="idm140699394152384">Nej, og jeg bryder mig heller ikke om at vide det, for det er
+									bestemt noget ækvivokt.</p>
+                     </sp>
+                     <sp xml:id="idm140699394151664">
+                        <speaker xml:id="idm140699394151408">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699394150992">Nej lille Frøken, ikke denne Gang! Det er en Slags amerikansk
+									Syltetøj, kjender Frøkenen det saa?</p>
+                     </sp>
+                     <pb n="367" facs="adl/hostrup/hostrup1/host1367" xml:id="idm140699394150240"/>
+                     <sp xml:id="idm140699394149424">
+                        <speaker xml:id="idm140699394149168">FRØKEN.</speaker>
+                        <p xml:id="idm140699394148752">Naa jo, det er sandt, vi havde det ved Hoffet.</p>
+                     </sp>
+                     <sp xml:id="idm140699394148176">
+                        <speaker xml:id="idm140699394147920">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699394147504">Naa saa det havde De, hahaha! Ja saa veed Frøkenen maaske ogsaa,
+									hvoraf det er lavet?</p>
+                     </sp>
+                     <sp xml:id="idm140699394146784">
+                        <speaker xml:id="idm140699394146528">FRØKEN.</speaker>
+                        <p xml:id="idm140699394146112">Nej, det kan jeg ikke erindre.</p>
+                     </sp>
+                     <sp xml:id="idm140699394145552">
+                        <speaker xml:id="idm140699394145296">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699394144880">Da skal jeg sige Dem det, det er lavet - rent ud sagt
+									- af Fuglemøg.</p>
+                     </sp>
+                     <sp xml:id="idm140699394144192">
+                        <speaker xml:id="idm140699394143936">FRØKEN.</speaker>
+                        <p xml:id="idm140699394143520">Aa fy - sikke noget Svineri!</p>
+                     </sp>
+                     <sp xml:id="idm140699394142960">
+                        <speaker xml:id="idm140699394142704">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699394142288">Aa hvad, i det Kapitel er vi sgu Svin alle sammen, hahaha!</p>
+                     </sp>
+                     <sp xml:id="idm140699394141696">
+                        <speaker xml:id="idm140699394141440">PRÆST.</speaker>
+                        <p xml:id="idm140699394141024">Naa naa, vær nu ikke for slem! Hør, du kommer vel siden til en
+									Lhombre, for jeg har faaet fremmede.</p>
+                     </sp>
+                     <sp xml:id="idm140699394140272">
+                        <speaker xml:id="idm140699394140016">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699394139600">Har du det? hvem da?</p>
+                     </sp>
+                     <sp xml:id="idm140699394139056">
+                        <speaker xml:id="idm140699394138800">PRÆST.</speaker>
+                        <p xml:id="idm140699394138384">Aa, det er saadan et Stykke Kandidat inde fra Kjøbenhavn. Fyren
+									er ellers som de unge Mennesker i disse Tider, noget excentrisk
+									og paastaaelig, og har en hel Del gale Ideer, men han kan jo
+									være god nok til at tyre en Lhombre med. Men det er sandt, du
+									kjender jo hans Fader; det er en Søn af vores gamle Mads
+									Hellebæk.</p>
+                     </sp>
+                     <sp xml:id="idm140699394137152">
+                        <speaker xml:id="idm140699394136896">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699394136480">Mads Hellebæk! ham kan jeg sgu ikke huske.</p>
+                     </sp>
+                     <sp xml:id="idm140699394135872">
+                        <speaker xml:id="idm140699394135616">PRÆST.</speaker>
+                        <p xml:id="idm140699394135200">Aa jo vist kan du. Det var i Studenteraarene, den Gang du laa ved
+									Universitetet og lod være at læse til Examen. Det var ham, Mads,
+									den gale Mads!</p>
+                     </sp>
+                  </div>
+                  <div xml:id="idm140699394134208">
+                     <head xml:id="idm140699394133952">Mel. af Kunzen.</head>
+                     <div xml:id="idm140699394133536">
+                        <head xml:id="idm140699394133280">1.</head>
+                        <lg xml:id="idm140699394132896">
+                           <l xml:id="idm140699394132640">Aa husker du ikke den lystige Tid,</l>
+                           <l xml:id="idm140699394132208">naar i Kjøbenhavn</l>
+                           <l xml:id="idm140699394131776">vi kvæged os efter Dagens Slid</l>
+                           <l xml:id="idm140699394131312">i Fader Evans Favn!</l>
+                           <l xml:id="idm140699394130896">hvem var det da, der ved Gilderne drak</l>
+                           <l xml:id="idm140699394130464">de allerfleste Glas?</l>
+                        </lg>
+                        <pb n="368" facs="adl/hostrup/hostrup1/host1368" xml:id="idm140699394129920"/>
+                        <sp xml:id="idm140699394129152">
+                           <speaker xml:id="idm140699394128896">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699394128480">
+                              <l xml:id="idm140699394128224">Aa det var jo dig!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394127552">
+                           <speaker xml:id="idm140699394127296">PRÆST.</speaker>
+                           <lg xml:id="idm140699394126880">
+                              <l xml:id="idm140699394126624">Nej sikken en Snak,</l>
+                              <l xml:id="idm140699394126208">for det var sgu Mads.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                     <div xml:id="idm140699394125408">
+                        <head xml:id="idm140699394125152">2.</head>
+                        <lg xml:id="idm140699394124768">
+                           <l xml:id="idm140699394124512">Og husker du, naar vi om Middagen sad</l>
+                           <l xml:id="idm140699394124080">hos Madam Fris</l>
+                           <l xml:id="idm140699394123664">og aad vor For- og vor Eftermad</l>
+                           <l xml:id="idm140699394123232">til allerbilligste Pris:</l>
+                           <l xml:id="idm140699394122800">hvem var det da der, som gjorde især</l>
+                           <l xml:id="idm140699394122320">med Opvartningspigerne Fjas?</l>
+                        </lg>
+                        <sp xml:id="idm140699394121760">
+                           <speaker xml:id="idm140699394121504">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699394121088">
+                              <l xml:id="idm140699394120832">Aa det var jo dig!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394120160">
+                           <speaker xml:id="idm140699394119904">PRÆST.</speaker>
+                           <lg xml:id="idm140699394119488">
+                              <l xml:id="idm140699394119232">Nej gu var det ej!</l>
+                              <l xml:id="idm140699394118816">for det var jo Mads.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394118144">
+                           <speaker xml:id="idm140699394117888">KRIGSRAAD.</speaker>
+                           <p xml:id="idm140699394117472">Nej, ham kan jeg sgu ikke huske.</p>
+                        </sp>
+                        <sp xml:id="idm140699394116912">
+                           <speaker xml:id="idm140699394116656">PRÆST.</speaker>
+                           <p xml:id="idm140699394116240">Aa jo vist kan du saa, tænk dig om! kan du ikke huske den
+										Gang han lod, som han var fuld, og blev taget af
+									Vægteren?</p>
+                        </sp>
+                     </div>
+                     <div xml:id="idm140699394115312">
+                        <head xml:id="idm140699394115056">3.</head>
+                        <lg xml:id="idm140699394114672">
+                           <l xml:id="idm140699394114416">En Aften som fuld han paa Langebro gik</l>
+                           <l xml:id="idm140699394113984">med dinglende Krop,</l>
+                           <l xml:id="idm140699394113568">til Vægteren peb og paa Stigen fik</l>
+                           <l xml:id="idm140699394113104">ham praktiseret op.</l>
+                           <l xml:id="idm140699394112688">Men han sprang af Stigen -</l>
+                        </lg>
+                        <sp xml:id="idm140699394112128">
+                           <speaker xml:id="idm140699394111872">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699394111456">
+                              <l xml:id="idm140699394111200">Og rendte sin Vej</l>
+                              <l xml:id="idm140699394110784">forbi Prinsens Palads.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394110112">
+                           <speaker xml:id="idm140699394109856">PRÆST.</speaker>
+                           <lg xml:id="idm140699394109440">
+                              <l xml:id="idm140699394109184">Var det ogsaa mig?</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394108512">
+                           <speaker xml:id="idm140699394108256">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699394107840">
+                              <l xml:id="idm140699394107584">Nej vist var det ej!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394106912">
+                           <speaker xml:id="idm140699394106656">PRÆST.</speaker>
+                           <lg xml:id="idm140699394106240">
+                              <l xml:id="idm140699394105984">Nej det var sgu Mads.</l>
+                           </lg>
+                        </sp>
+                        <pb n="369" facs="adl/hostrup/hostrup1/host1369" xml:id="idm140699394105312"/>
+                        <sp xml:id="idm140699394104496">
+                           <speaker xml:id="idm140699394104240">KRIGSRAAD.</speaker>
+                           <p xml:id="idm140699394103824">Naa det var ham, det gale Asen! Jo ham kan jeg rigtignok
+										huske; det var en Pokkers Karl til at gjøre Spilopper.</p>
+                        </sp>
+                     </div>
+                     <div xml:id="idm140699394102928">
+                        <head xml:id="idm140699394102672">4.</head>
+                        <sp xml:id="idm140699394102288">
+                           <speaker xml:id="idm140699394102032">PRÆST.</speaker>
+                           <lg xml:id="idm140699394101616">
+                              <l xml:id="idm140699394101360">Ja, Mads han var en fortræffelig Mand</l>
+                              <l xml:id="idm140699394100880">til Løjer og til Sjov,</l>
+                              <l xml:id="idm140699394100432">han flyttede Skilter og raabte Brand</l>
+                              <l xml:id="idm140699394100000">om Natten, mens Vægterne sov.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394099280">
+                           <speaker xml:id="idm140699394099024">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699394098608">
+                              <l xml:id="idm140699394098352">Men saa fik han Prygl, saa det var en Gru -</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394097648">
+                           <speaker xml:id="idm140699394097392">PRÆST.</speaker>
+                           <lg xml:id="idm140699394096976">
+                              <l xml:id="idm140699394096720">Ja paa Hauserplads!</l>
+                              <l xml:id="idm140699394096304">Aa jeg kan grine min Mave itu,</l>
+                              <l xml:id="idm140699394095872">naar jeg tænker paa Mads.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                  </div>
+                  <div xml:id="idm140699394094912">
+                     <sp xml:id="idm140699394094656">
+                        <speaker xml:id="idm140699394094400">FRØKEN</speaker>
+                        <stage type="mix" xml:id="idm140699394093984">
+                           <hi rend="italics" xml:id="idm140699394093616">afsides</hi>.</stage>
+                        <p xml:id="idm140699394092800">Det var nogle charmante Historier, man hører om de gamle
+									Mennesker!</p>
+                     </sp>
+                     <sp xml:id="idm140699394092112">
+                        <speaker xml:id="idm140699394091856">PRÆST.</speaker>
+                        <p xml:id="idm140699394091440">Hør, Svigerinde! lav os saa siden Spillebordet i Stand og sig saa
+									til Augusta, at hun skal brygge os fire Thevandsknægte, for
+									Skolemesteren kommer her ogsaa. Og lad os faa nogle Kyllinger
+									eller noget andet Gaffelmad til i Aften, og saa kan I
+									Fruentimmer jo gjerne lave lidt Slikkeri til jer og Kandidaten! <stage type="mix" xml:id="idm140699394090560">
+                              <hi rend="italics" xml:id="idm140699394090192">Til Krigsraaden</hi>.</stage> Kom, lad os
+									saa gaa ud i Kostalden!</p>
+                     </sp>
+                     <sp xml:id="idm140699394089056">
+                        <speaker xml:id="idm140699394088800">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699394088384">Hør, bi lidt, Præst! Jeg vilde dog gjerne have den Sag klaret,
+									som vi begyndte at tale om før. Jeg har faaet en forbandet Lyst
+									til hende, og du veed jo, hvad jeg vil give. Bestem dig nu og
+									lad saa al den Snak være forbi!</p>
+                     </sp>
+                     <sp xml:id="idm140699394087360">
+                        <speaker xml:id="idm140699394087104">PRÆST.</speaker>
+                        <p xml:id="idm140699394086688">Ja, naar nogen skulde have hende, skulde det være dig; men hun er
+									jo født og opvoxet for mine Øjne, og jeg synes ikke godt, jeg
+									kan afse hende.</p>
+                     </sp>
+                     <pb n="370" facs="adl/hostrup/hostrup1/host1370" xml:id="idm140699394085824"/>
+                     <sp xml:id="idm140699394085056">
+                        <speaker xml:id="idm140699394084800">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699394084384">Aa hvad, du har jo den gamle, og hun kan sagtens gjøre al den
+									Tjeneste, som du behøver. Du vil jo ikke gjøre saadan Stads
+									eller saadan noget, saa du kan godt lade mig faa hende.</p>
+                     </sp>
+                     <sp xml:id="idm140699394083456">
+                        <speaker xml:id="idm140699394083200">PRÆST.</speaker>
+                        <p xml:id="idm140699394082784">Aa ja, det er sandt nok. Ja - bi lidt, du skal faa
+									hende, naar du oven i Kjøbet vil overlade mig noget af denne
+									hersens nymodens Gjødning, for den kunde jeg dog have Lyst til
+									at probere.</p>
+                     </sp>
+                     <sp xml:id="idm140699394081824">
+                        <speaker xml:id="idm140699394081568">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699394081152">Ja med Fornøjelse! Tak skal du have! Kom, lad os saa gaa! Far
+									vel, lille Frøken! værsgo at hilse Kjæresten!</p>
+                     </sp>
+                     <stage type="mix" xml:id="idm140699394080384">
+                        <hi rend="italics" xml:id="idm140699394080016">De gaa</hi>.</stage>
+                     <sp xml:id="idm140699394079200">
+                        <speaker xml:id="idm140699394078944">FRØKEN.</speaker>
+                        <p xml:id="idm140699394078528">O jeg skjælver af Forbitrelse. Sælge sin Datter - kalde
+									mig den gamle, som ikke kan gjøre Stads eller saadan noget
+									- nej det er oprørende, det er mageløst! <stage type="mix" xml:id="idm140699394077904">
+                              <hi rend="italics" xml:id="idm140699394077536">Aabner Sidedøren</hi>.</stage> Augusta!
+									Hr. Hellebæk! for Guds Skyld kom - kom strax!</p>
+                     </sp>
+                  </div>
+               </div>
+               <div type="scene" n="3" xml:id="idm140699394076048">
+                  <head xml:id="idm140699394075280">TREDIE SCENE.</head>
+                  <stage type="mix" xml:id="idm140699394074864">
+                     <hi rend="italics" xml:id="idm140699394074496">Frøken. Augusta. Hellebæk</hi>.</stage>
+                  <div xml:id="idm140699394073648">
+                     <head xml:id="idm140699394073392">Mel. Fr. Ep. 40.</head>
+                     <div xml:id="idm140699394072976">
+                        <head xml:id="idm140699394072720">1.</head>
+                        <sp xml:id="idm140699394072336">
+                           <speaker xml:id="idm140699394072080">FRØKEN.</speaker>
+                           <lg xml:id="idm140699394071664">
+                              <l xml:id="idm140699394071408">Kom ind! jeg dør af Harme -</l>
+                              <l xml:id="idm140699394070944">o de Skurke! o du arme!</l>
+                              <l xml:id="idm140699394070528">Skræk og Jammer</l>
+                              <l xml:id="idm140699394070096">Huset rammer -</l>
+                              <l xml:id="idm140699394069680">o du min Gud!</l>
+                              <l xml:id="idm140699394069264">Aa kom og skynd jer bare</l>
+                              <l xml:id="idm140699394068832">at erfare</l>
+                              <l xml:id="idm140699394068416">hvad det Skarn</l>
+                              <l xml:id="idm140699394068000">mod sit Barn</l>
+                              <l xml:id="idm140699394067584">nu har ruget ud!</l>
+                           </lg>
+                        </sp>
+                        <pb n="371" facs="adl/hostrup/hostrup1/host1371" xml:id="idm140699394066912"/>
+                        <sp xml:id="idm140699394066144">
+                           <speaker xml:id="idm140699394065888">AUGUSTA.</speaker>
+                           <lg xml:id="idm140699394065472">
+                              <l xml:id="idm140699394065216">Hvad er det, du siger?</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394064544">
+                           <speaker xml:id="idm140699394064288">HELLEBÆK</speaker>
+                           <stage type="mix" xml:id="idm140699394063872">
+                              <hi rend="italics" xml:id="idm140699394063504">til Augusta</hi>.</stage>
+                           <lg xml:id="idm140699394062688">
+                              <l xml:id="idm140699394062432">Hvi mon Frøknen skriger?</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394061728">
+                           <speaker xml:id="idm140699394061472">FRØKEN.</speaker>
+                           <lg xml:id="idm140699394061056">
+                              <l xml:id="idm140699394060800">Aa hør nu blot!</l>
+                              <l xml:id="idm140699394060368">her er smedet et Komplot.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                     <div xml:id="idm140699394059552">
+                        <head xml:id="idm140699394059296">2.</head>
+                        <lg xml:id="idm140699394058912">
+                           <l xml:id="idm140699394058656">Jeg kan mig ikke samle,</l>
+                           <l xml:id="idm140699394058240">han har kaldt mig for den gamle,</l>
+                           <l xml:id="idm140699394057808">jeg skal lære</l>
+                           <l xml:id="idm140699394057376">dem at bære</l>
+                           <l xml:id="idm140699394056944">for mig Respekt -</l>
+                           <l xml:id="idm140699394056528">Og knap jeg ret det fatter,</l>
+                           <l xml:id="idm140699394056096">men sin Datter -</l>
+                           <l xml:id="idm140699394055680">hvor afsky'lig! -</l>
+                           <l xml:id="idm140699394055264">har han nylig</l>
+                           <l xml:id="idm140699394054848">solgt til denne Knægt.</l>
+                        </lg>
+                        <sp xml:id="idm140699394054272">
+                           <speaker xml:id="idm140699394054016">AUGUSTA.</speaker>
+                           <lg xml:id="idm140699394053600">
+                              <l xml:id="idm140699394053344">Men jeg ej forstaar det.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394052656">
+                           <speaker xml:id="idm140699394052400">HELLEBÆK.</speaker>
+                           <lg xml:id="idm140699394051984">
+                              <l xml:id="idm140699394051728">Sig, hvorledes gaar det?</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394051040">
+                           <speaker xml:id="idm140699394050784">FRØKEN.</speaker>
+                           <lg xml:id="idm140699394050368">
+                              <l xml:id="idm140699394050112">Hvordan det gaar!</l>
+                              <l xml:id="idm140699394049696">det De snart at føle faar.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                     <div xml:id="idm140699394048864">
+                        <head xml:id="idm140699394048608">3.</head>
+                        <lg xml:id="idm140699394048224">
+                           <l xml:id="idm140699394047968">Jeg hjælper Kandidaten,</l>
+                           <l xml:id="idm140699394047520">og jeg vise skal Krabaten,</l>
+                           <l xml:id="idm140699394047088">at den gamle</l>
+                           <l xml:id="idm140699394046672">op kan hamle</l>
+                           <l xml:id="idm140699394046256">med ham i List.</l>
+                        </lg>
+                        <stage type="mix" xml:id="idm140699394045712">
+                           <hi rend="italics" xml:id="idm140699394045344">Til Augusta</hi>. </stage>
+                        <lg xml:id="idm140699394044528">
+                           <l xml:id="idm140699394044272">Og ej med det Spektakel</l>
+                           <l xml:id="idm140699394043856">du, din Stakkel,</l>
+                           <l xml:id="idm140699394043440">dig forlover,</l>
+                           <l xml:id="idm140699394043024">skjønt min Svoger</l>
+                           <l xml:id="idm140699394042592">loved det saa vist.</l>
+                        </lg>
+                        <pb n="372" facs="adl/hostrup/hostrup1/host1372" xml:id="idm140699394042048"/>
+                        <sp xml:id="idm140699394041232">
+                           <speaker xml:id="idm140699394040976">AUGUSTA.</speaker>
+                           <lg xml:id="idm140699394040560">
+                              <l xml:id="idm140699394040304">Sig, til hvem du sigter!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394039616">
+                           <speaker xml:id="idm140699394039360">HELLEBÆK.</speaker>
+                           <lg xml:id="idm140699394038944">
+                              <l xml:id="idm140699394038688">Er det Krigsraad Richter?</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699394038000">
+                           <speaker xml:id="idm140699394037744">FRØKEN.</speaker>
+                           <lg xml:id="idm140699394037328">
+                              <l xml:id="idm140699394037072">Ja jeg til Løn</l>
+                              <l xml:id="idm140699394036640">skal ham ærgre gul og grøn.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                  </div>
+                  <div xml:id="idm140699394035664">
+                     <sp xml:id="idm140699394035408">
+                        <speaker xml:id="idm140699394035152">AUGUSTA.</speaker>
+                        <p xml:id="idm140699394034736">Men kjære Tante, hvad er der dog paa Færde? jeg kan slet ikke
+									blive klog paa dig.</p>
+                     </sp>
+                     <sp xml:id="idm140699394034016">
+                        <speaker xml:id="idm140699394033760">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394033344">Er Deres Formodning om Krigsraadens Giftermaalsplan virkelig
+									bleven bestyrket?</p>
+                     </sp>
+                     <sp xml:id="idm140699394032736">
+                        <speaker xml:id="idm140699394032480">FRØKEN.</speaker>
+                        <p xml:id="idm140699394032064">Ja vist er den - o de Mandfolk, de Mandfolk, det er dog
+									rigtig noget Sk - noget Smuds! Og saa sad de gamle
+									Mennesker og fortalte de mest ordinære Geschichter fra deres
+									Garçonliv - jo det er nogle nysselige Personer, ret
+									nogle gentile Herrer!</p>
+                     </sp>
+                     <sp xml:id="idm140699394030976">
+                        <speaker xml:id="idm140699394030720">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394030304">Men har Frøkenen da virkelig selv hørt, at Deres Svoger har lovet
+									Augusta til Krigsraaden?</p>
+                     </sp>
+                     <sp xml:id="idm140699394029568">
+                        <speaker xml:id="idm140699394029312">FRØKEN.</speaker>
+                        <p xml:id="idm140699394028896">Lovet - ja han har ikke blot lovet, men han har
+									- tænk en Gang! - han har solgt hende til
+									ham.</p>
+                     </sp>
+                     <sp xml:id="idm140699394028144">
+                        <speaker xml:id="idm140699394027888">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394027472">Solgt!</p>
+                     </sp>
+                     <sp xml:id="idm140699394026928">
+                        <speaker xml:id="idm140699394026672">AUGUSTA.</speaker>
+                        <p xml:id="idm140699394026256">Solgt! Nej, Tante, det er jo noget urimeligt noget; hvor skulde
+									Fader falde paa det!</p>
+                     </sp>
+                     <sp xml:id="idm140699394025632">
+                        <speaker xml:id="idm140699394025376">FRØKEN.</speaker>
+                        <p xml:id="idm140699394024960">Ja det veed jeg ikke, men alligevel er han falden paa det, som
+									jeg har hørt med mine egne Øren i dette hellige Øjeblik. Og nu
+									kommer det værste, veed du, paa hvad Konstitutioner den Handel
+									er sluttet? veed du, hvad han har solgt dig for - kan
+									du gjætte?</p>
+                     </sp>
+                     <sp xml:id="idm140699394023840">
+                        <speaker xml:id="idm140699394023584">AUGUSTA.</speaker>
+                        <p xml:id="idm140699394023168">Nej!</p>
+                     </sp>
+                     <pb n="373" facs="adl/hostrup/hostrup1/host1373" xml:id="idm140699394022624"/>
+                     <sp xml:id="idm140699394021856">
+                        <speaker xml:id="idm140699394021600">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394021184">Var det en stor Sum, han forlangte?</p>
+                     </sp>
+                     <sp xml:id="idm140699394020624">
+                        <speaker xml:id="idm140699394020368">FRØKEN.</speaker>
+                        <p xml:id="idm140699394019952">Aa nej, det var ingen Sum, det var ikke Penge, nej det var
+									-</p>
+                     </sp>
+                     <stage type="mix" xml:id="idm140699394019360">
+                        <hi rend="italics" xml:id="idm140699394018992">Standser pludselig</hi>.</stage>
+                     <sp xml:id="idm140699394018176">
+                        <speaker xml:id="idm140699394017920">AUGUSTA.</speaker>
+                        <p xml:id="idm140699394017504">Naa hvad var det?</p>
+                     </sp>
+                     <sp xml:id="idm140699394016960">
+                        <speaker xml:id="idm140699394016704">FRØKEN.</speaker>
+                        <p xml:id="idm140699394016288">Aa det var det allerskrækkeligste, det allermest horribleste.</p>
+                     </sp>
+                     <sp xml:id="idm140699394015632">
+                        <speaker xml:id="idm140699394015376">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394014960">Men saa sig os da, hvad det var?</p>
+                     </sp>
+                     <sp xml:id="idm140699394014400">
+                        <speaker xml:id="idm140699394014144">FRØKEN.</speaker>
+                        <p xml:id="idm140699394013728">Nej det kan jeg ikke - jeg kan ikke bringe det over
+									mine Læber - det er altfor fælt og ryde. <stage type="mix" xml:id="idm140699394013248">
+                              <hi rend="italics" xml:id="idm140699394012880">Til Hellebæk</hi>.</stage> Vil De gaa
+									lidt til Side! - Kom, Augusta, saa skal jeg hviske det
+									til dig. <stage type="mix" xml:id="idm140699394011936">
+                              <hi rend="italics" xml:id="idm140699394011568">Sagte til Augusta</hi>.</stage> Det var
+									for Gjødning, som er lavet af Fuglem-</p>
+                     </sp>
+                     <sp xml:id="idm140699394010368">
+                        <speaker xml:id="idm140699394010112">AUGUSTA</speaker>
+                        <stage type="mix" xml:id="idm140699394009696">
+                           <hi rend="italics" xml:id="idm140699394009328">ler</hi>.</stage>
+                        <p xml:id="idm140699394008544">Aa Tante, du har hørt fejl eller misforstaaet dem.</p>
+                     </sp>
+                     <sp xml:id="idm140699394007920">
+                        <speaker xml:id="idm140699394007664">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394007248">Ja hvordan det nu endogsaa hænger sammen, saa er det sandsynligt,
+									at der er Fare paa Færde, og det er derfor bedst, at jeg strax
+									taler med din Fader.</p>
+                     </sp>
+                     <sp xml:id="idm140699394006384">
+                        <speaker xml:id="idm140699394006128">FRØKEN.</speaker>
+                        <p xml:id="idm140699394005712">Er De rasende, Menneske! nu i dette Øjeblik, da han har lovet
+									hende bort til en anden, efter at have omtalt Dem som et
+									koncentrisk Menneske, der ikke duede til noget. Nej, man kan
+									rigtignok se, at De ikke har været ved Hoffet. Deres Rolle er
+									blot at være aimable mod ham for at stikke Krigsraaden ud;
+									Resten skal jeg besørge. Jeg har allerede Planen til en Intrige,
+									som maa lykkes.</p>
+                     </sp>
+                     <sp xml:id="idm140699394004512">
+                        <speaker xml:id="idm140699394004256">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394003840">Men hvorfor skal man -</p>
+                     </sp>
+                     <sp xml:id="idm140699394003296">
+                        <speaker xml:id="idm140699394003040">AUGUSTA.</speaker>
+                        <p xml:id="idm140699394002624">Jo, da vi ikke rigtig veed, hvorledes det hænger sammen, er det
+									vel det bedste, at vi først føler os for.</p>
+                     </sp>
+                     <sp xml:id="idm140699394001856">
+                        <speaker xml:id="idm140699394001600">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699394001184">Naa ja, som du vil.</p>
+                     </sp>
+                     <sp xml:id="idm140699394000640">
+                        <speaker xml:id="idm140699394000384">FRØKEN.</speaker>
+                        <p xml:id="idm140699393999968">Og saa kunde De ogsaa skrive ind til <pb n="374" facs="adl/hostrup/hostrup1/host1374" xml:id="idm140699393999664"/> Deres Fader og bede ham komme herud,
+									for rigtignok rakkede de ogsaa ham saadan til, at
+								-</p>
+                     </sp>
+                     <sp xml:id="idm140699393998512">
+                        <speaker xml:id="idm140699393998256">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393997840">Ja det er rigtigt, det vil jeg gjøre strax.</p>
+                     </sp>
+                     <stage type="mix" xml:id="idm140699393997216">
+                        <hi rend="italics" xml:id="idm140699393996848">Vil gaa</hi>.</stage>
+                     <sp xml:id="idm140699393996032">
+                        <speaker xml:id="idm140699393995776">FRØKEN.</speaker>
+                        <p xml:id="idm140699393995360">Nej hør, bi lidt! nu maa De tale med min Svoger, naar han kommer
+									op fra Kostalden - rent ud sagt. O kunde vi fange den
+									gamle Lux!</p>
+                     </sp>
+                     <sp xml:id="idm140699393994528">
+                        <speaker xml:id="idm140699393994272">AUGUSTA.</speaker>
+                        <p xml:id="idm140699393993856">Fy, Tante! saadan maa du ikke tale om min Fader.</p>
+                     </sp>
+                     <sp xml:id="idm140699393993280">
+                        <speaker xml:id="idm140699393993024">FRØKEN.</speaker>
+                        <p xml:id="idm140699393992608">Naa lad ham gaa for, hvad han er. Men den Krigsraad -
+									uh, hvor han er grim! men han skal faa det at føle. Kom,
+									Augusta! <stage type="mix" xml:id="idm140699393992064">
+                              <hi rend="italics" xml:id="idm140699393991696">Til Hellebæk</hi>.</stage> Vær nu
+								adræt!</p>
+                     </sp>
+                     <stage type="mix" xml:id="idm140699393990544">
+                        <hi rend="italics" xml:id="idm140699393990176">Frøkenen og Augusta gaa</hi>.</stage>
+                  </div>
+               </div>
+               <div type="scene" n="4" xml:id="idm140699393989072">
+                  <head xml:id="idm140699393988304">FJERDE SCENE.</head>
+                  <stage type="mix" xml:id="idm140699393987888">
+                     <hi rend="italics" xml:id="idm140699393987520">Hellebæk. Siden Præsten</hi>.</stage>
+                  <div xml:id="idm140699393986672">
+                     <sp xml:id="idm140699393986416">
+                        <speaker xml:id="idm140699393986160">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393985744">Jeg kan ikke ret tro, at det hænger saaledes sammen, men man maa
+									-</p>
+                     </sp>
+                     <sp xml:id="idm140699393985056">
+                        <speaker xml:id="idm140699393984800">PRÆSTEN</speaker>
+                        <stage type="mix" xml:id="idm140699393984384">
+                           <hi rend="italics" xml:id="idm140699393984016">kommer</hi>.</stage>
+                        <p xml:id="idm140699393983200">Naa, Kandidat, hvad staar De nu og filosoferer over? De lægger da
+									vel aldrig Planer til en Sammensværgelse, hvad? hahaha!</p>
+                     </sp>
+                     <sp xml:id="idm140699393982400">
+                        <speaker xml:id="idm140699393982144">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393981728">Jo, jeg kan ikke nægte, at jeg tænkte paa noget lignende.</p>
+                     </sp>
+                     <sp xml:id="idm140699393981088">
+                        <speaker xml:id="idm140699393980832">PRÆST.</speaker>
+                        <p xml:id="idm140699393980416">Ja jeg kunde nok begribe det, for De hører jo til det unge
+									Danmark, og saa er De naturligvis ultraliberal. Naa, sig mig da,
+									hvad Parti hører De til? Vil De have en Konstitution, eller er
+									De Republikaner?</p>
+                     </sp>
+                     <sp xml:id="idm140699393979424">
+                        <speaker xml:id="idm140699393979168">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393978752">De veed jo nok, at jeg anser det for <pb n="375" facs="adl/hostrup/hostrup1/host1375" xml:id="idm140699393978448"/> ønskeligt, om Folket fik mere Del i
+									Landets Bestyrelse.</p>
+                     </sp>
+                     <sp xml:id="idm140699393977232">
+                        <speaker xml:id="idm140699393976976">PRÆST.</speaker>
+                        <p xml:id="idm140699393976560">Ja men hvor kan De være saa stokblind at mene det? Har vi ikke
+									hver især nok at gøre med vore egne Affærer, og hvor skal vi saa
+									faa Tid til at passe de andres?</p>
+                     </sp>
+                     <sp xml:id="idm140699393975664">
+                        <speaker xml:id="idm140699393975408">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393974992">Ja det kan jo ikke nytte at disputere med Dem derom, for vi er jo
+									en Gang af modsatte Grundanskuelser. De sværmer nu blot for det
+									nyttige.</p>
+                     </sp>
+                     <sp xml:id="idm140699393974144">
+                        <speaker xml:id="idm140699393973888">PRÆST.</speaker>
+                        <p xml:id="idm140699393973472">Ja vel - jeg sværmer blot for det nyttige, vi er af
+									modsatte Grundanskuelser, ergo sværmer De blot for det unyttige.
+									Hahaha! der fangede jeg Dem, kan De stikke den?</p>
+                     </sp>
+                     <sp xml:id="idm140699393972576">
+                        <speaker xml:id="idm140699393972320">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393971904">Ja den Bevisførelse slaar mig virkelig ikke.</p>
+                     </sp>
+                     <sp xml:id="idm140699393971280">
+                        <speaker xml:id="idm140699393971024">PRÆST</speaker>
+                        <stage type="mix" xml:id="idm140699393970608">
+                           <hi rend="italics" xml:id="idm140699393970240">lidt stødt</hi>.</stage>
+                        <p xml:id="idm140699393969424">Ikke det? Ja de unge Mennesker vil nu aldrig lade sig overbevise.
+									Men hør, da vi dog ikke kan tale sammen uden at disputere, saa
+									lad os gjøre det paa Latin, for saa bliver man ikke hidsig. Ja,
+									De er vel sagtens meget stiv i Latinen?</p>
+                     </sp>
+                     <sp xml:id="idm140699393968368">
+                        <speaker xml:id="idm140699393968112">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393967696">Nej, jeg tror aldrig, jeg har talt det uden ved
+								Examensbordet.</p>
+                     </sp>
+                     <sp xml:id="idm140699393967104">
+                        <speaker xml:id="idm140699393966848">PRÆST.</speaker>
+                        <p xml:id="idm140699393966432">Hvad for noget? hvor kan det være? Hvad bestiller de da oppe i
+									Studenterforeningen? holder de da ikke der latinske
+									Disputatorier?</p>
+                     </sp>
+                     <sp xml:id="idm140699393965600">
+                        <speaker xml:id="idm140699393965344">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393964928">Nej det bruger de rigtignok ikke.</p>
+                     </sp>
+                     <sp xml:id="idm140699393964368">
+                        <speaker xml:id="idm140699393964112">PRÆST.</speaker>
+                        <p xml:id="idm140699393963696">Naa, saa det gjør de ikke? Ja - se saa kan jeg begribe,
+									hvorledes den Politisering og det Partivæsen er kommet over de
+									unge Mennesker. Bare de, i Stedet for at sidde deroppe og
+									diskutere paa Dansk, havde snakket Latin, saa vilde man ikke
+									have kjendt noget til den kritiske Aand, der vil have Raison for
+									alting.</p>
+                     </sp>
+                     <pb n="376" facs="adl/hostrup/hostrup1/host1376" xml:id="idm140699393962544"/>
+                     <sp xml:id="idm140699393961728">
+                        <speaker xml:id="idm140699393961472">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393961056">Ja men paa den Maade kom man jo aldrig videre.</p>
+                     </sp>
+                     <sp xml:id="idm140699393960480">
+                        <speaker xml:id="idm140699393960224">PRÆST.</speaker>
+                        <p xml:id="idm140699393959808">Aa man er jo ogsaa kommen vidt nok. Se nu til os to! De er
+									Kandidat med bedste Karakter og har altsaa Udsigt til at faa et
+									godt Embede, og jeg - jeg har megen Glæde af min
+									Stilling, for jeg har en god Menighed og mit rigelige Udkomme.
+									Hvad er der saa i Vejen? Er vi ikke begge komne saa vidt, som vi
+									med Rimelighed kan forlange?</p>
+                     </sp>
+                     <sp xml:id="idm140699393958528">
+                        <speaker xml:id="idm140699393958272">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393957856">Ja men jeg mener jo slet ikke -</p>
+                     </sp>
+                     <sp xml:id="idm140699393957296">
+                        <speaker xml:id="idm140699393957040">PRÆST.</speaker>
+                        <p xml:id="idm140699393956624">Aa jeg veed godt, hvad De mener. Det er hele Tiden, der har faaet
+									en Raptus, det gode gamle er den ikke godt nok, den vil have
+									Forandringer. Men det fører ikke til noget.</p>
+                     </sp>
+                  </div>
+                  <div xml:id="idm140699393955584">
+                     <head xml:id="idm140699393955328">Mel. af der Talisman.</head>
+                     <div xml:id="idm140699393954912">
+                        <head xml:id="idm140699393954656">1.</head>
+                        <lg xml:id="idm140699393954272">
+                           <l xml:id="idm140699393954016">Nej, Tiden den duer sgu ej for en Snus;</l>
+                           <l xml:id="idm140699393953584">den vrager sit gamle grundmurede Hus;</l>
+                           <l xml:id="idm140699393953152">det nymodens Bindingsværk - det er saa rart,</l>
+                           <l xml:id="idm140699393952656">det bygger og river man ned i en Fart.</l>
+                        </lg>
+                        <sp xml:id="idm140699393952096">
+                           <speaker xml:id="idm140699393951840">HELLEBÆK.</speaker>
+                           <lg xml:id="idm140699393951424">
+                              <l xml:id="idm140699393951168">Men ad Omveje naar dog til Maalet man hen.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393950464">
+                           <speaker xml:id="idm140699393950208">PRÆST.</speaker>
+                           <lg xml:id="idm140699393949792">
+                              <l xml:id="idm140699393949536">Og saa faar man, min Ven,</l>
+                              <l xml:id="idm140699393949104">kun det gamle igjen.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                     <div xml:id="idm140699393948304">
+                        <head xml:id="idm140699393948048">2.</head>
+                        <lg xml:id="idm140699393947664">
+                           <l xml:id="idm140699393947408">Man vil gribe paa alt med sin næsvise Haand,</l>
+                           <l xml:id="idm140699393946912">man vil bøde med Damp paa sin Mangel af Aand.</l>
+                        </lg>
+                        <sp xml:id="idm140699393946288">
+                           <speaker xml:id="idm140699393946032">HELLEBÆK.</speaker>
+                           <lg xml:id="idm140699393945616">
+                              <l xml:id="idm140699393945360">Gaar da Tiden ej frem?</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393944688">
+                           <speaker xml:id="idm140699393944432">PRÆST.</speaker>
+                           <lg xml:id="idm140699393944016">
+                              <l xml:id="idm140699393943760">Jo forbandet gesvindt,</l>
+                              <l xml:id="idm140699393943344">over Sten og Forhøjninger rutscher den blindt!</l>
+                              <l xml:id="idm140699393942848">men den tumler kun fort i en hvirvlende Vals.</l>
+                           </lg>
+                        </sp>
+                        <pb n="377" facs="adl/hostrup/hostrup1/host1377" xml:id="idm140699393942144"/>
+                        <sp xml:id="idm140699393941328">
+                           <speaker xml:id="idm140699393941072">HELLEBÆK.</speaker>
+                           <lg xml:id="idm140699393940656">
+                              <l xml:id="idm140699393940400">Den gaar frem allenfals -</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393939712">
+                           <speaker xml:id="idm140699393939456">PRÆST.</speaker>
+                           <lg xml:id="idm140699393939040">
+                              <l xml:id="idm140699393938784">Til den brækker sin Hals.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                     <div xml:id="idm140699393937952">
+                        <head xml:id="idm140699393937696">3.</head>
+                        <lg xml:id="idm140699393937312">
+                           <l xml:id="idm140699393937056">Den gamle Gemytlighed jager man væk,</l>
+                           <l xml:id="idm140699393936576">hver en Pog lader høre sit kritiske Kvæk,</l>
+                           <l xml:id="idm140699393936096">den, som næppe kan tale, kan skraale des mer,</l>
+                           <l xml:id="idm140699393935600">ja Damerne selv snakke nu om Ideer.</l>
+                           <l xml:id="idm140699393935168">Og de Blade om alting en Mening vil ha'.</l>
+                        </lg>
+                        <sp xml:id="idm140699393934592">
+                           <speaker xml:id="idm140699393934336">HELLEBÆK.</speaker>
+                           <lg xml:id="idm140699393933920">
+                              <l xml:id="idm140699393933664">Ja men hvad skal de da?</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393932992">
+                           <speaker xml:id="idm140699393932736">PRÆST.</speaker>
+                           <lg xml:id="idm140699393932320">
+                              <l xml:id="idm140699393932064">Holde Næsen derfra.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                  </div>
+               </div>
+               <div type="scene" n="5" xml:id="idm140699393930976">
+                  <head xml:id="idm140699393930208">FEMTE SCENE.</head>
+                  <stage type="mix" xml:id="idm140699393929792">
+                     <hi rend="italics" xml:id="idm140699393929424">De forrige. Frøkenen kommer under Slutningen af
+								Sangen</hi>.</stage>
+                  <sp xml:id="idm140699393928496">
+                     <speaker xml:id="idm140699393928240">FRØKEN</speaker>
+                     <stage type="mix" xml:id="idm140699393927824">
+                        <hi rend="italics" xml:id="idm140699393927456">afsides</hi>.</stage>
+                     <p xml:id="idm140699393926640">Ih, mon dieu! nu staar de ved Gud igjen og dispyterer om
+							Politiken.</p>
+                  </sp>
+                  <sp xml:id="idm140699393926032">
+                     <speaker xml:id="idm140699393925776">HELLEBÆK.</speaker>
+                     <p xml:id="idm140699393925360">Ja men naar Hr. Pastoren selv erkjender, at Tiden er saa slet, saa er
+								det jo øjensynligt, at vi trænger til en Reformation, til en Forb
+								-</p>
+                  </sp>
+                  <sp xml:id="idm140699393924528">
+                     <speaker xml:id="idm140699393924272">FRØKEN</speaker>
+                     <stage type="mix" xml:id="idm140699393923856">
+                        <hi rend="italics" xml:id="idm140699393923488">sagte til ham</hi>.</stage>
+                     <p xml:id="idm140699393922672">Ti dog stille!</p>
+                  </sp>
+                  <sp xml:id="idm140699393922128">
+                     <speaker xml:id="idm140699393921872">HELLEBÆK.</speaker>
+                     <p xml:id="idm140699393921456">Ah, er det Dem, Frøken!</p>
+                  </sp>
+                  <sp xml:id="idm140699393920880">
+                     <speaker xml:id="idm140699393920624">FRØKEN</speaker>
+                     <stage type="mix" xml:id="idm140699393920208">
+                        <hi rend="italics" xml:id="idm140699393919840">sagte</hi>.</stage>
+                     <p xml:id="idm140699393919024">Husk paa vore Intriger! <stage type="mix" xml:id="idm140699393918720">
+                           <hi rend="italics" xml:id="idm140699393918352">Højt</hi>.</stage> Har De ikke været i
+								Theatret fornylig, Hr. Hellebæk?</p>
+                  </sp>
+                  <sp xml:id="idm140699393917136">
+                     <speaker xml:id="idm140699393916880">PRÆST.</speaker>
+                     <p xml:id="idm140699393916464">Ja men skal der ske Forandring, saa er det ikke i det ydre Liv, for
+								det er godt nok, men det er os selv, der skal forbed-</p>
+                  </sp>
+                  <sp xml:id="idm140699393915808">
+                     <speaker xml:id="idm140699393915552">FRØKEN.</speaker>
+                     <p xml:id="idm140699393915136">Aa Herregud! lad os nu blive fri for al den Politik! <stage type="mix" xml:id="idm140699393914816">
+                           <hi rend="italics" xml:id="idm140699393914448">Til Hellebæk</hi>.</stage> Jeg har altid
+								været saa charmeret i Theatret, og lige til det sidste Aar har jeg
+									<pb n="378" facs="adl/hostrup/hostrup1/host1378" xml:id="idm140699393913392"/> jævnlig kommet der en Gang om
+								Ugen. Ja De sværmer vel ogsaa for Frydendahl?</p>
+                  </sp>
+                  <sp xml:id="idm140699393912128">
+                     <speaker xml:id="idm140699393911872">HELLEBÆK.</speaker>
+                     <p xml:id="idm140699393911456">Frydendahl! han er jo død.</p>
+                  </sp>
+                  <sp xml:id="idm140699393910880">
+                     <speaker xml:id="idm140699393910624">FRØKEN.</speaker>
+                     <p xml:id="idm140699393910208">Saa - er han det? Det har jeg ikke hørt. Hvoraf døde
+							han?</p>
+                  </sp>
+                  <sp xml:id="idm140699393909552">
+                     <speaker xml:id="idm140699393909296">PRÆST.</speaker>
+                     <p xml:id="idm140699393908880">Aa, naar vi endelig skal afbrydes, saa lad os tale om noget andet.
+								Fortæl mig nu - da lille Augusta var inde hos Dem i
+								Kjøbenhavn, hvorledes syntes De da om hende derinde? hvad sagde
+								Deres Fader og Moder og Søster om hende?</p>
+                  </sp>
+                  <sp xml:id="idm140699393907856">
+                     <speaker xml:id="idm140699393907600">HELLEBÆK.</speaker>
+                     <p xml:id="idm140699393907184">Aa de var allesammen ganske forelskede i hende.</p>
+                  </sp>
+                  <sp xml:id="idm140699393906608">
+                     <speaker xml:id="idm140699393906352">PRÆST.</speaker>
+                     <p xml:id="idm140699393905936">Saa, var de det! Det var da kjønt af dem! Ja det er sandelig ogsaa en
+								sød lille Pige. Men hvad synes De da selv om hende? for det er de
+								unge Herrer, man skal spørge om saadant noget.</p>
+                  </sp>
+                  <sp xml:id="idm140699393905008">
+                     <speaker xml:id="idm140699393904752">HELLEBÆK</speaker>
+                     <stage type="mix" xml:id="idm140699393904336">
+                        <hi rend="italics" xml:id="idm140699393903968">sagte til Frøken</hi>.</stage>
+                     <p xml:id="idm140699393903136">Nu siger jeg alting.</p>
+                  </sp>
+                  <sp xml:id="idm140699393902592">
+                     <speaker xml:id="idm140699393902336">FRØKEN</speaker>
+                     <stage type="mix" xml:id="idm140699393901920">
+                        <hi rend="italics" xml:id="idm140699393901552">sagte til Hellebæk</hi>.</stage>
+                     <p xml:id="idm140699393900720">Er De gal, Menneske! vore Intriger!</p>
+                  </sp>
+                  <sp xml:id="idm140699393900160">
+                     <speaker xml:id="idm140699393899904">PRÆST.</speaker>
+                     <p xml:id="idm140699393899488">Naa hvorfor svarer De ikke? har De noget at udsætte paa hende?</p>
+                  </sp>
+                  <sp xml:id="idm140699393898832">
+                     <speaker xml:id="idm140699393898576">HELLEBÆK.</speaker>
+                     <p xml:id="idm140699393898160">Nej - det er saa langtfra at -</p>
+                  </sp>
+                  <sp xml:id="idm140699393897600">
+                     <speaker xml:id="idm140699393897344">FRØKEN.</speaker>
+                     <p xml:id="idm140699393896928">Har De set Herman von Unna?</p>
+                  </sp>
+                  <sp xml:id="idm140699393896368">
+                     <speaker xml:id="idm140699393896112">PRÆST.</speaker>
+                     <p xml:id="idm140699393895696">Naa lad nu Kandidaten svare, og lad os blive fri for det
+								Theatervrøvl! <stage type="mix" xml:id="idm140699393895264">
+                           <hi rend="italics" xml:id="idm140699393894896">Til Hellebæk</hi>.</stage> Synes De ikke
+								ogsaa godt om Augusta - hvad?</p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140699393893744">
+                     <hi rend="italics" xml:id="idm140699393893376">Det banker</hi>.</stage>
+                  <sp xml:id="idm140699393892560">
+                     <speaker xml:id="idm140699393892304">FRØKEN.</speaker>
+                     <p xml:id="idm140699393891888">Det banker! <stage type="mix" xml:id="idm140699393891600">
+                           <hi rend="italics" xml:id="idm140699393891232">Afsides</hi>.</stage> Naa, Gud ske Lov! <stage type="mix" xml:id="idm140699393890384">
+                           <hi rend="italics" xml:id="idm140699393890016">Højt</hi>.</stage> Kom ind!</p>
+                  </sp>
+                  <pb n="379" facs="adl/hostrup/hostrup1/host1379" xml:id="idm140699393888912"/>
+               </div>
+               <div type="scene" n="6" xml:id="idm140699393888016">
+                  <head xml:id="idm140699393887248">SJETTE SCENE.</head>
+                  <stage type="mix" xml:id="idm140699393886832">
+                     <hi rend="italics" xml:id="idm140699393886464">De forrige. Skolelærer Sørensen</hi>.</stage>
+                  <div xml:id="idm140699393885600">
+                     <sp xml:id="idm140699393885344">
+                        <speaker xml:id="idm140699393885088">PRÆST.</speaker>
+                        <p xml:id="idm140699393884672">Naa det er Skolemesteren. God Dag, Sørensen!</p>
+                     </sp>
+                     <sp xml:id="idm140699393884048">
+                        <speaker xml:id="idm140699393883792">SØRENSEN.</speaker>
+                        <p xml:id="idm140699393883376">God Dag, Deres Velærværdighed! god Dag, naadige Frøken! god Dag
+									-</p>
+                     </sp>
+                     <sp xml:id="idm140699393882688">
+                        <speaker xml:id="idm140699393882432">PRÆST.</speaker>
+                        <p xml:id="idm140699393882016">Det er Kandidat Hellebæk - Skolelærer Sørensen.</p>
+                     </sp>
+                     <sp xml:id="idm140699393881392">
+                        <speaker xml:id="idm140699393881136">SØRENSEN.</speaker>
+                        <p xml:id="idm140699393880720">Det er mig en stor Fornøjelse at gjøre Hr. Kandidatens
+									Bekjendtskab. Deres Velærværdighed har vist mig den Ære at
+									bestille mig hen til Deres Velærværdighed i Aften.</p>
+                     </sp>
+                     <sp xml:id="idm140699393879808">
+                        <speaker xml:id="idm140699393879552">PRÆST.</speaker>
+                        <p xml:id="idm140699393879136">Ja vi vilde gjerne have os en lille Lhombre i Aften. Men
+									- det er sandt, Sørensen - hvorledes gaar
+									det med Deres Kone? Er hun nu kommen op af Barselsengen?</p>
+                     </sp>
+                     <sp xml:id="idm140699393878256">
+                        <speaker xml:id="idm140699393878000">SØRENSEN.</speaker>
+                        <p xml:id="idm140699393877584">Jo jeg takker Deres Velærværdighed, nu er hun ganske færdig. Og
+									saa skulde jeg takke naadige Frøken for det Syltetøj, som
+									Frøkenen har været saa god at sende min Kone.</p>
+                     </sp>
+                     <sp xml:id="idm140699393876672">
+                        <speaker xml:id="idm140699393876416">PRÆST.</speaker>
+                        <p xml:id="idm140699393876000">Naa det var jo godt, at det er vel overstaaet. Se, det var den
+									ottende Pige, nu har De jo der et kjønt lille Pigeinstitut,
+									hahaha! men hvad skal den lille hedde, for nu er vel hele
+									Familien opkaldt?</p>
+                     </sp>
+                     <sp xml:id="idm140699393875024">
+                        <speaker xml:id="idm140699393874768">SØRENSEN.</speaker>
+                        <p xml:id="idm140699393874352">Ja, og Deres Velærværdighed ogsaa og Jomfru Augusta. Men min Kone
+									har en Broder, der hedder Hans, og min yngste Søster hedder
+									Mine, og saa tænkte vi, at hvis Deres Velærværdighed ikke har
+									noget derimod, saa kunde vi kalde hende Hansmine, og saa da
+									Doktor Pille har været saa god at se til min Kone, mens hun laa,
+									saa vilde vi ogsaa opkalde ham og kalde hende Pillerine.</p>
+                     </sp>
+                     <pb n="380" facs="adl/hostrup/hostrup1/host1380" xml:id="idm140699393873184"/>
+                     <sp xml:id="idm140699393872368">
+                        <speaker xml:id="idm140699393872112">PRÆST.</speaker>
+                        <p xml:id="idm140699393871696">Det var nogle løjerlige Navne, Hansmine Pillerine! Naa lad saa
+									være! men saa skal hun da ikke hedde mere?</p>
+                     </sp>
+                     <sp xml:id="idm140699393870928">
+                        <speaker xml:id="idm140699393870672">SØRENSEN.</speaker>
+                        <p xml:id="idm140699393870256">Jo, hvis Deres Velærværdighed ikke har noget derimod, saa ønskede
+									min Kone gjerne, at hun ogsaa skulde hedde Skandinavine.</p>
+                     </sp>
+                     <sp xml:id="idm140699393869456">
+                        <speaker xml:id="idm140699393869200">PRÆST.</speaker>
+                        <p xml:id="idm140699393868784">Skandinavine! Men hvad skal det betyde?</p>
+                     </sp>
+                     <sp xml:id="idm140699393868224">
+                        <speaker xml:id="idm140699393867968">SØRENSEN.</speaker>
+                        <p xml:id="idm140699393867552">Jo, min Kone siger, hun vil vise, at hun er lige saa god
+									Skandinav som Damerne inde i Kjøbenhavn.</p>
+                     </sp>
+                     <sp xml:id="idm140699393866816">
+                        <speaker xml:id="idm140699393866560">PRÆST.</speaker>
+                        <p xml:id="idm140699393866144">Skandinav! Men er De gal, Skolemester?</p>
+                     </sp>
+                     <sp xml:id="idm140699393865584">
+                        <speaker xml:id="idm140699393865328">SØRENSEN</speaker>
+                        <stage type="mix" xml:id="idm140699393864912">
+                           <hi rend="italics" xml:id="idm140699393864544">forskrækket</hi>.</stage>
+                        <p xml:id="idm140699393863712">Nej, Deres Velærværdighed!</p>
+                     </sp>
+                     <sp xml:id="idm140699393863120">
+                        <speaker xml:id="idm140699393862864">PRÆST.</speaker>
+                        <p xml:id="idm140699393862448">Men hvor kan De da give Deres Samtykke til saadan et forbistret
+									Indfald? Skal vi nu ogsaa hjemsøges af disse nymodens Ideer?
+									- Hvad siger De, Kandidat?</p>
+                     </sp>
+                     <sp xml:id="idm140699393861584">
+                        <speaker xml:id="idm140699393861328">FRØKEN</speaker>
+                        <stage type="mix" xml:id="idm140699393860912">
+                           <hi rend="italics" xml:id="idm140699393860544">sagte</hi>.</stage>
+                        <p xml:id="idm140699393859728">Hold bare med ham!</p>
+                     </sp>
+                     <sp xml:id="idm140699393859184">
+                        <speaker xml:id="idm140699393858928">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393858512">De vil da vel ikke nægte, at den skandinaviske Ide er al Ære
+									værd?</p>
+                     </sp>
+                     <sp xml:id="idm140699393857824">
+                        <speaker xml:id="idm140699393857568">PRÆST.</speaker>
+                        <p xml:id="idm140699393857152">Aa det kan være meget muligt, men det kommer slet ikke den Sag
+									ved.</p>
+                     </sp>
+                     <sp xml:id="idm140699393856464">
+                        <speaker xml:id="idm140699393856208">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393855792">Jo saa skulde jeg dog mene, at Hr. Sørensen havde Lov til at vise
+									den sin Hylding.</p>
+                     </sp>
+                     <sp xml:id="idm140699393855072">
+                        <speaker xml:id="idm140699393854816">FRØKEN</speaker>
+                        <stage type="mix" xml:id="idm140699393854400">
+                           <hi rend="italics" xml:id="idm140699393854032">sagte</hi>.</stage>
+                        <p xml:id="idm140699393853216">Men saa ti dog stille!</p>
+                     </sp>
+                     <sp xml:id="idm140699393852672">
+                        <speaker xml:id="idm140699393852416">PRÆST.</speaker>
+                        <p xml:id="idm140699393852000">Nej, det har Hr. Sørensen slet ikke Lov til, for Hr. Sørensen,
+									som er en gammel Mand, skal ikke skabe sig som en exalteret
+									Student, og Hr. Sørensen, som er Skolelærer herude og skal staa
+									mig bi i Fredens Tjeneste, skal ikke indføre Politiseren og
+									Splid og Partivæsen i min skikkelige Menighed, hvor jeg af al
+									Kraft arbejder paa at holde det ude.</p>
+                     </sp>
+                     <sp xml:id="idm140699393850832">
+                        <speaker xml:id="idm140699393850576">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393850160">De vil da vel -</p>
+                     </sp>
+                     <sp xml:id="idm140699393849616">
+                        <speaker xml:id="idm140699393849360">FRØKEN</speaker>
+                        <stage type="mix" xml:id="idm140699393848944">
+                           <hi rend="italics" xml:id="idm140699393848576">sagte</hi>.</stage>
+                        <p xml:id="idm140699393847760">For Guds Skyld! hele Intrigen ryger i Lyset.</p>
+                     </sp>
+                     <pb n="381" facs="adl/hostrup/hostrup1/host1381" xml:id="idm140699393847184"/>
+                     <sp xml:id="idm140699393846416">
+                        <speaker xml:id="idm140699393846160">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393845744">De vil da vel aldrig ved en kinesisk Mur udelukke Deres Menighed
+									fra Tidens Ideer!</p>
+                     </sp>
+                     <sp xml:id="idm140699393845120">
+                        <speaker xml:id="idm140699393844864">PRÆST.</speaker>
+                        <p xml:id="idm140699393844448">Aa De kan ikke tale med, for De er ung og forblindet. Men De,
+									Skolemester! De maa skamme Dem som en Hund.</p>
+                     </sp>
+                     <sp xml:id="idm140699393843808">
+                        <speaker xml:id="idm140699393843552">SØRENSEN</speaker>
+                        <stage type="mix" xml:id="idm140699393843136">
+                           <hi rend="italics" xml:id="idm140699393842768">ydmyg</hi>.</stage>
+                        <p xml:id="idm140699393841952">Ja, naar Deres Velærværdighed befaler.</p>
+                     </sp>
+                     <sp xml:id="idm140699393841344">
+                        <speaker xml:id="idm140699393841088">PRÆST.</speaker>
+                        <p xml:id="idm140699393840672">Ja jeg gjør! jeg vil ikke vide noget af den Galskab.</p>
+                     </sp>
+                  </div>
+                  <div xml:id="idm140699393839904">
+                     <head xml:id="idm140699393839648">Mel. Fransk Folkesang.</head>
+                     <div xml:id="idm140699393839232">
+                        <head xml:id="idm140699393838976">1.</head>
+                        <lg xml:id="idm140699393838592">
+                           <l xml:id="idm140699393838336">I nitten Aar i denne Bolig</l>
+                           <l xml:id="idm140699393837904">jeg kjendte ej Tvist eller Harm,</l>
+                           <l xml:id="idm140699393837472">min Menighed jeg skjærmed trolig</l>
+                           <l xml:id="idm140699393837008">mod Verdens forvirrede Larm.</l>
+                           <l xml:id="idm140699393836576">Skal jeg da taale nu, at Striden</l>
+                           <l xml:id="idm140699393836144">selv hertil sig baner en Vej?</l>
+                           <l xml:id="idm140699393835712">Jeg ikke fløjte vil med Tiden,</l>
+                           <l xml:id="idm140699393835248">:|: det vil jeg ej - nej nej nej nej! :|:</l>
+                        </lg>
+                        <sp xml:id="idm140699393834672">
+                           <speaker xml:id="idm140699393834416">SØRENSEN.</speaker>
+                           <lg xml:id="idm140699393834000">
+                              <l xml:id="idm140699393833744">Det skal De ej - nej nej nej nej!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393833056">
+                           <speaker xml:id="idm140699393832800">FRØKEN og HELLEBÆK</speaker>
+                           <stage type="mix" xml:id="idm140699393832352">
+                              <hi rend="italics" xml:id="idm140699393831984">til hinanden</hi>.</stage>
+                           <lg xml:id="idm140699393831168">
+                              <l xml:id="idm140699393830912">Han gjør det ej - nej nej nej nej!</l>
+                           </lg>
+                        </sp>
+                     </div>
+                     <div xml:id="idm140699393830064">
+                        <head xml:id="idm140699393829808">2.</head>
+                        <sp xml:id="idm140699393829424">
+                           <speaker xml:id="idm140699393829168">PRÆST.</speaker>
+                           <lg xml:id="idm140699393828752">
+                              <l xml:id="idm140699393828496">Lad Skinnet ikkun Daarer trylle,</l>
+                              <l xml:id="idm140699393828064">jeg klarlig dets Usselhed ser.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393827376">
+                           <speaker xml:id="idm140699393827120">SØRENSEN.</speaker>
+                           <lg xml:id="idm140699393826704">
+                              <l xml:id="idm140699393826448">Vil Deres Velærværdighed mig blot undskylde,</l>
+                              <l xml:id="idm140699393825952">saa skal aldrig jeg gjøre det mer.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393825232">
+                           <speaker xml:id="idm140699393824976">PRÆST.</speaker>
+                           <lg xml:id="idm140699393824560">
+                              <l xml:id="idm140699393824304">Det gamle elsked jeg saa længe,</l>
+                              <l xml:id="idm140699393823840">jeg kjender ej sandere Vej;</l>
+                              <pb n="382" facs="adl/hostrup/hostrup1/host1382" xml:id="idm140699393823408"/>
+                              <l xml:id="idm140699393822592">lad andre slaa paa Tidens Strenge,</l>
+                              <l xml:id="idm140699393822160">:|: jeg vil det ej - nej nej nej nej! :|:</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393821456">
+                           <speaker xml:id="idm140699393821200">SØRENSEN.</speaker>
+                           <lg xml:id="idm140699393820784">
+                              <l xml:id="idm140699393820528">De skal det ej - nej nej nej nej!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393819840">
+                           <speaker xml:id="idm140699393819584">FRØKEN og HELLEBÆK</speaker>
+                           <stage type="mix" xml:id="idm140699393819136">
+                              <hi rend="italics" xml:id="idm140699393818768">til hinanden</hi>.</stage>
+                           <lg xml:id="idm140699393817952">
+                              <l xml:id="idm140699393817696">Han gjør det ej - nej nej nej nej!</l>
+                           </lg>
+                        </sp>
+                     </div>
+                  </div>
+               </div>
+               <div type="scene" n="7" xml:id="idm140699393816592">
+                  <head xml:id="idm140699393815824">SYVENDE SCENE.</head>
+                  <stage type="mix" xml:id="idm140699393815408">
+                     <hi rend="italics" xml:id="idm140699393815040">De forrige. Krigsraad</hi>.</stage>
+                  <sp xml:id="idm140699393814224">
+                     <speaker xml:id="idm140699393813968">KRIGSRAAD.</speaker>
+                     <p xml:id="idm140699393813552">Naa god Dag, Godtfolk - her er jeg. Hilledød, hvor De
+								allesammen ser traurige ud! God Dag, lille Frøken, hvordan lever
+								Kjæresten? <stage type="mix" xml:id="idm140699393812976">
+                           <hi rend="italics" xml:id="idm140699393812608">Frøken vender ham Ryggen</hi>.</stage> Naa
+								det er vel Kandidaten? God Dag, Hr. Hellebæk! hvordan lever Deres
+								Fader?</p>
+                  </sp>
+                  <sp xml:id="idm140699393811296">
+                     <speaker xml:id="idm140699393811040">HELLEBÆK</speaker>
+                     <stage type="mix" xml:id="idm140699393810624">
+                        <hi rend="italics" xml:id="idm140699393810256">tvær</hi>.</stage>
+                     <p xml:id="idm140699393809440">Jo Tak, godt!</p>
+                  </sp>
+                  <sp xml:id="idm140699393808896">
+                     <speaker xml:id="idm140699393808640">KRIGSRAAD.</speaker>
+                     <p xml:id="idm140699393808224">Naa det fornøjer mig. Men Død og Plage! hvorfor ser De allesammen saa
+								storsnudede ud? Hvad er paa Færde, Præst? Du er vel aldrig bleven
+								Konsistorialraad?</p>
+                  </sp>
+                  <sp xml:id="idm140699393807344">
+                     <speaker xml:id="idm140699393807088">PRÆST.</speaker>
+                     <p xml:id="idm140699393806672">Aa nej, det var ikke andet end saadan en lille huslig Scene, og det
+								er jo ikke værdt at tænke mere paa det, for vi mener det jo godt
+								allesammen. Svigerinde, vil du saa lave Spillebordet i Stand! Og saa
+								vil vi glemme de Historier; kom, nu slutter vi Forlig!</p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140699393805584">
+                     <hi rend="italics" xml:id="idm140699393805216">Rækker Sørensen og Hellebæk Haanden</hi>.</stage>
+                  <sp xml:id="idm140699393804336">
+                     <speaker xml:id="idm140699393804080">SØRENSEN</speaker>
+                     <stage type="mix" xml:id="idm140699393803664">
+                        <hi rend="italics" xml:id="idm140699393803296">rørt</hi>.</stage>
+                     <p xml:id="idm140699393802480">Deres Velærværdighed vil tilgive mig og min Kone?</p>
+                  </sp>
+                  <sp xml:id="idm140699393801856">
+                     <speaker xml:id="idm140699393801600">PRÆST.</speaker>
+                     <p xml:id="idm140699393801184">Aa Snak, jeg har jo ingenting at tilgive. Naa Børn, saa skulde vi til
+								at have os en lun lille Lhombre.</p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140699393800432">
+                     <hi rend="italics" xml:id="idm140699393800064">Frøken sysler ved Spillebordet</hi>.</stage>
+                  <pb n="383" facs="adl/hostrup/hostrup1/host1383" xml:id="idm140699393799200"/>
+                  <sp xml:id="idm140699393798432">
+                     <speaker xml:id="idm140699393798176">KRIGSRAAD.</speaker>
+                     <p xml:id="idm140699393797760">Nu skal jeg hjælpe Frøkenen at bære Bordet frem, saa skal De se, at
+								Krigsraaden ogsaa kan være galant.</p>
+                  </sp>
+                  <sp xml:id="idm140699393797008">
+                     <speaker xml:id="idm140699393796752">FRØKEN.</speaker>
+                     <p xml:id="idm140699393796336">Nej Tak! Hr. Hellebæk er nok saa god.</p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140699393795728">
+                     <hi rend="italics" xml:id="idm140699393795360">Hellebæk iler til</hi>.</stage>
+                  <sp xml:id="idm140699393794528">
+                     <speaker xml:id="idm140699393794272">KRIGSRAAD.</speaker>
+                     <p xml:id="idm140699393793856">Ja saa skal Hellebæk og jeg. <stage type="mix" xml:id="idm140699393793520">
+                           <hi rend="italics" xml:id="idm140699393793152">De flytte Bordet</hi>.</stage> Vi to er jo
+								Lavsbrødre, for jeg har ogsaa været oppe til theologisk Attestats,
+								men jeg fik rigtignok Karakteren rejectus, hahaha! - Men
+								det er sandt, Skolemester, hvordan gaar det med Konen?</p>
+                  </sp>
+                  <sp xml:id="idm140699393791632">
+                     <speaker xml:id="idm140699393791376">SØRENSEN.</speaker>
+                     <p xml:id="idm140699393790960">Jo Tak, Hr. Krigsraad, nu er det overstaaet, den lille vejede hele ni
+								Pund.</p>
+                  </sp>
+                  <sp xml:id="idm140699393790352">
+                     <speaker xml:id="idm140699393790096">KRIGSRAAD.</speaker>
+                     <p xml:id="idm140699393789680">Ni? det var Pokker til Pigebarn! Naa, Skolemester, hvormange Lispund
+								har De saa i det hele?</p>
+                  </sp>
+                  <sp xml:id="idm140699393789056">
+                     <speaker xml:id="idm140699393788800">FRØKEN</speaker>
+                     <stage type="mix" xml:id="idm140699393788384">
+                        <hi rend="italics" xml:id="idm140699393788016">til Hellebæk</hi>.</stage>
+                     <p xml:id="idm140699393787184">Uh, hvor han er fæl!</p>
+                  </sp>
+                  <sp xml:id="idm140699393786608">
+                     <speaker xml:id="idm140699393786352">PRÆST.</speaker>
+                     <p xml:id="idm140699393785936">Naa kom nu og tag Plads! her kommer Augusta med Knægtene.</p>
+                  </sp>
+               </div>
+               <div type="scene" n="8" xml:id="idm140699393785168">
+                  <head xml:id="idm140699393784400">OTTENDE SCENE.</head>
+                  <stage type="mix" xml:id="idm140699393783984">
+                     <hi rend="italics" xml:id="idm140699393783616">De forrige</hi>.</stage>
+                  <stage type="mix" xml:id="idm140699393782800">
+                     <hi rend="italics" xml:id="idm140699393782432">Augusta med fire Par Kopper, som hun fordeler paa
+								Bordet</hi>.</stage>
+                  <div xml:id="idm140699393781568">
+                     <sp xml:id="idm140699393781312">
+                        <speaker xml:id="idm140699393781056">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699393780640">Naa der har vi jo vores Hebe med Nektaren. God Dag, min søde
+									lille Tøs, hvordan har du det? <stage type="mix" xml:id="idm140699393780160">
+                              <hi rend="italics" xml:id="idm140699393779792">Kysser hende</hi>.</stage> Naa Kandidat,
+									De behøver da ikke at se saa brøsig ud, fordi jeg kjæler for min
+									lille Guddatter.</p>
+                     </sp>
+                     <sp xml:id="idm140699393778464">
+                        <speaker xml:id="idm140699393778208">FRØKEN.</speaker>
+                        <p xml:id="idm140699393777792">Det passer sig heller ikke for en gammel Mand at fjase saadan med
+									de unge Piger.</p>
+                     </sp>
+                     <sp xml:id="idm140699393777168">
+                        <speaker xml:id="idm140699393776912">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699393776496">Ja saa vil jeg sgu ogsaa fjase med Frøkenen.</p>
+                     </sp>
+                     <stage type="mix" xml:id="idm140699393775872">
+                        <hi rend="italics" xml:id="idm140699393775504">Griber hende om Livet</hi>.</stage>
+                     <pb n="384" facs="adl/hostrup/hostrup1/host1384" xml:id="idm140699393774688"/>
+                     <sp xml:id="idm140699393773920">
+                        <speaker xml:id="idm140699393773664">PRÆST</speaker>
+                        <stage type="mix" xml:id="idm140699393773248">
+                           <hi rend="italics" xml:id="idm140699393772880">trækker i ham</hi>.</stage>
+                        <p xml:id="idm140699393772048">Naa kom nu, du Vildkat, og hjælp mig med at se Kortene efter!</p>
+                     </sp>
+                     <sp xml:id="idm140699393771392">
+                        <speaker xml:id="idm140699393771136">AUGUSTA</speaker>
+                        <stage type="mix" xml:id="idm140699393770720">
+                           <hi rend="italics" xml:id="idm140699393770352">til Hellebæk</hi>.</stage>
+                        <p xml:id="idm140699393769520">Naa hvorledes gaar det? jeg synes, I har været saa
+								højrøstede.</p>
+                     </sp>
+                     <sp xml:id="idm140699393768848">
+                        <speaker xml:id="idm140699393768592">FRØKEN.</speaker>
+                        <p xml:id="idm140699393768176">Ja det gale Menneske gjør jo alt for at ødelægge sig selv. Gjorde
+									han nu ikke ved sin Modsigelse den gamle saa vred, at jeg var
+									nær ved at opgive hele Intrigen.</p>
+                     </sp>
+                     <sp xml:id="idm140699393767280">
+                        <speaker xml:id="idm140699393767024">AUGUSTA.</speaker>
+                        <p xml:id="idm140699393766608">Aa der er bestemt ingen Grund til at frygte; Faders Hidsighed
+									gaar strax over igjen, og han plejer at føje mig i alting.</p>
+                     </sp>
+                     <sp xml:id="idm140699393765824">
+                        <speaker xml:id="idm140699393765568">FRØKEN.</speaker>
+                        <p xml:id="idm140699393765152">Ja du er nu saa godtroende, mit Barn, men vi forstaar det bedre. <stage type="mix" xml:id="idm140699393764816">
+                              <hi rend="italics" xml:id="idm140699393764448">Til Hellebæk</hi>.</stage> Gaa De nu hen
+									og spil Kort og te Dem lidt bedre den øvrige Aften! Jeg skal nok
+									tilsidst sætte det igjennem.</p>
+                     </sp>
+                     <sp xml:id="idm140699393763088">
+                        <speaker xml:id="idm140699393762832">PRÆST.</speaker>
+                        <p xml:id="idm140699393762416">Værsgo, Kandidat! nu er vi færdige.</p>
+                     </sp>
+                     <sp xml:id="idm140699393761808">
+                        <speaker xml:id="idm140699393761552">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393761136">Aa Herregud, skal jeg nu spille!</p>
+                     </sp>
+                     <sp xml:id="idm140699393760576">
+                        <speaker xml:id="idm140699393760320">FRØKEN</speaker>
+                        <stage type="mix" xml:id="idm140699393759904">
+                           <hi rend="italics" xml:id="idm140699393759536">skyder til ham</hi>.</stage>
+                        <p xml:id="idm140699393758720">Gaa - gaa!</p>
+                     </sp>
+                     <stage type="mix" xml:id="idm140699393758176">
+                        <hi rend="italics" xml:id="idm140699393757808">De sætte sig om Bordet i den Orden: Sørensen,
+									Præst, Hellebæk, Krigsraad</hi>.</stage>
+                  </div>
+                  <div xml:id="idm140699393756704">
+                     <head xml:id="idm140699393756448">Mel. Fr. Ep. 42.</head>
+                     <div xml:id="idm140699393756032">
+                        <head xml:id="idm140699393755776">1.</head>
+                        <sp xml:id="idm140699393755392">
+                           <speaker xml:id="idm140699393755136">PRÆST</speaker>
+                           <stage type="mix" xml:id="idm140699393754720">
+                              <hi rend="italics" xml:id="idm140699393754352">giver Kort</hi>.</stage>
+                           <lg xml:id="idm140699393753536">
+                              <l xml:id="idm140699393753280">Nu begynder Spillet da!</l>
+                           </lg>
+                           <stage type="mix" xml:id="idm140699393752736">
+                              <hi rend="italics" xml:id="idm140699393752368">Til Sørensen</hi>.</stage>
+                           <lg xml:id="idm140699393751536">
+                              <l xml:id="idm140699393751280">De skal sidde over?</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393750608">
+                           <speaker xml:id="idm140699393750352">SØRENSEN.</speaker>
+                           <lg xml:id="idm140699393749936">
+                              <l xml:id="idm140699393749680">Ja!</l>
+                              <l xml:id="idm140699393749296">men jeg trøster mig ved Saften.</l>
+                           </lg>
+                           <stage type="mix" xml:id="idm140699393748704">
+                              <hi rend="italics" xml:id="idm140699393748336">Drikker</hi>.</stage>
+                        </sp>
+                        <sp xml:id="idm140699393747392">
+                           <speaker xml:id="idm140699393747136">KRIGSRAAD</speaker>
+                           <stage type="mix" xml:id="idm140699393746720">
+                              <hi rend="italics" xml:id="idm140699393746352">ligesaa</hi>.</stage>
+                           <lg xml:id="idm140699393745536">
+                              <l xml:id="idm140699393745280">Ja i Aften</l>
+                              <l xml:id="idm140699393744864">er den bra'!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393744192">
+                           <speaker xml:id="idm140699393743936">PRÆST</speaker>
+                           <stage type="mix" xml:id="idm140699393743520">
+                              <hi rend="italics" xml:id="idm140699393743152">til Hellebæk</hi>.</stage>
+                           <lg xml:id="idm140699393742320">
+                              <l xml:id="idm140699393742064">Har man no'et paa første Plads?</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393741344">
+                           <speaker xml:id="idm140699393741088">HELLEBÆK.</speaker>
+                           <lg xml:id="idm140699393740672">
+                              <l xml:id="idm140699393740416">Spurgt!</l>
+                           </lg>
+                        </sp>
+                        <pb n="385" facs="adl/hostrup/hostrup1/host1385" xml:id="idm140699393739744"/>
+                        <sp xml:id="idm140699393738928">
+                           <speaker xml:id="idm140699393738672">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699393738256">
+                              <l xml:id="idm140699393738000">Spurgt med!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393737328">
+                           <speaker xml:id="idm140699393737072">PRÆST.</speaker>
+                           <lg xml:id="idm140699393736656">
+                              <l xml:id="idm140699393736400">En lille Pas!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393735728">
+                           <speaker xml:id="idm140699393735472">HELLEBÆK.</speaker>
+                           <lg xml:id="idm140699393735056">
+                              <l xml:id="idm140699393734800">Solo Hjerter!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393734128">
+                           <speaker xml:id="idm140699393733872">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699393733456">
+                              <l xml:id="idm140699393733200">Fy for Satan!</l>
+                              <l xml:id="idm140699393732784">Kandidaten</l>
+                              <l xml:id="idm140699393732368">bliver hvas.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393731696">
+                           <speaker xml:id="idm140699393731440">PRÆST.</speaker>
+                           <lg xml:id="idm140699393731024">
+                              <l xml:id="idm140699393730768">Nu maa vi da stræbe ham rigtig at børste,</l>
+                              <l xml:id="idm140699393730288">han nok være vil den første</l>
+                              <l xml:id="idm140699393729824">som hans Fader Mads.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                     <div xml:id="idm140699393729024">
+                        <head xml:id="idm140699393728768">2.</head>
+                        <sp xml:id="idm140699393728384">
+                           <speaker xml:id="idm140699393728128">KRIGSRAAD</speaker>
+                           <stage type="mix" xml:id="idm140699393727712">
+                              <hi rend="italics" xml:id="idm140699393727344">kjøber</hi>.</stage>
+                           <lg xml:id="idm140699393726528">
+                              <l xml:id="idm140699393726272">Otte Hjerter!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393725600">
+                           <speaker xml:id="idm140699393725344">PRÆST</speaker>
+                           <lg xml:id="idm140699393724928">
+                              <l xml:id="idm140699393724672">Du er grov!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393724000">
+                           <speaker xml:id="idm140699393723744">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699393723328">
+                              <l xml:id="idm140699393723072">Det er kun til Husbehov.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393722384">
+                           <speaker xml:id="idm140699393722128">PRÆST</speaker>
+                           <stage type="mix" xml:id="idm140699393721712">
+                              <hi rend="italics" xml:id="idm140699393721344">kjøber</hi>.</stage>
+                           <lg xml:id="idm140699393720528">
+                              <l xml:id="idm140699393720272">Saa er det vel bedst, at Præsten</l>
+                              <l xml:id="idm140699393719808">kjøber Resten.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393719120">
+                           <speaker xml:id="idm140699393718864">HELLEBÆK</speaker>
+                           <stage type="mix" xml:id="idm140699393718448">
+                              <hi rend="italics" xml:id="idm140699393718080">spiller ud</hi>.</stage>
+                           <lg xml:id="idm140699393717264">
+                              <l xml:id="idm140699393717008">Med Forlov!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393716336">
+                           <speaker xml:id="idm140699393716080">PRÆST.</speaker>
+                           <lg xml:id="idm140699393715664">
+                              <l xml:id="idm140699393715408">Hvor han trumfer!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393714736">
+                           <speaker xml:id="idm140699393714480">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699393714064">
+                              <l xml:id="idm140699393713808">Han er bøs!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393713120">
+                           <speaker xml:id="idm140699393712864">PRÆST.</speaker>
+                           <lg xml:id="idm140699393712448">
+                              <l xml:id="idm140699393712192">Nok en Hjerter!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393711520">
+                           <speaker xml:id="idm140699393711264">KRIGSRAAD</speaker>
+                           <stage type="mix" xml:id="idm140699393710848">
+                              <hi rend="italics" xml:id="idm140699393710480">nyser</hi>.</stage>
+                           <lg xml:id="idm140699393709664">
+                              <l xml:id="idm140699393709408">Atsch!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393708736">
+                           <speaker xml:id="idm140699393708480">SØRENSEN.</speaker>
+                           <lg xml:id="idm140699393708064">
+                              <l xml:id="idm140699393707808">De nøs!</l>
+                           </lg>
+                        </sp>
+                        <pb n="386" facs="adl/hostrup/hostrup1/host1386" xml:id="idm140699393707136"/>
+                        <sp xml:id="idm140699393706320">
+                           <speaker xml:id="idm140699393706064">PRÆST.</speaker>
+                           <lg xml:id="idm140699393705648">
+                              <l xml:id="idm140699393705392">Aa nu taber nok de danske,</l>
+                              <l xml:id="idm140699393704960">jeg er ganske</l>
+                              <l xml:id="idm140699393704544">hjerteløs.</l>
+                              <l xml:id="idm140699393704128">Aa han har Spadille - nu taber jeg Modet.</l>
+                           </lg>
+                        </sp>
+                        <stage type="mix" xml:id="idm140699393703424">
+                           <hi rend="italics" xml:id="idm140699393703056">De lægge op</hi>.</stage>
+                        <sp xml:id="idm140699393702224">
+                           <speaker xml:id="idm140699393701968">PRÆST og KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699393701520">
+                              <l xml:id="idm140699393701264">Ja vi gamle fik paa Ho'det</l>
+                              <l xml:id="idm140699393700832">af den unge Fløs.</l>
+                           </lg>
+                        </sp>
+                        <stage type="mix" xml:id="idm140699393700144">
+                           <hi rend="italics" xml:id="idm140699393699776">Præst holder Regnskab, Hellebæk
+								giver</hi>.</stage>
+                     </div>
+                     <div xml:id="idm140699393698752">
+                        <head xml:id="idm140699393698496">3.</head>
+                        <sp xml:id="idm140699393698112">
+                           <speaker xml:id="idm140699393697856">PRÆST</speaker>
+                           <stage type="mix" xml:id="idm140699393697440">
+                              <hi rend="italics" xml:id="idm140699393697072">som sidder over</hi>.</stage>
+                           <lg xml:id="idm140699393696256">
+                              <l xml:id="idm140699393696000">Ja han vældig op os trak!</l>
+                              <l xml:id="idm140699393695552">Hent min Pibe, Gusta!</l>
+                           </lg>
+                           <stage type="mix" xml:id="idm140699393695008">
+                              <hi rend="italics" xml:id="idm140699393694640">Augusta bringer den</hi>.</stage>
+                           <lg xml:id="idm140699393693824">
+                              <l xml:id="idm140699393693568">Tak!</l>
+                              <l xml:id="idm140699393693152">Jeg behøver ej at krads'en.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393692432">
+                           <speaker xml:id="idm140699393692176">FRØKEN</speaker>
+                           <stage type="mix" xml:id="idm140699393691760">
+                              <hi rend="italics" xml:id="idm140699393691392">med Tobakskassen</hi>.</stage>
+                           <lg xml:id="idm140699393690576">
+                              <l xml:id="idm140699393690320">Her er Kassen</l>
+                              <l xml:id="idm140699393689904">med Tobak!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393689232">
+                           <speaker xml:id="idm140699393688976">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699393688560">
+                              <l xml:id="idm140699393688304">Aa jeg spørger.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393687616">
+                           <speaker xml:id="idm140699393687360">SØRENSEN.</speaker>
+                           <lg xml:id="idm140699393686944">
+                              <l xml:id="idm140699393686688">Nej, Respekt!</l>
+                           </lg>
+                        </sp>
+                        <stage type="mix" xml:id="idm140699393686016">
+                           <hi rend="italics" xml:id="idm140699393685648">Lægger de sorte Esser op</hi>.</stage>
+                        <sp xml:id="idm140699393684800">
+                           <speaker xml:id="idm140699393684544">PRÆST</speaker>
+                           <stage type="mix" xml:id="idm140699393684128">
+                              <hi rend="italics" xml:id="idm140699393683760">til Hellebæk</hi>.</stage>
+                           <lg xml:id="idm140699393682928">
+                              <l xml:id="idm140699393682672">Smag dog lidt paa Deres Knægt!</l>
+                              <l xml:id="idm140699393682208">Den er god for alle Maver,</l>
+                              <l xml:id="idm140699393681776">Gusta laver</l>
+                              <l xml:id="idm140699393681360">den perfekt.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393680688">
+                           <speaker xml:id="idm140699393680432">SØRENSEN</speaker>
+                           <stage type="mix" xml:id="idm140699393680016">
+                              <hi rend="italics" xml:id="idm140699393679648">tournerer</hi>.</stage>
+                           <lg xml:id="idm140699393678832">
+                              <l xml:id="idm140699393678576">Klør - saa maa jeg kjøbe mig syv.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393677856">
+                           <speaker xml:id="idm140699393677600">PRÆST.</speaker>
+                           <lg xml:id="idm140699393677184">
+                              <l xml:id="idm140699393676928">Aa nej, hør ham!</l>
+                              <l xml:id="idm140699393676496">Syv til Klør!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393675808">
+                           <speaker xml:id="idm140699393675552">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699393675136">
+                              <l xml:id="idm140699393674880">Pas paa, vi klør ham</l>
+                              <l xml:id="idm140699393674432">grundig og korrekt!</l>
+                           </lg>
+                        </sp>
+                        <pb n="387" facs="adl/hostrup/hostrup1/host1387" xml:id="idm140699393673760"/>
+                     </div>
+                     <div xml:id="idm140699393672864">
+                        <head xml:id="idm140699393672608">4.</head>
+                        <sp xml:id="idm140699393672224">
+                           <speaker xml:id="idm140699393671968">AUGUSTA.</speaker>
+                           <lg xml:id="idm140699393671552">
+                              <l xml:id="idm140699393671296">Her er Svovlstik!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393670624">
+                           <speaker xml:id="idm140699393670368">PRÆST.</speaker>
+                           <lg xml:id="idm140699393669952">
+                              <l xml:id="idm140699393669696">Tak, min Ven!</l>
+                           </lg>
+                           <stage type="mix" xml:id="idm140699393669152">
+                              <hi rend="italics" xml:id="idm140699393668784">Tænder Piben</hi>.</stage>
+                        </sp>
+                        <sp xml:id="idm140699393667824">
+                           <speaker xml:id="idm140699393667568">HELLEBÆK</speaker>
+                           <stage type="mix" xml:id="idm140699393667152">
+                              <hi rend="italics" xml:id="idm140699393666784">kjøber</hi>.</stage>
+                           <lg xml:id="idm140699393665968">
+                              <l xml:id="idm140699393665712">Jeg ta'r fire.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393665040">
+                           <speaker xml:id="idm140699393664784">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699393664368">
+                              <l xml:id="idm140699393664112">To igjen!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393663440">
+                           <speaker xml:id="idm140699393663184">FRØKEN</speaker>
+                           <stage type="mix" xml:id="idm140699393662768">
+                              <hi rend="italics" xml:id="idm140699393662400">til Præst</hi>.</stage>
+                           <lg xml:id="idm140699393661584">
+                              <l xml:id="idm140699393661328">Skal vi til i Aften bage</l>
+                              <l xml:id="idm140699393660896">Æblekage?</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393660224">
+                           <speaker xml:id="idm140699393659968">PRÆST.</speaker>
+                           <lg xml:id="idm140699393659552">
+                              <l xml:id="idm140699393659296">Ja saamænd.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393658608">
+                           <speaker xml:id="idm140699393658352">FRØKEN</speaker>
+                           <stage type="mix" xml:id="idm140699393657936">
+                              <hi rend="italics" xml:id="idm140699393657568">til Augusta</hi>.</stage>
+                           <lg xml:id="idm140699393656752">
+                              <l xml:id="idm140699393656496">Vil du lave Kagen til!</l>
+                           </lg>
+                           <stage type="mix" xml:id="idm140699393655952">
+                              <hi rend="italics" xml:id="idm140699393655584">Augusta gaar ud</hi>.</stage>
+                        </sp>
+                        <sp xml:id="idm140699393654640">
+                           <speaker xml:id="idm140699393654384">PRÆST.</speaker>
+                           <lg xml:id="idm140699393653968">
+                              <l xml:id="idm140699393653712">Gjør ham bet!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393653024">
+                           <speaker xml:id="idm140699393652768">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699393652352">
+                              <l xml:id="idm140699393652096">Ja det vi vil.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393651424">
+                           <speaker xml:id="idm140699393651168">SØRENSEN.</speaker>
+                           <lg xml:id="idm140699393650752">
+                              <l xml:id="idm140699393650496">Ruder Konge!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393649824">
+                           <speaker xml:id="idm140699393649568">HELLEBÆK.</speaker>
+                           <lg xml:id="idm140699393649152">
+                              <l xml:id="idm140699393648896">Ja den ta'r vi.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393648224">
+                           <speaker xml:id="idm140699393647968">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699393647552">
+                              <l xml:id="idm140699393647296">Aa nu har vi</l>
+                              <l xml:id="idm140699393646880">vundet Spil.</l>
+                           </lg>
+                           <stage type="mix" xml:id="idm140699393646336">
+                              <hi rend="italics" xml:id="idm140699393645968">Lægger op</hi>.</stage>
+                           <lg xml:id="idm140699393645152">
+                              <l xml:id="idm140699393644896">Hvad vil De nu gøre?</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393644192">
+                           <speaker xml:id="idm140699393643936">SØRENSEN.</speaker>
+                           <lg xml:id="idm140699393643520">
+                              <l xml:id="idm140699393643264">Naa De har Manille?</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393642592">
+                           <speaker xml:id="idm140699393642336">PRÆST og KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699393641888">
+                              <l xml:id="idm140699393641632">Skolemester blev Godille.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393640944">
+                           <speaker xml:id="idm140699393640688">SØRENSEN</speaker>
+                           <stage type="mix" xml:id="idm140699393640272">
+                              <hi rend="italics" xml:id="idm140699393639904">forknyt</hi>.</stage>
+                           <lg xml:id="idm140699393639088">
+                              <l xml:id="idm140699393638832">Jeg er vant dertil.</l>
+                           </lg>
+                        </sp>
+                        <stage type="mix" xml:id="idm140699393638160">
+                           <hi rend="italics" xml:id="idm140699393637792">Hellebæk, som sidder over, rejser sig</hi>.</stage>
+                        <pb n="388" facs="adl/hostrup/hostrup1/host1388" xml:id="idm140699393636912"/>
+                     </div>
+                     <div xml:id="idm140699393636016">
+                        <head xml:id="idm140699393635760">5.</head>
+                        <sp xml:id="idm140699393635376">
+                           <speaker xml:id="idm140699393635120">SØRENSEN.</speaker>
+                           <lg xml:id="idm140699393634704">
+                              <l xml:id="idm140699393634448">Jeg de sorte femte har,</l>
+                              <l xml:id="idm140699393634032">Ruder Konge blank saagar.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393633344">
+                           <speaker xml:id="idm140699393633088">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699393632672">
+                              <l xml:id="idm140699393632416">Men saa har i Hjerter han en</l>
+                              <l xml:id="idm140699393631984">Dame anden</l>
+                              <l xml:id="idm140699393631568">og en Spar.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393630896">
+                           <speaker xml:id="idm140699393630640">FRØKEN</speaker>
+                           <stage type="mix" xml:id="idm140699393630224">
+                              <hi rend="italics" xml:id="idm140699393629856">til Hellebæk</hi>.</stage>
+                           <lg xml:id="idm140699393629024">
+                              <l xml:id="idm140699393628768">Kom og vær i godt Humør!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393628064">
+                           <speaker xml:id="idm140699393627808">PRÆST</speaker>
+                           <stage type="mix" xml:id="idm140699393627392">
+                              <hi rend="italics" xml:id="idm140699393627024">skriver</hi>.</stage>
+                           <lg xml:id="idm140699393626208">
+                              <l xml:id="idm140699393625952">Naa De spilled jo i Klør?</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393625248">
+                           <speaker xml:id="idm140699393624992">FRØKEN</speaker>
+                           <stage type="mix" xml:id="idm140699393624576">
+                              <hi rend="italics" xml:id="idm140699393624208">til Hellebæk</hi>.</stage>
+                           <lg xml:id="idm140699393623376">
+                              <l xml:id="idm140699393623120">Skjul nu blot, at De er arrig!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393622432">
+                           <speaker xml:id="idm140699393622176">SØRENSEN.</speaker>
+                           <lg xml:id="idm140699393621760">
+                              <l xml:id="idm140699393621504">Ja det var i</l>
+                              <l xml:id="idm140699393621088">slet Kulør.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393620400">
+                           <speaker xml:id="idm140699393620144">PRÆST</speaker>
+                           <stage type="mix" xml:id="idm140699393619728">
+                              <hi rend="italics" xml:id="idm140699393619360">til Sørensen</hi>.</stage>
+                           <lg xml:id="idm140699393618528">
+                              <l xml:id="idm140699393618272">Bliv ikke forknyt, naar De taber paa Stumper!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393617568">
+                           <speaker xml:id="idm140699393617312">PRÆST og KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699393616864">
+                              <l xml:id="idm140699393616608">Til en ret gemytlig Lhombre</l>
+                              <l xml:id="idm140699393616176">hører godt Humør.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                  </div>
+                  <div xml:id="idm140699393615232">
+                     <stage type="mix" xml:id="idm140699393614976">
+                        <hi rend="italics" xml:id="idm140699393614608">Spillet fortsættes paa sædvanlig Vis, og
+									imidlertid føres følgende Samtale</hi>.</stage>
+                     <sp xml:id="idm140699393613632">
+                        <speaker xml:id="idm140699393613376">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393612960">Men hvor gik Augusta hen?</p>
+                     </sp>
+                     <sp xml:id="idm140699393612400">
+                        <speaker xml:id="idm140699393612144">FRØKEN.</speaker>
+                        <p xml:id="idm140699393611728">Aa hun kommer strax igjen, hun er blot ude i huslige Affærer. Naa
+									lad nu være at sætte saadan et bistert Ansigt op! Ja man kan
+									rigtignok mærke, at De ikke har været ved Hoffet; De kan slet
+									ikke forestille Dem.</p>
+                     </sp>
+                     <sp xml:id="idm140699393610720">
+                        <speaker xml:id="idm140699393610464">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393610048">Aa jeg gider ikke spille Kort mere og sidde ved Siden af den
+									fatale Krigsraad. Jeg kan slet ikke holde mine Tanker ved de
+									fordømte Kort.</p>
+                     </sp>
+                     <sp xml:id="idm140699393609216">
+                        <speaker xml:id="idm140699393608960">FRØKEN.</speaker>
+                        <p xml:id="idm140699393608544">Kjære Ven, vær dog endelig taalmodig, <pb n="389" facs="adl/hostrup/hostrup1/host1389" xml:id="idm140699393608192"/> ellers gaar den rent kontrakt.
+									Rigtignok er Krigsraaden ret en nedrig Skurk - u! jeg
+									hader ham - men De maa spille med for det første, saa
+									skal jeg nok sørge for, at det er ganske forbi, naar vi skal
+									dinere til Aften.</p>
+                     </sp>
+                     <sp xml:id="idm140699393606592">
+                        <speaker xml:id="idm140699393606336">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393605920">Krigsraaden rejser sig - saa gaar jeg ud til
+								Augusta.</p>
+                     </sp>
+                     <stage type="mix" xml:id="idm140699393605328">
+                        <hi rend="italics" xml:id="idm140699393604960">Iler mod Døren</hi>.</stage>
+                     <sp xml:id="idm140699393604128">
+                        <speaker xml:id="idm140699393603872">PRÆST.</speaker>
+                        <p xml:id="idm140699393603456">Halloj, Kandidat, hvor Pokker vil De hen? Værsgo at komme og tage
+									Plads. <stage type="mix" xml:id="idm140699393603024">
+                              <hi rend="italics" xml:id="idm140699393602656">Hellebæk gjør det</hi>.</stage> De maa
+									sandelig passe Deres Tur, en Lhombre maa drives med Orden og
+									Andagt.</p>
+                     </sp>
+                     <stage type="mix" xml:id="idm140699393601456">
+                        <hi rend="italics" xml:id="idm140699393601088">De spille videre</hi>.</stage>
+                     <sp xml:id="idm140699393600272">
+                        <speaker xml:id="idm140699393600016">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699393599600">Her er jeg lille Frøken! - naa, hvorfor vender De Dem
+									bort? Lad os nu være gode Venner! Om jeg spøger lidt slemt somme
+									Tider, saa veed De dog nok, at jeg mener det godt.</p>
+                     </sp>
+                     <sp xml:id="idm140699393598688">
+                        <speaker xml:id="idm140699393598432">FRØKEN.</speaker>
+                        <p xml:id="idm140699393598016">Ja, De mener det rigtignok godt - aa fy, skam Dem
+									noget! Det havde jeg aldrig troet, at De var saadan en
+									- u!</p>
+                     </sp>
+                     <sp xml:id="idm140699393597360">
+                        <speaker xml:id="idm140699393597104">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699393596688">Er jeg en - u, hahaha! Det var da som Pokker! Hvad er
+									det da for noget - u, jeg har gjort mig skyldig i?</p>
+                     </sp>
+                     <sp xml:id="idm140699393596048">
+                        <speaker xml:id="idm140699393595792">FRØKEN</speaker>
+                        <stage type="mix" xml:id="idm140699393595376">
+                           <hi rend="italics" xml:id="idm140699393595008">kold</hi>.</stage>
+                        <p xml:id="idm140699393594192">Den Gang De før var her i Stuen med min Svoger, saa glemte De nok
+									rent, at jeg ogsaa var tilstede. Det var den Gang, De fortalte
+									disse Historier fra Deres Garçonliv.</p>
+                     </sp>
+                     <sp xml:id="idm140699393593296">
+                        <speaker xml:id="idm140699393593040">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699393592624">Aa var det saa farligt, at vi som unge Spyttegjøge havde noget
+									Vægterkommers og saadant noget? Frøkenen har vel ogsaa løbet gal
+									og haft Sjov i Deres unge Dage.</p>
+                     </sp>
+                     <sp xml:id="idm140699393591728">
+                        <speaker xml:id="idm140699393591472">FRØKEN.</speaker>
+                        <p xml:id="idm140699393591056">Jeg hørte den Gang, at der blev sluttet en lille Handel.</p>
+                     </sp>
+                     <pb n="390" facs="adl/hostrup/hostrup1/host1390" xml:id="idm140699393590416"/>
+                     <sp xml:id="idm140699393589600">
+                        <speaker xml:id="idm140699393589344">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699393588928">Naa ja, det er sandt, det gjorde der sgu ogsaa.</p>
+                     </sp>
+                     <sp xml:id="idm140699393588352">
+                        <speaker xml:id="idm140699393588096">FRØKEN</speaker>
+                        <stage type="mix" xml:id="idm140699393587680">
+                           <hi rend="italics" xml:id="idm140699393587312">med Værdighed</hi>.</stage>
+                        <p xml:id="idm140699393586480">Og det tør De tilstaa med saadan et gevorpent Ansigt, og
+									Skamrødmen farver ikke en Gang Deres Kinder! fy, skam Dem!</p>
+                     </sp>
+                     <sp xml:id="idm140699393585696">
+                        <speaker xml:id="idm140699393585440">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699393585024">Naa, hvad er der i Vejen? er det da noget ondt, at jeg faar mig
+									en ny, naar min gamle Mær er kreperet?</p>
+                     </sp>
+                     <sp xml:id="idm140699393584272">
+                        <speaker xml:id="idm140699393584016">FRØKEN.</speaker>
+                        <p xml:id="idm140699393583600">Mær! siger De - u! jeg kan ikke gjentage det. Det er jo
+									horribelt! har De ikke mere Respekt for de afdøde?</p>
+                     </sp>
+                     <sp xml:id="idm140699393582832">
+                        <speaker xml:id="idm140699393582576">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699393582160">De afdøde, hahaha! Naa hun er da ikke bleven til mere, fordi hun
+									er død. Men jeg har sgu ærlig plejet og fodret hende lige til
+									det sidste, skjønt hun havde en Skavank i det venstre
+								Bagben.</p>
+                     </sp>
+                     <sp xml:id="idm140699393581200">
+                        <speaker xml:id="idm140699393580944">FRØKEN.</speaker>
+                        <p xml:id="idm140699393580528">O, De er et lumpent Menneske! Gaa væk - væk fra mig!
+									jeg vil ikke se Dem mere for mine Øjne, naar De taler saadan om
+									Deres salig Kone.</p>
+                     </sp>
+                     <stage type="mix" xml:id="idm140699393579696">
+                        <hi rend="italics" xml:id="idm140699393579328">Vender ham Ryggen</hi>.</stage>
+                     <sp xml:id="idm140699393578512">
+                        <speaker xml:id="idm140699393578256">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699393577840">Min salig Kone? hvad Fanden er det? er Frøkenen gal? Hun skulde
+									dog vel aldrig have smagt paa vore Thevandsknægte?</p>
+                     </sp>
+                     <sp xml:id="idm140699393577056">
+                        <speaker xml:id="idm140699393576800">SØRENSEN.</speaker>
+                        <p xml:id="idm140699393576384">Hahaha! der vandt jeg rigtignok paa Svovlstikker.</p>
+                     </sp>
+                     <sp xml:id="idm140699393575808">
+                        <speaker xml:id="idm140699393575552">PRÆST</speaker>
+                        <stage type="mix" xml:id="idm140699393575136">
+                           <hi rend="italics" xml:id="idm140699393574768">til Krigsraad</hi>.</stage>
+                        <p xml:id="idm140699393573952">Ja tænk en Gang, jeg sidder med Manille, Damen sjette og en
+									dobbelt Renonce. Men hvor Pokker blev Basta af?</p>
+                     </sp>
+                     <stage type="mix" xml:id="idm140699393573184">
+                        <hi rend="italics" xml:id="idm140699393572816">Roder i Kortene</hi>.</stage>
+                     <sp xml:id="idm140699393572000">
+                        <speaker xml:id="idm140699393571744">SØRENSEN.</speaker>
+                        <p xml:id="idm140699393571328">Ja hvor blev Basta af?</p>
+                     </sp>
+                     <sp xml:id="idm140699393570784">
+                        <speaker xml:id="idm140699393570528">PRÆST.</speaker>
+                        <p xml:id="idm140699393570112">Nej, har De kjendt Magen! Kandidaten har kastet den. Nej! det er
+									dog lumpent! <stage type="mix" xml:id="idm140699393569760">
+                              <hi rend="italics" xml:id="idm140699393569392">Hidsig</hi>.</stage> Men Menneske, hvad
+									tænker De paa? han var jo bleven <pb n="391" facs="adl/hostrup/hostrup1/host1391" xml:id="idm140699393568432"/> kruk til op over Ørerne. Nej hør, min Far, naar De vil spille
+									med mig, skal De sgu gjøre det ordentlig, ellers skal De lade
+									være!</p>
+                     </sp>
+                     <sp xml:id="idm140699393567088">
+                        <speaker xml:id="idm140699393566832">HELLEBÆK</speaker>
+                        <stage type="mix" xml:id="idm140699393566416">
+                           <hi rend="italics" xml:id="idm140699393566048">rejser sig</hi>.</stage>
+                        <p xml:id="idm140699393565232">Ja det er ogsaa det, jeg allerhelst vil. Jeg kan ikke spille i
+									Aften, jeg er ikke oplagt dertil.</p>
+                     </sp>
+                     <sp xml:id="idm140699393564592">
+                        <speaker xml:id="idm140699393564336">FRØKEN</speaker>
+                        <stage type="mix" xml:id="idm140699393563920">
+                           <hi rend="italics" xml:id="idm140699393563552">sagte til ham</hi>.</stage>
+                        <p xml:id="idm140699393562736">Men saa ti dog stille.</p>
+                     </sp>
+                     <sp xml:id="idm140699393562192">
+                        <speaker xml:id="idm140699393561936">PRÆST.</speaker>
+                        <p xml:id="idm140699393561520">Ikke oplagt! hvad fejler De da? er De syg?</p>
+                     </sp>
+                     <sp xml:id="idm140699393560944">
+                        <speaker xml:id="idm140699393560688">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393560272">Nej jeg er ikke, men - rent ud sagt - jeg er
+									ikke kommen her ud for at spille Lhombre.</p>
+                     </sp>
+                     <sp xml:id="idm140699393559648">
+                        <speaker xml:id="idm140699393559392">FRØKEN</speaker>
+                        <stage type="mix" xml:id="idm140699393558976">
+                           <hi rend="italics" xml:id="idm140699393558608">sagte</hi>.</stage>
+                        <p xml:id="idm140699393557792">Men Menneske, vore Intriger!</p>
+                     </sp>
+                     <sp xml:id="idm140699393557232">
+                        <speaker xml:id="idm140699393556976">PRÆST.</speaker>
+                        <p xml:id="idm140699393556560">Men hvorfor Pokker er De da kommen her?</p>
+                     </sp>
+                     <sp xml:id="idm140699393556000">
+                        <speaker xml:id="idm140699393555744">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393555328">For at fri til Deres Datter.</p>
+                     </sp>
+                     <sp xml:id="idm140699393554768">
+                        <speaker xml:id="idm140699393554512">FRØKEN</speaker>
+                        <stage type="mix" xml:id="idm140699393554096">
+                           <hi rend="italics" xml:id="idm140699393553728">afsides</hi>.</stage>
+                        <p xml:id="idm140699393552912">Det er forbi.</p>
+                     </sp>
+                     <sp xml:id="idm140699393552368">
+                        <speaker xml:id="idm140699393552112">PRÆST.</speaker>
+                        <p xml:id="idm140699393551696">Fri til min Datter - se se! ja værsgo - fri
+									De væk!</p>
+                     </sp>
+                     <sp xml:id="idm140699393551040">
+                        <speaker xml:id="idm140699393550784">HELLEBÆK.</speaker>
+                        <p xml:id="idm140699393550368">Ja med hende er det afgjort. Og jeg kom her ud for at faa Deres
+									Samtykke, men jeg fik at høre, at De havde lovet hende bort.</p>
+                     </sp>
+                     <sp xml:id="idm140699393549568">
+                        <speaker xml:id="idm140699393549312">PRÆST.</speaker>
+                        <p xml:id="idm140699393548896">Har jeg lovet hende bort! Det er ikke sandt! Hvem har sagt
+								det?</p>
+                     </sp>
+                     <sp xml:id="idm140699393548304">
+                        <speaker xml:id="idm140699393548048">FRØKEN.</speaker>
+                        <p xml:id="idm140699393547632">Det har jeg. Jeg har hørt med mine egne Ører, at du ikke blot har
+									lovet hende bort, men du har solgt -</p>
+                     </sp>
+                     <sp xml:id="idm140699393546880">
+                        <speaker xml:id="idm140699393546624">PRÆST og KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699393546176">Solgt?</p>
+                     </sp>
+                     <sp xml:id="idm140699393545632">
+                        <speaker xml:id="idm140699393545376">FRØKEN.</speaker>
+                        <p xml:id="idm140699393544960">Ja solgt hende har du - og nu kommer det værste
+									- hvorfor har du solgt hende?</p>
+                     </sp>
+                     <sp xml:id="idm140699393544256">
+                        <speaker xml:id="idm140699393544000">PRÆST.</speaker>
+                        <p xml:id="idm140699393543584">Ja det maa jeg spørge dig om.</p>
+                     </sp>
+                     <sp xml:id="idm140699393542992">
+                        <speaker xml:id="idm140699393542736">FRØKEN.</speaker>
+                        <p xml:id="idm140699393542320">Ligesom om du ikke vidste det selv. O du unaturlige Fader! Du har
+									solgt din Datter for - jeg kan ikke sige, hvad det
+									var, men det var saa fælt -</p>
+                     </sp>
+                     <sp xml:id="idm140699393541472">
+                        <speaker xml:id="idm140699393541216">KRIGSRAAD</speaker>
+                        <stage type="mix" xml:id="idm140699393540800">
+                           <hi rend="italics" xml:id="idm140699393540432">nærved at briste af Latter</hi>.</stage>
+                        <p xml:id="idm140699393539584">Lille Frøken, det <pb n="392" facs="adl/hostrup/hostrup1/host1392" xml:id="idm140699393539280"/> skulde vel
+									aldrig være det amerikanske Syltetøj, som man spiser ved Hoffet,
+									hahaha! <stage type="mix" xml:id="idm140699393538288">
+                              <hi rend="italics" xml:id="idm140699393537920">Til Præst</hi>.</stage> Nu skal jeg sige
+									dig, hvordan det hænger sammen!</p>
+                     </sp>
+                     <sp xml:id="idm140699393536720">
+                        <speaker xml:id="idm140699393536464">PRÆST.</speaker>
+                        <p xml:id="idm140699393536048">Nej, nu vil jeg først havde den Sag klaret. Hvor er Augusta? <stage type="mix" xml:id="idm140699393535648">
+                              <hi rend="italics" xml:id="idm140699393535280">Kalder</hi>.</stage> Augusta!</p>
+                     </sp>
+                     <sp xml:id="idm140699393534176">
+                        <speaker xml:id="idm140699393533920">FRØKEN</speaker>
+                        <stage type="mix" xml:id="idm140699393533504">
+                           <hi rend="italics" xml:id="idm140699393533136">til Hellebæk</hi>.</stage>
+                        <p xml:id="idm140699393532304">Han tillader det i Evighed aldrig, men det er Deres egen
+								Skyld.</p>
+                     </sp>
+                     <sp xml:id="idm140699393531712">
+                        <speaker xml:id="idm140699393531456">AUGUSTA</speaker>
+                        <stage type="mix" xml:id="idm140699393531040">
+                           <hi rend="italics" xml:id="idm140699393530672">kommer</hi>.</stage>
+                        <p xml:id="idm140699393529856">Hvad vil du, Fader?</p>
+                     </sp>
+                     <sp xml:id="idm140699393529312">
+                        <speaker xml:id="idm140699393529056">PRÆST.</speaker>
+                        <p xml:id="idm140699393528640">Hør, min Pige, her er en Frier til dig. Vil du have ham? Naa, mit
+									Barn, bliv nu ikke rød, du maa jo gjerne faa ham, hvis hans
+									Fader ikke har noget derimod. Men du kunde gjerne have sagt mig
+									det selv, for det kommer saa Pokkers hovedkulds. Naa, Børn, kys
+									nu hinanden og vær glade!</p>
+                     </sp>
+                     <sp xml:id="idm140699393527472">
+                        <speaker xml:id="idm140699393527216">FRØKEN.</speaker>
+                        <p xml:id="idm140699393526832">Ja men jeg kan ikke begribe dig, du har jo lovet hende bort til
+									Krigsraaden.</p>
+                     </sp>
+                     <sp xml:id="idm140699393526224">
+                        <speaker xml:id="idm140699393525968">PRÆST.</speaker>
+                        <p xml:id="idm140699393525552">Aa kom nu ikke med det Vrøvl igjen!</p>
+                     </sp>
+                     <sp xml:id="idm140699393524944">
+                        <speaker xml:id="idm140699393524688">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699393524272">Hahaha! nu skal jeg forklare dig det. Den Gang jeg før købte
+									Plagen af dig, fordi jeg trænger til en ny Ridehest, saa troede
+									Frøkenen, at det var Augusta, vi talte om, hahaha!</p>
+                     </sp>
+                     <sp xml:id="idm140699393523344">
+                        <speaker xml:id="idm140699393523088">PRÆST.</speaker>
+                        <p xml:id="idm140699393522672">Hahaha! Nej, Svigerinde, der tog du fejl.</p>
+                     </sp>
+                     <sp xml:id="idm140699393522096">
+                        <speaker xml:id="idm140699393521840">FRØKEN.</speaker>
+                        <p xml:id="idm140699393521424">Det er da ubegribeligt! Men den gamle, som De talte om, var det
+									da ikke mig?</p>
+                     </sp>
+                     <sp xml:id="idm140699393520816">
+                        <speaker xml:id="idm140699393520560">KRIGSRAAD.</speaker>
+                        <p xml:id="idm140699393520144">Nej, lille Frøken! vi talte sgu blot om Heste.</p>
+                     </sp>
+                     <sp xml:id="idm140699393519520">
+                        <speaker xml:id="idm140699393519264">FRØKEN.</speaker>
+                        <p xml:id="idm140699393518848">Men det stemmer jo slet ikke med din Karakter at give dit
+									Samtykke; Hr. Hellebæk og du er jo aldeles uenige.</p>
+                     </sp>
+                     <sp xml:id="idm140699393518080">
+                        <speaker xml:id="idm140699393517824">PRÆST.</speaker>
+                        <p xml:id="idm140699393517408">Ja men derfor kan han nok blive enig med Augusta - ikke
+									sandt, Kandidat, hvad? Og han maa nok faa min Datter, naar de
+									holder af hinanden; men han faar ikke Lov til at prædike for
+									mine Bønder. <stage type="mix" xml:id="idm140699393516688">
+                              <hi rend="italics" xml:id="idm140699393516320">Til Hellebæk</hi>.</stage> Det faar du
+									ikke.</p>
+                     </sp>
+                     <pb n="393" facs="adl/hostrup/hostrup1/host1393" xml:id="idm140699393515184"/>
+                     <sp xml:id="idm140699393514368">
+                        <speaker xml:id="idm140699393514112">SØRENSEN.</speaker>
+                        <p xml:id="idm140699393513696">Deres Velærværdighed glemte at skrive, at jeg vandt en Spurgt i
+									Klør.</p>
+                     </sp>
+                     <sp xml:id="idm140699393513008">
+                        <speaker xml:id="idm140699393512752">PRÆST.</speaker>
+                        <p xml:id="idm140699393512336">Aa nu skal vi ikke spille mere i Aften, nu skal vi være glade. Og
+									saa skriver min Svigersøn - hahaha, det er dog
+									morsomt! - saa skriver du i Aften ind til Kjøbenhavn
+									efter din Fader, for gamle Mads har altid holdt meget af en god
+									Lhombre, og saa tager vi den i Morgen i Stedet for.</p>
+                     </sp>
+                     <sp xml:id="idm140699393511168">
+                        <speaker xml:id="idm140699393510912">FRØKEN</speaker>
+                        <stage type="mix" xml:id="idm140699393510496">
+                           <hi rend="italics" xml:id="idm140699393510128">til Hellebæk</hi>.</stage>
+                        <p xml:id="idm140699393509296">Kan De se, at De skulde skrive ind til Deres Fader, det var ogsaa
+									min Præposition.</p>
+                     </sp>
+                  </div>
+                  <div xml:id="idm140699393508448">
+                     <head xml:id="idm140699393508192">Mel. Fr. S. 46.</head>
+                     <div xml:id="idm140699393507776">
+                        <head xml:id="idm140699393507520">1.</head>
+                        <sp xml:id="idm140699393507136">
+                           <speaker xml:id="idm140699393506880">PRÆST.</speaker>
+                           <lg xml:id="idm140699393506464">
+                              <l xml:id="idm140699393506208">Saa faar man Sommer,</l>
+                              <l xml:id="idm140699393505792">før ret man det veed.</l>
+                              <l xml:id="idm140699393505344">Glæden den kommer</l>
+                              <l xml:id="idm140699393504912">dumpende ned.</l>
+                              <l xml:id="idm140699393504496">Lad os nu kuns</l>
+                              <l xml:id="idm140699393504080">faa noget Puns</l>
+                              <l xml:id="idm140699393503664">og saa et Fad</l>
+                              <l xml:id="idm140699393503248">Mad!</l>
+                              <l xml:id="idm140699393502832">Lidt maa man ha', naar</l>
+                              <l xml:id="idm140699393502416">Hjertet er glad.*)</l>
+                           </lg>
+                        </sp>
+                     </div>
+                     <div xml:id="idm140699393501616">
+                        <head xml:id="idm140699393501360">2.</head>
+                        <sp xml:id="idm140699393500976">
+                           <speaker xml:id="idm140699393500720">SØRENSEN.</speaker>
+                           <lg xml:id="idm140699393500304">
+                              <l xml:id="idm140699393500048">Skæbnen mig driller,</l>
+                              <l xml:id="idm140699393499600">det blev nu min Del,</l>
+                              <l xml:id="idm140699393499184">hver Gang jeg spiller,</l>
+                              <l xml:id="idm140699393498768">faar jeg Kanel.</l>
+                              <l xml:id="idm140699393498352">Et Spil jeg før</l>
+                              <l xml:id="idm140699393497920">tabte i Klør,</l>
+                              <l xml:id="idm140699393497488">men jeg vandt et nyt -</l>
+                              <l xml:id="idm140699393497072">Pyt!</l>
+                              <l xml:id="idm140699393496656">For mit Kulørspil</l>
+                              <l xml:id="idm140699393496224">blev jeg sgu snydt.</l>
+                           </lg>
+                        </sp>
+                        <note anchored="true" xml:id="idm140699393495552">*) Koret gjentager af hver Strofe de 6 sidste Linier.</note>
+                        <pb n="394" facs="adl/hostrup/hostrup1/host1394" xml:id="idm140699393494832"/>
+                     </div>
+                     <div xml:id="idm140699393493888">
+                        <head xml:id="idm140699393493632">3.</head>
+                        <sp xml:id="idm140699393493248">
+                           <speaker xml:id="idm140699393492992">HELLEBÆK.</speaker>
+                           <lg xml:id="idm140699393492576">
+                              <l xml:id="idm140699393492320">Ængstelse Rod i</l>
+                              <l xml:id="idm140699393491904">mit Sind havde slaaet.</l>
+                              <l xml:id="idm140699393491488">nær var mit Mod i</l>
+                              <l xml:id="idm140699393491056">Angsten forgaaet.</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393490384">
+                           <speaker xml:id="idm140699393490128">AUGUSTA.</speaker>
+                           <lg xml:id="idm140699393489712">
+                              <l xml:id="idm140699393489456">Sig mig min Ven!</l>
+                              <l xml:id="idm140699393489040">hvad var da den</l>
+                              <l xml:id="idm140699393488624">Frygt i dit Sind?</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393487952">
+                           <speaker xml:id="idm140699393487696">HELLEBÆK.</speaker>
+                           <lg xml:id="idm140699393487280">
+                              <l xml:id="idm140699393487024">Vind!</l>
+                              <l xml:id="idm140699393486608">Men den gik bort, og</l>
+                              <l xml:id="idm140699393486192">Glæden kom ind.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                     <div xml:id="idm140699393485376">
+                        <head xml:id="idm140699393485120">4.</head>
+                        <sp xml:id="idm140699393484736">
+                           <speaker xml:id="idm140699393484480">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699393484064">
+                              <l xml:id="idm140699393483808">Frøknen Intriger</l>
+                              <l xml:id="idm140699393483376">ved Hoffet har lært;</l>
+                              <l xml:id="idm140699393482928">der, som man siger,</l>
+                              <l xml:id="idm140699393482512">drives de svært.</l>
+                           </lg>
+                           <stage type="mix" xml:id="idm140699393481952">
+                              <hi rend="italics" xml:id="idm140699393481584">Til Frøken</hi>.</stage>
+                           <lg xml:id="idm140699393480768">
+                              <l xml:id="idm140699393480512">Drejer de sig der</l>
+                              <l xml:id="idm140699393480096">ligesom her</l>
+                              <l xml:id="idm140699393479680">om Syltetøj?</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393478992">
+                           <speaker xml:id="idm140699393478736">FRØKEN.</speaker>
+                           <lg xml:id="idm140699393478320">
+                              <l xml:id="idm140699393478064">Føj!</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393477392">
+                           <speaker xml:id="idm140699393477136">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699393476720">
+                              <l xml:id="idm140699393476464">Frøknens Finesser</l>
+                              <l xml:id="idm140699393476032">gik op i Røg.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                     <div xml:id="idm140699393475216">
+                        <head xml:id="idm140699393474960">5.</head>
+                        <sp xml:id="idm140699393474576">
+                           <speaker xml:id="idm140699393474320">FRØKEN.</speaker>
+                           <lg xml:id="idm140699393473904">
+                              <l xml:id="idm140699393473648">Drives ved Hoffet</l>
+                              <l xml:id="idm140699393473232">Intriger især,</l>
+                              <l xml:id="idm140699393472800">ej dog om Stoffet</l>
+                              <l xml:id="idm140699393472384">spørger man der.</l>
+                              <l xml:id="idm140699393471952">Nej, af ingen Ting</l>
+                              <l xml:id="idm140699393471536">gjøre tusind Sving</l>
+                              <l xml:id="idm140699393471104">det vi forstaa.</l>
+                           </lg>
+                        </sp>
+                        <pb n="395" facs="adl/hostrup/hostrup1/host1395" xml:id="idm140699393470432"/>
+                        <sp xml:id="idm140699393469616">
+                           <speaker xml:id="idm140699393469360">KRIGSRAAD.</speaker>
+                           <lg xml:id="idm140699393468944">
+                              <l xml:id="idm140699393468688">Saa?</l>
+                           </lg>
+                        </sp>
+                        <sp xml:id="idm140699393468016">
+                           <speaker xml:id="idm140699393467760">FRØKEN.</speaker>
+                           <lg xml:id="idm140699393467344">
+                              <l xml:id="idm140699393467088">Jeg har jo vist Dem</l>
+                              <l xml:id="idm140699393466672">Prøver derpaa.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                     <div xml:id="idm140699393465856">
+                        <head xml:id="idm140699393465600">6.</head>
+                        <sp xml:id="idm140699393465216">
+                           <speaker xml:id="idm140699393464960">PRÆST.</speaker>
+                           <lg xml:id="idm140699393464544">
+                              <l xml:id="idm140699393464288">Slaar end for Resten</l>
+                              <l xml:id="idm140699393463872">Intrigerne til,</l>
+                              <l xml:id="idm140699393463456">ej dog hos Præsten</l>
+                              <l xml:id="idm140699393463024">lykkes de vil.</l>
+                           </lg>
+                           <stage type="mix" xml:id="idm140699393462480">
+                              <hi rend="italics" xml:id="idm140699393462112">Til Publikum</hi>.</stage>
+                           <lg xml:id="idm140699393461296">
+                              <l xml:id="idm140699393461040">Ja Skjæmtens Ord</l>
+                              <l xml:id="idm140699393460608">kunstløse gror</l>
+                              <l xml:id="idm140699393460176">her i mit Hjem</l>
+                              <l xml:id="idm140699393459760">frem;</l>
+                              <l xml:id="idm140699393459344">maa de da Skaansel</l>
+                              <l xml:id="idm140699393458928">møde hos Dem!</l>
+                           </lg>
+                        </sp>
+                        <pb n="396" facs="adl/hostrup/hostrup1/host1396" xml:id="idm140699393458240"/>
+                     </div>
+                  </div>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

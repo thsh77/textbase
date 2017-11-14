@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til vedbenden</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid58127" decls="#biblid58127">
+            <head xml:id="idm139731449536000">Til Vedbenden</head>
+            <lg xml:id="idm139731449535584">
+               <l xml:id="idm139731449535328">Vedbend fra den grønne Skov,</l>
+               <l xml:id="idm139731449534864">aldrig rørt af Sax og Spade,</l>
+               <l xml:id="idm139731449534400">giv mig dine sidste Skud,</l>
+               <l xml:id="idm139731449533968">med de friske, blanke Blade!</l>
+               <pb n="27" xml:id="s27" facs="adl/richardt/richardt1/rich1027"/>
+               <l xml:id="idm139731449532368">Jeg vil flette dem i Krans</l>
+               <l xml:id="idm139731449531936">mellem blaa og hvide Klokker,</l>
+               <l xml:id="idm139731449531504">til et simpelt Diadem</l>
+               <l xml:id="idm139731449531088">om min Dronnings lyse Lokker.</l>
+            </lg>
+            <lg xml:id="idm139731449530528">
+               <l xml:id="idm139731449530272">Du og hun, I passe godt:</l>
+               <l xml:id="idm139731449529840">Vaar og Høst hun er den samme!</l>
+               <l xml:id="idm139731449529376">Den Natur, som fostred Dig,</l>
+               <l xml:id="idm139731449528944">den var ogsaa hendes Amme!</l>
+               <l xml:id="idm139731449528512">Og hun klynger sig som Du</l>
+               <l xml:id="idm139731449528080">til det Land, hvor hun er baaren!</l>
+               <l xml:id="idm139731449527648">Og naar Frosten ligger tung,</l>
+               <l xml:id="idm139731449527216">tro som Du hun venter Vaaren!</l>
+            </lg>
+            <lg xml:id="idm139731449526656">
+               <l xml:id="idm139731449526400">Derfor Du o Vedbendblad,</l>
+               <l xml:id="idm139731449525968">kun af Sol og Dugg beskrevet,</l>
+               <l xml:id="idm139731449525536">taler, tyst men inderlig,</l>
+               <l xml:id="idm139731449525104">om den Vaar, vi sammen leved!</l>
+               <l xml:id="idm139731449524672">Men naar seent engang i Høst</l>
+               <l xml:id="idm139731449524208">træt Du falder fra din Ranke,</l>
+               <l xml:id="idm139731449523744">veed hun dog: hun skilles ej,</l>
+               <l xml:id="idm139731449523312">kan ej skilles fra min Tanke.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

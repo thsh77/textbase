@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epigrammer</title>
+            <author>Ewald, Johannes</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139851049620320">
+                     <name xml:id="idm139851049620064">
+                        <surname xml:id="idm139851049619936">Ewald</surname>, <forename xml:id="idm139851049619504">Johannes</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139851049619248">Johannes Ewalds samlede skrifter</title>
+                  <pubPlace xml:id="idm139851049618944">(Kbh.)</pubPlace>
+                  <publisher xml:id="idm139851049618480">Gyldendal</publisher>
+                  <date xml:id="idm139851049618144">(1969)</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid92255" decls="#biblid92255" type="poem">
+            <head xml:id="idm139851044979200">EPIGRAMMER<lb xml:id="idm139851044978912"/>(1779)</head>
+            <div xml:id="idm139851044978496">
+               <head xml:id="idm139851044978240">1. VERSEMAGEREN</head>
+               <lg xml:id="idm139851044977824">
+                  <l xml:id="idm139851044977568">EN Versemager oversatte</l>
+                  <l xml:id="idm139851044977152">Sin Riimbog i et fremmed Sprog;</l>
+                  <l xml:id="idm139851044976720">Og, ak, nu fandt det arme Skrog,</l>
+                  <l xml:id="idm139851044976288">Selv sine Yndlingsoder matte.</l>
+                  <l xml:id="idm139851044975856">Han rystede det lange Øre:</l>
+                  <l xml:id="idm139851044975408">Ney, raabde han forbittret, ney,</l>
+                  <l xml:id="idm139851044974976">Det Sprog er vemmeligt at høre,</l>
+                  <l xml:id="idm139851044974512">Saa klinge mine Tanker ey.</l>
+               </lg>
+            </div>
+            <div xml:id="idm139851044973824">
+               <head xml:id="idm139851044973568">2. CLAUS RIMERS GRAVSKRIFT</head>
+               <lg xml:id="idm139851044973136">
+                  <l xml:id="idm139851044972880">Her ligger Claus</l>
+                  <l xml:id="idm139851044972464">Blant andet Snaus:</l>
+                  <l xml:id="idm139851044972048">Hans Krop er Slim,</l>
+                  <l xml:id="idm139851044971632">Hans Siel giør Riim</l>
+                  <l xml:id="idm139851044971184">For Cherubim:</l>
+                  <l xml:id="idm139851044970768">Ifald den ey</l>
+                  <l xml:id="idm139851044970352">Gik med Niels Klim</l>
+                  <l xml:id="idm139851044969936">Den anden Vey.</l>
+                  <l xml:id="idm139851044969520">Den stakkels Nar</l>
+                  <l xml:id="idm139851044969104">Var aldrig tavs;</l>
+                  <l xml:id="idm139851044968688">Det beste var,</l>
+                  <l xml:id="idm139851044968272">Han gik til Gravs:</l>
+                  <l xml:id="idm139851044967856">Derfor skal paa</l>
+                  <l xml:id="idm139851044967440">Hans Liigsteen staae:</l>
+                  <l xml:id="idm139851044967024">In fine laus.</l>
+               </lg>
+            </div>
+            <div xml:id="idm139851044966352">
+               <head xml:id="idm139851044966096">3. DEN FORNUFTIGE DATTER</head>
+               <lg xml:id="idm139851044965664">
+                  <l xml:id="idm139851044965408">Hvad er Dig kierest, lille Pige?</l>
+                  <l xml:id="idm139851044964976">»Mama, det er min Psalmebog.«</l>
+                  <l xml:id="idm139851044964544">Nu det var skiønt, dog sandt at sige,</l>
+                  <l xml:id="idm139851044964064">Jeg tænkde Dig ey halv saa klog;</l>
+                  <l xml:id="idm139851044963600">Ak ney, det kan umueligt være,</l>
+                  <l xml:id="idm139851044963136">Betænk Dig ret, og svar igien?</l>
+                  <l xml:id="idm139851044962672">»Mama, den er det, ved min Ære;</l>
+                  <l xml:id="idm139851044962240">Thi Naboes Peter gav mig den.«</l>
+               </lg>
+               <pb n="222" xml:id="s222" facs="adl/ewald/ewald5/ewald5222"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

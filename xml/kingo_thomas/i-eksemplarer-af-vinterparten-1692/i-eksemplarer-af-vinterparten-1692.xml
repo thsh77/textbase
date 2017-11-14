@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I eksemplarer af vinterparten 1692</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid100465" decls="#biblid100465">
+            <body xml:id="idm140721237672656">
+               <head xml:id="idm140721237672400"> I Eksemplarer af Vinterparten <lb xml:id="idm140721237672144"/>
+                  <hi rend="italics" xml:id="idm140721237671888">Dend Høy-ædle og Velbyrdige Jomfnte,</hi>
+                  <lb xml:id="idm140721237671168"/>
+                  <hi rend="italics" xml:id="idm140721237670912">Jomfrue Vita Bering</hi>
+                  <lb xml:id="idm140721237670288"/> Er denne Psalme-bog tienstvilligst foræret,<lb xml:id="idm140721237669920"/> med hosfølgende
+							Erindring: </head>
+               <lg xml:id="idm140721237669440">
+                  <l xml:id="idm140721237669184">GAk, hude-fletted Bog, Du tør vel Plaster finde,</l>
+                  <l xml:id="idm140721237668688">Og rene Siæle, som vil dine Saar forbinde!</l>
+                  <l xml:id="idm140721237668208">Gak, Syng din Sorrig hen, Det tør vel blive got!</l>
+                  <l xml:id="idm140721237667712">Thi Ære fødes tiit udaf Vanartig Spot!</l>
+                  <closer xml:id="idm140721237667232">
+                     <lb xml:id="idm140721237666976"/>
+                     <signed xml:id="idm140721237666720">af <lb xml:id="idm140721237666464"/>
+                        <hi rend="italics" xml:id="idm140721237666208">Hendes Velbyrdigheds</hi>
+                        <lb xml:id="idm140721237665584"/>ærbødigst og hulde Ven <lb xml:id="idm140721237665328"/>og Tienere <lb xml:id="idm140721237665072"/>
+                        <hi rend="italics" xml:id="idm140721237664816">Th. <hi rend="bold" xml:id="idm140721237664320">Kingo.</hi>
+                        </hi>
+                     </signed>
+                     <dateline xml:id="idm140721237663440"> d. 4 Martij-1692 </dateline>
+                  </closer>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721237662800">
+                  <hi rend="italics" xml:id="idm140721237662192">Tekstgrundlag: Egenhændig Dedikation i Eksemplar af
+								Vinterparten <lb xml:id="idm140721237661536"/>(NkS 4° 820). Overskrift indsat af Udg.
+							</hi>2-5] Dend | Høy-ædle og Vel- <lb xml:id="idm140721237660960"/>baarne Jomfru, l Jomfru Karen
+							Brahe, | Er | denne ringe Psalmebog | <lb xml:id="idm140721237660608"/>foræret, af | Hendes
+							Velbaarenheds | ærbødigste Tienere, | Th. Kingo <hi rend="bold" xml:id="idm140721237660176"> B</hi>
+                  <lb xml:id="idm140721237659680"/>6 vel] end<hi rend="bold" xml:id="idm140721237659424"> B </hi>11 <hi rend="italics" xml:id="idm140721237658800">Velbyrdigheds] Udg. Velbrheds </hi>A </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

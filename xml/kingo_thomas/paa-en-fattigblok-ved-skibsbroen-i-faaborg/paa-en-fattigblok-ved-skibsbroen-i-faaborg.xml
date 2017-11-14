@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paa en fattigblok ved skibsbroen i faaborg</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>272-273</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid94900" decls="#biblid94900">
+            <body xml:id="idm140721238320336">
+               <head xml:id="idm140721238320080"> Paa en Fattigblok <lb xml:id="idm140721238319792"/>ved Skibsbroen i Faaborg. <lb xml:id="idm140721238319488"/> Gudelige og
+							Godheds tancher for de Søefarende <lb xml:id="idm140721238319104"/>ved Deris Udgang og Indgang. </head>
+               <div xml:id="idm140721238318672">
+                  <head xml:id="idm140721238318416">Udgang.</head>
+                  <lg xml:id="idm140721238318000">
+                     <l xml:id="idm140721238317744">DU som fra denne Bro paa Bølgens vey udtræder</l>
+                     <l xml:id="idm140721238317248">At bugte dig omkring fra fyen til fremmed steder,</l>
+                     <l xml:id="idm140721238316800">Tænch dog hvor nær du hen til Dødsens stræde gaaer,</l>
+                     <l xml:id="idm140721238316288"> Der mangler kun et trin naar du paa skibet staaer.</l>
+                     <l xml:id="idm140721238315840">Om du da uden Gud din egen vey henripper,</l>
+                     <l xml:id="idm140721238315392">Og hand et øjeblich dig ud af Haanden slipper,</l>
+                     <l xml:id="idm140721238314896">Da slipper top og taul til afgrunds mørche vraa,</l>
+                     <l xml:id="idm140721238314400">Og du for fiske mund en Mading blifve maa;</l>
+                     <l xml:id="idm140721238313952"> Stat derfor lidet her, giør baade Boed og Bønner,</l>
+                     <l xml:id="idm140721238313440">Og tænch paa de Guds børn, som deris Such udstønner</l>
+                     <l xml:id="idm140721238312928">I deris armods huus, kast hen til deris gafn</l>
+                     <l xml:id="idm140721238312480">Een skiærf i denne Bloch, far saa i Jesu Nafn.</l>
+                  </lg>
+               </div>
+               <div xml:id="idm140721238311728">
+                  <head xml:id="idm140721238311472">Indgang.</head>
+                  <lg xml:id="idm140721238311056">
+                     <l xml:id="idm140721238310800"> Du, som paa Bølgens Ryg saa trygelig har vandret,</l>
+                     <l xml:id="idm140721238310304">Og dit Søe banchet Skib fra haf til hafii forandret,</l>
+                     <l xml:id="idm140721238309792">Tænch dog hvor store ting dit frygtsom øye saae,</l>
+                     <l xml:id="idm140721238309296">Da du med Gods og Lif i Dødsens munding laae.</l>
+                  </lg>
+                  <note resp="#ed" anchored="true" xml:id="idm140721238308672">
+                     <hi rend="italics" xml:id="idm140721238308032">Tekstgrundlag: Aftryk (i N. C. Øst&gt; Archiv
+								</hi>/. <hi rend="italics" xml:id="idm140721238307248">Psychologie, Historie, <lb xml:id="idm140721238306688"/>Litteratur og
+									Kunst VIII (1827) S. 234 f. af en Kopibog, der tidligere har
+									<lb xml:id="idm140721238306320"/>beroet i By- og Raadstuearkivet i Faaborg. Overskrift
+									indsat af Udg.</hi>
+                  </note>
+                  <pb n="273" xml:id="s273" facs="adl/kingo/kingo1/king1273"/>
+                  <lg xml:id="idm140721238304640">
+                     <l xml:id="idm140721238304384">Det var Guds Naadis verch, at iche Kiøl og Planche</l>
+                     <l xml:id="idm140721238303888">Af Søens Hammer Magt lod sig til vrag forbanche,</l>
+                     <l xml:id="idm140721238303392">At vinden iche brød de seyl fra maste-top,</l>
+                     <l xml:id="idm140721238302912">At vandet iche aad det tynde træværch op.</l>
+                     <l xml:id="idm140721238302432">Nu du ved denne Bye, din søe Hest haver bundet,</l>
+                     <l xml:id="idm140721238301936">Din vandteen denne gang saa lychelig afspundet,</l>
+                     <l xml:id="idm140721238301488">Da viid her er et Huus for armes usle floch</l>
+                     <l xml:id="idm140721238301040">Til ophold ofre dem en skiærf i denne bloch.</l>
+                  </lg>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

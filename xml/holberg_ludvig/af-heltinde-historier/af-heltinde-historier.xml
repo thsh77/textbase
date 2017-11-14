@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Af heltinde-historier</title>
+            <author>Holberg, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140586845515760">
+                     <name xml:id="idm140586845515504">
+                        <surname xml:id="idm140586845515376">Holberg</surname>, <forename xml:id="idm140586845514912">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140586845514624">Værker i tolv bind</title>
+                  <title xml:id="idm140586845514320">8: Økonomi og historie</title>
+                  <pubPlace xml:id="idm140586845514000">[København]</pubPlace>
+                  <publisher xml:id="idm140586845513536">Rosenkilde og Bagger</publisher>
+                  <date xml:id="idm140586845513200">1969-1971</date>
+                  <biblScope>276-279</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid56170" decls="#biblid56170">
+            <body xml:id="idm140586845238096">
+               <pb n="277" facs="adl/holberg/holberg8/holb8277" xml:id="idm140586845237840"/>
+               <pb n="278" facs="adl/holberg/holberg8/holb8278" xml:id="idm140586845237024"/>
+               <pb n="279" facs="adl/holberg/holberg8/holb8279" xml:id="idm140586845236208"/>
+               <p xml:id="idm140586845235440"/>
+            </body>
+            <back xml:id="idm140586845235056">
+               <pb n="280" facs="adl/holberg/holberg8/holb8280" xml:id="idm140586845234800"/>
+            </back>
+         </text>
+      </body>
+   </text>
+</TEI>

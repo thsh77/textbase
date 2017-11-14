@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Svar paa 'et naturvidenskabeligt spørgsmaal'</title>
+            <author>Jacobsen, J. P.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140501113474416">
+                     <name xml:id="idm140501113474160">
+                        <surname xml:id="idm140501113474032">Jacobsen</surname>,
+      <forename xml:id="idm140501113473584">J. P.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140501113473120">Samlede Værker
+      V</title>
+                  <title xml:id="idm140501113472672">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title>
+                  <pubPlace xml:id="idm140501113472208">København</pubPlace>
+                  <date xml:id="idm140501113471776">1924-29</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid55930" decls="#biblid55930">
+            <pb n="218" facs="adl/jacobsenjp/jacobjp5/jajp5218" xml:id="idm140501113224832"/>
+            <pb n="219" facs="adl/jacobsenjp/jacobjp5/jajp5219" xml:id="idm140501113224064"/>
+            <pb n="220" facs="adl/jacobsenjp/jacobjp5/jajp5220" xml:id="idm140501113223296"/>
+            <p xml:id="idm140501113222480"/>
+         </div>
+      </body>
+   </text>
+</TEI>

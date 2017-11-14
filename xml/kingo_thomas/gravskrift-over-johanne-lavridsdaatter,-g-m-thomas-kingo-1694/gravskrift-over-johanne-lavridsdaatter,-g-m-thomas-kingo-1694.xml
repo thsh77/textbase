@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gravskrift over johanne lavridsdaatter, g. m. thomas kingo 1694</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid89618" decls="#biblid89618">
+            <body xml:id="idm140721239004704">
+               <head xml:id="idm140721239004448"> HER HVILER VELÆDLE FRUE <lb xml:id="idm140721239004128"/>FRU JOHANNE LAVRIDSDAATTER </head>
+               <p xml:id="idm140721239003696"> FØD UDI JYLLAND AF CHRISTELIGE FORELDRE PAA OVER- <lb xml:id="idm140721239003312"/>KARLS GAARD ANNO
+								<hi rend="bold" xml:id="idm140721239003008">1619. </hi>LEVEDE UDI EGTESKAB FØRST<lb xml:id="idm140721239002256"/>MED
+							VELFORNEMME CHRISTEN PEDERSØN UDI 14 AAR SIDEN <lb xml:id="idm140721239001872"/>MED BISKOP KINGO UDI
+							23 AAR RINGERE 3 UGER. DØDE <lb xml:id="idm140721239001488"/>SALIGEN UDI ODENSE BISPE GAARD DEN <hi rend="bold" xml:id="idm140721239001184">19 </hi>MAI <hi rend="bold" xml:id="idm140721239000496">1694 </hi>UDI <lb xml:id="idm140721238999776"/>HENDES
+							ALDERS 76 AAR. <lb xml:id="idm140721238999472"/>
+						         </p>
+               <p xml:id="idm140721238999088"> HER KASTE HVN SIN BYLT AF JORD I DENNE HYTTE<lb xml:id="idm140721238998768"/> SOM GVD HL SIÆLEN SKAL
+							PAA DOMMEDAG OPFLYTTE <lb xml:id="idm140721238998384"/>
+						         </p>
+               <note resp="#ed" anchored="true" xml:id="idm140721238998000">
+                  <hi rend="italics" xml:id="idm140721238997232">Tekstgrundlag: Den originale Metalplade i Fravde
+								Kirke.</hi>
+               </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

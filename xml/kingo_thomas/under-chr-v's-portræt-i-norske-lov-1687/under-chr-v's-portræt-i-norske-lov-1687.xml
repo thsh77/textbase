@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Under chr. v's portræt i norske lov 1687</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015369092032">
+                     <name xml:id="idm140015369091776">
+                        <surname xml:id="idm140015369091648">Kingo</surname>,
+      <forename xml:id="idm140015369091200">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015369090912">Samlede skrifter 2</title>
+                  <pubPlace xml:id="idm140015369090624">København</pubPlace>
+                  <publisher xml:id="idm140015369090192">Munksgaard</publisher>
+                  <date xml:id="idm140015369089856">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid73197" decls="#biblid73197">
+            <body xml:id="idm140015366720544">
+               <head xml:id="idm140015366720288">Under Christian Vs Portræt i<lb xml:id="idm140015366719952"/>Norske Lov.</head>
+               <lg xml:id="idm140015366719536">
+                  <l xml:id="idm140015366719280">Sku her Kong CHRISTIAN den Femte, Nordens Ære,</l>
+                  <l xml:id="idm140015366718784">Dog ikke som du seer ham her afskygget være,</l>
+                  <l xml:id="idm140015366718288">Men som hand er, naar hand op paa sin Throne-Stool</l>
+                  <l xml:id="idm140015366717840">Er fuld af Herrens Frygt og Rettens klare Sool:</l>
+                  <l xml:id="idm140015366717392">Höör, hvor hand taler her i Lovens rene Stemme</l>
+                  <l xml:id="idm140015366716896">Til Folket længst i Nord om Ret og Skiel at fremme,</l>
+                  <l xml:id="idm140015366716384">Hvert Field, hver By og Flek, hver Skib og Baad i Soe</l>
+                  <l xml:id="idm140015366715936">De prise Kongens Lov og lar ham aldrig döe!</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015366715312">
+                  <hi rend="italics" xml:id="idm140015366714544">Tekstgrundlag: Kobberstik foran i Udgaven af Kong Christian den Femtis
+Norske Lov [1687}. Overskriften indsat af Udg.</hi>
+               </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

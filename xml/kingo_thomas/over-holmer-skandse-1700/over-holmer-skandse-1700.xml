@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Over holmer-skandse 1700</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015369092032">
+                     <name xml:id="idm140015369091776">
+                        <surname xml:id="idm140015369091648">Kingo</surname>,
+      <forename xml:id="idm140015369091200">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015369090912">Samlede skrifter 2</title>
+                  <pubPlace xml:id="idm140015369090624">København</pubPlace>
+                  <publisher xml:id="idm140015369090192">Munksgaard</publisher>
+                  <date xml:id="idm140015369089856">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid75913" decls="#biblid75913">
+            <body xml:id="idm140015366386976">
+               <opener xml:id="idm140015366386720">
+                  <salute xml:id="idm140015366386464">
+Over Holmer-Skandse<lb xml:id="idm140015366386176"/>
+Som den 8 <hi rend="italics" xml:id="idm140015366385888">April </hi>1700 gav sig, og blev<lb xml:id="idm140015366385168"/>
+                     <hi rend="italics" xml:id="idm140015366384912">rasered, </hi>ligesom eengang tilforn<lb xml:id="idm140015366384192"/>
+den 5 <hi rend="italics" xml:id="idm140015366383904">Junij </hi>1697 var skeed.
+</salute>
+               </opener>
+               <lg xml:id="idm140015366382928">
+                  <l xml:id="idm140015366382672">Hør Holmer Skandse hør, hvi torde du dig reyse, </l>
+                  <l xml:id="idm140015366382176">Op paa forbuden jord, og mod Monarchen kneyse,</l>
+                  <l xml:id="idm140015366381728">Fald i din støv igien, sig dine søstre saa,</l>
+                  <l xml:id="idm140015366381232">Det ligeledis vil med deris hovmod gaa.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015366380672">
+                  <hi rend="italics" xml:id="idm140015366380032">Tekstgrundlag: Wielandt III 213. Overskrift indsat efter </hi>B Om Hol-
+xners Skandse som blev <hi rend="italics" xml:id="idm140015366379248">Demoleret </hi>af Kong Christian den V. A Over
+Holmer-Skandse, som Aar 1700 udi Holsteen blev indtagen af <hi rend="italics" xml:id="idm140015366378448">Fri-
+derico Qvarto&gt; </hi>og schleuffet C 5 torde] vilde B dig reyse] saa
+kneysee C 6 Op paa] Af Een B Op paa . . kneyse] Imod Monar- 
+chen, og dit Hoved saa høyt reyse C 7 din] dit C sig .. saae] og
+reys dig aldrig meer C 8 Det .. gaa] Og bliv der liggendes, imens du
+Solen seer C</note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

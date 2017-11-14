@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Faer skal sove.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62343" decls="#biblid62343">
+            <head xml:id="idm139731449012400">Faer skal sove.<lb xml:id="idm139731449012112"/>(Til et Billede af <hi rend="italics" xml:id="idm139731449011824">Bloch</hi>.)</head>
+            <lg xml:id="idm139731449011008">
+               <l xml:id="idm139731449010752">Hører Du det, min egen Unge,</l>
+               <l xml:id="idm139731449010288">nu maa Du kjønt holde Tand for Tunge!</l>
+               <l xml:id="idm139731449009808">Vor Faer har været paa Søen en Tur,</l>
+               <l xml:id="idm139731449009328">og han skal til Byes op over Bakken</l>
+               <l xml:id="idm139731449008896">med Kurven paa Nakken,</l>
+               <l xml:id="idm139731449008480">saa han trænger haardt til en Middagslur.</l>
+               <l xml:id="idm139731449008000">Lad mig nu see, Du er rigtig stille,</l>
+               <l xml:id="idm139731449007568">min egen Lille;</l>
+               <l xml:id="idm139731449007152">det maa Du love,</l>
+               <l xml:id="idm139731449006736">for Faer skal sove!</l>
+            </lg>
+            <lg xml:id="idm139731449006192">
+               <l xml:id="idm139731449005936">Den Smaa, han lytter med Andagt til,</l>
+               <l xml:id="idm139731449005504">og lover at være saa stum som en Sild.</l>
+               <pb n="64" xml:id="s64" facs="adl/richardt/richardt1/rich1064"/>
+               <l xml:id="idm139731449003856">Men som han nu ligger paa Gulvet og roder</l>
+               <l xml:id="idm139731449003408">og skotter op til sin tause Moder,</l>
+               <l xml:id="idm139731449002976">mens Rokkehjulets mærkværdige Snurren</l>
+               <l xml:id="idm139731449002496">og den mærkværdige Torsk i Kurven</l>
+               <l xml:id="idm139731449002032">er Gjenstand for hans undrende Forsken:</l>
+               <l xml:id="idm139731449001600">faar Andemoer Lyst at hilse paa Torsken.</l>
+               <l xml:id="idm139731449001152">Da løber det rundt i Drengens Tanker:</l>
+               <l xml:id="idm139731449000672">Den Snaddrebøtte, den kunde nemt</l>
+               <l xml:id="idm139731449000208">forstyrre vor Faer, og det var slemt.</l>
+               <l xml:id="idm139731448999776">Saa strækker han ud sine Pusselanker,</l>
+               <l xml:id="idm139731448999296">løfter sin Kjæp og slaar løs paa Anden</l>
+               <l xml:id="idm139731448998816">og vræler, som om han var fra Forstanden:</l>
+               <l xml:id="idm139731448998336">Hej, vil Du væk! hvor tør Du vove!</l>
+               <l xml:id="idm139731448997856">Hører Du ikke, at Faer skal sove!</l>
+            </lg>
+            <lg xml:id="idm139731448997264">
+               <l xml:id="idm139731448997008">»Men Dreng dog! Du er jo fra Forstanden!«</l>
+               <l xml:id="idm139731448996560">»»Nej Moer! jeg vilde blot tysse paa Anden!««</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

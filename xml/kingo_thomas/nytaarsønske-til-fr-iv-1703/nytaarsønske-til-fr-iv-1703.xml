@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nytaarsønske til fr. iv 1703</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015369092032">
+                     <name xml:id="idm140015369091776">
+                        <surname xml:id="idm140015369091648">Kingo</surname>,
+      <forename xml:id="idm140015369091200">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015369090912">Samlede skrifter 2</title>
+                  <pubPlace xml:id="idm140015369090624">København</pubPlace>
+                  <publisher xml:id="idm140015369090192">Munksgaard</publisher>
+                  <date xml:id="idm140015369089856">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid76155" decls="#biblid76155">
+            <body xml:id="idm140015366356656">
+               <opener xml:id="idm140015366356400">
+                  <salute xml:id="idm140015366356144">
+Allerunderdanigste Lyck-Ynske,<lb xml:id="idm140015366355840"/>
+Ved det Ny-Aars Indgang,<lb xml:id="idm140015366355536"/>
+1703<lb xml:id="idm140015366355248"/>
+Til<lb xml:id="idm140015366354960"/>Dend Stonnægtigste Monarch,<lb xml:id="idm140015366354624"/>
+                     <name xml:id="idm140015366354368">Kong FRIDERICH dend Fierde</name>,<lb xml:id="idm140015366353936"/>
+Konge til Dannemark og Norge, de Venders og Gothers, Hertug<lb xml:id="idm140015366353600"/>
+udi Slesvig, Holsten, Stormarn og Dytmersken,<lb xml:id="idm140015366353280"/>
+Greve udi Oldenborg og Delmenhorst.
+</salute>
+               </opener>
+               <lg xml:id="idm140015366352720">
+                  <l xml:id="idm140015366352464">Blink op igien med Lyst paa Himlens store Runde</l>
+                  <l xml:id="idm140015366352016">Du Verdens Øye, som et Nit maa aldrig blunde!</l>
+                  <l xml:id="idm140015366351520">I Aftes, som Du gik det gamle Aar forbi,</l>
+                  <l xml:id="idm140015366351072">Da satte du det i et ævigt Slutterie!</l>
+                  <l xml:id="idm140015366350592">Op Sool, og lad dit Lius fra Himlens Trone tænde</l>
+                  <l xml:id="idm140015366350096">For dette Ny - Aar, lad din Straale-Vogn omrende</l>
+                  <l xml:id="idm140015366349648">Paa Himlens herlig Huus, ved hvert et Himmel-Tegn,</l>
+                  <l xml:id="idm140015366349200">Som Folke-Vid optænkt har i din Stierne-Egn.</l>
+                  <l xml:id="idm140015366348704">Giv, Himlens Gud, som har Planeter under Øye</l>
+                  <l xml:id="idm140015366348208">Og Stierner i din Haand, at alle Ting sig føye</l>
+                  <l xml:id="idm140015366347712">Til Liv, til Lykke, og til kroned Fryd og Fred</l>
+                  <l xml:id="idm140015366347264">For Kongen og Hans Huus med ald Lyksalighed!</l>
+                  <l xml:id="idm140015366346816">Gak Kriig og Uroe, byg Din Jammer-fulde Reede</l>
+                  <l xml:id="idm140015366346368">Langt langt fra Kongens Land, gid Fiendens Vold og Vrede,</l>
+                  <l xml:id="idm140015366345904">Som Dug for Solen en afmægtig Svindel faa,</l>
+                  <l xml:id="idm140015366345424">Og Kongen hvert Aar til Ny Freds-Regiering gaa!</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015366344848">
+                  <hi rend="italics" xml:id="idm140015366344208">Tekstgrundlag: Originaltrykket (UB).    </hi>12 Aftes .. gik] <hi rend="italics" xml:id="idm140015366343456">indsat efter </hi>B
+<hi rend="italics" xml:id="idm140015366342768">Hul i Papiret </hi>A</note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

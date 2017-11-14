@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Under chr. v's portræt i danske lov 1683</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015369092032">
+                     <name xml:id="idm140015369091776">
+                        <surname xml:id="idm140015369091648">Kingo</surname>,
+      <forename xml:id="idm140015369091200">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015369090912">Samlede skrifter 2</title>
+                  <pubPlace xml:id="idm140015369090624">København</pubPlace>
+                  <publisher xml:id="idm140015369090192">Munksgaard</publisher>
+                  <date xml:id="idm140015369089856">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid70928" decls="#biblid70928">
+            <body xml:id="idm140015366997760">
+               <head xml:id="idm140015366997504">
+Under Christian V's Portræt i<lb xml:id="idm140015366997168"/>Danske Lov.
+</head>
+               <lg xml:id="idm140015366996752">
+                  <l xml:id="idm140015366996496">Retfærdighed og hvad der pryder Kongens Krone,</l>
+                  <l xml:id="idm140015366996000">Her boer det alt som paa sin rette Eje-Throne,</l>
+                  <l xml:id="idm140015366995552">Mood, Mandom, Ret og Skiæl, aarvaagen fliid og Ære,</l>
+                  <l xml:id="idm140015366995040">Kand alle Konger just af dette Ansigt lære.</l>
+                  <l xml:id="idm140015366994544">Døm hele Verden, at Naturen intet glemte</l>
+                  <l xml:id="idm140015366994064">Hos Dydernis Monarch Kong Christian den Femte.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015366993488">
+                  <hi rend="italics" xml:id="idm140015366992848">Tekstgrundlag: Kobberstik foran i Kong Christian Den Femtis Danske
+Lov 1683. </hi>_ <hi rend="italics" xml:id="idm140015366992096">Overskriften indsat af Udg.</hi>
+               </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

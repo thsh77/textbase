@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Parodien</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140264665681152">
+                     <name xml:id="idm140264665680896">
+                        <surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140264665680016">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140264665679728">: </title>
+                  <pubPlace xml:id="idm140264665679472">[København]</pubPlace>
+                  <publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140264665678640">1982-</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid58879" decls="#biblid58879">
+            <head xml:id="idm140264664949600">
+               <hi rend="italics" xml:id="idm140264664949344">PARODIEN</hi>
+            </head>
+            <sp xml:id="idm140264664948528">
+               <speaker xml:id="idm140264664948272">
+                  <hi rend="italics" xml:id="idm140264664948016">Pessimist</hi>
+               </speaker>
+               <lg xml:id="idm140264664947200">
+                  <l xml:id="idm140264664946944">Alt her i Verden er Parodi</l>
+                  <l xml:id="idm140264664946512">et Vrængværk af Drømmen, som drog forbi.</l>
+                  <l xml:id="idm140264664946032">Det skabende mægtige Ønske forgaar,</l>
+                  <l xml:id="idm140264664945552">men Parodien bestaar.</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140264664944880">
+               <speaker xml:id="idm140264664944624">
+                  <hi rend="italics" xml:id="idm140264664944368">Hun</hi>
+               </speaker>
+               <lg xml:id="idm140264664943584">
+                  <l xml:id="idm140264664943328">Af Jord er jeg kommen. Trods Brud og Skaar</l>
+                  <l xml:id="idm140264664942880">jeg elsker dens Kaar med Hud og Haar -</l>
+                  <l xml:id="idm140264664942448">er ingen Alf, som i Nattens Vind</l>
+                  <l xml:id="idm140264664942016">kan rede min Seng paa et Edderkopspind.</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140264664941328">
+               <speaker xml:id="idm140264664941072">
+                  <hi rend="italics" xml:id="idm140264664940816">Praktiker</hi>
+               </speaker>
+               <lg xml:id="idm140264664940000">
+                  <l xml:id="idm140264664939744">Det er ej nok med en Drømmehelt,</l>
+                  <l xml:id="idm140264664939280">nej tømre skal du og rejse dit Telt,</l>
+                  <l xml:id="idm140264664938800">og blev dine Ønsker til Ting, man ser,</l>
+                  <l xml:id="idm140264664938320">da puster du lidt - og ønsker mer.</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140264664937600">
+               <speaker xml:id="idm140264664937344">
+                  <hi rend="italics" xml:id="idm140264664937088">Poet</hi>
+               </speaker>
+               <lg xml:id="idm140264664936272">
+                  <l xml:id="idm140264664936016">Et Dyrehavstelt, en Markskrigerbod</l>
+                  <l xml:id="idm140264664935584">fornyer atter mit Drømmemod.</l>
+                  <l xml:id="idm140264664935120">Thi hvor kun det første Makværk er gjort,</l>
+                  <l xml:id="idm140264664934640">der kan man begynde at drømme stort.</l>
+               </lg>
+            </sp>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tre krigsdigte. militaristen taler:</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139850578428432">
+                     <name xml:id="idm139850578428176">
+                        <surname xml:id="idm139850578428048">Aakjær</surname>, <forename xml:id="idm139850578427616">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139850578427328"> Digte 1908-1918. - 1918</title>
+                  <pubPlace xml:id="idm139850578427024">København</pubPlace>
+                  <pubPlace xml:id="idm139850578426560">Kristiania</pubPlace>
+                  <publisher xml:id="idm139850578426096">Gyldendal</publisher>
+                  <date xml:id="idm139850578425760">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid75292" decls="#biblid75292">
+            <head xml:id="idm139850575612432">TRE KRIGSDIGTE.<lb xml:id="idm139850575612144"/>
+               <hi rend="italics" xml:id="idm139850575611888"><!--<emph>-->MILITARISTEN TALER<!--</emph--></hi>:</head>
+            <lg xml:id="idm139850575610720">
+               <l xml:id="idm139850575610464">BRÆNDE skal Verden, brænde skal alt,</l>
+               <l xml:id="idm139850575609984"> Slotte, Kaféer, Katedraler,</l>
+               <l xml:id="idm139850575609520">ej blot dit Forraad af Mel som af Malt,</l>
+               <l xml:id="idm139850575609088">hvad du har sparet af Sødt eller Salt,</l>
+               <l xml:id="idm139850575608608">men ogsaa de blaa Idealer!</l>
+               <pb n="110" xml:id="s110" facs="adl/aakjaer/aakjaer2/aakj2110"/>
+               <l xml:id="idm139850575607024">Himlen histoppe, Guds Jagtrevier,</l>
+               <l xml:id="idm139850575606592">drysse den skal som brændt Papir</l>
+               <l xml:id="idm139850575606128">ned over trampede Sletter!</l>
+               <l xml:id="idm139850575605696">Siden med Krudtrøg og Mørseres Brum</l>
+               <l xml:id="idm139850575605216">atter vi fylder det tomme Rum</l>
+               <l xml:id="idm139850575604784">og Klodens bestjærnede Nætter.</l>
+            </lg>
+            <trailer xml:id="idm139850575604192">
+               <date xml:id="idm139850575604064">6/12 1914</date>.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

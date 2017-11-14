@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Med en ligprædiken til mette sophie krabbe 1694</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid100608" decls="#biblid100608">
+            <body xml:id="idm140721237655888">
+               <head xml:id="idm140721237655632"> Med en Ligprædiken <lb xml:id="idm140721237655312"/> Til <lb xml:id="idm140721237655056"/> Dend <lb xml:id="idm140721237654800"/>Høyædle og Velbaarne
+							Frue,<lb xml:id="idm140721237654464"/> Fru Mette Sophie Krabbe, <lb xml:id="idm140721237654208"/> hbne: <hi rend="italics" xml:id="idm140721237653952">Estats-Raad Monraths.</hi>
+               </head>
+               <lg xml:id="idm140721237653200">
+                  <l xml:id="idm140721237652944">HVad kand mand andet af Liig-stuen sig forvente,</l>
+                  <l xml:id="idm140721237652496">End Døds hukommelse saa hemmelig at hente?</l>
+                  <l xml:id="idm140721237652016">Saa gak, Liig-prædiken, til <hi rend="italics" xml:id="idm140721237651680">Fruen </hi>hen, og
+								sug,</l>
+                  <l xml:id="idm140721237650928">
+                     <hi rend="italics" xml:id="idm140721237650800">Kingo </hi>sender Dig, hvis Hustro Ligger Liig.</l>
+                  <closer xml:id="idm140721237650048">
+                     <signed xml:id="idm140721237649792">
+                        <hi rend="italics" xml:id="idm140721237649536">Th. K.</hi>
+                     </signed>
+                     <lb xml:id="idm140721237648784"/>
+                     <dateline xml:id="idm140721237648528">
+                        <date xml:id="idm140721237648272"> Odense Bispegaard i hast den 6 <hi rend="italics" xml:id="idm140721237648016">Junii</hi>-1694. </date>
+                     </dateline>
+                  </closer>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721237646880">
+                  <hi rend="italics" xml:id="idm140721237646272">Tekstgrundlag: Egenhændig Original i Rostg 2°
+							</hi>152 /. <hi rend="italics" xml:id="idm140721237645520">Overskrift (Linie i) <lb xml:id="idm140721237645024"/>indsat af
+							Udg.</hi>
+               </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

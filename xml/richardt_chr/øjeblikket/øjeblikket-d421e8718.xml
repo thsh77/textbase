@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Øjeblikket.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid71144" decls="#biblid71144">
+            <head xml:id="idm139731447931904">Øjeblikket.</head>
+            <lg xml:id="idm139731447931488">
+               <l xml:id="idm139731447931232">Et Øjeblik, hvad er et Øjeblik!</l>
+               <l xml:id="idm139731447930768">Kun en flyvende Gnist! Andet ikke!</l>
+               <l xml:id="idm139731447930336">Skuffende Spil - hvad er et Liv</l>
+               <l xml:id="idm139731447929904">andet end Øjeblikke!</l>
+            </lg>
+            <lg xml:id="idm139731447929328">
+               <l xml:id="idm139731447929072">Et Øjeblik gav Dig Tilværelse,</l>
+               <l xml:id="idm139731447928608">og et andet kan isne dit Hjerte;</l>
+               <l xml:id="idm139731447928176">underlige Nu, som tænde kan</l>
+               <l xml:id="idm139731447927712">og slukke Livets Kjerte!</l>
+            </lg>
+            <lg xml:id="idm139731447927152">
+               <l xml:id="idm139731447926896">Som et gravgjemt Korn er et Øjeblik:</l>
+               <l xml:id="idm139731447926416">Det kan spire om tusinde Tider;</l>
+               <l xml:id="idm139731447925984">Øjebliks Synd kan sætte Frø,</l>
+               <l xml:id="idm139731447925552">saa hele Slægten lider.</l>
+            </lg>
+            <pb n="137" xml:id="s137" facs="adl/richardt/richardt1/rich1137"/>
+            <lg xml:id="idm139731447923728">
+               <l xml:id="idm139731447923472">Thi vogt paa det vingede Øjeblik,</l>
+               <l xml:id="idm139731447923008">der som en Falk slaar ned;</l>
+               <l xml:id="idm139731447922576">at ikke det røver din Glæde,</l>
+               <l xml:id="idm139731447922112">at ikke det flyer med din Fred!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

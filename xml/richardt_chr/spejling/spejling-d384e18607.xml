@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spejling.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid90522" decls="#biblid90522">
+            <head xml:id="idm140352319248864">Spejling.</head>
+            <lg xml:id="idm140352319248448">
+               <l xml:id="idm140352319248192">Naar Midsommersolens Straaler</l>
+               <l xml:id="idm140352319247760">til Skovens Løngange naae,</l>
+               <l xml:id="idm140352319247312">da bære de tusind Blade</l>
+               <l xml:id="idm140352319246864">tusind Solbilleder smaa.</l>
+               <l xml:id="idm140352319246432">
+                  <hi rend="italics" xml:id="idm140352319246304">Saa</hi> lyser Frelserens Billed,</l>
+               <l xml:id="idm140352319245472">i hvor det kastes ind,</l>
+               <l xml:id="idm140352319245056">i tusind fattige Hjerter,</l>
+               <l xml:id="idm140352319244624">i mangt et bedrøvet Sind.</l>
+            </lg>
+            <lg xml:id="idm140352319244048">
+               <l xml:id="idm140352319243792">Og som hint Himlens Stor-Lys,</l>
+               <l xml:id="idm140352319243360">hvor Bølgen gaar mod Kyst,</l>
+               <l xml:id="idm140352319242912">blinker med tusind Smaalys</l>
+               <l xml:id="idm140352319242480">paa Havets bævende Bryst, -</l>
+               <pb n="293" facs="adl/richardt/richardt2/rich2293" xml:id="idm140352319242016"/>
+               <l xml:id="idm140352319241200">
+                  <hi rend="italics" xml:id="idm140352319241072">saa</hi> spejles Frelserens Billed</l>
+               <l xml:id="idm140352319240240">i Sjælenes dybe Grund,</l>
+               <l xml:id="idm140352319239792">og hvor det Billed gribes,</l>
+               <l xml:id="idm140352319239360">faaer Hjertet en gylden Stund.</l>
+            </lg>
+            <lg xml:id="idm140352319238800">
+               <l xml:id="idm140352319238544">Han spejles i fulde Strømme,</l>
+               <l xml:id="idm140352319238080">og i den lave Strand;</l>
+               <l xml:id="idm140352319237664">med Mosens plumrede Vande</l>
+               <l xml:id="idm140352319237232">tager til Takke Han!</l>
+               <l xml:id="idm140352319236816">Ja, ejer Du blot en Taare</l>
+               <l xml:id="idm140352319236384">til Bod for Fald og Fejl,</l>
+               <l xml:id="idm140352319235952">den ene brændende Draabe</l>
+               <l xml:id="idm140352319235504">kan vorde Guds Naades Spejl.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

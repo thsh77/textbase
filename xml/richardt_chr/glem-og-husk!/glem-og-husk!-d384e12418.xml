@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Glem og husk!</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid78198" decls="#biblid78198">
+            <head xml:id="idm140352320753440">Glem og husk!</head>
+            <lg xml:id="idm140352320753024">
+               <l xml:id="idm140352320752768">
+                  <hi rend="italics" xml:id="idm140352320752640">Glem</hi> Døden, naar det gaar tilstorms,</l>
+               <l xml:id="idm140352320751744">hvor Ærens Fane vajer!</l>
+               <l xml:id="idm140352320751296">Glem Døden, gaar det mod et Vorms,</l>
+               <l xml:id="idm140352320750832">hvor ej der kæmpes for en Forms</l>
+               <l xml:id="idm140352320750368">men for en Sandheds Sejer!</l>
+            </lg>
+            <lg xml:id="idm140352320749808">
+               <l xml:id="idm140352320749552">Men naar i Lidenskabens Brand</l>
+               <l xml:id="idm140352320749120">Du blusser op og gløder,</l>
+               <l xml:id="idm140352320748672">og naar i Lykkens Glemmeland,</l>
+               <l xml:id="idm140352320748240">og strenge Tiders Ørkensand</l>
+               <l xml:id="idm140352320747776">Dig Fristeraanden møder;</l>
+            </lg>
+            <lg xml:id="idm140352320747200">
+               <l xml:id="idm140352320746944">Da <hi rend="italics" xml:id="idm140352320746688">husk</hi>, vi er som i en Baad</l>
+               <l xml:id="idm140352320745840">paa Verdenshavets Bølge!</l>
+               <l xml:id="idm140352320745392">At Livet hænger i en Traad, -</l>
+               <l xml:id="idm140352320744928">at Synden, som er Dødens Braad,</l>
+               <l xml:id="idm140352320744464">har Dommens Dag i Følge!</l>
+            </lg>
+            <pb n="192" facs="adl/richardt/richardt2/rich2192" xml:id="idm140352320743888"/>
+            <lg xml:id="idm140352320743120">
+               <l xml:id="idm140352320742864">Ja glem ej Døden, husk den vel,</l>
+               <l xml:id="idm140352320742400">naar Sol i Havet dukker;</l>
+               <l xml:id="idm140352320741968">naar Mørket vider sine Skjel,</l>
+               <l xml:id="idm140352320741504">og naar Du selv i sene Kveld</l>
+               <l xml:id="idm140352320741072">din Sengelampe slukker!</l>
+            </lg>
+            <lg xml:id="idm140352320740528">
+               <l xml:id="idm140352320740272">Thi Mulmet, naar det vælder ud,</l>
+               <l xml:id="idm140352320739808">og jager Aftenrøden,</l>
+               <l xml:id="idm140352320739360">det dunkle, stjernesaa'de Skrud,</l>
+               <l xml:id="idm140352320738928">det fik af alle Sjæles Gud</l>
+               <l xml:id="idm140352320738480">den Indskrift: Glem ej Døden!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Om aarsagen til roms umaadelige tilvæxt</title>
+            <author>Holberg, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140586845515760">
+                     <name xml:id="idm140586845515504">
+                        <surname xml:id="idm140586845515376">Holberg</surname>, <forename xml:id="idm140586845514912">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140586845514624">Værker i tolv bind</title>
+                  <title xml:id="idm140586845514320">8: Økonomi og historie</title>
+                  <pubPlace xml:id="idm140586845514000">[København]</pubPlace>
+                  <publisher xml:id="idm140586845513536">Rosenkilde og Bagger</publisher>
+                  <date xml:id="idm140586845513200">1969-1971</date>
+                  <biblScope>300-314</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid56352" decls="#biblid56352">
+            <body xml:id="idm140586845215040">
+               <pb n="301" facs="adl/holberg/holberg8/holb8301" xml:id="idm140586845214784"/>
+               <pb n="302" facs="adl/holberg/holberg8/holb8302" xml:id="idm140586845214016"/>
+               <pb n="303" facs="adl/holberg/holberg8/holb8303" xml:id="idm140586845213248"/>
+               <pb n="304" facs="adl/holberg/holberg8/holb8304" xml:id="idm140586845212480"/>
+               <pb n="305" facs="adl/holberg/holberg8/holb8305" xml:id="idm140586845211664"/>
+               <pb n="306" facs="adl/holberg/holberg8/holb8306" xml:id="idm140586845210896"/>
+               <pb n="307" facs="adl/holberg/holberg8/holb8307" xml:id="idm140586845210080"/>
+               <pb n="308" facs="adl/holberg/holberg8/holb8308" xml:id="idm140586845209312"/>
+               <pb n="309" facs="adl/holberg/holberg8/holb8309" xml:id="idm140586845208496"/>
+               <pb n="310" facs="adl/holberg/holberg8/holb8310" xml:id="idm140586845207728"/>
+               <pb n="311" facs="adl/holberg/holberg8/holb8311" xml:id="idm140586845206960"/>
+               <pb n="312" facs="adl/holberg/holberg8/holb8312" xml:id="idm140586845206192"/>
+               <pb n="313" facs="adl/holberg/holberg8/holb8313" xml:id="idm140586845205424"/>
+               <pb n="314" facs="adl/holberg/holberg8/holb8314" xml:id="idm140586845204656"/>
+               <p xml:id="idm140586845203840"/>
+            </body>
+            <back xml:id="idm140586845203456">
+               <pb n="315" facs="adl/holberg/holberg8/holb8315" xml:id="idm140586845203200"/>
+               <pb n="316" facs="adl/holberg/holberg8/holb8316" xml:id="idm140586845202432"/>
+               <pb n="317" facs="adl/holberg/holberg8/holb8317" xml:id="idm140586845201664"/>
+               <pb n="318" facs="adl/holberg/holberg8/holb8318" xml:id="idm140586845200848"/>
+            </back>
+         </text>
+      </body>
+   </text>
+</TEI>

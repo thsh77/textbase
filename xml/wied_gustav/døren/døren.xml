@@ -1,0 +1,966 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Døren</title>
+            <author>Wied, Gustav</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140179871969024">
+                     <name xml:id="idm140179871968768">
+                        <surname xml:id="idm140179871968640">Wied</surname>,
+                <forename xml:id="idm140179871968176">Gustav</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140179871967888">Ranke Viljer. Dele af Circus Mundi. Af den gamle Vinhandlers
+            Optegnelser. 1968</title>
+                  <pubPlace xml:id="idm140179871967536">København</pubPlace>
+                  <publisher xml:id="idm140179871967104">Rosenkilde og Bagger</publisher>
+                  <date xml:id="idm140179871966816">1966-</date>
+                  <biblScope>102-110</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid81494" decls="#biblid81494">
+            <front xml:id="idm140179868665648">
+               <titlePage xml:id="idm140179868665392">
+                  <docTitle xml:id="idm140179868665136">
+                     <titlePart type="main" xml:id="idm140179868664880">DØREN<lb xml:id="idm140179868664320"/>(1901)</titlePart>
+                  </docTitle>
+               </titlePage>
+               <pb n="102" xml:id="s102" facs="adl/wied/wied12/wied12102"/>
+            </front>
+            <body xml:id="idm140179868662384">
+               <pb n="103" xml:id="s103" facs="adl/wied/wied12/wied12103"/>
+               <div type="castList" xml:id="idm140179868660832">
+                  <head xml:id="idm140179868660304">DØREN</head>
+                  <list type="simple" xml:id="idm140179868659888">
+                     <head xml:id="idm140179868659360">AGERENDE</head>
+                     <item xml:id="idm140179868658944">
+                        <hi rend="italics" xml:id="idm140179868658816">Lars</hi>.</item>
+                     <item xml:id="idm140179868658000">
+                        <hi rend="italics" xml:id="idm140179868657872">Mariane</hi>.</item>
+                     <item xml:id="idm140179868657056">
+                        <hi rend="italics" xml:id="idm140179868656928">Nikolaj</hi>, deres Børn.</item>
+                     <item xml:id="idm140179868656064">
+                        <hi rend="italics" xml:id="idm140179868655936">Henrik</hi>,deres Børn.</item>
+                     <item xml:id="idm140179868655072">
+                        <hi rend="italics" xml:id="idm140179868654944">Karoline</hi>, deres Børn.</item>
+                     <item xml:id="idm140179868654080">
+                        <hi rend="italics" xml:id="idm140179868653952">Lille
+                  Mariane</hi>, deres Børn.</item>
+                     <item xml:id="idm140179868653088">
+                        <hi rend="italics" xml:id="idm140179868652832">Smeden.</hi>
+                     </item>
+                     <item xml:id="idm140179868652016">
+                        <hi rend="italics" xml:id="idm140179868651760">Smedekonen.</hi>
+                     </item>
+                     <item xml:id="idm140179868650944">
+                        <hi rend="italics" xml:id="idm140179868650688">Mejeristen.</hi>
+                     </item>
+                     <item xml:id="idm140179868649872">
+                        <hi rend="italics" xml:id="idm140179868649616">Forkarlen.</hi>
+                     </item>
+                     <item xml:id="idm140179868648800">
+                        <hi rend="italics" xml:id="idm140179868648544">Marie Vævers.</hi>
+                     </item>
+                     <item xml:id="idm140179868647712">
+                        <hi rend="italics" xml:id="idm140179868647456">Stine Hvedebrød.</hi>
+                     </item>
+                     <item xml:id="idm140179868646624">
+                        <hi rend="italics" xml:id="idm140179868646368">Marius Træskomand.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="scene" n="1" xml:id="idm140179868645280">
+                  <head xml:id="idm140179868644512">FØRSTE AFDELING</head>
+                  <stage type="mix" xml:id="idm140179868644080">
+                     <p xml:id="idm140179868643584">Tidlig Sommermorgen. - Søndag.</p>
+                  </stage>
+                  <stage type="mix" xml:id="idm140179868642992">
+                     <p xml:id="idm140179868642496">I den store "Tospænder"-Seng ligger Lars Konradsen med
+                Kone, Mariane Hendriksdatter, og slumrer.</p>
+                  </stage>
+                  <stage type="mix" xml:id="idm140179868641776">
+                     <p xml:id="idm140179868641280">Foran Sengen ude paa Gulvet en rødmalet Trævugge, hvori
+                Lille-Mariane (5 Mdr.).</p>
+                  </stage>
+                  <stage type="mix" xml:id="idm140179868640592">
+                     <p xml:id="idm140179868640096">Under Vinduerne en ligeledes rødmalet "Slagbænk" med
+                Nikolaj (4 Aar), Henrik (3 Aar) og Karoline (2 Aar).</p>
+                  </stage>
+                  <stage type="mix" xml:id="idm140179868639360">
+                     <p xml:id="idm140179868638864">De sover alle til den store Guldmedalje. -</p>
+                  </stage>
+                  <stage type="mix" xml:id="idm140179868638288">
+                     <p xml:id="idm140179868637792">Solen begynder at titte frem mellem Genbohusene paa den
+                anden Side af Landevejen: og Blomsterpotterne i Vindueskarmene tegner sig som mørke
+                Silhuetter bag de grønstribede Forhæng. -</p>
+                  </stage>
+                  <stage type="mix" xml:id="idm140179868636896">
+                     <p xml:id="idm140179868636400">En Bræddevogn larmer forbi ude paa Vejen, og en Hund
+                gør rasende.</p>
+                  </stage>
+                  <sp xml:id="idm140179868635744">
+                     <speaker xml:id="idm140179868635488">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868635072">(rejser sig med et pludseligt Ryk over
+                Ende i Sengen; stirrer forvildet hen mod de sollyse Ruder og tumler søvndrukken
+                tværs over Konen og ud paa Gulvet).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868633984">
+                     <speaker xml:id="idm140179868633728">MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868633312">(gnikker Øjnene).</stage>
+                     <p xml:id="idm140179868632640">Men Lars dow ... Hvor skal Du hen, Lars ... Det er jo
+                Søndag!</p>
+                  </sp>
+                  <sp xml:id="idm140179868631984">
+                     <speaker xml:id="idm140179868631728">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868631312">(der skynder sig i Klæderne).</stage>
+                     <p xml:id="idm140179868630608">Det er <hi rend="italics" xml:id="idm140179868630320">Døren</hi>, Mariane! - Jeg skal jo hente <hi rend="italics" xml:id="idm140179868629584">Døren!</hi>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868628640">
+                     <speaker xml:id="idm140179868628384">MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868627968">(lysvaagen; smiler glad).</stage>
+                     <p xml:id="idm140179868627296">Ja, <hi rend="italics" xml:id="idm140179868627008">Døren!</hi> Ja, det er jo sandt! Men ska' jeg ikke lave Dig en Taar Kaffe
+                først?</p>
+                  </sp>
+                  <sp xml:id="idm140179868625904">
+                     <speaker xml:id="idm140179868625648">LARS.</speaker>
+                     <p xml:id="idm140179868625232">Næi - den ta'er jeg, naar jeg kommer igen! - Farvel Saa
+                længe! <stage type="mix" xml:id="idm140179868624832">(Tænder Piben og
+                  forsvinder.)</stage>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868623872">
+                     <speaker xml:id="idm140179868623616">MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868623200">(sidder et Øjeblik tankefuld og
+                missende. Hun burde maaske staa op med det samme, nu hun er vaagen. - Men det var jo
+                ogsaa yndigt at "slibe" en lille halv Time endnu ... særlig da hun har hele Sengen
+                for sig <pb n="104" xml:id="s104" facs="adl/wied/wied12/wied12104"/> selv! - Hun
+                titter hen til Børnene i Slagbænken og ned til Lille-Mariane i Vuggen: De sover, som
+                de var i Paradis! - Saa lader hun sig dumpe om i Dynerne, breder Krop og Lemmer
+                rigtig bekvemt ud og daaner hen. -</stage>
+                  </sp>
+                  <stage type="mix" xml:id="idm140179868620368">Pause</stage>
+                  <stage type="mix" xml:id="idm140179868619712">
+                     <p xml:id="idm140179868619216">med stille Snorken og Blæsen. Saa rejser</p>
+                  </stage>
+                  <sp xml:id="idm140179868618608">
+                     <speaker xml:id="idm140179868618352">NIKOLAJ</speaker>
+                     <stage type="mix" xml:id="idm140179868617936">(der har hele den ene Ende af Slagbænken
+                for sig selv, sig op paa Albuen og gnikker Øjnene).</stage>
+                     <p xml:id="idm140179868617104">Mutter ... Mutter ... Mutter !</p>
+                  </sp>
+                  <sp xml:id="idm140179868616544">
+                     <speaker xml:id="idm140179868616288">MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868615872">(i Halv-Søvne).</stage>
+                     <p xml:id="idm140179868615200">Ja, hva' <hi rend="italics" xml:id="idm140179868614912">skader</hi> Dig, Dreng?</p>
+                  </sp>
+                  <sp xml:id="idm140179868613936">
+                     <speaker xml:id="idm140179868613680">NIKOLAJ.</speaker>
+                     <p xml:id="idm140179868613264">Er Fatter kørt efter Døren?</p>
+                  </sp>
+                  <sp xml:id="idm140179868612672">
+                     <speaker xml:id="idm140179868612416">MARIANE.</speaker>
+                     <p xml:id="idm140179868612000">Ja-a, han er! - Sov Du kun! Men saa vaagner</p>
+                  </sp>
+                  <sp xml:id="idm140179868611424">
+                     <speaker xml:id="idm140179868611168">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140179868610752">(der, ligesom han slaar Øjnene op, bare
+                siger det ene Ord):</stage>
+                     <p xml:id="idm140179868609984">Kaffe!</p>
+                  </sp>
+                  <sp xml:id="idm140179868609440">
+                     <speaker xml:id="idm140179868609184">MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868608768">(staar med et Spring midt ude paa
+                Gulvet).</stage>
+                     <p xml:id="idm140179868608080">Ih, Guforbarmese, ja det har Du da nok Ret i, Dreng! Og
+                her ligger jeg og snuer endnu! (Hiver en Klokke om sig og farer ud i Køkkenet.)</p>
+                  </sp>
+                  <sp xml:id="idm140179868607280">
+                     <speaker xml:id="idm140179868607024">NIKOLAJ</speaker>
+                     <stage type="mix" xml:id="idm140179868606608">(stirrer stift hen paa
+                Broderen).</stage>
+                     <p xml:id="idm140179868605936">Fatter er kørt efter den nye Dør!</p>
+                  </sp>
+                  <sp xml:id="idm140179868605344">
+                     <speaker xml:id="idm140179868605088">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140179868604672">(ælter med begge Hænder rundt i sine
+                Øjne).</stage>
+                     <p xml:id="idm140179868603936">Naa ... (Kigger derpaa ned mod Søsteren, der ligger
+                sprutrød og snorkende ved Siden af ham.) Taroline sover!</p>
+                  </sp>
+                  <sp xml:id="idm140179868603184">
+                     <speaker xml:id="idm140179868602928">NIKOLAJ.</speaker>
+                     <p xml:id="idm140179868602512">Spark til hende!</p>
+                  </sp>
+                  <sp xml:id="idm140179868601968">
+                     <speaker xml:id="idm140179868601712">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140179868601296">(borer øjeblikkelig meget energisk sine
+                smaa tykke Tæer ind i Karolines Kød).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868600368">
+                     <speaker xml:id="idm140179868600112">KAROLINE</speaker>
+                     <stage type="mix" xml:id="idm140179868599696">(kravler fortumlet over Ende. - Haaret
+                staar om hende som en Kragerede. - Naar hun har sundet sig lidt, langer hun Henrik
+                en knyttet Næve lige midt i Ansigtet og siger):</stage>
+                     <p xml:id="idm140179868598720">a 'være, din Pejs !</p>
+                  </sp>
+                  <sp xml:id="idm140179868598144">
+                     <speaker xml:id="idm140179868597888">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140179868597472">(hyler og slaar løs paa hende).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868596640">
+                     <speaker xml:id="idm140179868596384">NIKOLAJ</speaker>
+                     <stage type="mix" xml:id="idm140179868595968">(melder hen mod Køkkendøren).</stage>
+                     <p xml:id="idm140179868595264">Mutter, di smaa slaas !</p>
+                  </sp>
+                  <sp xml:id="idm140179868594720">
+                     <speaker xml:id="idm140179868594464">MARIANE (fra Køkkenet). Vil I se, I</speaker>
+                     <p xml:id="idm140179868593984">
+                        <hi rend="italics" xml:id="idm140179868593856">dyer</hi> Jer! <stage type="mix" xml:id="idm140179868593136">(Nu
+                  vaagner.)</stage>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868592352">
+                     <speaker xml:id="idm140179868592096">LILLE-MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868591680">(i Vuggen og sætter i med et
+                hvinende)</stage>
+                     <p xml:id="idm140179868590960">U-væ- æ-æ ...!</p>
+                  </sp>
+                  <sp xml:id="idm140179868590400">
+                     <speaker xml:id="idm140179868590144">KAROLINE</speaker>
+                     <stage type="mix" xml:id="idm140179868589728">(snøftende).</stage>
+                     <p xml:id="idm140179868589056">Nu ... straaler ... Lille-Majane ... osse ...</p>
+                  </sp>
+                  <sp xml:id="idm140179868588480">
+                     <speaker xml:id="idm140179868588224">STORE-MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868587808">(fra Køkkenet).</stage>
+                     <p xml:id="idm140179868587136">Vug hende, Nikolaj!</p>
+                  </sp>
+                  <sp xml:id="idm140179868586592">
+                     <speaker xml:id="idm140179868586336">NIKOLAJ</speaker>
+                     <stage type="mix" xml:id="idm140179868585920">(kravler ud af Slagbænken og giver sig
+                til at vugge).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868585040">
+                     <speaker xml:id="idm140179868584784">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140179868584368">(til Søsteren).</stage>
+                     <p xml:id="idm140179868583696">Fatter er tørt efter den nye Dør!</p>
+                  </sp>
+                  <sp xml:id="idm140179868583104">
+                     <speaker xml:id="idm140179868582848">KAROLINE</speaker>
+                     <stage type="mix" xml:id="idm140179868582432">(energisk).</stage>
+                     <p xml:id="idm140179868581776">Nej !</p>
+                  </sp>
+                  <sp xml:id="idm140179868581232">
+                     <speaker xml:id="idm140179868580976">HENRIK.</speaker>
+                     <p xml:id="idm140179868580560">Jo!</p>
+                  </sp>
+                  <sp xml:id="idm140179868580048">
+                     <speaker xml:id="idm140179868579792">KAROLINE.</speaker>
+                     <p xml:id="idm140179868579376">Nej-i-i! <stage type="mix" xml:id="idm140179868579088">(Haandgemæng.)</stage>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868578160">
+                     <speaker xml:id="idm140179868577904">NIKOLAJ</speaker>
+                     <stage type="mix" xml:id="idm140179868577488">(lakonisk mod Køkkendøren).</stage>
+                     <p xml:id="idm140179868576784">Mutter, nu slaas di smaa igen!</p>
+                  </sp>
+                  <pb n="105" xml:id="s105" facs="adl/wied/wied12/wied12105"/>
+                  <sp xml:id="idm140179868575088">
+                     <speaker xml:id="idm140179868574832">STORE-MARIANE </speaker>
+                     <stage type="mix" xml:id="idm140179868574416">(hurtig ind fra Køkkenet).</stage>
+                     <p xml:id="idm140179868573728">Ka' I forli'es! <stage type="mix" xml:id="idm140179868573440">(Griber med et kraftigt Tag Karoline i Skuldrene og
+                  sætter hende hen i Nikolajs Ende af Slagbænken).</stage> Nu bli'er Du <hi rend="italics" xml:id="idm140179868572560">der!</hi>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868571616">
+                     <speaker xml:id="idm140179868571360">KAROLINE</speaker>
+                     <stage type="mix" xml:id="idm140179868570944">(stikker i Hyl og roder sig i sin
+                Fortvivlelse hele Kragereden ned i Øjnene. Samtidig stemmer)</stage>
+                  </sp>
+                  <sp xml:id="idm140179868569984">
+                     <speaker xml:id="idm140179868569728">LILLE-MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868569312">(Tonen betydeligt op, skønt)</stage>
+                  </sp>
+                  <sp xml:id="idm140179868568480">
+                     <speaker xml:id="idm140179868568224">NIKOLAJ</speaker>
+                     <stage type="mix" xml:id="idm140179868567808">(vugger hende, saa at hun skvulper rundt
+                i Dynerne som en Pølse i Kattegattet).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868566880">
+                     <speaker xml:id="idm140179868566624">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140179868566208">(filosofisk).</stage>
+                     <p xml:id="idm140179868565552">Lille-Majane ta' straale højere end Taroline!</p>
+                  </sp>
+                  <sp xml:id="idm140179868564928">
+                     <speaker xml:id="idm140179868564672">KAROLINE</speaker>
+                     <stage type="mix" xml:id="idm140179868564256">(dybt forurettet).</stage>
+                     <p xml:id="idm140179868563600">I-nej-i-i!</p>
+                  </sp>
+                  <sp xml:id="idm140179868563056">
+                     <speaker xml:id="idm140179868562800">LILLE-MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868562384">(er nu blaa af Skrig).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868561600">
+                     <speaker xml:id="idm140179868561344">STORE-MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868560928">(haler hende op af Vuggen).</stage>
+                     <p xml:id="idm140179868560256">Men <hi rend="italics" xml:id="idm140179868559968">Tøs</hi> dow ! Er Du da rent fra Snøvsen ! (Trækker sin Særk ned og lægger Barnet
+                til Brystet). <hi rend="italics" xml:id="idm140179868559072">Æd</hi> saa, din
+                Igle!</p>
+                  </sp>
+                  <sp xml:id="idm140179868558096">
+                     <speaker xml:id="idm140179868557840">LILLE-MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868557424">(borer Munden til).</stage>
+                     <p xml:id="idm140179868556768">Mum-mum-mum ...</p>
+                  </sp>
+                  <sp xml:id="idm140179868556224">
+                     <speaker xml:id="idm140179868555968">NIKOLAJ</speaker>
+                     <stage type="mix" xml:id="idm140179868555552">(er gaaet hen til Forstuedøren og staar
+                nu og tripper og vrikker paa Laasen).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868554624">
+                     <speaker xml:id="idm140179868554368">STORE-MARIANE. </speaker>
+                     <p xml:id="idm140179868553952"> Nu skal jeg! <stage type="mix" xml:id="idm140179868553664">(Gaar med Iglen paa sig hen og aabner).</stage>Skrub
+                ud I andre med det samme!</p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140179868552688">
+                     <p xml:id="idm140179868552192">HENRIK og KAROLINE (kravler hurtig ned af Slagbænken og
+                hjuler sammen med Nikolaj ud gennem Forstuen og om bag Husets Gavl. - Alle er de i
+                stumpede Skjorter og paa bare Fødder. - Og alle hjuler de af i samme Ærinde).</p>
+                  </stage>
+                  <stage type="mix" xml:id="idm140179868551232">Tæppe.</stage>
+               </div>
+               <div type="scene" n="2" xml:id="idm140179868550448">
+                  <head xml:id="idm140179868549680">ANDEN AFDELING</head>
+                  <stage type="mix" xml:id="idm140179868549264">Uden for Huset.</stage>
+                  <sp xml:id="idm140179868548608">
+                     <speaker xml:id="idm140179868548352">STORE-MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868547936">(kommer farende ud af Døren. Hun har
+                gennem Vinduet set Børnene løbe alt, hvad Remmer og Tøj kan holde ned ad
+                Landevejen).</stage>
+                     <p xml:id="idm140179868547040"> Herrejøsses render di ikke der alle tre midt ude paa
+                Vejen, som Vorherre har gjort dem! <stage type="mix" xml:id="idm140179868546592">(Raaber.)</stage> Henrik, Nikolaj og Karoline, hvor ska' I ... <stage type="mix" xml:id="idm140179868545872">(Opdager Lars, der kommer noget borte med Døren paa en
+                  Trillevogn. - Da Børnene naar ham, standser han og sætter dem alle tre op paa
+                  Vognen.)</stage>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868544688">
+                     <speaker xml:id="idm140179868544432">NIKOLAJ</speaker>
+                     <stage type="mix" xml:id="idm140179868544016">(opdager Moderen. - Klapper i Hænderne
+                og sparker ud med Benene).</stage>
+                     <p xml:id="idm140179868543248">Mutter, Mutter, her er Fatter med Døren!</p>
+                  </sp>
+                  <sp xml:id="idm140179868542640">
+                     <speaker xml:id="idm140179868542384">STORE-MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868541968">(gaar Toget imøde. - Da hun ser Døren,
+                der er hvidlakeret med forgyldte Lister og Hornhaandgreb, slaar hun Hænderne sammen,
+                betaget af dens Skønhed).</stage>
+                     <p xml:id="idm140179868541024">Nej, men Lars dow !</p>
+                  </sp>
+                  <sp xml:id="idm140179868540480">
+                     <speaker xml:id="idm140179868540224">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868539808">(nikker fornøjet).</stage>
+                     <p xml:id="idm140179868539136">Ja, hva', Mutter! - Det er <hi rend="italics" xml:id="idm140179868538832">Kram</hi>, hva'? <stage type="mix" xml:id="idm140179868538112">(Slaar en Næve ned i Pragtstykket.)</stage>
+                        <hi rend="italics" xml:id="idm140179868537392">Dukketøj!</hi>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868536448">
+                     <speaker xml:id="idm140179868536192">STORE-MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868535776">(føler paa Døren).</stage>
+                     <p xml:id="idm140179868535088">Og saa <hi rend="italics" xml:id="idm140179868534800">glat</hi> den er!</p>
+                  </sp>
+                  <pb n="106" xml:id="s106" facs="adl/wied/wied12/wied12106"/>
+                  <sp xml:id="idm140179868532576">
+                     <speaker xml:id="idm140179868532320">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868531904">(lader Haandgrebet smække).</stage>
+                     <p xml:id="idm140179868531200">Og hør <hi rend="italics" xml:id="idm140179868530912">Laasen!</hi> Den ligefrem <hi rend="italics" xml:id="idm140179868530192">synger!</hi> - Ska' vi sætte den i straks?</p>
+                  </sp>
+                  <sp xml:id="idm140179868529168">
+                     <speaker xml:id="idm140179868528912">STORE-MARIANE.</speaker>
+                     <p xml:id="idm140179868528496">Næi, kom nu først ind og faa den Taar Kaffe ! -- Kom
+                Unger ! <stage type="mix" xml:id="idm140179868528096">(Men Ungerne erklærer, at de
+                  er ikke sultne. De vil blive udenfor og passe paa Døren.)</stage>
+                     </p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140179868527024">
+                     <p xml:id="idm140179868526528">LARS og MARIANE (gaar ind i Huset. Der bliver Røre i
+                alle Naboog Genbohusene. - Først stikker).</p>
+                  </stage>
+                  <sp xml:id="idm140179868525808">
+                     <speaker xml:id="idm140179868525552">SMEDEN</speaker>
+                     <stage type="mix" xml:id="idm140179868525136">(Hovedet ud af Vinduet ligeoverfor paa
+                den anden Side af Vejen og raaber):</stage>
+                     <p xml:id="idm140179868524416">Er 'et <hi rend="italics" xml:id="idm140179868524128">Døren ?</hi>
+                        <stage type="mix" xml:id="idm140179868523440">(Da ingen svarer, forsvinder han fra
+                  Vinduet og kommer lidt efter ud af sit Hus og skraaer tværs over Landevejen med
+                  lang Søndagspibe paa.)</stage> Ja, det er Fandengaleme Dør ! <stage type="mix" xml:id="idm140179868522432">(siger han og standser op ved Vognen. Saa
+                  kommer)</stage>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868521488">
+                     <speaker xml:id="idm140179868521232">MEJERISTEN</speaker>
+                     <stage type="mix" xml:id="idm140179868520816">(halsende fra Fællesmejeriet. - Han er i
+                grønne broderede Morgensko).</stage>
+                     <p xml:id="idm140179868520032">
+                        <hi rend="italics" xml:id="idm140179868519776">Naabel!</hi>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868518832">
+                     <speaker xml:id="idm140179868518576">SMEDEN.</speaker>
+                     <p xml:id="idm140179868518160">Ja, hva'!</p>
+                  </sp>
+                  <sp xml:id="idm140179868517616">
+                     <speaker xml:id="idm140179868517360">MEJERISTEN.</speaker>
+                     <p xml:id="idm140179868516944">
+                        <hi rend="italics" xml:id="idm140179868516816">Naabel!</hi> Saa kommer den fede</p>
+                  </sp>
+                  <sp xml:id="idm140179868515840">
+                     <speaker xml:id="idm140179868515584">SMEDEKONE</speaker>
+                     <stage type="mix" xml:id="idm140179868515168">(der altid er bedrøvet, fordi hun ingen
+                Børn faar. - Hun ser bebrejdende paa sin Mand og siger):</stage>
+                     <p xml:id="idm140179868514336">Aa, Herregu', Jens, saadan en Dør ku' Du da osse gerne
+                faa fat i!</p>
+                  </sp>
+                  <sp xml:id="idm140179868513680">
+                     <speaker xml:id="idm140179868513424">SMEDEN.</speaker>
+                     <p xml:id="idm140179868513008">Tror Du, det ku' hjælpe, Mor? <stage type="mix" xml:id="idm140179868512672">(Saa kommer Jeppe Henriksens langbenede)</stage>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868511728">
+                     <speaker xml:id="idm140179868511472">FORKARL</speaker>
+                     <stage type="mix" xml:id="idm140179868511056">(han har Harmonika med, thi han er al
+                Tid ulykkelig forelsket. - Han tager et Par dystre Toner oppe i Bassen og
+                sukker):</stage>
+                     <p xml:id="idm140179868510288">Det er en hel <hi rend="italics" xml:id="idm140179868510000">Brudedør!</hi>
+                        <stage type="mix" xml:id="idm140179868509312">(Og den skæve, ondskabsfulde Marie
+                  Vævers kommer løbende. Og Stine Hvedebrødskone og Lars Træskomand.)</stage>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868508208">
+                     <speaker xml:id="idm140179868507952">LARS og MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868507536">(er færdig med Kaffen og kommer ud
+                igen).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868506688">
+                     <speaker xml:id="idm140179868506432">BØRNENE</speaker>
+                     <stage type="mix" xml:id="idm140179868506016">(stimler sammen om dem).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868505216">
+                     <speaker xml:id="idm140179868504960">MARIE VÆVERS</speaker>
+                     <stage type="mix" xml:id="idm140179868504528">(der altid skal blande sig op i andres
+                Sager, peger paa Ungerne og siger):</stage>
+                     <p xml:id="idm140179868503808">Ska' di'nne klæ'es paa i Daw, det er Søndaw ?</p>
+                  </sp>
+                  <sp xml:id="idm140179868503184">
+                     <speaker xml:id="idm140179868502928">MARIANE.</speaker>
+                     <p xml:id="idm140179868502512">Hva' rager det Dig! Du ka' vel ellers passe Dig sæl,
+                ka' Du! Og</p>
+                  </sp>
+                  <sp xml:id="idm140179868501856">
+                     <speaker xml:id="idm140179868501600">KAROLINE</speaker>
+                     <stage type="mix" xml:id="idm140179868501184">(gaar pludselig hen og stikker sin Næse
+                lige op i Ansigtet paa Væverkonen).</stage>
+                     <p xml:id="idm140179868500384">Du ta' vel passe Dig sæl, dit Stidt!</p>
+                  </sp>
+                  <sp xml:id="idm140179868499776">
+                     <speaker xml:id="idm140179868499520">NIKOLAJ og HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140179868499104">(i Kor).</stage>
+                     <p xml:id="idm140179868498448">Du ka' vel passe Dig sæl, dit Skidt!</p>
+                  </sp>
+                  <sp xml:id="idm140179868497840">
+                     <speaker xml:id="idm140179868497584">MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868497168">(strengt).</stage>
+                     <p xml:id="idm140179868496512">Naa, Unger!</p>
+                  </sp>
+                  <sp xml:id="idm140179868495968">
+                     <speaker xml:id="idm140179868495712">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868495296">(hvem Smeden hjælper med at hugge den
+                gamle Dør ud af Karmhullet, driver af al Kraft til med Buløksen).</stage>
+                     <p xml:id="idm140179868494448">Det raadne Møj !</p>
+                  </sp>
+                  <sp xml:id="idm140179868493888">
+                     <speaker xml:id="idm140179868493632">HVEDEBRØDS-STINE</speaker>
+                     <stage type="mix" xml:id="idm140179868493200">(samler omhyggelig Træstumperne op og
+                putter dem i sit Forklæde).</stage>
+                     <p xml:id="idm140179868492432">Dem faar jæ vel ta'?</p>
+                  </sp>
+                  <pb n="107" xml:id="s107" facs="adl/wied/wied12/wied12107"/>
+                  <sp xml:id="idm140179868490672">
+                     <speaker xml:id="idm140179868490416">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868490000">(flot).</stage>
+                     <p xml:id="idm140179868489344">Væ'sgod!</p>
+                  </sp>
+                  <sp xml:id="idm140179868488800">
+                     <speaker xml:id="idm140179868488544">FORKARLEN</speaker>
+                     <stage type="mix" xml:id="idm140179868488128">(sidder paa Grøftekanten og trækker
+                elegisk paa Harmonikaen).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868487232">
+                     <speaker xml:id="idm140179868486976">MEJERISTEN</speaker>
+                     <stage type="mix" xml:id="idm140179868486560">(tænder en Tre-Øres Cigar).</stage>
+                     <p xml:id="idm140179868485856">Det er rigtig, Jørgen! La' vos faa en Overtyre!</p>
+                  </sp>
+                  <sp xml:id="idm140179868485232">
+                     <speaker xml:id="idm140179868484976">FORKARLEN</speaker>
+                     <stage type="mix" xml:id="idm140179868484560">(intonerer: To Drosler sad paa Bøgekvist
+                ... Pludselig bryder det ud af)</stage>
+                  </sp>
+                  <sp xml:id="idm140179868483648">
+                     <speaker xml:id="idm140179868483392">TRÆSKO-LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868482960">(som hidtil har forholdt sig
+                tavs):</stage>
+                     <p xml:id="idm140179868482288">Satans osse, a' ma'nne <hi rend="italics" xml:id="idm140179868482000">sæl</hi> var paa den A'ksjon i Torsdaw!</p>
+                  </sp>
+                  <sp xml:id="idm140179868481008">
+                     <speaker xml:id="idm140179868480752">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868480336">(klukker fornøjet. Det var nemlig paa
+                den Auktion, at han erhvervede Døren for ni Kroner med Kredit til
+                Mikkelsdag).</stage>
+                     <p xml:id="idm140179868479456">Du ka' bidde Dig i Næsen, ka' Du!</p>
+                  </sp>
+                  <sp xml:id="idm140179868478864">
+                     <speaker xml:id="idm140179868478608">VÆVER-MARIE</speaker>
+                     <stage type="mix" xml:id="idm140179868478176">(hvis Høge-Øjne har opdaget et Par
+                Steder paa Døren, hvor Malingen er skrabet af).</stage>
+                     <p xml:id="idm140179868477360">Der er da nu li'godt Huller i'en!</p>
+                  </sp>
+                  <sp xml:id="idm140179868476800">
+                     <speaker xml:id="idm140179868476544">SMEDEN</speaker>
+                     <stage type="mix" xml:id="idm140179868476128">(rolig).</stage>
+                     <p xml:id="idm140179868475472">Skjøt Du dine egne Huller, Kesten Springgaas!</p>
+                  </sp>
+                  <sp xml:id="idm140179868474848">
+                     <speaker xml:id="idm140179868474592">VÆVER-MARIE.</speaker>
+                     <p xml:id="idm140179868474160">Lars sku' sgu heller ha' købt no'en Klæ'er til
+                Ungerne!</p>
+                  </sp>
+                  <sp xml:id="idm140179868473520">
+                     <speaker xml:id="idm140179868473264">MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868472848">(river hurtig en Kæp ud af Gærdet og vil
+                gaa løs paa Marie).</stage>
+                     <p xml:id="idm140179868472080">Din Ædderkasse!</p>
+                  </sp>
+                  <sp xml:id="idm140179868471520">
+                     <speaker xml:id="idm140179868471264">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868470848">(beroligende).</stage>
+                     <p xml:id="idm140179868470192">Naanaa, Mutter! La' hinde bare tømme sig! Hva' vil Du
+                bry'e Dig om <hi rend="italics" xml:id="idm140179868469776">det! -</hi> Ta' heller
+                et Taw med her!</p>
+                  </sp>
+                  <sp xml:id="idm140179868468784">
+                     <speaker xml:id="idm140179868468528">MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868468112">(lader trevent Kæppen falde og gaar hen
+                og hjælper Lars og Smeden med at sætte den nye Dør ind i Karmhullet).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868467120">
+                     <speaker xml:id="idm140179868466864">HENRIK</speaker>
+                     <stage type="mix" xml:id="idm140179868466448">(peger paa en af Hængslerne).</stage>
+                     <p xml:id="idm140179868465744">Det er Duld !</p>
+                  </sp>
+                  <sp xml:id="idm140179868465200">
+                     <speaker xml:id="idm140179868464944">KAROLINE</speaker>
+                     <stage type="mix" xml:id="idm140179868464528">(bestemt).</stage>
+                     <p xml:id="idm140179868463872">Nej, det er Søl'!</p>
+                  </sp>
+                  <sp xml:id="idm140179868463312">
+                     <speaker xml:id="idm140179868463056">HENRIK.</speaker>
+                     <p xml:id="idm140179868462640">Nej, stu' er det Duld!</p>
+                  </sp>
+                  <sp xml:id="idm140179868462096">
+                     <speaker xml:id="idm140179868461840">KAROLINE</speaker>
+                     <stage type="mix" xml:id="idm140179868461424">(farer ham i Haaret).</stage>
+                     <p xml:id="idm140179868460768">Nej-i-i, det er Søl'!</p>
+                  </sp>
+                  <sp xml:id="idm140179868460192">
+                     <speaker xml:id="idm140179868459936">NIKOLAJ</speaker>
+                     <stage type="mix" xml:id="idm140179868459520">(melder pligtskyldigst).</stage>
+                     <p xml:id="idm140179868458848">Mutter, di smaa slaas!</p>
+                  </sp>
+                  <sp xml:id="idm140179868458304">
+                     <speaker xml:id="idm140179868458048">SMEDEN, LARS og MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868457632">(bakser med Døren og hører ikke
+                Drengen).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868456784">
+                     <speaker xml:id="idm140179868456528">TRÆSKO-LARS og STINE HVEDEBRØD</speaker>
+                     <stage type="mix" xml:id="idm140179868456064">(staar med foldede Hænder, spændt paa,
+                hvordan Døren vil tage sig ud, naar den kommer paa Plads).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868455088">
+                     <speaker xml:id="idm140179868454832">SMEDEKONEN og FORKARLEN</speaker>
+                     <stage type="mix" xml:id="idm140179868454416">(sidder Side om Side paa
+                Grøftekanten.</stage>
+                  </sp>
+                  <sp xml:id="idm140179868453568">
+                     <speaker xml:id="idm140179868453312">MARIE VÆVERS</speaker>
+                     <stage type="mix" xml:id="idm140179868452880">(staar andagtsfuld ude paa
+                Landevejen).</stage>
+                     <p xml:id="idm140179868452208">Og</p>
+                  </sp>
+                  <sp xml:id="idm140179868451696">
+                     <speaker xml:id="idm140179868451440">MEJERISTEN</speaker>
+                     <stage type="mix" xml:id="idm140179868451024">(sidder overskrævs paa en Huggeblok og
+                damper paa Cigaren).</stage>
+                     <p xml:id="idm140179868450256">Mer Mosik Spellekant!</p>
+                  </sp>
+                  <sp xml:id="idm140179868449712">
+                     <speaker xml:id="idm140179868449456">FORKARLEN</speaker>
+                     <stage type="mix" xml:id="idm140179868449040">(intonerer: Bag grønklædte Bakke sad
+                Hjalmar og græd... Døren er faldet til paa Hængslerne.)</stage>
+                  </sp>
+                  <pb n="108" xml:id="s108" facs="adl/wied/wied12/wied12108"/>
+                  <sp xml:id="idm140179868446896">
+                     <speaker xml:id="idm140179868446640">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868446224">(med lysende Øjne).</stage>
+                     <p xml:id="idm140179868445536">Nu sidder han!</p>
+                  </sp>
+                  <sp xml:id="idm140179868444992">
+                     <speaker xml:id="idm140179868444736">MARIANE.</speaker>
+                     <p xml:id="idm140179868444320">Ja, nu sidder han!</p>
+                  </sp>
+                  <sp xml:id="idm140179868443776">
+                     <speaker xml:id="idm140179868443520">SMEDEN.</speaker>
+                     <p xml:id="idm140179868443104">Ka' han osse gaa? <stage type="mix" xml:id="idm140179868442816">(Prøver.)</stage>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868441904">
+                     <speaker xml:id="idm140179868441648">MEJERISTEN.</speaker>
+                     <p xml:id="idm140179868441232">Gu' ka' han gaa!</p>
+                  </sp>
+                  <sp xml:id="idm140179868440688">
+                     <speaker xml:id="idm140179868440432">TRÆSKO-LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868440000">(pludselig</stage>
+                     <p xml:id="idm140179868439344">. Gi's der'ne en Snaps? - Jeg mener, vi sku' drikke en
+                paa ham!</p>
+                  </sp>
+                  <sp xml:id="idm140179868438752">
+                     <speaker xml:id="idm140179868438496">STINE-HVEDEBRØD</speaker>
+                     <stage type="mix" xml:id="idm140179868438064">(smiler bredt).</stage>
+                     <p xml:id="idm140179868437408">Ja-a, en Sønda'ssnaps!</p>
+                  </sp>
+                  <sp xml:id="idm140179868436832">
+                     <speaker xml:id="idm140179868436576">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868436160">(flot).</stage>
+                     <p xml:id="idm140179868435504">Skidt! - Har vi Drikkendes, Mutter?</p>
+                  </sp>
+                  <sp xml:id="idm140179868434944">
+                     <speaker xml:id="idm140179868434688">MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868434272">(lidt uvilligt).</stage>
+                     <p xml:id="idm140179868433616">Ja-a, en Kende har vi da ...</p>
+                  </sp>
+                  <sp xml:id="idm140179868433056">
+                     <speaker xml:id="idm140179868432800">LARS.</speaker>
+                     <p xml:id="idm140179868432384">Saa hent det! - Vi faar sgu'nne saaden en Dør <hi rend="italics" xml:id="idm140179868432016">hvert Aar!</hi>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868431072">
+                     <speaker xml:id="idm140179868430816">MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868430400">(gaar ind i Huset og kommer tilbage med
+                Glas og Flaske).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868429568">
+                     <speaker xml:id="idm140179868429312">SMEDEN</speaker>
+                     <stage type="mix" xml:id="idm140179868428896">(tørrer sig om Munden).</stage>
+                     <p xml:id="idm140179868428208">Finkeljokum !</p>
+                  </sp>
+                  <sp xml:id="idm140179868427664">
+                     <speaker xml:id="idm140179868427408">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868426992">(holder Flasken op mod Lyset).</stage>
+                     <p xml:id="idm140179868426320">Der er to til hver og tre til vos andre! (Skænker og
+                gaar rundt med Glasset til baade Mandfolk og Fruentimmer.)</p>
+                  </sp>
+                  <sp xml:id="idm140179868425568">
+                     <speaker xml:id="idm140179868425312">SMEDEN.</speaker>
+                     <p xml:id="idm140179868424896">Skaal for Døren! - Og gid der til næste Aar maa være
+                Tvillinger bag ham!</p>
+                  </sp>
+                  <sp xml:id="idm140179868424224">
+                     <speaker xml:id="idm140179868423968">MARIANE.</speaker>
+                     <p xml:id="idm140179868423552">Tak, Jens; men vi er da ellers snart nøjt!</p>
+                  </sp>
+                  <sp xml:id="idm140179868422944">
+                     <speaker xml:id="idm140179868422688">SMEDEKONEN</speaker>
+                     <stage type="mix" xml:id="idm140179868422272">(klynkende).</stage>
+                     <p xml:id="idm140179868421616">Du er altid saa flot ved andre, Jens!</p>
+                  </sp>
+                  <sp xml:id="idm140179868421056">
+                     <speaker xml:id="idm140179868420800">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868420384">(til Forkarlen).</stage>
+                     <p xml:id="idm140179868419728">Drik, Jørgen! Der er sgu Fruentimmer nok!</p>
+                  </sp>
+                  <sp xml:id="idm140179868419120">
+                     <speaker xml:id="idm140179868418864">MEJERISTEN</speaker>
+                     <stage type="mix" xml:id="idm140179868418448">(der har fem Piger i
+                Geschäften).</stage>
+                     <p xml:id="idm140179868417744">Gu' er der saa!</p>
+                  </sp>
+                  <sp xml:id="idm140179868417200">
+                     <speaker xml:id="idm140179868416944">FORKARLEN</speaker>
+                     <stage type="mix" xml:id="idm140179868416528">(tømmer elegisk Glasset og intonerer
+                derpaa: Det er saa yndigt at fø-ølges ad ... Men ude paa Landevejen staar)</stage>
+                  </sp>
+                  <sp xml:id="idm140179868415536">
+                     <speaker xml:id="idm140179868415280">MARIE-VÆVERS</speaker>
+                     <stage type="mix" xml:id="idm140179868414848">(tørmundet og dirrende af
+                Arrigskab).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868414000">
+                     <speaker xml:id="idm140179868413744">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868413328">(der selv har stukket tre Snapse under
+                Vesten).</stage>
+                     <p xml:id="idm140179868412640">
+                        <hi rend="italics" xml:id="idm140179868412512">Kongen</hi> sæl har ikke saaden en Dør!</p>
+                  </sp>
+                  <sp xml:id="idm140179868411488">
+                     <speaker xml:id="idm140179868411232">SMEDEN</speaker>
+                     <stage type="mix" xml:id="idm140179868410816">(haanligt).</stage>
+                     <p xml:id="idm140179868410160">Han ka' rende og hoppe.</p>
+                  </sp>
+                  <sp xml:id="idm140179868409616">
+                     <speaker xml:id="idm140179868409360">HVEDEBRØDS-STINE</speaker>
+                     <stage type="mix" xml:id="idm140179868408928">(slikker sig om Munden).</stage>
+                     <p xml:id="idm140179868408256">
+                        <hi rend="italics" xml:id="idm140179868408128">Nu</hi>
+                ku' en Kop Kaffe ellers sma'e!</p>
+                  </sp>
+                  <sp xml:id="idm140179868407120">
+                     <speaker xml:id="idm140179868406864">LARS.</speaker>
+                     <p xml:id="idm140179868406448">Skidt! - Er der flere Bønner, Mutter?</p>
+                  </sp>
+                  <sp xml:id="idm140179868405840">
+                     <speaker xml:id="idm140179868405584">MARIANE.</speaker>
+                     <p xml:id="idm140179868405168">Ja-a ...</p>
+                  </sp>
+                  <sp xml:id="idm140179868404624">
+                     <speaker xml:id="idm140179868404368">LARS.</speaker>
+                     <p xml:id="idm140179868403952">Saa gaa ind og lav!</p>
+                  </sp>
+                  <sp xml:id="idm140179868403408">
+                     <speaker xml:id="idm140179868403152">SMEDEKONEN</speaker>
+                     <stage type="mix" xml:id="idm140179868402736">(opildnet).</stage>
+                     <p xml:id="idm140179868402080">
+                        <hi rend="italics" xml:id="idm140179868401952">Jæ</hi>
+                gi'er Fløde!</p>
+                  </sp>
+                  <sp xml:id="idm140179868400960">
+                     <speaker xml:id="idm140179868400704">SMEDEN.</speaker>
+                     <p xml:id="idm140179868400288">Og <hi rend="italics" xml:id="idm140179868400032">jæ</hi> gi'er <hi rend="italics" xml:id="idm140179868399312">Vand!</hi>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868398368">
+                     <speaker xml:id="idm140179868398112">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868397696">(slaar Døren op paa vid Gab).</stage>
+                     <p xml:id="idm140179868396992">Væ'sgod! <hi rend="italics" xml:id="idm140179868396704">Kongeporten</hi> er aaben!</p>
+                  </sp>
+                  <pb n="109" xml:id="s109" facs="adl/wied/wied12/wied12109"/>
+                  <sp xml:id="idm140179868394592">
+                     <speaker xml:id="idm140179868394336">MEJERISTEN</speaker>
+                     <stage type="mix" xml:id="idm140179868393920">(ned fra Huggeblokken. - ivrigt.</stage>
+                     <p xml:id="idm140179868393248">Nej, vi marcherer! - Stil Jer op! - Jørgen, Du er
+                Mosikken!</p>
+                  </sp>
+                  <sp xml:id="idm140179868392592">
+                     <speaker xml:id="idm140179868392336">FORKARLEN</speaker>
+                     <stage type="mix" xml:id="idm140179868391920">(kravler op af Grøften).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868391104">
+                     <speaker xml:id="idm140179868390848">MEJERISTEN.</speaker>
+                     <p xml:id="idm140179868390432">Ta' Damer! <stage type="mix" xml:id="idm140179868390144">(Byder Mariane Armen).</stage> Ta' Du Nikoline,
+                Lars!</p>
+                  </sp>
+                  <sp xml:id="idm140179868389200">
+                     <speaker xml:id="idm140179868388944">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868388528">(byder Smedekonen Armen).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868387728">
+                     <speaker xml:id="idm140179868387472">SMEDEN</speaker>
+                     <stage type="mix" xml:id="idm140179868387056">(tager Stine-Hvedebrød).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868386240">
+                     <speaker xml:id="idm140179868385984">TRÆSKO-LARS.</speaker>
+                     <p xml:id="idm140179868385552">Hvem ska' jæ ha'? Der er jo ingen til mig!</p>
+                  </sp>
+                  <sp xml:id="idm140179868384944">
+                     <speaker xml:id="idm140179868384688">LARS. Hæ, hæ! Du ka' ta' Karoline! I</speaker>
+                     <p xml:id="idm140179868384208">er jo ungefær li'e gamle!</p>
+                  </sp>
+                  <sp xml:id="idm140179868383632">
+                     <speaker xml:id="idm140179868383376">TRÆSKO-LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868382944">(tager grinende en Unge paa hver
+                Arm).</stage>
+                     <p xml:id="idm140179868382272">Du ka' holde mig i Frakken, Nikolaj! Saa faar jeg
+                slæw!</p>
+                  </sp>
+                  <sp xml:id="idm140179868381632">
+                     <speaker xml:id="idm140179868381376">NIKOLAJ</speaker>
+                     <stage type="mix" xml:id="idm140179868380960">(lader sig ikke dette sige to
+                Gange).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868380160">
+                     <speaker xml:id="idm140179868379904">MEJERISTEN</speaker>
+                     <stage type="mix" xml:id="idm140179868379488">(raaber):</stage>
+                     <p xml:id="idm140179868378832">Spil op Mosik ! Og</p>
+                  </sp>
+                  <sp xml:id="idm140179868378288">
+                     <speaker xml:id="idm140179868378032">FORKARLEN</speaker>
+                     <stage type="mix" xml:id="idm140179868377616">(giver sig til at harmonikae: Den Gang
+                jeg drog af Sted - den Gang jeg drog af Sted ... Toget sætter sig i
+                Bevægelse).</stage>
+                     <p xml:id="idm140179868376736">Men pludselig hvedebrøds-stine. jæ gi'er brø'!</p>
+                  </sp>
+                  <sp xml:id="idm140179868376112">
+                     <speaker xml:id="idm140179868375856">LARS.</speaker>
+                     <p xml:id="idm140179868375440">Gi'er Du Brø'?</p>
+                  </sp>
+                  <sp xml:id="idm140179868374880">
+                     <speaker xml:id="idm140179868374624">STINE.</speaker>
+                     <p xml:id="idm140179868374208">Ja, jæ gi'er Brø', hvis jæ maa ha' den gamle Dør!</p>
+                  </sp>
+                  <sp xml:id="idm140179868373568">
+                     <speaker xml:id="idm140179868373312">LARS.</speaker>
+                     <p xml:id="idm140179868372896">Hov, hov! Du gaver stort, Bolle-Stine! - Hvor meget
+                Brø' gi'er Du saa?</p>
+                  </sp>
+                  <sp xml:id="idm140179868372224">
+                     <speaker xml:id="idm140179868371968">STINE.</speaker>
+                     <p xml:id="idm140179868371552">En Basse til hver.</p>
+                  </sp>
+                  <sp xml:id="idm140179868371008">
+                     <speaker xml:id="idm140179868370752">LARS.</speaker>
+                     <p xml:id="idm140179868370336">Det er for lidt! - To Basser!</p>
+                  </sp>
+                  <sp xml:id="idm140179868369776">
+                     <speaker xml:id="idm140179868369520">MARIANE</speaker>
+                     <stage type="mix" xml:id="idm140179868369104">(hurtig).</stage>
+                     <p xml:id="idm140179868368448">Osse til Børnene.</p>
+                  </sp>
+                  <sp xml:id="idm140179868367888">
+                     <speaker xml:id="idm140179868367632">LARS.</speaker>
+                     <p xml:id="idm140179868367216">Natyrlig! Osse til Børnene!</p>
+                  </sp>
+                  <sp xml:id="idm140179868366624">
+                     <speaker xml:id="idm140179868366368">MEJERISTEN</speaker>
+                     <stage type="mix" xml:id="idm140179868365952">(der er Regnemester).</stage>
+                     <p xml:id="idm140179868365296">Det bli'er 22 Basser!</p>
+                  </sp>
+                  <sp xml:id="idm140179868364752">
+                     <speaker xml:id="idm140179868364496">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868364080">(der heller ikke stikker op).</stage>
+                     <p xml:id="idm140179868363408">24! - Lille Mariane er sgu da osse et Menneske!</p>
+                  </sp>
+                  <sp xml:id="idm140179868362832">
+                     <speaker xml:id="idm140179868362576">STINE</speaker>
+                     <stage type="mix" xml:id="idm140179868362160">(overvejer lidt).</stage>
+                     <p xml:id="idm140179868361504">Jæ gi'er dem!</p>
+                  </sp>
+                  <sp xml:id="idm140179868360944">
+                     <speaker xml:id="idm140179868360688">TRÆSKO-LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868360256">(misundelig).</stage>
+                     <p xml:id="idm140179868359600">Det er sgu billigt for en Dør! - Men di ska' vel være
+                  <hi rend="italics" xml:id="idm140179868359216">friske?</hi>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868358272">
+                     <speaker xml:id="idm140179868358016">LARS.</speaker>
+                     <p xml:id="idm140179868357600">Natyrlig!</p>
+                  </sp>
+                  <sp xml:id="idm140179868357056">
+                     <speaker xml:id="idm140179868356800">STINE.</speaker>
+                     <p xml:id="idm140179868356384">Næi, det gaar jæ'nte ind paa.</p>
+                  </sp>
+                  <sp xml:id="idm140179868355792">
+                     <speaker xml:id="idm140179868355536">LARS.</speaker>
+                     <p xml:id="idm140179868355120">
+                        <hi rend="italics" xml:id="idm140179868354864">Friske, eller niks!</hi>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868353920">
+                     <speaker xml:id="idm140179868353664">STINE</speaker>
+                     <stage type="mix" xml:id="idm140179868353248">(vrider sig. - Hun har netop noget
+                gammelt Hvedebrød liggende).</stage>
+                  </sp>
+                  <sp xml:id="idm140179868352352">
+                     <speaker xml:id="idm140179868352096">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868351680">(gentager).</stage>
+                     <p xml:id="idm140179868351024">
+                        <hi rend="italics" xml:id="idm140179868350896">Friske</hi> eller <hi rend="italics" xml:id="idm140179868350176">niks?</hi>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868349360">
+                     <speaker xml:id="idm140179868349104">STINE (arrig). I</speaker>
+                     <p xml:id="idm140179868348688">Gu's Navn, saa si'er vi friske da! <stage type="mix" xml:id="idm140179868348384">(Slaar til Træskomanden.)</stage> Din Træskolort!</p>
+                  </sp>
+                  <pb n="110" xml:id="s110" facs="adl/wied/wied12/wied12110"/>
+                  <sp xml:id="idm140179868346192">
+                     <speaker xml:id="idm140179868345936">LARS</speaker>
+                     <stage type="mix" xml:id="idm140179868345520">(stikker en Næve frem).</stage>
+                     <p xml:id="idm140179868344832">Døren er <hi rend="italics" xml:id="idm140179868344544">din</hi>, Stine!</p>
+                  </sp>
+                  <sp xml:id="idm140179868343600">
+                     <speaker xml:id="idm140179868343344">STINE</speaker>
+                     <stage type="mix" xml:id="idm140179868342928">(lægger sin Haand i hans, og</stage>
+                  </sp>
+                  <sp xml:id="idm140179868342096">
+                     <speaker xml:id="idm140179868341840">SMEDEN</speaker>
+                     <stage type="mix" xml:id="idm140179868341424">"slaar af").</stage>
+                  </sp>
+                  <sp xml:id="idm140179868340640">
+                     <speaker xml:id="idm140179868340384">STINE.</speaker>
+                     <p xml:id="idm140179868339968">Saa løver jeg over og henter dem! <stage type="mix" xml:id="idm140179868339632">(Humper af Sted ved sin Stok.)</stage>
+                     </p>
+                  </sp>
+                  <sp xml:id="idm140179868338704">
+                     <speaker xml:id="idm140179868338448">FORKARLEN</speaker>
+                     <stage type="mix" xml:id="idm140179868338032">(spiller op igen).</stage>
+                     <p xml:id="idm140179868337376">Og</p>
+                  </sp>
+                  <sp xml:id="idm140179868336864">
+                     <speaker xml:id="idm140179868336608">TOGET</speaker>
+                     <p xml:id="idm140179868336192">forsvinder i Huset. Men ude paa Landevejen staar
+                stadig</p>
+                  </sp>
+                  <sp xml:id="idm140179868335616">
+                     <speaker xml:id="idm140179868335360">MARIE-VÆVERS.</speaker>
+                     <p xml:id="idm140179868334928">
+                        <stage type="mix" xml:id="idm140179868334800">(Hun er
+                  ædende arrig. - Hun hører Selskabet le og støje inde i Huset. - Tørverøgen
+                  begynder at bølge op gennem Skorstenen. - Hun kan ligefrem lugte Kaffen. - Og nu
+                  synger de! - Og Gu'minsalighed om de ikke ogsaa giver sig til at danse! - Hun ser
+                  tænderskærende ind mod Vin duerne.</stage> Det Kryv! <stage type="mix" xml:id="idm140179868333552">(mumler hun og spytter:)</stage> Di <hi rend="italics" xml:id="idm140179868332848">Fjolreho'der!</hi> Atskave sig grasat for en sølle
+                Dørs Skyld! - Li'som den ku' gøre det ... ! <stage type="mix" xml:id="idm140179868331984">(Det mumler hun, Marie-Vævers - og hun har jo
+                  naturligvis Ret! - - Men hun gav dog vist gerne en nyslaaet Tiøre til, at hun
+                  havde været med inden for samme Dør!).</stage>
+                     </p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140179868330880">Tæppe.</stage>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

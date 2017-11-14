@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Med schillers digte</title>
+            <author>Hertz, Henrik</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139668653829872">
+                     <name xml:id="idm139668653829616">
+                        <surname xml:id="idm139668653829488">Hertz</surname>, <forename xml:id="idm139668653829056">Henrik</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139668653828768">Digte fra forskjellige Perioder</title>
+                  <pubPlace xml:id="idm139668653828464">København</pubPlace>
+                  <date xml:id="idm139668653827952">1851-1862</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid73460" decls="#biblid73460">
+            <head xml:id="idm139668651407440">Med Schillers Digte.</head>
+            <stage type="mix" xml:id="idm139668651407024">Til en Confirmant.</stage>
+            <lg xml:id="idm139668651406368">
+               <l xml:id="idm139668651406112">Rleligion og Poesie</l>
+               <l xml:id="idm139668651405696">Som tvende Genier med Menneskerne drage.</l>
+               <l xml:id="idm139668651405248">Hiin standser vore Tvivl og hører paa vor Klage,</l>
+               <l xml:id="idm139668651404752">Og aander Tro og Taalmod mildt deri.</l>
+               <l xml:id="idm139668651404320">Ved hiin er Endeligheds Søn forvisset</l>
+               <l xml:id="idm139668651403840">Om et Uendeligt, ham venter hisset.</l>
+            </lg>
+            <lg xml:id="idm139668651403280">
+               <l xml:id="idm139668651403024">Og Poesiens Genius? - Ak nei,</l>
+               <l xml:id="idm139668651402592">Den standser ingen Tvivl, den skjænker Taalmod ei!</l>
+               <l xml:id="idm139668651402096">Men i en magisk Kreds vort Liv den drager</l>
+               <l xml:id="idm139668651401648">Og døber det i Skjønheds Daab.</l>
+               <l xml:id="idm139668651401184">Den deler vore Tvivl, med Klagerne den klager,</l>
+               <l xml:id="idm139668651400736">Den jubler med vor Tro, den haaber med vort Haab.</l>
+               <l xml:id="idm139668651400288">Fra Himlen et Uendeligt den tager,</l>
+               <l xml:id="idm139668651399856">Og laaner allerede her</l>
+               <l xml:id="idm139668651399440">Vort Liv af Evighedens Glands et Skjær.</l>
+            </lg>
+            <pb n="219" xml:id="s219" facs="adl/hertz/hertz10/hertz10219"/>
+            <lg xml:id="idm139668651397536">
+               <l xml:id="idm139668651397280">Min Ferdinand! naar dette Livs Besvær</l>
+               <l xml:id="idm139668651396800">Dig skulde mindre mildt engang berøre,</l>
+               <l xml:id="idm139668651396320">Gid disse Genier da staae Dig nær,</l>
+               <l xml:id="idm139668651395856">Og under Vandringen forsonende Dig føre!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til chr. v's sundhed, effter et anstød aff en feber 1687 </title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015369092032">
+                     <name xml:id="idm140015369091776">
+                        <surname xml:id="idm140015369091648">Kingo</surname>,
+      <forename xml:id="idm140015369091200">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015369090912">Samlede skrifter 2</title>
+                  <pubPlace xml:id="idm140015369090624">København</pubPlace>
+                  <publisher xml:id="idm140015369090192">Munksgaard</publisher>
+                  <date xml:id="idm140015369089856">1939-74.</date>
+                  <biblScope>156-157</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid73266" decls="#biblid73266">
+            <body xml:id="idm140015366711712">
+               <opener xml:id="idm140015366711456">
+                  <salute xml:id="idm140015366711200">
+Allerunderdanigste Tanker<lb xml:id="idm140015366710896"/>og Ynske<lb xml:id="idm140015366710608"/>
+til<lb xml:id="idm140015366710320"/>Dend Stormægtigste og Høybaarne Monarkes,<lb xml:id="idm140015366709968"/>
+                     <name xml:id="idm140015366709712">Kong Christian dend Femtes</name>
+                     <lb xml:id="idm140015366709280"/>Sundhed,<lb xml:id="idm140015366708992"/>
+Effter et Anstød aff en Feber.
+</salute>
+               </opener>
+               <lg xml:id="idm140015366708400">
+                  <l xml:id="idm140015366708144">DU FEBER, Helbred-Tyv, hvor vel Du kunde tage</l>
+                  <l xml:id="idm140015366707696">Din Tiid i agt, og om i Skib med KONGEN Age,</l>
+                  <l xml:id="idm140015366707248">Der Hand i May oppaa sit store Belt omfoor,</l>
+                  <l xml:id="idm140015366706800">Og Bølgen Storme-Brudt slog Mast og Segl og Roor,</l>
+                  <l xml:id="idm140015366706304">Der Havet krusede paa sit Blaa-grønne Hoved,</l>
+                  <l xml:id="idm140015366705808">Og der blev lidet, men med Vammel Uroe, Soved,</l>
+                  <l xml:id="idm140015366705360">Dend Tiid Hav-Hesten digt i Vindens Bidsel beed</l>
+                  <l xml:id="idm140015366704912">Og fandt at NORDENS HELT og HERRE hannem reed;</l>
+                  <l xml:id="idm140015366704464">Dend Tiid hand snode sig sin HERRE hiem at føre</l>
+                  <l xml:id="idm140015366703968">Og KONGEN ind paa Land i Vande-Vognen kiøre,</l>
+                  <l xml:id="idm140015366703472">Da stal Du, FEBER-Skielm, Dig hemmelig i Land,</l>
+                  <l xml:id="idm140015366703024">Og tændte KONGENS Blood med En afmægtig brand!</l>
+                  <l xml:id="idm140015366702528">Men Himlen fandt Dig ud, og Dig saa Huufivild giorde,</l>
+                  <l xml:id="idm140015366702080">At ey MONARKEN Du fleer Anstød byde torde!</l>
+                  <l xml:id="idm140015366701600">Tak, Naadig Himmel, tak, Und KONGEN mange Aar,</l>
+                  <l xml:id="idm140015366701152">Indtil Hand hundrede med megen Lykke naaer!</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015366700576">
+                  <hi rend="italics" xml:id="idm140015366699936">Tekstgrundlag: Originaltrykket (UB).   </hi>13 blev] belv A</note>
+               <pb n="157" facs="adl/kingo/kingo2/king2157" xml:id="idm140015366699072"/>
+               <lg xml:id="idm140015366698304">
+                  <l xml:id="idm140015366698048">Gak FLAKKE-FEBER, du Forandring-fulde Syge,</l>
+                  <l xml:id="idm140015366697600">Din kolde Sved, din Brand lad andre steder ryge,</l>
+                  <l xml:id="idm140015366697152">Riid i en anden Puls, ryst paa en anden Krop,</l>
+                  <l xml:id="idm140015366696704">End just paa DEND DER SKAL ALD NORDEN HOLDE OP.</l>
+               </lg>
+               <trailer xml:id="idm140015366696128">
+Udi største hast med Posten<lb xml:id="idm140015366695792"/>
+dend 9. Junii, 1687.<lb xml:id="idm140015366695504"/>aff<lb xml:id="idm140015366695248"/>
+Th: Kingo.
+</trailer>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

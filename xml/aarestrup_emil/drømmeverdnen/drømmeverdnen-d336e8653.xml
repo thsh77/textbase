@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Drømmeverdnen</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352656878784">
+                     <name xml:id="idm140352656878528">
+                        <surname xml:id="idm140352656878400">Aarestrup</surname>, <forename xml:id="idm140352656877920">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352656877632">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140352656877312">København</pubPlace>
+                  <publisher xml:id="idm140352656876880">C. A. Reitzel</publisher>
+                  <date xml:id="idm140352656876544">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid71050" decls="#biblid71050">
+            <head xml:id="idm140352654669200">DRØMMEVERDNEN</head>
+            <lg xml:id="idm140352654668768">
+               <l xml:id="idm140352654668512">Drømme!</l>
+               <l xml:id="idm140352654668096">Hvad vil Mængdens Tale sige</l>
+               <l xml:id="idm140352654667632">At de korte, lette Drømme</l>
+               <l xml:id="idm140352654667184">Ikke er det Virkelige?</l>
+            </lg>
+            <lg xml:id="idm140352654666640">
+               <l xml:id="idm140352654666384">Dette,</l>
+               <l xml:id="idm140352654665968">Vil enhver iblandt os vide,</l>
+               <l xml:id="idm140352654665536">At det Stygge og det Slette</l>
+               <l xml:id="idm140352654665104">Er i Livet det Solide.</l>
+            </lg>
+            <lg xml:id="idm140352654664560">
+               <l xml:id="idm140352654664304">Vige</l>
+               <l xml:id="idm140352654663888">Derfor skal det plumpt Reelle!</l>
+               <l xml:id="idm140352654663456">Jeg mod Drømmens Himmelstige</l>
+               <l xml:id="idm140352654662992">Vil mit unge Hoved hælde.</l>
+            </lg>
+            <lg xml:id="idm140352654662416">
+               <l xml:id="idm140352654662160">Drømme!</l>
+               <l xml:id="idm140352654661744">Lad fra eders Skygge-Rige</l>
+               <l xml:id="idm140352654661312">Englene imod mig strømme -</l>
+               <l xml:id="idm140352654660864">Vær for mig det Virkelige!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

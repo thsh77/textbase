@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til h. p. holst</title>
+            <author>Hertz, Henrik</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139668653829872">
+                     <name xml:id="idm139668653829616">
+                        <surname xml:id="idm139668653829488">Hertz</surname>, <forename xml:id="idm139668653829056">Henrik</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139668653828768">Digte fra forskjellige Perioder</title>
+                  <pubPlace xml:id="idm139668653828464">København</pubPlace>
+                  <date xml:id="idm139668653827952">1851-1862</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid74396" decls="#biblid74396">
+            <head xml:id="idm139668651292976">Til H. P. Holst.</head>
+            <stage type="mix" xml:id="idm139668651292560">Med et Exemplar af »Herders Cid« og »Stemninger og Tilstande.«</stage>
+            <lg xml:id="idm139668651291792">
+               <l xml:id="idm139668651291536">Min Ven! til Dine Hænder</l>
+               <l xml:id="idm139668651291088">Taknemmelig min Bog tilbagevender,</l>
+               <l xml:id="idm139668651290656">For Sætterfeil saa fri,</l>
+            </lg>
+            <lg xml:id="idm139668651290080">
+               <l xml:id="idm139668651289824">Og ved Din Omhu, Herren være lovet,</l>
+               <l xml:id="idm139668651289344">Saa lidt vanheldet af et Bogstav, sat paa Hoved,</l>
+               <l xml:id="idm139668651288896">At den hos dem, der dømme Poesie</l>
+               <l xml:id="idm139668651288432">Blot efter Trykfeil, kan gaae Ram forbi.*)</l>
+            </lg>
+            <lg xml:id="idm139668651287856">
+               <l xml:id="idm139668651287600">Men mellem os, jeg mærker vel, hvor kritisk</l>
+               <l xml:id="idm139668651287104">For Poeskten er vor Tid.</l>
+               <l xml:id="idm139668651286672">Jeg er polidsk (jeg skulde sagt politisk)</l>
+               <l xml:id="idm139668651286224">Jeg er i dybest Fred betænkt paa Strid.</l>
+            </lg>
+            <note resp="#ed" anchored="true" xml:id="idm139668651285616">*) Prof. Holst havde velvillig paataget sig en af Correcturerne af andet Oplag af »Stemninger og Tilstande.«</note>
+            <pb n="230" xml:id="s230" facs="adl/hertz/hertz10/hertz10230"/>
+            <lg xml:id="idm139668651283184">
+               <l xml:id="idm139668651282928">Vel er der Fred i Staten og i Staden;</l>
+               <l xml:id="idm139668651282496">Men har man Fred for dem, der søge Strid - paa Gaden?</l>
+               <l xml:id="idm139668651281984">I Polemik er mange Godtfolk Tyrker.</l>
+               <l xml:id="idm139668651281552">Den, der er klog, itide sig bestyrker.</l>
+            </lg>
+            <lg xml:id="idm139668651280992">
+               <l xml:id="idm139668651280736">For at nu tryg min Bog kan vinde did,</l>
+               <l xml:id="idm139668651280304">Hvor Du har Hjem og Bo, jeg Intet sparer.</l>
+               <l xml:id="idm139668651279856">Thi som honnette Folk iblandt Barbarer</l>
+               <l xml:id="idm139668651279424">Paa Gaden gaae med Vagt af Janitscharer,</l>
+               <l xml:id="idm139668651278976">Jeg giver den til Vagt den tappreste Forsvarer.</l>
+            </lg>
+            <lg xml:id="idm139668651278400">
+               <l xml:id="idm139668651278144">Og Vagten er den drabelige Cid</l>
+               <l xml:id="idm139668651277712">(For os og Indsken gjort bekjendt ved Herder)</l>
+               <l xml:id="idm139668651277264">Hiin Ridderskabets Blomst, hiin Helt saa bold,</l>
+               <l xml:id="idm139668651276816">Der altid var beredt med Sværd og Skjold</l>
+               <l xml:id="idm139668651276336">Til Kamp mod Lovløshed og Vold,</l>
+               <l xml:id="idm139668651275872">Hiin al Vilkaarligheds Forfærder.</l>
+               <l xml:id="idm139668651275408">Beskyttet bag hans vrede Ryg</l>
+               <l xml:id="idm139668651274976">Min Bog, jeg haaber, vandrer tryg</l>
+               <l xml:id="idm139668651274544">For dem, der gaae med udenlandsk Paryk</l>
+               <l xml:id="idm139668651274112">Og al Slags kunstige Gebærder.</l>
+            </lg>
+            <lg xml:id="idm139668651273520">
+               <l xml:id="idm139668651273264">Tag mod den tidt miskjendte, gamle Svend</l>
+               <l xml:id="idm139668651272816">Med venlig Mine!</l>
+               <l xml:id="idm139668651272400">Og ønsker han at blive hos min Ven,</l>
+               <l xml:id="idm139668651271920">Da giv ham Ly hos Dig og Dine.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

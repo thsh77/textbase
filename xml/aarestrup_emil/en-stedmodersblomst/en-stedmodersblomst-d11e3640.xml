@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>En stedmodersblomst.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60972" decls="#biblid60972">
+            <head xml:id="idm140382756773136">EN STEDMODERSBLOMST.</head>
+            <lg xml:id="idm140382756772720">
+               <l xml:id="idm140382756772464">Hvor var vi dog eengang saa muntre og glade;</l>
+               <l xml:id="idm140382756772016">Dengang vi ei naaed til Træernes Blade,</l>
+               <l xml:id="idm140382756771536">I Grønningen sprang og leged med Lyst,</l>
+               <l xml:id="idm140382756771056">Og voved et Kys, og voved en Dyst -</l>
+               <l xml:id="idm140382756770624">O alting var saa roligt og saa godt.</l>
+               <l xml:id="idm140382756770192">For lavt var aldrig Himlens Blaat,</l>
+               <l xml:id="idm140382756769760">Og Jorden var os hellere! for lille.</l>
+               <l xml:id="idm140382756769328">Alting var just hvad Børnene vilde,</l>
+               <l xml:id="idm140382756768848">De Blomster var smaa, men dufted saa søde,</l>
+               <l xml:id="idm140382756768368">Og Taarerne var den eneste Brøde.</l>
+            </lg>
+            <lg xml:id="idm140382756767776">
+               <l xml:id="idm140382756767520">O lader os stræbe i Daad og i Sang</l>
+               <l xml:id="idm140382756767056">At vorde et Barn af dybere Klang,</l>
+               <l xml:id="idm140382756766624">Skjøndt <hi rend="italics" xml:id="idm140382756766336">store</hi> vi Synderne <hi rend="italics" xml:id="idm140382756765616">større</hi> nu har,</l>
+               <l xml:id="idm140382756764768">Som eengang et lille, uskyldigt vi var!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

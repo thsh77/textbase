@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vers paa et sølv skildt givet til et konge-baand ... (1777)</title>
+            <author>Ewald, Johannes</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139851049620320">
+                     <name xml:id="idm139851049620064">
+                        <surname xml:id="idm139851049619936">Ewald</surname>, <forename xml:id="idm139851049619504">Johannes</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139851049619248">Johannes Ewalds samlede skrifter</title>
+                  <pubPlace xml:id="idm139851049618944">(Kbh.)</pubPlace>
+                  <publisher xml:id="idm139851049618480">Gyldendal</publisher>
+                  <date xml:id="idm139851049618144">(1969)</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid72670" decls="#biblid72670" type="poem">
+            <head xml:id="idm139851047343824">VERS PAA ET SØLV SKILDT GIVET TIL ET KONGE-BAAND AF HR. AGENT CLAESEN SOM AFGANGEN FUGLEKONGE (1777)</head>
+            <lg xml:id="idm139851047343216">
+               <l xml:id="idm139851047342960">DIN Afkom elskte Laug skal see</l>
+               <l xml:id="idm139851047342528">Din sidste Slægt skal glad adlyde</l>
+               <l xml:id="idm139851047342064">To Love, som den ellevte</l>
+               <l xml:id="idm139851047341632">Blant dine Konger kæk tør byde.</l>
+            </lg>
+            <lg xml:id="idm139851047341040">
+               <l xml:id="idm139851047340784">To Bud, o Slægt! af ædle Skytter,</l>
+               <l xml:id="idm139851047340320">Er alt, hvad han til Afskeed vil,</l>
+               <l xml:id="idm139851047339888">Sigt altid kun til det, som nytter,</l>
+               <l xml:id="idm139851047339456">Tref altid hvad du sigter til.</l>
+            </lg>
+            <pb n="100" xml:id="s100" facs="adl/ewald/ewald5/ewald5100"/>
+         </div>
+      </body>
+   </text>
+</TEI>

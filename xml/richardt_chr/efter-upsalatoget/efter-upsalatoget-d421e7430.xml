@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Efter upsalatoget.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid68491" decls="#biblid68491">
+            <head xml:id="idm139731448260096">Efter Upsalatoget.<lb xml:id="idm139731448259808"/>(Sommeren 1856.)</head>
+            <lg xml:id="idm139731448259392">
+               <l xml:id="idm139731448259136">Der gaar en Længsel fra Kyst til Kyst</l>
+               <l xml:id="idm139731448258656">med Bølgen som skiller Ven fra Ven:</l>
+               <l xml:id="idm139731448258176">En Dag jeg laa ved min Broders Bryst,</l>
+               <l xml:id="idm139731448257744">maaskee jeg aldrig seer ham igjen.</l>
+            </lg>
+            <lg xml:id="idm139731448257184">
+               <l xml:id="idm139731448256928">Saa fremmede var vi som Øst og Vest,</l>
+               <l xml:id="idm139731448256448">en eneste Sol, og vi skiltes igjen:</l>
+               <l xml:id="idm139731448256016">Den steg i Øster, da blev jeg hans Gjæst,</l>
+               <l xml:id="idm139731448255536">den sank i Vester, da var jeg hans Ven.</l>
+            </lg>
+            <lg xml:id="idm139731448254976">
+               <l xml:id="idm139731448254720">En Dag saa rig som et frugtbart Aar</l>
+               <l xml:id="idm139731448254288">vi taledes ved i vor Moders Navn,</l>
+               <l xml:id="idm139731448253856">vi taledes ved om den lyse Vaar</l>
+               <l xml:id="idm139731448253424">som Grene der mødes i Skovens Favn.</l>
+            </lg>
+            <lg xml:id="idm139731448252816">
+               <l xml:id="idm139731448252560">Og Spørgsmaal og Svar laa hinanden saa nær,</l>
+               <l xml:id="idm139731448252064">vort Modersmaal mødtes i Tale og Sang:</l>
+               <l xml:id="idm139731448251584">Lidt mildere hist, lidt fuldere her,</l>
+               <l xml:id="idm139731448251152">men dog to Klokker af samme Klang.</l>
+            </lg>
+            <lg xml:id="idm139731448250592">
+               <l xml:id="idm139731448250336">Og gid de Klokker i Farens Stund</l>
+               <l xml:id="idm139731448249904">maa svare hinanden fra Strand til Strand,</l>
+               <l xml:id="idm139731448249456">og gid de maa ringe med samme Mund</l>
+               <l xml:id="idm139731448249024">udover det hele Nordens Land!</l>
+            </lg>
+            <pb n="115" xml:id="s115" facs="adl/richardt/richardt1/rich1115"/>
+         </div>
+      </body>
+   </text>
+</TEI>

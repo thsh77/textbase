@@ -1,0 +1,2285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kilde-reysen</title>
+            <author>Holberg, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140203112197440">
+                     <name xml:id="idm140203112197184">
+                        <surname xml:id="idm140203112197056">Holberg</surname>, <forename xml:id="idm140203112196592">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140203112196304">Værker i tolv bind</title>
+                  <title xml:id="idm140203112196000">3-7: Komedier</title>
+                  <pubPlace xml:id="idm140203112195712">[København]</pubPlace>
+                  <publisher xml:id="idm140203112195248">Rosenkilde og Bagger</publisher>
+                  <date xml:id="idm140203112194912">1969-1971</date>
+                  <biblScope>7-47</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid54635" decls="#biblid54635">
+            <body xml:id="idm140203112125984">
+               <head xml:id="idm140203112125728">KILDE-REYSEN<lb xml:id="idm140203112125440"/>
+                  <hi rend="italics" xml:id="idm140203112125184">Comoedie udi tre Acter</hi>
+               </head>
+               <!-- Bind 5, side 7 - --><pb n="8" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5008" xml:id="s8"/>
+               <div type="castList" xml:id="idm140203112122912">
+                  <head xml:id="idm140203112122416">
+                     <hi rend="italics" xml:id="idm140203112122160">Personerne i Comoedien</hi>
+                  </head>
+                  <list type="simple" xml:id="idm140203112121344">
+                     <item xml:id="idm140203112120816">JERONIMUS</item>
+                     <item xml:id="idm140203112120400">LEONORA</item>
+                     <item xml:id="idm140203112119984">PERNILLE</item>
+                     <item xml:id="idm140203112119568">MAGDELONE</item>
+                     <item xml:id="idm140203112119152">ARV</item>
+                     <item xml:id="idm140203112118768">LEANDER</item>
+                     <item xml:id="idm140203112118352">HENRICK</item>
+                     <item xml:id="idm140203112117936">DOCT. BOMBASTUS</item>
+                     <item xml:id="idm140203112117520">NIELS KUDSK</item>
+                     <item xml:id="idm140203112117104">LEONARD</item>
+                  </list>
+               </div>
+               <pb n="9" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5009" xml:id="s9"/>
+               <div type="indledning" xml:id="idm140203112115296">
+                  <head xml:id="idm140203112114800">
+                     <hi rend="italics" xml:id="idm140203112114544">Kilde-Reysen<lb xml:id="idm140203112113984"/>Indledning</hi>
+                  </head>
+                  <p xml:id="idm140203112113440"> Denne Komedie, som efter sit Emne tilhører den lyse Aarstid, blev opført
+							første Gang omkring 1. Juli 1724. I Levnedsbrevet 1728 siger
+							Forfatteren, at den spotter Folk, som tror paa den mirakuløse Kraft i en
+							Kilde, der har sit Udspring ikke langt fra vor Hovedstad, og som paa en
+							bestemt Tid af Aaret - nemlig Sankt Hans Nat - strømmer skarevis derhen.
+							Denne Kilde kan ikke være Kirsten Piils Kilde i Dyrehaven, som var
+							ukendt i 1720erne. Man har gættet paa Vartov Kilde, der laa lige syd for
+							Tuborg og paa Vangede Kilde; der er samtidige Vidnesbyrd om
+							Tilstrømningen til disse to nære Kilder i 1720erne. </p>
+                  <p xml:id="idm140203112112368"> Troen, eller Overtroen, paa undergørende Kilder er dog i Komedien kun et
+							Middel til at sætte en Elskovsintrige igang; en spidsere Brod rettes mod
+							Operaen, en Kunstart, som Holberg aldrig fik Smag for. 1721-23 gav et
+							tysk Operaselskab Forestillinger i Hofteatret, og Parodien i
+							Kilde-Reysen hænger sikkert sammen med disse Forestillinger, som
+							paaførte Lille Grønnegade-Teatret Konkurrence. Da der igen kom Opera i
+							København, fra 1747, og Den danske Skueplads samtidig vaagnede til nyt
+							Liv, gjorde Holberg i Epistel 299 opmærksom paa, hvor aktuel
+							»Kilde-Reysen eller den syngende Jomfrue« var blevet
+							igen. Den opførtes da ogsaa af de danske Aktører den 30. Juni 1749. </p>
+                  <p xml:id="idm140203112110416"> Til Komediens Intrige har Holberg fundet Inspiration i franske Komedier
+							(jfr. Listen i Comoedierne ved Carl Roos, Bind II, 1922, S.
+							539, Fodnote 1). En med Holbergs meget beslægtet Holdning til Operaen
+							findes hos den franske Skønaand Saint-Evremond (1614-1703). Holberg har
+							paa <pb n="10" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5010" xml:id="s10"/> forskellige Stadier af sin
+							Skribentbane benyttet sig af Saint-Evremond. Er han faldet over hans
+							»Afhandling om Operaerne«, <hi rend="italics" xml:id="idm140203112108080">Discours sur les Opera, </hi>har han glædet sig over de fleste
+							Ideer heri, ligesom han kan have fornøjet sig over Komedien <hi rend="italics" xml:id="idm140203112107232">Les Opera, </hi>(begge Tekster findes f. Eks. i
+							CEuvres de Monsieur de Saint-Evremond, Bind III, 1711). Ordet
+							»opera« er Flertalsformen af lat. opus, Værk; man
+							kunde derfor bruge Ordet i Flertal uden at tilføje den sædvanlige
+							franske Flertalsbetegnelse, -s. I denne Femaktskomedie paa Prosa er en
+							ung Dame i Lyon, Datter af en Dommer, grebet af Operagalskab, ligesom en
+							ung Mand, hun sympatiserer med. Begge er kun tilfredse, naar de kan
+							udtrykke sig i Sang. Crisotine forklarer Faderen, dog uden Noder, at
+							eftersom han opdrager hende i uborgerlige Manérer, er det helt
+							naturligt, at hun nu følger Hoffets Smag - og efter den seneste
+							Operapremière taler alle af Stand udelukkende i Toner. I Paris' fornemme
+							Butikker, hvor Damerne køber Stoffer og Smykker, bliver alt sunget:
+							»tout se chante«! Lægen giver til sidst det Raad, at
+							Crisotine med sin Udvalgte skal gaa til Operaen; seks Maaneder med det
+							samme Syngeri og Omklædning skal nok kurere dem for denne Galskab:
+							»Ved en hemmelighedsfuld Drift, som man kalder Instinkt, fører
+							Naturen dem til det Lægemiddel, som uden Tvivl vil helbrede dem.
+							Operaerne har fremkaldt deres Sygdom; Operaerne vil bringe den til
+							Afslutning«. </p>
+                  <p xml:id="idm140203112104160">
+                     <hi rend="italics" xml:id="idm140203112104032">Litteratur.</hi>Om den helbredende Kilde: E. C.
+							Werlauff: Historiske Antegnelser til Holbergs atten første Lystspil,
+							1958, S. 308 ff. - P. M. Stolpe i Danske Samlinger 2. Række, 6. Bind VI,
+							1877-79. S. 269 ff. - Eiler Nystrøm: Fra Nordsjællands Øresundskyst,
+							1938, S. 11 f., 218 ff. - Holberg og Musikken: Holbergs Epistler, ved F.
+							J. Billeskov Jansen, Bind VII, 1955, S. 262-66. - Holbergs Forhold til
+							Operaen, i Torben Krogh: Musik og Teater, 1955, S. 74-97. </p>
+               </div>
+               <pb n="11" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5011" xml:id="s11"/>
+               <div type="akt" xml:id="idm140203112101152">
+                  <head xml:id="idm140203112100656">ACTUS I</head>
+                  <div type="scene" xml:id="idm140203112100272">
+                     <head xml:id="idm140203112099744">SCEN. 1</head>
+                     <stage type="mix" xml:id="idm140203112099328">Leander. Henrich.</stage>
+                     <sp xml:id="idm140203112098672">
+                        <speaker xml:id="idm140203112098416">LEANDER.</speaker>
+                        <p xml:id="idm140203112098000"> Ikke heller Brev med denne Post! jeg veed aldrig hvad jeg skal
+									siige derom. </p>
+                     </sp>
+                     <sp xml:id="idm140203112097392">
+                        <speaker xml:id="idm140203112097136">HENRICH.</speaker>
+                        <p xml:id="idm140203112096720"> Herre! i steden for at ligge og vente her efter Breve, skulde I
+									have reyst Iiige til jer Broer, saa havde i allereede haft den
+									Arv i Hænderne, som er jer tilfalden efter jer Fars Død. </p>
+                     </sp>
+                     <sp xml:id="idm140203112095776">
+                        <speaker xml:id="idm140203112095520">LEANDER.</speaker>
+                        <p xml:id="idm140203112095104"> Du staaer og snakker hen i Taaget, ligesom du ikke vidste hvad
+									Kierlighed er. </p>
+                     </sp>
+                     <sp xml:id="idm140203112094480">
+                        <speaker xml:id="idm140203112094224">HENRICH.</speaker>
+                        <p xml:id="idm140203112093808"> Jeg veed nok hvad Kierlighed er, jeg er baget af samme Dey som
+									andre Mennesker; men Interessen trækker dog meest. Naar Cupido,
+									som er Gudinde for Kierlighed, siiger: Staael saa staaer jeg;
+									Men naar Mercurius, som er Gud for Gevinst og Interesse, gir
+									Contra-Ordre, og siiger: Gaae! saa reyser jeg. </p>
+                     </sp>
+                     <sp xml:id="idm140203112092608">
+                        <speaker xml:id="idm140203112092352">LEANDER.</speaker>
+                        <p xml:id="idm140203112091936"> Jeg vilde ønske, at jeg kunde sige det samme; men det er mig
+									ikke mueligt at reyse herfra, førend jeg blir denne skiønne
+									jomfrue mægtig. </p>
+                     </sp>
+                     <sp xml:id="idm140203112091088">
+                        <speaker xml:id="idm140203112090832">HENRICH.</speaker>
+                        <p xml:id="idm140203112090416"> Hvordan Pokker vil I blive hende mægtig? </p>
+                     </sp>
+                     <sp xml:id="idm140203112089808">
+                        <speaker xml:id="idm140203112089552">LEANDER.</speaker>
+                        <p xml:id="idm140203112089136"> Ach Henrich! det er en stor Post, at hun elsker mig. </p>
+                     </sp>
+                     <sp xml:id="idm140203112088560">
+                        <speaker xml:id="idm140203112088304">HENRICH.</speaker>
+                        <p xml:id="idm140203112087888"> Det vil ikke meget sige; Naar hendes Far lader hende indsperre,
+									saa kand Herren ikke vinde andet ved sin Kierlighed end elske
+									sig en Feber eller Guulsoet paa Halsen. </p>
+                     </sp>
+                     <sp xml:id="idm140203112087168">
+                        <speaker xml:id="idm140203112086912">LEANDER.</speaker>
+                        <p xml:id="idm140203112086496"> Vi maa bruge Practikker, Henrich, medens den Gamle er paa
+									Landet. </p>
+                     </sp>
+                     <sp xml:id="idm140203112085888">
+                        <speaker xml:id="idm140203112085632">HENRICH.</speaker>
+                        <p xml:id="idm140203112085216"> Ey det er en læt Sag! Hvis Herren kun kand skaffe mig Nøgelen
+									først til Porten, dernest til de andre <pb n="12" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5012" xml:id="s12"/> Dørre, og faae een til at
+									slaae en halv Snees Øyen ud paa Portneren (thi han har Hige saa
+									mange som Argus,) saa vilde jeg nok skaffe Herren ind til hende.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203112082848">
+                        <speaker xml:id="idm140203112082592">LEANDER.</speaker>
+                        <p xml:id="idm140203112082208"> Du hitter nok paa noget, kiere Henrich! </p>
+                     </sp>
+                     <sp xml:id="idm140203112081632">
+                        <speaker xml:id="idm140203112081376">HENRICH.</speaker>
+                        <p xml:id="idm140203112080960"> Tiden er saa knap, Herre! I hørte jo sidst, da hun talede med
+									jer udaf Vindvet, at hendes Far kommer hiem i Aften med hans
+									tilkommende Sviger-Søn. Jeg har nok et beqvem Hoved til
+									Skielmstykker, uden at roese mig selv; men Tiden er knap, og jeg
+									er ikke kiendt her paa Stedet. Kammer-Piigen Pernille har,
+									maaskee, opspundet noget, siden vi taledes sidst ved. </p>
+                     </sp>
+                     <sp xml:id="idm140203112079776">
+                        <speaker xml:id="idm140203112079520">LEANDER.</speaker>
+                        <p xml:id="idm140203112079104"> Hvad er Klokken nu? </p>
+                     </sp>
+                     <sp xml:id="idm140203112078560">
+                        <speaker xml:id="idm140203112078304">HENRICH.</speaker>
+                        <p xml:id="idm140203112077888"> Klokken er 4re. </p>
+                     </sp>
+                     <sp xml:id="idm140203112077344">
+                        <speaker xml:id="idm140203112077088">LEANDER.</speaker>
+                        <p xml:id="idm140203112076672"> Det er just den bestemte Tiid at faae dem at see i Vinduet. Blir
+									du noget vaer? </p>
+                     </sp>
+                     <sp xml:id="idm140203112076048">
+                        <speaker xml:id="idm140203112075792">HENRICH.</speaker>
+                        <p xml:id="idm140203112075376"> Ja jeg seer alt Gardinerne. </p>
+                     </sp>
+                     <sp xml:id="idm140203112074864">
+                        <speaker xml:id="idm140203112074608">LEANDER.</speaker>
+                        <p xml:id="idm140203112074192"> Ey harcelleer dog ikke saa meget! </p>
+                     </sp>
+                     <sp xml:id="idm140203112073680">
+                        <speaker xml:id="idm140203112073424">HENRICH.</speaker>
+                        <p xml:id="idm140203112073008"> Det er min Troe ingen Harcellering. Jeg seer alt Gardinerne
+									røres. See der aabnes Vindverne! der er de. </p>
+                     </sp>
+                  </div>
+                  <div type="scene" xml:id="idm140203112072128">
+                     <head xml:id="idm140203112071600">SCEN. 2</head>
+                     <stage type="mix" xml:id="idm140203112071184">Leonora. Pernille i Vindvet. Leander. Henrich.</stage>
+                     <sp xml:id="idm140203112070496">
+                        <speaker xml:id="idm140203112070240">LEANDER.</speaker>
+                        <p xml:id="idm140203112069824"> Ach allersødeste Jomfrue! Er der noget opspundet til min Frelse?
+									Siig: skal jeg døe eller leve? </p>
+                     </sp>
+                     <sp xml:id="idm140203112069072">
+                        <speaker xml:id="idm140203112068816">LEONORA.</speaker>
+                        <p xml:id="idm140203112068400"> Om vor Intrigue vil lykkes, skal vi komme sammen denne Aften.
+									Her er alt begyndt paa noget, som Pernille best kand sige,
+									hvordan det skal sættes i Verk. </p>
+                     </sp>
+                     <sp xml:id="idm140203112067520">
+                        <speaker xml:id="idm140203112067264">PERNILLE.</speaker>
+                        <p xml:id="idm140203112066848"> Intriguen er denne: Jomfruen stiller sig an at være falden i en
+									underlig Svaghed, at alt, hvad hun taler, er paa Sang. </p>
+                     </sp>
+                     <sp xml:id="idm140203112066064">
+                        <speaker xml:id="idm140203112065808">HENRICH.</speaker>
+                        <p xml:id="idm140203112065392"> Det er meget selsom. Kunde I ikke finde paa noget andet? </p>
+                     </sp>
+                     <sp xml:id="idm140203112064800">
+                        <speaker xml:id="idm140203112064544">PERNILLE.</speaker>
+                        <p xml:id="idm140203112064128"> Det er jo lige meget, naar det er noget, som reyser sig af
+									Hiernens Forvirrelse. Anledning til denne <pb n="13" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5013" xml:id="s13"/>
+									                  <!-- <figure>
+<figDesc><hi rend="italics">LEANDER. ... Ach allersødeste Jomfrue! Er der noget opspundet til min Frelse? Siig: skal jeg døe eller leve?</hi></figDesc>
+<figure> -->
+									<pb n="14" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5014" xml:id="s14"/> slags Svaghed at digte
+									hende paa, er denne: Hun er en stor Elskerinde af Opera, hvoraf
+									hun har en god Samling, som hun daglig øver sig udi, og giør
+									undertiden noget for meget deraf, saa hendes Far har ofte
+									straffet hende derfor; hvorudover dersom hun skal falde udi
+									noget Galskab, er det riimeligt, hun lar det see udi de Ting,
+									som hun har været for meget indtagen af. Tilmed har vi alt
+									bildet Gaards-Karlen Arv det ind, som hiertelig gremmer sig
+									derover, saa at vi maa blive ved det Forsæt. </p>
+                     </sp>
+                     <sp xml:id="idm140203112059776">
+                        <speaker xml:id="idm140203112059520">HENRICH.</speaker>
+                        <p xml:id="idm140203112059104"> Men hvad vil deraf følge? </p>
+                     </sp>
+                     <sp xml:id="idm140203112058512">
+                        <speaker xml:id="idm140203112058256">PERNILLE.</speaker>
+                        <p xml:id="idm140203112057840"> Naar den Gamle nu kommer hiem, og forskrækkes over den Hendelse,
+									raader jeg ham til at have Bud efter den navnkundige Doctor
+									Bombastus, som med sin Søn nyelig er kommen her til Byen, for at
+									raadføre sig med dem udi hendes Svaghed. </p>
+                     </sp>
+                     <sp xml:id="idm140203112056784">
+                        <speaker xml:id="idm140203112056528">HENRICH.</speaker>
+                        <p xml:id="idm140203112056112"> Ja hvad vil det siige? De gir hende da, maaskee, noget ind at
+									sveede paa, og saa er jo vi lige nær. </p>
+                     </sp>
+                     <sp xml:id="idm140203112055360">
+                        <speaker xml:id="idm140203112055104">PERNILLE.</speaker>
+                        <p xml:id="idm140203112054688"> Ney du skal agere samme Doctor, og din Herre hans Søn, og raade
+									Jeronimus til, saasom det er St. Hans Aften i Aften, at lade
+									hende reyse til Kilden, hvis Kraft og Dyd du maa afmale paa det
+									beste, hvilket han vil lettelig troe, saavelsom alle gamle Folk
+									her i Byen, der af Overtroe giører saadan Reyse St. Hans Aften.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203112053456">
+                        <speaker xml:id="idm140203112053200">HENRICH.</speaker>
+                        <p xml:id="idm140203112052784"> Men, end om han selv vil reyse med for at have Opsyn med sin
+									Dotter? </p>
+                     </sp>
+                     <sp xml:id="idm140203112052176">
+                        <speaker xml:id="idm140203112051920">PERNILLE.</speaker>
+                        <p xml:id="idm140203112051504"> Det er jeg vis paa, at han ikke giør; thi naar han kommer fra en
+									liden Reyse, er han saa udmattet, at han maa have 3 Dages
+									Roelighed igien. Du kand tilbyde din Tieneste at følge hende,
+									for at see til, hun bruger Vandet ret. Naar I saa kommer sammen,
+									kand I ved Kilden overlegge jere Sager, hvor I vil retirere jer,
+									indtil han tilstæder Ægteskab. Jeg saa vel som Huusholdersken
+									Magdelone har ogsaa lige saa stor Begierlighed at komme ud som
+									Jomfruen, og lige saa vigtige Aarsager. Vi maa betiene os af
+									saadanne Leyligheder; thi vi kommer ellers ikke ud af Dørren.
+								</p>
+                     </sp>
+                     <pb n="15" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5015" xml:id="s15"/>
+                     <sp xml:id="idm140203112049168">
+                        <speaker xml:id="idm140203112048912">HENRICH.</speaker>
+                        <p xml:id="idm140203112048528"> Men ved hvad Leylighed skal jeg komme ind, naar jeg agerer
+									Doctor Bombastus? </p>
+                     </sp>
+                     <sp xml:id="idm140203112047920">
+                        <speaker xml:id="idm140203112047664">PERNILLE.</speaker>
+                        <p xml:id="idm140203112047248"> Jeg skal viise Gaards-Karlen hen i det Huus, hvor I boer, at
+									spørge efter Docteren, og da maa I begge være udi Bereedskab at
+									følge med. </p>
+                     </sp>
+                     <sp xml:id="idm140203112046400">
+                        <speaker xml:id="idm140203112046144">HENRICH.</speaker>
+                        <p xml:id="idm140203112045728"> Men her er nogen ved Porten. </p>
+                     </sp>
+                     <sp xml:id="idm140203112045216">
+                        <speaker xml:id="idm140203112044960">PERNILLE.</speaker>
+                        <p xml:id="idm140203112044544"> Det er Arv. Løber da og lar alting være i Beredskab. </p>
+                     </sp>
+                  </div>
+                  <div type="scene" xml:id="idm140203112043776">
+                     <head xml:id="idm140203112043248">SCEN. 3</head>
+                     <sp xml:id="idm140203112042832">
+                        <speaker xml:id="idm140203112042576">ARV.</speaker>
+                        <p xml:id="idm140203112042160">
+                           <stage type="mix" xml:id="idm140203112042032">alleene. </stage>Det er noget forbandet Tøy, som vil
+									legge Hr. Jeronimus i Graven. Jeg havde aldrig villet troe det,
+									hvis jeg ikke havde hørt og seet det selv. Jeg kommer ind og
+									spør, om Herren kommer hiem i Aften, da svarer hun mig i
+									Tremulanter saaledes: </p>
+                        <lg xml:id="idm140203112040672">
+                           <l xml:id="idm140203112040416">Hør Ungersvend, jeg si - - - - - ger dig,</l>
+                           <l xml:id="idm140203112039936">Han kommer i Aften vis- - - - selig.</l>
+                        </lg>
+                        <p xml:id="idm140203112039424"> Og saaledes blev hun ved at synge til hvad jeg spurdte. Hun maa
+									være forhexet eller lave til Barsel med en ung Spillemand. Jeg
+									har aldrig hørt saadant min Livs Tid; jeg kand ikke viide,
+									hvoraf saadant kand komme, uden at hun i Tanker maa have ædt op
+									en Node-Bog, og faaet en hob enkelte og dobbelte Fuuser i Maven,
+									som kommer hende iidelig til at synge. Det er en Ynk at see paa
+									Magdelone og Pernille; thi de sidder og græder over denne
+									Hendelse, som de var pidsket. Men der kommer, min Troe, Hr.
+									Jeronimus med Monsr. Leonard. Jeg har ikke Hierte at fortælle
+									ham det. Det maa enten Magdelone eller Pernille giøre. </p>
+                     </sp>
+                  </div>
+                  <div type="scene" xml:id="idm140203112038016">
+                     <head xml:id="idm140203112037488">SCEN. 4</head>
+                     <stage type="mix" xml:id="idm140203112037072">Jeronimus i en Reyse-Kiole. Leonard. Arv.</stage>
+                     <sp xml:id="idm140203112036384">
+                        <speaker xml:id="idm140203112036128">JERONIMUS.</speaker>
+                        <p xml:id="idm140203112035712"> Min kiere Sviger-Søn! Det kand giøres af, medens han er i Byen
+									denne gang; thi saa vit, som jeg <pb n="16" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5016" xml:id="s16"/> kand see paa hans Gaard, da er han i Stand at
+									bringe sin Bruud hiem, naar det skal være. Men der seer jeg
+									Gaards-Karlen Arv. Nu Arv! hvorledes staaer til udi Huuset? </p>
+                     </sp>
+                     <sp xml:id="idm140203112033440">
+                        <speaker xml:id="idm140203112033184">ARV.</speaker>
+                        <p xml:id="idm140203112032800"> Vel nok Herre, men - - - </p>
+                     </sp>
+                     <sp xml:id="idm140203112032288">
+                        <speaker xml:id="idm140203112032032">JERONIMUS.</speaker>
+                        <p xml:id="idm140203112031616"> Hvad vil du sige med dit Men? her har, maaskee, været nogen for
+									at tale med mig om magtpaaliggende Ting. </p>
+                     </sp>
+                     <sp xml:id="idm140203112030848">
+                        <speaker xml:id="idm140203112030592">ARV.</speaker>
+                        <p xml:id="idm140203112030176"> Ney Herre, men - - - </p>
+                     </sp>
+                     <sp xml:id="idm140203112029632">
+                        <speaker xml:id="idm140203112029376">JERONIMUS.</speaker>
+                        <p xml:id="idm140203112028960"> Her har, maaskee, været nogen at ville betale Penge; thi mine
+									Debitorer pleyer gierne være villige at betale, naar de veed, at
+									jeg ikke er i Byen. </p>
+                     </sp>
+                     <sp xml:id="idm140203112028096">
+                        <speaker xml:id="idm140203112027840">ARV.</speaker>
+                        <p xml:id="idm140203112027424"> Ney Herre, her har ingen været, men - - - </p>
+                     </sp>
+                     <sp xml:id="idm140203112026800">
+                        <speaker xml:id="idm140203112026544">JERONIMUS.</speaker>
+                        <p xml:id="idm140203112026128"> Hvad Fanden vil du da sige med dit Men? </p>
+                     </sp>
+                     <sp xml:id="idm140203112025552">
+                        <speaker xml:id="idm140203112025296">ARV.</speaker>
+                        <p xml:id="idm140203112024880"> Aldeeles intet, Herre. Det er saa min Tale-Maade, men - - </p>
+                     </sp>
+                     <sp xml:id="idm140203112024288">
+                        <speaker xml:id="idm140203112024032">JERONIMUS.</speaker>
+                        <p xml:id="idm140203112023616"> Her maa endelig være hendet noget. Du maa ikke have vel forvaret
+									din Post, saa min Dotter, maaskee, har føytet i Byen. Jeg skal
+									nok faae det at viide. </p>
+                     </sp>
+                     <sp xml:id="idm140203112022736">
+                        <speaker xml:id="idm140203112022480">ARV.</speaker>
+                        <p xml:id="idm140203112022064"> Der har, min Troe, ikke en Siæl været uden for Gade-Dørren, uden
+									den hvide Kat, som jeg pryglede strax ind igien, og svor paa, at
+									jeg skulde klage ham for Herren. Hvad mig er betroed forretter
+									jeg troelig, men - - - </p>
+                     </sp>
+                     <sp xml:id="idm140203112021040">
+                        <speaker xml:id="idm140203112020784">JERONIMUS.</speaker>
+                        <p xml:id="idm140203112020368"> Det er dog en Satans Men. Er min Dotter, maaskee, ikke vel? </p>
+                     </sp>
+                     <sp xml:id="idm140203112019776">
+                        <speaker xml:id="idm140203112019520">ARV.</speaker>
+                        <p xml:id="idm140203112019104"> Jo hun er vel nok, men - - - </p>
+                     </sp>
+                     <sp xml:id="idm140203112018592">
+                        <speaker xml:id="idm140203112018336">JERONIMUS.</speaker>
+                        <p xml:id="idm140203112017920"> Hvad skader hende da? Fort siig! </p>
+                     </sp>
+                     <sp xml:id="idm140203112017360">
+                        <speaker xml:id="idm140203112017104">ARV.</speaker>
+                        <p xml:id="idm140203112016688">
+                           <stage type="mix" xml:id="idm140203112016560">grædende. Ach </stage>Herre! lad Pernille og Magdelone
+									sige det. </p>
+                     </sp>
+                     <sp xml:id="idm140203112015568">
+                        <speaker xml:id="idm140203112015312">JERONIMUS.</speaker>
+                        <p xml:id="idm140203112014896"> Mit heele Legem skielver. Pernille og Magdelone, kommer ud! </p>
+                     </sp>
+                     <sp xml:id="idm140203112014304">
+                        <speaker xml:id="idm140203112014048">LEONARD.</speaker>
+                        <p xml:id="idm140203112013632"> Altereer jer ikke, kiere Sviger-Far. Drengen er eenfoldig. Der
+									er, maaskee, gaaet et Kruus eller et Glas i stykker. </p>
+                     </sp>
+                     <sp xml:id="idm140203112012976">
+                        <speaker xml:id="idm140203112012720">JERONIMUS.</speaker>
+                        <p xml:id="idm140203112012304"> Ney det er, min Troe, noget andet. </p>
+                     </sp>
+                  </div>
+                  <pb n="17" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5017" xml:id="s17"/>
+                  <div type="scene" xml:id="idm140203112010480">
+                     <head xml:id="idm140203112009984">SCEN. 5</head>
+                     <stage type="mix" xml:id="idm140203112009568">Jeronimus. Leonard. Magdelone. Pernille. Arv.</stage>
+                     <sp xml:id="idm140203112008880">
+                        <speaker xml:id="idm140203112008624">JERONIMUS.</speaker>
+                        <p xml:id="idm140203112008208"> Hør Magdelonel Hvad er det for Skielmstykker, I har bedrevet i
+									min Fraværelse? </p>
+                     </sp>
+                     <sp xml:id="idm140203112007504">
+                        <speaker xml:id="idm140203112007248">MAGDELONE.</speaker>
+                        <p xml:id="idm140203112006832"> Vi har, min Troe, intet ont giort. </p>
+                     </sp>
+                     <sp xml:id="idm140203112006272">
+                        <speaker xml:id="idm140203112006016">JERONIMUS.</speaker>
+                        <p xml:id="idm140203112005600"> Hvordan er det med min Datter? <stage type="mix" xml:id="idm140203112005296">Magdelone græ der.</stage>
+								                </p>
+                     </sp>
+                     <sp xml:id="idm140203112004368">
+                        <speaker xml:id="idm140203112004112">JERONIMUS.</speaker>
+                        <p xml:id="idm140203112003696"> Ach Himmel] hvad er dog dette? Pernille! Hvordan er det med min
+									Datter? <stage type="mix" xml:id="idm140203112003344">Pernille græder.</stage>
+								                </p>
+                     </sp>
+                     <sp xml:id="idm140203112002416">
+                        <speaker xml:id="idm140203112002160">JERONIMUS.</speaker>
+                        <p xml:id="idm140203112001744"> Arv! fort siig mig hvad det er. <stage type="mix" xml:id="idm140203112001440">Arv græder ogsaa.</stage>
+								                </p>
+                     </sp>
+                     <sp xml:id="idm140203112000512">
+                        <speaker xml:id="idm140203112000256">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111999840"> I skal faae en Ulykke, hvis I ikke strax siger mig det. </p>
+                     </sp>
+                     <sp xml:id="idm140203111999248">
+                        <speaker xml:id="idm140203111998992">MAGDELONE.</speaker>
+                        <p xml:id="idm140203111998576"> Ach Herre! lad Arv sige det. </p>
+                     </sp>
+                     <sp xml:id="idm140203111998016">
+                        <speaker xml:id="idm140203111997760">ARV.</speaker>
+                        <p xml:id="idm140203111997344"> Ach Herre! lad Pernille siige det. </p>
+                     </sp>
+                     <sp xml:id="idm140203111996784">
+                        <speaker xml:id="idm140203111996528">PERNILLE.</speaker>
+                        <p xml:id="idm140203111996112"> Ach Herre! lad Magdelone sige det. </p>
+                     </sp>
+                     <sp xml:id="idm140203111995552">
+                        <speaker xml:id="idm140203111995296">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111994880"> Pernille! jeg befaler dig at siige mig det. </p>
+                     </sp>
+                     <sp xml:id="idm140203111994304">
+                        <speaker xml:id="idm140203111994048">PERNILLE.</speaker>
+                        <p xml:id="idm140203111993632"> Ach Herre! forskrækkes da ikke for meget derover: I gaar Nat
+									mellem et og to - - var det ikke saa, Magdelone? </p>
+                     </sp>
+                     <sp xml:id="idm140203111992864">
+                        <speaker xml:id="idm140203111992608">MAGDELONE.</speaker>
+                        <p xml:id="idm140203111992192">
+                           <stage type="mix" xml:id="idm140203111992064">grædende. </stage>Jo det var hen ved to. </p>
+                     </sp>
+                     <sp xml:id="idm140203111991120">
+                        <speaker xml:id="idm140203111990864">PERNILLE.</speaker>
+                        <p xml:id="idm140203111990448"> Da vaagnede jomfruen op i Forskrækkelse, spatserede frem og
+									tilbage med underlige Gebærder. Da vi spurdte hvad hende skadde,
+									svarede hun os paa lutter Sang. </p>
+                     </sp>
+                     <sp xml:id="idm140203111989568">
+                        <speaker xml:id="idm140203111989312">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111988896"> Hun maa have gaaet i Søvne. </p>
+                     </sp>
+                     <sp xml:id="idm140203111988304">
+                        <speaker xml:id="idm140203111988048">PERNILLE.</speaker>
+                        <p xml:id="idm140203111987632"> Ach ney Herre! Hun holder ved at synge indtil dette Øyeblik.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111986960">
+                        <speaker xml:id="idm140203111986704">ARV.</speaker>
+                        <p xml:id="idm140203111986288"> Da er det en Dievels Syngen, har hun siungen fra den Tiid og til
+									nu. Jeg kom ind i Kammeret om Morgenen, og spurdte, om Herren
+									var ventende hiem i Aften; da satte hun sig i Positur ligesom
+									hun vilde agere Comoedie, og svarede i Sang. Jeg kand
+									ikke giøre det saa vel som hun, thi jeg har ikke lært at synge;
+									men det gik ungefehr saaledes: </p>
+                        <pb n="18" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5018" xml:id="s18"/>
+                        <lg xml:id="idm140203111983984">
+                           <l xml:id="idm140203111983728">Hør Ungersvend, jeg si ----- ger dig,</l>
+                           <l xml:id="idm140203111983248">Han kommer i Aften vis ----- selig.</l>
+                        </lg>
+                        <p xml:id="idm140203111982688"> Herren forlader mig, at jeg synger noget ilde. </p>
+                     </sp>
+                     <sp xml:id="idm140203111982112">
+                        <speaker xml:id="idm140203111981856">LEONARD.</speaker>
+                        <p xml:id="idm140203111981472"> Ach Himmel! hvad er dette for en Hendelse? </p>
+                     </sp>
+                     <sp xml:id="idm140203111980896">
+                        <speaker xml:id="idm140203111980640">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111980224"> Ach jeg elendige Menneske! hvad hører jeg? Der har vi Frugten af
+									den forbandede Opera-Læsning. Det Dievelskab har taget saadan
+									Overhaand, at I skal see, hver anden Jomfrue her i Byen vil
+									begynde at synge ligeledes i Steden for at tale. </p>
+                     </sp>
+                     <sp xml:id="idm140203111979168">
+                        <speaker xml:id="idm140203111978912">LEONARD.</speaker>
+                        <p xml:id="idm140203111978496"> Det var at ønske Hr. Jeronimus, at de vilde. Men efterdi hans
+									Datter synger endnu alleene, saa kand det ikke passere for andet
+									end en Sygdom eller Galskab. </p>
+                     </sp>
+                     <sp xml:id="idm140203111977616">
+                        <speaker xml:id="idm140203111977360">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111976944"> Lad hende strax komme hid. Arv! flye mig et Riis, som jeg vil
+									holde bag Ryggen, og siden true hende med, naar jeg seer, at
+									gode Ord ikke vil hielpe. Disse Node-Bøger skal og Fanden i
+									Vold. Jeg skal love for, at der aldrig hverken enkelte eller
+									dobbelte Fuuser, hverken b duur eller b moll skal komme inden
+									min Dørtærskel oftere. Hør Arv! naar den Mammeselle, som læ- rer
+									hende at synge, kommer her igien, saa kandst du bede hende paa
+									en høflig Maade, at gaae Døden og Dievlen i Vold. Ach mit Hierte
+									vil briste af denne ulykkelige Hendelse. </p>
+                     </sp>
+                     <sp xml:id="idm140203111975456">
+                        <speaker xml:id="idm140203111975200">PERNILLE.</speaker>
+                        <p xml:id="idm140203111974784"> Her er Jomfruen. </p>
+                     </sp>
+                  </div>
+                  <div type="scene" xml:id="idm140203111974112">
+                     <head xml:id="idm140203111973584">SCEN. 6</head>
+                     <stage type="mix" xml:id="idm140203111973168">Leonora. Jeronimus. Magdelone. Pernille. Arv. Leonard.</stage>
+                     <sp xml:id="idm140203111972480">
+                        <speaker xml:id="idm140203111972224">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111971808"> Er det sandt, som jeg hører om dig, min Dotter, at du har
+									saadanne forbandede Lader, at du svarer Folk i lutter Sang og
+									Tremulanter? Hvad Pokker har bragt dig udi saadanne Griller,
+									hvorved du bringer Skrek i din gamle Far og prostituerer dig
+									over hele Byen? </p>
+                     </sp>
+                     <sp xml:id="idm140203111970688">
+                        <speaker xml:id="idm140203111970432">LEONORA.</speaker>
+                        <stage type="mix" xml:id="idm140203111970016">i Opera-Tone.</stage>
+                        <p xml:id="idm140203111969360"> Möchte ich doch, ich doch, mein getreuer Amyntas, noch ehe ich
+									sterbe ---- dich wieder sehn. </p>
+                     </sp>
+                     <pb n="19" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5019" xml:id="s19"/>
+                     <sp xml:id="idm140203111967488">
+                        <speaker xml:id="idm140203111967232">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111966848"> A ----- og det er paa Tydsk oven i Kiøbet. Kiender du mig ikke,
+									mit Barn? </p>
+                     </sp>
+                     <sp xml:id="idm140203111966144">
+                        <speaker xml:id="idm140203111965888">LEONORA.</speaker>
+                        <p xml:id="idm140203111965472"> Ihr seyd mein Vater, ihr seyd mein Vater. </p>
+                     </sp>
+                     <sp xml:id="idm140203111964896">
+                        <speaker xml:id="idm140203111964640">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111964224">
+                           <stage type="mix" xml:id="idm140203111964096">viisende Riiset. </stage> Seer du det? hvis du ikke
+									holder op at harcellere, saa - - - </p>
+                     </sp>
+                     <sp xml:id="idm140203111963104">
+                        <speaker xml:id="idm140203111962848">LEONORA.</speaker>
+                        <p xml:id="idm140203111962432"> Gestrenger Vater, gestrenger Vater, halt! Das ist ja Tyranney,
+									das ist ja gar Gewalt. </p>
+                     </sp>
+                     <!-- <figure>
+<figDesc><hi rend="italics">LEONORA. Möchte ich doch, ich doch, mein getreuer Amyntas, noch ehe ich sterbe - - - - dich wieder sehn.</hi></figDesc>
+<figure> --><pb n="20" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5020" xml:id="s20"/>
+                     <sp xml:id="idm140203111960144">
+                        <speaker xml:id="idm140203111959888">LEONARD.</speaker>
+                        <p xml:id="idm140203111959504"> Jeg er saa altereret, at jeg ikke kanel staae paa mine Been.
+									Adieu min Herre! Lar mig viide, naar det blir bedre med hende.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111958832">
+                        <speaker xml:id="idm140203111958576">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111958160"> Ach jeg elendige Menneske, dette vil krænke mig til Døden. </p>
+                     </sp>
+                     <sp xml:id="idm140203111957504">
+                        <speaker xml:id="idm140203111957248">PERNILLE.</speaker>
+                        <p xml:id="idm140203111956832"> Er det ikke best, at Herren har Bud efter den nye Doctor, som er
+									for nogle Dage siden kommen til Byen? </p>
+                     </sp>
+                     <sp xml:id="idm140203111956192">
+                        <speaker xml:id="idm140203111955936">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111955520"> Veedst du hvor han boer, saa siig det til Arv, at han springer
+									der hen. </p>
+                     </sp>
+                     <sp xml:id="idm140203111954912">
+                        <speaker xml:id="idm140203111954656">PERNILLE.</speaker>
+                        <p xml:id="idm140203111954240">
+                           <stage type="mix" xml:id="idm140203111954112">taler sagte til Arv, og han gaaer. </stage> Det skal være
+									en ypperlig Mand, der har giort store Curer; men han er noget
+									dyr. </p>
+                     </sp>
+                     <sp xml:id="idm140203111952960">
+                        <speaker xml:id="idm140203111952704">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111952288"> Ja jeg har nok hørt tale om ham. Det er jo Doctor Bombastus, som
+									du meener. </p>
+                     </sp>
+                     <sp xml:id="idm140203111951584">
+                        <speaker xml:id="idm140203111951328">PERNILLE.</speaker>
+                        <p xml:id="idm140203111950912"> Ja det er den samme. Han har allereede cureert 6 stumme Folk her
+									i Byen. Han har en Søn med sig, som skal være lige saa sterk som
+									han selv i Medicinskabet. </p>
+                     </sp>
+                     <sp xml:id="idm140203111950032">
+                        <speaker xml:id="idm140203111949776">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111949360"> Hvor har du hørt alt dette? </p>
+                     </sp>
+                     <sp xml:id="idm140203111948768">
+                        <speaker xml:id="idm140203111948512">PERNILLE.</speaker>
+                        <p xml:id="idm140203111948096"> Mammesellen, som har informeret Jomfruen, har fortalt det. Ach
+									gid han kunde hielpe hende! om jeg skulde selge mine Klæer
+									indtil mit Skiørt, saa vilde jeg giøre det for at betale ham.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111947136">
+                        <speaker xml:id="idm140203111946880">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111946464"> Han skal nok blive betalt. </p>
+                     </sp>
+                     <sp xml:id="idm140203111945904">
+                        <speaker xml:id="idm140203111945648">PERNILLE.</speaker>
+                        <p xml:id="idm140203111945232"> Men vil Herren ikke forsøge at tale hende meer til, for at høre
+									om hun bliver ved? </p>
+                     </sp>
+                     <sp xml:id="idm140203111944512">
+                        <speaker xml:id="idm140203111944256">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111943840"> Jeg kand ikke taale at see paa hende, Pernille. Lad hende gaae
+									ind saa længe til Docteren kommer. </p>
+                        <stage type="mix" xml:id="idm140203111943216">Leonora leedes ind.</stage>
+                     </sp>
+                     <sp xml:id="idm140203111942432">
+                        <speaker xml:id="idm140203111942176">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111941760"> Kand nogens Sorg vel lignes med min? Det er mit eeneste Barn,
+									hvis Bryllup jeg havde tænkt at holde i een af Dagene med en
+									fornemme ung Person. </p>
+                     </sp>
+                     <sp xml:id="idm140203111940896">
+                        <speaker xml:id="idm140203111940640">PERNILLE.</speaker>
+                        <p xml:id="idm140203111940224"> Var det den unge Person som gik bort? </p>
+                     </sp>
+                     <sp xml:id="idm140203111939664">
+                        <speaker xml:id="idm140203111939408">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111938992"> Ja det var ham. </p>
+                     </sp>
+                     <sp xml:id="idm140203111938448">
+                        <speaker xml:id="idm140203111938192">PERNILLE.</speaker>
+                        <p xml:id="idm140203111937776"> Hvor boer han? </p>
+                     </sp>
+                     <pb n="21" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5021" xml:id="s21"/>
+                     <sp xml:id="idm140203111936096">
+                        <speaker xml:id="idm140203111935840">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111935456"> Han er fra Holsten, hvor han har arvet anseelige Midler efter
+									sin Far, som nyelig er død, og maaskee kand faae dobbelt saa
+									meget, dersom det er sandt, som man siger, at hans Broer er død
+									udenlands. Han har sat sig her ned udi Landet paa en Herregaard,
+									hvor han har giort alting reede at tage imod hende. Jeg veed
+									nok, at denne fremmede Straten-Junker, som talede med hende paa
+									det Assemblee for 14 Dage siden, gaaer og støver efter hende.
+									Jeg har faaet tilstrækkelig Kundskab derom, hvorfor jeg har
+									brugt alle muelige Præcautioner, at han ikke faaer hverken hende
+									eller nogen af jer andre i Tale; thi Knægten seer vel ud, og en
+									ung Jomfrue, som hun, er læt at forføre. </p>
+                     </sp>
+                     <sp xml:id="idm140203112254768">
+                        <speaker xml:id="idm140203112254512">PERNILLE.</speaker>
+                        <p xml:id="idm140203112254096"> Er det derfor at Herren har sluttet os inde ligesom i en
+									Muuse-Fælde? </p>
+                     </sp>
+                     <sp xml:id="idm140203112253408">
+                        <speaker xml:id="idm140203112253152">JERONIMUS.</speaker>
+                        <p xml:id="idm140203112252736"> Ja just derfor. Men mon hun skulde have nogen Kierlighed til
+									samme Karl, og det samme skulde have bragt hende udi dette
+									Galskab? </p>
+                     </sp>
+                     <sp xml:id="idm140203112252064">
+                        <speaker xml:id="idm140203112251808">PERNILLE.</speaker>
+                        <p xml:id="idm140203112251392"> Ney, jeg har min Troe ikke merket andet end at hun var fornøyet
+									med det Vall, som Herren har giort. Men der kommer Docteren og
+									hans Søn. </p>
+                     </sp>
+                  </div>
+                  <div type="scene" xml:id="idm140203112250416">
+                     <head xml:id="idm140203112249888">SCEN. 7</head>
+                     <stage type="mix" xml:id="idm140203112249472">Henrich som Doctor. Leander som Licentiat. Jeronimus. Pernille.
+								Magdelone. Arv. Henrich og Leander giør Pedantiske Complimenter.</stage>
+                     <sp xml:id="idm140203112248560">
+                        <speaker xml:id="idm140203112248304">JERONIMUS.</speaker>
+                        <p xml:id="idm140203112247888"> Om Forladelse, min Herre, at jeg har taget den Dristighed at
+									have Bud efter ham. </p>
+                     </sp>
+                     <sp xml:id="idm140203112247264">
+                        <speaker xml:id="idm140203112247008">HENRICH.</speaker>
+                        <p xml:id="idm140203111917728"> Alt forladt. Er det han selv, som er gal, min Herre? </p>
+                     </sp>
+                     <sp xml:id="idm140203111917152">
+                        <speaker xml:id="idm140203111916896">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111916512"> Ney, Gud skee Lov, jeg skader intet, Hr. Doctor. Men min eeneste
+									Dotter er geraadet i en stor Ulykke; om Hr. Doctor kunde hielpe
+									hende, saa - - - </p>
+                     </sp>
+                     <sp xml:id="idm140203111915824">
+                        <speaker xml:id="idm140203111915568">HENRICH.</speaker>
+                        <p xml:id="idm140203111915152"> Det skulde være en farlig stor Ulykke, som jeg ikke skulde kunde
+									hielpe for. Jeg vilde ønske, min Herre, at han selv havde
+									halvfemtsindstyve Ulykker <pb n="22" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5022" xml:id="s22"/> og Sygdomme paa Halsen, at jeg kunde giøre min Konst probat
+									paa ham. </p>
+                     </sp>
+                     <sp xml:id="idm140203111912976">
+                        <speaker xml:id="idm140203111912720">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111912336"> Jeg takker skyldigst Hr. Doctor; men det er dog bedre som bedre
+									er. </p>
+                     </sp>
+                     <sp xml:id="idm140203111911728">
+                        <speaker xml:id="idm140203111911472">HENRICH.</speaker>
+                        <p xml:id="idm140203111911056"> Det er endelig sandt. Men vil I give mig Lov at bryde jer et Arm
+									eller Been af, alleene for at lade see, hvor hastig jeg kand
+									curere igien? </p>
+                     </sp>
+                     <sp xml:id="idm140203111910368">
+                        <speaker xml:id="idm140203111910112">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111909696"> Jeg tviler ikke om hans Dygtighed, thi all Verden kiender Doctor
+									Bombastus; men jeg vil dog ikke umage ham med saadanne
+									Bagateller denne gang. </p>
+                     </sp>
+                     <sp xml:id="idm140203111909008">
+                        <speaker xml:id="idm140203111908752">HENRICH.</speaker>
+                        <p xml:id="idm140203111908336"> Han maa vel siige Bagateller. Det er noget, som min Søn
+									Licentiat Theophrastus kand giøre i en Haandevending. Kom min
+									Herre, lad mig giøre et Forsøg enten paa hans Arm eller Been.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111907392">
+                        <speaker xml:id="idm140203111907136">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111906720"> Ney Hr. Doctor, ikke denne gang, ikke denne gang. </p>
+                     </sp>
+                     <sp xml:id="idm140203111906144">
+                        <speaker xml:id="idm140203111905888">HENRICH.</speaker>
+                        <p xml:id="idm140203111905472"> Lad mig da forsøge paa hans Gaards-Karl. </p>
+                     </sp>
+                     <sp xml:id="idm140203111904864">
+                        <speaker xml:id="idm140203111904608">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111904192"> Ja det kand nok skee. Arv, kom hid til Docteren! </p>
+                     </sp>
+                     <sp xml:id="idm140203111903616">
+                        <speaker xml:id="idm140203111903360">ARV.</speaker>
+                        <p xml:id="idm140203111902944">A---------- </p>
+                     </sp>
+                     <sp xml:id="idm140203111902400">
+                        <speaker xml:id="idm140203111902144">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111901728"> Ey du Nar! Han curerer dig i samme Øyeblik igien. </p>
+                     </sp>
+                     <sp xml:id="idm140203111901088">
+                        <speaker xml:id="idm140203111900832">ARV.</speaker>
+                        <p xml:id="idm140203111900416">A---------- </p>
+                     </sp>
+                     <sp xml:id="idm140203111899872">
+                        <speaker xml:id="idm140203111899616">HENRICH.</speaker>
+                        <p xml:id="idm140203111899200"> Kom kun hid min Søn! du skal see, hvor hastig det er giort. </p>
+                     </sp>
+                     <sp xml:id="idm140203111898544">
+                        <speaker xml:id="idm140203111898288">ARV.</speaker>
+                        <p xml:id="idm140203111897872"> A ---------- </p>
+                     </sp>
+                     <sp xml:id="idm140203111897328">
+                        <speaker xml:id="idm140203111897072">HENRICH.</speaker>
+                        <p xml:id="idm140203111896656"> Jeg seer nok, at han ikke vil dertil. Men hvad er det jer Datter
+									skader? </p>
+                     </sp>
+                     <sp xml:id="idm140203111896048">
+                        <speaker xml:id="idm140203111895792">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111895376"> Hun vil ikke tale meere, men alt, hvad hun siger, gaaer paa
+									Sang. </p>
+                     </sp>
+                     <sp xml:id="idm140203111894768">
+                        <speaker xml:id="idm140203111894512">HENRICH.</speaker>
+                        <p xml:id="idm140203111894096"> Den Sygdom heeder paa Latin Perisangia, og paa Græsk
+									Copissisandung. Den har jeg cureret mange for. Jeg maa føle paa
+									hendes Puls. <stage type="mix" xml:id="idm140203111893520">Føler Pernille paa Pulsen.</stage> Har hun
+									længe været saa gall? min kiere Jomfrue! </p>
+                        <p xml:id="idm140203111892560"> Giv jer kun tilfreds; jeg skal nok curere jer. </p>
+                     </sp>
+                     <pb n="23" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5023" xml:id="s23"/>
+                     <sp xml:id="idm140203111890848">
+                        <speaker xml:id="idm140203111890592">PERNILLE.</speaker>
+                        <p xml:id="idm140203111890208"> Jeg siger tusind Tak, Hr. Doctor, men det er ikke mig. </p>
+                     </sp>
+                     <sp xml:id="idm140203111889616">
+                        <speaker xml:id="idm140203111889360">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111888944"> Ney Hr. Doctor, det er min Piige. Lad min Datter strax komme
+									hid. </p>
+                     </sp>
+                  </div>
+                  <div type="scene" xml:id="idm140203111888208">
+                     <head xml:id="idm140203111887680">SCEN. 8</head>
+                     <stage type="mix" xml:id="idm140203111887264">Leonora. Personerne af forrige Scene.</stage>
+                     <sp xml:id="idm140203111886592">
+                        <speaker xml:id="idm140203111886336">HENRICH.</speaker>
+                        <p xml:id="idm140203111885920"> Ja det er ret. Det første jeg kastede mine Øyen paa hende, kunde
+									jeg see, at hun har den Svaghed, som kaldes Perisangia. </p>
+                     </sp>
+                     <sp xml:id="idm140203111885120">
+                        <speaker xml:id="idm140203111884864">LEANDER.</speaker>
+                        <p xml:id="idm140203111884448"> Vil kun Papa give agt paa hendes Næse, paa den Circum flex eller
+									dolus malus, som han seer. </p>
+                     </sp>
+                     <sp xml:id="idm140203111883712">
+                        <speaker xml:id="idm140203111883456">HENRICH.</speaker>
+                        <p xml:id="idm140203111883040"> Det er ret min Søn. Den Circumflex gir alleene tilstræk kelig
+									tilkiende, at det er en Perisangia. Jeg maa føle hendes Pultem.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111882224">
+                        <speaker xml:id="idm140203111881968">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111881552"> Vil Hr. Doctor ikke legge sin Hat fra sig? den incommoderer ham.
+									Arv! Kom hid og tag Hr. Doctors Hat. </p>
+                     </sp>
+                     <sp xml:id="idm140203111880912">
+                        <speaker xml:id="idm140203111880656">ARV.</speaker>
+                        <p xml:id="idm140203111880240"> A - - - - - - - - - - </p>
+                     </sp>
+                     <sp xml:id="idm140203111879696">
+                        <speaker xml:id="idm140203111879440">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111879024"> Jeg troer Drengen er gal. Vil du hid at tage Hatten! </p>
+                     </sp>
+                     <sp xml:id="idm140203111878448">
+                        <speaker xml:id="idm140203111878192">ARV.</speaker>
+                        <p xml:id="idm140203111877776"> A - - - - - - - - - - </p>
+                     </sp>
+                     <sp xml:id="idm140203111877232">
+                        <speaker xml:id="idm140203111876976">HENRICH.</speaker>
+                        <p xml:id="idm140203111876560"> Han er bange for mig; jeg vil sætte Hatten paa Hovedet. Om
+									Permission min hierte Jomfruel Ja Pulsen slaaer Perisangialiter.
+									Føel, Hr. Licentiat, og siig mig din Meening. </p>
+                     </sp>
+                     <sp xml:id="idm140203111875648">
+                        <speaker xml:id="idm140203111875392">LEANDER.</speaker>
+                        <p xml:id="idm140203111874976"> Mig synes, Papa, at her er meere end en Perisangia, her er snart
+									en Archisangia. </p>
+                     </sp>
+                     <sp xml:id="idm140203111874352">
+                        <speaker xml:id="idm140203111874096">HENRICH.</speaker>
+                        <p xml:id="idm140203111873680"> Det er sandt, Pulsen har hart ad en fuldkommen Archisangialisk
+									Gang. Men det er intet. Min Søn skal curere hende, min hierte
+									jomfrue! </p>
+                     </sp>
+                     <sp xml:id="idm140203111872848">
+                        <speaker xml:id="idm140203111872592">LEANDER.</speaker>
+                        <p xml:id="idm140203111872176"> Ja det skal jeg gierne, vil hun kun have Tillid til mig. </p>
+                     </sp>
+                     <sp xml:id="idm140203111871584">
+                        <speaker xml:id="idm140203111871328">LEONORA.</speaker>
+                        <lg xml:id="idm140203111870912">
+                           <l xml:id="idm140203111870656">Jeg stoler paa dig meest</l>
+                           <l xml:id="idm140203111870224">I dette og i meere,</l>
+                           <pb n="24" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5024" xml:id="s24"/>
+                           <l xml:id="idm140203111868672">Du min Apollo est,</l>
+                           <l xml:id="idm140203111868288">Som eene kand curere.</l>
+                        </lg>
+                     </sp>
+                     <sp xml:id="idm140203111867616">
+                        <speaker xml:id="idm140203111867360">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111866944"> Hvor fælt det er at høre hende svare paa Sang, saa glæder jeg
+									mig dog ved at høre, at hun har Tillid til Licentiaten. </p>
+                     </sp>
+                     <sp xml:id="idm140203111866144">
+                        <speaker xml:id="idm140203111865888">PERNILLE.</speaker>
+                        <p xml:id="idm140203111865472"> Ja jeg skal give min Hals, om han ikke curerer hende. </p>
+                     </sp>
+                     <sp xml:id="idm140203111864896">
+                        <speaker xml:id="idm140203111864640">LEANDER.</speaker>
+                        <p xml:id="idm140203111864224"> Det er ikke en liden Hielp for en Doctor, at Patienten har
+									Tilliid til ham. </p>
+                     </sp>
+                     <sp xml:id="idm140203111863616">
+                        <speaker xml:id="idm140203111863360">LEONORA.</speaker>
+                        <lg xml:id="idm140203111862944">
+                           <l xml:id="idm140203111862688">Naar jeg dit Aasiun seer,</l>
+                           <l xml:id="idm140203111862256">Forsvinder all min Smerte,</l>
+                           <l xml:id="idm140203111861824">Ja alting i mig leer;</l>
+                           <l xml:id="idm140203111861408">See jeg dig gir mit Hierte.</l>
+                           <l xml:id="idm140203111860976">Jeg stoler paa dig meest</l>
+                           <l xml:id="idm140203111860544">I dette og i meere,</l>
+                           <l xml:id="idm140203111860128">Du min Apollo est,</l>
+                           <l xml:id="idm140203111859712">Som eene kand curere.</l>
+                        </lg>
+                     </sp>
+                     <sp xml:id="idm140203111859040">
+                        <speaker xml:id="idm140203111858784">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111858368"> Det er endelig noget sterkt, men jeg kand tænke, det er et
+									stykke af et Opera. Jeg merker Hr. Doctor, at hun er allereede
+									til Forbedring; thi tilforne sang hun ikke uden paa Tydsk. </p>
+                     </sp>
+                     <sp xml:id="idm140203111857440">
+                        <speaker xml:id="idm140203111857184">LEANDER.</speaker>
+                        <p xml:id="idm140203111856768"> Saa sandt som jeg er legitime promoveret Licentiat, saa skal han
+									takke mig. Inden 2 Dage, min kiære Jomfrue, skal hun føle
+									Virkning af min Dygtighed. </p>
+                     </sp>
+                     <sp xml:id="idm140203111855904">
+                        <speaker xml:id="idm140203111855648">LEONORA.</speaker>
+                        <lg xml:id="idm140203111855232">
+                           <l xml:id="idm140203111854976">Jeg stoler paa dig meest</l>
+                           <l xml:id="idm140203111854544">I dette og i meere,</l>
+                           <l xml:id="idm140203111854128">Du min Apollo est,</l>
+                           <l xml:id="idm140203111853712">Som eene kand curere.</l>
+                        </lg>
+                        <stage type="mix" xml:id="idm140203111853168">Arv staaer imidlertiid og skielvet og løber til side, saa tit
+									Docteren nærmer sig til ham.</stage>
+                     </sp>
+                     <sp xml:id="idm140203111852192">
+                        <speaker xml:id="idm140203111851936">HENRICH.</speaker>
+                        <p xml:id="idm140203111851520"> Jeg maa conferere lidet med min Søn om Curen. Qvid tibi videtur
+									Dominus Licentiatus, post molestam senectutem nos habebit humus?
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111850688">
+                        <speaker xml:id="idm140203111850432">LEANDER.</speaker>
+                        <p xml:id="idm140203111850016"> Nomen pronomen verbum participium supinum præpositio conjunctio
+									interjectio. </p>
+                     </sp>
+                     <pb n="25" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5025" xml:id="s25"/>
+                     <sp xml:id="idm140203111848128">
+                        <speaker xml:id="idm140203111847872">HENRICH.</speaker>
+                        <p xml:id="idm140203111847488"> Adjectivum et Substantivum genere numero et pluraliter. </p>
+                     </sp>
+                     <sp xml:id="idm140203111846896">
+                        <speaker xml:id="idm140203111846640">LEANDER.</speaker>
+                        <p xml:id="idm140203111846224"> Rusticus in via - - si non vis credere gusta. </p>
+                     </sp>
+                     <sp xml:id="idm140203111845648">
+                        <speaker xml:id="idm140203111845392">HENRICH.</speaker>
+                        <p xml:id="idm140203111844976"> Gratias qvam maximas ago qvia qvoniam qvando. </p>
+                     </sp>
+                     <sp xml:id="idm140203111844400">
+                        <speaker xml:id="idm140203111844144">LEANDER.</speaker>
+                        <p xml:id="idm140203111843728"> Tune tua res agitur, paries cum proximus ardet. </p>
+                        <stage type="mix" xml:id="idm140203111843280">De blit meer og meer hidsig.</stage>
+                     </sp>
+                     <sp xml:id="idm140203111842480">
+                        <speaker xml:id="idm140203111842224">HENRICH.</speaker>
+                        <p xml:id="idm140203111841808"> Alpha beta gamma delta ypselon ponto basta. </p>
+                     </sp>
+                     <sp xml:id="idm140203111841232">
+                        <speaker xml:id="idm140203111840976">LEANDER.</speaker>
+                        <p xml:id="idm140203111840560"> Ad adversus adversum pro contra extra supra palam
+									archipodialiter tenus. </p>
+                     </sp>
+                     <sp xml:id="idm140203111839952">
+                        <speaker xml:id="idm140203111839696">ARV.</speaker>
+                        <p xml:id="idm140203111839280"> Gid de kunde komme i Haar sammen, og bryde Arme og Been i tu paa
+									hinanden i steden for paa mig. </p>
+                     </sp>
+                     <sp xml:id="idm140203111838640">
+                        <speaker xml:id="idm140203111838384">HENRICH.</speaker>
+                        <p xml:id="idm140203111837968"> Omnia conando docilis solertia vincit. </p>
+                     </sp>
+                     <sp xml:id="idm140203111837392">
+                        <speaker xml:id="idm140203111837136">LEANDER.</speaker>
+                        <p xml:id="idm140203111836720"> Pes aries paries palmes cum limite stipes. </p>
+                     </sp>
+                     <sp xml:id="idm140203111836144">
+                        <speaker xml:id="idm140203111835888">HENRICH.</speaker>
+                        <p xml:id="idm140203111835472"> Qvisqvis amat ranam, ranam putat esse Dianam. </p>
+                     </sp>
+                     <sp xml:id="idm140203111834896">
+                        <speaker xml:id="idm140203111834640">ARV.</speaker>
+                        <p xml:id="idm140203111834224"> Ja øver jer Konst paa Diana længe nok; thi det er kun en Hund.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111833552">
+                        <speaker xml:id="idm140203111833296">HENRICH.</speaker>
+                        <p xml:id="idm140203111832880">
+                           <stage type="mix" xml:id="idm140203111832752">med knytted Næver. </stage> Qvando duo substantiva
+									concurrunt, alterum erat infinitivi. </p>
+                     </sp>
+                     <sp xml:id="idm140203111831728">
+                        <speaker xml:id="idm140203111831472">LEANDER.</speaker>
+                        <p xml:id="idm140203111831056"> Tytere tu patulæ recubans solertia vincit. </p>
+                     </sp>
+                     <sp xml:id="idm140203111830432">
+                        <speaker xml:id="idm140203111830176">HENRICH.</speaker>
+                        <p xml:id="idm140203111829760"> Got, got, min Søn, jeg har approberet din Meening fra
+									Begyndelsen. Jeg har kun opponeret saa sterk imod dig for at
+									høre, om du holdt fast ved dine Principia. Hør min Herre!
+									Efterdi eders Datter skulde blive syg og falde udi saadan
+									Galskab, saa er ingen beleyligere Tid for hende end denne. </p>
+                     </sp>
+                     <sp xml:id="idm140203111828592">
+                        <speaker xml:id="idm140203111828336">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111827920"> Ach ney, min Herre! Det er den allerubeleyligste Tid; Thi hun
+									skulde i disse Dage have Bryllup med en fornemme ung Person.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111827248">
+                        <speaker xml:id="idm140203111826992">LEANDER.</speaker>
+                        <p xml:id="idm140203111826576"> Ney min Herre! Tidens Beleylighed bestaaei der udi, at det er
+									St. Hans Aften i Dag. </p>
+                     </sp>
+                     <sp xml:id="idm140203111825952">
+                        <speaker xml:id="idm140203111825696">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111825280"> Hvad kand det giøre til Sagen? </p>
+                     </sp>
+                     <sp xml:id="idm140203111824688">
+                        <speaker xml:id="idm140203111824432">LEANDER.</speaker>
+                        <p xml:id="idm140203111824016"> Jo hun maa ud til Kilden. </p>
+                     </sp>
+                     <sp xml:id="idm140203111823456">
+                        <speaker xml:id="idm140203111823200">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111822784"> Men er der saadan Kraft i det Vand? </p>
+                     </sp>
+                     <pb n="26" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5026" xml:id="s26"/>
+                     <!-- <figure>
+<figDesc><hi rend="italics">HENRICH. ... Qyando duo substantiva concurrunt, alterum erat infinitivi.
+LEANDER. ... Tytere tu patulæ recubans solertia vincit</hi>
+</figDesc>
+<figure> --><sp xml:id="idm140203111820960">
+                        <speaker xml:id="idm140203111820368">LEANDER.</speaker>
+                        <p xml:id="idm140203111819952"> Der er større Lægedom derudi, end nogen skal kunde troe, naar
+									man bruger det paa den rette Maade, og til det rette
+									Klokke-Slet, og ved nogle foregaaende Præparatorier, som for
+									Exempel et lidet Pulver, som hun skal tage ind først. </p>
+                     </sp>
+                     <sp xml:id="idm140203111818896">
+                        <speaker xml:id="idm140203111818640">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111818224"> Vil da Hr. Licentiat have den Godhed at følge med? </p>
+                     </sp>
+                     <pb n="27" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5027" xml:id="s27"/>
+                     <sp xml:id="idm140203111816448">
+                        <speaker xml:id="idm140203111816192">LEANDER.</speaker>
+                        <p xml:id="idm140203111815808"> Ja hiertelig gierne. </p>
+                     </sp>
+                     <sp xml:id="idm140203111815264">
+                        <speaker xml:id="idm140203111815008">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111814592"> Jeg vilde ogsaa bede, at han seer til, at ingen anden faaer
+									hende i Tale derude; thi her er kommen en ung Studshane til
+									Byen, som gaaer og støver efter hende. </p>
+                     </sp>
+                     <sp xml:id="idm140203111813712">
+                        <speaker xml:id="idm140203111813456">HENRICH.</speaker>
+                        <p xml:id="idm140203111813040"> Det skal have gode Veye. </p>
+                     </sp>
+                     <sp xml:id="idm140203111812480">
+                        <speaker xml:id="idm140203111812224">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111811808"> Hør Pernille og Magdelone! Laver jer strax til, og lar baade
+									Vognen og Chaisen spende for; thi nu er Tiden. Vil de behage at
+									træde ind saa længe, medens Vognen spendes for? </p>
+                     </sp>
+                  </div>
+                  <!-- <figure>
+<figDesc>
+<hi rend="italics">... en Vey til Kilden, hvor hen reyse saa vel Ryttere som Fodfolk med Spand, Krukker og Bouteiller.</hi>
+</figDesc>
+<figure> --><div xml:id="idm140203111810256">
+                     <head xml:id="idm140203111810000">INTERMEDIUM<lb xml:id="idm140203111809744"/> i steden for den anden Act.</head>
+                     <stage type="mix" xml:id="idm140203111809312">Theatrum gjøres saa lidet som det kand, saa der præsenteres kun i
+								Førstningen som en Vey til Kilden, hvor hen reyse saa vel Ryttere
+								som Fodfolk med Spand, Krukker og Bouteiller, og kand een have
+								hengende om sig lutter Krukker, andre lutter Bouteiller. De samme
+								kand fare ud af een Side og komme ind af en anden for at have
+								Anseelse af mange Folk. 2 Processioner skeer af Folk som holder <pb n="28" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5028" xml:id="s28"/> Tacten efter Musiqve. Een
+								af Bønder, som gaaer Sommer i By e, med Faner og Mundering og
+								May-Greene. Den anden af gamle Kiellinger, alle med differente
+								vanskabte Masqver, gaaende med deres Krykker efter Tacten og Krukker
+								hengende ved Siden. For dem spilles et Liire-Stykke. Derpaa aabnes
+								fond de Theatre, hvor Kilden præsenteres med nogle smaa Telte. Saa
+								snart det aabnes, høres <!-- <figure>
+<figDesc>
+<hi rend="italics">Kilden præsenteres med nogle smaa Telte</hi>
+</figDesc>
+<figure> --><pb n="29" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5029" xml:id="s29"/> samme Øyeblik en stor
+								confus Allarm; nogle raabe, andre snakke, andre svinge og smekke med
+								Pidsker, og Kiellinger slaaes om at komme først til Kilden. En blind
+								Mand kommer ind med en Bier-Fiol, hvorefter Bønderne dantze. Kilden
+								er et lille Hull paa Gulvet, hvoraf idelig nogle øse Vand, andre med
+								Krukker, andre med deres Hatte. Naar det er mod Enden, sluttes fond
+								de Theatre igien.</stage>
+                  </div>
+               </div>
+               <!-- <figure>
+<figDesc>
+<hi rend="italics">Kilden er et lille Hull ..., hvoraf idelig nogle øse Vand ...</hi>
+</figDesc>
+<figure> --><pb n="30" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5030" xml:id="s30"/>
+               <div type="akt" xml:id="idm140203111802256">
+                  <head xml:id="idm140203111801760">ACTUS III</head>
+                  <div type="scene" n="1" xml:id="idm140203111801344">
+                     <head xml:id="idm140203111800576">SCEN. 1.</head>
+                     <stage type="mix" xml:id="idm140203111800160">Jeronimus. Arv.</stage>
+                     <sp xml:id="idm140203111799504">
+                        <speaker xml:id="idm140203111799248">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111798832"> Hør Arv! </p>
+                     </sp>
+                     <sp xml:id="idm140203111798288">
+                        <speaker xml:id="idm140203111798032">ARV.</speaker>
+                        <p xml:id="idm140203111797616">
+                           <stage type="mix" xml:id="idm140203111797488">søvnig strækkende sig. </stage> Jeg veed ikke, hvorfor vi
+									skal staae op om Natten. </p>
+                     </sp>
+                     <sp xml:id="idm140203111796464">
+                        <speaker xml:id="idm140203111796208">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111795792"> Er det Nat, naar Soelen er oppe? </p>
+                     </sp>
+                     <sp xml:id="idm140203111795280">
+                        <speaker xml:id="idm140203111795024">ARV.</speaker>
+                        <p xml:id="idm140203111794608"> Ey Herre! I kand ikke regne Soelen ved St. Hans Tider, hvor hun
+									ikke sover en halv Time udi 24. Det kand vi Mennesker ikke
+									giøre; thi Soelen sover derimod den heele Vinter bort, naar vi
+									maa arbeyde ved Lys. <stage type="mix" xml:id="idm140203111793856">Han gisper og strækker sig
+									igien.</stage>
+								                </p>
+                     </sp>
+                     <sp xml:id="idm140203111792880">
+                        <speaker xml:id="idm140203111792624">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111792208"> Jeg havde ikke staaet saa tilig op, hvis det ikke havde været
+									for at erkyndige mig om min Datters Tilstand. Hvad Tiid kom de
+									hiem i Aftes? </p>
+                     </sp>
+                     <sp xml:id="idm140203111791360">
+                        <speaker xml:id="idm140203111791104">ARV.</speaker>
+                        <p xml:id="idm140203111790688"> Der er hverken Hund eller Kat kommen tilbage endnu. </p>
+                     </sp>
+                     <sp xml:id="idm140203111790112">
+                        <speaker xml:id="idm140203111789856">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111789440"> Hvad Pokker er dette? Er de bleven ude den heele Nat? Jeg veed
+									hun kunde jo have drukket Vandet i Aftes, og ligget hiemme i
+									Nat; man curerer jo ikke Folk om Natten? </p>
+                     </sp>
+                     <sp xml:id="idm140203111788720">
+                        <speaker xml:id="idm140203111788464">ARV.</speaker>
+                        <p xml:id="idm140203111788048"> Det er ligesom Sygdommen og Docteren er til, Herre. Der kand
+									være visse Sygdomme, som cureres best om Natten, og visse
+									Doctere, som ikke practicerer, førend Soelen gaaer ned. </p>
+                     </sp>
+                     <sp xml:id="idm140203111787120">
+                        <speaker xml:id="idm140203111786864">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111786448"> Det er sandt, naar et Menneske kommer en hastig Svaghed, saasom
+									Daanelse, paa om Natten, saa maa man bruge Doctor, men udi
+									langvarige Sygdomme lader man Folk sove om Natten. </p>
+                     </sp>
+                     <sp xml:id="idm140203111785728">
+                        <speaker xml:id="idm140203111785472">ARV.</speaker>
+                        <p xml:id="idm140203111785056"> Ey Herre! Docterne forstaaer det best; troe mig, <pb n="31" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5031" xml:id="s31"/> at Docterens Søn havde ikke
+									ladet hende ligge ude, hvis han ikke havde vidst, at Natte-Kuur
+									havde været hende tienligt. </p>
+                     </sp>
+                     <sp xml:id="idm140203111783040">
+                        <speaker xml:id="idm140203111782784">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111782400"> Hun er endelig udi gode Hænder, det er vist; men jeg har dog
+									ingen Roelighed, førend jeg seer hende. Jeg maa strax reyse selv
+									derud, hvorvel jeg er meget træt af forrige Reyse. Kom ind Arv!
+									du skal følge mig. </p>
+                     </sp>
+                  </div>
+                  <div type="scene" xml:id="idm140203111781264">
+                     <head xml:id="idm140203111780736">SCEN. 2</head>
+                     <sp xml:id="idm140203111780320">
+                        <speaker xml:id="idm140203111780064">HENRICH.</speaker>
+                        <p xml:id="idm140203111779648"> Min Herre, som er flygtet med Jomfruen fra Kilden, har befalet
+									mig at gaae hid for at holde den Gamle med Snak, at, om han er
+									allarmered over deres Udeværelse i Nat, skal jeg forhindre ham,
+									at han ikke reyser der ud, paa det at de kand faae desbedre Tiid
+									til at komme i Sikkerhed. De opholdte sig 2 Tiimer ved Kilden,
+									indtil de saae deres Tempo at komme bort med en Bonde-Vogn. Hr.
+									Jeronimi Kudsk, troer jeg nok, leeder endnu efter dem; thi han
+									tør vel ikke komme hiem, førend han har fundet dem igien. Men
+									jeg maa banke paa. </p>
+                     </sp>
+                  </div>
+                  <div type="scene" xml:id="idm140203111778048">
+                     <head xml:id="idm140203111777520">SCEN. 3</head>
+                     <stage type="mix" xml:id="idm140203111777104">Henrich. Arv. Jeronimus.</stage>
+                     <sp xml:id="idm140203111776432">
+                        <speaker xml:id="idm140203111776176">HENRICH.</speaker>
+                        <p xml:id="idm140203111775760"> Hør Cammerad! jeg vil tale et Ord med din Herre. </p>
+                     </sp>
+                     <sp xml:id="idm140203111775136">
+                        <speaker xml:id="idm140203111774880">ARV.</speaker>
+                        <p xml:id="idm140203111774464"> Ach Hr. Doctor! Vil I intet ont giøre mig? </p>
+                     </sp>
+                     <sp xml:id="idm140203111773840">
+                        <speaker xml:id="idm140203111773584">HENRICH.</speaker>
+                        <p xml:id="idm140203111773168"> Aldeeles intet, min Søn, jeg vil heller giøre dig got end ont;
+									men lad mig faae din Herre i Tale. </p>
+                     </sp>
+                     <sp xml:id="idm140203111772416">
+                        <speaker xml:id="idm140203111772160">ARV.</speaker>
+                        <p xml:id="idm140203111771744"> Hr. Jeronimus! her er Docteren igien. </p>
+                     </sp>
+                     <sp xml:id="idm140203111771184">
+                        <speaker xml:id="idm140203111770928">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111770512"> Hans Tienere, Hr. Doctor! han kommer ret beleyligt. Jeg er
+									bekymret over min Datters Udeblivelse i Nat, og staaer derfore
+									færdig at reyse ud til Kilden. </p>
+                     </sp>
+                     <sp xml:id="idm140203111769632">
+                        <speaker xml:id="idm140203111769376">HENRICH.</speaker>
+                        <p xml:id="idm140203111768960"> Ey! det giøres ikke nødigt. I Aften skal I <pb n="32" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5032" xml:id="s32"/> uden Tvivl have jer Datter
+									gandske frisk tilbage; nu fik jeg Bud fra min Søn med en Seddel
+									af dette Indhold: </p>
+                        <p xml:id="idm140203111767008">
+                           <stage type="mix" xml:id="idm140203111766880">Læser Seddelen.</stage> Spælamdisimo Kiörivendum doctus
+									doctior doctissimus. Ja han forstaaer, maaskee, ikke Latin. </p>
+                     </sp>
+                     <sp xml:id="idm140203111765728">
+                        <speaker xml:id="idm140203111765472">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111765088"> Ney jeg giør ikke Hr. Doctor. </p>
+                     </sp>
+                     <sp xml:id="idm140203111764496">
+                        <speaker xml:id="idm140203111764240">HENRICH.</speaker>
+                        <p xml:id="idm140203111763824"> Saa skal jeg da forklare det paa Danske: Høylærde og vidtberømte
+									Hr. Doctor! </p>
+                        <p xml:id="idm140203111763248"> Høytærede kiere Fader! </p>
+                        <p xml:id="idm140203111762800"> Jeg maa berette ham, hvorvidt der er avanceret med Curen: Jeg
+									har ordineret to Pulver for Jomfruen, et at bruge for Vandet, et
+									andet efter Vandet. Det første Pulver er den Tinctur, som kaldes
+									- - - </p>
+                     </sp>
+                     <sp xml:id="idm140203111761824">
+                        <speaker xml:id="idm140203111761568">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111761152"> Et Pulver er jo ikke Tinctur? </p>
+                     </sp>
+                     <sp xml:id="idm140203111760592">
+                        <speaker xml:id="idm140203111760336">HENRICH.</speaker>
+                        <p xml:id="idm140203111759920"> Jo det kaldes nu Tinctur hos alle nye Autoribus. Jeg maa læse
+									videre: </p>
+                        <p xml:id="idm140203111759360"> Det første Pulver er den Tinctur, kaldet Scabhalsiaskomai,
+									hvilken saa snart hun havde taget ind, blev hun langt verre; thi
+									hun giorde ikke andet end sang idelig. Derpaa lod jeg hende
+									drikke af Vandet halvanden Potte og en to og tredivende Deel,
+									hvilket er den rette Portion, som Hipocrates har foreskrevet om
+									dette Kilde-Vands Brug; thi vil man bruge af Helene Kilde-Vand,
+									da siger Hipocrates saaledes: <stage type="mix" xml:id="idm140203111758480">àno </stage> Tau Helenu
+									Omikron pi ro sigma. </p>
+                     </sp>
+                     <sp xml:id="idm140203111757504">
+                        <speaker xml:id="idm140203111757248">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111756832"> Lad os kun gaae forbi hvad Hipocrates siiger. </p>
+                     </sp>
+                     <sp xml:id="idm140203111756256">
+                        <speaker xml:id="idm140203111756000">HENRICH.</speaker>
+                        <p xml:id="idm140203111755584"> Ja nok. Viidere: </p>
+                        <p xml:id="idm140203111755168"> Derpaa lod jeg hende drikke Vandet etc. hvoraf hun blev noget
+									bedre, men da hun havde faaet det andet i Livet, faldt hun min
+									Søn om Halsen, og sagde uden Sang: Ach Hr. Doctor! der faldt mig
+									ligesom en tung Steen fra Hiertet. <stage type="mix" xml:id="idm140203111754384">Jeronimus
+									græder.</stage>
+								                </p>
+                        <p xml:id="idm140203111753568"> Hun har derfor ikke siden siunget uden 2 eller 3 gange, men jeg
+									haaber, at naar hun ved Middags <pb n="33" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5033" xml:id="s33"/> Tider faaer ind den Essentia Scholastica, som jeg
+									har med, skal hun gandske blive restitueret, og gandske frisk
+									imod Aftenen see hendes kiære Far. Skreved udi største Hast af
+									eders oprigtige Søn Theophrastus, manu mea propria. </p>
+                     </sp>
+                     <sp xml:id="idm140203111751216">
+                        <speaker xml:id="idm140203111750960">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111750576"> Ach Hr. Doctor! det er en behagelig Tidende for mig. Jeg vil da
+									slaae mig til Roelighed, og vente hende i Aften. Han skal ogsaa
+									blive betalt for sin Umage. </p>
+                     </sp>
+                     <sp xml:id="idm140203111749872">
+                        <speaker xml:id="idm140203111749616">HENRICH.</speaker>
+                        <p xml:id="idm140203111749200"> Vi vil nok komme til rette om Betalningen. Men der er en Lakey.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111748592">
+                        <speaker xml:id="idm140203111748336">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111747920"> Vil I tale med nogen? </p>
+                     </sp>
+                     <sp xml:id="idm140203111747376">
+                        <speaker xml:id="idm140203111747120">LAKEYEN.</speaker>
+                        <p xml:id="idm140203111746704"> Min Herre Doctor Bombastus er her ude, som vil have den Ære at
+									tale med ham. </p>
+                     </sp>
+                     <sp xml:id="idm140203111746000">
+                        <speaker xml:id="idm140203111745744">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111745328"> See! der staaer jo jer Herre Doctor Bombastus. </p>
+                     </sp>
+                     <sp xml:id="idm140203111744752">
+                        <speaker xml:id="idm140203111744496">LAKEYEN.</speaker>
+                        <p xml:id="idm140203111744080"> Jeg beder om Forladelse. Min Herre er her uden for. </p>
+                     </sp>
+                     <sp xml:id="idm140203111743504">
+                        <speaker xml:id="idm140203111743248">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111742832"> Hvad Pokker vil det siige? Svar ham at han skal være mig
+									velkommen. </p>
+                     </sp>
+                     <sp xml:id="idm140203111742144">
+                        <speaker xml:id="idm140203111741888">HENRICH.</speaker>
+                        <p xml:id="idm140203111741472">
+                           <stage type="mix" xml:id="idm140203111741344">sagte. </stage> Hvo der nu havde en god Strikke, at jeg
+									kunde henge mig med mine Forfædre. Men jeg maa holde Ørene stive
+									saa længe som jeg kand; thi mit Ja er saa got som hans Ney. </p>
+                     </sp>
+                  </div>
+                  <div type="scene" n="4" xml:id="idm140203111739920">
+                     <head xml:id="idm140203111739152">SCEN. 4</head>
+                     <stage type="mix" xml:id="idm140203111738736">Doet. Bombastus. Henrich. Jeronimus. Arv.</stage>
+                     <sp xml:id="idm140203111738048">
+                        <speaker xml:id="idm140203111737792">DOCTOR.</speaker>
+                        <p xml:id="idm140203111737376"> Om Forladelse, Herre, at jeg kommer saa tilig. I Aftes meget
+									sildig fik jeg at høre, at hans kiære Datter var geraadet udi en
+									Svaghed, og at han forlangede min Hielp. </p>
+                     </sp>
+                     <sp xml:id="idm140203111736464">
+                        <speaker xml:id="idm140203111736208">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111735792"> Hvad er hans Navn min Herre? </p>
+                     </sp>
+                     <sp xml:id="idm140203111735232">
+                        <speaker xml:id="idm140203111734976">DOCTOR.</speaker>
+                        <p xml:id="idm140203111734560"> Jeg er den bekiendte Doctor Bombastus, som nyelig er kommen.
+								</p>
+                     </sp>
+                     <pb n="34" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5034" xml:id="s34"/>
+                     <sp xml:id="idm140203111732832">
+                        <speaker xml:id="idm140203111732576">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111732192"> Om min Datter er falden udi nogen Vildfarelse, saa er ikke jeg.
+									Er der ellers meer end een Doctor Bombastus? </p>
+                     </sp>
+                     <sp xml:id="idm140203111731552">
+                        <speaker xml:id="idm140203111731296">DOCTOR.</speaker>
+                        <p xml:id="idm140203111730880"> Ney her er ikke meer end een Doctor Bombastus, og det er jeg.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111730288">
+                        <speaker xml:id="idm140203111730032">HENRICH.</speaker>
+                        <p xml:id="idm140203111729616"> Og jeg siger: Det er jeg. </p>
+                     </sp>
+                     <sp xml:id="idm140203111729056">
+                        <speaker xml:id="idm140203111728800">DOCTOR.</speaker>
+                        <p xml:id="idm140203111728384"> Er I Doctor Bombastus? </p>
+                     </sp>
+                     <sp xml:id="idm140203111727824">
+                        <speaker xml:id="idm140203111727568">HENRICH.</speaker>
+                        <p xml:id="idm140203111727152"> Er I Doctor Bombastus? </p>
+                     </sp>
+                     <sp xml:id="idm140203111726592">
+                        <speaker xml:id="idm140203111726336">DOCTOR.</speaker>
+                        <p xml:id="idm140203111725920"> Hvo tviler om, at jeg er det? </p>
+                     </sp>
+                     <sp xml:id="idm140203111725360">
+                        <speaker xml:id="idm140203111725104">HENRICH.</speaker>
+                        <p xml:id="idm140203111724688"> Hvo tviler om, at jeg er det? </p>
+                     </sp>
+                     <sp xml:id="idm140203111724128">
+                        <speaker xml:id="idm140203111723872">DOCTOR.</speaker>
+                        <p xml:id="idm140203111723456"> I maa være Dievelen. </p>
+                     </sp>
+                     <sp xml:id="idm140203111722880">
+                        <speaker xml:id="idm140203111722624">HENRICH.</speaker>
+                        <p xml:id="idm140203111722208"> I maa være Fanden. </p>
+                     </sp>
+                     <sp xml:id="idm140203111721632">
+                        <speaker xml:id="idm140203111721376">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111720960">
+                           <stage type="mix" xml:id="idm140203111720832">sagte. </stage> Her spilles ligesaadan en Comcedie som
+									med Amphitrion og Jupiter. </p>
+                     </sp>
+                     <sp xml:id="idm140203111719824">
+                        <speaker xml:id="idm140203111719568">DOCTOR.</speaker>
+                        <p xml:id="idm140203111719152"> Jeg kand svære paa, min Herre, at det er den underligste
+									Hendelse, mig nogen Tiid er vederfaret. </p>
+                     </sp>
+                     <sp xml:id="idm140203111718400">
+                        <speaker xml:id="idm140203111718144">HENRICH.</speaker>
+                        <p xml:id="idm140203111717728"> Og jeg svær paa, min Herre, at det er en Hendelse uden Liige.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111717056">
+                        <speaker xml:id="idm140203111716800">ARV.</speaker>
+                        <p xml:id="idm140203111716384">
+                           <stage type="mix" xml:id="idm140203111716256">sagte. </stage> Gid jeg var vel ude, thi en af dem er
+									vist nok Lucifer, som har paataget sig en Doctor-Skikkelse. </p>
+                     </sp>
+                     <sp xml:id="idm140203111715216">
+                        <speaker xml:id="idm140203111714960">DOCTOR.</speaker>
+                        <p xml:id="idm140203111714544"> Jeg staaer gandske fortabt. </p>
+                     </sp>
+                     <sp xml:id="idm140203111713984">
+                        <speaker xml:id="idm140203111713728">HENRICH.</speaker>
+                        <p xml:id="idm140203111713312"> Og jeg veed ikke hvad jeg skal tale eller sige. </p>
+                     </sp>
+                     <sp xml:id="idm140203111712736">
+                        <speaker xml:id="idm140203111712480">DOCTOR.</speaker>
+                        <p xml:id="idm140203111712064"> Han tør sige mig i mine aabne Øyne, at han er Doctor Bombastus.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111711392">
+                        <speaker xml:id="idm140203111711136">HENRICH.</speaker>
+                        <p xml:id="idm140203111710720"> Han tør saa uforskammed nægte, at jeg ikke er det. </p>
+                     </sp>
+                     <sp xml:id="idm140203111710080">
+                        <speaker xml:id="idm140203111709824">DOCTOR.</speaker>
+                        <p xml:id="idm140203111709408"> Jeg svær ved Apollinem, at jeg er Doctor Bombastus og ingen
+									anden. </p>
+                     </sp>
+                     <sp xml:id="idm140203111708720">
+                        <speaker xml:id="idm140203111708464">HENRICH.</speaker>
+                        <p xml:id="idm140203111708048"> Og jeg svær ved Cornelius Nepos, at jeg er det og ingen anden.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111707376">
+                        <speaker xml:id="idm140203111707120">DOCTOR.</speaker>
+                        <p xml:id="idm140203111706704"> Det er en herlig Gud I svær ved. </p>
+                     </sp>
+                     <sp xml:id="idm140203111706112">
+                        <speaker xml:id="idm140203111705856">HENRICH.</speaker>
+                        <p xml:id="idm140203111705440"> Han er ligesaa god som jeres. </p>
+                     </sp>
+                     <sp xml:id="idm140203111704880">
+                        <speaker xml:id="idm140203111704624">DOCTOR.</speaker>
+                        <p xml:id="idm140203111704208"> Apollo er den Himmelske Læge. </p>
+                     </sp>
+                     <sp xml:id="idm140203111703616">
+                        <speaker xml:id="idm140203111703360">HENRICH.</speaker>
+                        <p xml:id="idm140203111702944"> Cornelius Nepos er den Himmelske Apotheker. </p>
+                     </sp>
+                     <sp xml:id="idm140203111702368">
+                        <speaker xml:id="idm140203111702112">DOCTOR.</speaker>
+                        <p xml:id="idm140203111701696"> Min Hr. Jeronimus! han maa forsikre sig om, at han er bleven
+									bedragen af denne Mand, </p>
+                     </sp>
+                     <pb n="35" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5035" xml:id="s35"/>
+                     <sp xml:id="idm140203111699936">
+                        <speaker xml:id="idm140203111699680">HENRICH.</speaker>
+                        <p xml:id="idm140203111699296"> Min Hr. Jeronimus! han maa forsikre sig paa, at han blir
+									bedragen af denne Mand. </p>
+                     </sp>
+                     <sp xml:id="idm140203111698672">
+                        <speaker xml:id="idm140203111698416">DOCTOR.</speaker>
+                        <p xml:id="idm140203111698000"> Thi han er saa u-kyndig udi Medicinen, at han giør en
+									Historie-Skriver til en Apotheker. </p>
+                     </sp>
+                     <sp xml:id="idm140203111697264">
+                        <speaker xml:id="idm140203111697008">HENRICH.</speaker>
+                        <p xml:id="idm140203111696592"> Thi han er saa u-kyndig i Medicinen, at han giør en
+									Urtegaardsmand til en Gud for Lægedom. </p>
+                     </sp>
+                     <sp xml:id="idm140203111695856">
+                        <speaker xml:id="idm140203111695600">DOCTOR.</speaker>
+                        <p xml:id="idm140203111695184"> Jeg skal strax bringe for Lyset jer Vankundighed. </p>
+                     </sp>
+                     <sp xml:id="idm140203111694608">
+                        <speaker xml:id="idm140203111694352">HENRICH.</speaker>
+                        <p xml:id="idm140203111693936"> Og jeg skal strax viise, at jeg er Karl for min Hat. </p>
+                     </sp>
+                     <sp xml:id="idm140203111693360">
+                        <speaker xml:id="idm140203111693104">DOCTOR.</speaker>
+                        <p xml:id="idm140203111692688"> Jeg vil kun spørge jer de Ting, som jeg kand spørge en
+									Skole-Pog: hvad kalder I Circulatio sangvinis paa Dansk? </p>
+                     </sp>
+                     <sp xml:id="idm140203111691904">
+                        <speaker xml:id="idm140203111691648">HENRICH.</speaker>
+                        <p xml:id="idm140203111691232"> Det er Smaakopper. </p>
+                     </sp>
+                     <sp xml:id="idm140203111690688">
+                        <speaker xml:id="idm140203111690432">DOCTOR.</speaker>
+                        <p xml:id="idm140203111690016"> Gid du faae Pokker med dine Smaakopper! </p>
+                     </sp>
+                     <sp xml:id="idm140203111689440">
+                        <speaker xml:id="idm140203111689184">HENRICH.</speaker>
+                        <p xml:id="idm140203111688768"> Jeg vil ogsaa spørge jer noget, som jeg kand spørge en
+									Skole-Pog: hvad er Essentia Scholastica? </p>
+                     </sp>
+                     <sp xml:id="idm140203111688016">
+                        <speaker xml:id="idm140203111687760">DOCTOR.</speaker>
+                        <p xml:id="idm140203111687344"> Der er aldrig noget saadant til udi Medicinen. </p>
+                     </sp>
+                     <sp xml:id="idm140203111686768">
+                        <speaker xml:id="idm140203111686512">HENRICH.</speaker>
+                        <p xml:id="idm140203111686096"> Der hører I hans store Vankundighed, Hr, </p>
+                        <p xml:id="idm140203111685616"> Jeronimus. Jeg er gall, at jeg gir mig i Snak med saadan Idiot.
+									Han veed ikke hvad Essentia Scholastica er. </p>
+                     </sp>
+                     <sp xml:id="idm140203111684976">
+                        <speaker xml:id="idm140203111684720">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111684304"> Ja saa hører jeg da, at han ingen Doctor er. </p>
+                     </sp>
+                     <sp xml:id="idm140203111683680">
+                        <speaker xml:id="idm140203111683424">HENRICH.</speaker>
+                        <p xml:id="idm140203111683008"> Per Jupiter! det er jo den Essentz, min Søn har cureret hans
+									Datter med. </p>
+                     </sp>
+                     <sp xml:id="idm140203111682304">
+                        <speaker xml:id="idm140203111682048">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111681632"> Det er sandt. Den anden er en Bedrager. </p>
+                     </sp>
+                     <sp xml:id="idm140203111681056">
+                        <speaker xml:id="idm140203111680800">DOCTOR.</speaker>
+                        <p xml:id="idm140203111680384"> Vil I troe ham, min Herre? Nu skal jeg strax blotte ham. Quid
+									tibi videtur de Sympathia? </p>
+                     </sp>
+                     <sp xml:id="idm140203111679760">
+                        <speaker xml:id="idm140203111679504">HENRICH.</speaker>
+                        <p xml:id="idm140203111679088"> Intentum particularis sub rosa Kiörivendum. </p>
+                        <p xml:id="idm140203111678592"> Klemmebassiando. </p>
+                     </sp>
+                     <sp xml:id="idm140203111678048">
+                        <speaker xml:id="idm140203111677792">ARV.</speaker>
+                        <p xml:id="idm140203111677376"> Han maaler ham min Troe Skieppen fuld. </p>
+                     </sp>
+                     <sp xml:id="idm140203111676800">
+                        <speaker xml:id="idm140203111676544">DOCTOR.</speaker>
+                        <p xml:id="idm140203111676128"> Hvad Dievelen er det for et Sprog! </p>
+                     </sp>
+                     <sp xml:id="idm140203111675568">
+                        <speaker xml:id="idm140203111675312">HENRICH.</speaker>
+                        <p xml:id="idm140203111674896"> Det er Arabisk, Canaille. </p>
+                     </sp>
+                     <sp xml:id="idm140203111674336">
+                        <speaker xml:id="idm140203111674080">DOCTOR.</speaker>
+                        <p xml:id="idm140203111673664"> Hvad siger du, din Bedrager? </p>
+                        <p xml:id="idm140203111673232">
+                           <stage type="mix" xml:id="idm140203111672976">De faaer hinanden udi Haar, og medens de brydes, trækker
+										Bombastus Doctor-Kiolen over Hovedet paa Henrich, saa han
+										staaer udi sit Liberie.</stage>
+                        </p>
+                     </sp>
+                     <sp xml:id="idm140203111671760">
+                        <speaker xml:id="idm140203111671504">ARV.</speaker>
+                        <p xml:id="idm140203111671088"> Ach Herre! hvad er dette, vi er om en Hals. Jeg <pb n="36" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5036" xml:id="s36"/> kiender ham. Han tiener hos
+									den fremmede Person, som har løbet gal efter Jomfruen. </p>
+                     </sp>
+                     <sp xml:id="idm140203111669168">
+                        <speaker xml:id="idm140203111668912">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111668528"> Det vil blive en skiøn Historie. Luk Dørren i Laas, at han ikke
+									kommer ud. Ach jeg elendige Menneske! naar jeg seer Docteren,
+									saa kand jeg let giette, hvem Licentiaten var. Ach Hr. Doctor!
+									her er spillet mig et hæsligt Puds. </p>
+                     </sp>
+                     <sp xml:id="idm140203111667488">
+                        <speaker xml:id="idm140203111667232">DOCTOR.</speaker>
+                        <p xml:id="idm140203111666816"> Det merker jeg. Men hvordan henger det sammen? </p>
+                     </sp>
+                     <sp xml:id="idm140203111666240">
+                        <speaker xml:id="idm140203111665984">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111665568"> Aabenbare mig den heele Sag din Skielm, og hvis du tier med
+									noget, skal det gaae dig langt verre. </p>
+                     </sp>
+                     <sp xml:id="idm140203111664928">
+                        <speaker xml:id="idm140203111664672">HENRICH.</speaker>
+                        <p xml:id="idm140203111664256"> Heele Sagen er denne, Herre! Jeg var nyelig en af de største
+									Doctere udi Byen, men i et Øyeblik er bleven forvandlet til en
+									Lakey. Man har adskillige Exempler paa større Forvandeiser, at
+									Folk er bleven omskabte til Dyr og Træer. </p>
+                     </sp>
+                     <sp xml:id="idm140203111663200">
+                        <speaker xml:id="idm140203111662944">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111662528"> Hvilken fortvilet Skielm, han blir ved at spotte mig. Arv!
+									spring efter 2 sterke Karle, der kand binde Hænder og Fødder paa
+									ham. </p>
+                     </sp>
+                     <sp xml:id="idm140203111661696">
+                        <speaker xml:id="idm140203111661440">HENRICH.</speaker>
+                        <p xml:id="idm140203111661024">
+                           <stage type="mix" xml:id="idm140203111660896">paa Knæ. </stage> Ach Herre, vær naadig! Jeg skal gierne
+									bekiende alting fra Hoved til Hale. Den heele Intrigue er
+									opspundet af jer Kammer-Pige Pernille, som har brugt mig til
+									Instrument derudi. Hun har fundet for got, at Jomfruen skulde
+									stille sig saa gall an, beordret mig at agere Doctor, for at
+									raade Herren at skikke hende ud til Kilden. </p>
+                     </sp>
+                     <sp xml:id="idm140203111659344">
+                        <speaker xml:id="idm140203111659088">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111658672"> Hvo var det, som agerede Licentiat og reyste med hende? </p>
+                     </sp>
+                     <sp xml:id="idm140203111658080">
+                        <speaker xml:id="idm140203111657824">HENRICH.</speaker>
+                        <p xml:id="idm140203111657408"> Hvo kunde det andet være end min Herre? </p>
+                     </sp>
+                     <sp xml:id="idm140203111656800">
+                        <speaker xml:id="idm140203111656544">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111656128"> Ach jeg kand ikke meer. Jeg er bange Hr. Doctor, at jeg gaaer
+									fra min Forstand. </p>
+                     </sp>
+                     <sp xml:id="idm140203111655504">
+                        <speaker xml:id="idm140203111655248">DOCTOR.</speaker>
+                        <p xml:id="idm140203111654832"> Lad ikke Sorgen tage Overhaand, min Herre! Ulykken er stor nok
+									alligevel. </p>
+                     </sp>
+                     <sp xml:id="idm140203111654224">
+                        <speaker xml:id="idm140203111653968">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111653552"> Siig mig, din Hund, hvor de nu er. </p>
+                     </sp>
+                     <sp xml:id="idm140203111652992">
+                        <speaker xml:id="idm140203111652736">HENRICH.</speaker>
+                        <p xml:id="idm140203111652320"> De flygtede fra Kilden. </p>
+                     </sp>
+                     <sp xml:id="idm140203111651760">
+                        <speaker xml:id="idm140203111651504">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111651088"> Jeg havde aldrig kunnet troe, at min Kudsk, som jeg altid har
+									haft saa gode Tanker om, <pb n="37" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5037" xml:id="s37"/> skulde være udi Ledtog med for at spille mig saadant Puds.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111649168">
+                        <speaker xml:id="idm140203111648912">HENRICH.</speaker>
+                        <p xml:id="idm140203111648528"> Kudsken er gandske u-skyldig, Herre. Jeg troer at han løber
+									endnu om, og leeder efter dem; thi de flygtede ham u-afvidende
+									bort med en Bonde-Vogn. </p>
+                     </sp>
+                  </div>
+                  <div type="scene" xml:id="idm140203111647536">
+                     <head xml:id="idm140203111647008">SCEN. 5</head>
+                     <stage type="mix" xml:id="idm140203111646592">Kudsken. Docteren. Jeronimus. Henrich. Arv. Leonard.</stage>
+                     <sp xml:id="idm140203111645904">
+                        <speaker xml:id="idm140203111645648">KUDSKEN.</speaker>
+                        <p xml:id="idm140203111645232"> God Morgen, Herre! Jeg blev saa mare ude i Nat mod min Villie og
+									har faaet dygtige Rap til. </p>
+                     </sp>
+                     <sp xml:id="idm140203111644608">
+                        <speaker xml:id="idm140203111644352">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111643936"> Hvordan er fat? hvor er min Datter? </p>
+                     </sp>
+                     <sp xml:id="idm140203111643376">
+                        <speaker xml:id="idm140203111643120">KUDSKEN.</speaker>
+                        <p xml:id="idm140203111642704"> Jeg vil siige Herren reent ud, at jeg vil heller have Opsyn med
+									10 springske Heste end med en eeneste Jomfrue. Jeg veed at holde
+									en Hest i Tøyelen saa vel som nogen Kudsk, og jeg vil gierne
+									svare Herren til hans Heste, om de vare ti gange saa mange, men
+									hans Datter og hans Piiger vil jeg ikke oftere være Inspecteur
+									over; thi det er Dyr, som have været paa anden slags
+									Riide-Skole, og veed at giøre Spring, som jeg ikke forstaaer mig
+									paa. Jeg har været i Dødsens Angest denne Nat, men det er dog
+									faldet vel ud. </p>
+                     </sp>
+                     <sp xml:id="idm140203111641264">
+                        <speaker xml:id="idm140203111641008">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111640592"> Siig mig da, Niels, hvordan det er tilgaaet. </p>
+                     </sp>
+                     <sp xml:id="idm140203111640016">
+                        <speaker xml:id="idm140203111639760">KUDSKEN.</speaker>
+                        <p xml:id="idm140203111639344"> Da vi kom til Kilden, gav man mig brav at drikke, saa jeg blev
+									(reverenter talt) halv fuld. Jeg løb allevegne at see mig om, ey
+									tænkende paa noget ont; men ret som jeg stod og gabede paa nogle
+									Bønder, som reed Sommer i Bye, kom en og vared mig, at Jomfruen
+									med en ung Karl tillige med Pigerne havde sat sig paa
+									Bønder-Vogne og aged bort i fuld Gallop. Jeg løber strax til
+									vores Telt, men finder intet uden Doctorens Kiole, hvoraf jeg
+									sluttede, at det maa have været en forklædt Person. Jeg tar
+									derfor to sterke Karle af mine Cammerater med mig, og kiører
+									efter dem, saa jeg tænkte Hestene skulde styrte; thi jeg fik at
+									høre, at de havde taget Veyen langs ved Stranden for at komme
+									over til Skaane. Omsider traf jeg dem udi den store <pb n="38" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5038" xml:id="s38"/> Kroe, hvor den fremmede
+									Person, som havde ageret Doctor, giorde Modstand, og forsvarede
+									sig saaledes, at jeg føler det endnu udi Ryg, Hovet og Axler;
+									men maatte dog endelig give sig tabt, og lade sig føre med den
+									heele Bagage til Byen. </p>
+                     </sp>
+                     <sp xml:id="idm140203111635216">
+                        <speaker xml:id="idm140203111634960">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111634576"> Ach Niels! du est mig en troe Tiener. Men hvor er de nu? </p>
+                     </sp>
+                     <sp xml:id="idm140203111633984">
+                        <speaker xml:id="idm140203111633728">KUDSKEN.</speaker>
+                        <p xml:id="idm140203111633312"> Jeg har sluttet dem ind udi det lille Kammer ved Bag-Porten, og
+									sat Skildtvagt for dem. </p>
+                     </sp>
+                     <sp xml:id="idm140203111632688">
+                        <speaker xml:id="idm140203111632432">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111632016"> Hans Tiener kiære Sviger-Søn! har han længe været her? </p>
+                     </sp>
+                     <sp xml:id="idm140203111631360">
+                        <speaker xml:id="idm140203111631104">LEONARD.</speaker>
+                        <p xml:id="idm140203111630688"> Ney ikke ret længe. Men jeg har imidlertid hørt meer end jeg
+									forlangede at høre. Hør Kudsk! synger Jomfruen nu ikke meer?
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111629872">
+                        <speaker xml:id="idm140203111629616">KUDSKEN.</speaker>
+                        <p xml:id="idm140203111629200"> Ney nu græder hun. </p>
+                     </sp>
+                     <sp xml:id="idm140203111628624">
+                        <speaker xml:id="idm140203111628368">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111627952"> Hendes Svaghed har kun været et Paafund for at komme bort. Jeg
+									holder for, at det er best, at I holder strax Bryllup, saa snart
+									jeg har ladet hudflette Pernille og henge denne Knægt, her
+									staaer. </p>
+                     </sp>
+                     <sp xml:id="idm140203111626976">
+                        <speaker xml:id="idm140203111626720">HENRICH.</speaker>
+                        <p xml:id="idm140203111626304"> Skal vi straffes, saa maa vi henges begge. </p>
+                     </sp>
+                     <sp xml:id="idm140203111625728">
+                        <speaker xml:id="idm140203111625472">LEONARD.</speaker>
+                        <p xml:id="idm140203111625056"> Han forlader mig, Hr. Jeronimus! om jeg tar udi Betænkning at
+									gifte mig med en Jomfrue, der er flygtet med en anden. </p>
+                     </sp>
+                     <sp xml:id="idm140203111624272">
+                        <speaker xml:id="idm140203111624016">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111623600"> Ach jeg har ikke et Ord derimod at siige. Lad Magdelone først
+									komme her ind, at jeg kand faae den heele Intrigue at høre. Siig
+									hende, Niels, at her er en Doctor, som forstaaer den sorte
+									Konst, der har sagt alting. </p>
+                     </sp>
+                     <sp xml:id="idm140203111622576">
+                        <speaker xml:id="idm140203111622320">KUDSKEN.</speaker>
+                        <p xml:id="idm140203111621904">
+                           <stage type="mix" xml:id="idm140203111621776">sagte. </stage> Det er skiønt, ved den Leylighed skal hun
+									aabenbare hendes egne Optøger ogsaa. </p>
+                     </sp>
+                  </div>
+                  <div type="scene" xml:id="idm140203111620544">
+                     <head xml:id="idm140203111620016">SCEN. 6</head>
+                     <stage type="mix" xml:id="idm140203111619600">Magdelone. Personerne af forrige Scene.</stage>
+                     <sp xml:id="idm140203111618928">
+                        <speaker xml:id="idm140203111618672">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111618256"> Ha, ha, est du der? God Morgen, Rufferske. Du est den, som af
+									alle er meest Straf værd; thi jo meer du est kommen til Alder,
+									jo meer har du at forsvare. <pb n="39" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5039" xml:id="s39"/> Jeg har ikke kaldet dig hid for at faae Oplysning
+									udi noget, thi jeg veed alting til Punct og Prikke; men jeg vil
+									høre Bekiendelsen af din egen Mund. </p>
+                     </sp>
+                     <sp xml:id="idm140203111615840">
+                        <speaker xml:id="idm140203111615584">MAGDELONE.</speaker>
+                        <p xml:id="idm140203111615200">
+                           <stage type="mix" xml:id="idm140203111615072">paa Knæ. </stage> Ach Hr. Jeronimus! straf mig dog ikke,
+									som jeg har fortient. Jeg vil gierne bekiende altsammen, baade
+									hvad min egen Kierlighed er angaaende, og Jomfruens. </p>
+                     </sp>
+                     <sp xml:id="idm140203111613968">
+                        <speaker xml:id="idm140203111613712">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111613296">
+                           <stage type="mix" xml:id="idm140203111613168">sagte. </stage> Hendes egen Kierlighed? Her faaer jeg
+									fleer Historier at viide end jeg ventede. <stage type="mix" xml:id="idm140203111612400">Høyt.</stage>
+									Bekiend først om din egen Kierlighed, og stik intet under Stoel.
+									Denne gode Doctor, som her staaer, veed alting; han skal siige,
+									om du glemmer noget. </p>
+                     </sp>
+                     <sp xml:id="idm140203111611120">
+                        <speaker xml:id="idm140203111610864">MAGDELONE.</speaker>
+                        <p xml:id="idm140203111610448"> Ach Skam faae du, Rasmus Skriver, for mig du har bedraget i saa
+									mange Aar! Han har bildet mig ind at brænde af Kierlighed til
+									mig. Jeg har beviist ham meget got, og været mit eget Herskab
+									u-troe for at rekke ham Haanden. </p>
+                     </sp>
+                     <sp xml:id="idm140203111609424">
+                        <speaker xml:id="idm140203111609168">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111608752"> Alt dette har Docteren sagt mig. Men jeg vil viide i sær, hvad
+									du har taget fra Huuset og foræret ham. </p>
+                     </sp>
+                     <sp xml:id="idm140203111608000">
+                        <speaker xml:id="idm140203111607744">MAGDELONE.</speaker>
+                        <p xml:id="idm140203111607328"> Jeg har foræret ham nu et Pund Pudder, nu et knippe Penne, nu et
+									par Bouteiller Viin, og andet smaat Ragerie. </p>
+                     </sp>
+                     <sp xml:id="idm140203111606560">
+                        <speaker xml:id="idm140203111606304">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111605888"> Videre, videre, angaaende de Penge, som du tog - - </p>
+                     </sp>
+                     <sp xml:id="idm140203111605312">
+                        <speaker xml:id="idm140203111605056">MAGDELONE.</speaker>
+                        <p xml:id="idm140203111604640"> Hvilke Penge? </p>
+                     </sp>
+                     <sp xml:id="idm140203111604096">
+                        <speaker xml:id="idm140203111603840">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111603424"> Nøder du mig til at lade Docteren sige det, saa skal det komme
+									dig høyere at staae. </p>
+                     </sp>
+                     <sp xml:id="idm140203111602704">
+                        <speaker xml:id="idm140203111602448">MAGDELONE.</speaker>
+                        <p xml:id="idm140203111602032"> Ach Hr. Doctor! lyv mig ikke paa. Hvis jeg havde givet ham
+									andet, skulde jeg min Troe ikke dølge det. </p>
+                     </sp>
+                     <sp xml:id="idm140203111601280">
+                        <speaker xml:id="idm140203111601024">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111600608"> Nu nu, lad saa blive derved. </p>
+                     </sp>
+                     <sp xml:id="idm140203111600048">
+                        <speaker xml:id="idm140203111599792">MAGDELONE.</speaker>
+                        <p xml:id="idm140203111599376"> Nu havde jeg sat den Skurk Stevne af Vinduet at møde mig ved
+									Kilden. Men det utaknemmelige Skarn, langt fra at komme til mig,
+									diverterede sig <pb n="40" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5040" xml:id="s40"/> lige
+									for min Næse med andre unge Piiger. Er det ikke saa Hr. Doctor?
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111597200">
+                        <speaker xml:id="idm140203111596944">DOCTOR.</speaker>
+                        <p xml:id="idm140203111596560"> Jo det er saa. Men lad os nu høre noget om Jomfruens Sag. </p>
+                     </sp>
+                     <sp xml:id="idm140203111595904">
+                        <speaker xml:id="idm140203111595648">MAGDELONE.</speaker>
+                        <p xml:id="idm140203111595232"> Det kand Pernille best siige, som alleene har smeedet denne
+									Intrigue. </p>
+                     </sp>
+                     <sp xml:id="idm140203111594624">
+                        <speaker xml:id="idm140203111594368">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111593952"> Lad Pernille komme her ind. Man skal nok see, at hun ogsaa har
+									haft nogen særdeeles Interesse ved denne Kilde-Reyse. </p>
+                     </sp>
+                  </div>
+                  <div type="scene" xml:id="idm140203111593040">
+                     <head xml:id="idm140203111592512">SCEN. 7</head>
+                     <stage type="mix" xml:id="idm140203111592096">Pernille. Personerne af den forrige Scene.</stage>
+                     <sp xml:id="idm140203111591408">
+                        <speaker xml:id="idm140203111591152">PERNILLE.</speaker>
+                        <p xml:id="idm140203111590736">
+                           <stage type="mix" xml:id="idm140203111590608">faldende paa Knæ. </stage> Ach Herre! vær naadig Hvad jeg
+									har opspundet, har været af den store Kierlighed, jeg har baaret
+									til Jomfruen. </p>
+                     </sp>
+                     <sp xml:id="idm140203111589408">
+                        <speaker xml:id="idm140203111589152">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111588736"> Hvor har I faaet Leylighed at overlegge dette med den fremmede
+									Person? </p>
+                     </sp>
+                     <sp xml:id="idm140203111588128">
+                        <speaker xml:id="idm140203111587872">PERNILLE.</speaker>
+                        <p xml:id="idm140203111587456"> Vi satte ham stevne at finde os paa visse Tider i Vinduet. </p>
+                     </sp>
+                     <sp xml:id="idm140203111586864">
+                        <speaker xml:id="idm140203111586608">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111586192"> Alt dette har denne gode Doctor sagt mig tillige med den anden
+									Historie, som angaaer din egen Person. </p>
+                     </sp>
+                     <sp xml:id="idm140203111585552">
+                        <speaker xml:id="idm140203111585296">PERNILLE.</speaker>
+                        <p xml:id="idm140203111584880"> Ja Herre, jeg tilstaaer, at det er opspundet i mit Hoved for at
+									befordre Jomfruens Kierlighed. </p>
+                     </sp>
+                     <sp xml:id="idm140203111584240">
+                        <speaker xml:id="idm140203111583984">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111583568"> Videre, videre. Lad os nu høre Historien om din egen Kierlighed.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111582896">
+                        <speaker xml:id="idm140203111582640">PERNILLE.</speaker>
+                        <p xml:id="idm140203111582224"> Jeg har ingen anden Kierlighed end den, jeg bær til Jomfruen.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111581552">
+                        <speaker xml:id="idm140203111581296">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111580880"> Skal Docteren nødes til at siige det, saa vil det gaae dig ilde.
+									Hr. Doctor! fortæl os det da med den rette Farve. </p>
+                     </sp>
+                     <sp xml:id="idm140203111580096">
+                        <speaker xml:id="idm140203111579840">DOCTOR.</speaker>
+                        <p xml:id="idm140203111579424"> Historien er denne --- </p>
+                     </sp>
+                     <sp xml:id="idm140203111578864">
+                        <speaker xml:id="idm140203111578608">PERNILLE.</speaker>
+                        <p xml:id="idm140203111578192"> Ach ney! Jeg vil nok siige det selv. Personen, som elsker mig,
+									og som satte mig stevne at møde ved Kilden, er en fornemme ung
+									Herre, som kand betale vel en fattig Piges Umag, og hvilken jeg
+									er for ringe til <pb n="41" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5041" xml:id="s41"/> at
+									nægte en liden Tieneste. Han tar mig nok udi Forsvar, om Herren
+									handler ilde med mig; thi --- </p>
+                     </sp>
+                     <sp xml:id="idm140203111575792">
+                        <speaker xml:id="idm140203111575536">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111575152"> Alt nok, alt nok. Disse Kilde-Reyser giortes af Devotion i gamle
+									Dage, men nu troer jeg, at hvert andet Telt er et Hore-Huus.
+									Havde jeg fleere Piiger i Huuset, fik jeg fleere Historier at
+									viide. Det skulde aldrig fortryde mig, hvis jeg var en
+									forsømmelig Mand, der gav mit Huus-Folk for meget Tøyelen; men
+									jeg har Opsigt med dem, slutter dem inde, at de skal ikke
+									forfalde til Liiderlighed, og dog er jeg verre brudt end nogen
+									anden. </p>
+                     </sp>
+                     <sp xml:id="idm140203111573616">
+                        <speaker xml:id="idm140203111573360">DOCTOR.</speaker>
+                        <p xml:id="idm140203111572944"> Ach min Herre! skulde alle Tieneste-Piiger, der af Devotion er
+									reyst til Kilden i Aftes, trues med Piine-Bænken, vilde deres
+									Navne, som er i samme Stand, som jere Piiger, giøre en temmelig
+									tyk Catalogus. Ja skulde enhver kun til Straf sætte en Lod udi
+									en af vore Lotterier, som ingen Fortgang haver, lover jeg for,
+									at det i en Hast skulde blive complet. </p>
+                     </sp>
+                     <sp xml:id="idm140203111571616">
+                        <speaker xml:id="idm140203111571360">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111570944"> Derfor holder jeg for, man burde aldrig lade sine Tienestefolk
+									komme til nogen saadan Forsamling. </p>
+                     </sp>
+                     <sp xml:id="idm140203111570304">
+                        <speaker xml:id="idm140203111570048">DOCTOR.</speaker>
+                        <p xml:id="idm140203111569632"> Ach Herre! jo meer man indsperrer dem, jo verre er det. Det er
+									just Tvangen, som formeerer Begierligheden. Jere Piiger skal jo
+									dog paa Bleegedammen et par gange om Aaret; meener han, at det
+									er altsammen ikkun Klæer, som bliver lagt paa Bleegen? I saadan
+									fald ere ingen verre end de, som kommer ud af et Buur. Derfor
+									giør I langt bedre min Herre, at I gir jere Piiger en sømmelig
+									Frihed. </p>
+                     </sp>
+                     <sp xml:id="idm140203111568208">
+                        <speaker xml:id="idm140203111567952">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111567536"> Ach! det laae Fanden Magt paa Pigerne, hvis min eeneste Datter
+									ikke var falden til samme Liderlighed. </p>
+                     </sp>
+                     <sp xml:id="idm140203111566896">
+                        <speaker xml:id="idm140203111566640">PERNILLE.</speaker>
+                        <p xml:id="idm140203111566224"> Hun er ikke forfalden til nogen Liderlighed. Hun elsker en
+									Person, som forlanger hende til Ægte. </p>
+                     </sp>
+                     <sp xml:id="idm140203111565472">
+                        <speaker xml:id="idm140203111565216">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111564800"> Han skal ægte Fanden ikke min Datter. Den Landstryger! Lad min
+									Datter strax komme hid. </p>
+                     </sp>
+                     <sp xml:id="idm140203111564080">
+                        <speaker xml:id="idm140203111563824">DOCTOR.</speaker>
+                        <p xml:id="idm140203111563408"> Vær ikke for streng mod hende, min Herre! <pb n="42" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5042" xml:id="s42"/> Betænk hvad unge Mennesker
+									ere, og at Kierlighed er den sterkeste Passion af alle. </p>
+                     </sp>
+                     <sp xml:id="idm140203111561392">
+                        <speaker xml:id="idm140203111561136">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111560752"> Her er ikke Kierlighed, Hr. Doctor! her er Liderlighed. Hun
+									stiller sig afsindig for at tage Flugten med en Landstryger.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111560080">
+                        <speaker xml:id="idm140203111559824">DOCTOR.</speaker>
+                        <p xml:id="idm140203111559408"> Jo større Intrigue hun har spillet, jo sterkere har Passionen
+									været. Men der kommer hun. </p>
+                     </sp>
+                  </div>
+                  <div type="scene" xml:id="idm140203111558544">
+                     <head xml:id="idm140203111558016">SCEN. 8</head>
+                     <stage type="mix" xml:id="idm140203111557600">Leonora. Personerne af forrige Scene.</stage>
+                     <sp xml:id="idm140203111556928">
+                        <speaker xml:id="idm140203111556672">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111556256"> Er hun der Mademoiselle! det er mig kiert, at hun saa lykkelig
+									er bleven cureret. </p>
+                     </sp>
+                     <sp xml:id="idm140203111555632">
+                        <speaker xml:id="idm140203111555376">LEONORA.</speaker>
+                        <p xml:id="idm140203111554960">
+                           <stage type="mix" xml:id="idm140203111554832">paa Knæ. </stage> Ach min allerkiæreste Far! </p>
+                     </sp>
+                     <sp xml:id="idm140203111553840">
+                        <speaker xml:id="idm140203111553584">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111553168"> Jeg vil ikke være Far til saadan Natte-Frøiken. Hver ærlig Mand,
+									der har slige Børn, kand med Ret og Billighed slaae Haanden af
+									dem. </p>
+                     </sp>
+                     <sp xml:id="idm140203111552320">
+                        <speaker xml:id="idm140203111552064">LEONORA.</speaker>
+                        <p xml:id="idm140203111551648"> Ach jeg bekiender at være falden i en Skrøbelighed. </p>
+                     </sp>
+                     <sp xml:id="idm140203111551008">
+                        <speaker xml:id="idm140203111550752">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111550336"> Skrøbelighed? Ney du skal siige den yderste Liderlighed. Du har
+									stillet dig afsindig an, for at sætte Vox-Næse paa din Far, og
+									siden løbet bort med en Landstryger, hvorved mig og mit heele
+									Huus er sat saadan Klik paa, som aldrig kand afstryges. </p>
+                     </sp>
+                     <sp xml:id="idm140203111549248">
+                        <speaker xml:id="idm140203111548992">LEONORA.</speaker>
+                        <p xml:id="idm140203111548576"> Det er en smuk skikkelig Person, som har Midler, og er kommen af
+									liige saa got Folk som jeg. </p>
+                     </sp>
+                     <sp xml:id="idm140203111547952">
+                        <speaker xml:id="idm140203111547696">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111547280"> Hans Gierninger udviiser jo, at han er en smuk skikkelig Person.
+									Dog han kand altid være saadan vanskabt Jomfrue værdt. Jeg skal
+									bruge Øvrighedens Hielp, og lade dig indslutte, ikke fordi du
+									est ham for god, men alleene for Conseqvences skyld, at
+									vanartige Børn skal ikke faae deres Villie frem. <stage type="mix" xml:id="idm140203111546336">Leonora
+										græder.</stage> Græd nu liige saa længe som du har siunget
+									tilforn. See! her staaer denne gode Mand, som jeg havde lovet
+									dig bort til, og som har giort alle Anstalter at tage imod dig.
+									Han er nu bleven anderledes til Sinds. Og jeg kand <pb n="43" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5043" xml:id="s43"/> ikke regne ham det til Onde,
+									at han tar i Betænkning at gifte sig med een, der har giort
+									saadan hæslig Gierning. Hør, i denne Dag skal du blive
+									indsluttet for din Livs Tiid. I tvende Høytærede Mammeseller! I
+									skal blive hudfletted. Og I Hr. Selvgiort Doctor! I skal slippe
+									med at blive hengt. Nu maa jeg til Slutning have fat paa
+									Monsieur selv for at lade ham viide hvad Karl han er, og siige
+									ham, hvad han har fortient af mig. Bringer ham kun hid. </p>
+                     </sp>
+                  </div>
+                  <div type="scene" xml:id="idm140203111542848">
+                     <head xml:id="idm140203111542352">SCEN. ULT.</head>
+                     <stage type="mix" xml:id="idm140203111541936">Leander. Leonora. Pernille. Magdelone. Henrich. Arv. Jeronimus.
+								Doet. Bombastus. Leonard.</stage>
+                     <sp xml:id="idm140203111541200">
+                        <speaker xml:id="idm140203111540944">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111540528"> Hans Tiener, Monsieur. Jeg seer paa hans Klæde-Dragt, at han alt
+									har slaaet sig fra Medicinen. Han skal ellers have Tak for den
+									Umag, han har haft med min Datter. Han skal ikke have giort det
+									for intet. </p>
+                     </sp>
+                     <sp xml:id="idm140203111539536">
+                        <speaker xml:id="idm140203111539280">LEANDER.</speaker>
+                        <p xml:id="idm140203111538864"> Min Herre! han maa holde mig for den største Misdædere, som han
+									vil, saa har jeg dog ikke andet giort end det, som enhver ærlig
+									Karl kunde giøre, der falder udi saadan heftig Kierlighed. </p>
+                     </sp>
+                     <sp xml:id="idm140203111537920">
+                        <speaker xml:id="idm140203111537664">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111537248"> Det er intet, det er intet, Monsieur! Men veed I vel hvad Loven
+									siiger om saadanne Landstrygere, der sniger sig ind udi ærlige
+									Mænds Huuse for at bortrøve deres Børn? </p>
+                     </sp>
+                     <sp xml:id="idm140203111536336">
+                        <speaker xml:id="idm140203111536080">LEANDER.</speaker>
+                        <p xml:id="idm140203111535664"> Jeg er ingen Landstryger. Jeg er fød her i Landet af got Folk,
+									hvilket jeg skal beviise. </p>
+                     </sp>
+                     <sp xml:id="idm140203111534928">
+                        <speaker xml:id="idm140203111534672">LEONARD.</speaker>
+                        <p xml:id="idm140203111534256"> Denne Røst kiender jeg, Ansigtet ogsaa. Ach Himmel! hvad er det?
+									er det ikke min Broer Leander, som er kommen Udenlands fra? Jo
+									det er ham. Mon frere Leander! </p>
+                     </sp>
+                     <sp xml:id="idm140203111533376">
+                        <speaker xml:id="idm140203111533120">LEANDER.</speaker>
+                        <p xml:id="idm140203111532704"> Mon frere Leonard! <stage type="mix" xml:id="idm140203111532416">De omfavner hinanden.</stage>
+								                </p>
+                     </sp>
+                     <sp xml:id="idm140203111531504">
+                        <speaker xml:id="idm140203111531248">LEONARD.</speaker>
+                        <p xml:id="idm140203111530832"> Ach min allerkiereste Broer! Er det dig, som er min Rival? Naar
+									var Ankomsten? </p>
+                     </sp>
+                     <sp xml:id="idm140203111530208">
+                        <speaker xml:id="idm140203111529952">LEANDER.</speaker>
+                        <p xml:id="idm140203111529536"> Saa snart jeg fik dit Brev udi Madrit om <pb n="44" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5044" xml:id="s44"/> min Fars Død, gav jeg mig paa
+									Reysen til Holland, hvor jeg gik til Skibs, og kom hid for 3
+									Uger siden. Hvad som har hindret mig at reyse strax herfra, er
+									denne smukke Jomfrue, som jeg forliebede mig udi paa et
+									Assemblee, og for hvis skyld alle disse Historier ere skeede.
+								</p>
+                     </sp>
+                     <sp xml:id="idm140203111527184">
+                        <speaker xml:id="idm140203111526928">LEONARD.</speaker>
+                        <p xml:id="idm140203111526544"> Min allerkiereste Broer! din Arv staaer til reede for dig
+									hiemme, og min forlovede Brud overlader jeg dig gierne, eftersom
+									jeg seer din Kierlighed er saa stor, og at hendes i alle Maader
+									svarer til din. </p>
+                     </sp>
+                     <sp xml:id="idm140203111525792">
+                        <speaker xml:id="idm140203111525536">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111525120"> Hvad? ere I Brødre? </p>
+                        <stage type="mix" xml:id="idm140203111524672">De som laae paa Knæ, reyser sig, og Henrich sætter sin Hat
+									paa.</stage>
+                     </sp>
+                     <sp xml:id="idm140203111523760">
+                        <speaker xml:id="idm140203111523504">HENRICH.</speaker>
+                        <p xml:id="idm140203111523088"> Der blir ingen af os hængt denne gang, det skal jeg være Mand
+									for. </p>
+                     </sp>
+                     <sp xml:id="idm140203111522400">
+                        <speaker xml:id="idm140203111522144">PERNILLE.</speaker>
+                        <p xml:id="idm140203111521728"> Jeg troer det ikke heller, Henrich! </p>
+                     </sp>
+                     <sp xml:id="idm140203111521168">
+                        <speaker xml:id="idm140203111520912">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111520496"> Men siig mig ret Alvor, ere I Brødre? </p>
+                     </sp>
+                     <sp xml:id="idm140203111519888">
+                        <speaker xml:id="idm140203111519632">LEONARD.</speaker>
+                        <p xml:id="idm140203111519216"> Ja Hr. Jeronimus, det er min ældste og eeneste Broer, som har
+									været 3 Aar udenlands. Jeg tænkte, at han havde været død,
+									eftersom jeg i lang Tiid intet Brev har faaet fra ham, og at
+									hans Arv skulde tilfalde mig. Men saasom jeg ingen Ting i Verden
+									har haft meere kiær end denne min Broder, saa er der ingen
+									Penge, jeg med større Fornøyelse gir fra mig. </p>
+                     </sp>
+                     <sp xml:id="idm140203111518032">
+                        <speaker xml:id="idm140203111517776">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111517360"> Overlader I ham da jer Brud? </p>
+                     </sp>
+                     <sp xml:id="idm140203111516800">
+                        <speaker xml:id="idm140203111516544">LEONARD.</speaker>
+                        <p xml:id="idm140203111516128"> Hr. Jeronimus! omendskiønt Personen havde været fremmed for mig,
+									skulde jeg dog holde det for en Samvittighed at spliide tvende
+									saa høyt foreenede Hierter. Ja vist overlader jeg hende til ham,
+									og tilbeder mig intet andet for denne min Villighed end at min
+									Herre vil af Hiertet forlade dem alle, hvad de har giort. </p>
+                     </sp>
+                     <sp xml:id="idm140203111514944">
+                        <speaker xml:id="idm140203111514688">JERONIMUS.</speaker>
+                        <p xml:id="idm140203111514272"> Af mit inderste Hierte. Hør Leonora! Jeg kalder dig min Datter
+									igien, og ham Hr. Leander min Sviger-Søn. Lar os glæde os
+									allesammen, og takke Himmelen, at dette, som syntes at ville
+									blive den hæsligste Tragædie, er ved en u-formodentlig Hendelse
+									faldet saa vel ud. </p>
+                     </sp>
+                     <pb n="45" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5045" xml:id="s45"/>
+                     <sp xml:id="idm140203111512000">
+                        <speaker xml:id="idm140203111511744">HENRICH.</speaker>
+                        <p xml:id="idm140203111511360"> Jeg haaber I got Folk, at I holder mig for den største Doctor i
+									Verden, og at I opreyser mig en Ære-Støtte, fordi jeg har viiset
+									jer Kildens Kraft og Dyd. Denne gode Jomfrue er dog ikke den
+									første, som er bleven cureret ved Kilden, vil og ikke blive den
+									sidste. Er det ikke sandt Pernille? </p>
+                     </sp>
+                  </div>
+               </div>
+               <div type="noter" xml:id="idm140203111509920">
+                  <head xml:id="idm140203111509392">Kilde-Reysen <lb xml:id="idm140203111509104"/>Noter</head>
+                  <p xml:id="idm140203111508688">S. 11<lb xml:id="idm140203111508400"/>
+							              <hi rend="italics" xml:id="idm140203111508144">Cupido, </hi>den romerske Kærlighedsgud (ikke
+							Gudinde). - <hi rend="italics" xml:id="idm140203111507328">Mercurius, </hi>romersk Gud for Handel,
+							Spil og Udbytte. - <hi rend="italics" xml:id="idm140203111506576">jeg blir ..</hi>. <hi rend="italics" xml:id="idm140203111505888">mægtig, </hi>jeg faar ... i min Besiddelse. - <hi rend="italics" xml:id="idm140203111505152">Practikker, </hi>Kunstgreb, List. </p>
+                  <p xml:id="idm140203111504304">S. 12<lb xml:id="idm140203111504016"/>
+							              <hi rend="italics" xml:id="idm140203111503760">Argus, </hi>i græsk Mytologi Kæmpe med Øjne over hele
+							Kroppen. - <hi rend="italics" xml:id="idm140203111502928">beqvem, </hi>duelig, dygtig. - <hi rend="italics" xml:id="idm140203111502208">harcelleer, </hi>spøg. </p>
+                  <p xml:id="idm140203111501360">S. 14<lb xml:id="idm140203111501072"/>
+							              <hi rend="italics" xml:id="idm140203111500816">hvorudover, </hi>af hvilken Grund. - <hi rend="italics" xml:id="idm140203111500096">end om, </hi>sæt nu. - <hi rend="italics" xml:id="idm140203111499376">retirere
+								jer, </hi>trække jer tilbage. </p>
+                  <p xml:id="idm140203111498496">S. 15<lb xml:id="idm140203111498208"/>
+							              <hi rend="italics" xml:id="idm140203111497952">være udi Bereedskab, </hi>være parat. - <hi rend="italics" xml:id="idm140203111497184">Tremulanter, </hi>Triller. - <hi rend="italics" xml:id="idm140203111496464">enkelte og dobbelte Fuuser, </hi>1/8 og 1/16 Noder. - <hi rend="italics" xml:id="idm140203111495728">giøres af, </hi>bringes i Orden. </p>
+                  <p xml:id="idm140203111494864">S. 16<lb xml:id="idm140203111494576"/>
+							              <hi rend="italics" xml:id="idm140203111494320">altereer jer ikke, </hi>ophids jer ikke. </p>
+                  <p xml:id="idm140203111493472">S. 17<lb xml:id="idm140203111493184"/>
+							              <hi rend="italics" xml:id="idm140203111492928">hvad hende skadde, </hi>hvad der var i Vejen med
+							hende. - <hi rend="italics" xml:id="idm140203111492176">ungefehr, </hi>omtrent, noget nær. </p>
+                  <p xml:id="idm140203111491296">S. 18<lb xml:id="idm140203111491008"/>
+							              <hi rend="italics" xml:id="idm140203111490752">Mammeselle, </hi>fr. mam'selle, folkelig
+							Sammentrækning af mademoiselle, Frøken. - <hi rend="italics" xml:id="idm140203111489904">prostituer
+								er dig, </hi>vanærer dig, gør dig latterlig. - <hi rend="italics" xml:id="idm140203111489104">Möchte ich ... sehn, </hi>ty.: Gid jeg dog, jeg dog, min tro
+							Amyntas, maatte gense dig endnu en Gang, inden jeg dør. </p>
+                  <p xml:id="idm140203111488048">S. 19<lb xml:id="idm140203111487760"/>
+							              <hi rend="italics" xml:id="idm140203111487504">Ihr . .. Vater, </hi>I er min Fader, I er min Fader.
+							- <hi rend="italics" xml:id="idm140203111486752">Gestrenger .</hi>.. <hi rend="italics" xml:id="idm140203111486064">Gewalt,
+							</hi>Strenge Fader, strenge Fader, holdt! Det er jo Tyranni, det er jo
+							endog Vold. </p>
+                  <p xml:id="idm140203111485152">S. 20<lb xml:id="idm140203111484864"/>
+							              <hi rend="italics" xml:id="idm140203111484608">Curer, </hi>Helbredelser. - <hi rend="italics" xml:id="idm140203111483888">Doctor
+								Bombastus, </hi>Navnet har Tilknytning til en historisk Person, den
+							berømte tysk-schweiziske Læge og Kemiker Theophrastus Bombastus
+							Paracelsus von Hohenheim (1493-1541). </p>
+                  <p xml:id="idm140203111482704">S. 21<lb xml:id="idm140203111482416"/>
+							              <hi rend="italics" xml:id="idm140203111482160">Straten-Junker, </hi>Laps, Modejunker; Eventyrer. -
+								<hi rend="italics" xml:id="idm140203111481424">Assemblee, </hi>Selskab. - <hi rend="italics" xml:id="idm140203111480704">Præcautioner, </hi>Forholdsregler. - <hi rend="italics" xml:id="idm140203111479968">Licentiat,
+							</hi>akademisk Grad mellem Baccalaureus og Doktor. </p>
+                  <p xml:id="idm140203111479088">S. 22<lb xml:id="idm140203111478800"/>
+							              <hi rend="italics" xml:id="idm140203111478544">giøre min Kunst probat, </hi>bevise min Kunst. - <hi rend="italics" xml:id="idm140203111477792">endelig, </hi>ganske vist. - <hi rend="italics" xml:id="idm140203111477072">Perisangia ... Copissisandung, </hi>selvlavede Ord. </p>
+                  <p xml:id="idm140203111476208">S. 23<lb xml:id="idm140203111475920"/>
+							              <hi rend="italics" xml:id="idm140203111475664">Det første, </hi>saa snart som. - <hi rend="italics" xml:id="idm140203111474928">Circumflex, </hi>grammatikalsk Udtryk, <pb n="46" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5046" xml:id="s46"/> af lat. accentus circumflexus,
+							Accenten ^. - <hi rend="italics" xml:id="idm140203111473008">dolus malus, </hi>lat., juridisk
+							Udtryk: forsætligt Bedrageri, Svig. - <hi rend="italics" xml:id="idm140203111472208">Pultem,
+							</hi>forkert Bøjningsform af lat. pulsus, Puls. - <hi rend="italics" xml:id="idm140203111471408">incommoderer, </hi>besværer. - <hi rend="italics" xml:id="idm140203111470672">Permission,
+							</hi>Tilladelse. - <hi rend="italics" xml:id="idm140203111469952">Archisangia, </hi>den græske
+							Forstavelse <hi rend="italics" xml:id="idm140203111469184">archi </hi>betegner en højere Grad,
+							ærke-. </p>
+                  <p xml:id="idm140203111468272">S. 24<lb xml:id="idm140203111467984"/>
+							              <hi rend="italics" xml:id="idm140203111467728">Apollo, </hi>Apollon, den græske Gud for Musik og
+							Poesi, var ogsaa Lægegud. - <hi rend="italics" xml:id="idm140203111466880">tilforne, </hi>tidligere.
+							- <hi rend="italics" xml:id="idm140203111466160">legitime promoveret, </hi>lovligt proklameret. -
+								<hi rend="italics" xml:id="idm140203111465424">Qvid tibi etc., </hi>Henrichs og Leanders Samtale
+							paa Latin er for Størsteparten Vrøvl: Hvad synes dig, Hr. Licentiat,
+							efter den ubehagelige Alderdom skal Jorden eje os? - Navneord, Stedord,
+							Udsagnsord, Tillægsmaade, Supinum, Forholdsord, Bindeord, Udraabsord. -
+							Tillægsord og Navneord i Køn, Tal og i Flertal (forkludrede Citater her
+							som senere af den gamle latinske Skolegrammatik, den saakaldte Donat). -
+							Bonden paa Vejen (det udeladte latinske ord cacat = gør), hvis ikke du
+							vil tro, saa smag. - Jeg takker mange Gange, fordi, eftersom, naar. - Da
+							drejer det sig om dit eget, naar Nabovæggen brænder (Horats' Epist.
+							1,18,84). - A, B, G, D, U (af det græske Alfabet), ponto, basta (i
+							L'hombre: det røde Es, naar rødt er Trumf; Klør Es). - Til, mod, mod,
+							for, imod, udenfor, over, aabenlyst,
+							»Begyndelsestrinet« (sammensat af græsk arche,
+							Begyndelse og græsk pous, som er Genitiv af podos, Fod), indtil. - Alt
+							besejrer den lærvillige Kløgt ved at prøve (Donats Grammatik havde dette
+							Heksameter af den romerske Forfatter Manilius som Motto). - Fod, Vædder,
+							Væg, Gren, med Markskel, Pæl. - Den der elsker en Frø, mener Frøen er
+							Diana (gi. Ordsprog. - <hi rend="italics" xml:id="idm140203111462704">Diana, </hi>den romerske
+							Jagtgudinde, identisk med den græske Artemis). - Naar to Navneord staar
+							sammen, skal det ene være Navnemaade. - Tytere, naar du hviler under den
+							brede sejrer Kløgten (Forvanskning af Vergils første Hyrdedigt, hvis
+							Begyndelse lyder: Tityre, tu patulæ recubans sub tegmini fagi: Tityrus,
+							naar du hviler under den brede Bøgs Tag). </p>
+                  <p xml:id="idm140203111461168">S. 25<lb xml:id="idm140203111460880"/>
+							              <hi rend="italics" xml:id="idm140203111460624">approberet, </hi>godkendt, billiget. </p>
+                  <p xml:id="idm140203111459776">S. 26<lb xml:id="idm140203111459488"/>
+							              <hi rend="italics" xml:id="idm140203111459232">Præparatorier, </hi>Tilberedelser, Forberedelser. </p>
+                  <p xml:id="idm140203111458352">S. 27<lb xml:id="idm140203111458064"/>
+							              <hi rend="italics" xml:id="idm140203111457808">Studshane, </hi>Pralhane, Pralhans. - <hi rend="italics" xml:id="idm140203111457088">Chaisen, </hi>en Chaise: tohjulet Kaleschevogn. - <hi rend="italics" xml:id="idm140203111456352">Intermedium, </hi>Mellemspil. - <hi rend="italics" xml:id="idm140203111455632">Bouteiller, </hi>Flasker. - <hi rend="italics" xml:id="idm140203111454912">have Anseelse af,
+							</hi>have Udseende af. </p>
+                  <p xml:id="idm140203111454048">S. 28<lb xml:id="idm140203111453760"/>
+							              <hi rend="italics" xml:id="idm140203111453504">differente, </hi>forskellige. - <hi rend="italics" xml:id="idm140203111452784">Liire-Stykke, </hi>Musikstykke udført paa Bondelire, et gi.
+							Strygeog Klaviaturinstrument med en Valse, der drejedes ved et
+							Haandgreb. - <hi rend="italics" xml:id="idm140203111451808">fond de Theatre, </hi>fr. Scenens
+							bageste Del (bag Mellemtæppet). </p>
+                  <p xml:id="idm140203111450864">S. 29<lb xml:id="idm140203111450576"/>
+							              <hi rend="italics" xml:id="idm140203111450320">confus Allarm, </hi>forvirret Støj, Spektakel. - <hi rend="italics" xml:id="idm140203111449552">Bier-Fiol, </hi>en tarvelig Violin. - <hi rend="italics" xml:id="idm140203111448832">sluttes, </hi>lukkes. </p>
+                  <p xml:id="idm140203111447984">S. 30<lb xml:id="idm140203111447696"/>
+							              <hi rend="italics" xml:id="idm140203111447440">gisper, </hi>gaber. </p>
+                  <pb n="47" facs="adl/holberg/holberg5/maniptif1bitudenill/holb5047" xml:id="s47"/>
+                  <p xml:id="idm140203111441328">S. 31<lb xml:id="idm140203111441072"/>
+							              <hi rend="italics" xml:id="idm140203111440816">allarmered, </hi>foruroliget. - <hi rend="italics" xml:id="idm140203111440096">saae deres Tempo, </hi>saa deres Lejlighed. </p>
+                  <p xml:id="idm140203111439248">S. 32<lb xml:id="idm140203111438960"/>
+							              <hi rend="italics" xml:id="idm140203111438704">Spælamdissimo Kiörivendum, </hi>selvlavede Ord. - <hi rend="italics" xml:id="idm140203111437936">doctus ... doctissimus, </hi>lat. lærd, lærdere,
+							lærdest. - <hi rend="italics" xml:id="idm140203111437136">for Vandet, </hi>før Vandet. - <hi rend="italics" xml:id="idm140203111436400">Tinctur, </hi>Draaber. - <hi rend="italics" xml:id="idm140203111435680">Autoribus, </hi>af lat. autores, Forfattere. - <hi rend="italics" xml:id="idm140203111434944">Hipocrates, </hi>Oldtidens største græske Læge (460-377 f. Kr.). -
+								<hi rend="italics" xml:id="idm140203111434112">Helene Kilde, </hi>berømt Valfartskilde ved
+							Tisvilde. - CCTO <hi rend="italics" xml:id="idm140203111433312">etc., dvs. apu tu Helenu, </hi>gr.
+							af Helene. - <hi rend="italics" xml:id="idm140203111432560">Omikron ... sigma, </hi>de græske
+							Bogstaver O, P, R, S. </p>
+                  <p xml:id="idm140203111431648">S. 33<lb xml:id="idm140203111431360"/>
+							              <hi rend="italics" xml:id="idm140203111431104">manu mea propria, </hi>lat. med min egen Haand. </p>
+                  <p xml:id="idm140203111430240">S. 34<lb xml:id="idm140203111429952"/>
+							              <hi rend="italics" xml:id="idm140203111429696">Amphitrion og Jupiter, </hi>Molières Komedie
+							»Amphitryon« (1668) om Guden Jupiter, der forelsket
+							i Alkmene antager hendes Mands, Amfitryons Skikkelse, var blevet opført
+							paa Grønnegadeteatret i 1723. Molière bygger paa den romerske Digter
+							Plautus' Komedie »Amfitryon«, skrevet o. 200 f. Kr.
+							- <hi rend="italics" xml:id="idm140203111428384">Cornelius Nepos, </hi>romersk Forfatter af
+							historiske og biografiske Arbejder (l.Aarh. f. Kr.). </p>
+                  <p xml:id="idm140203111427472">S. 35<lb xml:id="idm140203111427184"/>
+							              <hi rend="italics" xml:id="idm140203111426928">Circulatio sangvinis, </hi>lat. Blodomløbet. - <hi rend="italics" xml:id="idm140203111426176">Idiot, </hi>uvidende Person. - <hi rend="italics" xml:id="idm140203111425456">Per
+								Jupiter!, </hi>lat. Ved Jupiter! - <hi rend="italics" xml:id="idm140203111424736">Quid tibi ...
+								Sympathia?, </hi>Hvad mener du om Sympatimidler? - dvs. Lægemidler
+							med »overnaturlig Kraft«, idet de mentes at staa i
+							mystisk Forbindelse med Sygdommen. - <hi rend="italics" xml:id="idm140203111423712">Intentum ...
+								Klemmebassiando, </hi>Henrich vrøvler paa et selvlavet Latin og
+							Dansk; <hi rend="italics" xml:id="idm140203111422880">sub rosa </hi>betyder i Fortrolighed (egl.
+							under Rosen). - <hi rend="italics" xml:id="idm140203111422128">Canallie, </hi>Slyngel. - <hi rend="italics" xml:id="idm140203111421408">om en Hals, </hi>uden Redning. </p>
+                  <p xml:id="idm140203111420560">S. 37<lb xml:id="idm140203111420272"/>
+							              <hi rend="italics" xml:id="idm140203111420016">saa mare, </hi>saa Mari (egl. Jomfru Maria),
+							sandelig, minsandten. - <hi rend="italics" xml:id="idm140203111419248">reverenter talt, </hi>med
+							Tugt at sige. - <hi rend="italics" xml:id="idm140203111418512">gabede paa, </hi>gloede paa. - <hi rend="italics" xml:id="idm140203111417792">den store Kroe, </hi>der er sikkert tænkt paa
+							Rungsted Kro (nu Rungstedlund). </p>
+                  <p xml:id="idm140203111416832">S. 38<lb xml:id="idm140203111416544"/>
+							              <hi rend="italics" xml:id="idm140203111416288">Axler, </hi>Skuldre. - <hi rend="italics" xml:id="idm140203111415568">den heele
+								Bagage, </hi>hele Slænget (dvs. Leonora og Pigerne; jf. Den
+							Pantsatte Bondedreng 111,6 og Brøndum-Nielsen i Acta Phil. Scand. XXIII,
+							S. 156-58). - <hi rend="italics" xml:id="idm140203111414544">udi Betænkning, </hi>under Overvejelse.
+							- <hi rend="italics" xml:id="idm140203111413792">den sorte Konst, </hi>sort Magi, Djævlemagi (Manen
+							af onde Aander, Djævlepaakaldelse o. 1. til Fremme af onde Formaal). -
+								<hi rend="italics" xml:id="idm140203111412848">Optøger, </hi>Optøjer, gale Streger. </p>
+                  <p xml:id="idm140203111411968">S. 39<lb xml:id="idm140203111411680"/>
+							              <hi rend="italics" xml:id="idm140203111411424">Pudder, </hi>dvs. til Parykken. - <hi rend="italics" xml:id="idm140203111410704">Ragerie, </hi>Smaating, Smaatterier. - <hi rend="italics" xml:id="idm140203111409968">af
+								Vinduet, </hi>fra Vinduet. - <hi rend="italics" xml:id="idm140203111409248">diverterede sig,
+							</hi>morede sig. </p>
+                  <p xml:id="idm140203111408384">S. 41<lb xml:id="idm140203111408096"/>
+							              <hi rend="italics" xml:id="idm140203111407840">Devotion, </hi>Fromhed. - <hi rend="italics" xml:id="idm140203111407120">er jeg
+								verre brudt, </hi>har jeg mere Besvær, er jeg værre stedt. - <hi rend="italics" xml:id="idm140203111406304">Fortgang, </hi>Fremgang. - <hi rend="italics" xml:id="idm140203111405584">Bleegedammen, </hi>Blegepladsen laa uden for Søerne. - <hi rend="italics" xml:id="idm140203111404800">det laae Fanden Magt paa Pigerne, </hi>det havde
+							Fanden til Betydning med Pigerne. </p>
+                  <p xml:id="idm140203111403904">S. 42<lb xml:id="idm140203111403616"/>
+							              <hi rend="italics" xml:id="idm140203111403360">Natte-Frøiken, </hi>Skøge. - <hi rend="italics" xml:id="idm140203111402624">Klik,
+							</hi>Skamplet. - <hi rend="italics" xml:id="idm140203111401904">indslutte, </hi>indespærre. </p>
+                  <p xml:id="idm140203111401040">S. 43<lb xml:id="idm140203111400752"/>
+							              <hi rend="italics" xml:id="idm140203111400496">hudfletted, </hi>pisket (til Blods). - <hi rend="italics" xml:id="idm140203111399776">Scen. ult.,</hi> lat. scena ultima. sidste Scene. -
+								<hi rend="italics" xml:id="idm140203111399024">Mon frere, </hi>fr. min Broder. </p>
+                  <p xml:id="idm140203111398176">S. 44<lb xml:id="idm140203111397888"/>
+							              <hi rend="italics" xml:id="idm140203111397632">u-formodentlig, </hi>uventet. </p>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

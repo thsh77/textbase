@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Et kort benedicite, naar du gaar til bords</title>
+            <author>Sthen, Hans Christensen</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140299314457616">
+                     <name xml:id="idm140299314457360">
+                        <surname xml:id="idm140299314457232">Sthen</surname>,
+      <forename xml:id="idm140299314456848">Hans Christensen</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140299314456560">En liden Vandrebog</title>
+                  <pubPlace xml:id="idm140299314456272">København</pubPlace>
+                  <publisher xml:id="idm140299314455808">Det Danske Sprog- og Litteraturselskab</publisher>
+                  <publisher xml:id="idm140299314455504">C.A. Reitzel</publisher>
+                  <date xml:id="idm140299314455168">1994</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid56625" decls="#biblid56625">
+            <head xml:id="idm140299314059616">
+               <hi rend="bold" xml:id="idm140299314059488">Et kort Benedicite, naar</hi>
+               <lb xml:id="idm140299314058912"/>
+du gaar til Bords.</head>
+            <lg xml:id="idm140299314058496">
+               <l xml:id="idm140299314058240">DEn HErre IEsus som tolde paa Korset død,</l>
+               <l xml:id="idm140299314057760">Hand velsigne oc mangfoldig giøre vor Øl oc Brød,</l>
+               <l xml:id="idm140299314057248">Oc oplad oss sin runde oc milde Haand,</l>
+               <l xml:id="idm140299314056816">Met huilcken hand spjser baade quind oc Mand</l>
+               <l xml:id="idm140299314056368">Gud trøste alle Bedrøffuede i deris Nød,</l>
+               <l xml:id="idm140299314055888">Oc frj oss fra den euige død,</l>
+               <l xml:id="idm140299314055424">Gud vnde oss at nyde oc bruge hans gafuer saa,</l>
+               <l xml:id="idm140299314054976">At wi alle Him<hi rend="italics" xml:id="idm140299314054688">m</hi>erigis glæde kunde faa, Amen.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

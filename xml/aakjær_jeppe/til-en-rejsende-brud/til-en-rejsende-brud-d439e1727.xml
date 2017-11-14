@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til en rejsende brud.</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139850578428432">
+                     <name xml:id="idm139850578428176">
+                        <surname xml:id="idm139850578428048">Aakjær</surname>, <forename xml:id="idm139850578427616">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139850578427328"> Digte 1908-1918. - 1918</title>
+                  <pubPlace xml:id="idm139850578427024">København</pubPlace>
+                  <pubPlace xml:id="idm139850578426560">Kristiania</pubPlace>
+                  <publisher xml:id="idm139850578426096">Gyldendal</publisher>
+                  <date xml:id="idm139850578425760">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid56824" decls="#biblid56824">
+            <head xml:id="idm139850577932720">
+               <hi rend="italics" xml:id="idm139850577932592"><!--<emph>-->TIL EN REJSENDE BRUD<!--</emph--></hi>.</head>
+            <lg xml:id="idm139850577931424">
+               <l xml:id="idm139850577931168">KOLUMBUS drog til Amerika,</l>
+               <l xml:id="idm139850577930736">der hildedes han i Rænker;</l>
+               <l xml:id="idm139850577930288">de førte den stolte hjem derfra</l>
+               <l xml:id="idm139850577929824">i nagelboltede Lænker.</l>
+            </lg>
+            <lg xml:id="idm139850577929248">
+               <l xml:id="idm139850577928992">De drager nu selv til Amerika,</l>
+               <l xml:id="idm139850577928560">mens Efteraarsregnen stænker,</l>
+               <l xml:id="idm139850577928096">og lader Dem binde hjemme fra</l>
+               <l xml:id="idm139850577927664">i rosen-naglede Lænker.</l>
+            </lg>
+            <lg xml:id="idm139850577927088">
+               <l xml:id="idm139850577926832">Saa far med Fred til Amerika</l>
+               <l xml:id="idm139850577926400">- Kolumbuses Vej - jeg tænker,</l>
+               <l xml:id="idm139850577925936">de føles ikke saa tungt endda</l>
+               <l xml:id="idm139850577925472">de Hymens smykkede Lænker.</l>
+            </lg>
+            <lg xml:id="idm139850577924896">
+               <l xml:id="idm139850577924640">Men er De mættet af Sydens Lyst</l>
+               <l xml:id="idm139850577924176">og Duft af gyngende Lianer,</l>
+               <l xml:id="idm139850577923744">da tænk paa Lyngen ved Jyllands Bryst</l>
+               <l xml:id="idm139850577923264">og Fjorddalens syngende Svaner.</l>
+               <trailer xml:id="idm139850577922832">
+                  <date xml:id="idm139850577922704">26/10 1908</date>.</trailer>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

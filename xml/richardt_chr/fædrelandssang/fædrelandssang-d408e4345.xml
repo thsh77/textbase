@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fædrelandssang.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140152138539728">
+                     <name xml:id="idm140152138539472">
+                        <surname xml:id="idm140152138539344">Richardt</surname>,
+      <forename xml:id="idm140152138538928">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140152138538640">Samlede Digte. Tredje Deel.</title>
+                  <pubPlace xml:id="idm140152138538336">København</pubPlace>
+                  <date xml:id="idm140152138537824">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62228" decls="#biblid62228">
+            <head xml:id="idm140152137447616">Fædrelandssang.</head>
+            <lg xml:id="idm140152137447184">
+               <lg xml:id="idm140152137446928">
+                  <l xml:id="idm140152137446672">Vaarfriske Danmark</l>
+                  <l xml:id="idm140152137446256">med Bøgeløv i Spring!</l>
+                  <l xml:id="idm140152137445808">Eneste Danmark</l>
+                  <l xml:id="idm140152137445392">i hele Verdens Ring!</l>
+                  <pb n="61" facs="adl/richardt/richardt3/rich3061" xml:id="idm140152137444976"/>
+                  <l xml:id="idm140152137444160">Selv naar betynget</l>
+                  <l xml:id="idm140152137443744">Du trænges mellem Sorg og Savn,</l>
+                  <l xml:id="idm140152137443280">forynget</l>
+                  <l xml:id="idm140152137442864">Du aabner os din Favn.</l>
+               </lg>
+               <lg xml:id="idm140152137442320">
+                  <l xml:id="idm140152137442064">Herligt i Danmark</l>
+                  <l xml:id="idm140152137441648">Velsignelserne gro;</l>
+                  <l xml:id="idm140152137441232">Land-Mark og Vand-Mark</l>
+                  <l xml:id="idm140152137440816">har Høstfolk begge to!</l>
+                  <l xml:id="idm140152137440368">Kornlærkens Sange</l>
+                  <l xml:id="idm140152137439936">og Bølgebruset fjern og nær,</l>
+                  <l xml:id="idm140152137439472">de Klange</l>
+                  <l xml:id="idm140152137439056">har alle Danske kjær.</l>
+               </lg>
+               <lg xml:id="idm140152137438480">
+                  <l xml:id="idm140152137438224">Tak være Danmark</l>
+                  <l xml:id="idm140152137437792">for alt hvad hun os gav!</l>
+                  <l xml:id="idm140152137437360">Skjænk os, o Danmark,</l>
+                  <l xml:id="idm140152137436912">engang en stille Grav!</l>
+                  <l xml:id="idm140152137436496">Herren Dig kvæge,</l>
+                  <l xml:id="idm140152137436064">Du Land med dine tusind Aar,</l>
+                  <l xml:id="idm140152137435632">og læge</l>
+                  <l xml:id="idm140152137435216">dit dybe Hjertesaar!</l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nattens røster.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid78494" decls="#biblid78494">
+            <head xml:id="idm139731447034288">Nattens Røster.</head>
+            <lg xml:id="idm139731447033856">
+               <l xml:id="idm139731447033600">Natten taler tyst og stille;</l>
+               <l xml:id="idm139731447033168">sødt som Elskovsfuglens Trille</l>
+               <l xml:id="idm139731447032704">klinger hendes Vuggesang;</l>
+               <l xml:id="idm139731447032272">over Fremtids dunkle Vove</l>
+               <l xml:id="idm139731447031840">hvælver hun de grønne Skove,</l>
+               <l xml:id="idm139731447031376">bringer ofte, mens vi sove,</l>
+               <l xml:id="idm139731447030944">mere Sol end Dagen lang.</l>
+            </lg>
+            <lg xml:id="idm139731447030384">
+               <l xml:id="idm139731447030128">Men, - som Søvn har Død til Broder,</l>
+               <l xml:id="idm139731447029648">taler ogsaa Dødens Moder</l>
+               <l xml:id="idm139731447029200">gjennem Nattens strenge Røst;</l>
+               <l xml:id="idm139731447028736">lig en Tordenpsalme klinger</l>
+               <l xml:id="idm139731447028304">Suset af de sorte Vinger,</l>
+               <l xml:id="idm139731447027872">naar hun Dommens Fakkel svinger,</l>
+               <l xml:id="idm139731447027440">lyser op i lønlig Brøst.</l>
+            </lg>
+            <lg xml:id="idm139731447026864">
+               <l xml:id="idm139731447026608">Ord og Gjerning, længst begravne,</l>
+               <l xml:id="idm139731447026144">snart som Duer, snart som Ravne</l>
+               <l xml:id="idm139731447025712">flokke sig og gaa igjen;</l>
+               <l xml:id="idm139731447025280">Dagens farverige Løgne</l>
+               <l xml:id="idm139731447024832">brister under Nattens Øjne,</l>
+               <l xml:id="idm139731447024368">Syner, som jeg troede fløjne,</l>
+               <l xml:id="idm139731447023904">suser om mit Leje hen.</l>
+            </lg>
+            <lg xml:id="idm139731447023360">
+               <l xml:id="idm139731447023104">Brænder Taaren da paa Kinden, -</l>
+               <l xml:id="idm139731447022640">er hun atter Trøsterinden,</l>
+               <l xml:id="idm139731447022192">
+                  <hi rend="italics" xml:id="idm139731447022064">saa</hi> er hendes Herres Bud;</l>
+               <pb n="201" xml:id="s201" facs="adl/richardt/richardt1/rich1201"/>
+               <l xml:id="idm139731447020048">den hun med sin Rædsel skrækker,</l>
+               <l xml:id="idm139731447019584">den hun med sin Torden vækker,</l>
+               <l xml:id="idm139731447019120">ham hun Morgnens Stjerne rækker</l>
+               <l xml:id="idm139731447018656">som et Naadepant fra Gud.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

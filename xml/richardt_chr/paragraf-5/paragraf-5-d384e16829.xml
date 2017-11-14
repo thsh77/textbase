@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paragraf 5.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid86936" decls="#biblid86936">
+            <head xml:id="idm140352319691376">Paragraf 5.<lb xml:id="idm140352319691088"/>Vinteren 1879.</head>
+            <lg xml:id="idm140352319690672">
+               <l xml:id="idm140352319690416">De sletted ud en Paragraf,</l>
+               <l xml:id="idm140352319689984">og bagfra Dolkestikket traf.</l>
+            </lg>
+            <lg xml:id="idm140352319689424">
+               <l xml:id="idm140352319689168">En anden Pagt der dog er til,</l>
+               <l xml:id="idm140352319688736">med Paragraf af Lyn og Ild!</l>
+            </lg>
+            <lg xml:id="idm140352319688176">
+               <l xml:id="idm140352319687920">Og dér <hi rend="italics" xml:id="idm140352319687632">den femte</hi> hedder saa:</l>
+               <l xml:id="idm140352319686784">Ej Nogen tør ihjel Du slaa!</l>
+            </lg>
+            <lg xml:id="idm140352319686192">
+               <l xml:id="idm140352319685936">Og vil de myrde Folk og Sprog,</l>
+               <l xml:id="idm140352319685504">og vil de trevle Dannebrog, -</l>
+            </lg>
+            <lg xml:id="idm140352319684944">
+               <l xml:id="idm140352319684688">af al den Vold og Ulivsfærd</l>
+               <l xml:id="idm140352319684224">skal Herren smedde Hævnersværd!</l>
+            </lg>
+            <pb n="262" facs="adl/richardt/richardt2/rich2262" xml:id="idm140352319683632"/>
+         </div>
+      </body>
+   </text>
+</TEI>

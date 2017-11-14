@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Literær genesis</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140264665681152">
+                     <name xml:id="idm140264665680896">
+                        <surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140264665680016">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140264665679728">: </title>
+                  <pubPlace xml:id="idm140264665679472">[København]</pubPlace>
+                  <publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140264665678640">1982-</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid63542" decls="#biblid63542">
+            <head xml:id="idm140264664364464">
+               <hi rend="italics" xml:id="idm140264664364208">LITERÆR GENESIS</hi>
+            </head>
+            <lg xml:id="idm140264664363376">
+               <l xml:id="idm140264664363120">I Begyndelsen var Brandes,</l>
+               <l xml:id="idm140264664362688">Drachmann, J. P. Jacobsen og Schandorph.</l>
+               <l xml:id="idm140264664362240">Drachmann vandred levende til Himmels,</l>
+               <l xml:id="idm140264664361808">Jacobsen er død i sine Synder,</l>
+               <l xml:id="idm140264664361344">medens Schandorph har beholdet Livet.</l>
+            </lg>
+            <lg xml:id="idm140264664360784">
+               <l xml:id="idm140264664360528">Endnu lever Georg Brandes.</l>
+            </lg>
+            <lg xml:id="idm140264664359968">
+               <l xml:id="idm140264664359712">Kom, I unge! Med et Tog af Fakler,</l>
+               <l xml:id="idm140264664359280">vil vi, medens alt omkring os vakler,</l>
+               <l xml:id="idm140264664358848">endnu hædre denne brave Gamle.</l>
+            </lg>
+            <trailer xml:id="idm140264664358256">
+               <hi rend="italics" xml:id="idm140264664358128">Three cheers for the great old</hi> Georg Brandes!</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paa chr.v's fødselsdag [udateret fragment]</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015369092032">
+                     <name xml:id="idm140015369091776">
+                        <surname xml:id="idm140015369091648">Kingo</surname>,
+      <forename xml:id="idm140015369091200">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015369090912">Samlede skrifter 2</title>
+                  <pubPlace xml:id="idm140015369090624">København</pubPlace>
+                  <publisher xml:id="idm140015369090192">Munksgaard</publisher>
+                  <date xml:id="idm140015369089856">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid75588" decls="#biblid75588">
+            <body xml:id="idm140015366427360">
+               <opener xml:id="idm140015366427104">
+                  <salute xml:id="idm140015366426848">
+Paa den Stoormægtigste og Høj-baarne<lb xml:id="idm140015366426496"/>Monarks og Eenvolds Herris,<lb xml:id="idm140015366426192"/>
+                     <name xml:id="idm140015366425936">Kong CHRISTIAN den Femtis</name>,<lb xml:id="idm140015366425504"/>
+Konge til Danmark oc Norge o. s. f.<lb xml:id="idm140015366425200"/>
+Min allernaadigste Kongis og Herris Fødsels dag,<lb xml:id="idm140015366424832"/>som er den 15 dag Aprilis.<lb xml:id="idm140015366424528"/>
+                  </salute>
+               </opener>
+               <lg xml:id="idm140015366424016">
+                  <l xml:id="idm140015366423760">Saa Kiører Soolen hid, og midt i Aurild peger</l>
+                  <l xml:id="idm140015366423264">Paa Kongens fødsels dag, huer lyksom stierne leeger,</l>
+                  <l xml:id="idm140015366422752">Som med guds fingris meed, i den planete-plan,</l>
+                  <l xml:id="idm140015366422304">Og Viser Norden til sin Femte Christian!</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015366421728">
+                  <hi rend="italics" xml:id="idm140015366421088">Tekstgrundlag: Kali 4° 408 S. 52. 6 </hi>som] <hi rend="italics" xml:id="idm140015366420304">i Hs. skrevet som et </hi>s
+<hi rend="italics" xml:id="idm140015366419568">med en Krølle. </hi>io] <hi rend="italics" xml:id="idm140015366418832">Dette Vers staar nederst paa S. 52, der er sidste
+Blod i et Lag; øverst S. </hi>55 <hi rend="italics" xml:id="idm140015366418000">følger V. 13 af Kingos Digt over Maren
+Beting.</hi>
+               </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Morgenen.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid68260" decls="#biblid68260">
+            <head xml:id="idm140382755877408">MORGENEN.</head>
+            <lg xml:id="idm140382755876992">
+               <l xml:id="idm140382755876736">Naar Morgnen phantaserer paa sin Lyre</l>
+               <l xml:id="idm140382755876304">Og dens Accorder sødt fra Leiet kalde:</l>
+               <l xml:id="idm140382755875824">Træd ud da i den store Dæmrings-Halle</l>
+               <l xml:id="idm140382755875344">Hør Lærkechorets fromme Ouverture!</l>
+            </lg>
+            <lg xml:id="idm140382755874736">
+               <l xml:id="idm140382755874480">Forteppet, som Guldfryndser lyst baldyre,</l>
+               <l xml:id="idm140382755874032">Som Nattens Taager væve, seer du falde.</l>
+               <l xml:id="idm140382755873552">Halvdrømmende vor Herres Urter alle</l>
+               <l xml:id="idm140382755873072">Er pynted' ud med Farverne de dyre.</l>
+            </lg>
+            <lg xml:id="idm140382755872512">
+               <l xml:id="idm140382755872256">Huldt ranker Sjælen sig til Blomsterstaven,</l>
+               <l xml:id="idm140382755871760">Som Sandselivets Tryllepensler male,</l>
+               <l xml:id="idm140382755871328">Og klarest perler Duggen for de Glade:</l>
+            </lg>
+            <lg xml:id="idm140382755870768">
+               <l xml:id="idm140382755870512">Sværm derfor ud med Bierne til Haven!</l>
+               <l xml:id="idm140382755870032">Følg Hyrdefløiten i de grønne Dale!</l>
+               <l xml:id="idm140382755869552">Lad freidigt Mod i Morgenluft sig bade!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

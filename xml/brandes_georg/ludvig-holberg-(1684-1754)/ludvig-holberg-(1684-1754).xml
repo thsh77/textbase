@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ludvig holberg (1684-1754)</title>
+            <author>Brandes, Georg</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139666715174000">
+                     <name xml:id="idm139666715173744">
+                        <surname xml:id="idm139666715173616">Brandes</surname>, <forename xml:id="idm139666715173184">Georg</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139666715172928">Samlede Skrifter</title>
+                  <pubPlace xml:id="idm139666715172640">København</pubPlace>
+                  <date xml:id="idm139666715172128">1899-1910</date>
+                  <biblScope>165-185</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid55404" decls="#biblid55404">
+            <body xml:id="idm139666714990432">
+               <pb n="166" facs="adl/brandes/brand1/bran1166" xml:id="idm139666714990176"/>
+               <pb n="167" facs="adl/brandes/brand1/bran1167" xml:id="idm139666714989360"/>
+               <pb n="168" facs="adl/brandes/brand1/bran1168" xml:id="idm139666714988592"/>
+               <pb n="169" facs="adl/brandes/brand1/bran1169" xml:id="idm139666714987776"/>
+               <pb n="170" facs="adl/brandes/brand1/bran1170" xml:id="idm139666714987008"/>
+               <pb n="171" facs="adl/brandes/brand1/bran1171" xml:id="idm139666714986192"/>
+               <pb n="172" facs="adl/brandes/brand1/bran1172" xml:id="idm139666714985376"/>
+               <pb n="173" facs="adl/brandes/brand1/bran1173" xml:id="idm139666714984560"/>
+               <pb n="174" facs="adl/brandes/brand1/bran1174" xml:id="idm139666714983744"/>
+               <pb n="175" facs="adl/brandes/brand1/bran1175" xml:id="idm139666714982928"/>
+               <pb n="176" facs="adl/brandes/brand1/bran1176" xml:id="idm139666714982112"/>
+               <pb n="177" facs="adl/brandes/brand1/bran1177" xml:id="idm139666714981344"/>
+               <pb n="178" facs="adl/brandes/brand1/bran1178" xml:id="idm139666714980576"/>
+               <pb n="179" facs="adl/brandes/brand1/bran1179" xml:id="idm139666714979808"/>
+               <pb n="180" facs="adl/brandes/brand1/bran1180" xml:id="idm139666714979040"/>
+               <pb n="181" facs="adl/brandes/brand1/bran1181" xml:id="idm139666714978272"/>
+               <pb n="182" facs="adl/brandes/brand1/bran1182" xml:id="idm139666714977504"/>
+               <pb n="183" facs="adl/brandes/brand1/bran1183" xml:id="idm139666714976736"/>
+               <pb n="184" facs="adl/brandes/brand1/bran1184" xml:id="idm139666714975968"/>
+               <pb n="185" facs="adl/brandes/brand1/bran1185" xml:id="idm139666714975200"/>
+               <p xml:id="idm139666714974384"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

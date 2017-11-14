@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kirken.</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139850578428432">
+                     <name xml:id="idm139850578428176">
+                        <surname xml:id="idm139850578428048">Aakjær</surname>, <forename xml:id="idm139850578427616">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139850578427328"> Digte 1908-1918. - 1918</title>
+                  <pubPlace xml:id="idm139850578427024">København</pubPlace>
+                  <pubPlace xml:id="idm139850578426560">Kristiania</pubPlace>
+                  <publisher xml:id="idm139850578426096">Gyldendal</publisher>
+                  <date xml:id="idm139850578425760">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid64014" decls="#biblid64014">
+            <head xml:id="idm139850577047936">
+               <hi rend="italics" xml:id="idm139850577047808"><!--<emph>-->KIRKEN<!--</emph--></hi>.</head>
+            <lg xml:id="idm139850577046640">
+               <l xml:id="idm139850577046384">JEG sidder ved Foden af Bakken,</l>
+               <l xml:id="idm139850577045952">mens Kirken staar paa dens Top.</l>
+               <l xml:id="idm139850577045520">Jeg lægger Ho'det paa Nakken,</l>
+               <l xml:id="idm139850577045056">forsøger at sé derop.</l>
+            </lg>
+            <lg xml:id="idm139850577044480">
+               <l xml:id="idm139850577044224">Du strækker efter en Himmel</l>
+               <l xml:id="idm139850577043760">som ingen Stræben kan naa,</l>
+               <l xml:id="idm139850577043312">og selv har jeg grebet svimmel</l>
+               <l xml:id="idm139850577042880">engang efter Himlens Blaa.</l>
+            </lg>
+            <lg xml:id="idm139850577042320">
+               <l xml:id="idm139850577042064">Jeg vilde ej Haabet slippe,</l>
+               <l xml:id="idm139850577041632">jeg prøved og prøved paany,</l>
+               <l xml:id="idm139850577041168">jeg rakte fra "Troens Klippe"</l>
+               <l xml:id="idm139850577040736">og fik i Haanden - en Sky.</l>
+            </lg>
+            <pb n="46" xml:id="s46" facs="adl/aakjaer/aakjaer2/aakj2046"/>
+            <lg xml:id="idm139850577038944">
+               <l xml:id="idm139850577038688">Du præker fra Kor og Krypter</l>
+               <l xml:id="idm139850577038224">om Dogmer, som ej skal forgaa;</l>
+               <l xml:id="idm139850577037792">men sét fra Himmelens Dybder</l>
+               <l xml:id="idm139850577037328">vi to er nok lige smaa.</l>
+            </lg>
+            <trailer xml:id="idm139850577036784">
+               <date xml:id="idm139850577036656">18/2 1910</date>.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

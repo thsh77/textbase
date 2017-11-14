@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Chr. v's ankomst til odense fra det ratzebufgiske tog 1693</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015369092032">
+                     <name xml:id="idm140015369091776">
+                        <surname xml:id="idm140015369091648">Kingo</surname>,
+      <forename xml:id="idm140015369091200">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015369090912">Samlede skrifter 2</title>
+                  <pubPlace xml:id="idm140015369090624">København</pubPlace>
+                  <publisher xml:id="idm140015369090192">Munksgaard</publisher>
+                  <date xml:id="idm140015369089856">1939-74.</date>
+                  <biblScope>166-167</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid74176" decls="#biblid74176">
+            <body xml:id="idm140015366599808">
+               <opener xml:id="idm140015366599552">
+                  <salute xml:id="idm140015366599296">
+Allerunderdanigst Lykynske<lb xml:id="idm140015366598992"/>Til dend<lb xml:id="idm140015366598704"/>
+Stoormægtigste og Høybaarne Monark<lb xml:id="idm140015366598352"/>
+                     <name xml:id="idm140015366598096">Kong CHRISTIAN dend Femte</name>,<lb xml:id="idm140015366597664"/>
+Konge til Danmark og Norge, de Wenders og Gothers,<lb xml:id="idm140015366597344"/>
+Hertug udi Slesvig, Holsten, Stormarn og Dytmer-<lb xml:id="idm140015366597024"/>
+sken, Greve udi Oldenborg og Delmenhorst,<lb xml:id="idm140015366596704"/>
+Hans Kongl. Mayst:<lb xml:id="idm140015366596416"/>
+Lykkelige ankomst til Odense<lb xml:id="idm140015366596112"/>
+Fra det<lb xml:id="idm140015366595824"/>
+Ratzeburgiske Tog<lb xml:id="idm140015366595536"/>
+Dend 9. <hi rend="italics" xml:id="idm140015366595248">Octobr: </hi>1693.
+</salute>
+               </opener>
+               <lg xml:id="idm140015366594272">
+                  <l xml:id="idm140015366594016">VElkommen hid igien, DU STORE LANDSENS FADER</l>
+                  <l xml:id="idm140015366593568">Fra RATZEBORG, hver mund sig til din Roos oplader,</l>
+                  <l xml:id="idm140015366593120">Fordi dit øye paa dit mægtig Scepter staar,</l>
+                  <l xml:id="idm140015366592624">Hvor ved dit RIGE FRED, men FIENDER AFGANG faar!</l>
+                  <l xml:id="idm140015366592176">Det TOG er Lyksom endt! Du lod kun Sværdet drage</l>
+                  <l xml:id="idm140015366591680">At Hemme Hofmod, og med Torden ned at brage</l>
+                  <l xml:id="idm140015366591232">Dend stolte Festning, som var lagt til Din fortræd,</l>
+                  <l xml:id="idm140015366590720">Naar Fienden Sluffet dend, saa gafstu hannem Fred.</l>
+                  <l xml:id="idm140015366590272">Hver ILD-KLOD, som Du lodst paa Byen hefftig Drive,</l>
+                  <l xml:id="idm140015366589824">Der volde, Huse ned i smadder kunde rive</l>
+                  <l xml:id="idm140015366589376">Og skrive Folcket op med deris eget Blood</l>
+                  <l xml:id="idm140015366588928">Til Døden, om de blev ved deris Ovennood,</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015366588320">
+                  <hi rend="italics" xml:id="idm140015366587552">Tekstgrundlag: Originaltrykket (KB &amp; UB).</hi>
+               </note>
+               <pb n="167" facs="adl/kingo/kingo2/king2167" xml:id="idm140015366586672"/>
+               <lg xml:id="idm140015366585856">
+                  <l xml:id="idm140015366585600">Dend hafde NAADE dog i TRUSEL med at føre,</l>
+                  <l xml:id="idm140015366585120">Saa Mild er din NATUR! at naar Du kunde høre</l>
+                  <l xml:id="idm140015366584624">De selv i Minde rev de kneysed volde ned</l>
+                  <l xml:id="idm140015366584176">FRED skulde jorde strax ald DØDSENS Bitterhed.</l>
+                  <l xml:id="idm140015366583680">SAa vilde Trodsighed dog Ene foraarsage,</l>
+                  <l xml:id="idm140015366583232">At nu en NØGEN BY sin skæbne hart maa klage.</l>
+                  <l xml:id="idm140015366582736">Til Tegn at KONGER vel en skade lide kand</l>
+                  <l xml:id="idm140015366582288">Men Spotten hefner De med SVERD, med ILD og BRAND.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015366581712">3 kneysed] <hi rend="italics" xml:id="idm140015366580912">muligvis Fejl for </hi>kneysend* <hi rend="italics" xml:id="idm140015366580192">eller </hi>Kneyse-</note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

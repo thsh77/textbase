@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Indskrift pa blokken ved christianhavns kirke</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid94685" decls="#biblid94685">
+            <body xml:id="idm140721238346880">
+               <head xml:id="idm140721238346624"> Ofver schrift <lb xml:id="idm140721238346336"/> paa <lb xml:id="idm140721238346048"/> Blochen 1684. <lb xml:id="idm140721238345760"/>Som er sat ved
+							Christianshafns Kircke. </head>
+               <lg xml:id="idm140721238345312">
+                  <l xml:id="idm140721238345056">BI Christen Siæl mens her din bøn og mynt du yder </l>
+                  <l xml:id="idm140721238344544">Rør hiertet, Saa det ud som godheds Kilde flyder</l>
+                  <l xml:id="idm140721238344048">Til herrens bygnings verch, vær gafvmild rund og from</l>
+                  <l xml:id="idm140721238343536">Gud naadig lønner dig, trodtz aflads bref til Rom.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721238342912">
+                  <hi rend="italics" xml:id="idm140721238342272">Tekstgrundlag: Rostg 2° 152 S. 31.
+								Overskrift: </hi>Over een Blok i <lb xml:id="idm140721238341456"/>Christianshavns Kirke. 1702.
+								<hi rend="bold" xml:id="idm140721238341152"> B</hi>
+                  <hi rend="sup" xml:id="idm140721238340624">1</hi> Paa een af Klokkerne i vor Frelseres <lb xml:id="idm140721238339952"/>Kirke
+							paa Christianshavn: <hi rend="bold" xml:id="idm140721238339648">B<hi rend="sup" xml:id="idm140721238339120">2</hi>
+                  </hi>
+                  <hi rend="italics" xml:id="idm140721238338496">mgl. </hi>B<hi rend="sup" xml:id="idm140721238337808">3</hi> 6 flyder] <hi rend="bold" xml:id="idm140721238337152">ÅB<hi rend="sup" xml:id="idm140721238336592">1</hi>'<hi rend="sup" xml:id="idm140721238335968">2</hi>
+                  </hi>flyder. <hi rend="bold" xml:id="idm140721238335184"> B</hi>
+                  <hi rend="sup" xml:id="idm140721238334656">3 <lb xml:id="idm140721238334160"/>
+                  </hi>7 herrens bygnings verch, vær]<hi rend="bold" xml:id="idm140721238333696">A</hi>
+                  <hi rend="italics" xml:id="idm140721238333168">(Komma indsat af Udg.) </hi>Til dette <lb xml:id="idm140721238332448"/>Herrens
+							Huus, vær <hi rend="bold" xml:id="idm140721238332128"> B</hi>
+                  <hi rend="sup" xml:id="idm140721238331600">1</hi>'<hi rend="sup" xml:id="idm140721238330976">2</hi> Til dette Herrens Hus vær
+								<hi rend="bold" xml:id="idm140721238330256"> B</hi>
+                  <hi rend="sup" xml:id="idm140721238329728">3</hi> 8 Gud naadig <lb xml:id="idm140721238329072"/>lønner] Guds Naade lønne <hi rend="bold" xml:id="idm140721238328752"> B</hi>
+                  <hi rend="sup" xml:id="idm140721238328224">1</hi> Guds Naade lønner <hi rend="bold" xml:id="idm140721238327536"> B</hi>
+                  <hi rend="sup" xml:id="idm140721238327008">8</hi> Gud Naade- <lb xml:id="idm140721238326352"/>lønne <hi rend="bold" xml:id="idm140721238326064"> B</hi>
+                  <hi rend="sup" xml:id="idm140721238325536">2</hi> til] fra <hi rend="bold" xml:id="idm140721238324880"> B</hi>
+                  <hi rend="sup" xml:id="idm140721238324352">3</hi> Rom] <hi rend="italics" xml:id="idm140721238323696">rettet af senere Haand fra
+							</hi>Kom A </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

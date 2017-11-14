@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til fru heiberg</title>
+            <author>Hertz, Henrik</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139668653829872">
+                     <name xml:id="idm139668653829616">
+                        <surname xml:id="idm139668653829488">Hertz</surname>, <forename xml:id="idm139668653829056">Henrik</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139668653828768">Digte fra forskjellige Perioder</title>
+                  <pubPlace xml:id="idm139668653828464">København</pubPlace>
+                  <date xml:id="idm139668653827952">1851-1862</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid72492" decls="#biblid72492">
+            <head xml:id="idm139668651526432">Til Fru Heiberg.</head>
+            <stage type="mix" xml:id="idm139668651526016">Med et Exemplar af Gjenganger-Brevene. October 1840.</stage>
+            <lg xml:id="idm139668651525328">
+               <l xml:id="idm139668651525072">En halv Snees Aar er snart forløben, siden</l>
+               <l xml:id="idm139668651524592">Den Skjemtesang, jeg sender Dem, kom ud;</l>
+               <l xml:id="idm139668651524144">Og Stilhed hersker der, hvor dengang Striden</l>
+               <l xml:id="idm139668651523696">I Stevnemødet klang paa Musers Bud.</l>
+               <l xml:id="idm139668651523216">En yngre Slægt er dukket op af Tiden,</l>
+               <l xml:id="idm139668651522736">Og Tidens. Gud er nu en anden Gud.</l>
+               <l xml:id="idm139668651522304">Den Skjemt, der dengang grebes let af Folket,</l>
+               <l xml:id="idm139668651521856">Den fattes neppe, blev den end fortolket.</l>
+            </lg>
+            <lg xml:id="idm139668651521280">
+               <l xml:id="idm139668651521024">I denne Tid, da Dyden sig forvikler</l>
+               <l xml:id="idm139668651520592">I svære Spørgsmaal, naar et Land gjor Laan,</l>
+               <l xml:id="idm139668651520096">Og grubler over gamle Laugs-Artikler</l>
+               <l xml:id="idm139668651519664">Og regner Statens Brøst til mindste Spaan,</l>
+            </lg>
+            <pb n="207" xml:id="s207" facs="adl/hertz/hertz10/hertz10207"/>
+            <lg xml:id="idm139668651517760">
+               <l xml:id="idm139668651517504">Hvo vil ei nu, ifald en Musa stikler</l>
+               <l xml:id="idm139668651517072">Paa Kunstens Brøst, betragte Sligt med Haan?</l>
+               <l xml:id="idm139668651516576">Og kom en Aand fra Paradis, hans Stemme,</l>
+               <l xml:id="idm139668651516128">Som en Kassandras, Ingen vil fornemme.</l>
+            </lg>
+            <lg xml:id="idm139668651515568">
+               <l xml:id="idm139668651515312">- For ti Aar siden lod jeg munter drage</l>
+               <l xml:id="idm139668651514880">Min Sang til En, hvis Musa var min Ven.</l>
+               <l xml:id="idm139668651514448">Jeg tænkte: han vil ei min Lyra vrage,</l>
+               <l xml:id="idm139668651513968">Om end af Lunet tidt den rives hen.</l>
+               <l xml:id="idm139668651513536">Nu tyer min Sang til Dem, hans ædle Mage;</l>
+               <l xml:id="idm139668651513056">Den gamle Skjemt gaaer anden Gang igjen.</l>
+               <l xml:id="idm139668651512608">I Deres Hjem, for Kunst et fredet Stade,</l>
+               <l xml:id="idm139668651512160">Er end en Plads for disse lette Blade.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

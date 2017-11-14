@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ved dampskibet jarl's totale forlis</title>
+            <author>Drachmann, Holger</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139873598141696">
+                     <name xml:id="idm139873598141440">
+                        <surname xml:id="idm139873598141312">Drachmann</surname>, <forename xml:id="idm139873598140848">Holger</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139873598140560">Samlede poetiske Skrifter</title>
+                  <pubPlace xml:id="idm139873598140256">Kbh. &amp; Kristiania</pubPlace>
+                  <date xml:id="idm139873598139632">1906-1909</date>
+                  <biblScope>533-534</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid58025" decls="#biblid58025">
+            <body xml:id="idm139873597590464">
+               <pb n="534" facs="adl/drachmann/drachmann08/drac08534" xml:id="idm139873597590208"/>
+               <p xml:id="idm139873597589392"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

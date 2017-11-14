@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paa uldrich frderich gyldenlews sundhed 1686</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid100021" decls="#biblid100021">
+            <body xml:id="idm140721237723216">
+               <head xml:id="idm140721237722960"> Paa Hans Høy e <hi rend="italics" xml:id="idm140721237722704">Exellence,</hi>
+                  <lb xml:id="idm140721237722080"/> Uldrich Friderich Gyldenlews <lb xml:id="idm140721237721824"/>Sundhed. </head>
+               <lg xml:id="idm140721237721440">
+                  <l xml:id="idm140721237721184">MEns Viinbær-Elven gaar, da vil vi Seyl opvinde,</l>
+                  <l xml:id="idm140721237720688">
+                     <hi rend="italics" xml:id="idm140721237720560">Gylden-Løvens </hi>Minde. </l>
+                  <l xml:id="idm140721237719808">Lad Misgunst drikke vand og Vattersottig døe!</l>
+                  <l xml:id="idm140721237719312">Vi faar Hans Skaal udj een lekker Drue-Søe.</l>
+                  <l xml:id="idm140721237718816">Lad Kongen i hans Skiød sit Guld og Gunst nedregne!</l>
+                  <l xml:id="idm140721237718304">Af Hiertet ville vi Lyk-ønsker for ham tegne.</l>
+                  <l xml:id="idm140721237717808">
+                     <hi rend="italics" xml:id="idm140721237717552">Lauvervig, </hi>
+                  </l>
+                  <l xml:id="idm140721237716800">Og Kongens Kender, samt din' egne overstig.</l>
+                  <closer xml:id="idm140721237716352">
+                     <signed xml:id="idm140721237716096">Th. Kingo.</signed>
+                     <lb xml:id="idm140721237715712"/>
+                     <dateline xml:id="idm140721237715456">
+                        <date xml:id="idm140721237715200">
+                           <hi rend="italics" xml:id="idm140721237715072">Extempore </hi>d. 29. <hi rend="italics" xml:id="idm140721237714448">Nov. </hi>
+                           <lb xml:id="idm140721237713952"/>1686. </date>
+                     </dateline>
+                  </closer>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721237713184">
+                  <hi rend="italics" xml:id="idm140721237712576">Tekstgrundlag: Coll 4° 538 II S. 101. </hi>5
+							ynske-Snekken] ønske- <lb xml:id="idm140721237711776"/>Snekken<hi rend="bold" xml:id="idm140721237711520">D</hi>ynske Snekken
+								<hi rend="bold" xml:id="idm140721237710896">ÅB </hi>ønske-Smakken<hi rend="bold" xml:id="idm140721237710272"> C</hi>11 din']
+								<hi rend="bold" xml:id="idm140721237709648">CD</hi>
+                  <lb xml:id="idm140721237709152"/>din ÅB </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

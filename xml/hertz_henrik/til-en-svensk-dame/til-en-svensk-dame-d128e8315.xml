@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til en svensk dame</title>
+            <author>Hertz, Henrik</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139668653829872">
+                     <name xml:id="idm139668653829616">
+                        <surname xml:id="idm139668653829488">Hertz</surname>, <forename xml:id="idm139668653829056">Henrik</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139668653828768">Digte fra forskjellige Perioder</title>
+                  <pubPlace xml:id="idm139668653828464">København</pubPlace>
+                  <date xml:id="idm139668653827952">1851-1862</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid71711" decls="#biblid71711">
+            <head xml:id="idm139668651621760">Til en svensk Dame.</head>
+            <lg xml:id="idm139668651621344">
+               <l xml:id="idm139668651621088">Imellem Kattegat og Østresalt,</l>
+               <l xml:id="idm139668651620624">Imellem Beltet hist og Øresundet</l>
+               <l xml:id="idm139668651620160">Blev Sjælland med jomfruelig Gestalt</l>
+               <l xml:id="idm139668651619680">I Havet fast, men let og luftig bundet.</l>
+            </lg>
+            <lg xml:id="idm139668651619120">
+               <l xml:id="idm139668651618864">Der er saa smukt og fagert paa dets Kyst,</l>
+               <l xml:id="idm139668651618416">Og Duften frist fra gyldne Neeg og Stakker;</l>
+               <l xml:id="idm139668651617968">Og Skoven, sommergrøn til dybt i Høst,</l>
+               <l xml:id="idm139668651617488">Er blødt grupperet mellem Eng og Bakker.</l>
+            </lg>
+            <lg xml:id="idm139668651616880">
+               <l xml:id="idm139668651616624">Fra Marken stiger Morgenlærken op</l>
+               <l xml:id="idm139668651616160">Med Psalmer, der igjennem Luften svømme;</l>
+               <l xml:id="idm139668651615680">Men Nattergalen hist fra Bøgens Top</l>
+               <l xml:id="idm139668651615200">Besynger ømme Savn og gyldne Drømme.</l>
+            </lg>
+            <pb n="198" xml:id="s198" facs="adl/hertz/hertz10/hertz10198"/>
+            <lg xml:id="idm139668651613392">
+               <l xml:id="idm139668651613136">Om Dagen kaster Solen af sin Glands</l>
+               <l xml:id="idm139668651612704">En Strøm af Guld paa Sundet over Søen;</l>
+               <l xml:id="idm139668651612224">Men Nattens Dug, i lette Taagers Dands,</l>
+               <l xml:id="idm139668651611792">Strøer tusind klare Perler over Øen.</l>
+            </lg>
+            <lg xml:id="idm139668651611184">
+               <l xml:id="idm139668651610928">- Saaledes ligger, yndig, fri og let,</l>
+               <l xml:id="idm139668651610496">Betrygget ved et Hav, der mægtigt bruser,</l>
+               <l xml:id="idm139668651610016">Mit Øland, en af Gud velsignet Plet,</l>
+               <l xml:id="idm139668651609536">Et Fristed for de naaderige Muser.</l>
+            </lg>
+            <lg xml:id="idm139668651608976">
+               <l xml:id="idm139668651608720">Tilgiv mig, at jeg priser høit mit Hjem -</l>
+               <l xml:id="idm139668651608240">Ak, der er smukt og fagert her ved Søen!</l>
+               <l xml:id="idm139668651607760">Tilgiv! og lad mit Digt bevæge Dem,</l>
+               <l xml:id="idm139668651607280">At blive end en Stund hos os paa Øen.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

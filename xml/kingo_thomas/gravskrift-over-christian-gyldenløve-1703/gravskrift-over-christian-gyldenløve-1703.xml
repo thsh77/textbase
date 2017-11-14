@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gravskrift over christian gyldenløve 1703</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>221-222</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid90688" decls="#biblid90688">
+            <body xml:id="idm140721238855712">
+               <head xml:id="idm140721238855456"> Grav-Skrift <lb xml:id="idm140721238855168"/> Over <lb xml:id="idm140721238854880"/> Hans Høye <hi rend="italics" xml:id="idm140721238854576">Excellence,</hi>
+                  <lb xml:id="idm140721238853888"/>Den Højbaarne Herre,<lb xml:id="idm140721238853568"/> HERR <lb xml:id="idm140721238853280"/> Christian Gyldenløve, <lb xml:id="idm140721238852960"/>
+							Græve af Samsøe, <lb xml:id="idm140721238852640"/>Friherre af Lindenborg, <lb xml:id="idm140721238852336"/>Ridder af
+							Elephanten,<lb xml:id="idm140721238852032"/>Hans Kongl. Majests. til Danmark <lb xml:id="idm140721238851728"/> og Norge
+							<lb xml:id="idm140721238851440"/>General Feldt-Marschal, og Ober- <lb xml:id="idm140721238851136"/> Cammer-Herre, <lb xml:id="idm140721238850848"/>Som med
+							Mande-Moed mange gange hafde<lb xml:id="idm140721238850528"/> overvundet sine Fiender, <lb xml:id="idm140721238850224"/>Eengang
+							blev overvunden af Døden, <lb xml:id="idm140721238849872"/> Men <lb xml:id="idm140721238849584"/> Ved Aandens Tro beholdt Sejer
+							og vandt sin Overvinder. <lb xml:id="idm140721238849248"/>Da Hans Himmel-baarne Siæl forlod Legemed
+							den 15 <hi rend="italics" xml:id="idm140721238848864">Julij,</hi>
+                  <lb xml:id="idm140721238848176"/> Og <lb xml:id="idm140721238847888"/>Hans Høybaarne Legeme blef bortført fra Odense <lb xml:id="idm140721238847520"/> den
+							26 <hi rend="italics" xml:id="idm140721238847232">Julii,</hi>
+                  <lb xml:id="idm140721238846544"/>Med tilbørlig Ærbødighed opretted <lb xml:id="idm140721238846192"/> af<lb xml:id="idm140721238845888"/>
+                  <hi rend="italics" xml:id="idm140721238845632">T. K. Episcop. Fion. </hi>
+                  <lb xml:id="idm140721238844944"/> ((daggert) 16 Juli 1703). </head>
+               <lg xml:id="idm140721238844512">
+                  <l xml:id="idm140721238844256">HEr hviler Danner Helt, hin brave Gyldenløve,</l>
+                  <l xml:id="idm140721238843760">Fød og opfostred til at staa mod Døden Prøve,</l>
+                  <l xml:id="idm140721238843264">Udi den grumme Mark, hvor <hi rend="italics" xml:id="idm140721238842960">Mars </hi>med Ild og
+								Blood,</l>
+                  <l xml:id="idm140721238842096">Uddeeler Sejer til sin kiekke Kiempe-Rood. </l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721238841520">
+                  <hi rend="italics" xml:id="idm140721238840752">Tekstgrundlag: H. G. Masius, Traur-Rede über
+								Christian Gyldenløve <lb xml:id="idm140721238840048"/>(1709)</hi>
+               </note>
+               <pb n="222" xml:id="s222" facs="adl/kingo/kingo1/king1222"/>
+               <lg xml:id="idm140721238838208">
+                  <l xml:id="idm140721238837952">Her lagde Hand sit Sværd, thi Døden i hans Hæle</l>
+                  <l xml:id="idm140721238837456">Med Hinderlistighed sig paa Ham vilde stiæle</l>
+                  <l xml:id="idm140721238836960">Udi hans Føde-Land, hvor den hans Bane spandt,</l>
+                  <l xml:id="idm140721238836464">Men Gyldenløve dog i Døden Seyer vandt.</l>
+               </lg>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

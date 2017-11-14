@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Et hengivent ønske (1778)</title>
+            <author>Ewald, Johannes</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139851049620320">
+                     <name xml:id="idm139851049620064">
+                        <surname xml:id="idm139851049619936">Ewald</surname>, <forename xml:id="idm139851049619504">Johannes</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139851049619248">Johannes Ewalds samlede skrifter</title>
+                  <pubPlace xml:id="idm139851049618944">(Kbh.)</pubPlace>
+                  <publisher xml:id="idm139851049618480">Gyldendal</publisher>
+                  <date xml:id="idm139851049618144">(1969)</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid74252" decls="#biblid74252" type="poem">
+            <head xml:id="idm139851047149504">ET HENGIVENT ØNSKE (1778)</head>
+            <lg xml:id="idm139851047149056">
+               <l xml:id="idm139851047148800">O du, hvis Vink fremkaldte Myriader,</l>
+               <l xml:id="idm139851047148368">Af Intets tause Nat til dig! -</l>
+               <l xml:id="idm139851047147936">DuCherubimersVen! - du Støvets Fader! -</l>
+               <l xml:id="idm139851047147456">O lad dit Smiil besiæle mig! -</l>
+               <l xml:id="idm139851047146992">O byd mit Liv - mit usle Liv, at være,</l>
+               <l xml:id="idm139851047146512">Et Spor af dig, du Godheds Gud! -</l>
+               <l xml:id="idm139851047146080">Min svage Røst fortolke høyt din Ære!</l>
+               <l xml:id="idm139851047145600">Og al min Idræt dine Bud! -</l>
+            </lg>
+            <pb n="116" xml:id="s116" facs="adl/ewald/ewald5/ewald5116"/>
+         </div>
+      </body>
+   </text>
+</TEI>

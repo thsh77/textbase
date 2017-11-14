@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epigramma ad oligerum rosenkrantzium sponsum</title>
+            <author>Brahe, Tycho</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140709425647584">
+                     <name xml:id="idm140709425647328">
+                        <surname xml:id="idm140709425647200">Brahe</surname>, <forename xml:id="idm140709425646736">Tycho</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140709425646448">Tychonis Brahe Dani opera omnia</title>
+                  <pubPlace xml:id="idm140709425646144">Hauniæ</pubPlace>
+                  <date xml:id="idm140709425645632">1913-29</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid54243" decls="#biblid54243">
+            <body xml:id="idm140709425626080">
+               <p xml:id="idm140709425625776"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

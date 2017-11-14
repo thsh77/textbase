@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Plovmandens sang.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid76887" decls="#biblid76887">
+            <head xml:id="idm139731447232512">Plovmandens Sang.</head>
+            <lg xml:id="idm139731447232096">
+               <l xml:id="idm139731447231840">Hyp min Hest, lad Ploven gaa,</l>
+               <l xml:id="idm139731447231408">pløje ned hvert Stubbestraa,</l>
+               <l xml:id="idm139731447230944">lokke frem den slugne Larve</l>
+               <l xml:id="idm139731447230512">- dem kan Spurv og Krage arve -,</l>
+               <l xml:id="idm139731447230080">rødde op det onde Kuld,</l>
+               <l xml:id="idm139731447229632">skjørne godt den haarde Muld.</l>
+            </lg>
+            <lg xml:id="idm139731447229040">
+               <l xml:id="idm139731447228784">Denne Mark jeg har saa kjær,</l>
+               <l xml:id="idm139731447228320">den er Bøgeskoven nær,</l>
+               <l xml:id="idm139731447227872">den har Stork og den har Lærke,</l>
+               <l xml:id="idm139731447227408">den har Danmarks Modermærke;</l>
+               <l xml:id="idm139731447226944">mod en gammel Kæmpegrav</l>
+               <l xml:id="idm139731447226496">Vinden stryger ind fra Hav.</l>
+            </lg>
+            <lg xml:id="idm139731447225936">
+               <l xml:id="idm139731447225680">Ak, jeg veed et Pløjeland,</l>
+               <l xml:id="idm139731447225232">nu for os en fremmed Strand;</l>
+               <l xml:id="idm139731447224800">Torn og Tidsler har det døjet,</l>
+               <l xml:id="idm139731447224336">og med Kugler er det pløjet,</l>
+               <l xml:id="idm139731447223872">dog saa dansk i Bund og Grund</l>
+               <l xml:id="idm139731447223440">som en Mark ved Øresund.</l>
+            </lg>
+            <lg xml:id="idm139731447222864">
+               <l xml:id="idm139731447222608">Men naar Timen er dertil,</l>
+               <l xml:id="idm139731447222176">og naar Hævnens Herre vil,</l>
+               <l xml:id="idm139731447221728">skal med Ham vi Faa og Svage</l>
+               <l xml:id="idm139731447221296">trøstig pløje det tilbage,</l>
+               <l xml:id="idm139731447220832">spænde Gefions Øxne for,</l>
+               <l xml:id="idm139731447220384">til vor søndre Mark er <hi rend="italics" xml:id="idm139731447220064">vor!</hi>
+               </l>
+            </lg>
+            <pb n="188" xml:id="s188" facs="adl/richardt/richardt1/rich1188"/>
+         </div>
+      </body>
+   </text>
+</TEI>

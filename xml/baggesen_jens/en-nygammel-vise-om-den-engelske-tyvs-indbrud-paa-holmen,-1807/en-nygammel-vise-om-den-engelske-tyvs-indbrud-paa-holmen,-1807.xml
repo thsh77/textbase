@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>En nygammel vise om den engelske tyvs indbrud paa holmen, 1807</title>
+            <author>Baggesen, Jens</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140610052857920">
+                     <name xml:id="idm140610052857664">
+                        <surname xml:id="idm140610052857536">Baggesen</surname>, <forename xml:id="idm140610052857072">Jens</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140610052856784"> Blandede Digte. 2. Samling. - 1903</title>
+                  <pubPlace xml:id="idm140610052856480">København</pubPlace>
+                  <date xml:id="idm140610052855968">1889-1903</date>
+                  <biblScope>147-155</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid56236" decls="#biblid56236">
+            <body xml:id="idm140610052493456">
+               <pb n="148" xml:id="n148" facs="adl/baggesen/baggesen5/bagg5148"/>
+               <pb n="149" xml:id="n149" facs="adl/baggesen/baggesen5/bagg5149"/>
+               <pb n="150" xml:id="n150" facs="adl/baggesen/baggesen5/bagg5150"/>
+               <pb n="151" xml:id="n151" facs="adl/baggesen/baggesen5/bagg5151"/>
+               <pb n="152" xml:id="n152" facs="adl/baggesen/baggesen5/bagg5152"/>
+               <pb n="153" xml:id="n153" facs="adl/baggesen/baggesen5/bagg5153"/>
+               <pb n="154" xml:id="n154" facs="adl/baggesen/baggesen5/bagg5154"/>
+               <pb n="155" xml:id="n155" facs="adl/baggesen/baggesen5/bagg5155"/>
+               <p xml:id="idm140610052483408"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Om stjl och malning ret skal gunst</title>
+            <author>Bording, Anders</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <title xml:id="idm140114471059440">Digte. - 1984</title>
+                  <author n="1" xml:id="idm140607960305264">
+                     <name xml:id="idm140607960305008">
+                        <surname xml:id="idm140607960304880">Bording</surname>,
+	      <forename xml:id="idm140607960304416">Anders</forename>
+                     </name>
+                  </author>
+                  <pubPlace xml:id="idm140114471059184">København</pubPlace>
+                  <publisher xml:id="idm140114471058720">Det Danske Sprog- og
+	  Litteraturselskab</publisher>
+                  <date xml:id="idm140114471058368">1984-86</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid100924" decls="#biblid100924">
+            <head xml:id="idm140114465138944">92.<lb xml:id="idm140114465138688"/> [Den Sind- oc kunstrjge<lb xml:id="idm140114465138384"/>
+               <hi rend="italics" xml:id="idm140114465138128">Carl Vanmander</hi>
+               <lb xml:id="idm140114465137440"/> Der hand sin Poetisk Dict om<lb xml:id="idm140114465137136"/> Snuu-Tobak udgaff til<lb xml:id="idm140114465136848"/> Ære.]</head>
+            <lg xml:id="idm140114465136432">
+               <l xml:id="idm140114465136176">Om stjl och malning ret skal gunst</l>
+               <l xml:id="idm140114465135744">Hos Alexander nyde</l>
+               <l xml:id="idm140114465135328">Homerus dicte faar med kunst</l>
+               <l xml:id="idm140114465134896">Apelles taflen pryde</l>
+               <l xml:id="idm140114465134480">Den store Fredrich dig er det</l>
+               <l xml:id="idm140114465134048">Som dennem Alexander</l>
+               <l xml:id="idm140114465133632">Fordi din pen och pensel ret</l>
+               <l xml:id="idm140114465133200">Er artig o vanmander.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

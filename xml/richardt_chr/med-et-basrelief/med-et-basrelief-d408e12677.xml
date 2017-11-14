@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Med et basrelief</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140152138539728">
+                     <name xml:id="idm140152138539472">
+                        <surname xml:id="idm140152138539344">Richardt</surname>,
+      <forename xml:id="idm140152138538928">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140152138538640">Samlede Digte. Tredje Deel.</title>
+                  <pubPlace xml:id="idm140152138538336">København</pubPlace>
+                  <date xml:id="idm140152138537824">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid78980" decls="#biblid78980">
+            <head xml:id="idm140152135427952">Med et Basrelief<lb xml:id="idm140152135427664"/>
+af Evens: <hi rend="italics" xml:id="idm140152135427376">Goddædighed</hi>.<lb xml:id="idm140152135426672"/>
+(Jubilæums-Gave fra den Kongl. Husstand.)</head>
+            <lg xml:id="idm140152135426192">
+               <l xml:id="idm140152135425936">Da Sankt Elisabeth gav Smaafolk Brød,</l>
+               <l xml:id="idm140152135425456">og hendes Husbond blussed op i Harme -</l>
+               <l xml:id="idm140152135425072">et Rosenflor der frem af Kurven skød,</l>
+               <l xml:id="idm140152135424592">og dækked over hendes Hjerte-Varme.</l>
+               <pb n="193" facs="adl/richardt/richardt3/rich3193" xml:id="idm140152135424112"/>
+               <l xml:id="idm140152135423344">Ej er det Rosentid i Danmarks Have -</l>
+               <l xml:id="idm140152135422960">men af hvert venligt Ord, hvert fuldmaalt Brød,</l>
+               <l xml:id="idm140152135422464">hvert naadigt Smil, hver lønlig Konge-Gave</l>
+               <l xml:id="idm140152135421984">fra Dig vor Husbond og Din høje Frue,</l>
+               <l xml:id="idm140152135421504">
+                  <hi rend="italics" xml:id="idm140152135421376">Hengivenhedens</hi> varme Roser lue -</l>
+               <l xml:id="idm140152135420528">og <hi rend="italics" xml:id="idm140152135420272">de</hi> har ingen Torne i sit Skjød!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

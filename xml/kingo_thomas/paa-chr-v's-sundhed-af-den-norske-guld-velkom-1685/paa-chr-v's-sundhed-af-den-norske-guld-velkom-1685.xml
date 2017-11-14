@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paa chr. v's sundhed af den norske guld-velkom [1685?]</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015369092032">
+                     <name xml:id="idm140015369091776">
+                        <surname xml:id="idm140015369091648">Kingo</surname>,
+      <forename xml:id="idm140015369091200">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015369090912">Samlede skrifter 2</title>
+                  <pubPlace xml:id="idm140015369090624">København</pubPlace>
+                  <publisher xml:id="idm140015369090192">Munksgaard</publisher>
+                  <date xml:id="idm140015369089856">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid71844" decls="#biblid71844">
+            <body xml:id="idm140015366885760">
+               <opener xml:id="idm140015366885504">
+                  <salute xml:id="idm140015366885248">
+Paa Hans Kongl. Majest. Sundhed<lb xml:id="idm140015366884944"/>af den norske Guld-Velkom.
+</salute>
+               </opener>
+               <lg xml:id="idm140015366884384">
+                  <l xml:id="idm140015366884128">Guldmuuret Drikke-Kar, du store Guders Begger</l>
+                  <l xml:id="idm140015366883680">Som drikker Druens strøm, der dig paa Bredden legger,</l>
+                  <l xml:id="idm140015366883168">Du drak tilforne Vand udj afgrundens Vraae</l>
+                  <l xml:id="idm140015366882720">Der du end om flot var og før dig Soolen saae</l>
+                  <l xml:id="idm140015366882224">Men der Kong Christian dig loed til Liuset føre</l>
+                  <l xml:id="idm140015366881728">Og slig et Konstverk af din Klompe krop loed giøre</l>
+                  <l xml:id="idm140015366881232">Da lod du see at du din Moder tegner paa</l>
+                  <l xml:id="idm140015366880784">Du ligner hendes Field, Skov, Festning Elv og Aae.</l>
+                  <l xml:id="idm140015366880336">Det er paa Kongens Skaal gid frydestrømme flyde</l>
+                  <l xml:id="idm140015366879840">Langs ind i Kongens Huus! gid Lycken hannem lyde</l>
+                  <l xml:id="idm140015366879392">Indtil hand naaer sit Meed! det ønskes tusind Maal</l>
+                  <l xml:id="idm140015366878896">For hver en Draabe som her er i denne Skaal.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015366878320">
+                  <hi rend="italics" xml:id="idm140015366877680">Tekstgrundlag: Add </hi>2° <hi rend="italics" xml:id="idm140015366876960">148 S. 104. 6 </hi>om flot] omflaat B Omflot
+C E 8 slig] sligt B-E 11 Kongens] <hi rend="bold" xml:id="idm140015366876192">B-E </hi>Kongen A 12 Langs]
+Langt D 13 ønskes] <hi rend="bold" xml:id="idm140015366875408">B-E </hi>onskes A</note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

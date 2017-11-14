@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Afskedsbrev. til kammerherre kaas, d. 14-15. decbr. 1821</title>
+            <author>Baggesen, Jens</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139898996227984">
+                     <name xml:id="idm139898996227728">
+                        <surname xml:id="idm139898996227600">Baggesen</surname>, <forename xml:id="idm139898996227136">Jens</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139898996226848"> Riimbreve og poetiske Epistler. 2. Samling, 1809-1823. - 1894</title>
+                  <pubPlace xml:id="idm139898996226512">København</pubPlace>
+                  <date xml:id="idm139898996226000">1889-1903</date>
+                  <biblScope>227-237</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid57046" decls="#biblid57046">
+            <body xml:id="idm139898995804240">
+               <pb n="228" xml:id="n228" facs="adl/baggesen/baggesen3/bagg3228"/>
+               <pb n="229" xml:id="n229" facs="adl/baggesen/baggesen3/bagg3229"/>
+               <pb n="230" xml:id="n230" facs="adl/baggesen/baggesen3/bagg3230"/>
+               <pb n="231" xml:id="n231" facs="adl/baggesen/baggesen3/bagg3231"/>
+               <pb n="232" xml:id="n232" facs="adl/baggesen/baggesen3/bagg3232"/>
+               <pb n="233" xml:id="n233" facs="adl/baggesen/baggesen3/bagg3233"/>
+               <pb n="234" xml:id="n234" facs="adl/baggesen/baggesen3/bagg3234"/>
+               <pb n="235" xml:id="n235" facs="adl/baggesen/baggesen3/bagg3235"/>
+               <pb n="236" xml:id="n236" facs="adl/baggesen/baggesen3/bagg3236"/>
+               <pb n="237" xml:id="n237" facs="adl/baggesen/baggesen3/bagg3237"/>
+               <p xml:id="idm139898995791920"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jyden (1846)</title>
+            <author>Blicher, Steen Steensen</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139916724531104">
+                     <name xml:id="idm139916724530848">
+                        <surname xml:id="idm139916724530720">Blicher</surname>, <forename xml:id="idm139916724530288">Steen Steensen</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139916724530000">Digte og Noveller</title>
+                  <pubPlace xml:id="idm139916724529712">København</pubPlace>
+                  <date xml:id="idm139916724529200">1946</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid57234" decls="#biblid57234">
+            <body xml:id="idm139916724106128">
+               <p xml:id="idm139916724105872"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lov og evangelium.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140152138539728">
+                     <name xml:id="idm140152138539472">
+                        <surname xml:id="idm140152138539344">Richardt</surname>,
+      <forename xml:id="idm140152138538928">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140152138538640">Samlede Digte. Tredje Deel.</title>
+                  <pubPlace xml:id="idm140152138538336">København</pubPlace>
+                  <date xml:id="idm140152138537824">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid84442" decls="#biblid84442">
+            <head xml:id="idm140152134759824">Lov og Evangelium.</head>
+            <lg xml:id="idm140152134759408">
+               <l xml:id="idm140152134759152">Hjertet ej sin Gud vil dyrke,</l>
+               <l xml:id="idm140152134758720">mener det kan trodse ham,</l>
+               <l xml:id="idm140152134758288">sætter som i Jætte-Styrke</l>
+               <l xml:id="idm140152134757840">selv en Ære i sin Skam -</l>
+               <l xml:id="idm140152134757392">til det vaagner fuldt af Jammer,</l>
+               <l xml:id="idm140152134756960">mærker det er Herrens Dag!</l>
+               <l xml:id="idm140152134756512">til Guds <hi rend="italics" xml:id="idm140152134756224">Lov</hi> som Gudens Hammer</l>
+               <l xml:id="idm140152134755360">truer det med Mjølner-Slag.</l>
+            </lg>
+            <lg xml:id="idm140152134754768">
+               <l xml:id="idm140152134754512">Men, naar Sjælen bange grunder:</l>
+               <l xml:id="idm140152134754048">Hvor skal Frelsen komme fra?</l>
+               <l xml:id="idm140152134753616">skyder sig et Fjeld ind under -</l>
+               <l xml:id="idm140152134753184">Korsets Klippe, Golgatha!</l>
+               <l xml:id="idm140152134752752">Det var Gud, som med mig trætted,</l>
+               <l xml:id="idm140152134752288">det var Ham, som Angsten jog!</l>
+               <l xml:id="idm140152134751856">Det var Gud, som Slaget retted,</l>
+               <l xml:id="idm140152134751424">det var Ham, som Slaget tog!</l>
+            </lg>
+            <pb n="237" facs="adl/richardt/richardt3/rich3237" xml:id="idm140152134750864"/>
+            <lg xml:id="idm140152134750096">
+               <l xml:id="idm140152134749840">Dog blev Lovens tunge Hammer</l>
+               <l xml:id="idm140152134749408">svunget ej i Luften blindt -</l>
+               <l xml:id="idm140152134748976">sprængt den har af Hjertets Kammer</l>
+               <l xml:id="idm140152134748512">al dets Hovmods haarde Flint!</l>
+               <l xml:id="idm140152134748080">Og i Dalene derinde,</l>
+               <l xml:id="idm140152134747664">vil - hos mange skjøre Siv -</l>
+               <l xml:id="idm140152134747200">Roser og sig lade finde,</l>
+               <l xml:id="idm140152134746768">som Guds Kjærlighed gav Liv.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

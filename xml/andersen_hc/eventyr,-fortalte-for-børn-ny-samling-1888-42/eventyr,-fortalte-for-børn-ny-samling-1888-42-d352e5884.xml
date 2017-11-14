@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eventyr, fortalte for børn. ny samling. 1888-42.</title>
+            <author>Andersen, H. C.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author xml:id="idm139674379363568">
+                     <name xml:id="idm139674379363264">
+                        <surname xml:id="idm139674379363136">Andersen</surname>,
+	    <forename xml:id="idm139674379362720">H. C.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139674379362176">H.C. Andersens Eventyr bd. I</title>
+                  <title xml:id="idm139674379361744">kritisk udg. efter de originale eventyrhæfter med varianter
+	  ved Erik Dal</title>
+                  <pubPlace xml:id="idm139674379361184">København</pubPlace>
+                  <publisher xml:id="idm139674379360768">C. A. Reitzel</publisher>
+                  <date xml:id="idm139674379360304">1990</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid70856" decls="#biblid70856">
+            <head xml:id="idm139674377313328">Eventyr, fortalte for Børn.<lb xml:id="idm139674377312992"/>
+               <hi rend="italics" xml:id="idm139674377312736">Ny Samling. 1888-42.</hi>
+            </head>
+            <pb n="114" xml:id="s114" facs="adl/andersenhc/andersenhcev1/ahce1114"/>
+            <p xml:id="idm139674377310720">
+               <hi rend="italics" xml:id="idm139674377310592">Efter udsendelsen af de tre sidste
+								EB-hæfter publiceredes flg. titelark:</hi> [I] Eventyr for
+							Børn. [<hi rend="italics" xml:id="idm139674377309680">II</hi>]<hi rend="italics" xml:id="idm139674377309024">
+							blank.</hi> [<hi rend="italics" xml:id="idm139674377308336">III</hi>] Eventyr, fortalte for
+							Børn af H. C. Andersen. Andet Bind. Kjøbenhavn.
+							Forlagt af Universitetsboghandler C. A. Reitzel. Trykt i Bianco Lunos
+							Bogtrykkeri. 1842. [<hi rend="italics" xml:id="idm139674377307296">IV</hi>]<hi rend="italics" xml:id="idm139674377306640">
+								blank.</hi> [<hi rend="italics" xml:id="idm139674377305952">V</hi>]<hi rend="italics" xml:id="idm139674377305296"> digt, se
+								nedenfor.</hi> [<hi rend="italics" xml:id="idm139674377304592">VI</hi>]<hi rend="italics" xml:id="idm139674377303888">
+								blank.</hi> [<hi rend="italics" xml:id="idm139674377303200">VII</hi>] Indhold. [<hi rend="italics" xml:id="idm139674377302512">VIII</hi>]<hi rend="italics" xml:id="idm139674377301824"> blank En del af
+								restoplagene blev af forlaget indbundet med dette titelark, og de
+								tre originale titelark fjernedes.</hi>
+            </p>
+            <p xml:id="idm139674377301024">
+               <hi rend="italics" xml:id="idm139674377300896">Andet oplag af bindet har samme titelark, dog med
+								årstal</hi> 1847 <hi rend="italics" xml:id="idm139674377300064">og trykfejl</hi> Anden
+								<hi rend="italics" xml:id="idm139674377299344">for</hi> Andet <hi rend="italics" xml:id="idm139674377298656">i
+								indholdsfortegnelsen.</hi>
+            </p>
+            <p xml:id="idm139674377297952">
+               <hi rend="italics" xml:id="idm139674377297824">De fire tryk af tilegnelsesverset (</hi>EB 5, <hi rend="italics" xml:id="idm139674377297088">to oplag, og fællestitelarket, to oplag) er
+								bogstavret ens.</hi>
+            </p>
+            <lg xml:id="idm139674377296272">
+               <l xml:id="idm139674377296016">Johanne Louise Heiberg.</l>
+            </lg>
+            <lg xml:id="idm139674377295472">
+               <l xml:id="idm139674377295216">Man hørte sige: der er ingen Feer,</l>
+               <l xml:id="idm139674377294752">At Eventyret kun var Feens Rige;</l>
+               <l xml:id="idm139674377294320">Du kom - og hvert et Hjerte troer og seer,</l>
+               <l xml:id="idm139674377293872">At der er Feer i det Virkelige!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

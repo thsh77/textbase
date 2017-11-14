@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Den lille karen (1830)</title>
+            <author>Gyllembourg-Ehrensvärd, T. C.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140374660670640">
+                     <name xml:id="idm140374660670384">
+                        <surname xml:id="idm140374660670256">Gyllembourg-Ehrensvärd</surname>, <forename xml:id="idm140374660669760">T. C.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140374660669504">samlede skrifter af Forf</title>
+                  <pubPlace xml:id="idm140374660669200">København</pubPlace>
+                  <date xml:id="idm140374660668688">1866-67</date>
+                  <biblScope>105-124</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid55446" decls="#biblid55446">
+            <body xml:id="idm140374660500960">
+               <pb n="106" xml:id="n106" facs="adl/gyllem/gyllem02/gyllem2106"/>
+               <pb n="107" xml:id="n107" facs="adl/gyllem/gyllem02/gyllem2107"/>
+               <pb n="108" xml:id="n108" facs="adl/gyllem/gyllem02/gyllem2108"/>
+               <pb n="109" xml:id="n109" facs="adl/gyllem/gyllem02/gyllem2109"/>
+               <pb n="110" xml:id="n110" facs="adl/gyllem/gyllem02/gyllem2110"/>
+               <pb n="111" xml:id="n111" facs="adl/gyllem/gyllem02/gyllem2111"/>
+               <pb n="112" xml:id="n112" facs="adl/gyllem/gyllem02/gyllem2112"/>
+               <pb n="113" xml:id="n113" facs="adl/gyllem/gyllem02/gyllem2113"/>
+               <pb n="114" xml:id="n114" facs="adl/gyllem/gyllem02/gyllem2114"/>
+               <pb n="115" xml:id="n115" facs="adl/gyllem/gyllem02/gyllem2115"/>
+               <pb n="116" xml:id="n116" facs="adl/gyllem/gyllem02/gyllem2116"/>
+               <pb n="117" xml:id="n117" facs="adl/gyllem/gyllem02/gyllem2117"/>
+               <pb n="118" xml:id="n118" facs="adl/gyllem/gyllem02/gyllem2118"/>
+               <pb n="119" xml:id="n119" facs="adl/gyllem/gyllem02/gyllem2119"/>
+               <pb n="120" xml:id="n120" facs="adl/gyllem/gyllem02/gyllem2120"/>
+               <pb n="121" xml:id="n121" facs="adl/gyllem/gyllem02/gyllem2121"/>
+               <pb n="122" xml:id="n122" facs="adl/gyllem/gyllem02/gyllem2122"/>
+               <pb n="123" xml:id="n123" facs="adl/gyllem/gyllem02/gyllem2123"/>
+               <pb n="124" xml:id="n124" facs="adl/gyllem/gyllem02/gyllem2124"/>
+               <p xml:id="idm140374660478368"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

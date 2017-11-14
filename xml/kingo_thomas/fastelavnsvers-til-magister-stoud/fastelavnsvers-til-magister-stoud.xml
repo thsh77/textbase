@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fastelavnsvers til magister stoud</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid100960" decls="#biblid100960">
+            <body xml:id="idm140721237615728">
+               <head xml:id="idm140721237615472"> Fastelavnsvers til Magister Stoud </head>
+               <lg xml:id="idm140721237615088">
+                  <l xml:id="idm140721237614832">UDi dend gandske Juul Jeg kunde ey formaa,</l>
+                  <l xml:id="idm140721237614384">At diße vilde Mænd i Kirke vilde gaa!</l>
+                  <l xml:id="idm140721237613904">Og om <hi rend="italics" xml:id="idm140721237613648">Magister Stoud </hi>ey søger deris gavn,</l>
+                  <l xml:id="idm140721237612832">Da seer Jeg nok at de vij løbe Fastelavn:</l>
+                  <l xml:id="idm140721237612352">Men hand vel seer sig for, naar hand faar dennem fat,</l>
+                  <l xml:id="idm140721237611904">At ey de blive slet i Daare-kisten sat.</l>
+                  <trailer xml:id="idm140721237611520"> At dette saa ved Fastelavns tider maa <lb xml:id="idm140721237611264"/>tages til takke,
+								bedes tienistl. af<lb xml:id="idm140721237610944"/> Th. Kingo. </trailer>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721237610432">
+                  <hi rend="italics" xml:id="idm140721237609824">Tekstgrundlag: Egenhændig Original i Add 4°
+								258</hi>/. <hi rend="italics" xml:id="idm140721237609072">Overskrift indsat <lb xml:id="idm140721237608576"/>af Udg.</hi>
+               </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

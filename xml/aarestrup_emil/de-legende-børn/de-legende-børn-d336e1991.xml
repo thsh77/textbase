@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De legende børn.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352656878784">
+                     <name xml:id="idm140352656878528">
+                        <surname xml:id="idm140352656878400">Aarestrup</surname>, <forename xml:id="idm140352656877920">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352656877632">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140352656877312">København</pubPlace>
+                  <publisher xml:id="idm140352656876880">C. A. Reitzel</publisher>
+                  <date xml:id="idm140352656876544">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid57601" decls="#biblid57601">
+            <head xml:id="idm140352656339504">DE LEGENDE BØRN.</head>
+            <lg xml:id="idm140352656339072">
+               <l xml:id="idm140352656338816">O Børn, I Støiende, som gjør mig Huset,</l>
+               <l xml:id="idm140352656338336">Med al sin Sneverhed, saa bredt og stort!</l>
+               <l xml:id="idm140352656337888">Hvor ofte har mig eders Leeg beruset</l>
+               <l xml:id="idm140352656337456">Og til et Barn igjen lyksaliggjort.</l>
+            </lg>
+            <lg xml:id="idm140352656336896">
+               <l xml:id="idm140352656336640">Naar var jeg klogere, naar var jeg bedre,</l>
+               <l xml:id="idm140352656336192">End I med eders fagre Uskyldsstand?</l>
+               <l xml:id="idm140352656335760">Og kom jeg videre, end mine Fædre,</l>
+               <l xml:id="idm140352656335296">I dette Skyggernes og Tvivlens Land?</l>
+            </lg>
+            <lg xml:id="idm140352656334736">
+               <l xml:id="idm140352656334480">Leeg eders Leeg!  I kan, som jeg, behøve</l>
+               <l xml:id="idm140352656334000">En Tumleplads for eders Luner smaa;</l>
+               <l xml:id="idm140352656333568">Det samme Børneværk vi alle øve,</l>
+               <l xml:id="idm140352656333104">Vi støie, larme, sukke og forgaae.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

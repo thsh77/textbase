@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fjældsange og æventyr</title>
+            <author>Drachmann, Holger</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140702591009808">
+                     <name xml:id="idm140702591009552">
+                        <surname xml:id="idm140702591009424">Drachmann</surname>, <forename xml:id="idm140702591008992">Holger</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140702591008704">Samlede poetiske Skrifter</title>
+                  <pubPlace xml:id="idm140702591008400">Kbh. &amp; Kristiania</pubPlace>
+                  <date xml:id="idm140702591007776">1906-1909</date>
+                  <biblScope>0-66</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid54610" decls="#biblid54610">
+            <body xml:id="idm140702590911184">
+               <pb n="48b" facs="adl/drachmann/drachmann07/drac07048b" xml:id="idm140702590910928"/>
+               <pb n="49" facs="adl/drachmann/drachmann07/drac07049" xml:id="idm140702590910160"/>
+               <div xml:id="workid54627" decls="#biblid54627">
+                  <p xml:id="idm140702590908496"/>
+               </div>
+               <pb n="50" facs="adl/drachmann/drachmann07/drac07050" xml:id="idm140702590908112"/>
+               <div xml:id="workid54639" decls="#biblid54639">
+                  <p xml:id="idm140702590906448"/>
+               </div>
+               <pb n="51" facs="adl/drachmann/drachmann07/drac07051" xml:id="idm140702590906064"/>
+               <div xml:id="workid54650" decls="#biblid54650">
+                  <p xml:id="idm140702590904400"/>
+               </div>
+               <pb n="52" facs="adl/drachmann/drachmann07/drac07052" xml:id="idm140702590904016"/>
+               <div xml:id="workid54662" decls="#biblid54662">
+                  <p xml:id="idm140702590902352"/>
+               </div>
+               <pb n="53" facs="adl/drachmann/drachmann07/drac07053" xml:id="idm140702590901968"/>
+               <div xml:id="workid54674" decls="#biblid54674">
+                  <p xml:id="idm140702590900304"/>
+               </div>
+               <div xml:id="workid54679" decls="#biblid54679">
+                  <p xml:id="idm140702590899024"/>
+               </div>
+               <pb n="54" facs="adl/drachmann/drachmann07/drac07054" xml:id="idm140702590898640"/>
+               <div xml:id="workid54691" decls="#biblid54691">
+                  <p xml:id="idm140702590896976"/>
+               </div>
+               <pb n="55" facs="adl/drachmann/drachmann07/drac07055" xml:id="idm140702590896592"/>
+               <div xml:id="workid54703" decls="#biblid54703">
+                  <pb n="56" facs="adl/drachmann/drachmann07/drac07056" xml:id="idm140702590894928"/>
+                  <p xml:id="idm140702590894160"/>
+               </div>
+               <pb n="57" facs="adl/drachmann/drachmann07/drac07057" xml:id="idm140702590893776"/>
+               <div xml:id="workid54721" decls="#biblid54721">
+                  <p xml:id="idm140702590892112"/>
+               </div>
+               <pb n="58" facs="adl/drachmann/drachmann07/drac07058" xml:id="idm140702590891728"/>
+               <div xml:id="workid54732" decls="#biblid54732">
+                  <pb n="59" facs="adl/drachmann/drachmann07/drac07059" xml:id="idm140702590890064"/>
+                  <pb n="60" facs="adl/drachmann/drachmann07/drac07060" xml:id="idm140702590889296"/>
+                  <p xml:id="idm140702590888528"/>
+               </div>
+               <pb n="61" facs="adl/drachmann/drachmann07/drac07061" xml:id="idm140702590888144"/>
+               <div xml:id="workid54757" decls="#biblid54757">
+                  <p xml:id="idm140702590886416"/>
+               </div>
+               <pb n="62" facs="adl/drachmann/drachmann07/drac07062" xml:id="idm140702590886032"/>
+               <div xml:id="workid54769" decls="#biblid54769">
+                  <pb n="63" facs="adl/drachmann/drachmann07/drac07063" xml:id="idm140702590884368"/>
+                  <p xml:id="idm140702590883600"/>
+               </div>
+               <pb n="64" facs="adl/drachmann/drachmann07/drac07064" xml:id="idm140702590883216"/>
+               <div xml:id="workid54787" decls="#biblid54787">
+                  <pb n="65" facs="adl/drachmann/drachmann07/drac07065" xml:id="idm140702590877616"/>
+                  <pb n="66" facs="adl/drachmann/drachmann07/drac07066" xml:id="idm140702590876880"/>
+                  <p xml:id="idm140702590876144"/>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

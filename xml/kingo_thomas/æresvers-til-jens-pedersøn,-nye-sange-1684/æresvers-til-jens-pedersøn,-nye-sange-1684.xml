@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Æresvers til jens pedersøn, nye sange 1684</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>254-255</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid93207" decls="#biblid93207">
+            <body xml:id="idm140721238535200">
+               <head xml:id="idm140721238534944">
+                  <hi rend="italics" xml:id="idm140721238534816">Approbation</hi>
+                  <lb xml:id="idm140721238534256"/> og <lb xml:id="idm140721238533968"/>Troehiertig Betænkende <lb xml:id="idm140721238533648"/> over<lb xml:id="idm140721238533360"/> Dend Hæderlige og
+							Høylærde Mands, <lb xml:id="idm140721238532992"/> M. Jens Pederßøns, <lb xml:id="idm140721238532672"/> Værdige og Velfortiente
+							Sognepræst <lb xml:id="idm140721238532304"/> til Christians-Dal og Sanderum i Fyen, <lb xml:id="idm140721238531984"/> hans<lb xml:id="idm140721238531696"/>
+							Ny Sange. </head>
+               <lg xml:id="idm140721238531280">
+                  <l xml:id="idm140721238531024">ÆRværdig HErrens Præst, hvis Hierte, Pen og Tunge</l>
+                  <l xml:id="idm140721238530576">Er altid udi Verk at tale, skrive, siunge,</l>
+                  <l xml:id="idm140721238530128">Hvad du din Gud til Lof oc ære vide kand,</l>
+                  <l xml:id="idm140721238529648">Det giørstu af din Kraft, som en rætsindig Mand.</l>
+                  <l xml:id="idm140721238529152"> Du sendte mig din bog med ny og nette sange,</l>
+                  <l xml:id="idm140721238528704">Som vel skal finde Stæd i Zions Koor at prange,</l>
+                  <l xml:id="idm140721238528208">Den nøyede mit Sind, mens jeg den læste hen,</l>
+                  <l xml:id="idm140721238527712">Ja kaldte mig med Lyst til Læsning om igien.</l>
+                  <l xml:id="idm140721238527216"> Jeg merkte hvadfor Flid og lyste-blandet Møye</l>
+                  <l xml:id="idm140721238526720"> Du tager dig, at du GUds Ager ræt kand pløye;</l>
+                  <l xml:id="idm140721238526224">Nu med Staal-handsken at afrydde hver en Torn;</l>
+                  <l xml:id="idm140721238525776">Nu med Besindighed at saae GUds reene Korn;</l>
+                  <l xml:id="idm140721238525328">Nu kun saa varlig en Naal-nemmed Tidsel vrikke</l>
+                  <l xml:id="idm140721238524880">Fra roden, at den ey din finger skulde stikke;</l>
+                  <l xml:id="idm140721238524432"> Nu at du Roserne i Saron elske kand</l>
+                  <l xml:id="idm140721238524000">Og Livsom Lilli-Rood begyde med din Spand;</l>
+                  <l xml:id="idm140721238523552">Nu at du drage kand fra Skriftens Hav og Sluser</l>
+                  <l xml:id="idm140721238523104">Ved Soolen JESUM op, en frugtsom Regn, der ruser</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721238522528">
+                  <hi rend="italics" xml:id="idm140721238521760">Tekstgrundlag: J. Pederßøn, Glade i Haabet udi
+								Hiertens Enfoldighed <lb xml:id="idm140721238521056"/>forestillede i nogle nye Sange (1684)
+									aij<hi rend="sup" xml:id="idm140721238520736">r</hi>ff.</hi>
+               </note>
+               <pb n="255" xml:id="s255" facs="adl/kingo/kingo1/king1255"/>
+               <lg xml:id="idm140721238518608">
+                  <l xml:id="idm140721238518352">Og dryber ned oppaa de Christne Vexter, saa</l>
+                  <l xml:id="idm140721238517904">I Christi Urtegaard de kand med ære staa.</l>
+                  <l xml:id="idm140721238517424">Nu siunger du oc [vil] med Engle-maal og mæle</l>
+                  <l xml:id="idm140721238516928">Til Himlens Helikon opføre mangis Siæle,</l>
+                  <l xml:id="idm140721238516448">Du stiger op saa høyt, som meest din Evne kand </l>
+                  <l xml:id="idm140721238515952">Og siunger skingrendis lydt op mod Himlens Land</l>
+                  <l xml:id="idm140721238515504">Tag nu din bog igien, lad hende naae sin lykke</l>
+                  <l xml:id="idm140721238515056">Af deris lærde haand, som giver Lov at trykke:</l>
+                  <l xml:id="idm140721238514560">Jeg veed, de give vist saa good en Dom der paa,</l>
+                  <l xml:id="idm140721238514112">At du til meere got skal good Anleding faa. </l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721238513536"> 3 [vil] <hi rend="italics" xml:id="idm140721238512736">Udg. </hi>vel A </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tyendeliv.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid99495" decls="#biblid99495">
+            <head xml:id="idm140352318130672">Tyendeliv.<lb xml:id="idm140352318130384"/>(Ved en Belønningsforenings Aarsmøde.)</head>
+            <lg xml:id="idm140352318129904">
+               <l xml:id="idm140352318129648">Himlens Sol og Stjerneskarer,</l>
+               <l xml:id="idm140352318129216">Sneen, som i Luften farer,</l>
+               <l xml:id="idm140352318128784">Foraars-Stormen med sit Sus,</l>
+               <l xml:id="idm140352318128352">de blev alle Tjenerinder,</l>
+               <l xml:id="idm140352318127920">hvem en anvist Gjerning binder</l>
+               <l xml:id="idm140352318127488">i Vorherres store Hus.</l>
+            </lg>
+            <lg xml:id="idm140352318126944">
+               <l xml:id="idm140352318126688">Og vi Alle, smaa og store,</l>
+               <l xml:id="idm140352318126256">sattes til at gaa for Borde</l>
+               <l xml:id="idm140352318125824">i den samme Herres Gaard!</l>
+               <l xml:id="idm140352318125392">hvad for Kald vi fik paa Jorden,</l>
+               <l xml:id="idm140352318124960">hvad end Tjenesten er vorden,</l>
+               <l xml:id="idm140352318124528">Ham vi dog til Regnskab staar.</l>
+            </lg>
+            <lg xml:id="idm140352318123968">
+               <l xml:id="idm140352318123712">Om Du tjener Land og Rige,</l>
+               <l xml:id="idm140352318123280">eller Du som Karl og Pige</l>
+               <l xml:id="idm140352318122848">gjør din Dont, og gaar dit Bud, -</l>
+               <l xml:id="idm140352318122384">om Du styrer Gaard og Fæste</l>
+               <l xml:id="idm140352318121920">eller kun din Husbonds Heste, -</l>
+               <l xml:id="idm140352318121488">det er ét for Himlens Gud.</l>
+            </lg>
+            <pb n="367" facs="adl/richardt/richardt2/rich2367" xml:id="idm140352318120912"/>
+            <lg xml:id="idm140352318120144">
+               <l xml:id="idm140352318119888">Ære hver, som ærligt tjener,</l>
+               <l xml:id="idm140352318119456">Guds og Kejserens forener,</l>
+               <l xml:id="idm140352318119024">og er meer end Lejesvend!</l>
+               <l xml:id="idm140352318118592">Hvad end Tjenesten omkredser -</l>
+               <l xml:id="idm140352318118160">øv den tro som Elieser,</l>
+               <l xml:id="idm140352318117728">da vil Herren signe den!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

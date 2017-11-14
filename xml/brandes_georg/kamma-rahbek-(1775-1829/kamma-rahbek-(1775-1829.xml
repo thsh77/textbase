@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kamma rahbek (1775-1829</title>
+            <author>Brandes, Georg</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139666715174000">
+                     <name xml:id="idm139666715173744">
+                        <surname xml:id="idm139666715173616">Brandes</surname>, <forename xml:id="idm139666715173184">Georg</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139666715172928">Samlede Skrifter</title>
+                  <pubPlace xml:id="idm139666715172640">København</pubPlace>
+                  <date xml:id="idm139666715172128">1899-1910</date>
+                  <biblScope>186-214</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid55547" decls="#biblid55547">
+            <body xml:id="idm139666714972160">
+               <pb n="187" facs="adl/brandes/brand1/bran1187" xml:id="idm139666714971904"/>
+               <pb n="188" facs="adl/brandes/brand1/bran1188" xml:id="idm139666714971088"/>
+               <pb n="189" facs="adl/brandes/brand1/bran1189" xml:id="idm139666714970320"/>
+               <pb n="190" facs="adl/brandes/brand1/bran1190" xml:id="idm139666714969504"/>
+               <pb n="191" facs="adl/brandes/brand1/bran1191" xml:id="idm139666714968736"/>
+               <pb n="192" facs="adl/brandes/brand1/bran1192" xml:id="idm139666714967968"/>
+               <pb n="193" facs="adl/brandes/brand1/bran1193" xml:id="idm139666714967200"/>
+               <pb n="194" facs="adl/brandes/brand1/bran1194" xml:id="idm139666714966384"/>
+               <pb n="195" facs="adl/brandes/brand1/bran1195" xml:id="idm139666714965616"/>
+               <pb n="196" facs="adl/brandes/brand1/bran1196" xml:id="idm139666714964848"/>
+               <pb n="197" facs="adl/brandes/brand1/bran1197" xml:id="idm139666714964080"/>
+               <pb n="198" facs="adl/brandes/brand1/bran1198" xml:id="idm139666714963312"/>
+               <pb n="199" facs="adl/brandes/brand1/bran1199" xml:id="idm139666714962544"/>
+               <pb n="200" facs="adl/brandes/brand1/bran1200" xml:id="idm139666714961728"/>
+               <pb n="201" facs="adl/brandes/brand1/bran1201" xml:id="idm139666714960912"/>
+               <pb n="202" facs="adl/brandes/brand1/bran1202" xml:id="idm139666714960144"/>
+               <pb n="203" facs="adl/brandes/brand1/bran1203" xml:id="idm139666714959328"/>
+               <pb n="204" facs="adl/brandes/brand1/bran1204" xml:id="idm139666714958560"/>
+               <pb n="205" facs="adl/brandes/brand1/bran1205" xml:id="idm139666714957792"/>
+               <pb n="206" facs="adl/brandes/brand1/bran1206" xml:id="idm139666714957024"/>
+               <pb n="207" facs="adl/brandes/brand1/bran1207" xml:id="idm139666714956256"/>
+               <pb n="208" facs="adl/brandes/brand1/bran1208" xml:id="idm139666714955488"/>
+               <pb n="209" facs="adl/brandes/brand1/bran1209" xml:id="idm139666714954720"/>
+               <pb n="210" facs="adl/brandes/brand1/bran1210" xml:id="idm139666714953952"/>
+               <pb n="211" facs="adl/brandes/brand1/bran1211" xml:id="idm139666714953184"/>
+               <pb n="212" facs="adl/brandes/brand1/bran1212" xml:id="idm139666714952416"/>
+               <pb n="213" facs="adl/brandes/brand1/bran1213" xml:id="idm139666714951648"/>
+               <pb n="214" facs="adl/brandes/brand1/bran1214" xml:id="idm139666714950832"/>
+               <p xml:id="idm139666714950064"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

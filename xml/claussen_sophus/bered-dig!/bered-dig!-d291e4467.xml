@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bered dig!</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140264665681152">
+                     <name xml:id="idm140264665680896">
+                        <surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140264665680016">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140264665679728">: </title>
+                  <pubPlace xml:id="idm140264665679472">[København]</pubPlace>
+                  <publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140264665678640">1982-</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid63738" decls="#biblid63738">
+            <head xml:id="idm140264664339648">
+               <hi rend="italics" xml:id="idm140264664339392">BERED DIG!</hi>
+            </head>
+            <lg xml:id="idm140264664338576">
+               <l xml:id="idm140264664338320">Hvem giver for vor Frihed mer en Hægte,</l>
+               <l xml:id="idm140264664337840">vort Grundlovs Brev i Laser og i Lapper?</l>
+               <l xml:id="idm140264664337392">Paa Maven nu for alle Bagstrævs-Krabber;</l>
+               <l xml:id="idm140264664336912">
+                  <hi rend="italics" xml:id="idm140264664336784">de</hi> store Folk - hvad kan mod dem vi mægte?</l>
+            </lg>
+            <lg xml:id="idm140264664335728">
+               <l xml:id="idm140264664335472">Paa Maven, Folk! og husk, det ny og ægte</l>
+               <l xml:id="idm140264664334992">maa slide først de gamle Løgnes Trapper,</l>
+               <l xml:id="idm140264664334512">til Hoffet smiler og et Landsting klapper</l>
+               <l xml:id="idm140264664334064">den Sandhed, som saa smukt kan sig fornægte!</l>
+            </lg>
+            <lg xml:id="idm140264664333440">
+               <l xml:id="idm140264664333184">Thi bør den unge Jomfru Lighed bole</l>
+               <l xml:id="idm140264664332704">med Kongegunst og gamle Raadmænds Lyster.</l>
+               <l xml:id="idm140264664332224">Bered dig, Jomfru! - Landet skal florere . . .</l>
+            </lg>
+            <lg xml:id="idm140264664331648">
+               <l xml:id="idm140264664331392">Da faar hun Sønner til de høje Stole,</l>
+               <l xml:id="idm140264664330912">hun kaldes selv: "Vor Dronning" og "Vor Søster!"</l>
+               <l xml:id="idm140264664330416">- Og derfor ses kun Løgne at regere.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

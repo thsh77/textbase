@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gravskrift over hans atke 1675</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid88050" decls="#biblid88050">
+            <body xml:id="idm140721239199536">
+               <head xml:id="idm140721239199280"> Paa Borgmester Hans Atkes Epitafium. <lb xml:id="idm140721239198976"/> (1675). </head>
+               <div xml:id="idm140721239198560">
+                  <lg xml:id="idm140721239198304">
+                     <l xml:id="idm140721239198048">HEic Visor pictvs tibi cernitvr Adtkivs vrbis</l>
+                     <l xml:id="idm140721239197600">Slangendorph consvl qvi popvlaris erat,</l>
+                     <l xml:id="idm140721239197168">Consvl hic in-medivm qvod Consvlis acta probarvnt </l>
+                     <l xml:id="idm140721239196720">Consvlvit dvbitas, Vrbs pia testis erit.</l>
+                     <l xml:id="idm140721239196272">Mortvvs in terris in Cælis vivit at ille,</l>
+                     <l xml:id="idm140721239195792">Vivit in hac tabvla, Vivit in ore hominvm.</l>
+                  </lg>
+               </div>
+               <div xml:id="idm140721239195088">
+                  <lg xml:id="idm140721239194832">
+                     <l xml:id="idm140721239194576">HEr neden huiler Jeg, Hans Atke, Borgemester </l>
+                     <l xml:id="idm140721239194128">I Slangerup, som nu Blant salig-døde giester,</l>
+                     <l xml:id="idm140721239193632">Med sidste hustro min, En Dydig Anna, staar</l>
+                     <l xml:id="idm140721239193184">Og venter at vor krop en Engle-klædning faar.</l>
+                     <l xml:id="idm140721239192688">Jeg denne kirkis gaun Og Byens Tarv at øge,</l>
+                     <l xml:id="idm140721239192192">Det gud er Best bekiendt, har altid traadt at søge. </l>
+                     <l xml:id="idm140721239191680">Gud kaldte mig, Og Jeg er for hans ansigt seet,</l>
+                     <l xml:id="idm140721239191232">Huor Jesus mig har dømt, og ey en falsk prophet.</l>
+                  </lg>
+                  <note resp="#ed" anchored="true" xml:id="idm140721239190608">
+                     <hi rend="italics" xml:id="idm140721239189968">Tekstgrundlag: Epitafium fra 167s </hi>* <hi rend="italics" xml:id="idm140721239189216">Slangerup Kirke (jf. E. </hi>F. 5. <hi rend="italics" xml:id="idm140721239188480">Lund, <lb xml:id="idm140721239187920"/>Danske malede Portrætter IX (1903)
+									</hi>5<hi rend="italics" xml:id="idm140721239187424">'4).</hi>
+                  </note>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

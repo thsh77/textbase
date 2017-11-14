@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bøn om fredens befording (1700)</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139809009254400">
+                     <name xml:id="idm139809009254144">
+                        <surname xml:id="idm139809009254016">Kingo</surname>,
+      <forename xml:id="idm139809009253568">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139809009253280">Samlede skrifter 5</title>
+                  <pubPlace xml:id="idm139809009252992">København</pubPlace>
+                  <publisher xml:id="idm139809009252560">Munksgaard</publisher>
+                  <date xml:id="idm139809009252224">1939-74.</date>
+                  <biblScope>215-223</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid55756" decls="#biblid55756">
+            <front xml:id="idm139809009034320"/>
+            <pb n="214" facs="adl/kingo/kingo5/king5214" xml:id="idm139809009033936"/>
+            <pb n="215" facs="adl/kingo/kingo5/king5215" xml:id="idm139809009033168"/>
+            <body xml:id="idm139809009032400">
+               <p xml:id="idm139809009032144"/>
+               <pb n="216" facs="adl/kingo/kingo5/king5216" xml:id="idm139809009031888"/>
+               <pb n="217" facs="adl/kingo/kingo5/king5217" xml:id="idm139809009031120"/>
+               <pb n="218" facs="adl/kingo/kingo5/king5218" xml:id="idm139809009030352"/>
+               <pb n="219" facs="adl/kingo/kingo5/king5219" xml:id="idm139809009029584"/>
+               <pb n="220" facs="adl/kingo/kingo5/king5220" xml:id="idm139809009028816"/>
+               <pb n="221" facs="adl/kingo/kingo5/king5221" xml:id="idm139809009028048"/>
+               <pb n="222" facs="adl/kingo/kingo5/king5222" xml:id="idm139809009027232"/>
+               <pb n="223" facs="adl/kingo/kingo5/king5223" xml:id="idm139809009026464"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

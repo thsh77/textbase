@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digterdrømmen</title>
+            <author>Baggesen, Jens</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139905270120288">
+                     <name xml:id="idm139905270120032">
+                        <surname xml:id="idm139905270119904">Baggesen</surname>, <forename xml:id="idm139905270119472">Jens</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139905270119216"> Blandede Digte. 1. Samling. - 1899</title>
+                  <pubPlace xml:id="idm139905270118912">København</pubPlace>
+                  <date xml:id="idm139905270118400">1889-1903</date>
+                  <biblScope>22-24</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid54794" decls="#biblid54794">
+            <body xml:id="idm139905269891504">
+               <pb n="23" xml:id="n23" facs="adl/baggesen/baggesen4/bagg4023"/>
+               <pb n="24" xml:id="n24" facs="adl/baggesen/baggesen4/bagg4024"/>
+               <p xml:id="idm139905269888816"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,764 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Livs-fyrsten og morderen</title>
+            <author>Grundtvig, N. F. S.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139947089396064">
+                     <name xml:id="idm139947089395808">
+                        <surname xml:id="idm139947089395680">Grundtvig</surname>, <forename xml:id="idm139947089395248">N. F. S.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139947089394992">N. F. S. Grundtvigs udvalgte Skrifter</title>
+                  <pubPlace xml:id="idm139947089394688">København</pubPlace>
+                  <publisher xml:id="idm139947089394224">Gyldendalske Boghandel</publisher>
+                  <date xml:id="idm139947089393888">1904-1909</date>
+                  <biblScope>497-508</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid130266" decls="#biblid130266">
+            <front xml:id="idm139947080214880">
+               <titlePage xml:id="idm139947080214624">
+                  <titlePart type="main" xml:id="idm139947080214368">LIVS-FYRSTEN OG<lb xml:id="idm139947080213808"/> MORDEREN.</titlePart>
+               </titlePage>
+               <div xml:id="idm139947080213264">
+                  <p xml:id="idm139947080213008">KRIGEN i 1864 gav Anledning til, at Grundtvig udsendte tre smaa Skrifter:
+								»<hi rend="italics" xml:id="idm139947080212560"><!--<emph>-->Livs-Fyrsten<!--</emph>--></hi>
+							              <hi rend="italics" xml:id="idm139947080211520"><!--<emph>-->og Morderen, Faste-Prædiken med Forord
+								og Tillæg af Nik. Fred. Sev. Grundtvig<!--</emph>--></hi>«, »<hi rend="italics" xml:id="idm139947080210352"><!--<emph>-->Trøstebrev til Danmark fra Nik. Fred.
+								Sev. Grundtvig<!--</emph>--></hi>« og »<hi rend="italics" xml:id="idm139947080209200"><!--<emph>-->Budstikke iHøinorden fra Ni k. Fred. Sev.
+								Grundtvig<!--</emph>--></hi>«. De udkom alle paa Karl Schønbergs
+							Forlag og aftrykkes her efter første Udgave.</p>
+               </div>
+               <div xml:id="idm139947080207680">
+                  <head xml:id="idm139947080207424">Forord.</head>
+                  <p xml:id="idm139947080207040">
+                     <hi rend="bold" xml:id="idm139947080206912">N</hi>aar <hi rend="italics" xml:id="idm139947080206224"><!--<emph>-->Tyskerne<!--</emph>--></hi> ikke blot i <hi rend="italics" xml:id="idm139947080205184"><!--<emph>-->Mellem-Slesvig<!--</emph>--></hi>
+							indfører udelukkende <hi rend="italics" xml:id="idm139947080204064"><!--<emph>-->tysk<!--</emph>--></hi> Kirke-Sprog og Skole-Sprog, men
+							selv i <hi rend="italics" xml:id="idm139947080202992"><!--<emph>-->Nord-Slesvig<!--</emph>--></hi>,
+							hvor <hi rend="italics" xml:id="idm139947080201984"><!--<emph>-->Folket<!--</emph>--></hi> kun
+							forstaaer <hi rend="italics" xml:id="idm139947080200944"><!--<emph>-->Dansk<!--</emph>--></hi>,
+							lukker Danske Skoler og forbyder Præster at prædike paa Dansk, da er det
+							vistnok oprørende ikke blot for enhver <hi rend="italics" xml:id="idm139947080199632"><!--<emph>-->Dansker<!--</emph>--></hi>, men for ethvert <hi rend="italics" xml:id="idm139947080198624"><!--<emph>-->Menneske<!--</emph>--></hi>, der har
+							mindste Agtelse for utabelige Menneske-Rettigheder og mindste
+							Fornemmelse af, hvad <hi rend="italics" xml:id="idm139947080197456"><!--<emph>-->Modersmaalet<!--</emph>--></hi> er i det mindste for
+							Kvinder og Børn og i del hele for <hi rend="italics" xml:id="idm139947080196304"><!--<emph>-->Menigmand<!--</emph>--></hi>; men hvad kan vi svare
+								<hi rend="italics" xml:id="idm139947080195248"><!--<emph>-->Tyskeren<!--</emph>--></hi>, naar
+							han siger: jeg skal slet ikke her indlade mig paa del Spørgsmaal, om <hi rend="italics" xml:id="idm139947080194048"><!--<emph>-->ethvert<!--</emph>--></hi> Modersmaal
+							under alle Omstændigheder har Ret til at høres offenlig og gives Fortrin
+							til <hi rend="italics" xml:id="idm139947080192816"><!--<emph>-->Dannelses-Sprog<!--</emph>--></hi>;
+							men I <hi rend="italics" xml:id="idm139947080191808"><!--<emph>-->Danskere<!--</emph>--></hi> har i
+							denne Henseende intet at bebreide os, men dømmer jer selv; thi at I,
+							siden 1848, har paatvunget Mellem-Slesvig udelukkende <hi rend="italics" xml:id="idm139947080190464"><!--<emph>-->Dansk Skole-Sprog<!--</emph>--></hi>
+                     <pb n="494" xml:id="s494" facs="adl/grundtvig/grundtvig10/grun10494"/> og indsat Præster til at
+							prædike halv Tysk og halv Dansk, uden igrunden at kunne nogen af Delene,
+							det er jo ikke blot en oprørende Politik, som alle Tyskere maae finde
+							stridende baade mod Overenskomsterne om <hi rend="italics" xml:id="idm139947080187936"><!--<emph>-->lige Berettigelse<!--</emph>--></hi> og mod Ret og
+							Billighed, men I <hi rend="italics" xml:id="idm139947080186848"><!--<emph>-->afskaffede<!--</emph>--></hi> derved baade i Kirke og
+							Skole hvad I <hi rend="italics" xml:id="idm139947080185776"><!--<emph>-->selv<!--</emph>--></hi>
+							havde <hi rend="italics" xml:id="idm139947080184768"><!--<emph>-->indført<!--</emph>--></hi>, ja,
+							det stod i den skarpeste <hi rend="italics" xml:id="idm139947080183680"><!--<emph>-->Modsætning<!--</emph>--></hi> til hvad I paa samme Tid
+								<hi rend="italics" xml:id="idm139947080182624"><!--<emph>-->efterstræbde<!--</emph>--></hi> i
+							selve <hi rend="italics" xml:id="idm139947080181600"><!--<emph>-->Kongeriget<!--</emph>--></hi>.
+							Eller er det maaskee ogsaa en af de hos jer saakaldte »<hi rend="italics" xml:id="idm139947080180416"><!--<emph>-->Tyske Løgne<!--</emph>--></hi>«, at I
+							giennem hele dette Aarhundrede mere og mere har stræbt at giøre <hi rend="italics" xml:id="idm139947080179296"><!--<emph>-->Tysken<!--</emph>--></hi> til eders
+							egenlige <hi rend="italics" xml:id="idm139947080178240"><!--<emph>-->Dannelses-Sprog<!--</emph>--></hi> og har virkelig gjort
+							den til <hi rend="italics" xml:id="idm139947080177184"><!--<emph>-->Vilkaar<!--</emph>--></hi> for
+							hardtad alle offenlige Stillinger i <hi rend="italics" xml:id="idm139947080176112"><!--<emph>-->Kongeriget<!--</emph>--></hi>, lige ned til
+							Skovfogeder og <hi rend="italics" xml:id="idm139947080175056"><!--<emph>-->Landsby-Skolelærere<!--</emph>--></hi>, ja, at I endog
+							1850, strax efter <hi rend="italics" xml:id="idm139947080173952"><!--<emph>-->Isted-Slaget<!--</emph>--></hi> og hvad I kalder en
+							afgiørende <hi rend="italics" xml:id="idm139947080172848"><!--<emph>-->Seier<!--</emph>--></hi> over
+								<hi rend="italics" xml:id="idm139947080171840"><!--<emph>-->Tysken<!--</emph>--></hi> i <hi rend="italics" xml:id="idm139947080170800"><!--<emph>-->Slesvig<!--</emph>--></hi>, selv
+							indsatte <hi rend="italics" xml:id="idm139947080169792"><!--<emph>-->Tysken<!--</emph>--></hi> i
+							alle jeres lærde Skoler til, i Latinens Sted, at give Grund-<hi rend="italics" xml:id="idm139947080168592"><!--<emph>-->Reglerne<!--</emph>--></hi> for al <hi rend="italics" xml:id="idm139947080167584"><!--<emph>-->Sprog-Kyndighed<!--</emph>--></hi> og al
+								<hi rend="italics" xml:id="idm139947080166544"><!--<emph>-->Sprog-Brug<!--</emph>--></hi>,
+							følgelig for den hele <hi rend="italics" xml:id="idm139947080165424"><!--<emph>-->Tankegang<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947080164416"><!--<emph>-->Ordføining<!--</emph>--></hi>, og det med den
+							Bekiendelse, at <hi rend="italics" xml:id="idm139947080163312"><!--<emph>-->Dansken<!--</emph>--></hi> var alt for fattig, ubestemt og
+							regelløs til at være Grundlag. Lægger vi hertil, at I siden skabde et
+								<hi rend="italics" xml:id="idm139947080162048"><!--<emph>-->Rigsraad<!--</emph>--></hi>, hvori
+							ogsaa <hi rend="italics" xml:id="idm139947080161040"><!--<emph>-->Bønder<!--</emph>--></hi> skulde
+							have Sæde og Stemme, skiøndt der ligesaavel taltes <hi rend="italics" xml:id="idm139947080159840"><!--<emph>-->Tysk<!--</emph>--></hi> som <hi rend="italics" xml:id="idm139947080158832"><!--<emph>-->Dansk<!--</emph>--></hi>, da er det jo kun en stor
+							Skiødesløshed, at I ikke allerede ogsaa har indført <hi rend="italics" xml:id="idm139947080157600"><!--<emph>-->Tysk<!--</emph>--></hi> i eders <hi rend="italics" xml:id="idm139947080156592"><!--<emph>-->Landsby-Skoler<!--</emph>--></hi>, da I selv har gjort
+								<hi rend="italics" xml:id="idm139947080155504"><!--<emph>-->Tysk<!--</emph>--></hi> uundværligt
+							for eders <hi rend="italics" xml:id="idm139947080154416"><!--<emph>-->Bønder<!--</emph>--></hi>. Vil
+							vi nu end være billige nok til at undskylde eders klare <hi rend="italics" xml:id="idm139947080153248"><!--<emph>-->Selv-Modsigelse<!--</emph>--></hi> med
+							eders bekiendte Svaghed, ei selv <hi rend="italics" xml:id="idm139947080152176"><!--<emph>-->at vide
+								hvad<!--</emph>--></hi> I <hi rend="italics" xml:id="idm139947080151168"><!--<emph>-->giør<!--</emph>--></hi>, saa kan I dog aldrig
+							forlange, at vi skulde være ømmere over D a n<hi rend="italics" xml:id="idm139947080149984"><!--<emph>-->sken<!--</emph>--></hi> i det halvtyske <hi rend="italics" xml:id="idm139947080148976"><!--<emph>-->Slesvig<!--</emph>--></hi> end I selv er
+							over den i <hi rend="italics" xml:id="idm139947080147888"><!--<emph>-->Danmark?<!--</emph>--></hi>
+                  </p>
+                  <p xml:id="idm139947080146880">Hvad kan vi hertil svare med <hi rend="italics" xml:id="idm139947080146576"><!--<emph>-->Sandhed?<!--</emph>--></hi>
+						            </p>
+                  <p xml:id="idm139947080145440">Vi kan sige meget til Beviis paa, at baade har <hi rend="italics" xml:id="idm139947080145120"><!--<emph>-->Tyskerne<!--</emph>--></hi> kun med Vold og Uret faaet
+							den Magt, de har over Slesvig eller Sønder-Jylland, og at de grusomt og
+							umenneskelig misbruge denne Magt mod alt <hi rend="italics" xml:id="idm139947080143776"><!--<emph>-->Dansk<!--</emph>--></hi>, men kan vi ogsaa <hi rend="italics" xml:id="idm139947080142768"><!--<emph>-->giendrive<!--</emph>--></hi> deres
+							Paastand, at vi selv har gjort alt hvad vi kunde for i hele <hi rend="italics" xml:id="idm139947080141632"><!--<emph>-->Danmark<!--</emph>--></hi> at
+							tilintetgiøre <hi rend="italics" xml:id="idm139947080140560"><!--<emph>-->Dansken<!--</emph>--></hi>
+							som aandeligt og hjerteligt <hi rend="italics" xml:id="idm139947080139504"><!--<emph>-->Livs-Udtryk<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947080138496"><!--<emph>-->Dannelses-Sprog<!--</emph>--></hi> og for saavidt
+							mueligt, at afløse den i hele vort offenlige Liv med <hi rend="italics" xml:id="idm139947080137280"><!--<emph>-->Tysken<!--</emph>--></hi>, og at vi har gjort det
+							allerklarest paa samme Tid som vi i <hi rend="italics" xml:id="idm139947080136192"><!--<emph>-->Mellem<!--</emph>--></hi>-<hi rend="italics" xml:id="idm139947080135184"><!--<emph>-->Slesvig<!--</emph>--></hi> stræbde i Modsætning at
+							afløse <hi rend="italics" xml:id="idm139947080134080"><!--<emph>-->Tysk<!--</emph>--></hi> med <hi rend="italics" xml:id="idm139947080133072"><!--<emph>-->Dansk<!--</emph>--></hi> til
+							Dannelses-Sprog og gik dermed saavidt, at vi ikke <pb n="495" xml:id="s495" facs="adl/grundtvig/grundtvig10/grun10495"/> engang gav de der bosiddende Tyskere samme
+							Frihed til at beholde <hi rend="italics" xml:id="idm139947080130688"><!--<emph>-->Tysk
+								Kirke<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947080129648"><!--<emph>-->Skole<!--</emph>--></hi>, som bosiddende Tyskere har,
+							ikke blot i <hi rend="italics" xml:id="idm139947080128544"><!--<emph>-->Christiansfeld<!--</emph>--></hi>, <hi rend="italics" xml:id="idm139947080127536"><!--<emph>-->Frederis<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947080126528"><!--<emph>-->Kiøbenhavn<!--</emph>--></hi>, men i hele Kongeriget,
+							naar de kun selv bekoste deres <hi rend="italics" xml:id="idm139947080125408"><!--<emph>-->Tyske<!--</emph>--></hi> Kirke og Skole?</p>
+                  <p xml:id="idm139947080124272">Nei, det kan vi hverken giendrive eller med <hi rend="italics" xml:id="idm139947080123952"><!--<emph>-->Sandhed<!--</emph>--></hi> modsige, thi det er
+							vitterlige og urokkelige <hi rend="italics" xml:id="idm139947080122848"><!--<emph>-->Kiendsgierninger<!--</emph>--></hi>, og det er
+							ligesaa, at naar en Enkelt offenlig har oplyst <hi rend="italics" xml:id="idm139947080121760"><!--<emph>-->Selv-Modsigelsen<!--</emph>--></hi> og ligesaa vel
+							lastet <hi rend="italics" xml:id="idm139947080120704"><!--<emph>-->Skole Tvangen<!--</emph>--></hi>
+							i MellemSlesvig, som <hi rend="italics" xml:id="idm139947080119648"><!--<emph>-->Fortyskningen<!--</emph>--></hi> af Danske Folk og
+							Forhold, da har Dags-Pressen behandlet det som et halvt eller heelt <hi rend="italics" xml:id="idm139947080118528"><!--<emph>-->Forræderi<!--</emph>--></hi>, hist imod
+								<hi rend="italics" xml:id="idm139947080117520"><!--<emph>-->Dansken<!--</emph>--></hi> og her
+							imod <hi rend="italics" xml:id="idm139947080116480"><!--<emph>-->Dannelsen<!--</emph>--></hi>.
+							Uagtet derfor alle Anstalterne saavel til <hi rend="italics" xml:id="idm139947080115376"><!--<emph>-->Mellem-Slesvigs<!--</emph>--></hi> tilsyneladende <hi rend="italics" xml:id="idm139947080114368"><!--<emph>-->Fordanskning<!--</emph>--></hi> som til
+								<hi rend="italics" xml:id="idm139947080113328"><!--<emph>-->Kongerigets<!--</emph>--></hi>
+							virkelige <hi rend="italics" xml:id="idm139947080112288"><!--<emph>-->Fortyskning<!--</emph>--></hi>
+							eensidig er gjorte af <hi rend="italics" xml:id="idm139947080111200"><!--<emph>-->Regieringen<!--</emph>--></hi>, uden at spørge enten
+							Folket eller Rigsdagen, saa er dog <hi rend="italics" xml:id="idm139947080110048"><!--<emph>-->Læser-Folkets<!--</emph>--></hi> Billigelse deraf
+							eller Ligegyldighed derved saa klar, at det ei kan fritages for
+							Medskyld.</p>
+                  <p xml:id="idm139947080108768">Vi kan vistnok sige med Sandhed, at <hi rend="italics" xml:id="idm139947080108464"><!--<emph>-->Tyskerne<!--</emph>--></hi> slet ingen Ære har at tale
+							med, da selv hvad vi har gjort i <hi rend="italics" xml:id="idm139947080107296"><!--<emph>-->Slesvig<!--</emph>--></hi> kun var en mat Efterligning
+							af deres Adfærd, og at Skaden er vor egen, men det er derfor heller slet
+							ikke for <hi rend="italics" xml:id="idm139947080106016"><!--<emph>-->Tyskernes<!--</emph>--></hi>
+							Skyld, at jeg indskærper Sandheden af deres Paastand om vores vel i
+							Historien mageløse <hi rend="italics" xml:id="idm139947080104784"><!--<emph>-->Selv-Modsigelse<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947080103776"><!--<emph>-->Selv-Plage<!--</emph>--></hi>, men det
+							er for vor egen Skyld, fordi det ikke blot er en <hi rend="italics" xml:id="idm139947080102656"><!--<emph>-->Æres-Sag<!--</emph>--></hi> for os, om vi nogensinde
+							mere blive Slesvig mægtige, ei at fortsætte den hjerteløse og hovedløse
+								<hi rend="italics" xml:id="idm139947080101392"><!--<emph>-->Sprog-Tvang<!--</emph>--></hi>, men
+							er en <hi rend="italics" xml:id="idm139947080100384"><!--<emph>-->Livs-Sag<!--</emph>--></hi> for
+							det <hi rend="italics" xml:id="idm139947080099344"><!--<emph>-->Danske Folk<!--</emph>--></hi> og
+								<hi rend="italics" xml:id="idm139947080098304"><!--<emph>-->Modersmaal<!--</emph>--></hi>, at vi
+							endnu i den ellevte Time, ja, i det sidste Øieblik, stræbe med Rod at
+							oprykke <hi rend="italics" xml:id="idm139947080097040"><!--<emph>-->Hjemtyskeriet<!--</emph>--></hi>
+							i <hi rend="italics" xml:id="idm139947080096032"><!--<emph>-->Danmark<!--</emph>--></hi>, som vi saa
+							længe med Flid har opelsket, og som allerede er groet os saaledes op
+							over Hovedet, at det aabenbar trodser og spotter alt ægte <hi rend="italics" xml:id="idm139947080094656"><!--<emph>-->Dansk<!--</emph>--></hi> i Tankegang og
+							Tungemaal ligesom <hi rend="italics" xml:id="idm139947080093584"><!--<emph>-->Udtyskerne<!--</emph>--></hi>, Rigets, Folkets og
+							Modersmaalets arrigste Fiender, ja, spotter selv vort <hi rend="italics" xml:id="idm139947080092480"><!--<emph>-->Nødværge<!--</emph>--></hi> imod dem. Ja, skal det <hi rend="italics" xml:id="idm139947080091424"><!--<emph>-->Danske Folkeliv<!--</emph>--></hi> ikke
+							i næste Menneske-Alder findes afskaaret ved et mageløst <hi rend="italics" xml:id="idm139947080090256"><!--<emph>-->Selvmord<!--</emph>--></hi>, men skal
+							det muelig nogensinde blomstre op og udvikle sig til <hi rend="italics" xml:id="idm139947080089168"><!--<emph>-->Klarhed<!--</emph>--></hi> paa Modersmaalet, da maae
+							vi herefter ei, som kun alt forlænge, selv bestride og undergrave, men
+							opelske Folkelivet, og det <hi rend="italics" xml:id="idm139947080087856"><!--<emph>-->første
+								Skridt<!--</emph>--></hi> maa da være, aldeles at <hi rend="italics" xml:id="idm139947080086752"><!--<emph>-->udelukke<!--</emph>--></hi> det ikke blot fremmede men
+								<hi rend="italics" xml:id="idm139947080085696"><!--<emph>-->fiendlige<!--</emph>--></hi>
+							              <hi rend="italics" xml:id="idm139947080084688"><!--<emph>-->Tyske Sprog<!--</emph>--></hi> af vor
+								<hi rend="italics" xml:id="idm139947080083680"><!--<emph>-->offenlige Skole<!--</emph>--></hi>,
+							at <hi rend="italics" xml:id="idm139947080082640"><!--<emph>-->udstryge<!--</emph>--></hi> det af
+							alle vore <pb n="496" xml:id="s496" facs="adl/grundtvig/grundtvig10/grun10496"/>
+							              <hi rend="italics" xml:id="idm139947080080336"><!--<emph>-->Examens-Lister<!--</emph>--></hi> og at
+								<hi rend="italics" xml:id="idm139947080079296"><!--<emph>-->udslette<!--</emph>--></hi> det af
+							Vilkaarene for <hi rend="italics" xml:id="idm139947080078208"><!--<emph>-->nogensomhelst<!--</emph>--></hi>
+							              <hi rend="italics" xml:id="idm139947080077200"><!--<emph>-->offenlig<!--</emph>--></hi> Stilling i
+								<hi rend="italics" xml:id="idm139947080076192"><!--<emph>-->Fædernelandet<!--</emph>--></hi>. At
+							selv dette uopsættelige Tilbage-Skridt fra den <hi rend="italics" xml:id="idm139947080074992"><!--<emph>-->Afgrund<!--</emph>--></hi>, paa hvis Rand vi rave, vil
+							ligesaavel i den saakaldte <hi rend="italics" xml:id="idm139947080073904"><!--<emph>-->Danske<!--</emph>--></hi> som i den <hi rend="italics" xml:id="idm139947080072896"><!--<emph>-->Tyske<!--</emph>--></hi> Læseverden udskriges som en
+							uhyre <hi rend="italics" xml:id="idm139947080071760"><!--<emph>-->Krebsgang<!--</emph>--></hi> til
+								<hi rend="italics" xml:id="idm139947080070752"><!--<emph>-->Barbariet<!--</emph>--></hi>, det
+							tvivler jeg ingenlunde paa, men det beviser kun, hvor rædsom <hi rend="italics" xml:id="idm139947080069552"><!--<emph>-->fortysket<!--</emph>--></hi> og forgjort
+								<hi rend="italics" xml:id="idm139947080068544"><!--<emph>-->Tankegangen<!--</emph>--></hi> er
+							bleven rnidt i Danmark, thi uden at tale om, hvorledes alle andre <hi rend="italics" xml:id="idm139947080067408"><!--<emph>-->navnkundige<!--</emph>--></hi> Folk har
+								<hi rend="italics" xml:id="idm139947080066400"><!--<emph>-->hævdet<!--</emph>--></hi> deres <hi rend="italics" xml:id="idm139947080065360"><!--<emph>-->Modersmaal<!--</emph>--></hi>, saa er
+							det jo unægteligt, at endnu Aar 1800, da jeg blev Student, kunde man
+							ikke alene med Æren giennemgaae den Lærde Skole, men tage alle Examiner
+							og opnaae hvilkensomhelst offenlig Stilling i <hi rend="italics" xml:id="idm139947080063856"><!--<emph>-->Kongeriget<!--</emph>--></hi>, uden at have <hi rend="italics" xml:id="idm139947080062848"><!--<emph>-->læst<!--</emph>--></hi> en eneste <hi rend="italics" xml:id="idm139947080061808"><!--<emph>-->tysk Bog<!--</emph>--></hi> og uden at
+							kunne en eneste <hi rend="italics" xml:id="idm139947080060720"><!--<emph>-->Regel<!--</emph>--></hi>
+							af den saakaldte uundværlige <hi rend="italics" xml:id="idm139947080059616"><!--<emph>-->Tyske
+								Grammatik<!--</emph>--></hi>.</p>
+                  <p xml:id="idm139947080058480">Det <hi rend="italics" xml:id="idm139947080058224"><!--<emph>-->andet Skridt<!--</emph>--></hi> maa
+							være Oprettelsen af en <hi rend="italics" xml:id="idm139947080057088"><!--<emph>-->folkelig
+								Høiskole<!--</emph>--></hi> for hele <hi rend="italics" xml:id="idm139947080056048"><!--<emph>-->Kongeriget<!--</emph>--></hi>, hvor der frit meddeles
+							en <hi rend="italics" xml:id="idm139947080054960"><!--<emph>-->folkelig<!--</emph>--></hi>
+							              <hi rend="italics" xml:id="idm139947080053952"><!--<emph>-->Dannelse<!--</emph>--></hi> paa <hi rend="italics" xml:id="idm139947080052944"><!--<emph>-->Modersmaalet<!--</emph>--></hi>, som
+							herefter udkræves af alle dem, der vil opnaae <hi rend="italics" xml:id="idm139947080051760"><!--<emph>-->nogensomhelst offenlig<!--</emph>--></hi> Stilling i
+								<hi rend="italics" xml:id="idm139947080050752"><!--<emph>-->Danmarks<!--</emph>--></hi> Rige,
+							thi kun ved disse to giennemgribende Forholds-Regler er det <hi rend="italics" xml:id="idm139947080049616"><!--<emph>-->mueligt<!--</emph>--></hi>, at den <hi rend="italics" xml:id="idm139947080048608"><!--<emph>-->Danske<!--</emph>--></hi> Folkelighed,
+							den ædleste og danneligste i hele Verden, kan seire over <hi rend="italics" xml:id="idm139947080047392"><!--<emph>-->Hjemtyskeriet<!--</emph>--></hi> og hele
+							den hovedløse og hjerteløse Dyrkelse af fremmede Afguder, som har
+							styrtet Folket og Riget i den nu overhængende <hi rend="italics" xml:id="idm139947080046096"><!--<emph>-->Livsfare<!--</emph>--></hi>, men paa disse Vilkaar vil
+							sikkert med Guds Hjelp og Danmarks gamle, mageløse Lykke ikke blot denne
+							Seier vindes, men den forbausede Verden faae en <hi rend="italics" xml:id="idm139947080044736"><!--<emph>-->folkelig Dannelse<!--</emph>--></hi> at beundre, som
+							intet <hi rend="italics" xml:id="idm139947080043680"><!--<emph>-->Menneskeligt<!--</emph>--></hi> er
+								<hi rend="italics" xml:id="idm139947080042672"><!--<emph>-->fremmed<!--</emph>--></hi>, men som
+							virker oplivende og velgiørende paa hele <hi rend="italics" xml:id="idm139947080041504"><!--<emph>-->Menneske-Livet<!--</emph>--></hi> i sin <hi rend="italics" xml:id="idm139947080040496"><!--<emph>-->folkelige Skikkelse<!--</emph>--></hi>,
+							hvori det i Sandhed kun lader sig <hi rend="italics" xml:id="idm139947080039392"><!--<emph>-->leve<!--</emph>--></hi>, da enhver Bestræbelse for at
+								o<hi rend="italics" xml:id="idm139947080038288"><!--<emph>-->mskabe<!--</emph>--></hi> sig selv
+							er <hi rend="italics" xml:id="idm139947080037280"><!--<emph>-->umenneskelig<!--</emph>--></hi> og
+							fører kun til aandelig Død og Djævelskab.</p>
+                  <p xml:id="idm139947080035984">Alt dette har jeg imidlertid giennem en Række af Aar stræbt baade mundlig
+							og skriftlig at lægge mine kiære Landsmænd paa Hjerte, saa det rnaa vel
+							synes overflødigt at giøre det endnu engang, og vil synes mange
+							latterligt deraf at vente mere Frugt end hidindtil, men det er min
+							Trøst, at Tagdryp huler Steen, og at det <hi rend="italics" xml:id="idm139947080035024"><!--<emph>-->Danske<!--</emph>--></hi>
+							              <hi rend="italics" xml:id="idm139947080034016"><!--<emph>-->Hjerte<!--</emph>--></hi> dog er aflangt
+							blødere Art, og maa igrunden have samme Følelse for <hi rend="italics" xml:id="idm139947080032832"><!--<emph>-->Folkelivet<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947080031824"><!--<emph>-->Modersmaalet<!--</emph>--></hi> hos alle Dannemænd og
+							Dannekvinder som hos mig, uagtet dette forunderlig bly og for
+							Beskæmmelse hævende Hjerte <pb n="497" xml:id="s497" facs="adl/grundtvig/grundtvig10/grun10497"/>
+							snart lige siden <hi rend="italics" xml:id="idm139947080029296"><!--<emph>-->Braavalle-Slaget<!--</emph>--></hi> haardnakket har
+							vægret sig ved at <hi rend="italics" xml:id="idm139947080028160"><!--<emph>-->være det
+								bekiendt<!--</emph>--></hi>, uden Tvivl af Frygt for at blive <hi rend="italics" xml:id="idm139947080027072"><!--<emph>-->udleet i Tyskland<!--</emph>--></hi> og
+							nærmest af <hi rend="italics" xml:id="idm139947080026000"><!--<emph>-->Hjemtyskerne<!--</emph>--></hi>.</p>
+                  <p xml:id="idm139947080024864">Desuden har dog ogsaa den forrige Krig (1848-50) klarere end
+							nogensinde viist, at Vorherre baade kan og vil give os Magt og Lykke til
+							at hævde <hi rend="italics" xml:id="idm139947080024272"><!--<emph>-->Eider-Grændsen<!--</emph>--></hi> mod hele det store <hi rend="italics" xml:id="idm139947080023248"><!--<emph>-->Tyskland<!--</emph>--></hi>, naar vi
+							kun, til vort eget sande Gavn vil <hi rend="italics" xml:id="idm139947080022144"><!--<emph>-->nøies<!--</emph>--></hi> med den og med <hi rend="italics" xml:id="idm139947080021136"><!--<emph>-->Dansken<!--</emph>--></hi> derindenfor.</p>
+                  <p xml:id="idm139947080019968">Nu viste vel Fred-Slutningen, at det vilde Danmark <hi rend="italics" xml:id="idm139947080019648"><!--<emph>-->ikke<!--</emph>--></hi>, men vilde, for <hi rend="italics" xml:id="idm139947080018608"><!--<emph>-->Skinnet<!--</emph>--></hi> af Holsteens
+							Besiddelse, som Vorherre nægtede os, heller forskrive sig til <hi rend="italics" xml:id="idm139947080017376"><!--<emph>-->Preusen<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947080016368"><!--<emph>-->Østerrig<!--</emph>--></hi>; men saa har
+							igien den dyrekiøbte <hi rend="italics" xml:id="idm139947080015232"><!--<emph>-->Vaaben-Stilstand<!--</emph>--></hi> med Freds-Titel
+							(1851-63) klarlig viist, at <hi rend="italics" xml:id="idm139947080014160"><!--<emph>-->Fornuft-Giftermaalet<!--</emph>--></hi> mellem <hi rend="italics" xml:id="idm139947080013152"><!--<emph>-->Danmark<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947080012112"><!--<emph>-->Holsteen<!--</emph>--></hi> og imellem
+								<hi rend="italics" xml:id="idm139947080011072"><!--<emph>-->Dansk<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947080010032"><!--<emph>-->Tysk<!--</emph>--></hi>, med de Tyske
+							Stormagter til Forlovere, var et Byggeri paa Helvede, som det danske
+							Hjerte, hvis det ikke snart afbrødes, maatte briste ved, saa det var dog
+							vel intet Under, om baade <hi rend="italics" xml:id="idm139947080008560"><!--<emph>-->Regieringen<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947080007552"><!--<emph>-->Folket<!--</emph>--></hi> nu var blevet tilbøielige
+							til hellere at nøies med det <hi rend="italics" xml:id="idm139947080006368"><!--<emph>-->Danske<!--</emph>--></hi>, saa smaat i vore egne og
+							saa foragteligt i Tyskernes Øine, som det er, end miste alt vort Eget og
+							kun faae <hi rend="italics" xml:id="idm139947080005088"><!--<emph>-->Tysk<!--</emph>--></hi>
+							              <hi rend="italics" xml:id="idm139947080004080"><!--<emph>-->Tyranni<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947080003072"><!--<emph>-->Trældom<!--</emph>--></hi> isteden!
+							Slesvig-Holstenerne skrige nu høit hvad de alt under det forrige Oprør
+							hviskede: heller i <hi rend="italics" xml:id="idm139947080001776"><!--<emph>-->Helvede<!--</emph>--></hi> med <hi rend="italics" xml:id="idm139947080000768"><!--<emph>-->Tyskland<!--</emph>--></hi> end i <hi rend="italics" xml:id="idm139947079999728"><!--<emph>-->Himmerig<!--</emph>--></hi> med <hi rend="italics" xml:id="idm139947079998688"><!--<emph>-->Danmark<!--</emph>--></hi>, saa nu maae dog vel alle
+								<hi rend="italics" xml:id="idm139947079997600"><!--<emph>-->Danskere<!--</emph>--></hi> have
+							faaet Mod til at sige høit: heller med hverandre i det <hi rend="italics" xml:id="idm139947079996432"><!--<emph>-->lille Himmerig<!--</emph>--></hi> end
+							med Sies vig-Holstenerne i det <hi rend="italics" xml:id="idm139947079995360"><!--<emph>-->store<!--</emph>--></hi>
+							              <hi rend="italics" xml:id="idm139947079994352"><!--<emph>-->Helvede!<!--</emph>--></hi>
+						            </p>
+               </div>
+            </front>
+            <body xml:id="idm139947079992960">
+               <pb n="498" xml:id="s498" facs="adl/grundtvig/grundtvig10/grun10498"/>
+               <div xml:id="idm139947079991440">
+                  <head xml:id="idm139947079991184">
+                     <hi rend="italics" xml:id="idm139947079991056"><!--<emph>-->Livs-Fyrsten og
+							Morderen<!--</emph>--></hi>.</head>
+                  <div xml:id="idm139947079989872">
+                     <p xml:id="idm139947079989616">
+                        <hi rend="bold" xml:id="idm139947079989488">A</hi>f den <hi rend="italics" xml:id="idm139947079988832"><!--<emph>-->Helligaands<!--</emph>--></hi> Naade bøier vi vore
+								Knæ for Vorherres <hi rend="italics" xml:id="idm139947079987680"><!--<emph>-->Jesu<!--</emph>--></hi> Christi og vor Gad og Fader,
+								bedende, i <hi rend="italics" xml:id="idm139947079986608"><!--<emph>-->Jesus-Chri<!--</emph>--></hi>- <hi rend="italics" xml:id="idm139947079985552"><!--<emph>-->stus-Navnet<!--</emph>--></hi>, Herrens egen og
+								hele hans Menigheds Bøn: Fader vor, Du som er i Himlene!</p>
+                  </div>
+                  <div xml:id="idm139947079984112">
+                     <p xml:id="idm139947079983856">Der er vel intet Træk i hele Vorherres <hi rend="italics" xml:id="idm139947079983504"><!--<emph>-->Jesu<!--</emph>--></hi> Christi Lidelses-Historie,
+								der saaledes har forfærdet alle christelige, ja, alle menneskelige
+								Tilhørere, og ladet dem føle Retfærdigheden i, ja Nødvendigheden af,
+								at <hi rend="italics" xml:id="idm139947079982080"><!--<emph>-->Jerusalem<!--</emph>--></hi> gik
+								sin mageløse Forstyrrelse imøde, og at Jøde-Folket fik den gruelige
+								Skæbne hverken at kunne leve eller døe, men at maatte vandre til
+								Verdens Ende til Afsky og Væmmelse hardtad for alle Verdens-Folkene;
+								intet Træk, hvorom dette saaledes giælder, som om det gruelige <hi rend="italics" xml:id="idm139947079980432"><!--<emph>-->Valg<!--</emph>--></hi>, hele
+								Folke-Mængden gjorde, mellem den hellige, uskyldige, mageløs
+								menneskekiærlige og velgiørende Menneske-Søn <hi rend="italics" xml:id="idm139947079979136"><!--<emph>-->Jesus<!--</emph>--></hi> Christus og Afskummet,
+								Misdæderen, Oprøreren og Morderen <hi rend="italics" xml:id="idm139947079977968"><!--<emph>-->Barrabas<!--</emph>--></hi>. Vi seer da ogsaa, at
+								Valget mellem disse To forbausede selv den vantro, for Sandhed og
+								Ret igrunden ligegyldige <hi rend="italics" xml:id="idm139947079976816"><!--<emph>-->Romerske<!--</emph>--></hi> Landsherre Pontius
+								Pilatus, som før han derefter hengav <hi rend="italics" xml:id="idm139947079975664"><!--<emph>-->Jesus<!--</emph>--></hi> til Korsfæstelse, vaskede
+								sine Hænder og sagde: jeg er uskyldig i denne Retfærdiges Blod,
+								medens det rasende Folk udstødte det himmelraabende Skrig: hans Blod
+								komme over os og vore Børn, saa Herren maatte vel byde
+								Græde-Kvinderne, der fulgde ham til Korset, at spare deres Taarer
+								til dem selv og deres Børn, og ei spilde dem paa ham, som kun leed i
+								Forbigaaende paa Hjemveien til sin Herlighed.</p>
+                     <p xml:id="idm139947079973888">Men med alt dette, seer vi dog først ret, hvor modent <hi rend="italics" xml:id="idm139947079973504"><!--<emph>-->Jøde<!--</emph>--></hi>-<hi rend="italics" xml:id="idm139947079972496"><!--<emph>-->Folket<!--</emph>--></hi> viste sig
+								til Undergang ved sit afsindige Valg mellem <pb n="499" xml:id="s499" facs="adl/grundtvig/grundtvig10/grun10499"/>
+								                <hi rend="italics" xml:id="idm139947079970208"><!--<emph>-->Jesus<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947079969168"><!--<emph>-->Barrabas<!--</emph>--></hi>, naar vi
+								med Apostelen <hi rend="italics" xml:id="idm139947079968080"><!--<emph>-->Peder<!--</emph>--></hi> betragter det gruelige
+								Folke-Valg mindre fra <hi rend="italics" xml:id="idm139947079967008"><!--<emph>-->Ugudelighedens<!--</emph>--></hi> end fra <hi rend="italics" xml:id="idm139947079966000"><!--<emph>-->Umenneskelighedens<!--</emph>--></hi> Side; thi da
+								Apostelen frimodig omtalde denne Sag i sit Folks Paahør, da sagde
+								han: I forlangde, at <hi rend="italics" xml:id="idm139947079964704"><!--<emph>-->Morderen<!--</emph>--></hi> skulde skiænkes eder,
+								men <hi rend="italics" xml:id="idm139947079963600"><!--<emph>-->Livs-Fyrsten<!--</emph>--></hi>
+								aflivede L Det følger nemlig af sig selv, at hvad enten det er en
+									<hi rend="italics" xml:id="idm139947079962400"><!--<emph>-->Enkeltmand<!--</emph>--></hi>
+								eller et heelt <hi rend="italics" xml:id="idm139947079961344"><!--<emph>-->Folk<!--</emph>--></hi>, der skyder <hi rend="italics" xml:id="idm139947079960336"><!--<emph>-->Livs-Fyrsten<!--</emph>--></hi> fra sig og
+								omfavner <hi rend="italics" xml:id="idm139947079959248"><!--<emph>-->Morderen<!--</emph>--></hi>, saa foretrækker man
+								derved igrunden <hi rend="italics" xml:id="idm139947079958128"><!--<emph>-->Døden<!--</emph>--></hi> for <hi rend="italics" xml:id="idm139947079957120"><!--<emph>-->Livet<!--</emph>--></hi>, og heraf seer vi, at
+								Valget mellem den livsalige Folke-Ven <hi rend="italics" xml:id="idm139947079956000"><!--<emph>-->Jesus Christus<!--</emph>--></hi> og den væmmelige
+								Folke-Fiende <hi rend="italics" xml:id="idm139947079954896"><!--<emph>-->Barrabas<!--</emph>--></hi> ikke er stillet os saa
+								klart for Øie, enten til ørkesløs Forfærdelse, eller til Beviis paa
+								Jøde-Folkets mageløse Slethed, men til en Lærdom og Advarsel, som
+								alle Folkefærd til alle Tider kan behøve, og som aldrig har været
+								nødvendigere end i vore Dage og netop hos os. Ja, Lærdommen og
+								Advarselen er denne, at ethvert Folk, der ikke vil giøre en Ulykke
+								paa sig selv, men vil saa længe som mueligt, leve og see gode Dage i
+								sit Fæderneland, maa vel vogte sig for den største af alle <hi rend="italics" xml:id="idm139947079953184"><!--<emph>-->folkelige<!--</emph>--></hi>
+								Forbrydelser, selv at foragte og forkaste hvad der aabenbar tjener
+								til at <hi rend="italics" xml:id="idm139947079952064"><!--<emph>-->nære<!--</emph>--></hi> og
+								frede om <hi rend="italics" xml:id="idm139947079951056"><!--<emph>-->Menneske<!--</emph>--></hi>-<hi rend="italics" xml:id="idm139947079950016"><!--<emph>-->Livet<!--</emph>--></hi>, og derimod at ømme sig
+								over og blive medlidende med hvad der <hi rend="italics" xml:id="idm139947079948848"><!--<emph>-->truer<!--</emph>--></hi> og bestrider <hi rend="italics" xml:id="idm139947079947840"><!--<emph>-->Livet<!--</emph>--></hi>; thi det er
+								den lige Vei til i et afgiørende Øieblik, med Jødefolket, som en
+								Naades-Beviisning at forlange <hi rend="italics" xml:id="idm139947079946528"><!--<emph>-->Morderen<!--</emph>--></hi> løsladt og <hi rend="italics" xml:id="idm139947079945472"><!--<emph>-->Livs-Fyrsten<!--</emph>--></hi>
+								henrettet, hvorved Folket fælder sin egen Dødsdom og sætter den,
+								saavidt mueligt, selv i Kraft</p>
+                     <p xml:id="idm139947079944096">Men er det ikke da nu i folkelig Henseende en ligesaa betænkelig som
+								vitterlig Sag, at for nærværende Tid, hos alle dannede Folk og ikke
+								mindst hos os, tiltager daglig kold Ligegyldighed for det borgerlig
+								uskyldige Menneske-Livs Tab og Fare, og tiltager i samme Grad en
+								aldeles <hi rend="italics" xml:id="idm139947079943200"><!--<emph>-->umenneskelig<!--</emph>--></hi> Medynk med de
+								forsætlige <hi rend="italics" xml:id="idm139947079942112"><!--<emph>-->Mordere<!--</emph>--></hi>, saa at dem, som alle
+								guddommelige og menneskelige Love dømme til Døden, dem ønsker man
+									<hi rend="italics" xml:id="idm139947079940864"><!--<emph>-->benaadede<!--</emph>--></hi> med
+									<hi rend="italics" xml:id="idm139947079939856"><!--<emph>-->Livet<!--</emph>--></hi>,
+								skiøndt det ikke kan skee uden at giøre alle Morder-Sjæle tryggere
+								og derved sætte uskyldige Menneskers Liv i dobbelt Fare!</p>
+                     <p xml:id="idm139947079938384">Der er imidlertid ogsaa et andet Tegn paa en gruelig Ligegyldighed
+								for Menneske-Livet og det netop for Folke-Livet, som vi maae lægge
+								vel Mærke til, thi vel er dette Døds-Tegn ikke nær saa iøinefaldende
+								hos de store Verdens-Folk, som Medynken med <hi rend="italics" xml:id="idm139947079937552"><!--<emph>-->Mordere<!--</emph>--></hi>, men det synes
+								desværre, netop <hi rend="italics" xml:id="idm139947079936448"><!--<emph>-->hos
+								os<!--</emph>--></hi> at vidne om større Ligegyldighed for <hi rend="italics" xml:id="idm139947079935344"><!--<emph>-->Folke-Livet<!--</emph>--></hi> end i
+								hele <pb n="500" xml:id="s500" facs="adl/grundtvig/grundtvig10/grun10500"/> den øvrige Verden,
+								og det er saameget sørgeligere, som det <hi rend="italics" xml:id="idm139947079932928"><!--<emph>-->Danske Folkeliv<!--</emph>--></hi> har hørt til de
+								ædleste paa Jorden, og nu saameget farligere, som dette Liv nu
+								svæver i overhængende Fare for med Vold og Mord at berøves os af et
+								mægtigt <hi rend="italics" xml:id="idm139947079931504"><!--<emph>-->Verdens-Folk<!--</emph>--></hi>, der giør sig saameget
+								mindre Samvittighed over at udslette os af Folkenes Tal, som de
+								staaer i den faste Formening, at vi selv har beviist, at vi <hi rend="italics" xml:id="idm139947079930144"><!--<emph>-->aandelig<!--</emph>--></hi>
+								                <hi rend="italics" xml:id="idm139947079929136"><!--<emph>-->og menneskelig<!--</emph>--></hi>
+								talt, intet Folk er, altsaa <hi rend="italics" xml:id="idm139947079928080"><!--<emph>-->intet<!--</emph>--></hi> eiendommeligt <hi rend="italics" xml:id="idm139947079927072"><!--<emph>-->Folkeliv<!--</emph>--></hi> har, men
+								er kun Dyr i menneskelig og Fæ i folkelig <hi rend="italics" xml:id="idm139947079925888"><!--<emph>-->Skikkelse<!--</emph>--></hi>.</p>
+                     <p xml:id="idm139947079924752">Mine Tilhørere veed, at jeg er ikke af dem, der forguder <hi rend="italics" xml:id="idm139947079924368"><!--<emph>-->Verdens
+								Stormagter<!--</emph>--></hi>, eller tvivler om, at jo den <hi rend="italics" xml:id="idm139947079923296"><!--<emph>-->guddommelige
+								Stormagt<!--</emph>--></hi>, som er <hi rend="italics" xml:id="idm139947079922272"><!--<emph>-->Almagt<!--</emph>--></hi>, baade kan og vil, trods
+								alle Verdens Stormagter, lade <hi rend="italics" xml:id="idm139947079921152"><!--<emph>-->Smaafolk<!--</emph>--></hi> leve, men, skiøndt jeg
+								tvertimod indseer og paastaaer, at det er netop <hi rend="italics" xml:id="idm139947079919968"><!--<emph>-->Smaafolk<!--</emph>--></hi>, der har været
+								Redskaber i Guds Haand til Hans allerstørste og underligste
+								Gierninger paa Jorden, saa kan vi dog alle see paa Guds eget
+								verdslige Folk, paa Jøde-Folket, at Gud vil ikke opholde noget Folk
+								længere i Besiddelse af dets <hi rend="italics" xml:id="idm139947079918400"><!--<emph>-->Fæderneland<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947079917376"><!--<emph>-->Modersmaal<!--</emph>--></hi>, end
+								Folket selv skatter sit eiendommelige Liv som Guds-Gave og har Sind
+								til at nøies dermed og udvikle det til Klarhed; thi da <hi rend="italics" xml:id="idm139947079916032"><!--<emph>-->Jøde-Folket<!--</emph>--></hi>
+								forskiød <hi rend="italics" xml:id="idm139947079914960"><!--<emph>-->Livs-Fyrsten<!--</emph>--></hi> og udbad sig <hi rend="italics" xml:id="idm139947079913952"><!--<emph>-->Morderen<!--</emph>--></hi>, og da
+								Guds-Folkets Præster raabde: vi har ingen anden <hi rend="italics" xml:id="idm139947079912768"><!--<emph>-->Konge<!--</emph>--></hi> end <hi rend="italics" xml:id="idm139947079911760"><!--<emph>-->Keiseren<!--</emph>--></hi>, da slog Israels Konge
+								ogsaa aabenbar Haanden af sit Folk og overgav dem i Mordernes og den
+								Romerske Keisers Vold, som de selv havde valgt.</p>
+                     <p xml:id="idm139947079910416">Naar jeg derfor endnu haaber, at Himlens Gud baade nu og herefter vil
+								frelse det lille <hi rend="italics" xml:id="idm139947079910048"><!--<emph>-->Danske<!--</emph>--></hi> Folk fra dets mægtige og
+								arrige Fienders Vold, ja skiænke os Fred og Frihed til med Æren at
+								fuldende det os beskikkede folkelige Levnetsløb, da er det kun,
+								fordi jeg troer, at det <hi rend="italics" xml:id="idm139947079908608"><!--<emph>-->Danske<!--</emph>--></hi> Folk, skiøndt det
+								aabenbar har <hi rend="italics" xml:id="idm139947079907504"><!--<emph>-->Skinnet<!--</emph>--></hi> imod sig, dog igrunden
+								inderlig elsker sit eiendommelige Liv og <hi rend="italics" xml:id="idm139947079906400"><!--<emph>-->Modersmaal<!--</emph>--></hi>, som er
+								uadskillelige!</p>
+                     <p xml:id="idm139947079905216">Ja, Christne Venner, ligesom vi alle maae vide, at <hi rend="italics" xml:id="idm139947079904896"><!--<emph>-->Ordet<!--</emph>--></hi>, der klarlig skiller os
+								fra de <hi rend="italics" xml:id="idm139947079903824"><!--<emph>-->Umælende<!--</emph>--></hi>,
+								er det eneste Kraft-Udtryk og umiddelbare Redskab for <hi rend="italics" xml:id="idm139947079902736"><!--<emph>-->Menneske<!--</emph>--></hi>-Aanden
+								og <hi rend="italics" xml:id="idm139947079901728"><!--<emph>-->Menneske<!--</emph>--></hi>-Livet, saaledes kunde og
+								skulde vi vide, at <hi rend="italics" xml:id="idm139947079900624"><!--<emph>-->Modersmaalet<!--</emph>--></hi>, der kiendelig
+								skiller os fra <hi rend="italics" xml:id="idm139947079899568"><!--<emph>-->andre
+									Folkefærd<!--</emph>--></hi>, er det eneste Kraft-Udtryk og
+								umiddelbare Redskab for <hi rend="italics" xml:id="idm139947079898448"><!--<emph>-->Folke<!--</emph>--></hi>-Aanden og <hi rend="italics" xml:id="idm139947079897440"><!--<emph>-->Folke<!--</emph>--></hi>-Livet, saa
+								at naar vi selv ringeagter vort <hi rend="italics" xml:id="idm139947079896336"><!--<emph>-->Modersmaal<!--</emph>--></hi>, ophøier og
+								eftersnakker de Fremmedes og især det allerfiendligste Folks
+								Tungemaal, da er de forsaavidt <pb n="501" xml:id="s501" facs="adl/grundtvig/grundtvig10/grun10501"/> undskyldte, naar de forudsætter, at enten
+								har vi aldrig havt noget menneskeligt <hi rend="italics" xml:id="idm139947079893776"><!--<emph>-->Folke-Liv<!--</emph>--></hi> , eller vi har selv
+								skildt os derved, og tale hen i Veiret, naar vi klage over, at Andre
+								vil berøve os det.</p>
+                     <p xml:id="idm139947079892336">Og see, mine Venner, det er desværre sandt, at vi har længe drevet et
+								grueligt Afguderi med alt det <hi rend="italics" xml:id="idm139947079891840"><!--<emph>-->Fremmede<!--</emph>--></hi> og især med vore
+								arrigste Fienders <hi rend="italics" xml:id="idm139947079890720"><!--<emph>-->Tungemaal<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947079889712"><!--<emph>-->Tankegang<!--</emph>--></hi>, ja, selv da vi havde
+								faaet de allerklareste Beviser paa, at <hi rend="italics" xml:id="idm139947079888592"><!--<emph>-->Tyskernes<!--</emph>--></hi> Tungemaal og
+								Tankegang var vores saa fiendlige som mueligt, og medens vi
+								allerhøjest klagede over, at dette fiendlige Sprog og denne
+								fiendlige Tankegang ved <hi rend="italics" xml:id="idm139947079887200"><!--<emph>-->Grændsen<!--</emph>--></hi> indtrængde sig paa
+								vore Enemærker, da indførde og indpodede vi med Flid dette samme
+								fiendlige Sprog og denne samme fiendlige Tankegang, snart i alle
+								vore <hi rend="italics" xml:id="idm139947079885808"><!--<emph>-->Skoler<!--</emph>--></hi>, som
+								uundværlige Hjelpemidler til <hi rend="italics" xml:id="idm139947079884688"><!--<emph>-->høiere<!--</emph>--></hi> menneskelig <hi rend="italics" xml:id="idm139947079883680"><!--<emph>-->Oplysning<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947079882640"><!--<emph>-->Dannelse<!--</emph>--></hi>, saa der
+								hører unægtelig en uhyre <hi rend="italics" xml:id="idm139947079881488"><!--<emph>-->Øien-Forblindelse<!--</emph>--></hi> til saaledes
+								selv at arbeide paa sit <hi rend="italics" xml:id="idm139947079880416"><!--<emph>-->hjertelige<!--</emph>--></hi> Livs og sit <hi rend="italics" xml:id="idm139947079879408"><!--<emph>-->aandelige<!--</emph>--></hi>
+								Modersmaals Undergang uden selv at ville det, ja uden at ønske, at
+								Livs-Kraften jo før, jo heller maatte uddøe og Folke-Morderen
+								skiænkes os.</p>
+                     <p xml:id="idm139947079877888">Dog er det, Gud skee Lov! daglig blevet mig klarere, at en saadan
+								uhyre <hi rend="italics" xml:id="idm139947079877536"><!--<emph>-->Øien-Forblindelse<!--</emph>--></hi> har været
+								Hoved-Aarsagen til vores mageløs grove Fejltagelse, og at den, om
+								end hidtil kun langsomt, daglig aftager, saa den dog vist nu, under
+								Folke-Livets og Modersmaalets overhængende Fare, vil af Guds Naade
+								hæves og afløses af en ligesaa mageløs <hi rend="italics" xml:id="idm139947079875936"><!--<emph>-->folkelig<!--</emph>--></hi>
+								                <hi rend="italics" xml:id="idm139947079874928"><!--<emph>-->Oplysning<!--</emph>--></hi>, der
+								veileder os til kun herefter at skatte det Fremmede, <hi rend="italics" xml:id="idm139947079873840"><!--<emph>-->forsaavidt<!--</emph>--></hi> det
+								kan og vil <hi rend="italics" xml:id="idm139947079872784"><!--<emph>-->venlig<!--</emph>--></hi>
+								forbindes med vort <hi rend="italics" xml:id="idm139947079871728"><!--<emph>-->Folke-Liv<!--</emph>--></hi>, men uden al
+								Barmhjertighed at forskyde og udvise alt det Fiendlige, saa Verden
+								kan see, vi sætte Priis paa <hi rend="italics" xml:id="idm139947079870448"><!--<emph>-->Guds<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947079869440"><!--<emph>-->vort Eget<!--</emph>--></hi>, og saa Gud kan have
+								Grund til og Ære af at frelse os og lade <hi rend="italics" xml:id="idm139947079868240"><!--<emph>-->Lykken<!--</emph>--></hi> krone vore Bestræbelser,
+								for, uden Nogens Fornærmelse og uden Miskiendelse af noget
+								Menneskeligt, at udvikle og klare det jævne og pragtløse, men rige,
+								hjertelige og yndige <hi rend="italics" xml:id="idm139947079866816"><!--<emph>-->Folkeliv<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947079865808"><!--<emph>-->Modersmaal<!--</emph>--></hi>, som er Guds gode
+								Gave og det ganske Folks Glæde! Amen! i Vorherres <hi rend="italics" xml:id="idm139947079864592"><!--<emph>-->Jesu<!--</emph>--></hi> Christi Navn Amen!</p>
+                  </div>
+               </div>
+               <pb n="502" xml:id="s502" facs="adl/grundtvig/grundtvig10/grun10502"/>
+               <div xml:id="workid133084" decls="#biblid133084">
+                  <head xml:id="idm139947079860992">
+                     <hi rend="italics" xml:id="idm139947079860864"><!--<emph>-->Dannevirke<!--</emph>--></hi>.</head>
+                  <lg xml:id="idm139947079859696">
+                     <l xml:id="idm139947079859440">
+                        <hi rend="bold" xml:id="idm139947079859312">D</hi>annevirke, Danmarks Giærde!</l>
+                     <l xml:id="idm139947079858480">Mod dig drog en Jettehær,</l>
+                     <l xml:id="idm139947079858032">Steen i Hjerte, Staal om Hærde,</l>
+                     <l xml:id="idm139947079857568">Drog mod dig i Troldefærd,</l>
+                     <l xml:id="idm139947079857120">Til et <hi rend="italics" xml:id="idm139947079856832"><!--<emph>-->Ragnaroke<!--</emph>--></hi>-Stævne,</l>
+                     <l xml:id="idm139947079855664">Dig at storme, dig at jævne</l>
+                     <l xml:id="idm139947079855200">Med det flade, løse Muld!</l>
+                  </lg>
+                  <lg xml:id="idm139947079854624">
+                     <l xml:id="idm139947079854368">Dannevirke, Danmarks Giærde!</l>
+                     <l xml:id="idm139947079853904">Det er <hi rend="italics" xml:id="idm139947079853616"><!--<emph>-->ikke Thyras<!--</emph>--></hi>
+								Vold,</l>
+                     <l xml:id="idm139947079852448">Som med Spader nu for Sværde</l>
+                     <l xml:id="idm139947079851984">Jævne vil den Tyske Trold,</l>
+                     <l xml:id="idm139947079851536">Og i Paaske-Morgenrøde</l>
+                     <l xml:id="idm139947079851088">Ei jeg taler til det Døde,</l>
+                     <l xml:id="idm139947079850640">Som ei værge kan sig selv.</l>
+                  </lg>
+                  <lg xml:id="idm139947079850064">
+                     <l xml:id="idm139947079849808">Dannevirke, Danmarks Giærde,</l>
+                     <l xml:id="idm139947079849344">Det er Danmarks Sønnehær,</l>
+                     <l xml:id="idm139947079848896">Muld i Hjerte, Steen i Hærde.</l>
+                     <l xml:id="idm139947079848432">Født til Heltes Herrefærd.</l>
+                     <l xml:id="idm139947079847968">Dig det er, som Stormen giælder,</l>
+                     <l xml:id="idm139947079847504">Dine Rækker som Vindfælder</l>
+                     <l xml:id="idm139947079847040">Rykke op den vil med Rod.</l>
+                  </lg>
+                  <lg xml:id="idm139947079846480">
+                     <l xml:id="idm139947079846224">Dannevirke, Danmarks Giærde,</l>
+                     <l xml:id="idm139947079845760">Det er <hi rend="italics" xml:id="idm139947079845472"><!--<emph>-->Danskerens<!--</emph>--></hi>
+								Tilnavn,</l>
+                     <l xml:id="idm139947079844304">Ubekiendt for de Sprænglærde,</l>
+                     <l xml:id="idm139947079843840">Snart for hele <hi rend="italics" xml:id="idm139947079843552"><!--<emph>-->Kiøbinghavn<!--</emph>--></hi>,</l>
+                     <l xml:id="idm139947079842368">Men dog levende tilstæde,</l>
+                     <l xml:id="idm139947079841920">Kiær ad Ret og Fred og Glæde,</l>
+                     <l xml:id="idm139947079841456">Lydhør for sit <hi rend="italics" xml:id="idm139947079841152"><!--<emph>-->Modersmaal!<!--</emph>--></hi>
+                     </l>
+                  </lg>
+                  <pb n="503" xml:id="s503" facs="adl/grundtvig/grundtvig10/grun10503"/>
+                  <lg xml:id="idm139947079838720">
+                     <l xml:id="idm139947079838464">
+                        <hi rend="italics" xml:id="idm139947079838336"><!--<emph>-->Hegn<!--</emph>--></hi> om deiligst
+								Vang og Vænge,</l>
+                     <l xml:id="idm139947079837072">Levende af Gud opsat,</l>
+                     <l xml:id="idm139947079836688">Til om meer end Mark og Enge,</l>
+                     <l xml:id="idm139947079836256">Til om <hi rend="italics" xml:id="idm139947079835968"><!--<emph>-->Livets<!--</emph>--></hi>
+								skjulte Skal,</l>
+                     <l xml:id="idm139947079834800">Livets <hi rend="italics" xml:id="idm139947079834512"><!--<emph>-->Kildespring<!--</emph>--></hi>
+								at frede,</l>
+                     <l xml:id="idm139947079833344">Som i Lunde, saa paa Hede,</l>
+                     <l xml:id="idm139947079832912">Det er <hi rend="italics" xml:id="idm139947079832624"><!--<emph>-->Dansker-Folk<!--</emph>--></hi> et selv.</l>
+                  </lg>
+                  <lg xml:id="idm139947079831328">
+                     <l xml:id="idm139947079831072">Ja. den ædle <hi rend="italics" xml:id="idm139947079830768"><!--<emph>-->Dannekvinde<!--</emph>--></hi>,</l>
+                     <l xml:id="idm139947079829600">Dronningfødt, nu Bondeviv,</l>
+                     <l xml:id="idm139947079829152">
+                        <hi rend="italics" xml:id="idm139947079829024"><!--<emph>-->Folke-Hjertet<!--</emph>--></hi> er
+								herinde,</l>
+                     <l xml:id="idm139947079827888">Moderen til Lys og Liv,</l>
+                     <l xml:id="idm139947079827472">Hendes Sønnekuld er Hæren,</l>
+                     <l xml:id="idm139947079827008">Hendes Skammen, hendes Æren</l>
+                     <l xml:id="idm139947079826544">Af det <hi rend="italics" xml:id="idm139947079826256"><!--<emph>-->Danske<!--</emph>--></hi>
+								Levnetsløb.</l>
+                  </lg>
+                  <lg xml:id="idm139947079824896">
+                     <l xml:id="idm139947079824640">Hende er det, <hi rend="italics" xml:id="idm139947079824384"><!--<emph>-->Tysken<!--</emph>--></hi> hader</l>
+                     <l xml:id="idm139947079823216">Arvelig fra Hedenold,</l>
+                     <l xml:id="idm139947079822800">Thi alt med <hi rend="italics" xml:id="idm139947079822512"><!--<emph>-->Skjoldungers<!--</emph>--></hi> Fader</l>
+                     <l xml:id="idm139947079821344">Gik i Kreds den <hi rend="italics" xml:id="idm139947079821056"><!--<emph>-->Tyske<!--</emph>--></hi> Trold.</l>
+                     <l xml:id="idm139947079819888">Skyld for alt hvad <hi rend="italics" xml:id="idm139947079819600"><!--<emph>-->Dansk<!--</emph>--></hi> der skedte</l>
+                     <l xml:id="idm139947079818432">Hende gav, som »<hi rend="italics" xml:id="idm139947079818128"><!--<emph>-->Sorte-Grethe<!--</emph>--></hi>«,</l>
+                     <l xml:id="idm139947079816960">
+                        <hi rend="italics" xml:id="idm139947079816832"><!--<emph>-->Holsten-Gottorps<!--</emph>--></hi>
+								Idræts-Bog*).</l>
+                  </lg>
+                  <lg xml:id="idm139947079815472">
+                     <l xml:id="idm139947079815216">Dannevirke, Danmarks Giærde,</l>
+                     <l xml:id="idm139947079814752">Som kun løst ved <hi rend="italics" xml:id="idm139947079814448"><!--<emph>-->Slien<!--</emph>--></hi> stod!</l>
+                     <l xml:id="idm139947079813312">Trolde-Flokken, nu paafærde,</l>
+                     <l xml:id="idm139947079812848">Drikke vil dit Hjerteblod,</l>
+                     <l xml:id="idm139947079812416">Vil nu ikke længer spare</l>
+                     <l xml:id="idm139947079811968">Spiren til en Helteskare,</l>
+                     <l xml:id="idm139947079811536">Ei engang i Modersliv.</l>
+                  </lg>
+                  <lg xml:id="idm139947079810992">
+                     <l xml:id="idm139947079810736">Høre kan du det paa <hi rend="italics" xml:id="idm139947079810416"><!--<emph>-->Wrangel<!--</emph>--></hi>,</l>
+                     <l xml:id="idm139947079809248">Dansker-Fienden velbekiendt,</l>
+                     <l xml:id="idm139947079808816">Naar i <hi rend="italics" xml:id="idm139947079808560"><!--<emph>-->Kolding<!--</emph>--></hi>,
+								som i <hi rend="italics" xml:id="idm139947079807520"><!--<emph>-->Angel<!--</emph>--></hi>,</l>
+                     <l xml:id="idm139947079806352">Han, af Arrigskab indtændt,</l>
+                     <l xml:id="idm139947079805888">Stemmer op sin gamle Vise,</l>
+                     <l xml:id="idm139947079805456">Truer med, han dig vil spise</l>
+                     <l xml:id="idm139947079805024">Som blødsødne Paaske-Æg!</l>
+                  </lg>
+                  <note anchored="true" xml:id="idm139947079804448">*) Den gamle Holster-Krønike river nemlig bestandig ned paa
+							»Sorte-Margrethe« som den <hi rend="italics" xml:id="idm139947079803744"><!--<emph>-->Danske
+								Dronning<!--</emph>--></hi>.</note>
+                  <pb n="504" xml:id="s504" facs="adl/grundtvig/grundtvig10/grun10504"/>
+                  <lg xml:id="idm139947079801408">
+                     <l xml:id="idm139947079801152">Hidtil kun om <hi rend="italics" xml:id="idm139947079800864"><!--<emph>-->Sønder-Jydsken<!--</emph>--></hi>,</l>
+                     <l xml:id="idm139947079799680">Ligeop ti! <hi rend="italics" xml:id="idm139947079799424"><!--<emph>-->Kongeaa<!--</emph>--></hi>,</l>
+                     <l xml:id="idm139947079798256">Sloges med dig loit Vild-Tysken,</l>
+                     <l xml:id="idm139947079797824">Giøs endda for Bølgen blaa,</l>
+                     <l xml:id="idm139947079797360">Giøs endda for <hi rend="italics" xml:id="idm139947079797056"><!--<emph>-->Thor<!--</emph>--></hi> fra Norden,</l>
+                     <l xml:id="idm139947079795920">Dukket op af Slette-Jorden</l>
+                     <l xml:id="idm139947079795488">Med sit gamle Hammertag!</l>
+                  </lg>
+                  <lg xml:id="idm139947079794928">
+                     <l xml:id="idm139947079794672">Kun <hi rend="italics" xml:id="idm139947079794384"><!--<emph>-->femhundred<!--</emph>--></hi> Aar
+								tilbage,</l>
+                     <l xml:id="idm139947079793216">I vor Middelalders-Døs,</l>
+                     <l xml:id="idm139947079792768">Kun i <hi rend="italics" xml:id="idm139947079792480"><!--<emph>-->Kulled-Grevens<!--</emph>--></hi> Dage</l>
+                     <l xml:id="idm139947079791312">Danevangen kongeløs</l>
+                     <l xml:id="idm139947079790864">Varsel fik om hvad nu hændes,</l>
+                     <l xml:id="idm139947079790400">Og kan kun til Frelse vendes</l>
+                     <l xml:id="idm139947079789968">Ved et himmelsk Underværk.</l>
+                  </lg>
+                  <lg xml:id="idm139947079789392">
+                     <l xml:id="idm139947079789136">Trolden nu med Helved-Brodde</l>
+                     <l xml:id="idm139947079788704">Rustet ud i Tusindtal,</l>
+                     <l xml:id="idm139947079788288">
+                        <hi rend="italics" xml:id="idm139947079788160"><!--<emph>-->Dybbel-Bjerg<!--</emph>--></hi> og
+									<hi rend="italics" xml:id="idm139947079787120"><!--<emph>-->Fredriks-Odde<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm139947079786080">Kalder Vinding alt for smal,</l>
+                     <l xml:id="idm139947079785648">Nu, om end de Danske Helte</l>
+                     <l xml:id="idm139947079785216">Krøb i Ly bag begge Belte,</l>
+                     <l xml:id="idm139947079784768">Trolden fulgde dem paa Fod.</l>
+                  </lg>
+                  <lg xml:id="idm139947079784208">
+                     <l xml:id="idm139947079783952">Dennegang derpaa han stiler,</l>
+                     <l xml:id="idm139947079783520">
+                        <hi rend="italics" xml:id="idm139947079783392"><!--<emph>-->Dansken<!--</emph>--></hi> skal faae
+									<hi rend="italics" xml:id="idm139947079782384"><!--<emph>-->Ulivssaar<!--</emph>--></hi>,</l>
+                     <l xml:id="idm139947079781216">Ei han helmer, ei han hviler,</l>
+                     <l xml:id="idm139947079780784">Før den under Aaget gaaer,</l>
+                     <l xml:id="idm139947079780336">Eller med sin hele Størke</l>
+                     <l xml:id="idm139947079779888">Møder ham i Lys og Mørke,</l>
+                     <l xml:id="idm139947079779440">Blander med ham <hi rend="italics" xml:id="idm139947079779184"><!--<emph>-->Birtingsbad<!--</emph>--></hi>.</l>
+                  </lg>
+                  <lg xml:id="idm139947079777888">
+                     <l xml:id="idm139947079777632">Trolden nu med Jettehaanden,</l>
+                     <l xml:id="idm139947079777200">Om han kan, fuldfører brat,</l>
+                     <l xml:id="idm139947079776736">Hvad alt længe han i Aanden</l>
+                     <l xml:id="idm139947079776272">Pønsed paa ved Dag og Nat:</l>
+                     <l xml:id="idm139947079775824">
+                        <hi rend="italics" xml:id="idm139947079775696"><!--<emph>-->Hjerte-Folket<!--</emph>--></hi> at
+								udslette</l>
+                     <l xml:id="idm139947079774560">Med dets Navn og med dets Vætte,</l>
+                     <l xml:id="idm139947079774096">Med dets Liv og <hi rend="italics" xml:id="idm139947079773808"><!--<emph>-->Modersmaal<!--</emph>--></hi>.</l>
+                  </lg>
+                  <pb n="505" xml:id="s505" facs="adl/grundtvig/grundtvig10/grun10505"/>
+                  <lg xml:id="idm139947079771344">
+                     <l xml:id="idm139947079771088">Derfor, <hi rend="italics" xml:id="idm139947079770800"><!--<emph>-->Danmark<!--</emph>--></hi>,
+								nu det giælder,</l>
+                     <l xml:id="idm139947079769568">Om du har et Sønnekuld,</l>
+                     <l xml:id="idm139947079769120">Som sit Liv, jo før, jo heller,</l>
+                     <l xml:id="idm139947079768656">Vove tør for meer end Guld,</l>
+                     <l xml:id="idm139947079768192">Men for hvad i Verdens Øine</l>
+                     <l xml:id="idm139947079767728">Intet er mod Fiendens Løgne:</l>
+                     <l xml:id="idm139947079767264">
+                        <hi rend="italics" xml:id="idm139947079767136"><!--<emph>-->Hjerte-Dybets<!--</emph>--></hi> Liv
+								og Lys!</l>
+                  </lg>
+                  <lg xml:id="idm139947079765872">
+                     <l xml:id="idm139947079765616">Ikke blot med Sværd og Bøsse</l>
+                     <l xml:id="idm139947079765152">Dine Svende, dine Mænd,</l>
+                     <l xml:id="idm139947079764704">Maa paa Tysker-Larmen tøsse,</l>
+                     <l xml:id="idm139947079764240">Men ei mindst med Mund og Pen,</l>
+                     <l xml:id="idm139947079763808">Saa, hvor vredt end Trolden brummer,</l>
+                     <l xml:id="idm139947079763376">Dog hans <hi rend="italics" xml:id="idm139947079763088"><!--<emph>-->Røst<!--</emph>--></hi> og
+								Roes forstummer</l>
+                     <l xml:id="idm139947079761872">I vort <hi rend="italics" xml:id="idm139947079761616"><!--<emph>-->Danske<!--</emph>--></hi>
+								Fædreland!</l>
+                  </lg>
+                  <lg xml:id="idm139947079760256">
+                     <l xml:id="idm139947079760000">Ikke længer vi maae tænke,</l>
+                     <l xml:id="idm139947079759536">Troldens <hi rend="italics" xml:id="idm139947079759280"><!--<emph>-->Sprog<!--</emph>--></hi> og
+									<hi rend="italics" xml:id="idm139947079758240"><!--<emph>-->Tankegang<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm139947079757072">I Høisædet vi kan bænke,</l>
+                     <l xml:id="idm139947079756624">Trælle for i Danevang,</l>
+                     <l xml:id="idm139947079756176">Og, vor <hi rend="italics" xml:id="idm139947079755920"><!--<emph>-->Moder<!--</emph>--></hi> dog
+								til Ære,</l>
+                     <l xml:id="idm139947079754688">Banneret og Skjoldet bære,</l>
+                     <l xml:id="idm139947079754240">Værge hendes Tungemaal!</l>
+                  </lg>
+                  <lg xml:id="idm139947079753664">
+                     <l xml:id="idm139947079753408">Nei, skal ei i Gubbe-Munde</l>
+                     <l xml:id="idm139947079752976">Modersmaalet snart uddøe,</l>
+                     <l xml:id="idm139947079752528">
+                        <hi rend="italics" xml:id="idm139947079752400"><!--<emph>-->Lykke-Skibet<!--</emph>--></hi> gaae
+								tilgrunde</l>
+                     <l xml:id="idm139947079751264">Ubemandet under Ø,</l>
+                     <l xml:id="idm139947079750832">Snart maa, som af Cancelliet,</l>
+                     <l xml:id="idm139947079750400">Feies ud <hi rend="italics" xml:id="idm139947079750112"><!--<emph>-->Hjemtyskeriet<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm139947079748944">Af vor <hi rend="italics" xml:id="idm139947079748688"><!--<emph>-->Skole<!--</emph>--></hi> og
+								vor Sjæl.</l>
+                  </lg>
+                  <lg xml:id="idm139947079747328">
+                     <l xml:id="idm139947079747072">Thi saalænge vi forguder</l>
+                     <l xml:id="idm139947079746624">Fiendens Aand og Fiendens Sprog,</l>
+                     <l xml:id="idm139947079746192">Og hans Roes i Øret tuder</l>
+                     <l xml:id="idm139947079745744">Paa hver letnem Skolepog,</l>
+                     <l xml:id="idm139947079745312">Som ved <hi rend="italics" xml:id="idm139947079745056"><!--<emph>-->Ingels<!--</emph>--></hi>
+								Bord i <hi rend="italics" xml:id="idm139947079744016"><!--<emph>-->Leire<!--</emph>--></hi>,</l>
+                     <l xml:id="idm139947079742848">Tysk maa over <hi rend="italics" xml:id="idm139947079742592"><!--<emph>-->Dansken<!--</emph>--></hi> seire,</l>
+                     <l xml:id="idm139947079741424">Vellyst over Kiærlighed!</l>
+                  </lg>
+                  <pb n="506" xml:id="s506" facs="adl/grundtvig/grundtvig10/grun10506"/>
+                  <lg xml:id="idm139947079739648">
+                     <l xml:id="idm139947079739392">Men da frækt ad <hi rend="italics" xml:id="idm139947079739088"><!--<emph>-->Frodes<!--</emph>--></hi> Minde</l>
+                     <l xml:id="idm139947079737920">
+                        <hi rend="italics" xml:id="idm139947079737792"><!--<emph>-->Frodes<!--</emph>--></hi>
+								Morder-Skare loe,</l>
+                     <l xml:id="idm139947079736576">Dansken gjorde lyst derinde</l>
+                     <l xml:id="idm139947079736144">Med <hi rend="italics" xml:id="idm139947079735888"><!--<emph>-->Stærk-Odders<!--</emph>--></hi>
+								Kæmpekno;</l>
+                     <l xml:id="idm139947079734656">Under Sang paa <hi rend="italics" xml:id="idm139947079734400"><!--<emph>-->Modersmaalet<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm139947079733232">Dansken lod alt <hi rend="italics" xml:id="idm139947079732976"><!--<emph>-->Tysk<!--</emph>--></hi> fra Baalet</l>
+                     <l xml:id="idm139947079731808">Gaae for Vinden op i Røg!</l>
+                  </lg>
+                  <lg xml:id="idm139947079731232">
+                     <l xml:id="idm139947079730976">Dannevirke, Danmarks Giærde,</l>
+                     <l xml:id="idm139947079730512">
+                        <hi rend="italics" xml:id="idm139947079730384"><!--<emph>-->Danskheds<!--</emph>--></hi> ægte
+								Sønnekuld!</l>
+                     <l xml:id="idm139947079729152">Nu som da er Nød paafærde,</l>
+                     <l xml:id="idm139947079728688">Marken er af Fiender fuld,</l>
+                     <l xml:id="idm139947079728256">Samler ei du dine Kræfter,</l>
+                     <l xml:id="idm139947079727808">Øver du ei Daad derefter,</l>
+                     <l xml:id="idm139947079727376">Koster det din Moders Liv.</l>
+                  </lg>
+                  <lg xml:id="idm139947079726816">
+                     <l xml:id="idm139947079726560">Du er hendes »<hi rend="italics" xml:id="idm139947079726256"><!--<emph>-->Mod<!--</emph>--></hi>
+								og <hi rend="italics" xml:id="idm139947079725248"><!--<emph>-->Mægne<!--</emph>--></hi>«,*)</l>
+                     <l xml:id="idm139947079724080">Hendes Haab og hendes Kraft,</l>
+                     <l xml:id="idm139947079723648">Fat du flink paa hendes Vegne</l>
+                     <l xml:id="idm139947079723216">
+                        <hi rend="italics" xml:id="idm139947079723088"><!--<emph>-->Mjølners<!--</emph>--></hi> korte
+								Hammerskaft!</l>
+                     <l xml:id="idm139947079721872">Giør saa Gavn med begge Hænder,</l>
+                     <l xml:id="idm139947079721408">Giør saa lyst til Markens Ender</l>
+                     <l xml:id="idm139947079720944">Efter <hi rend="italics" xml:id="idm139947079720688"><!--<emph>-->Moders<!--</emph>--></hi>
+								Hjertelag!</l>
+                  </lg>
+                  <lg xml:id="idm139947079719392">
+                     <l xml:id="idm139947079719136">Bryd ei Hjertets Kæmpe-Love!</l>
+                     <l xml:id="idm139947079718672">Tænk paa Markens Liljevaand!</l>
+                     <l xml:id="idm139947079718208">Sæt dit eget Liv ivove,</l>
+                     <l xml:id="idm139947079717760">
+                        <hi rend="italics" xml:id="idm139947079717632"><!--<emph>-->Mund<!--</emph>--></hi> mod <hi rend="italics" xml:id="idm139947079716592"><!--<emph>-->Mund<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947079715552"><!--<emph>-->Haand<!--</emph>--></hi> mod <hi rend="italics" xml:id="idm139947079714512"><!--<emph>-->Haand!<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm139947079713472">Spar i Kampen, stout og aaben,</l>
+                     <l xml:id="idm139947079713040">Alt hvad meer ei løfter Vaaben!</l>
+                     <l xml:id="idm139947079712576">Da er Seiren klar paa Dansk!</l>
+                  </lg>
+                  <lg xml:id="idm139947079712016">
+                     <l xml:id="idm139947079711760">Fred og Frihed til Guds Ære,</l>
+                     <l xml:id="idm139947079711296">Dannekvindens Liv og Lyst,</l>
+                     <l xml:id="idm139947079710864">Lad kun det dit Løsen være</l>
+                     <l xml:id="idm139947079710400">I den store Kæmpedyst!</l>
+                     <l xml:id="idm139947079709952">Da til evigt Æreminde</l>
+                     <l xml:id="idm139947079709504">
+                        <hi rend="italics" xml:id="idm139947079709376"><!--<emph>-->Fred<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947079708368"><!--<emph>-->Frihed<!--</emph>--></hi> du skal
+								vinde</l>
+                     <l xml:id="idm139947079707200">For det <hi rend="italics" xml:id="idm139947079706912"><!--<emph>-->Himmelske<!--</emph>--></hi>
+								paa Jord!</l>
+                  </lg>
+                  <note anchored="true" xml:id="idm139947079705616">*) <hi rend="italics" xml:id="idm139947079705088"><!--<emph>-->Mod og Mægne<!--</emph>--></hi>
+							(Mod og Størke) er efter Edda Navnene paa dem, der tilsidst skal eie
+							Thors-Hammeren.</note>
+                  <pb n="507" xml:id="s507" facs="adl/grundtvig/grundtvig10/grun10507"/>
+                  <lg xml:id="idm139947079702464">
+                     <l xml:id="idm139947079702208">Og om <hi rend="italics" xml:id="idm139947079701920"><!--<emph>-->Hoved<!--</emph>--></hi> end
+								dig fattes,</l>
+                     <l xml:id="idm139947079700704">(Vee den hovedløse Hær!)</l>
+                     <l xml:id="idm139947079700256">Alt dog skænkes, som det skattes</l>
+                     <l xml:id="idm139947079699792">Hos Guds-Folket fjern og nær;</l>
+                     <l xml:id="idm139947079699328">Saa hvad Hjertet higer efter:</l>
+                     <l xml:id="idm139947079698896">Vise Raad og friske Kræfter,</l>
+                     <l xml:id="idm139947079698432">Følges som Guds Gaver ad.</l>
+                  </lg>
+                  <lg xml:id="idm139947079697856">
+                     <l xml:id="idm139947079697600">Da som Avnerne for Vinden</l>
+                     <l xml:id="idm139947079697168">Trolde-Hæren splittes ad,</l>
+                     <l xml:id="idm139947079696720">Kiønt med Skaal for <hi rend="italics" xml:id="idm139947079696400"><!--<emph>-->Dannekvinden<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm139947079695264">Kvædes skal i <hi rend="italics" xml:id="idm139947079694960"><!--<emph>-->Axelstad<!--</emph>--></hi>,</l>
+                     <l xml:id="idm139947079693824">Til i de oprørte Bølger</l>
+                     <l xml:id="idm139947079693376">Blegnet sig Nordstjernen dølger</l>
+                     <l xml:id="idm139947079692912">Med <hi rend="italics" xml:id="idm139947079692656"><!--<emph>-->Stevns-Klinten<!--</emph>--></hi>
+								under Ø!</l>
+                  </lg>
+                  <lg xml:id="idm139947079691312">
+                     <l xml:id="idm139947079691056">Rosen paa din Moders Kinder</l>
+                     <l xml:id="idm139947079690624">Blomstrer op da brat paany,</l>
+                     <l xml:id="idm139947079690192">Atter og Guld-Taaren vinder</l>
+                     <l xml:id="idm139947079689760">I Høinorden Roes og Ry,</l>
+                     <l xml:id="idm139947079689312">Og om end paa Græsbænk-Throne</l>
+                     <l xml:id="idm139947079688848">
+                        <hi rend="italics" xml:id="idm139947079688720"><!--<emph>-->Dannekvinden<!--</emph>--></hi> dog
+								sin Krone</l>
+                     <l xml:id="idm139947079687584">Bære skal med yndigt Smil!</l>
+                  </lg>
+                  <lg xml:id="idm139947079687008">
+                     <l xml:id="idm139947079686752">Dannevirke, Danmarks Giærde!</l>
+                     <l xml:id="idm139947079686288">Fat da Mod i Farens Stund!</l>
+                     <l xml:id="idm139947079685856">Lad ei Skinnet dig forfærde!</l>
+                     <l xml:id="idm139947079685392">Stol paa Gud af Hjertensgrund!</l>
+                     <l xml:id="idm139947079684960">Nætter synge jo med Dage:</l>
+                     <l xml:id="idm139947079684512">Gud er stærkest i de Svage,</l>
+                     <l xml:id="idm139947079684048">Størst er Glæden hos de Smaa!</l>
+                  </lg>
+                  <lg xml:id="idm139947079683456">
+                     <l xml:id="idm139947079683200">Lad kun skrylle, lad kun prale</l>
+                     <l xml:id="idm139947079682768">Dødens Magter trindt paa Jord!</l>
+                     <l xml:id="idm139947079682304">Lydt skal Slægterne lovtale</l>
+                     <l xml:id="idm139947079681840">
+                        <hi rend="italics" xml:id="idm139947079681712"><!--<emph>-->Folke-Livets<!--</emph>--></hi> Magt
+								i Nord,</l>
+                     <l xml:id="idm139947079680544">Som, med Livets Kilde fundet,</l>
+                     <l xml:id="idm139947079680112">Dødens Magt har overvundet,</l>
+                     <l xml:id="idm139947079679648">Banet Vei til Livets Maal!</l>
+                  </lg>
+                  <pb n="508" xml:id="s508" facs="adl/grundtvig/grundtvig10/grun10508"/>
+                  <lg xml:id="idm139947079677888">
+                     <l xml:id="idm139947079677632">Ja, om end forsinket længe.</l>
+                     <l xml:id="idm139947079677168">Og forspildt til paa et Haar,</l>
+                     <l xml:id="idm139947079676736">Sikkert her i Vang og Vænge</l>
+                     <l xml:id="idm139947079676272">Rinder op et Gyldenaar</l>
+                     <l xml:id="idm139947079675856">Med de yndigste Guld-Kværne<hi rend="bold" xml:id="idm139947079675520">,</hi>
+                     </l>
+                     <l xml:id="idm139947079674736">Med en kongekronet Hjærne,</l>
+                     <l xml:id="idm139947079674288">Fredegodt og frihaandsklart!</l>
+                  </lg>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>En bryllupsnat</title>
+            <author>Wied, Gustav</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140625580547792">
+                     <name xml:id="idm140625580547536">
+                        <surname xml:id="idm140625580547408">Wied</surname>, <forename xml:id="idm140625580546944">Gustav</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140625580546656">Barnlige Sjæle. To Kroner og halvtreds. Erotik. En Bryllupsnat. 1967</title>
+                  <pubPlace xml:id="idm140625580546240">København</pubPlace>
+                  <publisher xml:id="idm140625580545808">Rosenkilde og Bagger</publisher>
+                  <date xml:id="idm140625580545472">1966-</date>
+                  <biblScope>280-299</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid56245" decls="#biblid56245">
+            <front xml:id="idm140625580242784">
+               <pb n="280" facs="adl/wied/wied3/wied3280" xml:id="idm140625580242528"/>
+            </front>
+            <body xml:id="idm140625580241632">
+               <pb n="281" facs="adl/wied/wied3/wied3281" xml:id="idm140625580241376"/>
+               <pb n="282" facs="adl/wied/wied3/wied3282" xml:id="idm140625580240608"/>
+               <pb n="283" facs="adl/wied/wied3/wied3283" xml:id="idm140625580239840"/>
+               <pb n="284" facs="adl/wied/wied3/wied3284" xml:id="idm140625580239072"/>
+               <pb n="285" facs="adl/wied/wied3/wied3285" xml:id="idm140625580238304"/>
+               <pb n="286" facs="adl/wied/wied3/wied3286" xml:id="idm140625580237488"/>
+               <pb n="287" facs="adl/wied/wied3/wied3287" xml:id="idm140625580236720"/>
+               <pb n="288" facs="adl/wied/wied3/wied3288" xml:id="idm140625580235904"/>
+               <pb n="289" facs="adl/wied/wied3/wied3289" xml:id="idm140625580235136"/>
+               <pb n="290" facs="adl/wied/wied3/wied3290" xml:id="idm140625580234368"/>
+               <pb n="291" facs="adl/wied/wied3/wied3291" xml:id="idm140625580233600"/>
+               <pb n="292" facs="adl/wied/wied3/wied3292" xml:id="idm140625580232832"/>
+               <pb n="293" facs="adl/wied/wied3/wied3293" xml:id="idm140625580232064"/>
+               <pb n="294" facs="adl/wied/wied3/wied3294" xml:id="idm140625580231296"/>
+               <pb n="295" facs="adl/wied/wied3/wied3295" xml:id="idm140625580230480"/>
+               <pb n="296" facs="adl/wied/wied3/wied3296" xml:id="idm140625580229664"/>
+               <pb n="297" facs="adl/wied/wied3/wied3297" xml:id="idm140625580228896"/>
+               <pb n="298" facs="adl/wied/wied3/wied3298" xml:id="idm140625580228128"/>
+               <pb n="299" facs="adl/wied/wied3/wied3299" xml:id="idm140625580227360"/>
+               <p xml:id="idm140625580226592"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

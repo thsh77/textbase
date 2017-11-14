@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ved nattetid</title>
+            <author>Hertz, Henrik</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139668653829872">
+                     <name xml:id="idm139668653829616">
+                        <surname xml:id="idm139668653829488">Hertz</surname>, <forename xml:id="idm139668653829056">Henrik</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139668653828768">Digte fra forskjellige Perioder</title>
+                  <pubPlace xml:id="idm139668653828464">København</pubPlace>
+                  <date xml:id="idm139668653827952">1851-1862</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid56546" decls="#biblid56546">
+            <head xml:id="idm139668653466288">Ved nattetid.</head>
+            <lg xml:id="idm139668653465872">
+               <l xml:id="idm139668653465616">Læg dig kun ned og sov kun trygt!</l>
+               <l xml:id="idm139668653465152">Som Nattevagt jeg sidder.</l>
+               <l xml:id="idm139668653464720">Sovel, sov sødt og uden Frygt!</l>
+               <l xml:id="idm139668653464256">Jeg er din Uskylds Ridder.</l>
+               <l xml:id="idm139668653463824">Vel tænker du., saavidt jeg troer,</l>
+               <l xml:id="idm139668653463360">Ei paa mig Dagen over;</l>
+               <l xml:id="idm139668653462944">Men Drømmens Verden er saa stor -</l>
+               <l xml:id="idm139668653462480">Tænk paa mig, mens du sover.</l>
+            </lg>
+            <lg xml:id="idm139668653461888">
+               <l xml:id="idm139668653461632">Blandt hine Billeder, hvis Skræk</l>
+               <l xml:id="idm139668653461168">Bor Sjæl om Natten ryster,</l>
+               <l xml:id="idm139668653460720">Maaskee mit Billeds kjendte Træk</l>
+               <l xml:id="idm139668653460256">I Drømmens Angst dig trøster.</l>
+               <l xml:id="idm139668653459792">Hold fast min Haand - jeg veed, at Sligt</l>
+               <l xml:id="idm139668653459344">Du ellers aldrig vover.</l>
+               <l xml:id="idm139668653458928">Men Drømmens Land er stort og rigt -</l>
+               <l xml:id="idm139668653458448">Saa gjør det, mens du sover.</l>
+            </lg>
+            <pb n="21" xml:id="s21" facs="adl/hertz/hertz10/hertz10021"/>
+            <lg xml:id="idm139668653456640">
+               <l xml:id="idm139668653456384">O sov kun sødt, - hvis end din Hu</l>
+               <l xml:id="idm139668653455920">Af Drømmen mig forskyder;</l>
+               <l xml:id="idm139668653455472">Hvis end en Andens Billed nu</l>
+               <l xml:id="idm139668653455040">I dine Drømme byder.</l>
+               <l xml:id="idm139668653454592">Ak, ligefuldt, sov sødt og sundt!</l>
+               <l xml:id="idm139668653454128">Jeg vaager Natten over,</l>
+               <l xml:id="idm139668653453712">Glad ved den plads, mig er forundt,</l>
+               <l xml:id="idm139668653453280">Din Vogter, mens du sover.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

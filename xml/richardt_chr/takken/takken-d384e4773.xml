@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Takken.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62874" decls="#biblid62874">
+            <head xml:id="idm140352322622880">Takken.</head>
+            <lg xml:id="idm140352322622464">
+               <l xml:id="idm140352322622208">Naar jeg tænker paa Langfredagssorgen,</l>
+               <l xml:id="idm140352322621728">Herre, paa den Sjælekval Du led,</l>
+               <l xml:id="idm140352322621264">ja fra Julenat til Paaskemorgen,</l>
+               <l xml:id="idm140352322620832">hvad din Kjærlighed igjennemstred;</l>
+               <l xml:id="idm140352322620368">stirrer saa paany mod Korsets Bakke, -</l>
+               <l xml:id="idm140352322619936">maa jeg sukke: hvordan skal jeg takke!</l>
+            </lg>
+            <lg xml:id="idm140352322619376">
+               <l xml:id="idm140352322619120">Men som Børnene, der Intet eje,</l>
+               <l xml:id="idm140352322618656">aldrig deres Gavers Udspring veje,</l>
+               <l xml:id="idm140352322618224">men til Festens-Bordet glade springe,</l>
+               <l xml:id="idm140352322617792">og hvad selv de modtog trøstigt bringe, -</l>
+            </lg>
+            <lg xml:id="idm140352322617184">
+               <l xml:id="idm140352322616928">saadan vil Du, vi i Fryd og Smerte</l>
+               <l xml:id="idm140352322616496">være skal vor Faders Børneflok!</l>
+               <l xml:id="idm140352322616032">Giv os da et reent og trofast Hjerte,</l>
+               <l xml:id="idm140352322615600">som i Dig og Dit har altid nok:</l>
+               <l xml:id="idm140352322615168">Herre, giv os, hvad vi ikke have,</l>
+               <l xml:id="idm140352322614736">og hvad selv Du gav, - tag det i Gave!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

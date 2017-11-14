@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Den trange vej.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid77731" decls="#biblid77731">
+            <head xml:id="idm140352320810992">Den trange Vej.</head>
+            <lg xml:id="idm140352320810576">
+               <l xml:id="idm140352320810320">Hvorfor er Vejen vel saa smal</l>
+               <l xml:id="idm140352320809888">til Himmeriges høje Sal?</l>
+               <l xml:id="idm140352320809440">For at jeg ej skal sovne ind,</l>
+               <l xml:id="idm140352320809008">som laa jeg under grønne Lind!</l>
+            </lg>
+            <lg xml:id="idm140352320808416">
+               <l xml:id="idm140352320808160">Den er saa trang, den er saa smal,</l>
+               <l xml:id="idm140352320807728">at jeg skal vogte mig for Fald,</l>
+               <l xml:id="idm140352320807296">og kaste alle Byrder af,</l>
+               <l xml:id="idm140352320806864">som kunde vælte mig i Grav, -</l>
+            </lg>
+            <pb n="188" facs="adl/richardt/richardt2/rich2188" xml:id="idm140352320806272"/>
+            <lg xml:id="idm140352320805504">
+               <l xml:id="idm140352320805248">og ræddes for den dybe Elv,</l>
+               <l xml:id="idm140352320804784">og ikke lide paa mig selv,</l>
+               <l xml:id="idm140352320804352">men længes efter Ledebaand,</l>
+               <l xml:id="idm140352320803888">og række efter Herrens Haand!</l>
+            </lg>
+            <lg xml:id="idm140352320803296">
+               <l xml:id="idm140352320803040">Den er saa trang, den er saa smal,</l>
+               <l xml:id="idm140352320802608">den Vej til Himlens høje Sal,</l>
+               <l xml:id="idm140352320802144">fordi den kun skal rumme to:</l>
+               <l xml:id="idm140352320801712">min Gud, og saa mit Hjertes Tro.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

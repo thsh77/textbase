@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Melonen, 1791</title>
+            <author>Baggesen, Jens</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139905270120288">
+                     <name xml:id="idm139905270120032">
+                        <surname xml:id="idm139905270119904">Baggesen</surname>, <forename xml:id="idm139905270119472">Jens</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139905270119216"> Blandede Digte. 1. Samling. - 1899</title>
+                  <pubPlace xml:id="idm139905270118912">København</pubPlace>
+                  <date xml:id="idm139905270118400">1889-1903</date>
+                  <biblScope>163-169</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid56929" decls="#biblid56929">
+            <body xml:id="idm139905269573168">
+               <pb n="164" xml:id="n164" facs="adl/baggesen/baggesen4/bagg4164"/>
+               <pb n="165" xml:id="n165" facs="adl/baggesen/baggesen4/bagg4165"/>
+               <pb n="166" xml:id="n166" facs="adl/baggesen/baggesen4/bagg4166"/>
+               <pb n="167" xml:id="n167" facs="adl/baggesen/baggesen4/bagg4167"/>
+               <pb n="168" xml:id="n168" facs="adl/baggesen/baggesen4/bagg4168"/>
+               <pb n="169" xml:id="n169" facs="adl/baggesen/baggesen4/bagg4169"/>
+               <p xml:id="idm139905269565440"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Min gienganger-spøg</title>
+            <author>Baggesen, Jens</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139898996227984">
+                     <name xml:id="idm139898996227728">
+                        <surname xml:id="idm139898996227600">Baggesen</surname>, <forename xml:id="idm139898996227136">Jens</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139898996226848"> Riimbreve og poetiske Epistler. 2. Samling, 1809-1823. - 1894</title>
+                  <pubPlace xml:id="idm139898996226512">København</pubPlace>
+                  <date xml:id="idm139898996226000">1889-1903</date>
+                  <biblScope>93-104</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid55488" decls="#biblid55488">
+            <body xml:id="idm139898996005552">
+               <pb n="94" xml:id="n94" facs="adl/baggesen/baggesen3/bagg3094"/>
+               <pb n="95" xml:id="n95" facs="adl/baggesen/baggesen3/bagg3095"/>
+               <pb n="96" xml:id="n96" facs="adl/baggesen/baggesen3/bagg3096"/>
+               <pb n="97" xml:id="n97" facs="adl/baggesen/baggesen3/bagg3097"/>
+               <pb n="98" xml:id="n98" facs="adl/baggesen/baggesen3/bagg3098"/>
+               <pb n="99" xml:id="n99" facs="adl/baggesen/baggesen3/bagg3099"/>
+               <pb n="100" xml:id="n100" facs="adl/baggesen/baggesen3/bagg3100"/>
+               <pb n="101" xml:id="n101" facs="adl/baggesen/baggesen3/bagg3101"/>
+               <pb n="102" xml:id="n102" facs="adl/baggesen/baggesen3/bagg3102"/>
+               <pb n="103" xml:id="n103" facs="adl/baggesen/baggesen3/bagg3103"/>
+               <pb n="104" xml:id="n104" facs="adl/baggesen/baggesen3/bagg3104"/>
+               <p xml:id="idm139898995992208"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

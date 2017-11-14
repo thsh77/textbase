@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Urania titani</title>
+            <author>Brahe, Tycho</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139660972232608">
+                     <name xml:id="idm139660972232352">
+                        <surname xml:id="idm139660972232224">Brahe</surname>, <forename xml:id="idm139660972231792">Tycho</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139660972231504">Tychonis Brahe Dani opera omnia</title>
+                  <pubPlace xml:id="idm139660972231200">Hauniæ</pubPlace>
+                  <date xml:id="idm139660972230688">1913-29</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid54535" decls="#biblid54535">
+            <pb n="194" xml:id="n194" facs="adl/tycho/tycho09/tycho9194"/>
+            <pb n="195" xml:id="n195" facs="adl/tycho/tycho09/tycho9195"/>
+            <pb n="196" xml:id="n196" facs="adl/tycho/tycho09/tycho9196"/>
+            <pb n="197" xml:id="n197" facs="adl/tycho/tycho09/tycho9197"/>
+            <pb n="198" xml:id="n198" facs="adl/tycho/tycho09/tycho9198"/>
+            <pb n="199" xml:id="n199" facs="adl/tycho/tycho09/tycho9199"/>
+            <pb n="200" xml:id="n200" facs="adl/tycho/tycho09/tycho9200"/>
+            <pb n="201" xml:id="n201" facs="adl/tycho/tycho09/tycho9201"/>
+            <pb n="202" xml:id="n202" facs="adl/tycho/tycho09/tycho9202"/>
+            <pb n="203" xml:id="n203" facs="adl/tycho/tycho09/tycho9203"/>
+            <pb n="204" xml:id="n204" facs="adl/tycho/tycho09/tycho9204"/>
+            <pb n="205" xml:id="n205" facs="adl/tycho/tycho09/tycho9205"/>
+            <pb n="206" xml:id="n206" facs="adl/tycho/tycho09/tycho9206"/>
+            <pb n="207" xml:id="n207" facs="adl/tycho/tycho09/tycho9207"/>
+            <p xml:id="idm139660972099968"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Æresvers under christen lodbergs portræt 1693</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid91835" decls="#biblid91835">
+            <body xml:id="idm140721238708000">
+               <head xml:id="idm140721238707744"> Under Christen Lodbergs Portræt. <lb xml:id="idm140721238707408"/> ((daggert) 12. Juni 1693). </head>
+               <lg xml:id="idm140721238706976">
+                  <l xml:id="idm140721238706720">I kober-skygger som vil Doctor LODBERG ligne.</l>
+                  <l xml:id="idm140721238706272">Skal Eder lade først af store Naader Signe!</l>
+                  <l xml:id="idm140721238705776"> Thi Himlens Gaver faldt udi hans fødsels Lodd,</l>
+                  <l xml:id="idm140721238705280">Fra først hand Solen saae paa Jordens runde Klodd!</l>
+                  <l xml:id="idm140721238704784">Dyd, Lærdom, Herrens fiygt Forstand og Fyrsters Naade</l>
+                  <l xml:id="idm140721238704272">Gav hannem Kirkens Skib i Riber Stifft at raade;</l>
+                  <l xml:id="idm140721238703824">Hvor hand med Nidkerhed sad fast ved hendes Koor,</l>
+                  <l xml:id="idm140721238703376"> Indtil hans Ærlig Siæl til Gud fra kroppen foor.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721238702752">
+                  <hi rend="italics" xml:id="idm140721238701984">Tekstgrundlag: Müllers Pinakotek 13 Theologi CIL</hi>
+               </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

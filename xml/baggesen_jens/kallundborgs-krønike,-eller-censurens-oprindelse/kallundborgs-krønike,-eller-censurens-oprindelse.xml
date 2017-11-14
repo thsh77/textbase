@@ -1,0 +1,912 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kallundborgs krønike, eller censurens oprindelse</title>
+            <author>Baggesen, Jens</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139893715952032">
+                     <name xml:id="idm139893715951776">
+                        <surname xml:id="idm139893715951648">Baggesen</surname>, <forename xml:id="idm139893715951216">Jens</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139893715950928"> Eventyr og Fortællinger. - 1889</title>
+                  <pubPlace xml:id="idm139893715950592">København</pubPlace>
+                  <date xml:id="idm139893715950080">1889-1903</date>
+                  <biblScope>161-182</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid85058" decls="#biblid85058">
+            <front xml:id="idm139893712211184">
+               <head xml:id="idm139893712210928">
+                  <hi rend="bold" xml:id="idm139893712210800">Kallundborgs Krønike,</hi>
+                  <lb xml:id="idm139893712210208"/> eller <lb xml:id="idm139893712209920"/>
+                  <hi rend="bold" xml:id="idm139893712209792">Censurens Oprindelse.</hi>
+               </head>
+            </front>
+            <body xml:id="idm139893712208976">
+               <div xml:id="idm139893712208720">
+                  <lg xml:id="idm139893712208464">
+                     <l xml:id="idm139893712208208">
+                        <hi rend="bold" xml:id="idm139893712208080">D</hi> en hele vide Verden veed -</l>
+                     <l xml:id="idm139893712207248">(Ved hele Verden, notabene!</l>
+                     <l xml:id="idm139893712206816">Poeter i Særdeleshed</l>
+                     <l xml:id="idm139893712206368">Syv, otte gode Venner meene,</l>
+                     <l xml:id="idm139893712205936">Jeg traver i Poeters Fied,</l>
+                     <l xml:id="idm139893712205504">Og altsaa:) hele Verden veed,</l>
+                     <l xml:id="idm139893712205072">At, for umaadeligen længe siden,</l>
+                     <l xml:id="idm139893712204608">Da Kronprinds <hi rend="italics" xml:id="idm139893712204320"><!--<emph>-->Humble<!--</emph>--></hi> selv
+                        var ganske liden,</l>
+                     <l xml:id="idm139893712203088">En Hest i <hi rend="italics" xml:id="idm139893712202832"><!--<emph>-->Kallundborg<!--</emph>--></hi>
+                        Borgmester blev,</l>
+                     <l xml:id="idm139893712201600">Som <hi rend="italics" xml:id="idm139893712201344"><!--<emph>-->Peer<!--</emph>--></hi> sigkaldte, <hi rend="italics" xml:id="idm139893712200304"><!--<emph>-->Peer<!--</emph>--></hi> sig skrev;</l>
+                     <l xml:id="idm139893712199136">Sit Tilnavn kunde han aldeles ikke lide,</l>
+                     <l xml:id="idm139893712198688">Og Fornavn var paa den Tid ingen Skam -</l>
+                     <l xml:id="idm139893712198256">Hvad om den hele Verden fik at vide</l>
+                     <l xml:id="idm139893712197824">Lidt meer om ham?</l>
+                  </lg>
+                  <lg xml:id="idm139893712197280">
+                     <l xml:id="idm139893712197024">Det gaaer Skribenten, der giør Verden Cour,</l>
+                     <l xml:id="idm139893712196528">Naar Verden tier stille som en Muur,</l>
+                     <l xml:id="idm139893712196096">Aldeles som en anden Frier:</l>
+                     <l xml:id="idm139893712195664">Han troer, at man samtykker, naar man tier.</l>
+                     <pb n="162" xml:id="s162" facs="adl/baggesen/baggesen1/bagg1162"/>
+                     <l xml:id="idm139893712194032">Den sidste feiler gierne lidt;</l>
+                     <l xml:id="idm139893712193600">Den første tidt.</l>
+                     <l xml:id="idm139893712193168">Maaskee jeg og mig her for meget lover -</l>
+                     <l xml:id="idm139893712192720">Men hvad? den vinder ei, som ikke vover.</l>
+                  </lg>
+                  <lg xml:id="idm139893712192144">
+                     <l xml:id="idm139893712191888">Saa hør da min Fortælling, lille Jord,</l>
+                     <l xml:id="idm139893712191408">Og ryst, og bæv med alle dine Throner,</l>
+                     <l xml:id="idm139893712190928">Og alle disse Hof-Cameleoner,</l>
+                     <l xml:id="idm139893712190496">Som vrimle rundt derom, fra Syd til Nord!</l>
+                     <l xml:id="idm139893712190048">Thi stor er Tingen, som jeg taler om,</l>
+                     <l xml:id="idm139893712189616">Og større Manden, fra hvis Bug den kom,</l>
+                     <l xml:id="idm139893712189136">Da Kundskabs Straaler i dens Skygge døde -</l>
+                     <l xml:id="idm139893712188656">Jeg siger <hi rend="italics" xml:id="idm139893712188368"><!--<emph>-->Bug<!--</emph>--></hi> ; thi ingen
+                        Hierne var</l>
+                     <l xml:id="idm139893712187136">Vidtløftig nok, den Sag er soleklar,</l>
+                     <l xml:id="idm139893712186656">Til dig, o Kiempe! dig, <hi rend="italics" xml:id="idm139893712186352"><!--<emph>-->Censur<!--</emph>--></hi> ! at føde!</l>
+                  </lg>
+                  <lg xml:id="idm139893712185040">
+                     <l xml:id="idm139893712184784">Frygt ikke, Læser, denne Heftighed</l>
+                     <l xml:id="idm139893712184320">Skal vare hele Tiden ved!</l>
+                     <l xml:id="idm139893712183888">Det var et lille Glimt af Pieriden -</l>
+                     <l xml:id="idm139893712183456">Ved en og anden Leilighed</l>
+                     <l xml:id="idm139893712183024">Jeg bliver vel i Hovedet lidt heed,</l>
+                     <l xml:id="idm139893712182592">Men sagtnes efterhaanden siden.</l>
+                  </lg>
+               </div>
+               <div xml:id="idm139893712181904">
+                  <lg xml:id="idm139893712181648">
+                     <lg xml:id="idm139893712181392">
+                        <l xml:id="idm139893712181136">
+                           <hi rend="bold" xml:id="idm139893712181008">I</hi> Konning <hi rend="italics" xml:id="idm139893712180352"><!--<emph>-->Dans<!--</emph>--></hi> for længst henfarne Dage</l>
+                        <l xml:id="idm139893712179120">Var <hi rend="italics" xml:id="idm139893712178864"><!--<emph>-->Kallundborg<!--</emph>--></hi> en
+                           ganske anden Stad,</l>
+                        <l xml:id="idm139893712177632">Der var en mægtig Hob, jeg veed ei hvad,</l>
+                        <l xml:id="idm139893712177152">Hvoraf nu meget lidet er tilbage:</l>
+                        <l xml:id="idm139893712176720">Der gaves folk, som kunde færdig Jydsk,</l>
+                        <l xml:id="idm139893712176240">Lybsk, Holsteensk, Hollandsk, Flamsk, og Svensk og Tydsk;</l>
+                        <l xml:id="idm139893712175776">Ja Kræmmere, som havde Been i Panden,</l>
+                        <l xml:id="idm139893712175296">Og blot ei Horn - som kunde tviste med</l>
+                        <l xml:id="idm139893712174864">
+                           <hi rend="italics" xml:id="idm139893712174736"><!--<emph>-->Achill<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139893712173728"><!--<emph>-->Don Qvixott<!--</emph>--></hi> ' i
+                           Tapperhed,</l>
+                        <pb n="163" xml:id="s163" facs="adl/baggesen/baggesen1/bagg1163"/>
+                        <l xml:id="idm139893712171392">Og gave <hi rend="italics" xml:id="idm139893712171104"><!--<emph>-->Lybeks<!--</emph>--></hi> sorte
+                           Tavie Fanden;</l>
+                        <l xml:id="idm139893712169872">Pastorer, som holdt Troen reen og puur,</l>
+                        <l xml:id="idm139893712169440">Og jog, ved Hielp af Aandens Naade-Gave,</l>
+                        <l xml:id="idm139893712168992">Hvert Kiettersviin af Helligdommens Have,</l>
+                        <l xml:id="idm139893712168544">Som, for dens Peberrødder at opgrave,</l>
+                        <l xml:id="idm139893712168064">Sig sneg deri saa lumsk omkring paa Luur;</l>
+                        <l xml:id="idm139893712167616">Studenter, som for nogle saa Rosiner</l>
+                        <l xml:id="idm139893712167184">Forklarte hele <hi rend="italics" xml:id="idm139893712166928"><!--<emph>-->Curtius<!--</emph>--></hi>
+                           paa Jydsk;</l>
+                        <l xml:id="idm139893712165712">Og Skriverkarle, som med lærde Miner</l>
+                        <l xml:id="idm139893712165232">Endog Aviser tolked ud af Tydsk;</l>
+                        <l xml:id="idm139893712164800">For hvilke Læsning, selv i velske Bøger,</l>
+                        <l xml:id="idm139893712164320">Var ingen Kunst -</l>
+                        <l xml:id="idm139893712163936">Ak! slige Folk man der vel nu omstunder søger</l>
+                        <l xml:id="idm139893712163440">Omsonst.</l>
+                     </lg>
+                     <lg xml:id="idm139893712162896">
+                        <l xml:id="idm139893712162640">Blandt mange flere Herligheder,</l>
+                        <l xml:id="idm139893712162208">Som jeg vil springe reent forbi,</l>
+                        <l xml:id="idm139893712161776">Var og i Kallundborg et <hi rend="italics" xml:id="idm139893712161472"><!--<emph>-->Trykkerie<!--</emph>--></hi> ,</l>
+                        <l xml:id="idm139893712160304">Som den Tid fandtes næsten ingen Steder;</l>
+                        <l xml:id="idm139893712159824">Ja, somme holde for (og rimeligt det er),</l>
+                        <l xml:id="idm139893712159376">Den skadelige Kunst, at trykke Bøger,</l>
+                        <l xml:id="idm139893712158896">Er egentligen først opfunden der</l>
+                        <l xml:id="idm139893712158432">Af en fordømt Knapmager <hi rend="italics" xml:id="idm139893712158112"><!--<emph>-->Tøger<!--</emph>--></hi> ,</l>
+                        <l xml:id="idm139893712156976">Som Fanden tog engang paa Veien til <hi rend="italics" xml:id="idm139893712156672"><!--<emph>-->Korsøer<!--</emph>--></hi> ,</l>
+                        <l xml:id="idm139893712155536">Lig Doctor <hi rend="italics" xml:id="idm139893712155280"><!--<emph>-->Faust<!--</emph>--></hi> en
+                           Tid derefter -</l>
+                        <l xml:id="idm139893712154048">Og som ved slige Folk han altid giør!</l>
+                        <l xml:id="idm139893712153568">Beviis herfor er over mine Kræfter;</l>
+                        <l xml:id="idm139893712153088">Jeg hader al Slags Klammerie -</l>
+                        <l xml:id="idm139893712152656">Nok, at der den Gang var, som sagt, et Trykkerie.</l>
+                     </lg>
+                     <lg xml:id="idm139893712152080">
+                        <l xml:id="idm139893712151824">Men Trykkene er eet, og Trykkerie er to!</l>
+                        <l xml:id="idm139893712151376">I det Fald <hi rend="italics" xml:id="idm139893712151120"><!--<emph>-->Kallundborg<!--</emph>--></hi>
+                           var et <hi rend="italics" xml:id="idm139893712150032"><!--<emph>-->Geneve<!--</emph>--></hi> :</l>
+                        <l xml:id="idm139893712148896">Man tænkte hvad man vilde, skrev i Roe,</l>
+                        <l xml:id="idm139893712148416">Og Skrifter ubedømte trykte bleve.</l>
+                        <l xml:id="idm139893712147952">Man derfor og fornam, at meer og meer</l>
+                        <pb n="164" xml:id="s164" facs="adl/baggesen/baggesen1/bagg1164"/>
+                        <l xml:id="idm139893712146416">De gamle Hexe svandt med deres Herre;</l>
+                        <l xml:id="idm139893712145984">At Haandverksfolk blev efterhaanden fleer,</l>
+                        <l xml:id="idm139893712145536">Og Tiggere hver Løverdag blev færre;</l>
+                        <l xml:id="idm139893712145056">Thi Kunster, Videnskaber voxte frem,</l>
+                        <l xml:id="idm139893712144624">Og Klogskab i hver Næringsvei med dem;</l>
+                        <l xml:id="idm139893712144144">Man boede mageligt i nette Huse,</l>
+                        <l xml:id="idm139893712143712">Som, for det meste, stod i lige Rad;</l>
+                        <l xml:id="idm139893712143280">Man spiste god, og vel tillavet Mad,</l>
+                        <l xml:id="idm139893712142848">Og drak sin Miød af skiønt glaseerte Kruse,</l>
+                        <l xml:id="idm139893712142352">Aar efter Aar den meer oplyste Stad</l>
+                        <l xml:id="idm139893712141920">Blev smukkere. Rundt om dens vestre Side</l>
+                        <l xml:id="idm139893712141472">En Skov af Skibe saaes, opfyldte med</l>
+                        <l xml:id="idm139893712141040">De fierne Jordens Egnes Herlighed.</l>
+                        <l xml:id="idm139893712140608">End skiønnere man saae, mod Østerlide,</l>
+                        <l xml:id="idm139893712140128">Det velopdyrkte, rigdomssvangre Land</l>
+                        <l xml:id="idm139893712139696">At prange, ligt et Strøg af lutter Haver,</l>
+                        <l xml:id="idm139893712139216">Med alle Jordens moderlige Gaver.</l>
+                     </lg>
+                     <lg xml:id="idm139893712138656">
+                        <l xml:id="idm139893712138400">Saaledes overalt paa Mark og Vand,</l>
+                        <l xml:id="idm139893712137968">I Husene, paa Torvet, og paa Gaden</l>
+                        <l xml:id="idm139893712137536">Var nyttig Flid; og Ploven, Aaren, Spaden,</l>
+                        <l xml:id="idm139893712137088">Knibtangen, Øxen, Naalen - alt blev brugt</l>
+                        <l xml:id="idm139893712136608">Med mærkeligen meer og meere Frugt.</l>
+                        <l xml:id="idm139893712136128">Meer ordentlig gik Sagerne til Tinge;</l>
+                        <l xml:id="idm139893712135696">Meer ordentlig i Kirken Sangen gik;</l>
+                        <l xml:id="idm139893712135264">Man hørte bedre Byens Klokker ringe;</l>
+                        <l xml:id="idm139893712134784">Kort, alt - endog de Halte bedre gik.</l>
+                        <l xml:id="idm139893712134352">Men rigtig nok man stundom fik at læse</l>
+                        <l xml:id="idm139893712133872">En lille Vise, trykt i dette Aar,</l>
+                        <l xml:id="idm139893712133440">Som rynked hist og her en fornem Næse,</l>
+                        <l xml:id="idm139893712132960">Vor Herre veed hvorfor -</l>
+                        <l xml:id="idm139893712132528">Og rigtig nok (thi lyve vil jeg ikke)</l>
+                        <l xml:id="idm139893712132096">Kom ud engang en atheistisk Bog,</l>
+                        <l xml:id="idm139893712131664">Hvori Forfatteren til Punkt og Prikke</l>
+                        <l xml:id="idm139893712131232">Beviiste, den var ikke rigtig klog,</l>
+                        <pb n="165" xml:id="s165" facs="adl/baggesen/baggesen1/bagg1165"/>
+                        <l xml:id="idm139893712129504">Som troede, Jorden sad og Himlen rendte -</l>
+                        <l xml:id="idm139893712129056">"Saa stor en Høflighed" (Gud frie os! hvilke Ord!</l>
+                        <l xml:id="idm139893712128560">En Gysen giennem Præst og Præstedeien foer)</l>
+                        <l xml:id="idm139893712128064">"Man ikke," sagde han, "af Himmelen maa
+                           vente."</l>
+                     </lg>
+                     <lg xml:id="idm139893712127456">
+                        <l xml:id="idm139893712127200">Klog over det, som <hi rend="italics" xml:id="idm139893712126912"><!--<emph>-->skrevet<!--</emph>--></hi> staaer,</l>
+                        <l xml:id="idm139893712125744">Bør ingen from, retsindig Christen være!</l>
+                        <l xml:id="idm139893712125264">Og <hi rend="italics" xml:id="idm139893712125008"><!--<emph>-->trykke<!--</emph>--></hi> Bøger, hvor
+                           det gaaer,</l>
+                        <l xml:id="idm139893712123728">Er egentlig dog intet andet, Kiære! -</l>
+                        <l xml:id="idm139893712123248">Saaledes raisonnerte den og den,</l>
+                        <l xml:id="idm139893712122816">Som var i Troen nogenlunde kræsen;</l>
+                        <l xml:id="idm139893712122352">Særdeles <hi rend="italics" xml:id="idm139893712122096"><!--<emph>-->Præsten<!--</emph>--></hi> og
+                              <hi rend="italics" xml:id="idm139893712121008"><!--<emph>-->Borgmesteren<!--</emph>--></hi>
+                        </l>
+                        <l xml:id="idm139893712119872">Leed ingenlunde dette Trykkevæsen,</l>
+                        <l xml:id="idm139893712119408">Som (sagde de) var Aarsag i,</l>
+                        <l xml:id="idm139893712118976">At Vantroe, Sviir, og Horerie,</l>
+                        <l xml:id="idm139893712118544">Og Kiettermeeninger, og Poesie,</l>
+                        <l xml:id="idm139893712118112">Logomakie, Astronomie,</l>
+                        <l xml:id="idm139893712117728">Og, frem for alting, Atheisterie</l>
+                        <l xml:id="idm139893712117296">Fik Overhaand i alle Byens Gader,</l>
+                        <l xml:id="idm139893712116864">Ja selv i Herrens huus, skiøndt det utroligt lader,</l>
+                        <l xml:id="idm139893712116352">Saa stærkt, at Folk henslumred mangen Gang,</l>
+                        <l xml:id="idm139893712115856">Naar Prækenen var blot tilbørlig lang,</l>
+                        <l xml:id="idm139893712115376">Endogsaa paa de lave Stolestader.</l>
+                     </lg>
+                     <lg xml:id="idm139893712114816">
+                        <l xml:id="idm139893712114560">Imidlertid gik Pressen lige fuldt.</l>
+                        <l xml:id="idm139893712114128">"Lad dem kun smøre, de profane Hunde!</l>
+                        <l xml:id="idm139893712113648">"Saa længe vi, trods deres tappre Sult,</l>
+                        <l xml:id="idm139893712113168">"I vore Kanapeer rolig blunde!"</l>
+                        <l xml:id="idm139893712112736">Saa tænkte Byens Fædre - men, o Vee!</l>
+                        <l xml:id="idm139893712112256">Vee! vee dig, <hi rend="italics" xml:id="idm139893712111968"><!--<emph>-->Kallundborg<!--</emph>--></hi> ! din lærde Hæder</l>
+                        <l xml:id="idm139893712110736">Skal snart fordunkles! Dumhed snart skal lee</l>
+                        <l xml:id="idm139893712110288">Paa den Ruin, hvor alt Minerva græder!</l>
+                     </lg>
+                     <lg xml:id="idm139893712109680">
+                        <l xml:id="idm139893712109424">En Dag (saavidt jeg veed, en Hundedag)</l>
+                        <l xml:id="idm139893712108992">Borgmesteren sad i sin Stoel, hvis Arme,</l>
+                        <pb n="166" xml:id="s166" facs="adl/baggesen/baggesen1/bagg1166"/>
+                        <l xml:id="idm139893712107344">Hvis magelige Sædes lumre Varme</l>
+                        <l xml:id="idm139893712106880">Min skrøbelige Geist er alt for svag</l>
+                        <l xml:id="idm139893712106400">Til at beskrive ret. Elastisk hæved</l>
+                        <l xml:id="idm139893712105920">Den kiælne Duun dens silkebløde Barm;</l>
+                        <l xml:id="idm139893712105440">En Duft, som slukte strax hvert Glimt af Harm,</l>
+                        <l xml:id="idm139893712104992">Omkring dens tause Damask døsig svæved -</l>
+                        <l xml:id="idm139893712104512">Kort: dypped jeg i <hi rend="italics" xml:id="idm139893712104224"><!--<emph>-->Lethe
+                              Qvæders<!--</emph>--></hi> Pen,</l>
+                        <l xml:id="idm139893712102976">Og skrev paa Valmu Dag og Nat med den,</l>
+                        <l xml:id="idm139893712102544">Jeg kunde den ei søvnig nok afmale -</l>
+                        <l xml:id="idm139893712102064">Desuden var maaskee min Stræben her</l>
+                        <l xml:id="idm139893712101584">Reent overflødig; thi desværr'!</l>
+                        <l xml:id="idm139893712101120">Maaskee min Læser ligger alt i Dvale.</l>
+                        <l xml:id="idm139893712100640">O! skyd, i saa Fald, Skylden ei paa mig,</l>
+                        <l xml:id="idm139893712100192">Men blot paa Stolen! -</l>
+                     </lg>
+                     <lg xml:id="idm139893712099648">
+                        <l xml:id="idm139893712099392">Med den dybe Mine,</l>
+                        <l xml:id="idm139893712098976">Som for en saadan Mand kan skikke sig,</l>
+                        <l xml:id="idm139893712098544">Hvis rummelige Mave faderlig</l>
+                        <l xml:id="idm139893712098112">Maa giemme hele Byens Fryd og Pine,</l>
+                        <l xml:id="idm139893712097680">Sad den Velviiseste. Den Rolighed,</l>
+                        <l xml:id="idm139893712097248">Den philosophiske Dybtænksomhed,</l>
+                        <l xml:id="idm139893712096784">Og overvættes store Siælefred,</l>
+                        <l xml:id="idm139893712096320">Man seer paa Dalens fede Konges Pande,</l>
+                        <l xml:id="idm139893712095888">Naar han i Græsset sagtelig slængt ned</l>
+                        <l xml:id="idm139893712095408">I Skyggen af et Træ, ved Kildens Bred,</l>
+                        <l xml:id="idm139893712094928">I Dyssen af de musikalske Vande,</l>
+                        <l xml:id="idm139893712094496">Med vigtig Taushed tygger Drøv,</l>
+                        <l xml:id="idm139893712094032">Sad paa hans store purpurrøde Næse,</l>
+                        <l xml:id="idm139893712093552">Hvor man med liden Møie kunde læse:</l>
+                        <l xml:id="idm139893712093072">Siæl! hold dig klogeligen i dit Støv!</l>
+                     </lg>
+                     <lg xml:id="idm139893712092464">
+                        <l xml:id="idm139893712092208">Som Solen, naar den kobberrød fremstikker</l>
+                        <l xml:id="idm139893712091728">Imellem tykke Skyer i taaget Rusk,</l>
+                        <l xml:id="idm139893712091296">Saa fremstak af Parykkens Bukkel-Busk</l>
+                        <l xml:id="idm139893712090864">Hans Ansigt i en Damp af Portorikker.</l>
+                     </lg>
+                     <pb n="167" xml:id="s167" facs="adl/baggesen/baggesen1/bagg1167"/>
+                     <lg xml:id="idm139893712089072">
+                        <l xml:id="idm139893712088816">I slig Forfatning havde han for Skik,</l>
+                        <l xml:id="idm139893712088384">At smøge sig i Slummer alle Dage;</l>
+                        <l xml:id="idm139893712087920">Men hvordan det nu gik og ikke gik,</l>
+                        <l xml:id="idm139893712087488">Saa vilde Søvnen ei i Dag behage,</l>
+                        <l xml:id="idm139893712087024">Paa Pibens Vink at nærme sig som før;</l>
+                        <l xml:id="idm139893712086544">Han røg, og røg igien, og røg sig ør;</l>
+                        <l xml:id="idm139893712086064">Men intet Blund han fik, end sige Slummer -</l>
+                        <l xml:id="idm139893712085616">Ak! ingen Dødelig er frie for Kummer!</l>
+                     </lg>
+                     <lg xml:id="idm139893712085008">
+                        <l xml:id="idm139893712084752">Lig Kong <hi rend="italics" xml:id="idm139893712084464"><!--<emph>-->Asverus<!--</emph>--></hi> lod
+                           han hente da</l>
+                        <l xml:id="idm139893712083232">Den gamle store Stadens <hi rend="italics" xml:id="idm139893712082928"><!--<emph>-->Chronika<!--</emph>--></hi>
+                        </l>
+                        <l xml:id="idm139893712081792">(En Bog, fem Gange tyve Vintre gammel,</l>
+                        <l xml:id="idm139893712081360">Der ellers brugtes for hans Søn til Skammel,</l>
+                        <l xml:id="idm139893712080864">Og for ham selv, at løfte til Motion),</l>
+                        <l xml:id="idm139893712080384">Hvoraf hans Kone pleied i slig Knibe</l>
+                        <l xml:id="idm139893712079952">Mod Søvnløsheden Antidot at gribe,</l>
+                        <l xml:id="idm139893712079472">Og forelæse ham saa stor Portion,</l>
+                        <l xml:id="idm139893712079008">Som til forønskte Virkning at frembringe</l>
+                        <l xml:id="idm139893712078528">Var nok. Som oftest var den Dosis ringe;</l>
+                        <l xml:id="idm139893712078080">Thi deels Borgmesteren, for sin Person,</l>
+                        <l xml:id="idm139893712077648">Til snart at slumre var utroelig nem,</l>
+                        <l xml:id="idm139893712077216">Og deels var Bogen til at assoupere</l>
+                        <l xml:id="idm139893712076784">Fast ligesaa beqvem;</l>
+                        <l xml:id="idm139893712076400">Men denne Gang hun maatte læse mere:</l>
+                        <l xml:id="idm139893712075920">Hvad Ord for Ord, aldeles paa et Haar,</l>
+                        <l xml:id="idm139893712075488">Som det i samme gamle Krønik staaer,</l>
+                        <l xml:id="idm139893712075008">Jeg her min Læser troelig vil levere.</l>
+                     </lg>
+                  </lg>
+                  <lg xml:id="idm139893712074272">
+                     <l xml:id="idm139893712074016">"Den femte hujus døde Christen Smed,</l>
+                     <l xml:id="idm139893712073536">Den hele Bye til stor Fortred;</l>
+                     <l xml:id="idm139893712073104">Han var en brav og nyttig Mand,</l>
+                     <l xml:id="idm139893712072672">Beslog en Hest med stor Forstand,</l>
+                     <l xml:id="idm139893712072240">Paa Laase giorde mange Sving,</l>
+                     <l xml:id="idm139893712071808">Slog Øier ud for ingen Ting.</l>
+                     <pb n="168" xml:id="s168" facs="adl/baggesen/baggesen1/bagg1168"/>
+                     <l xml:id="idm139893712070096">Gid hisset han ei saa maae svede,</l>
+                     <l xml:id="idm139893712069664">Som han har altid giort hernede!" . . .</l>
+                  </lg>
+                  <lg xml:id="idm139893712069104">
+                     <lg xml:id="idm139893712068848">
+                        <l xml:id="idm139893712068592">"Endnu du sover ei, min lille Mand?"</l>
+                        <l xml:id="idm139893712068160">Udbrød den standsende Borgmesterinde -</l>
+                     </lg>
+                     <lg xml:id="idm139893712067552">
+                        <l xml:id="idm139893712067296">"Nei! læs kun meer," igientog han,</l>
+                        <l xml:id="idm139893712066832">"Det vil sig, haaber jeg, paa Timen finde;</l>
+                        <l xml:id="idm139893712066384">"Jeg ei begriber denne Søvnløshed;</l>
+                        <l xml:id="idm139893712065904">"Nu vel! læs meer! bliv ved!" - og hun
+                           blev ved:</l>
+                     </lg>
+                  </lg>
+                  <lg xml:id="idm139893712065088">
+                     <l xml:id="idm139893712064832">"Vor Præst, som nylig var lidt svag,</l>
+                     <l xml:id="idm139893712064352">Blir feed og fyldig Dag fra Dag.</l>
+                     <l xml:id="idm139893712063920">Han kan lidt meer end Fadervor,</l>
+                     <l xml:id="idm139893712063488">Og maner stærkt, som Ordet gaaer;</l>
+                     <l xml:id="idm139893712063024">Alligevel for Tyverie</l>
+                     <l xml:id="idm139893712062608">Den stakkels Mand er ikke frie.</l>
+                     <l xml:id="idm139893712062176">Forleden misted han sin Hest -</l>
+                     <l xml:id="idm139893712061744">Vor Herre skaane kun vor Præst!" . . .</l>
+                  </lg>
+                  <lg xml:id="idm139893712061136">
+                     <lg xml:id="idm139893712060880">
+                        <l xml:id="idm139893712060624">Borgmesterinden standsed her igien:</l>
+                        <l xml:id="idm139893712060192">"Du slumrer ei endnu?" - "O
+                           nei! vist ikke!</l>
+                        <l xml:id="idm139893712059728">"Jeg slumrer ei saa snart i Dag, min Fikke!"</l>
+                        <l xml:id="idm139893712059280">(Saa hed til daglig Brug Borgmestersken)</l>
+                        <l xml:id="idm139893712058832">"Du nok kan mærke, naar jeg sover hen;</l>
+                        <l xml:id="idm139893712058352">"Jeg snorker, som du veed; bliv ved at læse,</l>
+                        <l xml:id="idm139893712057856">"Saa længe til du hør Signalet af min Næse."
+                           -</l>
+                     </lg>
+                     <lg xml:id="idm139893712057168">
+                        <l xml:id="idm139893712056912">Borgmestersken begyndte da igien,</l>
+                        <l xml:id="idm139893712056480">Men sprang tre fire Blade reent forbi,</l>
+                        <l xml:id="idm139893712056048">Som der var alt for meget moersomt i;</l>
+                        <pb n="169" xml:id="s169" facs="adl/baggesen/baggesen1/bagg1169"/>
+                        <l xml:id="idm139893712054384">Man derfor eene hende Skylden give,</l>
+                        <l xml:id="idm139893712053952">Om Følgende lidt kiedsomt skulde blive:</l>
+                     </lg>
+                  </lg>
+                  <lg xml:id="idm139893712053216">
+                     <lg xml:id="idm139893712052960">
+                        <l xml:id="idm139893712052704">"Den Tyv, som stial Herr <hi rend="italics" xml:id="idm139893712052400"><!--<emph>-->Nielses<!--</emph>--></hi> Hest,</l>
+                        <l xml:id="idm139893712051232">Blev greben sidste Mortensfest,</l>
+                        <l xml:id="idm139893712050800">Og bragt paa Stand for Magistraten,</l>
+                        <l xml:id="idm139893712050368">Som arresterede Krabaten.</l>
+                        <l xml:id="idm139893712049936">Man kneb ham med saa megen Fynd,</l>
+                        <l xml:id="idm139893712049504">At han tilsidst tilstod sin Synd,</l>
+                        <l xml:id="idm139893712049072">Blev foresiunget, forelæst,</l>
+                        <l xml:id="idm139893712048608">Af den sagtmodige Niels Præst,</l>
+                        <l xml:id="idm139893712048144">Og siden paa en Sluffe slængt,</l>
+                        <l xml:id="idm139893712047680">Kiørt ud, vendt om, berettet, hængt;</l>
+                        <l xml:id="idm139893712047200">Men, som man snart vil mærke det,</l>
+                        <l xml:id="idm139893712046736">Altsammen overmaade slet.</l>
+                     </lg>
+                     <lg xml:id="idm139893712046176">
+                        <l xml:id="idm139893712045920">Det henved Midnatstide var,</l>
+                        <l xml:id="idm139893712045488">Og Maanen skinte ganske klar,</l>
+                        <l xml:id="idm139893712045056">Og mange Stierner blinkte ned</l>
+                        <l xml:id="idm139893712044624">Paa Marken, og paa Tyven med;</l>
+                        <l xml:id="idm139893712044192">(Thi Maanen seer paa slig Person</l>
+                        <l xml:id="idm139893712043760">Saavel som paa Endymion)</l>
+                        <l xml:id="idm139893712043328">Da kom paa Hesten, trap, trap, trap,</l>
+                        <l xml:id="idm139893712042896">Jens <hi rend="italics" xml:id="idm139893712042608"><!--<emph>-->Skovfogd<!--</emph>--></hi> ridende
+                           saa rap,</l>
+                        <l xml:id="idm139893712041376">Forbi det gyselige Sted,</l>
+                        <l xml:id="idm139893712040944">Hvor Diævle vogte, som man veed,</l>
+                        <l xml:id="idm139893712040480">Trofæen for Retfærdighed.</l>
+                        <l xml:id="idm139893712040032">Ret, som han rider bedst, og seer</l>
+                        <l xml:id="idm139893712039600">Ad Galgebakken til - hvad skeer?</l>
+                        <l xml:id="idm139893712039168">En Røst, lig den af Belzebul,</l>
+                        <l xml:id="idm139893712038704">Saa rædsom, underlig, og huul,</l>
+                        <l xml:id="idm139893712038240">Ham brøler ud fra Galgen: "Stop!"</l>
+                        <l xml:id="idm139893712037776">Og vips! foer Kolden i hans Krop;</l>
+                        <l xml:id="idm139893712037344">Han skialv som Esp, og i sin Skræk</l>
+                        <pb n="170" xml:id="s170" facs="adl/baggesen/baggesen1/bagg1170"/>
+                        <l xml:id="idm139893712035664">Forglemte han at spore væk,</l>
+                        <l xml:id="idm139893712035200">For i Gallop at komme bort,</l>
+                        <l xml:id="idm139893712034768">Som jeg i hans Sted havde giort.</l>
+                     </lg>
+                     <lg xml:id="idm139893712034208">
+                        <l xml:id="idm139893712033952">Han saae, og lytted nok engang -</l>
+                        <l xml:id="idm139893712033520">Og nok et "Stop!" fra den, som hang;</l>
+                        <l xml:id="idm139893712033088">Han slog et Kors, slog to, slog tre;</l>
+                        <l xml:id="idm139893712032656">Men ligemeget hiulpe de.</l>
+                        <l xml:id="idm139893712032224">Han takked i en Bøn for Mad;</l>
+                        <l xml:id="idm139893712031760">Men ihvor inderlig han bad,</l>
+                        <l xml:id="idm139893712031328">Kom dog den samme Lyd igien</l>
+                        <l xml:id="idm139893712030896">Fra Fandens nylig hængte Ven.</l>
+                     </lg>
+                     <lg xml:id="idm139893712030304">
+                        <l xml:id="idm139893712030048">
+                           <hi rend="italics" xml:id="idm139893712029920"><!--<emph>-->Jens<!--</emph>--></hi> var for Resten ei
+                           Poltron,</l>
+                        <l xml:id="idm139893712028688">Og hidtil aldrig kaldt Kujon;</l>
+                        <l xml:id="idm139893712028256">Han tog paa sin Samvittighed</l>
+                        <l xml:id="idm139893712027824">Det allerstørste Vangeled,</l>
+                        <l xml:id="idm139893712027376">Og slog med det engang en Tyv,</l>
+                        <l xml:id="idm139893712026944">Og kyste hele slige syv,</l>
+                        <l xml:id="idm139893712026512">Som vilde plyndre lumsk hans Hiem;</l>
+                        <l xml:id="idm139893712026080">Men der var ogsaa Liv i dem!</l>
+                        <l xml:id="idm139893712025648">I denne Diævel derimod</l>
+                        <l xml:id="idm139893712025200">Var intet uden bare Blod,</l>
+                        <l xml:id="idm139893712024768">Og ingen, ingen Moders Siæl</l>
+                        <l xml:id="idm139893712024304">Kan slaae tilgavns en Død ihiel;</l>
+                        <l xml:id="idm139893712023840">Selv naar han Græsset maatte bide,</l>
+                        <l xml:id="idm139893712023376">Al Fordeel var paa Tyvens Side.</l>
+                     </lg>
+                     <lg xml:id="idm139893712022816">
+                        <l xml:id="idm139893712022560">Imens han raisonnerte saa,</l>
+                        <l xml:id="idm139893712022128">Lod Tyven atter fra sig gaae</l>
+                        <l xml:id="idm139893712021696">Endnu et Skraal, som vores Helt</l>
+                        <l xml:id="idm139893712021264">Fandt mere liveligt end fælt;</l>
+                        <l xml:id="idm139893712020800">Og som, hvordan det ogsaa var,</l>
+                        <l xml:id="idm139893712020368">Den Ting ham giorde soleklar,</l>
+                        <pb n="171" xml:id="s171" facs="adl/baggesen/baggesen1/bagg1171"/>
+                        <l xml:id="idm139893712018720">At der var Liv, et cætera,</l>
+                        <l xml:id="idm139893712018272">Hvor dette sidste Skraal kom fra.</l>
+                     </lg>
+                     <lg xml:id="idm139893712017712">
+                        <l xml:id="idm139893712017456">Liv altid var Jens Skovfogd nok -</l>
+                        <l xml:id="idm139893712017024">En levende Banditerflok</l>
+                        <l xml:id="idm139893712016608">Han meget heller Spidsen bød,</l>
+                        <l xml:id="idm139893712016144">End een, som, nok saa tam, var død;</l>
+                        <l xml:id="idm139893712015664">Og derfor reed han, hop sa sa!</l>
+                        <l xml:id="idm139893712015232">Did, hvor den Lyd af Liv kom fra.</l>
+                     </lg>
+                     <lg xml:id="idm139893712014672">
+                        <l xml:id="idm139893712014416">"Hvordan," udbrød han, "er det fat?</l>
+                        <l xml:id="idm139893712013936">"Er du i Live, Kammerat?" -</l>
+                     </lg>
+                     <lg xml:id="idm139893712013376">
+                        <l xml:id="idm139893712013120">"Ja, skiær mig ned, o christen Siæl!</l>
+                        <l xml:id="idm139893712012640">"Jeg ellers hænger reent ihiel!" -</l>
+                     </lg>
+                     <lg xml:id="idm139893712012048">
+                        <l xml:id="idm139893712011792">"Band paa, du lever, først, hvis ei,</l>
+                        <l xml:id="idm139893712011312">"Jeg løber strax igien min Vei!" -</l>
+                     </lg>
+                     <lg xml:id="idm139893712010720">
+                        <l xml:id="idm139893712010464">"Ja vist! i Diævels Skind og Been,</l>
+                        <l xml:id="idm139893712010000">"Jeg lever! ja! den Sag er reen;</l>
+                        <l xml:id="idm139893712009568">"Men lever bandsat, som du seer,</l>
+                        <l xml:id="idm139893712009136">"Og døer, hvis - o! jeg kan ei meer"
+                           -</l>
+                     </lg>
+                     <lg xml:id="idm139893712008480">
+                        <l xml:id="idm139893712008224">Jens Skovfogd tænkte lidt sig om,</l>
+                        <l xml:id="idm139893712007760">Og snart til sin Beslutning kom;</l>
+                        <l xml:id="idm139893712007328">(Thi det er dog særdeles sødt,</l>
+                        <l xml:id="idm139893712006864">At bringe Liv igien i Dødt.</l>
+                        <l xml:id="idm139893712006400">Jeg troer, ved saadan Leilighed</l>
+                        <l xml:id="idm139893712005968">Jeg og en stakkels Tyv skar ned.)</l>
+                     </lg>
+                     <lg xml:id="idm139893712005408">
+                        <l xml:id="idm139893712005152">Jens Skovfogd tog sin Tæliekniv,</l>
+                        <l xml:id="idm139893712004688">Og raabte: "Løb, og frels dit Liv!" -</l>
+                        <l xml:id="idm139893712004208">Og ned sprang Tyven, lig en Kat,</l>
+                        <l xml:id="idm139893712003776">Der lang Tid har i Tønden sat,</l>
+                        <pb n="172" xml:id="s172" facs="adl/baggesen/baggesen1/bagg1172"/>
+                        <l xml:id="idm139893712002016">Naar Dragøes Helt med vældigt Drag</l>
+                        <l xml:id="idm139893712001536">Den redder i et Seierslag. -</l>
+                     </lg>
+                     <lg xml:id="idm139893712000976">
+                        <l xml:id="idm139893712000720">Lig en forrykt, beskiænket Mand,</l>
+                        <l xml:id="idm139893712000256">Som Glæden jager fra Forstand,</l>
+                        <l xml:id="idm139893711999792">Han takked ham, som gav ham Liv</l>
+                        <l xml:id="idm139893711999360">Ved Mod, og Kiærlighed, og Kniv -</l>
+                        <l xml:id="idm139893711998896">Og Glæden af at giøre vel</l>
+                        <l xml:id="idm139893711998448">Betog vor <hi rend="italics" xml:id="idm139893711998160"><!--<emph>-->Jenses<!--</emph>--></hi> hele
+                           Siæl:</l>
+                        <l xml:id="idm139893711996896">"Løb," sagde han, "af alle Kræfter!</l>
+                        <l xml:id="idm139893711996416">"Og stiæl nu aldrig meer herefter!" -</l>
+                     </lg>
+                     <lg xml:id="idm139893711995808">
+                        <l xml:id="idm139893711995552">"Du gav mig Livet," gientog han,</l>
+                        <l xml:id="idm139893711995120">"Kun for at døe paa nye, min Mand!</l>
+                        <l xml:id="idm139893711994656">"Hvor skal i Nat jeg arme hen?</l>
+                        <l xml:id="idm139893711994224">"Klyng mig i Galgen op igien!</l>
+                        <l xml:id="idm139893711993792">"Forvildet, saaret, bange, mat,</l>
+                        <l xml:id="idm139893711993360">"Man faaer mig letteligen fat,</l>
+                        <l xml:id="idm139893711992928">"Hvis jeg til Morgen ei hos dig</l>
+                        <l xml:id="idm139893711992496">"Maae lidet vederqvæge mig.</l>
+                        <l xml:id="idm139893711992032">"Troe mig, det er en egen Sag</l>
+                        <l xml:id="idm139893711991600">"At have hængt den ganske Dag!</l>
+                        <l xml:id="idm139893711991136">"Lad mig udsove denne Skræk,</l>
+                        <l xml:id="idm139893711990672">"Og pille mig i Morgen væk!</l>
+                        <l xml:id="idm139893711990208">"Hvis ei, saa heller, kiære Ven!</l>
+                        <l xml:id="idm139893711989744">"Klyng mig i Galgen op igien."</l>
+                     </lg>
+                     <lg xml:id="idm139893711989184">
+                        <l xml:id="idm139893711988928">
+                           <hi rend="italics" xml:id="idm139893711988800"><!--<emph>-->Jens<!--</emph>--></hi> fandt den Sag ret
+                           rimelig,</l>
+                        <l xml:id="idm139893711987600">Og sagde: "Kom da hiem til mig!"</l>
+                        <l xml:id="idm139893711987168">Og tog ham bag paa Hesten rap,</l>
+                        <l xml:id="idm139893711986736">Og reed til Huset, trap! trap! trap!</l>
+                     </lg>
+                     <lg xml:id="idm139893711986176">
+                        <l xml:id="idm139893711985920">"Min Kone sover," sagde han</l>
+                        <l xml:id="idm139893711985488">(En Helt er altid kiærlig Mand);</l>
+                        <pb n="173" xml:id="s173" facs="adl/baggesen/baggesen1/bagg1173"/>
+                        <l xml:id="idm139893711983808">"Giør derfor, Landsmand! ingen Larm;</l>
+                        <l xml:id="idm139893711983328">"Men læg dig her, og sov dig varm!"</l>
+                        <l xml:id="idm139893711982848">Og viste ham en opredt Seng;</l>
+                        <l xml:id="idm139893711982416">"Sov vel! og ei i Drømme hæng!" -</l>
+                        <l xml:id="idm139893711981952">"God Nat!" og derpaa begge to</l>
+                        <l xml:id="idm139893711981520">Sig sloge meget snart til Roe.</l>
+                     </lg>
+                     <lg xml:id="idm139893711980960">
+                        <l xml:id="idm139893711980704">
+                           <hi rend="italics" xml:id="idm139893711980576"><!--<emph>-->Jens<!--</emph>--></hi> havde med fra
+                           Marked hiem</l>
+                        <l xml:id="idm139893711979344">To nye Støvler, hængte dem</l>
+                        <l xml:id="idm139893711978880">Paa Sengestolpen, hvor han laae,</l>
+                        <l xml:id="idm139893711978448">Og faldt i Slummer strax derpaa.</l>
+                     </lg>
+                     <lg xml:id="idm139893711977888">
+                        <l xml:id="idm139893711977632">Vor Hængte med sin lange Hals</l>
+                        <l xml:id="idm139893711977168">Var Søvnen ei saa let tilfals.</l>
+                        <l xml:id="idm139893711976704">De Støvler fik han Øie paa,</l>
+                        <l xml:id="idm139893711976240">Og meer og meer paa samme saae;</l>
+                        <l xml:id="idm139893711975808">Han saae saa længe, saae saa tidt,</l>
+                        <l xml:id="idm139893711975344">At han til dem fik Appetit;</l>
+                        <l xml:id="idm139893711974912">Han vel tillukked Øiet; men</l>
+                        <l xml:id="idm139893711974448">De Støvler lukked op igien.</l>
+                        <l xml:id="idm139893711973984">Og hvor han vendte Synet mod,</l>
+                        <l xml:id="idm139893711973552">De nye Støvler for ham stod;</l>
+                        <l xml:id="idm139893711973088">De blanke var, og uden Meen;</l>
+                        <l xml:id="idm139893711972656">Og syntes giorte til hans Been -</l>
+                        <l xml:id="idm139893711972224">Som Tyvs, hans eget gamle Par</l>
+                        <l xml:id="idm139893711971792">I jammerlig Forfatning var;</l>
+                        <l xml:id="idm139893711971360">Thi hvor kan Retten tænke paa</l>
+                        <l xml:id="idm139893711970896">En Fyrs Forlegenhed som saa?</l>
+                        <l xml:id="idm139893711970464">Alan troer gemeenlig, een, som hænger,</l>
+                        <l xml:id="idm139893711969984">Af alting mindst til Støvler trænger</l>
+                        <l xml:id="idm139893711969504">Han stirred atter paa dem hen,</l>
+                        <l xml:id="idm139893711969072">Og Rapse-Nykken kom igien:</l>
+                        <l xml:id="idm139893711968640">Naturam furca pellas ex,</l>
+                        <l xml:id="idm139893711968208">Hun kommer dog igien, den Hex!</l>
+                        <pb n="174" xml:id="s174" facs="adl/baggesen/baggesen1/bagg1174"/>
+                        <l xml:id="idm139893711966512">Han saae paa dem, han saae paa sine,</l>
+                        <l xml:id="idm139893711966080">Og tænkte: De skal være mine!</l>
+                     </lg>
+                     <lg xml:id="idm139893711965488">
+                        <l xml:id="idm139893711965232">Som tænkt saa giort! han listed sig</l>
+                        <l xml:id="idm139893711964752">Til Sengestolpen lumskelig,</l>
+                        <l xml:id="idm139893711964320">Fik Støvlerne fra Knagen ned</l>
+                        <l xml:id="idm139893711963856">Med al en Hængts Behændighed,</l>
+                        <l xml:id="idm139893711963392">Og trak dem hurtig begge paa,</l>
+                        <l xml:id="idm139893711962960">Og vilde netop til, at gaae -</l>
+                        <l xml:id="idm139893711962528">Da <hi rend="italics" xml:id="idm139893711962272"><!--<emph>-->Jens<!--</emph>--></hi> , som vaagned
+                           ved den Larm,</l>
+                        <l xml:id="idm139893711961040">Fik i ham fat med vældig Arm:</l>
+                        <l xml:id="idm139893711960576">"Fordømte Tyv! som, nyelig hængt,</l>
+                        <l xml:id="idm139893711960112">"Er end med Tyverie befængt!</l>
+                        <l xml:id="idm139893711959648">"Kom du fra Galgen før i Live,</l>
+                        <l xml:id="idm139893711959184">"Du nu for Alvor hængt skal blive!"</l>
+                     </lg>
+                     <lg xml:id="idm139893711958576">
+                        <l xml:id="idm139893711958320">Saa sagde han, og trak ham med</l>
+                        <l xml:id="idm139893711957888">Paa Marken ud: "afsted! afsted!"</l>
+                        <l xml:id="idm139893711957456">Og puffede ham Puf i Puf,</l>
+                        <l xml:id="idm139893711957024">Og puffed af ham mangt et Uf!</l>
+                        <l xml:id="idm139893711956592">Det gik saa tyst den hele Vei;</l>
+                        <l xml:id="idm139893711956160">Thi skrige høit, han voved ei,</l>
+                        <l xml:id="idm139893711955696">Indtil de kom til Galgen hen -</l>
+                        <l xml:id="idm139893711955264">Ved atter at beskue den,</l>
+                        <l xml:id="idm139893711954832">Blev han, der Hest og Støvler stial,</l>
+                        <l xml:id="idm139893711954352">Som han var ganske bindegal,</l>
+                        <l xml:id="idm139893711953920">Og slog omkring sig vildt og fælt -</l>
+                        <l xml:id="idm139893711953440">Men <hi rend="italics" xml:id="idm139893711953184"><!--<emph>-->Jens<!--</emph>--></hi> , som før er
+                           sagt, var Helt,</l>
+                        <l xml:id="idm139893711951888">Giengieldte Fyrens blinde Puf</l>
+                        <l xml:id="idm139893711951456">Med sikkre Slag, og i en Ruf</l>
+                        <l xml:id="idm139893711951024">Han styrted ham Paa Jorden ned,</l>
+                        <l xml:id="idm139893711950592">Og bandt ham med Behændighed,</l>
+                        <l xml:id="idm139893711950128">Og klynged ham i Galgen op</l>
+                        <l xml:id="idm139893711949696">Tilgavns, med ganske Siæl og Krop:</l>
+                        <l xml:id="idm139893711949232">"Raab nu, saa tidt du gider, Stop!</l>
+                        <pb n="175" xml:id="s175" facs="adl/baggesen/baggesen1/bagg1175"/>
+                        <l xml:id="idm139893711947584">"Forsøg, hver Lyd fra dig at give!</l>
+                        <l xml:id="idm139893711947120">"Du tredde Gang ei hængt skal blive!"</l>
+                     </lg>
+                     <lg xml:id="idm139893711946512">
+                        <l xml:id="idm139893711946256">Det meget over Midnat var,</l>
+                        <l xml:id="idm139893711945824">Og Maanen skinte ganske klar,</l>
+                        <l xml:id="idm139893711945392">Og alle Stierner blinkte ned</l>
+                        <l xml:id="idm139893711944960">Paa Marken og paa Tyven med,</l>
+                        <l xml:id="idm139893711944528">Som hastig gav det sidste Suk,</l>
+                        <l xml:id="idm139893711944096">Og mukked siden ei et Muk.</l>
+                     </lg>
+                     <lg xml:id="idm139893711943536">
+                        <l xml:id="idm139893711943280">
+                           <hi rend="italics" xml:id="idm139893711943152"><!--<emph>-->Jens Skovfogd<!--</emph>--></hi> gik sin
+                           Vei igien,</l>
+                        <l xml:id="idm139893711941920">Kom hiem, gik i sin Seng, sov hen,</l>
+                        <l xml:id="idm139893711941488">Stod op, og Morgenen derpaa</l>
+                        <l xml:id="idm139893711941056">Sig lod med ingen Ting forstaae.</l>
+                     </lg>
+                     <lg xml:id="idm139893711940496">
+                        <l xml:id="idm139893711940240">Aurora mellem Østens Høie</l>
+                        <l xml:id="idm139893711939792">Kom i sit røde Skiørt og Trøie</l>
+                        <l xml:id="idm139893711939328">Med gyldenstykkes Hue paa,</l>
+                        <l xml:id="idm139893711938896">Og ligerviis paa Tyven saae.</l>
+                        <l xml:id="idm139893711938464">Ved samme Tid en sort Krabat,</l>
+                        <l xml:id="idm139893711938032">Som fuldt sig havde foresat</l>
+                        <l xml:id="idm139893711937600">I Dag at ville staae sig brav,</l>
+                        <l xml:id="idm139893711937168">Fordi han slemt i Gaar røg af,</l>
+                        <l xml:id="idm139893711936704">Kom, henrykt i Qvintilian,</l>
+                        <l xml:id="idm139893711936272">Og rendte paa Herr Urian.</l>
+                        <l xml:id="idm139893711935840">Han standsed, studsed, da han saae</l>
+                        <l xml:id="idm139893711935408">Ham med to nye Støvler paa,</l>
+                        <l xml:id="idm139893711934944">Og tænkte stirrende: mon Fanden</l>
+                        <l xml:id="idm139893711934480">End efter Døden rider Manden,</l>
+                        <l xml:id="idm139893711934016">At selv i Galgen han ei kan</l>
+                        <l xml:id="idm139893711933584">Afholde sig fra Natteran?</l>
+                        <l xml:id="idm139893711933152">Gud frie os! Stiæle Støvler hængt</l>
+                        <l xml:id="idm139893711932672">Er før ei seet, ja neppe tænkt! -</l>
+                     </lg>
+                     <lg xml:id="idm139893711932080">
+                        <l xml:id="idm139893711931824">Med disle Ord han rendte hiem,</l>
+                        <l xml:id="idm139893711931392">Og raabte høit, hvor han kom frem:</l>
+                        <pb n="176" xml:id="s176" facs="adl/baggesen/baggesen1/bagg1176"/>
+                        <l xml:id="idm139893711929776">"Den Tyv, som hængt i Aftes var,</l>
+                        <l xml:id="idm139893711929312">"Et nyt Par Støvler stiaalet har!"</l>
+                     </lg>
+                     <lg xml:id="idm139893711928720">
+                        <l xml:id="idm139893711928464">Det hele Kallundborg kom ud,</l>
+                        <l xml:id="idm139893711928032">Og saae det Syn; bevar os Gud!</l>
+                        <l xml:id="idm139893711927600">De gamle Støvler borte var!</l>
+                        <l xml:id="idm139893711927136">I deres Sted han nye bar.</l>
+                        <l xml:id="idm139893711926704">Man stirrede paa ham, som hang;</l>
+                        <l xml:id="idm139893711926272">Man loe, man græd, man peeb, man sang;</l>
+                        <l xml:id="idm139893711925792">Man giennemgik Physik, Moral,</l>
+                        <l xml:id="idm139893711925360">Og Hypotheser uden Tal;</l>
+                        <l xml:id="idm139893711924944">Kort sagt: den hele Bye blev gal -</l>
+                        <l xml:id="idm139893711924512">Men ingen kunde dog udgrunde,</l>
+                        <l xml:id="idm139893711924080">Hvor hængt man Støvler stiæle kunde?</l>
+                     </lg>
+                     <lg xml:id="idm139893711923472">
+                        <l xml:id="idm139893711923216">Man efter Præsten <hi rend="italics" xml:id="idm139893711922912"><!--<emph>-->Nielses<!--</emph>--></hi> Raad,</l>
+                        <l xml:id="idm139893711921744">Som selv begreb ei denne Daad,</l>
+                        <l xml:id="idm139893711921312">Omsider Haabet reent opgav,</l>
+                        <l xml:id="idm139893711920880">Om den at fatte nogen Tid,</l>
+                        <l xml:id="idm139893711920448">"Før," som han sagde, "bag sin Grav</l>
+                        <l xml:id="idm139893711919968">"Man kom til noget mere Vid."</l>
+                     </lg>
+                     <lg xml:id="idm139893711919408">
+                        <l xml:id="idm139893711919152">Borgmester <hi rend="italics" xml:id="idm139893711918864"><!--<emph>-->Ebbe<!--</emph>--></hi>
+                           derimod,</l>
+                        <l xml:id="idm139893711917648">Som nok saa lidt deraf forstod,</l>
+                        <l xml:id="idm139893711917216">Var ei saa rolig i sit Fag</l>
+                        <l xml:id="idm139893711916784">Ved denne paradoxe Sag.</l>
+                        <l xml:id="idm139893711916400">Han paastod fast med Mund og Pen,</l>
+                        <l xml:id="idm139893711915968">At Tyven nok engang igien</l>
+                        <l xml:id="idm139893711915536">For dette Ran afstraffes skulde;</l>
+                        <l xml:id="idm139893711915104">Thi Tyverie er Tyverie,</l>
+                        <l xml:id="idm139893711914688">Og Tyv bør ei gaae Ram forbi,</l>
+                        <l xml:id="idm139893711914224">Fordi han ligger under Mulde.</l>
+                        <l xml:id="idm139893711913792">I mangen Act in Folio</l>
+                        <l xml:id="idm139893711913376">Man tvisted contra, tvisted pro,</l>
+                        <l xml:id="idm139893711912944">Men kom med Sagen ei til Ende.</l>
+                        <pb n="177" xml:id="s177" facs="adl/baggesen/baggesen1/bagg1177"/>
+                        <l xml:id="idm139893711911328">Man veed endnu med Vished ei</l>
+                        <l xml:id="idm139893711910896">(Thi saare lang er Rettens Vei),</l>
+                        <l xml:id="idm139893711910464">Til hvilken Kant den vil sigvende. -</l>
+                     </lg>
+                  </lg>
+                  <lg xml:id="idm139893711909776">
+                     <lg xml:id="idm139893711909520">
+                        <l xml:id="idm139893711909264">"Hvad!" raabte vor Borgmester vild,</l>
+                        <l xml:id="idm139893711908832">Og slog sin Pibe reent itu paa Kanten</l>
+                        <l xml:id="idm139893711908400">Af Folianten,</l>
+                        <l xml:id="idm139893711907984">"Hvad" brølte han, "er det for en
+                           Pasqvil?</l>
+                        <l xml:id="idm139893711907440">"Det mig skal ramme, som jeg hører -</l>
+                        <l xml:id="idm139893711906960">"At lugte sligt, er ingen Kunst!</l>
+                        <l xml:id="idm139893711906528">"Nu, ved min Mave! den fordømte Smører</l>
+                        <l xml:id="idm139893711906048">"Skal ikke have smurt omsonst!" -</l>
+                     </lg>
+                     <lg xml:id="idm139893711905488">
+                        <l xml:id="idm139893711905232">"O Himmel!" raabte hun, og slængte Bogen,</l>
+                        <l xml:id="idm139893711904752">Saa langt hun kunde, hen i Krogen;</l>
+                        <l xml:id="idm139893711904320">"Du drømmer slemt, min lille Mand!</l>
+                        <l xml:id="idm139893711903856">"Vaagn op, og kom i gien til din Forstand!</l>
+                        <l xml:id="idm139893711903408">"Og lad den Fule, Smør, og Sild, og Lugt,</l>
+                        <l xml:id="idm139893711902928">"Og alt det andet fare! vaagn nu smukt!"
+                           -</l>
+                     </lg>
+                     <lg xml:id="idm139893711902336">
+                        <l xml:id="idm139893711902080">"Hvad drømmer! drømmer! drømmer! nei desværre</l>
+                        <l xml:id="idm139893711901584">"Jeg ikke fik et Blund, det veed vor Herre!</l>
+                        <l xml:id="idm139893711901136">"For al den Skumlen, som du læste der -</l>
+                        <l xml:id="idm139893711900656">"Det Frugten af den Hunde-Friehed er,</l>
+                        <l xml:id="idm139893711900224">"Alt, hvad man vil, at kunne trykke!</l>
+                        <l xml:id="idm139893711899792">"Fornam du ei, din Gaas! det hele Stykke,</l>
+                        <l xml:id="idm139893711899344">"Du læste der, var Skamskrift over mig?</l>
+                        <l xml:id="idm139893711898864">"Men det skal hævnes, troe mig, sikkerlig!"
+                           -</l>
+                     </lg>
+                     <lg xml:id="idm139893711898192">
+                        <l xml:id="idm139893711897936">"Men, lille Mand!" gientog med Smil Madammen,</l>
+                        <l xml:id="idm139893711897488">"Betænk, det er en grumme gammel Bog!</l>
+                        <l xml:id="idm139893711897008">"Og det er trykt og skrevet alt tilsammen,</l>
+                        <l xml:id="idm139893711896560">"Før jeg og du blev født; betænk dig dog!</l>
+                        <pb n="178" xml:id="s178" facs="adl/baggesen/baggesen1/bagg1178"/>
+                        <l xml:id="idm139893711894832">"Du har jo Støvler aldrig stiaalet!</l>
+                        <l xml:id="idm139893711894352">"Du er jo hidtil ikke hængt, min Peer!"
+                        -</l>
+                     </lg>
+                     <lg xml:id="idm139893711893696">
+                        <l xml:id="idm139893711893440">"Ja gammel hid, og gammel her,</l>
+                        <l xml:id="idm139893711893008">"Den skal," saa bandte han, "paa Baalet!</l>
+                        <l xml:id="idm139893711892560">"Du dig kun lidt forstaaer paa slige Ting;</l>
+                        <l xml:id="idm139893711892112">"Jeg seer en smule dybere; jeg veed</l>
+                        <l xml:id="idm139893711891680">"Som Dommer, som Jurist, om sligt Beskeed:</l>
+                        <l xml:id="idm139893711891232">"Han mener mig med hele Magistraten;</l>
+                        <l xml:id="idm139893711890800">"Jeg rigtig nok engang har hængt en Tyv;</l>
+                        <l xml:id="idm139893711890320">"Trods ham, og al hans skammelige Praten,</l>
+                        <l xml:id="idm139893711889872">"Jeg kunde hænge slige syv,</l>
+                        <l xml:id="idm139893711889408">"Og, hvis jeg havde ham saa sandt i Fælde,</l>
+                        <l xml:id="idm139893711888928">"Ham selv i Midten, om det skulde gielde.</l>
+                        <l xml:id="idm139893711888480">"Hvem anden mener han vel med den Mær,</l>
+                        <l xml:id="idm139893711888000">"Som kom imellem nogle Høie</l>
+                        <l xml:id="idm139893711887536">"Med guulrødt, eller brunrødt Skiørt og Trøie,</l>
+                        <l xml:id="idm139893711887040">"Og gyldenstykkes Hue noget nær,</l>
+                        <l xml:id="idm139893711886576">"Hvem anden vel end dig? Til Punkt og Prikke</l>
+                        <l xml:id="idm139893711886128">"Han dig har malt, min lille Fikke!</l>
+                        <l xml:id="idm139893711885696">"Hvem gaaer med gyldenstykkes Huer nu,</l>
+                        <l xml:id="idm139893711885264">"Med røde Damask-Trøier, uden du?</l>
+                        <l xml:id="idm139893711884800">"Og, troe mig! med den sorte, det er reent,</l>
+                        <l xml:id="idm139893711884352">"Som han beskriver saa confus,</l>
+                        <l xml:id="idm139893711883920">"Han har vor ældste Søn, vor <hi rend="italics" xml:id="idm139893711883584"><!--<emph>-->Petrus<!--</emph>--></hi> meent,</l>
+                        <l xml:id="idm139893711882416">"Som røg forgangen af med Nucleus." -</l>
+                     </lg>
+                     <lg xml:id="idm139893711881808">
+                        <l xml:id="idm139893711881552">"Ja", sagde hun, "nu synes mig, min
+                           Peder!</l>
+                        <l xml:id="idm139893711881088">"At jeg begriber, du har Ret.</l>
+                        <l xml:id="idm139893711880656">"I Mænd dog alting fatte kan saa let;</l>
+                        <l xml:id="idm139893711880176">"Hvor er vi Koner dog kun Faar mod Eder!"
+                           -</l>
+                     </lg>
+                     <lg xml:id="idm139893711879584">
+                        <l xml:id="idm139893711879328">"Desuden", blev han ved, "jeg længe har</l>
+                        <l xml:id="idm139893711878848">"Mig ærgret over det fordømte Væsen,</l>
+                        <pb n="179" xml:id="s179" facs="adl/baggesen/baggesen1/bagg1179"/>
+                        <l xml:id="idm139893711877232">"At kunne trykke frit i hvad det var -</l>
+                        <l xml:id="idm139893711876800">"Hvad kommer der vel ud af al den Læsen?</l>
+                        <l xml:id="idm139893711876320">"En Skræder kan jo blive nok saa klog</l>
+                        <l xml:id="idm139893711875840">"Som jeg; kan mønstre mig og hele Staten;</l>
+                        <l xml:id="idm139893711875360">"Kan trodse mig, og hele Magistraten,</l>
+                        <l xml:id="idm139893711874928">"Ved Hielp af en og anden lumpen Bog!</l>
+                        <l xml:id="idm139893711874496">"Spørg kun Herr <hi rend="italics" xml:id="idm139893711874192"><!--<emph>-->Morten<!--</emph>--></hi> ! han med mig vil sande!</l>
+                        <l xml:id="idm139893711872976">"Jeg tidt har hørt ham Bøger at forbande:</l>
+                        <l xml:id="idm139893711872496">"Han siger: det er lutter Satans Kram!</l>
+                        <l xml:id="idm139893711872064">"Studeringer er blot for Folk som ham,</l>
+                        <l xml:id="idm139893711871632">"Der kan sin Hierne styre selv og raade,</l>
+                        <l xml:id="idm139893711871184">"Og veed med Pønskningen at holde Maade -</l>
+                        <l xml:id="idm139893711870704">"Og overalt - hvad Krøniken især</l>
+                        <l xml:id="idm139893711870240">"Betræffer, slig en Bog er ikke værd,</l>
+                        <l xml:id="idm139893711869760">"At være mere til, om ei for andet,</l>
+                        <l xml:id="idm139893711869280">"Fordi den mig har skilt i Dag</l>
+                        <l xml:id="idm139893711868848">"Ved Middagssøvnen - blot for denne Sag</l>
+                        <l xml:id="idm139893711868368">"Den være skal til evig Tid forbandet!"</l>
+                     </lg>
+                     <lg xml:id="idm139893711867760">
+                        <l xml:id="idm139893711867504">Endnu før Solens Nedgang blev sendt Bud</l>
+                        <l xml:id="idm139893711867024">Til Præsten, som var stærk Zelot i Sagen;</l>
+                        <l xml:id="idm139893711866544">Og under megen Raslen, Knittren, Bragen,</l>
+                        <l xml:id="idm139893711866096">Blev Krøniken opofret Ildens Gud.</l>
+                        <l xml:id="idm139893711865632">Med al Høitidelighed dette Væsen</l>
+                        <l xml:id="idm139893711865168">I Borgemester-Gaarden foregik:</l>
+                        <l xml:id="idm139893711864736">De tvende Byens Fædre stod og saae</l>
+                        <l xml:id="idm139893711864272">Med megen patriotisk Fryd derpaa,</l>
+                        <l xml:id="idm139893711863840">Mens Røgen af den brændende Kronik,</l>
+                        <l xml:id="idm139893711863360">Satyrisk selv i Dødens Øieblik,</l>
+                        <l xml:id="idm139893711862896">Dem begge to stak ondskabsfuld i Næsen.</l>
+                     </lg>
+                     <lg xml:id="idm139893711862288">
+                        <l xml:id="idm139893711862032">Den næste Dag kom en Forordning ud:</l>
+                        <l xml:id="idm139893711861552">"At alle Exemplarerne af samme</l>
+                        <l xml:id="idm139893711861120">Opofres skulde Hevnens vrede Flamme,</l>
+                        <pb n="180" xml:id="s180" facs="adl/baggesen/baggesen1/bagg1180"/>
+                        <l xml:id="idm139893711859536">Som lige skyldige" - med nok et Bud:</l>
+                        <l xml:id="idm139893711859104">"At ingen, hvo det var, herefter mere</l>
+                        <l xml:id="idm139893711858672">Til Trykken maatte nogen Ting levere,</l>
+                        <l xml:id="idm139893711858240">Det være hvad det vilde, klogt og galt,</l>
+                        <l xml:id="idm139893711857760">Philosophier, Eventyr, Moraler,</l>
+                        <l xml:id="idm139893711857328">Ordbøger, Oder, Elegier, Taler,</l>
+                        <l xml:id="idm139893711856864">Satirer, Fabler, Krøniker, Annaler,</l>
+                        <l xml:id="idm139893711856384">Og andet sligt - med eller uden Salt -</l>
+                        <l xml:id="idm139893711855952">Paa Jydsk, paa Tydsk, paa Holsteensk eller Flamisk,</l>
+                        <l xml:id="idm139893711855504">Ja Græsk, Sverinsk, Franzøsk, Mesopotamisk,</l>
+                        <l xml:id="idm139893711855008">Før det af Byes Borgmester eller Præst</l>
+                        <l xml:id="idm139893711854528">Var nøie giennembladet, giennemlæst,</l>
+                        <l xml:id="idm139893711854048">Og dømt, hvorvidt det Statens Tarv og Ære,</l>
+                        <l xml:id="idm139893711853552">Og deres Bedste kunde tienligt være."</l>
+                     </lg>
+                     <lg xml:id="idm139893711852944">
+                        <l xml:id="idm139893711852688">Saaledes for een Mands afbrudte Slum</l>
+                        <l xml:id="idm139893711852256">Opofredes for evig hele Staden -</l>
+                        <l xml:id="idm139893711851824">Man hørte i et sammenmænget Brum</l>
+                        <l xml:id="idm139893711851360">Af Jammerskrig, hvorhen man kom paa Gaden:</l>
+                        <l xml:id="idm139893711850912">"Ak! vi har mistet vort Palladium!"</l>
+                     </lg>
+                     <lg xml:id="idm139893711850352">
+                        <l xml:id="idm139893711850096">
+                           <hi rend="italics" xml:id="idm139893711849968"><!--<emph>-->Borgmestren<!--</emph>--></hi> var, som
+                           han er nys beskreven;</l>
+                        <l xml:id="idm139893711848720">Som Censor kiender man hans Dygtighed.</l>
+                        <l xml:id="idm139893711848288">Med Præsten <hi rend="italics" xml:id="idm139893711847984"><!--<emph>-->Morten<!--</emph>--></hi>
+                           man, saavidt jeg veed,</l>
+                        <l xml:id="idm139893711846784">Saa nøie hidtil ei bekiendt er bleven.</l>
+                        <l xml:id="idm139893711846304">Jeg derfor af hans trufne Malerie</l>
+                        <l xml:id="idm139893711845872">Vil give her, saa got jeg kan, Copie</l>
+                        <l xml:id="idm139893711845440">(Originalen hænger i Peer Paars) -</l>
+                        <l xml:id="idm139893711844976">Han stærk og fyldig var, og lidt til Aars,</l>
+                        <l xml:id="idm139893711844496">Særdeles Kiender, frem for alt, af Heste,</l>
+                        <l xml:id="idm139893711844016">Men af sig selv, som Folk er fleest.</l>
+                        <l xml:id="idm139893711843584">
+                           <hi rend="italics" xml:id="idm139893711843456"><!--<emph>-->Donat<!--</emph>--></hi> , og sligt, han
+                           eengang havde læst,</l>
+                        <l xml:id="idm139893711842176">Og glemt igien; for Resten, som den beste,</l>
+                        <l xml:id="idm139893711841728">Han brægede for Altret; præked blot</l>
+                        <pb n="181" xml:id="s181" facs="adl/baggesen/baggesen1/bagg1181"/>
+                        <l xml:id="idm139893711839984">Et maadeligt Qvarteer, og dog saa got</l>
+                        <l xml:id="idm139893711839552">Som nogen fik sin Menighed i Slummer.</l>
+                        <l xml:id="idm139893711839120">I Skriftestolen var han meget skrap,</l>
+                        <l xml:id="idm139893711838688">Især mod dem, hvis Offring var lidt knap.</l>
+                        <l xml:id="idm139893711838208">"Den rette Vei til Himmelen er Kummer!"</l>
+                        <l xml:id="idm139893711837776">Hans Mundheld var - og, som en Siæle-Ven,</l>
+                        <l xml:id="idm139893711837296">Han derfor rundelig uddeelte den</l>
+                        <l xml:id="idm139893711836864">Med Lovens Straf, og Prophetiens Varsler;</l>
+                        <l xml:id="idm139893711836416">Og skruppede de Døende med Klem,</l>
+                        <l xml:id="idm139893711835952">Til Lægen fra hans Torden frelste dem -</l>
+                        <l xml:id="idm139893711835472">I øvrigt: aad for fire, drak for fem</l>
+                        <l xml:id="idm139893711834992">Ved alle Bryllupper, Begravelser og Barsker.</l>
+                     </lg>
+                     <lg xml:id="idm139893711834416">
+                        <l xml:id="idm139893711834160">Med disse Censor-Evner ruslet ud</l>
+                        <l xml:id="idm139893711833728">Han hialp Borgmestren i at censurere</l>
+                        <l xml:id="idm139893711833296">De sidste, svage litteraire Skud,</l>
+                        <l xml:id="idm139893711832864">Som <hi rend="italics" xml:id="idm139893711832576"><!--<emph>-->Rectoren,
+                           Conrectoren<!--</emph>--></hi> , og flere,</l>
+                        <l xml:id="idm139893711831376">Hvis Navne jeg ei her opregne vil</l>
+                        <l xml:id="idm139893711830944">(Tildeels dog Calvinister), af og til</l>
+                        <l xml:id="idm139893711830512">Bad skiælvende Borgmesters Pige, <hi rend="italics" xml:id="idm139893711830176"><!--<emph>-->Rikke<!--</emph>--></hi> ,</l>
+                        <l xml:id="idm139893711829008">Igiennem Borgemestersken, Frue <hi rend="italics" xml:id="idm139893711828704"><!--<emph>-->Fikke<!--</emph>--></hi> ,</l>
+                        <l xml:id="idm139893711827568">At presentere Borgemester <hi rend="italics" xml:id="idm139893711827264"><!--<emph>-->Peer<!--</emph>--></hi>
+                        </l>
+                        <l xml:id="idm139893711826128">Til naadig Dom.</l>
+                        <l xml:id="idm139893711825744">Omsider meer og meer</l>
+                        <l xml:id="idm139893711825328">Man kiedtes ved, tidt uden Frugt, at tigge</l>
+                        <l xml:id="idm139893711824880">Til Trykken saadant Privilegium.</l>
+                        <l xml:id="idm139893711824448">Man tabte Vid med Modet, og blev dum;</l>
+                        <l xml:id="idm139893711824016">Og endelig man skrev aldeles ikke.</l>
+                     </lg>
+                     <lg xml:id="idm139893711823456">
+                        <l xml:id="idm139893711823200">Bestandig meer og meer svandt Staden hen,</l>
+                        <l xml:id="idm139893711822752">Thi Muserne Censurens Sæde skyede,</l>
+                        <l xml:id="idm139893711822288">Og Handel, Kunster, og Fabriker slyede</l>
+                        <l xml:id="idm139893711821856">Med dem i Hast til andre Kyster hen,</l>
+                        <l xml:id="idm139893711821424">Hvor Fred og Friehed trygt de kunde nyde.</l>
+                     </lg>
+                     <pb n="182" xml:id="s182" facs="adl/baggesen/baggesen1/bagg1182"/>
+                     <lg xml:id="idm139893711819648">
+                        <l xml:id="idm139893711819392">Den hele Bye blev fyldt med Graad og Sorg,</l>
+                        <l xml:id="idm139893711818944">Ja! græd, ulykkelige Kallundborg!</l>
+                        <l xml:id="idm139893711818480">Vee! Vee dig, arme Stad! din lærde Hæder</l>
+                        <l xml:id="idm139893711818000">Er nu fordunklet! Mæsket Dumhed leer</l>
+                        <l xml:id="idm139893711817520">Paa den Ruin, hvor Kundskab hungrig græder!</l>
+                     </lg>
+                  </lg>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

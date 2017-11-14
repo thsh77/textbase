@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Magnifico, amplissimo ... [digt til niels kaas]</title>
+            <author>Brahe, Tycho</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139660972232608">
+                     <name xml:id="idm139660972232352">
+                        <surname xml:id="idm139660972232224">Brahe</surname>, <forename xml:id="idm139660972231792">Tycho</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139660972231504">Tychonis Brahe Dani opera omnia</title>
+                  <pubPlace xml:id="idm139660972231200">Hauniæ</pubPlace>
+                  <date xml:id="idm139660972230688">1913-29</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid54371" decls="#biblid54371">
+            <pb n="181" xml:id="n181" facs="adl/tycho/tycho09/tycho9181"/>
+            <pb n="182" xml:id="n182" facs="adl/tycho/tycho09/tycho9182"/>
+            <pb n="183" xml:id="n183" facs="adl/tycho/tycho09/tycho9183"/>
+            <pb n="184" xml:id="n184" facs="adl/tycho/tycho09/tycho9184"/>
+            <pb n="185" xml:id="n185" facs="adl/tycho/tycho09/tycho9185"/>
+            <pb n="186" xml:id="n186" facs="adl/tycho/tycho09/tycho9186"/>
+            <p xml:id="idm139660972132000"/>
+         </div>
+      </body>
+   </text>
+</TEI>

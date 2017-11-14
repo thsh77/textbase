@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Første samtale mellem tvende handelsmænd</title>
+            <author>Holberg, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140586845515760">
+                     <name xml:id="idm140586845515504">
+                        <surname xml:id="idm140586845515376">Holberg</surname>, <forename xml:id="idm140586845514912">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140586845514624">Værker i tolv bind</title>
+                  <title xml:id="idm140586845514320">8: Økonomi og historie</title>
+                  <pubPlace xml:id="idm140586845514000">[København]</pubPlace>
+                  <publisher xml:id="idm140586845513536">Rosenkilde og Bagger</publisher>
+                  <date xml:id="idm140586845513200">1969-1971</date>
+                  <biblScope>13-24</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid54198" decls="#biblid54198">
+            <body xml:id="idm140586845458336">
+               <pb n="14" facs="adl/holberg/holberg8/holb8014" xml:id="idm140586845458080"/>
+               <pb n="15" facs="adl/holberg/holberg8/holb8015" xml:id="idm140586845457312"/>
+               <pb n="16" facs="adl/holberg/holberg8/holb8016" xml:id="idm140586845456544"/>
+               <pb n="17" facs="adl/holberg/holberg8/holb8017" xml:id="idm140586845455776"/>
+               <pb n="18" facs="adl/holberg/holberg8/holb8018" xml:id="idm140586845455008"/>
+               <pb n="19" facs="adl/holberg/holberg8/holb8019" xml:id="idm140586845454240"/>
+               <pb n="20" facs="adl/holberg/holberg8/holb8020" xml:id="idm140586845453472"/>
+               <pb n="21" facs="adl/holberg/holberg8/holb8021" xml:id="idm140586845452704"/>
+               <pb n="22" facs="adl/holberg/holberg8/holb8022" xml:id="idm140586845451936"/>
+               <pb n="23" facs="adl/holberg/holberg8/holb8023" xml:id="idm140586845451168"/>
+               <pb n="24" facs="adl/holberg/holberg8/holb8024" xml:id="idm140586845450400"/>
+               <p xml:id="idm140586845449632"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

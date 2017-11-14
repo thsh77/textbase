@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til kitty</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140264665681152">
+                     <name xml:id="idm140264665680896">
+                        <surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140264665680016">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140264665679728">: </title>
+                  <pubPlace xml:id="idm140264665679472">[København]</pubPlace>
+                  <publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140264665678640">1982-</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid69445" decls="#biblid69445">
+            <head xml:id="idm140264665622144">
+               <hi rend="italics" xml:id="idm140264665621888">TIL KITTY</hi>
+            </head>
+            <lg xml:id="idm140264665621072">
+               <l xml:id="idm140264665620816">Jeg skylder dig mer, end Fornuften</l>
+               <l xml:id="idm140264665620432">Og Mennesker tror</l>
+               <l xml:id="idm140264665620016">(Endskønt du blev Foraarsduften,</l>
+               <l xml:id="idm140264665619552">Som fylder min Jord) -</l>
+            </lg>
+            <lg xml:id="idm140264665619008">
+               <l xml:id="idm140264665618752">Fordi du, foruden at mætte</l>
+               <l xml:id="idm140264665618304">Mit Væsen med Vaar,</l>
+               <l xml:id="idm140264665617856">Forunderlig vidste at sætte</l>
+               <l xml:id="idm140264665617392">De dybeste Saar -</l>
+            </lg>
+            <lg xml:id="idm140264665616848">
+               <l xml:id="idm140264665616592">Fordi du - ej blot ved at smærte</l>
+               <l xml:id="idm140264665616128">En Ven uden Værn,</l>
+               <l xml:id="idm140264665615696">Men drømmende tro ved mit Hjærte,</l>
+               <l xml:id="idm140264665615232">Naar jeg var dig fjærn -</l>
+            </lg>
+            <lg xml:id="idm140264665614656">
+               <l xml:id="idm140264665614400">Har gjort mig (vi lader nu falde</l>
+               <l xml:id="idm140264665614016">Hver Spøg og hver Strid)</l>
+               <l xml:id="idm140264665613568">Den lykkeligste af alle,</l>
+               <l xml:id="idm140264665613184">Som var i min Tid.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

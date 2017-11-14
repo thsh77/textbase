@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stuart mill</title>
+            <author>Brandes, Georg</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139925172720896">
+                     <name xml:id="idm139925172720640">
+                        <surname xml:id="idm139925172720512">Brandes</surname>, <forename xml:id="idm139925172720048">Georg</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139925172719760">Samlede Skrifter</title>
+                  <pubPlace xml:id="idm139925172719472">København</pubPlace>
+                  <date xml:id="idm139925172718960">1899-1910</date>
+                  <biblScope>531-549</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid57813" decls="#biblid57813">
+            <body xml:id="idm139925172254528">
+               <pb n="532" facs="adl/brandes/brand9/bran9532" xml:id="idm139925172254272"/>
+               <pb n="533" facs="adl/brandes/brand9/bran9533" xml:id="idm139925172253504"/>
+               <pb n="534" facs="adl/brandes/brand9/bran9534" xml:id="idm139925172252688"/>
+               <pb n="535" facs="adl/brandes/brand9/bran9535" xml:id="idm139925172251920"/>
+               <pb n="536" facs="adl/brandes/brand9/bran9536" xml:id="idm139925172251152"/>
+               <pb n="537" facs="adl/brandes/brand9/bran9537" xml:id="idm139925172250384"/>
+               <pb n="538" facs="adl/brandes/brand9/bran9538" xml:id="idm139925172249568"/>
+               <pb n="539" facs="adl/brandes/brand9/bran9539" xml:id="idm139925172248752"/>
+               <pb n="540" facs="adl/brandes/brand9/bran9540" xml:id="idm139925172247936"/>
+               <pb n="541" facs="adl/brandes/brand9/bran9541" xml:id="idm139925172247168"/>
+               <pb n="542" facs="adl/brandes/brand9/bran9542" xml:id="idm139925172246352"/>
+               <pb n="543" facs="adl/brandes/brand9/bran9543" xml:id="idm139925172245584"/>
+               <pb n="544" facs="adl/brandes/brand9/bran9544" xml:id="idm139925172244768"/>
+               <pb n="545" facs="adl/brandes/brand9/bran9545" xml:id="idm139925172244000"/>
+               <pb n="546" facs="adl/brandes/brand9/bran9546" xml:id="idm139925172243232"/>
+               <pb n="547" facs="adl/brandes/brand9/bran9547" xml:id="idm139925172242416"/>
+               <pb n="548" facs="adl/brandes/brand9/bran9548" xml:id="idm139925172241648"/>
+               <pb n="549" facs="adl/brandes/brand9/bran9549" xml:id="idm139925172240880"/>
+               <p xml:id="idm139925172240064"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

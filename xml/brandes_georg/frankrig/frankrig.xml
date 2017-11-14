@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Frankrig</title>
+            <author>Brandes, Georg</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140687029675216">
+                     <name xml:id="idm140687029674960">
+                        <surname xml:id="idm140687029674832">Brandes</surname>, <forename xml:id="idm140687029674400">Georg</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140687029674112">Samlede Skrifter</title>
+                  <pubPlace xml:id="idm140687029673824">København</pubPlace>
+                  <date xml:id="idm140687029673312">1899-1910</date>
+                  <biblScope>145-170</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid55242" decls="#biblid55242">
+            <body xml:id="idm140687029504832">
+               <pb n="146" facs="adl/brandes/brand11/bran11146" xml:id="idm140687029504576"/>
+               <pb n="147" facs="adl/brandes/brand11/bran11147" xml:id="idm140687029503808"/>
+               <pb n="148" facs="adl/brandes/brand11/bran11148" xml:id="idm140687029502992"/>
+               <pb n="149" facs="adl/brandes/brand11/bran11149" xml:id="idm140687029502224"/>
+               <pb n="150" facs="adl/brandes/brand11/bran11150" xml:id="idm140687029501408"/>
+               <pb n="151" facs="adl/brandes/brand11/bran11151" xml:id="idm140687029500592"/>
+               <pb n="152" facs="adl/brandes/brand11/bran11152" xml:id="idm140687029499824"/>
+               <pb n="153" facs="adl/brandes/brand11/bran11153" xml:id="idm140687029499056"/>
+               <pb n="154" facs="adl/brandes/brand11/bran11154" xml:id="idm140687029498288"/>
+               <pb n="155" facs="adl/brandes/brand11/bran11155" xml:id="idm140687029497520"/>
+               <pb n="156" facs="adl/brandes/brand11/bran11156" xml:id="idm140687029496704"/>
+               <pb n="157" facs="adl/brandes/brand11/bran11157" xml:id="idm140687029495888"/>
+               <pb n="158" facs="adl/brandes/brand11/bran11158" xml:id="idm140687029495120"/>
+               <pb n="159" facs="adl/brandes/brand11/bran11159" xml:id="idm140687029494352"/>
+               <pb n="160" facs="adl/brandes/brand11/bran11160" xml:id="idm140687029493536"/>
+               <pb n="161" facs="adl/brandes/brand11/bran11161" xml:id="idm140687029492768"/>
+               <pb n="162" facs="adl/brandes/brand11/bran11162" xml:id="idm140687029492000"/>
+               <pb n="163" facs="adl/brandes/brand11/bran11163" xml:id="idm140687029491232"/>
+               <pb n="164" facs="adl/brandes/brand11/bran11164" xml:id="idm140687029490416"/>
+               <pb n="165" facs="adl/brandes/brand11/bran11165" xml:id="idm140687029489648"/>
+               <pb n="166" facs="adl/brandes/brand11/bran11166" xml:id="idm140687029488880"/>
+               <pb n="167" facs="adl/brandes/brand11/bran11167" xml:id="idm140687029488112"/>
+               <pb n="168" facs="adl/brandes/brand11/bran11168" xml:id="idm140687029487344"/>
+               <pb n="169" facs="adl/brandes/brand11/bran11169" xml:id="idm140687029486576"/>
+               <pb n="170" facs="adl/brandes/brand11/bran11170" xml:id="idm140687029485760"/>
+               <p xml:id="idm140687029484992"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

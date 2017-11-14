@@ -1,0 +1,574 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gudstjeneste</title>
+            <author>Heiberg, Johan Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140194652552576">
+                     <name xml:id="idm140194652552320">
+                        <surname xml:id="idm140194652552192">Heiberg</surname>, <forename xml:id="idm140194652551728">Johan Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140194652551440">Nye digte - 1841</title>
+                  <pubPlace xml:id="idm140194652551152">[København]</pubPlace>
+                  <pubPlace xml:id="idm140194652550688">[Valby]</pubPlace>
+                  <publisher xml:id="idm140194652550224">Det Danske Sprog- og Litteraturselskab</publisher>
+                  <publisher xml:id="idm140194652549920">Borgen</publisher>
+                  <date xml:id="idm140194652549584">cop. 1990</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid54602" decls="#biblid54602">
+            <head xml:id="idm140194652484512">Gudstjeneste<lb xml:id="idm140194652484224"/>
+               <hi rend="italics" xml:id="idm140194652483968">En Foraars-Phantasie</hi>
+            </head>
+            <pb n="8" xml:id="s8" facs="adl/heibergjl/heibergjl5/heibergjl5008"/>
+            <pb n="9" xml:id="s9" facs="adl/heibergjl/heibergjl5/heibergjl5009"/>
+            <sp xml:id="idm140194652480944">
+               <speaker xml:id="idm140194652480688">
+                  <hi rend="italics" xml:id="idm140194652480432">Digteren</hi>
+               </speaker>
+               <lg xml:id="idm140194652479616">
+                  <l xml:id="idm140194652479360">Pindsemorgen! o hvor skjøn!</l>
+                  <l xml:id="idm140194652478896">Skoven vinker lysegrøn</l>
+                  <l xml:id="idm140194652478448">Bort fra Staden, i hvis Gader</l>
+                  <l xml:id="idm140194652478064">Pene Folk af begge Kjøn</l>
+                  <l xml:id="idm140194652477616">Vandre stadseligt i Rader.</l>
+                  <l xml:id="idm140194652477232">Stadens Kirkeklokkers Klang</l>
+                  <l xml:id="idm140194652476848">End mig følger paa min Gang;</l>
+                  <l xml:id="idm140194652476384">Men til Skoven gaaer min Vei,</l>
+                  <l xml:id="idm140194652476000">Der jeg meer dem hører ei;</l>
+                  <l xml:id="idm140194652475552">Der mit Blik kun hviler paa</l>
+                  <l xml:id="idm140194652475168">Tusind stumme Klokker smaa,</l>
+                  <l xml:id="idm140194652474784">Nogle hvide, andre blaae,</l>
+                  <l xml:id="idm140194652474400">Som i Ly for Solens Flammer</l>
+                  <l xml:id="idm140194652474016">I det friske Skovgræs staae</l>
+                  <l xml:id="idm140194652473552">Hos de mosbegroede Stammer.</l>
+                  <l xml:id="idm140194652473168">Hist, hvor Skoven breder ud</l>
+                  <l xml:id="idm140194652472784">Majestætisk sine Kroner,</l>
+                  <l xml:id="idm140194652472336">Der er Templet for min Gud,</l>
+                  <l xml:id="idm140194652471952">Der har Fuglen Orgeltoner</l>
+                  <l xml:id="idm140194652471568">Paa Naturens Pindsefest,</l>
+                  <l xml:id="idm140194652471184">Og der præker bedre Præst</l>
+                  <l xml:id="idm140194652470736">End i hine skumle Haller.</l>
+                  <l xml:id="idm140194652470352">Hvor prosaisk Dagslys falder</l>
+                  <l xml:id="idm140194652469968">Gjennem matte Ruder ind,</l>
+                  <l xml:id="idm140194652469584">Medens her ved sagte Vind</l>
+                  <l xml:id="idm140194652469200">Under Løvet Lyset spiller</l>
+                  <l xml:id="idm140194652468752">I et gjennemsigtigt Grønt,</l>
+                  <l xml:id="idm140194652468304">Tusind Gange mere skjønt</l>
+                  <l xml:id="idm140194652467856">End blandt hvide Kirkepiller.</l>
+                  <l xml:id="idm140194652467472">Her, Natur, er Tabernaklet,</l>
+                  <l xml:id="idm140194652467040">Hvor din Helligaand jo boer,</l>
+                  <pb n="10" xml:id="s10" facs="adl/heibergjl/heibergjl5/heibergjl5010"/>
+                  <l xml:id="idm140194652465504">Som gjør Pindsedags-Miraklet,</l>
+                  <l xml:id="idm140194652465040">Hvorom hist kun føres Ord;</l>
+                  <l xml:id="idm140194652464592">Thi det Sprog, som dine Tunger</l>
+                  <l xml:id="idm140194652464160">Tale med en evig Røst,</l>
+                  <l xml:id="idm140194652463712">Over hele Verden runger,</l>
+                  <l xml:id="idm140194652463280">Og forstaaes af hvert et Bryst.</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652462592">
+               <speaker xml:id="idm140194652462336">
+                  <hi rend="italics" xml:id="idm140194652462080">Pan</hi>
+               </speaker>
+               <lg xml:id="idm140194652461296">
+                  <l xml:id="idm140194652461040">Vær velkommen til min Bo,</l>
+                  <l xml:id="idm140194652460592">Til min tause, dybe Ro!</l>
+                  <l xml:id="idm140194652460176">Her er tyst og her er stille;</l>
+                  <l xml:id="idm140194652459744">Vil du dig fra Mængden skille,</l>
+                  <l xml:id="idm140194652459280">Kom, o Digter, da herud!</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652458592">
+               <speaker xml:id="idm140194652458336">
+                  <hi rend="italics" xml:id="idm140194652458080">Digteren</hi>
+               </speaker>
+               <lg xml:id="idm140194652457264">
+                  <l xml:id="idm140194652457008">Ha! hvo taler her?</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652456336">
+               <speaker xml:id="idm140194652456080">
+                  <hi rend="italics" xml:id="idm140194652455824">Pan</hi>
+               </speaker>
+               <lg xml:id="idm140194652455040">
+                  <l xml:id="idm140194652454784">Din Gud</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652454112">
+               <speaker xml:id="idm140194652453856">
+                  <hi rend="italics" xml:id="idm140194652453600">Digteren</hi>
+               </speaker>
+               <lg xml:id="idm140194652452784">
+                  <l xml:id="idm140194652452528">Min?</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652451856">
+               <speaker xml:id="idm140194652451600">
+                  <hi rend="italics" xml:id="idm140194652451344">Pan</hi>
+               </speaker>
+               <lg xml:id="idm140194652450560">
+                  <l xml:id="idm140194652450304">Ja, din.</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652449632">
+               <speaker xml:id="idm140194652449376">
+                  <hi rend="italics" xml:id="idm140194652449120">Digteren</hi>
+               </speaker>
+               <lg xml:id="idm140194652448304">
+                  <l xml:id="idm140194652448048">Jeg ser ham ikke.</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652447376">
+               <speaker xml:id="idm140194652447120">
+                  <hi rend="italics" xml:id="idm140194652446864">Pan</hi>
+               </speaker>
+               <lg xml:id="idm140194652446080">
+                  <l xml:id="idm140194652445824">Nei, thi selv om du er kjæk,</l>
+                  <l xml:id="idm140194652445360">Du betoges dog af Skræk,</l>
+                  <l xml:id="idm140194652444912">Hvis han stod for dine Blikke.</l>
+                  <l xml:id="idm140194652444480">Men min hemmelige Stemme</l>
+                  <l xml:id="idm140194652444048">Til dit Digter-Øre naaer,</l>
+                  <l xml:id="idm140194652443600">Og mit Ord skal du fornemme,</l>
+                  <l xml:id="idm140194652443168">Mens du for mit Alter staaer.</l>
+                  <pb n="11" xml:id="s11" facs="adl/heibergjl/heibergjl5/heibergjl5011"/>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652441376">
+               <speaker xml:id="idm140194652441120">
+                  <hi rend="italics" xml:id="idm140194652440864">Digteren</hi>
+               </speaker>
+               <lg xml:id="idm140194652440048">
+                  <l xml:id="idm140194652439792">Mere jeg forlanger ikke;</l>
+                  <l xml:id="idm140194652439360">Det er Nok, naar kun jeg veed,</l>
+                  <l xml:id="idm140194652438928">At jeg i min Eensomhed</l>
+                  <l xml:id="idm140194652438512">Sees af dine Guddomsblikke;</l>
+                  <l xml:id="idm140194652438080">Det er Nok, naar paa min Gang,</l>
+                  <l xml:id="idm140194652437648">Hvergang jeg til dig tør tale,</l>
+                  <l xml:id="idm140194652437184">Du med Svar mig vil husvale</l>
+                  <l xml:id="idm140194652436752">Og begeistre mig til Sang.</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652436064">
+               <speaker xml:id="idm140194652435808">
+                  <hi rend="italics" xml:id="idm140194652435552">Pan</hi>
+               </speaker>
+               <lg xml:id="idm140194652434768">
+                  <l xml:id="idm140194652434512">Husk dog: kun paa eensom Vei</l>
+                  <l xml:id="idm140194652434080">Kan og vil din Bøn jeg høre;</l>
+                  <l xml:id="idm140194652433616">Har du Selskab, da mit Øre</l>
+                  <l xml:id="idm140194652433168">Lukkes, og jeg svarer ei.</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652432480">
+               <speaker xml:id="idm140194652432224">
+                  <hi rend="italics" xml:id="idm140194652431968">Digteren</hi>
+               </speaker>
+               <lg xml:id="idm140194652431152">
+                  <l xml:id="idm140194652430896">Just saaledes er det Ret:</l>
+                  <l xml:id="idm140194652430464">Vil jeg mig med Gud forene,</l>
+                  <l xml:id="idm140194652430032">Søger jeg en eensom Plet,</l>
+                  <l xml:id="idm140194652429584">Hvor med Gud jeg er allene.</l>
+                  <l xml:id="idm140194652429152">Der min Andagt ei forhindres</l>
+                  <l xml:id="idm140194652428720">Af en dum og døsig Flok;</l>
+                  <l xml:id="idm140194652428272">Der jeg i mit eget Indres</l>
+                  <l xml:id="idm140194652427840">Tanker finder Selskab nok;</l>
+                  <l xml:id="idm140194652427408">Der min Gang til Gud er lettet,</l>
+                  <l xml:id="idm140194652426976">Ikke mig besværlig gjort;</l>
+                  <l xml:id="idm140194652426528">Uden Agt paa Klokkeslettet</l>
+                  <l xml:id="idm140194652426096">Gaaer jeg ind ad Templets Port;</l>
+                  <l xml:id="idm140194652425664">Disse hvalte Søilegange,</l>
+                  <l xml:id="idm140194652425216">Mere dybe, mere lange,</l>
+                  <l xml:id="idm140194652424800">Aabne staae ved Nat og Dag.</l>
+                  <l xml:id="idm140194652424368">Ja, hvis i vor Stad derhenne</l>
+                  <l xml:id="idm140194652423936">Kirken aaben stod, som denne,</l>
+                  <l xml:id="idm140194652423504">O, det var en anden Sag!</l>
+                  <l xml:id="idm140194652423072">Ofte, snart ved Dagens Lue,</l>
+                  <pb n="12" xml:id="s12" facs="adl/heibergjl/heibergjl5/heibergjl5012"/>
+                  <l xml:id="idm140194652421536">Snart ved Nattens laante Skin,</l>
+                  <l xml:id="idm140194652421104">Gik jeg da med Lyst derind,</l>
+                  <l xml:id="idm140194652420672">For til Alteret at skue,</l>
+                  <l xml:id="idm140194652420240">For, med Blik til Kuppiens Bue,</l>
+                  <l xml:id="idm140194652419808">Fromt at hæve der mit Sind</l>
+                  <l xml:id="idm140194652419360">Helst jeg valgte da den Stund,</l>
+                  <l xml:id="idm140194652418928">Naar ei Sværmen var derinde,</l>
+                  <l xml:id="idm140194652418464">Og naar ikke Præstens Mund</l>
+                  <l xml:id="idm140194652418016">Fik min Andagt til at svinde;</l>
+                  <l xml:id="idm140194652417584">Kun hvor eensom Taushed boer,</l>
+                  <l xml:id="idm140194652417152">Kan min Barm af Fromhed gløde.</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652416432">
+               <speaker xml:id="idm140194652416176">
+                  <hi rend="italics" xml:id="idm140194652415920">Pan</hi>
+               </speaker>
+               <lg xml:id="idm140194652415136">
+                  <l xml:id="idm140194652414880">Ogsaa der jeg skulde møde,</l>
+                  <l xml:id="idm140194652414432">For at svare paa dit Ord</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652413744">
+               <speaker xml:id="idm140194652413488">
+                  <hi rend="italics" xml:id="idm140194652413232">Digteren</hi>
+               </speaker>
+               <lg xml:id="idm140194652412416">
+                  <l xml:id="idm140194652412160">Du i Kirken?</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652411488">
+               <speaker xml:id="idm140194652411232">
+                  <hi rend="italics" xml:id="idm140194652410976">Pan</hi>
+               </speaker>
+               <lg xml:id="idm140194652410192">
+                  <l xml:id="idm140194652409936">Selv i den,</l>
+                  <l xml:id="idm140194652409520">Naar den kun er tom og øde,</l>
+                  <l xml:id="idm140194652409056">Er jeg villig til at møde</l>
+                  <l xml:id="idm140194652408608">Den, som drages til mig hen.</l>
+                  <l xml:id="idm140194652408176">Overalt, hvor Een tør bygge,</l>
+                  <l xml:id="idm140194652407712">Skjult af Dunkelhed og Skygge,</l>
+                  <l xml:id="idm140194652407280">Uden Selskab af en Ven,</l>
+                  <l xml:id="idm140194652406864">I det Eenlige, det Tomme,</l>
+                  <l xml:id="idm140194652406432">I det Tause vil jeg komme.</l>
+                  <l xml:id="idm140194652406000">Hvor kun paa den fælles Vei</l>
+                  <l xml:id="idm140194652405536">Een sig skiller fra de Andre</l>
+                  <l xml:id="idm140194652405104">I mit Navn, for taus at vandre,</l>
+                  <l xml:id="idm140194652404672">Er tilstede hos ham jeg.</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652403984">
+               <speaker xml:id="idm140194652403728">
+                  <hi rend="italics" xml:id="idm140194652403472">En Stemme fra Skoven</hi>
+               </speaker>
+               <lg xml:id="idm140194652402656">
+                  <l xml:id="idm140194652402400">Din Hu du bort fra Eensomheden vende!</l>
+                  <l xml:id="idm140194652401968">Thi hvor To eller Trende</l>
+                  <pb n="13" xml:id="s13" facs="adl/heibergjl/heibergjl5/heibergjl5013"/>
+                  <l xml:id="idm140194652400432">I Navn af mig foreente sammentræde,</l>
+                  <l xml:id="idm140194652399952">Der er jeg selv imellem dem tilstede.</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652399264">
+               <speaker xml:id="idm140194652399008">
+                  <hi rend="italics" xml:id="idm140194652398752">Digteren</hi>
+               </speaker>
+               <lg xml:id="idm140194652397936">
+                  <l xml:id="idm140194652397680">Ha! Hvilken Stemme toner</l>
+                  <l xml:id="idm140194652397248">Fra Bøgeskovens Kroner,</l>
+                  <l xml:id="idm140194652396800">Og taler modsat Mening,</l>
+                  <l xml:id="idm140194652396384">Og raader eenlig Vandrer til Forening?</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652395696">
+               <speaker xml:id="idm140194652395440">
+                  <hi rend="italics" xml:id="idm140194652395184">Samme Stemme</hi>
+               </speaker>
+               <lg xml:id="idm140194652394368">
+                  <l xml:id="idm140194652394112">En Engels Røst du høre!</l>
+                  <l xml:id="idm140194652393664">Din Frelsers Ord han bringer til dit Øre.</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652392928">
+               <speaker xml:id="idm140194652392672">
+                  <hi rend="italics" xml:id="idm140194652392416">Digteren </hi>
+               </speaker>
+               <lg xml:id="idm140194652391600">
+                  <l xml:id="idm140194652391344">O Fugl med stærke Vinger,</l>
+                  <l xml:id="idm140194652390896">Som nu fra Træet dig til Jorden svinger,</l>
+                  <l xml:id="idm140194652390416">Imens din hulde Sang i Luften klinger!</l>
+                  <l xml:id="idm140194652389984">Jeg under Løvets Buer</l>
+                  <l xml:id="idm140194652389536">Fra Fugl til Engel dig forvandlet skuer.</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652388832">
+               <speaker xml:id="idm140194652388576">
+                  <hi rend="italics" xml:id="idm140194652388320">Engelen</hi>
+               </speaker>
+               <lg xml:id="idm140194652387504">
+                  <l xml:id="idm140194652387248">Digter! hvorfor vil du søge</l>
+                  <l xml:id="idm140194652386784">Paa en eensom Vei din Gud?</l>
+                  <l xml:id="idm140194652386352">Kun i Skoven, mellem Bøge</l>
+                  <l xml:id="idm140194652385904">Vil du lytte til hans Bud?</l>
+                  <l xml:id="idm140194652385472">Du vil stedes for ham ene,</l>
+                  <l xml:id="idm140194652385040">Da først hører du hans Ord,</l>
+                  <l xml:id="idm140194652384576">Og dig nærmere tør mene,</l>
+                  <l xml:id="idm140194652384128">End i samlet Broderchor.</l>
+                  <l xml:id="idm140194652383696">Troer du da, Gud i sin Himmel</l>
+                  <l xml:id="idm140194652383264">Fører Liv som Eremit,</l>
+                  <l xml:id="idm140194652382816">Siden du i Brødres Vrimmel</l>
+                  <l xml:id="idm140194652382368">Ei kan tale til ham frit?</l>
+                  <l xml:id="idm140194652381936">Troer du, han sig aabenbarer</l>
+                  <l xml:id="idm140194652381504">Heller for en eenlig Aand,</l>
+                  <l xml:id="idm140194652381072">End han sine Sønner svarer,</l>
+                  <l xml:id="idm140194652380608">Samlede ved fælles Baand?</l>
+                  <pb n="14" xml:id="s14" facs="adl/heibergjl/heibergjl5/heibergjl5014"/>
+                  <l xml:id="idm140194652379056">Altsaa kalder du din <hi rend="italics" xml:id="idm140194652378672">egen</hi>
+                  </l>
+                  <l xml:id="idm140194652377856">Frelser til dig i din Bøn.</l>
+                  <l xml:id="idm140194652377408">Ikke ham, som ned er stegen</l>
+                  <l xml:id="idm140194652377024">Til det<hi rend="italics" xml:id="idm140194652376736">hele</hi> faldne Kjøn,</l>
+                  <l xml:id="idm140194652375872">Ham, som vilde jordisk fødes,</l>
+                  <l xml:id="idm140194652375408">For, som Menneske, skjøndt reen,</l>
+                  <l xml:id="idm140194652374944">Med den hele Slægt at mødes,</l>
+                  <l xml:id="idm140194652374480">Og ei skille sig fra Een? -</l>
+                  <l xml:id="idm140194652374048">Gjør som han, udøv herneden</l>
+                  <l xml:id="idm140194652373584">Kjærlighed som første Bud,</l>
+                  <l xml:id="idm140194652373120">Slut dig selv til Menigheden,</l>
+                  <l xml:id="idm140194652372688">Og igjennem den til Gud</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652372016">
+               <speaker xml:id="idm140194652371760">
+                  <hi rend="italics" xml:id="idm140194652371504">Digteren</hi>
+               </speaker>
+               <lg xml:id="idm140194652370688">
+                  <l xml:id="idm140194652370432">Til Sandhed du mig hæver,</l>
+                  <l xml:id="idm140194652369984">Men vanskeligt er Offret, som du kræver.</l>
+                  <l xml:id="idm140194652369504">Ak! skamfuld jeg bekjender:</l>
+                  <l xml:id="idm140194652369072">Poeten let mod Hedenskab sig vender;</l>
+                  <l xml:id="idm140194652368640">Selv naar for Gud han knæler,</l>
+                  <l xml:id="idm140194652368176">Den gamle Adam ikke reent han qvæler.</l>
+                  <l xml:id="idm140194652367696">Vel kan man sig husvale</l>
+                  <l xml:id="idm140194652367280">I Venners Kreds ved klar, fortrolig Tale;</l>
+                  <l xml:id="idm140194652366832">Vel er det skjønt at virke</l>
+                  <l xml:id="idm140194652366384">Til fælles Øiemed i Stat og Kirke,</l>
+                  <l xml:id="idm140194652365904">Skjønt, hvor de store Kræfter sig forgrene,</l>
+                  <l xml:id="idm140194652365408">Sin egen Kraft med Manges at forene.</l>
+                  <l xml:id="idm140194652364976">O! men et Blink af Solen</l>
+                  <l xml:id="idm140194652364544">Paa tidlig Vaardag, Duften af Violen,</l>
+                  <l xml:id="idm140194652364112">En sagte kruset Vove,</l>
+                  <l xml:id="idm140194652363696">En kjølig Luftning i de tætte Skove,</l>
+                  <l xml:id="idm140194652363216">En flygtig Sky, som svæver</l>
+                  <l xml:id="idm140194652362768">Paa Himlen og for Maanens Straale bæver,</l>
+                  <l xml:id="idm140194652362288">Og dybt i Skov og Dale</l>
+                  <l xml:id="idm140194652361872">Den høitidsfulde Sang af Nattergale, -</l>
+                  <l xml:id="idm140194652361392">Alt Dette taler med saa stærk en Stemme,</l>
+                  <l xml:id="idm140194652360912">At Menneskenes Røst jeg maa forglemme. -</l>
+                  <l xml:id="idm140194652360432">Ak! jeg bør ikke nægte,</l>
+                  <l xml:id="idm140194652359984">Min Christendom er vistnok langt fra ægte,</l>
+                  <pb n="15" xml:id="s15" facs="adl/heibergjl/heibergjl5/heibergjl5015"/>
+                  <l xml:id="idm140194652358400">Thi Livet, som Naturen mig bebuder,</l>
+                  <l xml:id="idm140194652357968">Er helst i Samqvem med de gamle Guder.</l>
+                  <l xml:id="idm140194652357536">Jeg taler med Dryader</l>
+                  <l xml:id="idm140194652357120">I Træets Løv, i Bækken med Najader;</l>
+                  <l xml:id="idm140194652356640">Ved Dagens hede Lue</l>
+                  <l xml:id="idm140194652356224">Jeg seer Apollo med hans gyldne Bue,</l>
+                  <l xml:id="idm140194652355792">Og seent i Aftenstunden</l>
+                  <l xml:id="idm140194652355376">Jeg øiner fjernt hans Søster, snart i Lunden,</l>
+                  <l xml:id="idm140194652354880">I Kreds af hendes Terner,</l>
+                  <l xml:id="idm140194652354448">Og snart paa Himlen, i et Chor af Stjerner.</l>
+                  <l xml:id="idm140194652354000">Mod alle Skikkelser min Tanke haster,</l>
+                  <l xml:id="idm140194652353568">Og hvad den nylig greb, den atter kaster,</l>
+                  <l xml:id="idm140194652353120">Indtil den Hvile finder</l>
+                  <l xml:id="idm140194652352704">Hos Pan, den Guders Gud, som aldrig svinder,</l>
+                  <l xml:id="idm140194652352256">Ham, som fra Skabningstiden</l>
+                  <l xml:id="idm140194652351824">Stod det helleniske Parnas ved Siden,</l>
+                  <l xml:id="idm140194652351392">En Skygge, hvori Gudeverdnen bygger,</l>
+                  <l xml:id="idm140194652350960">Og som gjør alle Guderne til Skygger,</l>
+                  <l xml:id="idm140194652350480">Thi naar de alle drage</l>
+                  <l xml:id="idm140194652350064">Fra Tanken bort, saa bliver han tilbage,</l>
+                  <l xml:id="idm140194652349616">Som den Uendelige,</l>
+                  <l xml:id="idm140194652349200">Der bliver, naar de Endelige vige,</l>
+                  <l xml:id="idm140194652348768">Jeg fatter meer og mere,</l>
+                  <l xml:id="idm140194652348336">At, vil man om sin Gud philosophere,</l>
+                  <l xml:id="idm140194652347904">Da kommer man til Pan. Paa Indras Himmel</l>
+                  <l xml:id="idm140194652347456">Han skjuler sig imellem Guders Vrimmel,</l>
+                  <l xml:id="idm140194652347024">Men kommer til Bramanen, som i Ørken,</l>
+                  <l xml:id="idm140194652346544">Paa hede Sand, i Tørken,</l>
+                  <l xml:id="idm140194652346096">Med opspiilt Øielaag mod Solens Straaler,</l>
+                  <l xml:id="idm140194652345616">I eensom Selvbetragtning Himlen maaler.</l>
+                  <l xml:id="idm140194652345184">Som Sphinx for alle Tider,</l>
+                  <l xml:id="idm140194652344752">Han slumrer i Egyptens Pyramider.</l>
+                  <l xml:id="idm140194652344320">Og i det Skjønheds-Rige,</l>
+                  <l xml:id="idm140194652343872">Hvor Hellas satte de Udødelige,</l>
+                  <l xml:id="idm140194652343408">Hvor Digteren har hjemme,</l>
+                  <l xml:id="idm140194652342976">Som i Naturen hører deres Stemme,</l>
+                  <l xml:id="idm140194652342512">Der hvisker han i Løvet,</l>
+                  <l xml:id="idm140194652342064">I hver en Duft, fra Blomsterbægret røvet,</l>
+                  <pb n="16" xml:id="s16" facs="adl/heibergjl/heibergjl5/heibergjl5016"/>
+                  <l xml:id="idm140194652340432">I Nattevindens Susen,</l>
+                  <l xml:id="idm140194652340016">I Kildens Tonefald, i Havets Brusen,</l>
+                  <l xml:id="idm140194652339584">I Dyrets qvalte Toner,</l>
+                  <l xml:id="idm140194652339168">I Fuglens Qviddren under Skovens Kroner.</l>
+                  <l xml:id="idm140194652338720">Thi naar Naturen nødes</l>
+                  <l xml:id="idm140194652338272">Til, skilt fra Guderne, som i den bygge,</l>
+                  <l xml:id="idm140194652337824">I eensom Majestæt sig selv at smykke,</l>
+                  <l xml:id="idm140194652337344">Med ham tilsidst vi mødes,</l>
+                  <l xml:id="idm140194652336896">Der hersker, naar de Andre maae forstødes.</l>
+                  <l xml:id="idm140194652336416">For Socrates de mange Guder svinde,</l>
+                  <l xml:id="idm140194652335984">Han troer kun paa sin Genius derinde;</l>
+                  <l xml:id="idm140194652335552">Og dennes indre Seen</l>
+                  <l xml:id="idm140194652335136">Hos Plato hæves panisk til Ideen.</l>
+                  <l xml:id="idm140194652334672">Endogsaa Mosaismen,</l>
+                  <l xml:id="idm140194652334256">Som fra Naturen skiller</l>
+                  <l xml:id="idm140194652333840">Sin Gud, og fjernt ham stiller,</l>
+                  <l xml:id="idm140194652333408">Har jo Spinoza endt i Pantheismen. -</l>
+                  <l xml:id="idm140194652332976">Jeg veed, kun Christi Lære</l>
+                  <l xml:id="idm140194652332528">Kan sikkert Hjem for Tankens Grubien være;</l>
+                  <l xml:id="idm140194652332048">Kun den har Skov og Huler</l>
+                  <l xml:id="idm140194652331616">Og Grotter, hvori Pan sig ikke skjuler.</l>
+                  <l xml:id="idm140194652331184">Men ogsaa der er Gjærdet</l>
+                  <l xml:id="idm140194652330736">Ei allevegne lukket;</l>
+                  <l xml:id="idm140194652330320">Man troer, at protestantisk man har bukket</l>
+                  <l xml:id="idm140194652329872">For Gud, - men det var Pan! man staaer forfærdet.</l>
+                  <l xml:id="idm140194652329376">Thi Gud man atter fjerner</l>
+                  <l xml:id="idm140194652328944">Fra Verden, fra Naturen,</l>
+                  <l xml:id="idm140194652328512">Forskandser sig mod ham ved Prosamuren,</l>
+                  <l xml:id="idm140194652328080">Og troer, han bliver nok bag sine Stjerner.</l>
+                  <l xml:id="idm140194652327632">Men dog for ham at ære,</l>
+                  <l xml:id="idm140194652327184">Man samles, for maaskee ham at behage,</l>
+                  <l xml:id="idm140194652326752">Paa visse Timer og paa visse Dage;</l>
+                  <l xml:id="idm140194652326320">Hans Tjeneste skal en Forretning være. -</l>
+                  <l xml:id="idm140194652325840">Nei! kald ham hid tilbage,</l>
+                  <l xml:id="idm140194652325408">Og sæt hans Naades dyrebare Mærker</l>
+                  <l xml:id="idm140194652324928">Iblandt Naturens ubevidste Værker:</l>
+                  <l xml:id="idm140194652324464">Lad Korset plantes mellem vilde Bøge,</l>
+                  <l xml:id="idm140194652323984">At Skovens Sanger til dets Green kan søge,</l>
+                  <pb n="17" xml:id="s17" facs="adl/heibergjl/heibergjl5/heibergjl5017"/>
+                  <l xml:id="idm140194652322400">Gjør hver en Bakke til et Golgatha;</l>
+                  <l xml:id="idm140194652321920">Lad Klosterkirken hæve sig i Lunden,</l>
+                  <l xml:id="idm140194652321440">Og Klokken ringe fromt i Aftenstunden,</l>
+                  <l xml:id="idm140194652321008">Mens Andagt kalder Sjælene herfra;</l>
+                  <l xml:id="idm140194652320544">Lad Blomsten slynges om Madonnas Alter,</l>
+                  <l xml:id="idm140194652320112">Lad Dyret qvæges paa Sanct Antons Fest,</l>
+                  <l xml:id="idm140194652319632">Befolk hver Skov med Helgeners Gestalter,</l>
+                  <l xml:id="idm140194652319184">Og byd Naturens hele Kreds til Gjæst!</l>
+                  <l xml:id="idm140194652318704">Da vil og Digteren til Festen komme,</l>
+                  <l xml:id="idm140194652318272">Med hellig Andagt og med Tanker fromme,</l>
+                  <l xml:id="idm140194652317840">O Alles Gud, i dine Helligdomme,</l>
+                  <l xml:id="idm140194652317408">Hvor selv Naturen føres</l>
+                  <l xml:id="idm140194652316960">Til dig, og helliggjøres,</l>
+                  <l xml:id="idm140194652316512">Og det Profane stoler</l>
+                  <l xml:id="idm140194652316096">Paa Stemplet af de hellige Symboler.</l>
+                  <l xml:id="idm140194652315664">Men her, hvor ei man vil Catholicisme,</l>
+                  <l xml:id="idm140194652315232">Hvor hvert et ydre Holdningspunkt kun svigter,</l>
+                  <l xml:id="idm140194652314784">Her kan en stakkels Digter</l>
+                  <l xml:id="idm140194652314352">Ei undgaae Pantheisme.</l>
+                  <l xml:id="idm140194652313936">Hos ham ei Feilen stikker,</l>
+                  <l xml:id="idm140194652313504">Det Secten er, som skranter;</l>
+                  <l xml:id="idm140194652313072">I Himlen er vist alle Catholiker.</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652312384">
+               <speaker xml:id="idm140194652312128">
+                  <hi rend="italics" xml:id="idm140194652311872">Engelen</hi>
+               </speaker>
+               <lg xml:id="idm140194652311056">
+                  <l xml:id="idm140194652310800">Nei, vi er Protestanter.</l>
+                  <l xml:id="idm140194652310368">Du, som om Naturen sjunger</l>
+                  <l xml:id="idm140194652309936">Med begeistret Røst, og troer</l>
+                  <l xml:id="idm140194652309472">At forstaae dens tusind Tunger</l>
+                  <l xml:id="idm140194652309040">Som et eneste Guds Ord,</l>
+                  <l xml:id="idm140194652308624">Klares lad dit Sind, dit Øie,</l>
+                  <l xml:id="idm140194652308160">See den Stræben i hvert Blad</l>
+                  <l xml:id="idm140194652307696">Imod Korset sig at bøie,</l>
+                  <l xml:id="idm140194652307248">Sole sig i Naadens Bad.</l>
+                  <l xml:id="idm140194652306832">Hvorfor plante Kors i Skoven?</l>
+                  <l xml:id="idm140194652306400">Er ei Korset overalt,</l>
+                  <l xml:id="idm140194652305984">Her paa Jorden og foroven,</l>
+                  <l xml:id="idm140194652305552">I hver levende Gestalt?</l>
+                  <pb n="18" xml:id="s18" facs="adl/heibergjl/heibergjl5/heibergjl5018"/>
+                  <l xml:id="idm140194652303984">See det, som sig bør en Sanger,</l>
+                  <l xml:id="idm140194652303520">I din stille Tankes Læ;</l>
+                  <l xml:id="idm140194652303072">Neppe du da meer forlanger</l>
+                  <l xml:id="idm140194652302640">Her at skue det af Træ.</l>
+                  <l xml:id="idm140194652302192">Du, som fører Ord paa Læben,</l>
+                  <l xml:id="idm140194652301728">Veed du ei om Det Besked,</l>
+                  <l xml:id="idm140194652301296">Hvorom i sin tause Stræben</l>
+                  <l xml:id="idm140194652300848">Ubevidst Naturen veed?</l>
+                  <l xml:id="idm140194652300432">Troer du ei, den dunkelt mærker,</l>
+                  <l xml:id="idm140194652299968">Fra den Tid, da Christus her</l>
+                  <l xml:id="idm140194652299536">Gjorde sine Underværker,</l>
+                  <l xml:id="idm140194652299088">Har den faaet et større Værd?</l>
+                  <l xml:id="idm140194652298624">Troer du ei, den dunkelt længes</l>
+                  <l xml:id="idm140194652298160">Efter den Forløsningsstund,</l>
+                  <l xml:id="idm140194652297696">Da, naar Alt for Thronen trænges,</l>
+                  <l xml:id="idm140194652297232">Ogsaa den af Herrens Mund</l>
+                  <l xml:id="idm140194652296800">Høre skal det Ord, som lyder:</l>
+                  <l xml:id="idm140194652296336">»Gjør min Villie! følg mit Bud!</l>
+                  <l xml:id="idm140194652295904">»Jeg din tunge Lænke bryder,</l>
+                  <l xml:id="idm140194652295472">»Løser dig af Fængslet ud.« -</l>
+                  <l xml:id="idm140194652295040">Digter! see med Digter-Øie,</l>
+                  <l xml:id="idm140194652294576">Og med Digter-Øre hør,</l>
+                  <l xml:id="idm140194652294128">Og Naturen vil sig bøie</l>
+                  <l xml:id="idm140194652293680">Mod dit Blik, med kastet Slør,</l>
+                  <l xml:id="idm140194652293216">Den vil klinge for dit Øre,</l>
+                  <l xml:id="idm140194652292752">Med Sordinen taget bort,</l>
+                  <l xml:id="idm140194652292320">Og et Spil dig lade høre,</l>
+                  <l xml:id="idm140194652291872">I hvis Klang du kjender vort.</l>
+                  <l xml:id="idm140194652291440">See dig om! Naturen sørger</l>
+                  <l xml:id="idm140194652290992">I sin Ro, sin Eensomhed:</l>
+                  <l xml:id="idm140194652290560">Aabnes Blomsten, dig den spørger,</l>
+                  <l xml:id="idm140194652290096">Om du ei dens Frelse veed;</l>
+                  <l xml:id="idm140194652289664">Aftenrøden, naar den skriver</l>
+                  <l xml:id="idm140194652289200">Sit Godnat i Skyers Lag,</l>
+                  <l xml:id="idm140194652288768">Spørger, om ei snart den bliver</l>
+                  <l xml:id="idm140194652288304">Forbud for en salig Dag.</l>
+                  <l xml:id="idm140194652287872">Sine halvt forstaaede Tanker,</l>
+                  <l xml:id="idm140194652287440">Dunkel Smerte, dunkel Lyst</l>
+                  <pb n="19" xml:id="s19" facs="adl/heibergjl/heibergjl5/heibergjl5019"/>
+                  <l xml:id="idm140194652285904">Vil Naturen for et Bryst</l>
+                  <l xml:id="idm140194652285472">Skrifte, hvori Hjertet banker;</l>
+                  <l xml:id="idm140194652285040">Sine hemmeligste Skatte</l>
+                  <l xml:id="idm140194652284624">Den med Uskyld peger paa;</l>
+                  <l xml:id="idm140194652284192">Kunde Mennesket kun fatte!</l>
+                  <l xml:id="idm140194652283760">Kunde Mennesket forstaae!</l>
+                  <l xml:id="idm140194652283328">O! da hørte han i Løvet</l>
+                  <l xml:id="idm140194652282880">Og paa Lufts og Bølgers Vei</l>
+                  <l xml:id="idm140194652282416">Kun en Stemme, som bedrøvet</l>
+                  <l xml:id="idm140194652281952">Klager, at den høres ei.</l>
+                  <l xml:id="idm140194652281504">Hør den, Digter! lyt derefter!</l>
+                  <l xml:id="idm140194652281040">Det er dig, den taler til,</l>
+                  <l xml:id="idm140194652280608">For at du de dunkle Kræfter</l>
+                  <l xml:id="idm140194652280144">Klare skal ved Strængespil.</l>
+                  <l xml:id="idm140194652279680">Al Naturen dine Blikke</l>
+                  <l xml:id="idm140194652279264">Søger og din Kjærlighed;</l>
+                  <l xml:id="idm140194652278816">Elsker du din Broder ikke,</l>
+                  <l xml:id="idm140194652278384">O saa fly Naturen med!</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm140194652277712">
+               <speaker xml:id="idm140194652277456">
+                  <hi rend="italics" xml:id="idm140194652277200">Chor fra Skoven</hi>
+               </speaker>
+               <lg xml:id="idm140194652276384">
+                  <l xml:id="idm140194652276128">Hele Naturen har Trang til Forening,</l>
+                  <l xml:id="idm140194652275696">Stræber mod Mennesket, før end mod Gud;</l>
+                  <l xml:id="idm140194652275216">Digteren fatter dens lønlige Mening,</l>
+                  <l xml:id="idm140194652274736">Synger ved Lyren dens Længseler ud.</l>
+                  <l xml:id="idm140194652274256">Alt i Naturen vil skues og høres</l>
+                  <l xml:id="idm140194652273792">Af det forstaaende, kjærlige Bryst,</l>
+                  <l xml:id="idm140194652273312">Vil, naar det fattes med Kjærlighed, føres</l>
+                  <l xml:id="idm140194652272816">Frelsen imøde, til Frihedens Lyst.</l>
+               </lg>
+            </sp>
+         </div>
+      </body>
+   </text>
+</TEI>

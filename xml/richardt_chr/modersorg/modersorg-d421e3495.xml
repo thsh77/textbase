@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Modersorg.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60392" decls="#biblid60392">
+            <head xml:id="idm139731449254288">Modersorg.</head>
+            <lg xml:id="idm139731449253872">
+               <l xml:id="idm139731449253616">Saae Du ham min lille Dreng</l>
+               <l xml:id="idm139731449253184">med den lyse krøllede Lok?</l>
+               <l xml:id="idm139731449252736">Saae jeg paa ham længe,</l>
+               <l xml:id="idm139731449252288">jeg saae dog aldrig nok!</l>
+               <l xml:id="idm139731449251856">Ak saa tom, saa tom, saa tom</l>
+               <l xml:id="idm139731449251424">staar nu hans lille Vugge,</l>
+               <l xml:id="idm139731449250992">mens mit stakkels Bryst er fuldt</l>
+               <l xml:id="idm139731449250560">af Savn og dybe Sukke.</l>
+            </lg>
+            <lg xml:id="idm139731449250016">
+               <l xml:id="idm139731449249760">Milde Jesus, Du var haard,</l>
+               <l xml:id="idm139731449249328">Da Du tog ham bag Stjernerne smaa!</l>
+               <l xml:id="idm139731449248896">Trængte Du til Engle!</l>
+               <l xml:id="idm139731449248448">Ak Jorden har saa faa!</l>
+               <pb n="47" xml:id="s47" facs="adl/richardt/richardt1/rich1047"/>
+               <l xml:id="idm139731449246816">Gav Du ham et Vingepar</l>
+               <l xml:id="idm139731449246400">og Himlens lyse Glæde,</l>
+               <l xml:id="idm139731449245952">hjælp da mig som ingen har,</l>
+               <l xml:id="idm139731449245488">o hjælp mig til at græde!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

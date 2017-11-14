@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Æresvers under jacob bircherods portræt 1688</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid91687" decls="#biblid91687">
+            <body xml:id="idm140721238727168">
+               <head xml:id="idm140721238726912"> Under Jacob Bircherods Portræt. <lb xml:id="idm140721238726576"/> ((daggert) 13. Juni 1688). </head>
+               <lg xml:id="idm140721238726144">
+                  <l xml:id="idm140721238725888">SAa er Vor BIRCHEROD i diße Skugger skildret,</l>
+                  <l xml:id="idm140721238725392">Men levendis hand vaar med Tusind Dyder mildret!</l>
+                  <l xml:id="idm140721238724944">En JACOB vaar Hand ey, der Skuffe-Konsten viste,</l>
+                  <l xml:id="idm140721238724496">Men ret en ISRAEL, en Mand vi nødigt miste,</l>
+                  <l xml:id="idm140721238724000">I Ham vaar Troskab og forstand og lærdom samlet,</l>
+                  <l xml:id="idm140721238723504">Til resten haver kun vor Kaaberstikker famlet.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721238722928">
+                  <hi rend="italics" xml:id="idm140721238722160">Tekstgrundlag: Kingo, Ligprædiken over Jacob
+								Bircherod (1691) Titel- <lb xml:id="idm140721238721456"/>kobber.</hi>
+               </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

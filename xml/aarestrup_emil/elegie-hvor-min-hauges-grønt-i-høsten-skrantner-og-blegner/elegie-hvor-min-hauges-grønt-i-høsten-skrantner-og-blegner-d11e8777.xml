@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elegie [hvor min hauges grønt i høsten skrantner og blegner]</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid71652" decls="#biblid71652">
+            <head xml:id="idm140382755458912">ELEGIE.</head>
+            <lg xml:id="idm140382755458496">
+               <l xml:id="idm140382755458240">Hvor min Hauges Grønt i Høsten skrantner og blegner,</l>
+               <l xml:id="idm140382755457728">Haanen, med vexlet Lys, seer gjennem Grenene ned,</l>
+               <l xml:id="idm140382755457280">Vanker jeg mild, skjøndt bedrøvet, fulgt af den tause Erindring.</l>
+               <l xml:id="idm140382755456752">Altid, veed jeg, er Sorg Hjertets forkjælede Barn.</l>
+               <l xml:id="idm140382755456256">Øiet, som fordumstid kun om Elskov bad for sin Elskov,</l>
+               <l xml:id="idm140382755455808">Nu med langsomt Blik søger kun Sorg for sin Sorg;</l>
+               <l xml:id="idm140382755455312">Læben, tung af Veemod, løftet af smertelig Længsel,</l>
+               <l xml:id="idm140382755454800">Smiler ei mere af Fryd, smiler fortrolig med Qval.</l>
+               <l xml:id="idm140382755454352">Eensom vanker jeg, stille, fulgt af den tause Erindring,</l>
+               <l xml:id="idm140382755453888">Maanen, med tvivlsomt Lys, seer gjennem Grenene ned.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

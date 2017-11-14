@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hvad vil du her? hvad søger du ved huset</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid77716" decls="#biblid77716">
+            <head xml:id="idm140382754705392">HVAD VIL DU HER? HVAD SØGER DU VED HUSET</head>
+            <lg xml:id="idm140382754704912">
+               <l xml:id="idm140382754704656">Hvad vil du her? hvad søger du ved Huset?</l>
+               <l xml:id="idm140382754704176">Dets Dør er lukt; ei høres Lyd derinde.</l>
+               <l xml:id="idm140382754703696">Kun Edderkoppene i Salen spinde,</l>
+               <l xml:id="idm140382754703264">og Bulmeurten suger Gift i Gruset.</l>
+            </lg>
+            <lg xml:id="idm140382754702704">
+               <l xml:id="idm140382754702448">Du dvæler end? har dig en Drøm beruset?</l>
+               <l xml:id="idm140382754701968">Her stryger over brusten Gavl og Tinde</l>
+               <l xml:id="idm140382754701536">Harmonisk ikke Nattehimlens Vinde;</l>
+               <l xml:id="idm140382754701104">Det Taam, du stirrer paa, har Lynet knuset.</l>
+            </lg>
+            <lg xml:id="idm140382754700528">
+               <l xml:id="idm140382754700272">"O lad mig dvæle, hvor jeg helst vil dvæle!</l>
+               <l xml:id="idm140382754699776">Lad mig kun eensom i den brede Skygge,</l>
+               <l xml:id="idm140382754699344">Hvor Muren høit mod Skyerne sig reiser.</l>
+            </lg>
+            <lg xml:id="idm140382754698736">
+               <l xml:id="idm140382754698480">De fromme Svaler ved Gesimsen bygge.</l>
+               <l xml:id="idm140382754698048">Paa Taget Storken i sin Rede kneiser;</l>
+               <l xml:id="idm140382754697616">Og Maanskin er her jo, og Dødes Sjæle."</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

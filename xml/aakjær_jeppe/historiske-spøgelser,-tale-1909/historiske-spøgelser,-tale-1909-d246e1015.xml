@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Historiske spøgelser, tale 1909</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140709994996720">
+                     <name xml:id="idm140709994996464">
+                        <surname xml:id="idm140709994996336">Aakjær</surname>, <forename xml:id="idm140709994995904">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140709994995616"> Artikler og Taler. - 1919</title>
+                  <pubPlace xml:id="idm140709994995312">København</pubPlace>
+                  <pubPlace xml:id="idm140709994994848">Kristiania</pubPlace>
+                  <publisher xml:id="idm140709994994384">Gyldendal</publisher>
+                  <date xml:id="idm140709994994048">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid58649" decls="#biblid58649">
+            <pb n="396" xml:id="n396" facs="adl/aakjaer/aakjaer4/aakj4396"/>
+            <pb n="397" xml:id="n397" facs="adl/aakjaer/aakjaer4/aakj4397"/>
+            <pb n="398" xml:id="n398" facs="adl/aakjaer/aakjaer4/aakj4398"/>
+            <pb n="399" xml:id="n399" facs="adl/aakjaer/aakjaer4/aakj4399"/>
+            <pb n="400" xml:id="n400" facs="adl/aakjaer/aakjaer4/aakj4400"/>
+            <pb n="401" xml:id="n401" facs="adl/aakjaer/aakjaer4/aakj4401"/>
+            <pb n="402" xml:id="n402" facs="adl/aakjaer/aakjaer4/aakj4402"/>
+            <pb n="403" xml:id="n403" facs="adl/aakjaer/aakjaer4/aakj4403"/>
+            <pb n="404" xml:id="n404" facs="adl/aakjaer/aakjaer4/aakj4404"/>
+            <pb n="405" xml:id="n405" facs="adl/aakjaer/aakjaer4/aakj4405"/>
+            <pb n="406" xml:id="n406" facs="adl/aakjaer/aakjaer4/aakj4406"/>
+            <p xml:id="idm140709994248608"/>
+         </div>
+      </body>
+   </text>
+</TEI>

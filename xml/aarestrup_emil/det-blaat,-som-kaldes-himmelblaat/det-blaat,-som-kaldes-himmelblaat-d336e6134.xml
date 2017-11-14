@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Det blaat, som kaldes himmelblaat</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352656878784">
+                     <name xml:id="idm140352656878528">
+                        <surname xml:id="idm140352656878400">Aarestrup</surname>, <forename xml:id="idm140352656877920">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352656877632">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140352656877312">København</pubPlace>
+                  <publisher xml:id="idm140352656876880">C. A. Reitzel</publisher>
+                  <date xml:id="idm140352656876544">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid65931" decls="#biblid65931">
+            <head xml:id="idm140352655298496">DET BLAAT, SOM KALDES HIMMELBLAAT</head>
+            <lg xml:id="idm140352655298064">
+               <l xml:id="idm140352655297808">Det Blaat, som kaldes Hlmmelblaat,</l>
+               <l xml:id="idm140352655297376">Den Jordklump, denne Haandfuld Vand,</l>
+               <l xml:id="idm140352655296944">Det Vrøvlerie af Uforstand,</l>
+               <l xml:id="idm140352655296480">Et Par Pedanter kalde ondt og godt</l>
+            </lg>
+            <lg xml:id="idm140352655295920">
+               <l xml:id="idm140352655295664">Det kan du gabe paa, dit Fjog?</l>
+               <l xml:id="idm140352655295232">Din hele Livstid? det er haardt</l>
+               <l xml:id="idm140352655294800">Traf ingen Dagning dig, og jog</l>
+               <l xml:id="idm140352655294368">De meningsløse Drømme bort?</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

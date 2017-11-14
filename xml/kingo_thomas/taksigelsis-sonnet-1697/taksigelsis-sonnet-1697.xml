@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Taksigelsis sonnet [1697?]</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015369092032">
+                     <name xml:id="idm140015369091776">
+                        <surname xml:id="idm140015369091648">Kingo</surname>,
+      <forename xml:id="idm140015369091200">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015369090912">Samlede skrifter 2</title>
+                  <pubPlace xml:id="idm140015369090624">København</pubPlace>
+                  <publisher xml:id="idm140015369090192">Munksgaard</publisher>
+                  <date xml:id="idm140015369089856">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid83231" decls="#biblid83231">
+            <body xml:id="idm140015365498128">
+               <opener xml:id="idm140015365497872">
+                  <salute xml:id="idm140015365497616">
+Danmarks og Norgis Indbyggere<lb xml:id="idm140015365497312"/>
+Indføris saaledis talende udi en<lb xml:id="idm140015365496976"/>
+Taksigelsis <hi rend="italics" xml:id="idm140015365496688">Sonnet, </hi>eller Klinge-Riim<lb xml:id="idm140015365495968"/>Ved dend Sal: HERRES Grav.
+</salute>
+               </opener>
+               <lg xml:id="idm140015365495408">
+                  <l xml:id="idm140015365495152">Far vel da, Her Niels Juel, din Siæl er i GUds Hænder!</l>
+                  <l xml:id="idm140015365494640">Vi staar med vore Børn og Afkom ved din Grav,</l>
+                  <l xml:id="idm140015365494144">Og takker GUD, som dig Liv, Lykke, S ey er gav</l>
+                  <l xml:id="idm140015365493696">Til Kongens Vaaben, vi dit Leve-Lyvs antænder</l>
+                  <l xml:id="idm140015365493200">Ved din Hukommelsis Forfriskning, Mand fra Mand,</l>
+                  <l xml:id="idm140015365492752">Saa lenge Skibe skal beseyle Havsens Vand,</l>
+                  <l xml:id="idm140015365492304">Ja mens at Solen de tolf Himmel-Tegn berender</l>
+                  <l xml:id="idm140015365491856">Og Havet Kilde-Spring igiennem Jorden sender!</l>
+                  <l xml:id="idm140015365491408">Du Siæle-løse Krop, i Been, du brave Aske,</l>
+                  <l xml:id="idm140015365490912">Som Kæmpe-Seener, der var sunde, sterke, raske,</l>
+                  <l xml:id="idm140015365490416">Tilforne sammen-bandt, tak, tak for hver en Dag</l>
+                  <l xml:id="idm140015365489968">Og hver Minut I har forfegted Nordens Sag!</l>
+                  <l xml:id="idm140015365489520">O hviler sødelig! I skal Forklaring faa</l>
+                  <l xml:id="idm140015365489040">Naar JESUS setter Dyd dend ævig Krone paa.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015365488432">
+                  <hi rend="italics" xml:id="idm140015365487664">Tekstgrundlag: som foregaaende.</hi>
+               </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

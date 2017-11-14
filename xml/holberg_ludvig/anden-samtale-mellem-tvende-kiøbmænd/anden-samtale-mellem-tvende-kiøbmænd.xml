@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anden samtale mellem tvende kiøbmænd</title>
+            <author>Holberg, Ludvig</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140586845515760">
+                     <name xml:id="idm140586845515504">
+                        <surname xml:id="idm140586845515376">Holberg</surname>, <forename xml:id="idm140586845514912">Ludvig</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140586845514624">Værker i tolv bind</title>
+                  <title xml:id="idm140586845514320">8: Økonomi og historie</title>
+                  <pubPlace xml:id="idm140586845514000">[København]</pubPlace>
+                  <publisher xml:id="idm140586845513536">Rosenkilde og Bagger</publisher>
+                  <date xml:id="idm140586845513200">1969-1971</date>
+                  <biblScope>25-46</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid53727" decls="#biblid53727">
+            <body xml:id="idm140586845447520">
+               <pb n="26" facs="adl/holberg/holberg8/holb8026" xml:id="idm140586845447264"/>
+               <pb n="27" facs="adl/holberg/holberg8/holb8027" xml:id="idm140586845446496"/>
+               <pb n="28" facs="adl/holberg/holberg8/holb8028" xml:id="idm140586845445728"/>
+               <pb n="29" facs="adl/holberg/holberg8/holb8029" xml:id="idm140586845444960"/>
+               <pb n="30" facs="adl/holberg/holberg8/holb8030" xml:id="idm140586845444192"/>
+               <pb n="31" facs="adl/holberg/holberg8/holb8031" xml:id="idm140586845443424"/>
+               <pb n="32" facs="adl/holberg/holberg8/holb8032" xml:id="idm140586845442656"/>
+               <pb n="33" facs="adl/holberg/holberg8/holb8033" xml:id="idm140586845441888"/>
+               <pb n="34" facs="adl/holberg/holberg8/holb8034" xml:id="idm140586845441120"/>
+               <pb n="35" facs="adl/holberg/holberg8/holb8035" xml:id="idm140586845440352"/>
+               <pb n="36" facs="adl/holberg/holberg8/holb8036" xml:id="idm140586845439584"/>
+               <pb n="37" facs="adl/holberg/holberg8/holb8037" xml:id="idm140586845438816"/>
+               <pb n="38" facs="adl/holberg/holberg8/holb8038" xml:id="idm140586845438048"/>
+               <pb n="39" facs="adl/holberg/holberg8/holb8039" xml:id="idm140586845437280"/>
+               <pb n="40" facs="adl/holberg/holberg8/holb8040" xml:id="idm140586845436512"/>
+               <pb n="41" facs="adl/holberg/holberg8/holb8041" xml:id="idm140586845435744"/>
+               <pb n="42" facs="adl/holberg/holberg8/holb8042" xml:id="idm140586845434976"/>
+               <pb n="43" facs="adl/holberg/holberg8/holb8043" xml:id="idm140586845434208"/>
+               <pb n="44" facs="adl/holberg/holberg8/holb8044" xml:id="idm140586845433440"/>
+               <pb n="45" facs="adl/holberg/holberg8/holb8045" xml:id="idm140586845432672"/>
+               <pb n="46" facs="adl/holberg/holberg8/holb8046" xml:id="idm140586845431904"/>
+               <p xml:id="idm140586845431136"/>
+            </body>
+            <back xml:id="idm140586845430752">
+               <pb n="47" facs="adl/holberg/holberg8/holb8047" xml:id="idm140586845430496"/>
+               <pb n="48" facs="adl/holberg/holberg8/holb8048" xml:id="idm140586845429728"/>
+               <pb n="49" facs="adl/holberg/holberg8/holb8049" xml:id="idm140586845428960"/>
+               <pb n="50" facs="adl/holberg/holberg8/holb8050" xml:id="idm140586845428192"/>
+            </back>
+         </text>
+      </body>
+   </text>
+</TEI>

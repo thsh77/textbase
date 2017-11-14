@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bonden og danmark</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140709994996720">
+                     <name xml:id="idm140709994996464">
+                        <surname xml:id="idm140709994996336">Aakjær</surname>, <forename xml:id="idm140709994995904">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140709994995616"> Artikler og Taler. - 1919</title>
+                  <pubPlace xml:id="idm140709994995312">København</pubPlace>
+                  <pubPlace xml:id="idm140709994994848">Kristiania</pubPlace>
+                  <publisher xml:id="idm140709994994384">Gyldendal</publisher>
+                  <date xml:id="idm140709994994048">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59122" decls="#biblid59122">
+            <pb n="441" xml:id="n441" facs="adl/aakjaer/aakjaer4/aakj4441"/>
+            <pb n="442" xml:id="n442" facs="adl/aakjaer/aakjaer4/aakj4442"/>
+            <pb n="443" xml:id="n443" facs="adl/aakjaer/aakjaer4/aakj4443"/>
+            <pb n="444" xml:id="n444" facs="adl/aakjaer/aakjaer4/aakj4444"/>
+            <pb n="445" xml:id="n445" facs="adl/aakjaer/aakjaer4/aakj4445"/>
+            <pb n="446" xml:id="n446" facs="adl/aakjaer/aakjaer4/aakj4446"/>
+            <pb n="447" xml:id="n447" facs="adl/aakjaer/aakjaer4/aakj4447"/>
+            <pb n="448" xml:id="n448" facs="adl/aakjaer/aakjaer4/aakj4448"/>
+            <pb n="449" xml:id="n449" facs="adl/aakjaer/aakjaer4/aakj4449"/>
+            <pb n="450" xml:id="n450" facs="adl/aakjaer/aakjaer4/aakj4450"/>
+            <pb n="451" xml:id="n451" facs="adl/aakjaer/aakjaer4/aakj4451"/>
+            <pb n="452" xml:id="n452" facs="adl/aakjaer/aakjaer4/aakj4452"/>
+            <p xml:id="idm140709994189824"/>
+         </div>
+      </body>
+   </text>
+</TEI>

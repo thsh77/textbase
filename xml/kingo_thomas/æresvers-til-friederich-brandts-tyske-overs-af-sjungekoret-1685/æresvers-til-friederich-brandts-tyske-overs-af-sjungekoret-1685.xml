@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Æresvers til friederich brandts tyske overs. af sjungekoret 1685</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>258-260</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid93693" decls="#biblid93693">
+            <body xml:id="idm140721238475264">
+               <head xml:id="idm140721238475008">
+                  <hi rend="italics" xml:id="idm140721238474880">Ad</hi>
+                  <lb xml:id="idm140721238474304"/>
+                  <hi rend="italics" xml:id="idm140721238474176">Hymnos meos Danicos,</hi>
+                  <lb xml:id="idm140721238473616"/> Sanctissimæ pietatis Aræ jamdiu consecratos, <lb xml:id="idm140721238473248"/>Nunc verò, in
+							majorem DEI gloriam,<lb xml:id="idm140721238472896"/>
+                  <hi rend="italics" xml:id="idm140721238472768">à</hi>
+                  <lb xml:id="idm140721238472208"/>
+                  <hi rend="italics" xml:id="idm140721238472080">Viro plurimum Reverendo, Clarissimo <lb xml:id="idm140721238471504"/>&amp;
+								Religiosissimo, Domino</hi>
+                  <lb xml:id="idm140721238471168"/> FRIDERICO BRANDT, <lb xml:id="idm140721238470880"/> Ecclesiaste Nycopiensi Primario,
+							Australis<lb xml:id="idm140721238470560"/>Nomarchiæ in Falstria Præposito <lb xml:id="idm140721238470224"/> vigilantissimo, <lb xml:id="idm140721238469936"/>
+                  <hi rend="italics" xml:id="idm140721238469808">Poëta Ingerriosissimo,</hi>
+                  <lb xml:id="idm140721238469216"/> Amico &amp; in Christo fratre meo apprimê dilecto,
+							<lb xml:id="idm140721238468848"/>Rhythmis Germanicis elegantissimë adornatos. <lb xml:id="idm140721238468480"/>
+               </head>
+               <lg xml:id="idm140721238468224">
+                  <l xml:id="idm140721238467968">SAlvete ingenui, si me modô noscitis, hymni</l>
+                  <l xml:id="idm140721238467472">O Ignotâ docti dulce sonare lyrâ!</l>
+                  <l xml:id="idm140721238467008">Vos patriâ quondam promptns meditabar avenâ,</l>
+                  <l xml:id="idm140721238466512">Nata domi Suada &amp; fistula dulcis erat.</l>
+                  <l xml:id="idm140721238466000">Nunc alto soccos placuit vestire cothurno,</l>
+                  <l xml:id="idm140721238465552"> Teutonicoque lubet pectine velle cani.</l>
+                  <l xml:id="idm140721238465120">Scilicet Aonidum cultor, Phæbique Sacerdos</l>
+                  <l xml:id="idm140721238464640">BRANDTIUS hæc vobis otk sancta dedit.</l>
+                  <l xml:id="idm140721238464160">Ante tamen doctos quàm vultis obire Sicambros,</l>
+                  <l xml:id="idm140721238463664">Hoc ne consilium spernite quæso meum.</l>
+                  <l xml:id="idm140721238463184"> Obvia cum fiunt vobis sacra Numina Vatum,</l>
+                  <l xml:id="idm140721238462736">
+                     <hi rend="italics" xml:id="idm140721238462608">Opitius </hi>si vos ingeniosus adit:</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721238461632">
+                  <hi rend="italics" xml:id="idm140721238460992">Tekstgrundlag: Vierzéhen Geistreiche Gesänge, Oder
+								Morgen- Und Äbend- <lb xml:id="idm140721238460288"/>Opffer, DeJ3 Edlen und Hochwürdigen
+								Bischoffs, Herrn D. Thomas Kingos </hi>.. <lb xml:id="idm140721238459728"/>
+                  <hi rend="italics" xml:id="idm140721238459600">übergesetzt Von Friederich Brandt (1685) aff.</hi>
+               </note>
+               <pb n="259" xml:id="s259" facs="adl/kingo/kingo1/king1259"/>
+               <lg xml:id="idm140721238457584">
+                  <l xml:id="idm140721238457328">Si quis adest celebris curvatâ <hi rend="italics" xml:id="idm140721238456992">Ristius</hi>
+                  </l>
+                  <l xml:id="idm140721238456176">Vim, venarn. Patriam &amp; pondera quæq; rogans.</l>
+                  <l xml:id="idm140721238455728">Dicite: vos humili vestra incunabula <hi rend="italics" xml:id="idm140721238455424">Scialdro</hi>
+                  </l>
+                  <l xml:id="idm140721238454608">Deferre, ast totum Numinis ille bono.</l>
+                  <l xml:id="idm140721238454176">Dicite: quod vestris nulla est ampulla Camænis, </l>
+                  <l xml:id="idm140721238453680">Cimbrica simplicitas sed pietate placens.</l>
+                  <l xml:id="idm140721238453232">Dicite: quod nostis peregrinâ ludere cannâ,</l>
+                  <l xml:id="idm140721238452736">BRANDTIUS hoc merito vendicat omne sibi.</l>
+                  <l xml:id="idm140721238452288">Sic migrate pii fætus sacra plectra moventes,</l>
+                  <l xml:id="idm140721238451792">Qua volvunt rapidas <hi rend="italics" xml:id="idm140721238451504">Rhenus &amp; Albis
+								</hi>aquas.</l>
+                  <l xml:id="idm140721238450608">Ite per auriculas &amp; qua data pectora, pulsu</l>
+                  <l xml:id="idm140721238450080">Felicis citharæ cælo aperite viam.</l>
+               </lg>
+               <trailer xml:id="idm140721238449472">
+                  <hi rend="italics" xml:id="idm140721238449344">Sic vovens scripsi</hi>
+                  <lb xml:id="idm140721238448784"/> TH. KINGO, D.<lb xml:id="idm140721238448496"/> Episc. Fionensis. </trailer>
+               <pb n="260" xml:id="s260" facs="adl/kingo/kingo1/king1260"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

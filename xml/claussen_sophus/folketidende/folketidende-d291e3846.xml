@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Folketidende</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140264665681152">
+                     <name xml:id="idm140264665680896">
+                        <surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140264665680016">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140264665679728">: </title>
+                  <pubPlace xml:id="idm140264665679472">[København]</pubPlace>
+                  <publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140264665678640">1982-</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62330" decls="#biblid62330">
+            <head xml:id="idm140264664516864">
+               <hi rend="italics" xml:id="idm140264664516608">FOLKETIDENDE</hi>
+            </head>
+            <stage type="mix" xml:id="idm140264664515792">50-AARS FEST</stage>
+            <stage type="mix" xml:id="idm140264664515136">Mel.: <hi rend="italics" xml:id="idm140264664514608">Å köra vatn å köra ve</hi> ...</stage>
+            <lg xml:id="idm140264664513744">
+               <l xml:id="idm140264664513488">Der staar et Træ i min Faders Gaard,</l>
+               <l xml:id="idm140264664513008">som har saa underlige Grene,</l>
+               <l xml:id="idm140264664512576">der synger Fugle det hele Aar,</l>
+               <l xml:id="idm140264664512144">og sjælden synger nogen ene.</l>
+               <l xml:id="idm140264664511680">Der er saa herligt i det skønne Træ,</l>
+               <l xml:id="idm140264664511200">naar gamle Grene gi'r de nye Læ</l>
+               <l xml:id="idm140264664510736">og unge Skud</l>
+               <l xml:id="idm140264664510320">sig folder ud,</l>
+               <l xml:id="idm140264664509904">og Venner kalder paa hverandre.</l>
+            </lg>
+            <lg xml:id="idm140264664509344">
+               <l xml:id="idm140264664509088">Der sidder Skrivere Høst og Vaar</l>
+               <l xml:id="idm140264664508624">alt under Folkeaskens Grene,</l>
+               <l xml:id="idm140264664508192">de skriver flittig, mens Dagen gaar,</l>
+               <l xml:id="idm140264664507760">som kan de leve helt alene.</l>
+               <l xml:id="idm140264664507328">I, Lollands Døtre, og I, Falsters Sir,</l>
+               <l xml:id="idm140264664506848">agt paa Skribenten foran sit Papir,</l>
+               <l xml:id="idm140264664506416">Kvinder og Mø'r,</l>
+               <l xml:id="idm140264664505984">paa disse Øer,</l>
+               <l xml:id="idm140264664505552">lad ham ej hundred' Aar alene.</l>
+            </lg>
+            <lg xml:id="idm140264664504992">
+               <l xml:id="idm140264664504736">Et Uvejr bryder i Verden løs,</l>
+               <l xml:id="idm140264664504272">en Stormhaand rusker Lollands Diger,</l>
+               <l xml:id="idm140264664503840">og Østersøen med Stemmen bøs</l>
+               <l xml:id="idm140264664503376">gør Larm og kyser Falsters Piger.</l>
+               <l xml:id="idm140264664502912">Da gav hans travle Pen de Svage Mod.</l>
+               <l xml:id="idm140264664502480">Godt, at vort Gærde undgik Stormens Flod!</l>
+               <l xml:id="idm140264664502000">Fred er nu lyst.</l>
+               <l xml:id="idm140264664501584">"Men jeg blev kyst,"</l>
+               <l xml:id="idm140264664501168">saa hvisker det med Folkets Stemmer.</l>
+            </lg>
+            <pb n="80" xml:id="s80" facs="adl/claussen/claussen11/claussen11080"/>
+            <lg xml:id="idm140264664499456">
+               <l xml:id="idm140264664499200">Naar man har levet paa frejdigt Sæt,</l>
+               <l xml:id="idm140264664498720">og bliver ufortjent beundret,</l>
+               <l xml:id="idm140264664498288">det maa vel kaldes for <hi rend="italics" xml:id="idm140264664498000">Livets Ret</hi>,</l>
+               <l xml:id="idm140264664497184">naar man har levet et Halvhundred.</l>
+               <l xml:id="idm140264664496752">Vi hilser hver og en, som har os kær,</l>
+               <l xml:id="idm140264664496272">og hilser dem, som sidder ene her,</l>
+               <l xml:id="idm140264664495840">den Kraft, som bær</l>
+               <l xml:id="idm140264664495408">i vældigt Vejr,</l>
+               <l xml:id="idm140264664494976">med Sammensang fra Rod til Grene.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

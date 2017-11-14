@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delicate damers naturlige contrafait</title>
+            <author>Worm, Jacob</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139661018537840">
+                     <name xml:id="idm139661018537584">
+                        <surname xml:id="idm139661018537456">Worm</surname>, <forename xml:id="idm139661018537024">Jacob</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139661018536416">Wormiana / samlede af Erik Sønderholm ; udg. af Poul Lindegård Hjorth. - [Kbh.] : C. A. Reitzels, 1994</title>
+                  <pubPlace xml:id="idm139661018535936">København</pubPlace>
+                  <date xml:id="idm139661018535456">[1968]-1994</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid54404" decls="#biblid54404">
+            <pb n="20" xml:id="n20" facs="adl/worm/worm4/worm4020"/>
+            <p xml:id="idm139661018464528"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tro og gjerning.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid99610" decls="#biblid99610">
+            <head xml:id="idm140352318116080">Tro og Gjerning.</head>
+            <lg xml:id="idm140352318115664">
+               <l xml:id="idm140352318115408">At ville vælge mellem Tro og Gjerning</l>
+               <l xml:id="idm140352318114928">det er som Valget mellem Sæd og Høst.</l>
+               <l xml:id="idm140352318114448">Hvis Bonden siger: alt mit Haab jeg sætter</l>
+               <l xml:id="idm140352318113968">til Sædekornet, der blev lagt i Mulde,</l>
+               <l xml:id="idm140352318113488">saa har han Ret - thi uden det</l>
+               <l xml:id="idm140352318113056">vil aldrig sine Lader han faae fulde.</l>
+               <l xml:id="idm140352318112624">Men løfter saa en Anden Røsten</l>
+               <l xml:id="idm140352318112160">og siger: Alt beroer paa Høsten!</l>
+               <l xml:id="idm140352318111696">da har han ogsaa Ret, thi uden Kjerne</l>
+               <l xml:id="idm140352318111264">blev Straaet som en slukket Stjerne.</l>
+               <l xml:id="idm140352318110832">Kun den, der trøster sig - som tidt og ofte -</l>
+               <l xml:id="idm140352318110336">ved blot at have Sædekorn <hi rend="italics" xml:id="idm140352318110016">paa Lofte</hi>
+               </l>
+               <l xml:id="idm140352318109200">har ikke Ret - thi bære Frugt i Mulde,</l>
+               <l xml:id="idm140352318108720">det var jo <hi rend="italics" xml:id="idm140352318108432">det</hi>, som Sæden skulde.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

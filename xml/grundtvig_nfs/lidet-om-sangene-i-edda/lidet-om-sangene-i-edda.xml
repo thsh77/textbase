@@ -1,0 +1,576 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lidet om sangene i edda.</title>
+            <author>Grundtvig, N. F. S.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140411868156384">
+                     <name xml:id="idm140411868156128">
+                        <surname xml:id="idm140411868156000">Grundtvig</surname>, <forename xml:id="idm140411868155536">N. F. S.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140411868155248">N. F. S. Grundtvigs udvalgte Skrifter</title>
+                  <pubPlace xml:id="idm140411868154944">København</pubPlace>
+                  <publisher xml:id="idm140411868154480">Gyldendalske Boghandel</publisher>
+                  <date xml:id="idm140411868154144">1904-1909</date>
+                  <biblScope>116-134</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid67485" decls="#biblid67485">
+            <front xml:id="idm140411866550720">
+               <titlePage xml:id="idm140411866550464">
+                  <titlePart type="main" xml:id="idm140411866550208">LIDET OM SANGENE I EDDA.
+                            <lb xml:id="idm140411866549616"/>
+I
+                            <lb xml:id="idm140411866549312"/>
+NY MINERVA FOR SEPTEMBER 1806.</titlePart>
+               </titlePage>
+               <div xml:id="idm140411866548752">
+                  <p xml:id="idm140411866548496">DENNE Afhandling er, bortset fra de tre smaa Stykker i Politivennen for 1804, det første skriftlige Arbej de, Grundtvig har ladet trykke.</p>
+                  <p xml:id="idm140411866547824">
+                     <hi rend="italics" xml:id="idm140411866547696"><!--<emph>-->Jens Møller<!--</emph>--></hi>
+, Adjunkt ved Slagelse Latinskole, fra 1808 Professor i Theologien, havde i
+                            <hi rend="italics" xml:id="idm140411866546512"><!--<emph>-->Rahbeks Ny Minerva for Maj 1806<!--</emph>--></hi>
+offentliggjort et Digt, kaldet
+                            <hi rend="italics" xml:id="idm140411866545408"><!--<emph>-->Skirners Rejse<!--</emph>--></hi>
+eller
+                            <hi rend="italics" xml:id="idm140411866544352"><!--<emph>-->Kiærlighed Gudernes Straf<!--</emph>--></hi>
+                     <hi rend="sup" xml:id="idm140411866543440">1</hi>
+. I denne rimede Fortælling var der ikke Spor af Eddakvadets Aand og i det hele ikke Gnist af Poesi, skønt Forfatteren fejlagtig mente, at hans Fremstilling »stemmer overeens med Personernes Karakter og Fabelalderens Costüme«. Det var derfor ikke underligt, at Grundtvig harmedes over dette mislykkede Produkt, der satte et ophøjet Emne i falsk Belysning af Rationalisme og Letfærdighed, især da Forvanskningen gik ud over et Oldtidsdigt, som havde en særlig Betydning netop for ham. Frejs Kærlighed maatte nemlig minde ham om hans egen. Han havde selv ligesom den unge Van kastet sine Øjne paa en dejlig Kvinde, hvem Guders og Menneskers Lov forbød ham at elske, og skønt han ikke vilde handle som Frej, saa forstod han dog af Erfaring den stærke Lidenskab, som drev ham dertil.</p>
+                  <p xml:id="idm140411866541040">Under disse Forhold kaldtes han første Gang frem paa den offentlige Kampplads som Hævner af Asernes krænkede Værdighed og følte sig tilskyndet til at give det gamle Elskovskvad en Nutidsklædning, som passede bedre end den uheldige Jens Møllers Modedragt. Man kan for saa vidt sige, at det var Vreden, som gjorde ham til Digter.</p>
+                  <p xml:id="idm140411866539968">Forøvrigt henvises til hans egen Udtalelse i Optegnelsen for den 30 December 1806, meddelt ovenfor Side 110-13.</p>
+                  <note anchored="true" xml:id="idm140411866539344">
+                     <hi rend="sup" xml:id="idm140411866538976">1</hi>
+Undertitelen kom ved en Trykfejl til at lyde:
+                            <hi rend="italics" xml:id="idm140411866538256"><!--<emph>-->Kiærligheds-Gudernes Straf<!--</emph>--></hi>
+, se Side 129.</note>
+               </div>
+            </front>
+            <body xml:id="idm140411866536800">
+               <pb n="117" xml:id="s117" facs="adl/grundtvig/grundtvig01/grun1117"/>
+               <div xml:id="idm140411866535360">
+                  <head xml:id="idm140411866535104">Lidet om Sangene i Edda.</head>
+                  <epigraph xml:id="idm140411866534624">
+                     <cit xml:id="idm140411866534368">
+                        <q xml:id="idm140411866534064">
+                           <lg xml:id="idm140411866533808">
+                              <l xml:id="idm140411866533552">Island! hellige Øe, Ihukommelsens vældigste Tempel!</l>
+                              <l xml:id="idm140411866533040">- - - - - - - - - - - - - - -</l>
+                              <l xml:id="idm140411866532608">Altid en Marv af Ild udvilded' din skinnende lisfrugt,</l>
+                              <l xml:id="idm140411866532160">Bredt dit bølgende Hav freder om Oldtidens Aand!</l>
+                           </lg>
+                        </q>
+                     </cit>
+                     <bibl xml:id="idm140411866531280">
+                        <hi rend="italics" xml:id="idm140411866531152">Oehlenschläger</hi>
+.</bibl>
+                  </epigraph>
+                  <div xml:id="idm140411866530192">
+                     <p xml:id="idm140411866529936">INGEN tvivler vel længere paa, at jo de ærværdige Sagn., Saga med Griffel og Skiold optegnede i sit Tempel paa den af Nordens store Skiald værdig besiungne Øe; tyde i Samklang med Eddas høie Qvad hen paa en episk Old, der, liig Grækenlands, ligger bag vor Historie. En ligesaa skiøn som priselig Id er det for Bragas yngre Sønner, at fremtrylle for vort Øie Billedet af det betydningsfulde Liv, der, skinit under Mythernes dunkle Slør, end mere tilhylles af det forældede Sprogs dækkende Klædemon. Er det aandshævende, at indtrylles i en høiere Tilværelse, Digterens Phantasie selv skabte, da vorder det dobbelt, naar denne, ved sit historiske Anstrøg, ligesom paatrykker Virkelighedens Præg; det ligger jo selv i Tingens Væsen, at Nydelsen af et saadant Konstværk maa være langt friere, da det ei nær saa stærk opfordrer til den sørgelige Sammenligning mellem det Ideale og Virkelige, det poetiske og prosaiske Liv. Hvad vi skue, som engang tilværende, opluer Haab om Fornyelse; men hvad der optræder, som det bestemt Modsatte af Tilværelsen, bedrøver os, og det saa meget mere, jo skiønnere det er. Hvilken Nydelse derimod bør af os agtes som den høieste, er en ligesaa interessant Opgave, men som ikke hører hid.</p>
+                     <p xml:id="idm140411866527664">Et andet Spørgsmaal opstaaer derimod med trængende Fordring paa Svar, det nemlig: hvorledes bør Eddas Sange benyttes af Nutidens Digtere?</p>
+                     <p xml:id="idm140411866526976">Hr. J. Møller har - i Minervas Maihæfte - søgt kortelig at besvare det, og leveret en Bearbeidelse af Digtet: Skirners Reise.</p>
+                     <p xml:id="idm140411866526320">En Materie, der er blevet saa lidet afhandlet, og dog har saa stor Interesse for hver, der kiænder den, bør ustridig betragtes fra flere Sider, og dette er min eneste Hensigt, i det jeg drøfter hans Meninger, og det Forsøg, der maa ansees som et Foster af samme.</p>
+                     <pb n="118" xml:id="s118" facs="adl/grundtvig/grundtvig01/grun1118"/>
+                     <p xml:id="idm140411866524144">Hr. M. troer, der gives trende Maader at behandle hin Oldtidens Levninger paa, og angiver disse at være:</p>
+                     <p xml:id="idm140411866523536">1) At give en tro Oversættelse af samme.</p>
+                     <p xml:id="idm140411866523056">2) At laane enkelte Træk, og bringe disse ind i et nyt Malerie.</p>
+                     <p xml:id="idm140411866522528">3) At u dfylde den gamle Skyggeridsning til et Heelt.</p>
+                     <p xml:id="idm140411866522080">Saa enige, vi tildeels ere i Ordene, saa lidet torde vi vel være det i en stor Deel af disses Betydning, hvilket vil vise sig i den følgende Undersøgelse.</p>
+                     <p xml:id="idm140411866521360">Hvad vi kunne vente af de eddiske Sanges tro Oversættelse, behøve vi ei at lære i Tydskland
+                                <hi rend="sup" xml:id="idm140411866520832">1</hi>
+, da vor Sandvig tilstrækkelig har viist det; men dette vilde jeg ikke kalde en poetisk Benyttelse, da det egentlig kun er et Arbeide til Digternes Brug.</p>
+                     <p xml:id="idm140411866519760">Ingen kan med mere Længsel end jeg hige efter Opfyldelsen af vor Oehlenschlägers Løvte om en Oversættelse af Islands Sagaer
+                                <hi rend="sup" xml:id="idm140411866519168">2</hi>
+; men herved maa jeg anmærke, deels, at hiint Løvte, saavidt jeg erindrer, ei strakte sig til Edda, og deels, at han tillige lovede, med varsom Haand at afviske det giennem Aarhundreder paafaldne Støv, der vanhældede deres Aasyn. Under denne Betingelse, men ogsaa kun under den, maatte man, af en Mand, som Aladdins Forfatter, ønske Sagaerne givne paa vort Maal, men neppe nogen af Sangene i Edda.</p>
+                     <p xml:id="idm140411866517744">At enkelte Træk kunne laanes, og indbringes i et nyt Maleri, er vist; men naar der lægges til: »af hvilken Skole det end er«, da trænger dette til en nøiere Bestemmelse. Skuede vi et Træk af Raphaels Pensel i et Maleri af en anden Skole, hvis Figurer allerede i sig selv viste en høi Tendents, og altsaa kunde slutte sig til hiint, da vilde det end mere hæves ved dette ene Træk; men overflyttedes det paa et Maleri af en lavere Skole, der laante sine Idealer af Virkeligheden, da maatte der enten fremstaae en saare ubehagelig Contrast, eller det Høiere maatte nedstemmes til det Lavere, hvorved det tabte sin Betydning, og da kunde man ei længere sige, det var et caracteristisk Glimt af den store Maler.</p>
+                     <p xml:id="idm140411866515872">Saaledes ogsaa her. I et sandt Digt, men ogsaa kun i et saadant, er det tilladt at laane et eller flere Træk af Oldtidens Digtning, der da enten maa forene sig til Digtets kulminerende Punkt, eller, som Straaler fra en høiere Sol, tiene til at give enkelte Partier et, i Følge deres Stilling nødvendigt, stærkere Lys.</p>
+                     <p xml:id="idm140411866514832">Den, som veed, at det blot Behagelige, udvortes Harmoniske
+                                <note anchored="true" xml:id="idm140411866514464">
+                           <hi rend="sup" xml:id="idm140411866514064">1</hi>
+Jens Møller henviser til
+                                    <hi rend="italics" xml:id="idm140411866513296"><!--<emph>-->Gräters<!--</emph>--></hi>
+tyske Oversættelse i Nordische Blumen.</note>
+                                <note anchored="true" xml:id="idm140411866512032">
+                           <hi rend="sup" xml:id="idm140411866511664">2</hi>
+Se ovenfor Side 60.</note>
+                                <pb n="119" xml:id="s119" facs="adl/grundtvig/grundtvig01/grun1119"/>
+ofte fremtraadte, som var det Poesi, og troede at smiggre Oldtiden, ved at nedværdige dens Figurer til betydningsløse Udvexter paa sit uorganiserede Hele, eller til Materialier i en Bygning af laveste Stiil, vil ikke antage dette for Ordstrid.</p>
+                     <p xml:id="idm140411866508944">At H. M. ei har forbundet samme Begreb med hine Udtryk, som jeg, synes at vise sig derved, at han forvexler denne Brug af Oldtiden med sammes comiske Behandling, der dog er noget ganske andet. At jeg ikke har misforstaaet ham, derfor borge disse hans Ord: »Saaledes har Baggesen giort, i det han skiænkede os en af vor Litteraturs ypperste comiske Fortællinger:
+                                <hi rend="italics" xml:id="idm140411866507872"><!--<emph>-->Odins Reise til Dovre<!--</emph>--></hi>
+«.</p>
+                     <p xml:id="idm140411866506704">Det er ikke her Stædet, at udvikle Ideen om comisk Digtning, men at den ingenlunde tillader al mulig Licents for at tilveiebringe Contrasten, Comus's Yndlingssøn, er dog nok vist; thi kun i Synspunkten, hvorfra Æmnet betragtes, er den negative Poesi forskiællig fra den positive, og begge maa gaae frem med samme Strænghed og Nødvendighed. Den paa Overfladen spillende Vittighed, Jovialitetens letspøgende Fader, der corresponderer med det
+                                <hi rend="italics" xml:id="idm140411866505792"><!--<emph>-->Behagelige<!--</emph>--></hi>
+, fortiener ikke Navn af comisk Digtning, skiøndt jeg vel veed, de ofte ere blevne, og end daglig blive forvexlede.</p>
+                     <p xml:id="idm140411866504368">Endog blot af dette Vink vil man kunde slutte, jeg ikke troer, at Baggesen i nysnævnte Fortælling har truffet den Synspunkt, hvorfra Mythen om Poesiens Oprindelse komisk burde sees, skiøndt jeg derfor ingenlunde nægter den meget spillende Vid, og enkelte sande comiske Træk, blandt hvilke jeg vel frit tør udpege det, der lader Dumhed blive en betinget Nødvendighed for Menneskene, paa det de ei, liig Qvaser, skulle briste af Klygt.</p>
+                     <p xml:id="idm140411866503200">Det var at ønske, at Oehlenschläger, med sit dybe Kiændskab til Oldtiden, og den comiske Styrke, der undertiden, som det synes, mod hans Villie, trænger sig frem, vilde skiænke os noget i dette Fag; thi nødig vilde jeg antage, at han virkelig, hvad nogle hans Yttringer halv lade formode, troer, den negative Digter staaer paa et lavere Trin end den positive, da jeg mener, der ei var vovet meget i den Paastand, at hiin stedse, under forandrede Omstændigheder, kunde blive, hvad denne, denne derimod ingenlunde altid, hvad hiin er. Uden at udvikle dette nøiere, ved at vise Forskiællen mellem Digternes og Digtarternes Superioritet, vil jeg blot anmærke, at Alderdommens komiske Behandling ingenlunde bestaaer i at fratage Mytherne deres Betydning, men i at give dem en anden, der, uden selv at være et Noget, bestyrtser ved sin tilsyneladende Dybde.</p>
+                     <pb n="120" xml:id="s120" facs="adl/grundtvig/grundtvig01/grun1120"/>
+                     <p xml:id="idm140411866499952">Nu komme vi til den tredie Maade at behandle Sangene i Edda paa, den, at udfylde den gamle Skyggeridsning til et Heelt. Bedre kunde vel Udtrykkene ei være valgte, og komme omtrent overeens med, hvad Øehlenschläger siger om sin underskiønne Bearbeidelse af Vaulunds Qvæde*).</p>
+                     <p xml:id="idm140411866498992">Ustridig er en saadan Udfyldning, der tilsætter af samme Malin, hvad Tidens Haand udslettede, og lader den dybe Sands, der skiuler sig bag Digtet, træde tydeligere frem, den Bearbeidelse, der aabner os det herligste Blik i Oldtiden. Stolte kunne vi være af, at vor Litteratur ei længere mangler et Mynster af dette Slags. Vi eie det i Vaulundurs Saga, og saa mange Modificationer, end det Ydre maatte kunne tilstæde, tør jeg troe, at hvert Arbeide, der fremtræder som Udfyldning af Eddas Sange, bør i sin indre Organisation ligne denne skiønne Blomst, hvis Rod staaer fast i Eddas hellige Jord, og hvis Krone, skiøndt paasat af en yngre Digter, synes udsprungen af dens egne Safter.</p>
+                     <p xml:id="idm140411866497120">Saaledes maa H. M. ei have tænkt; thi da havde han ei givet os dette Forsøg, der dog ogsaa skal være en Udfyldning, men, som han selv anmærker, mere beregnet efter Nutidens Smag. Saare studsede jeg ved at læse dette; thi vel veed jeg, at den forstandige Periode ogsaa har viist sig conseqvent nok til at berøre Oldtidens Helligdomme med ligesaa uskaansom og afklædende Haand, som ethvert andet Menneskets Høieste; men jeg troede, det dog engang var Tid at aflægge den underlige Grille, at ville assimilere Oldtid til Nutid, det er: giøre hiin ligesaa betydningsløs, som denne, istædenfor at man burde stræbe at eludere Tilværelsen, ved Fremstilling af den høiere svundne.</p>
+                     <p xml:id="idm140411866495296">Jeg veed ikke, om Hr. Ms. Arbeide vil behage det Publikum, der paastaaer at have varm Følelse for Oldtiden, men det veed jeg, at samme ei derved vilde lægges for Dagen. Ja jeg tvivler endog paa, at selv Smagen, denne hinkende Vrager og Maaler i Skiønhedens nyere Rige, vil paatrykke dette Product sit anbefalende Stempel.</p>
+                     <p xml:id="idm140411866494240">Det Følgende maa afgiøre, om Ovenstaaende er en løselig henkastet Dadel, eller Resultatet af den strængeste Prøvelse, hvilken jeg troede nødvendig, ei saameget for Arbeidets egen Skyld, som for den Skade, det, leveret af en Mand, hvis
+                                <note anchored="true" xml:id="idm140411866493424">*)
+                                    <p xml:id="idm140411866492848">»Dette gamle og ærværdige Sagns fierne og halv hendøde Toner« - siger Digteren - »har jeg, saa godt det stod til mig, samlet i min Siæls Øre, og udfyldt med, hvad, en indvortes Stemme sagde mig, var udslettet af Tidens Haand«. Jeg maa ellers bekiænde, at dette mindede mig ubehagelig om, at jeg ei levede i Oldtiden, og har derfor neppe sit rette Sted i Digtet selv.</p>
+                        </note>
+                                <pb n="121" xml:id="s121" facs="adl/grundtvig/grundtvig01/grun1121"/>
+Kundskaber fortiene Agtelse, og Indrykket i et saa meget læst, og med Rette yndet Tidsskrift, kunde volde, ved at udlokke flere paa denne ligesaa jevne, som vildfarende Vei.</p>
+                  </div>
+                  <div xml:id="idm140411866489808">
+                     <p xml:id="idm140411866489552">Det synes næsten, som Forfatteren ei ret er enig med sig selv om Synspunkten, hvorfra han ønsker sit Arbeide betragtet, thi skiøndt han siger sig, at ville udfylde den gamle Skyggeridsning, og indbringe mere Lys og Eenhed i Fortællingen, paastaaer han dog, det er ingen Kopi, men blot et Maleri af Oldtiden. Det beroer her ganske paa Begrebet om Ordet: Kopi; men for ei at efterlade Noget, vil jeg, efter at have betragtet det som en Bearbeidelse af Digtet:
+                                <hi rend="italics" xml:id="idm140411866488656"><!--<emph>-->Skirners Reise<!--</emph>--></hi>
+, tilføie et Par Ord om det som et blot Oldtidsmaleri.</p>
+                     <p xml:id="idm140411866487360">Naar man stiger ned fra den høiere Standpunkt, er Skirners Reise et af dem blandt Eddas Digte, der mindst trængte til en Udfyldning, da det træder frem som et sluttet Heelt, og bestemt angiver Aarsagen til, Omstændighederne ved, og Udfaldet af Reisen. Tilsætningerne, det har faaet, ville neppe give det mere Interesse, uden for dem, der ere saa vante til Romanintriger, at de endog ville gienfinde dem blandt Guderne, og man maa ikke saa ganske troe Forfatteren, naar han siger, ei at have digtet noget derind, som jo stemmer overeens med Personernes Karakter, og Fabelalderens Kostume. Intet var lettere end at godtgiøre dette, men da jeg siden maa omhandle netop disse Tilsætninger, vil jeg undgaae Gientagelse, og blot her betragte de Forandringer, Digtet har maattet lide, saavel i udvortes, som indvortes Bygning, for at udfinde Resultatet, om det derved er blevet skiønnere, lysere, og mere eens med sig selv. Det sidste angiver Hr. M. selv som sit Maal, og hans Forbindtlighed til at give noget Skiønnere for, hvad han bortkastede, vil neppe Nogen drage i Tvivl.</p>
+                     <p xml:id="idm140411866485040">Forandringerne i Digtets Indhold ere foruden nogle mindre betydelige:</p>
+                     <p xml:id="idm140411866484576">Udeladelsen af Skirners Tale til Hesten, og Digtets Slutning.</p>
+                     <p xml:id="idm140411866484112">Benyttelsen af en Tryllestav og et usynligt Tryllespeil, istæden for Trudslerne i Digtet, til at forandre Gerdas Sind.</p>
+                     <p xml:id="idm140411866483472">Denne sidstnævnte Forandring har Forfatteren havt i Tanker, naar han ei tvivler paa, at jo den skiønsomme Kiænder vil bifalde den Maade, hvorpaa han forklarer og hæver Gerdas Vægring.</p>
+                     <pb n="122" xml:id="s122" facs="adl/grundtvig/grundtvig01/grun1122"/>
+                     <p xml:id="idm140411866481472">Imidlertid kunne dog nok her med Føie giøres adskillige Indvendinger.</p>
+                     <p xml:id="idm140411866480928">Brugen af Runer, Elskovsdrikke, og indviede Frugter, er bekiændt nok*), men ved en Tryllestav at oplukke en saadan Perspektivkasse, som Leviathan for Faust, og derved forandre Pigens Sind, finder neppe nogen Hiemmel i Levningerne fra Nordens Oldtid**).</p>
+                     <p xml:id="idm140411866480016">Dog, om Min Tryllestav og dens Virkninger end ikke vare saa fremmede for gamle Norden, som jeg troer dem, saa vilde de dog aldrig her være at anvende, eller foretrække for Maaden, hvorpaa Skinier i det gamle Qvæde naaer sit Maal. Man behøver blot at huske, at Gerda ei var en af Nutidens Damer, der, følende Mangel paa indvortes Glands, ofte saa gierne sælge sig for udvortes Glimmer, laantes den end fra Jordens mest underordnede Guder. Nei, Gerda var den ubestikkelige Oldtidens Mø, der lukkede Øret [læs: Øiet] for de elleve Æbler af luende Guld, ja selv for Drupner, denne over al Priis ophøiede Ring, der lader Jordens største Underværker bag sig, i det den, som Konstens høieste Triumph, forbandt den livløse Naturs skinnende Krone med det organiske Legems frembringende Kraft***). Vilde hun ladet sig bevæge ved at see den Pragt, hun desuden vel vidste, fulgte med Guden? neppe! men en ganske anden Virkning maatte det giøre paa Pigen, hvad Skirner sagde, hvilket jeg her, for at sætte flere i Stand til at dømme, end dem, der have Originalen, eller Sandvigs Oversættelse, vil udskrive:</p>
+                     <lg xml:id="idm140411866477264">
+                        <l xml:id="idm140411866477008">Seer du det Sværd, Mø!</l>
+                        <l xml:id="idm140411866476560">Tyndt og smidigt,</l>
+                        <l xml:id="idm140411866476144">Jeg har i Haanden!</l>
+                        <l xml:id="idm140411866475728">Vist for dets Egge</l>
+                        <l xml:id="idm140411866475312">Falder gamle Jette,</l>
+                        <l xml:id="idm140411866474896">Feig bli'r din Fader.</l>
+                     </lg>
+                     <note anchored="true" xml:id="idm140411866474352">*)
+                                <p xml:id="idm140411866473776">Som levende i et litterairt Tomos, haaber jeg, det tilgives mig, at jeg ei kan opgive de Sider og Linier i Volsunga, Thorstein Vikingsons Saga etc., hvor Beviserne findes for - hvad der ei trænger til Beviis!</p>
+                     </note>
+                     <note anchored="true" xml:id="idm140411866472832">**)
+                                <p xml:id="idm140411866472256">Noten under Ordet
+                                    <hi rend="italics" xml:id="idm140411866471936">tams vöndr i</hi>
+Eddas magnæanske Udgave, som maaskee har forledt Hr. M., troer jeg med Ret at kunne forbigaae, da den deels er ubestemt, og deels ei støtter sig paa noget Oldtidens Sagn, men blot paa en saare vilkaarlig Forklaring af Ordet
+                                    <hi rend="italics" xml:id="idm140411866470688">gambantein</hi>
+i det Følgende.</p>
+                     </note>
+                     <note anchored="true" xml:id="idm140411866469696">***)
+                                <p xml:id="idm140411866469120">Man huske her den skiønne Mythe, at:</p>
+                        <lg xml:id="idm140411866468640">
+                           <l xml:id="idm140411866468512">Otte lige tunge (Ringe)</l>
+                           <l xml:id="idm140411866468224">Dryppe fra den</l>
+                           <l xml:id="idm140411866467936">Hver niende Nat.</l>
+                        </lg>
+                     </note>
+                     <pb n="123" xml:id="s123" facs="adl/grundtvig/grundtvig01/grun1123"/>
+                     <lg xml:id="idm140411866466192">
+                        <l xml:id="idm140411866465936">Jeg dig med Tvangs Kiæp*)</l>
+                        <l xml:id="idm140411866465488">Dræber, eller tæmmer</l>
+                        <l xml:id="idm140411866465040">Efter min Vilije, Mø!</l>
+                        <l xml:id="idm140411866464592">Did skal du gange,</l>
+                        <l xml:id="idm140411866464176">Hvor ei Folkets Sønner</l>
+                        <l xml:id="idm140411866463728">Siden dig see.</l>
+                     </lg>
+                     <lg xml:id="idm140411866463184">
+                        <l xml:id="idm140411866462928">Hist du paa Ørns Høi</l>
+                        <l xml:id="idm140411866462480">Tidlig skal sidde,</l>
+                        <l xml:id="idm140411866462064">See ud fra Verden,</l>
+                        <l xml:id="idm140411866461648">Vendt imod Hel.</l>
+                        <l xml:id="idm140411866461232">Ledere Mad du</l>
+                        <l xml:id="idm140411866460816">End hver Mand da fange,</l>
+                        <l xml:id="idm140411866460400">Styggeste Orm paa Jorden!</l>
+                     </lg>
+                     <lg xml:id="idm140411866459840">
+                        <l xml:id="idm140411866459584">Til Under du vorder,</l>
+                        <l xml:id="idm140411866459168">Naar du udkommer,</l>
+                        <l xml:id="idm140411866458752">Studsende Hrimner</l>
+                        <l xml:id="idm140411866458336">Og Alt dig beskuer;</l>
+                        <l xml:id="idm140411866457920">Meer kiændt du skal vorde,</l>
+                        <l xml:id="idm140411866457472">End Gudernes Vægter.</l>
+                        <l xml:id="idm140411866457024">Bortgab saa din Længsel!</l>
+                     </lg>
+                     <lg xml:id="idm140411866456448">
+                        <l xml:id="idm140411866456192">Øde og Angest,</l>
+                        <l xml:id="idm140411866455776">Fængsel og Utaal</l>
+                        <l xml:id="idm140411866455344">Smertens de bittre</l>
+                        <l xml:id="idm140411866454928">Taarer forøge!</l>
+                        <l xml:id="idm140411866454496">Sid du paa Sædet!</l>
+                        <l xml:id="idm140411866454064">Men jeg dig forkynder</l>
+                        <l xml:id="idm140411866453648">Grumtbølgende Smerte,</l>
+                        <l xml:id="idm140411866453200">Og dobbelte Jammer.</l>
+                     </lg>
+                     <lg xml:id="idm140411866452656">
+                        <l xml:id="idm140411866452400">Spøgelser skulle dig</l>
+                        <l xml:id="idm140411866451952">Ængste om klaren Dag</l>
+                        <l xml:id="idm140411866451536">Hist udi Jetters Gaard.</l>
+                     </lg>
+                     <lg xml:id="idm140411866450992">
+                        <l xml:id="idm140411866450736">Til Hrimthussers Sale</l>
+                        <l xml:id="idm140411866450320">Skal du hver Dag</l>
+                        <l xml:id="idm140411866449904">Vanke udtæret,</l>
+                        <l xml:id="idm140411866449472">Vanke fortvivlet.</l>
+                        <l xml:id="idm140411866449056">Graad du for Gammen</l>
+                        <l xml:id="idm140411866448640">Stedse skal have,</l>
+                        <l xml:id="idm140411866448224">Bade din Smerte i Taarer.</l>
+                     </lg>
+                     <note anchored="true" xml:id="idm140411866447664">*)
+                                <p xml:id="idm140411866447088">Den omtalte
+                                    <hi rend="italics" xml:id="idm140411866446768">tams vöndr</hi>
+, der enten er en blot Omskrivning for
+                                    <hi rend="italics" xml:id="idm140411866445984">mæki</hi>
+Sværdet i det Foregaaende, eller den Runestav, hvormed Gerda siden trues.</p>
+                     </note>
+                     <pb n="124" xml:id="s124" facs="adl/grundtvig/grundtvig01/grun1124"/>
+                     <lg xml:id="idm140411866443632">
+                        <l xml:id="idm140411866443376">Til trehov'det Thusse</l>
+                        <l xml:id="idm140411866442960">Skal du bindes,</l>
+                        <l xml:id="idm140411866442544">Eller mandløs være.</l>
+                        <l xml:id="idm140411866442096">Din Lyst skal gribe dig</l>
+                        <l xml:id="idm140411866441680">Hver en Morgen,</l>
+                        <l xml:id="idm140411866441264">Du vorde som Tidslen,</l>
+                        <l xml:id="idm140411866440848">Der trængt henvisner</l>
+                        <l xml:id="idm140411866440400">I golde Jord!*)</l>
+                     </lg>
+                     <lg xml:id="idm140411866439856">
+                        <l xml:id="idm140411866439600">Jeg gik til Høien,</l>
+                        <l xml:id="idm140411866439168">Til grønne Skove,</l>
+                        <l xml:id="idm140411866438736">Hævnstaven at faae,</l>
+                        <l xml:id="idm140411866438288">Hævnstaven jeg fik.</l>
+                     </lg>
+                     <lg xml:id="idm140411866437712">
+                        <l xml:id="idm140411866437456">Vred er dig Odin,</l>
+                        <l xml:id="idm140411866437040">Vred er dig Asers Fyrste,</l>
+                        <l xml:id="idm140411866436608">Freir dig skal hade,</l>
+                        <l xml:id="idm140411866436192">Men ei før, onde Mø!</l>
+                        <l xml:id="idm140411866435744">Dig haver rammet</l>
+                        <l xml:id="idm140411866435328">Gudernes hævnende Vrede.</l>
+                     </lg>
+                     <lg xml:id="idm140411866434752">
+                        <l xml:id="idm140411866434496">Hører, Jetter!</l>
+                        <l xml:id="idm140411866434064">Hører, Hrimthusser!</l>
+                        <l xml:id="idm140411866433616">Suttungs Sønner!</l>
+                        <l xml:id="idm140411866433184">Selv Asers Venner!</l>
+                        <l xml:id="idm140411866432768">Hvor jeg forbyder,</l>
+                        <l xml:id="idm140411866432352">Hvor jeg forbander</l>
+                        <l xml:id="idm140411866431936">Mands Fryd for Pigen,</l>
+                        <l xml:id="idm140411866431520">Mands Nyden for Pigen!</l>
+                     </lg>
+                     <lg xml:id="idm140411866430976">
+                        <l xml:id="idm140411866430720">Hrimgrimner er Thursen</l>
+                        <l xml:id="idm140411866430304">Dig have skal.</l>
+                        <l xml:id="idm140411866429888">Neden for Nagrind,</l>
+                        <l xml:id="idm140411866429472">Ved Træernes Rødder,</l>
+                        <l xml:id="idm140411866429024">Der skal dig Trælle</l>
+                        <l xml:id="idm140411866428576">Gedepis give.</l>
+                        <l xml:id="idm140411866428160">Aldrig du bedre</l>
+                        <l xml:id="idm140411866427744">Drikke skal nyde,</l>
+                        <l xml:id="idm140411866427328">Mø! efter din Villje,</l>
+                        <l xml:id="idm140411866426880">Mø! efter min Villje.</l>
+                     </lg>
+                     <note anchored="true" xml:id="idm140411866426304">*)
+                                <p xml:id="idm140411866425728">Jeg tør ikke paastaae, at have truffet den retteste Oversættelse af dette mørke Sted, men til Sammenhængen troer jeg den passende. Man kunde ellers ogsaa oversætte: »du vorde som Tidselen, der trængt af Ilden, hendøer ufrugtbar«. Meningen bliver den samme.</p>
+                     </note>
+                     <pb n="125" xml:id="s125" facs="adl/grundtvig/grundtvig01/grun1125"/>
+                     <lg xml:id="idm140411866423472">
+                        <l xml:id="idm140411866423216">Thurs jeg dig skiærer</l>
+                        <l xml:id="idm140411866422768">Kun udi tre Træk,</l>
+                        <l xml:id="idm140411866422336">Kraftløslied, Galskab,</l>
+                        <l xml:id="idm140411866421888">Dertil og Utaal,</l>
+                        <l xml:id="idm140411866421472">Saa jeg det afskiær,</l>
+                        <l xml:id="idm140411866421024">Som jeg det paaskiær,</l>
+                        <l xml:id="idm140411866420576">Om vi behøve det.</l>
+                     </lg>
+                     <p xml:id="idm140411866420016">Herved maatte Gerda rystes, og vi finde det saare naturligt, at hun svarer:</p>
+                     <lg xml:id="idm140411866419536">
+                        <l xml:id="idm140411866419280">Held dig ind heller, Svend!</l>
+                        <l xml:id="idm140411866418848">Tag imod liskalken,</l>
+                        <l xml:id="idm140411866418432">Fuld af den gamle Miød!</l>
+                     </lg>
+                     <p xml:id="idm140411866417856">Dog, jeg forudseer, at Hr. M. vil sige, Gerda troede ei, at Skirner var Freis Sendebud, og denne Tvivl kunde ei betages hende ved Trudsler, men vel ved et Glimt af hans Guddom.</p>
+                     <p xml:id="idm140411866417280">Først maa jeg anmærke, at Gerda slet ikke tvivlede, men strax troede, han maaskee var en af Aserne, og siden antog ham for det, han sagde sig at være. Men sæt, hun havde tvivlet, maatte da ei Tvivlen flux forsvinde, naar hun skuede Drupner, der brændt med Balder, og af Hermoder hiembragt til Odin, vel ei kunde være uden i Guders Værge? Var dette hende ei nok, vilde hun neppe overtydes ved et Syn, der snarere kunde henregnes til Troldevid.</p>
+                     <p xml:id="idm140411866416272">Da altsaa Intet nødte Hr. M. til at forbigaae Skirners stærke Qvad, der ved en fri Bearbeidelse end burde vundet, vil neppe Nogen med Sands for det Skiønne tilgive, mindre bifalde denne Forandring.</p>
+                     <p xml:id="idm140411866415472">Uden nogen Erstatning er Skirners Tale til Hesten udeladt, som lyder saaledes:</p>
+                     <lg xml:id="idm140411866414992">
+                        <l xml:id="idm140411866414736">Mørkt er ude,</l>
+                        <l xml:id="idm140411866414304">Tid for os at fare</l>
+                        <l xml:id="idm140411866413888">Over lyngfulde Field,</l>
+                        <l xml:id="idm140411866413472">Over Thursernes Land.</l>
+                        <l xml:id="idm140411866413056">Begge hiemkomme vi,</l>
+                        <l xml:id="idm140411866412640">Eller os begge</l>
+                        <l xml:id="idm140411866412224">Fanger hiin mægtige Jette.</l>
+                     </lg>
+                     <p xml:id="idm140411866411648">Neppe er det saa ligegyldigt, som Hr. M. synes at have anseet det for; thi foruden dels eiendommelige Styrke, viser det os, at
+                                <pb n="126" xml:id="s126" facs="adl/grundtvig/grundtvig01/grun1126"/>
+Skirner, skiøndt rede til at vove Alt, dog ogsaa veed, hvad han vover blandt grumme Jetter, der stundom end ei vege for den knusende Miølner. Han betragter da el Reisen som et Legeværk, og vi slutte os fastere til ham, i det vi dele hans Fare.</p>
+                     <p xml:id="idm140411866409392">I Forbigaaende maa jeg anmærke, at her, om ellers noget Sted, var Rum for en Tilsætning, naar den var saadan, at vi, trods vor paa Udfaldet spændte Forventning, nødtes til at dvæle ved den, for ei maaskee ene at komme til Gymers Gaard, og segne for hans dræbende Blik, uden at kunde lindre Freirs Qvide.</p>
+                     <p xml:id="idm140411866408368">Den anden Udeladelse har uhældigviis truffet et ikke mindre skiøn(d)t Sted i Digtet, dets Slutning, der kun erstattes os med det magre - næsten maatte jeg sige, platte -</p>
+                     <lg xml:id="idm140411866407616">
+                        <l xml:id="idm140411866407360">Saa endtes Skirners Frieri,</l>
+                     </lg>
+                     <p xml:id="idm140411866406800">hvis eneste Fortrin dog ustridig er det saare relative, at det rimer med: »de Dage ni«.</p>
+                     <p xml:id="idm140411866406224">Da Skirner kommer Hiem, stander Freir ude, og siger:</p>
+                     <lg xml:id="idm140411866405776">
+                        <l xml:id="idm140411866405520">Siig du mig det, Skirner!</l>
+                        <l xml:id="idm140411866405088">Før Sadel er tagen af Hest,</l>
+                        <l xml:id="idm140411866404624">Før fremad du flytter din Fod,</l>
+                        <l xml:id="idm140411866404160">Hvad du udretted'</l>
+                        <l xml:id="idm140411866403744">I Jetteverden</l>
+                        <l xml:id="idm140411866403328">Efter min og din Villje!</l>
+                     </lg>
+                     <sp xml:id="idm140411866402768">
+                        <speaker xml:id="idm140411866402512">
+                           <hi rend="italics" xml:id="idm140411866402384">Skirner</hi>
+.</speaker>
+                        <lg xml:id="idm140411866401568">
+                           <l xml:id="idm140411866401312">Barri hedder,</l>
+                           <l xml:id="idm140411866400896">Som begge vi vide,</l>
+                           <l xml:id="idm140411866400480">Lueglindsende Lund,</l>
+                           <l xml:id="idm140411866400064">Efter Nætterne ni</l>
+                           <l xml:id="idm140411866399632">Gerda vil Niords Søn</l>
+                           <l xml:id="idm140411866399184">Der unde Gammen.</l>
+                        </lg>
+                     </sp>
+                     <sp xml:id="idm140411866398512">
+                        <speaker xml:id="idm140411866398256">
+                           <hi rend="italics" xml:id="idm140411866398128">Freir</hi>
+.</speaker>
+                        <lg xml:id="idm140411866397312">
+                           <l xml:id="idm140411866397056">Lang er Nat,</l>
+                           <l xml:id="idm140411866396640">Længere tvende,</l>
+                           <l xml:id="idm140411866396208">Hvor kan jeg udholde tre?</l>
+                           <l xml:id="idm140411866395776">Ofte mig Maaned</l>
+                           <l xml:id="idm140411866395360">Kortere tyktes,</l>
+                           <l xml:id="idm140411866394944">End nu den halve</l>
+                           <l xml:id="idm140411866394528">Længselens Nat.</l>
+                        </lg>
+                     </sp>
+                     <pb n="127" xml:id="s127" facs="adl/grundtvig/grundtvig01/grun1127"/>
+                     <p xml:id="idm140411866392592">Er denne Udeladelse Nutiden kiær, da ville dog vist Mange frabede sig Indlemmelsen i en saadan Nutid.</p>
+                  </div>
+                  <div xml:id="idm140411866391856">
+                     <p xml:id="idm140411866391600">Vende vi nu Øiet til det ydre eller poetiske Klædemon, da blive vi mange Forandringer vaer, og kun saare faa af de gamle Vendinger ere beholdte. Først maa jeg i Almindelighed bemærke, at Originalen stedse vedligeholder det rolige Alvor, der er den høie Gienstand værdig, og altsaa ei har selv fierneste Deel i det utidige Spas, der overalt er indblandet i den ny Fortælling. Al Spøg er her paa urette Sted, meget mere en saadan som Bemærkningen, da Freirs Moder mærkede hans Tungsind: »Sligt Mødre først dog altid see«, og mange andre i samme Skik.</p>
+                     <p xml:id="idm140411866390576">Dernæst vil jeg give nogle faa Prøver til Sammenligning mellem Stilen i begge.</p>
+                     <p xml:id="idm140411866390016">Istæden for den lange Tiltale og Giensvar, som vi i det Ny finde meller Freir og Skirner, udtrykker Originalen sig kortelig saalunde:</p>
+                     <sp xml:id="idm140411866389344">
+                        <speaker xml:id="idm140411866389088">
+                           <hi rend="italics" xml:id="idm140411866388960">Skirner</hi>
+.</speaker>
+                        <lg xml:id="idm140411866388144">
+                           <l xml:id="idm140411866387888">Siig du mig det, Freir!</l>
+                           <l xml:id="idm140411866387472">Gudernes Vældige!</l>
+                           <l xml:id="idm140411866387040">Som jeg vilde vide,</l>
+                           <l xml:id="idm140411866386624">Hvi du sidder ene</l>
+                           <l xml:id="idm140411866386208">Her i lange Sale,</l>
+                           <l xml:id="idm140411866385792">Herre! om Dagen?</l>
+                        </lg>
+                     </sp>
+                     <sp xml:id="idm140411866385120">
+                        <speaker xml:id="idm140411866384864">
+                           <hi rend="italics" xml:id="idm140411866384736">Freir</hi>
+.</speaker>
+                        <lg xml:id="idm140411866383920">
+                           <l xml:id="idm140411866383664">Hvi skal jeg sige dog</l>
+                           <l xml:id="idm140411866383248">Kæmpe hiin unge</l>
+                           <l xml:id="idm140411866382816">Min uhyre Smerte?</l>
+                           <l xml:id="idm140411866382400">Alfers Bestraaler</l>
+                           <l xml:id="idm140411866381984">Lyser alle Dage,</l>
+                           <l xml:id="idm140411866381568">Men fryder ei mig.</l>
+                        </lg>
+                     </sp>
+                     <p xml:id="idm140411866380896">Freir beskriver sin Mø saaledes:</p>
+                     <lg xml:id="idm140411866380432">
+                        <l xml:id="idm140411866380176">Armen lyste,</l>
+                        <l xml:id="idm140411866379760">Men af Armen</l>
+                        <l xml:id="idm140411866379344">Luften og Havet.</l>
+                     </lg>
+                     <p xml:id="idm140411866378800">Den ny Bearbeider har:</p>
+                     <lg xml:id="idm140411866378384">
+                        <l xml:id="idm140411866378128">- - - - Hvilken Ynde</l>
+                        <l xml:id="idm140411866377712">I Blik og Skabning, hvilket Skiær</l>
+                        <l xml:id="idm140411866377248">Af Majestæt rundtom gienlynde</l>
+                        <l xml:id="idm140411866376784">Af Luft og Hav, da hun fremtreen</l>
+                     </lg>
+                     <pb n="128" xml:id="s128" facs="adl/grundtvig/grundtvig01/grun1128"/>
+                     <p xml:id="idm140411866374976">Hvilken Skildring giver os det høieste Begreb om Gerdas Skiønhed, og hvilken passede bedst for gamle Nordens Gud? Skirner forlanger i al Enfoldighed</p>
+                     <lg xml:id="idm140411866374272">
+                        <l xml:id="idm140411866374016">Det Sværd,</l>
+                        <l xml:id="idm140411866373600">Der selv sig blotter</l>
+                        <l xml:id="idm140411866373184">Mod Jetters Æt;</l>
+                     </lg>
+                     <p xml:id="idm140411866372624">men her maa han minde Freir om, at han i sin Elskovs Drøm og Sorgens Runs (?) glemte den Mand, der, som han om sig selv heel sindrig mælder:</p>
+                     <lg xml:id="idm140411866371936">
+                        <l xml:id="idm140411866371680">- - - Omgiordet med dit Sværd,</l>
+                        <l xml:id="idm140411866371216">(Hvis du det gier, mit Navn det bær)</l>
+                        <l xml:id="idm140411866370736">De Jetters Pande vel skal finde,</l>
+                        <l xml:id="idm140411866370304">Som vove tør en blodig Leeg</l>
+                        <l xml:id="idm140411866369840">Mod ham, som Lykken aldrig sveeg.</l>
+                     </lg>
+                     <p xml:id="idm140411866369280">Eddas Sanger lader Gerda spørge:</p>
+                     <lg xml:id="idm140411866368816">
+                        <l xml:id="idm140411866368560">Hvad er det dundrende Bulder,</l>
+                        <l xml:id="idm140411866368128">Som jeg hører lyde</l>
+                        <l xml:id="idm140411866367696">Hid til vor[t] Huus?</l>
+                        <l xml:id="idm140411866367280">Jord bæver,</l>
+                        <l xml:id="idm140411866366848">Alle Gymers Gaarde</l>
+                        <l xml:id="idm140411866366432">Skiælve derved.</l>
+                     </lg>
+                     <p xml:id="idm140411866365872">Men Hr. M. lader hende kun lytte</p>
+                     <lg xml:id="idm140411866365440">
+                        <l xml:id="idm140411866365184">Til Gangerens Trin, som Gienlyd gav</l>
+                        <l xml:id="idm140411866364752">I Hallen - -
+                                    <hi rend="italics" xml:id="idm140411866364432">- - -</hi>
+                        </l>
+                     </lg>
+                     <p xml:id="idm140411866363488">At det Nye her - som vel paa flere Stæder - har Fortrinet med Hensyn paa den alt Muligt og Rimeligt nøie afmaalende Forstand, tilstaaer jeg gierne; men nu opstaaer Spørgsmaalet: om den Tilværelse, Digteren skaber, bør være indkneben mellem samme Skranker, som den os omringende Virkelighed? Er det saa, da seer jeg ingen Grund til at yde den saakaldede Digter Tak for sine Vers; thi da har han ingen anden Fortieneste, end ved sine Fodmaal ligesom at have nødt os til at tælle Hverdagslivets matte Pulsslag.</p>
+                     <p xml:id="idm140411866362416">Istæden for at opholde Læseren med flere Prøver, vil jeg med faa Ord berøre Arbeidet, som et Oldtids Maleri, hvori Skirners Reise har maattet tiene som Bygværk.</p>
+                     <pb n="129" xml:id="s129" facs="adl/grundtvig/grundtvig01/grun1129"/>
+                     <p xml:id="idm140411866360544">Strax studser Øiet ved Titelen: »Kiærlighedsgudernes Straf«;*) thi hvem kiænder i Norden nogen Gud, end sige Guder, for Kiærlighed?</p>
+                     <p xml:id="idm140411866359872">Indgangen lyder saa:</p>
+                     <lg xml:id="idm140411866359456">
+                        <l xml:id="idm140411866359200">Hvi tæmmer ei din Almagtshaand,</l>
+                        <l xml:id="idm140411866358736">O Braga! den forvovne Haand,</l>
+                        <l xml:id="idm140411866358304">Som uindviet sig tør driste,</l>
+                        <l xml:id="idm140411866357840">Din høie Harpe at bortliste?</l>
+                        <l xml:id="idm140411866357376">At aabne dine Tempeldørre</l>
+                        <l xml:id="idm140411866356928">For en vanhellig Afkoms Blik?</l>
+                     </lg>
+                     <p xml:id="idm140411866356368">Ei vil jeg opholde mig ved den underlige Stemning, det sætter Læseren i, naar en Forfatter strax erklærer sig ubeføiet til at behandle Æmnet, han valgte; thi det er nu engang blevet Mode, skiøndt Gud veed, hvorfor? thi, det være Sandhed, eller ikke, bliver det lige upassende.</p>
+                     <p xml:id="idm140411866355408">Jeg udskrev kun hine Linier, for at vise, hvad Forfatteren har givet os Ret til at fordre. Enten maa vi see Valhals Guder ved værdig Konst nedstyrtede fra deres Throner, hvis Glands og Høide dog i Baggrunden maa skimtes, for at Faldets Dybde kan beregnes, eller vi maa kunne kaste et lyst Blik ind i Digtgudens skiolddækkede Tempel. Smaaheds Børnespil maa da ikke trygle om et Smiil, og Svagheds Vaandeklage ikke naae vort Øre. Kun den høistemte Harpes rystende Toner maa lyde om de alraadende Guders betydningsfulde Kamp, eller de gudlige Heltes Stræben efter Einheriers Fryd. Intet maa da heller møde os paa denne Vandring, uden Nordens Guder og Nordens Mænd.</p>
+                     <p xml:id="idm140411866354160">Men hvad faae vi at see og høre? En Gud fornærmer Overguden, og straffes derfor, ved at elske, og komme i Besiddelse af Giensianden for sin Kiæiiighed. Skal heri være nogen Sands, da maa man ansee den tilfredsstillede Kiærlighed for en Ulykke; thi antager man Kiærligheden for Livets eneste sande Poesi, for Guddomsgnisterne, der ved Berørelse opblusse til en hellig Lue, hvilken slynger sig saa tæt om de Elskende, at de stande liig en samvoxet Plante, hvis Dobbelthed ene kiændes i de tvende Kroners evige Kys, og af det tofoldige Liv, der udgyder sig giennem deres Porer, hvo vilde da ikke synde, for at fortiene
+                                <note anchored="true" xml:id="idm140411866353232">*)
+                                    <p xml:id="idm140411866352656">Den Anmærkning rammer blot en hidtil urettet Trykfeil. Den rigtige Titel er:
+                                        <hi rend="italics" xml:id="idm140411866352144"><!--<emph>-->Kiærlighed, Gudernes Straf<!--</emph>--></hi>
+,
+                                        <lb xml:id="idm140411866351008"/>
+                                        <bibl xml:id="idm140411866350752">K. R. [d. e. Rahbek]</bibl>
+                                    </p>
+                        </note>
+                                <pb n="130" xml:id="s130" facs="adl/grundtvig/grundtvig01/grun1130"/>
+en saadan Straf? Potensere vi nu Kiærligheden saaledes, som den maatte udtale sig giennem Guden, da vorder Straffen en end mere glimrende Belønning. Dog dette maa Freir ei have følt, ligesom han i det Hele opfører sig - om jeg saa maa tale - saare ugudelig. En fremmed Mythologi med nordisk Anstrøg møde vi strax; thi hvem gienfandt i Eddas hellige Sange den skinsyge Juno, den forliebte omflagrende Jupiter, de usle ægteskabelige Stride mellem Gudernes Ypperste? Hvo kiænder anden Strid mellem Odin og Frigga, end den, hvori de modsatte hinanden deres Klygt, for at hæve den Dødelige, hver havde udkaaret til sin Yndling, uden at denne forbittrede deres Samliv, der stedse var Udtrykket af reen Harmoni? hvo deelte Aserne? hvo lod Freir optræde som Odins Medbeiler? Sikkert ikke Oldtidens Digtning; thi den skildrer Aserne som en Klippekiæde, enig med sig selv, kun anfægtet af de hule Storme, i hvilke de gamle Guders Røst hvinede om deres Tinder, af de høie Jordskiælv, der udgik fra Lokes giftbesprudlede Lemmer, af Muspels Flammer, der, giennembrydende, truede at splitte dem, og af Havets stigende Bølger, der hævede sig paa Midgardsomnens Ryg. Odin har ei, som Zevs, ved en Lynstraale knuset Titanerne; nei, fængslede vente de paa Ragnarokr, for at maale deres Kraft med hans, og de andre Guders, som derfor slutte sig tæt til hinanden mod de fælles Fiender.</p>
+                     <p xml:id="idm140411866346832">Saare urigtigt er det, at lade Odin være vred paa Freir, fordi denne paa Jorden lovsynges som Freds og Frugtbarheds Giver; thi, forudsat, at Aserne burde være saaledes uenige, maa man, for at troe hiint, bestemt antage Odin som Krigens, og Frei som Fredens Gud. Men, mon der ikke ofredes til Odin for god Grøde, mon ikke Krigen ligesaavel kaldtes Freis Leeg, som Thyrs Thing, og Odins Uveir?*) Sikkert have Alle, der ei bleve paa Overfladen af Nordens Mythologi, fundet, hvor vanskeligt, eller rettere umuligt, det er, at tillægge enhver af Aserne sin bestemte Forretning, og jeg seer heri en større Fuldkommenhed, end hos Grækernes Guddomme med den strængere Individualitet. Af det Sagde troer jeg det indlysende, at Grækernes Gudestrid ei kan eller bør omplantes paa Nordens Grund, og vil da end et Sagn, at Odin vrededes, fordi Frei besteg Hlidskialf, maa det ansees for Tilsætning af en senere Haand, der, kiændt med Græker eller Romere, vilde gienfinde deres Gudelære i sit Fædrelands. Dette er saameget des troligere, som Sagnet først findes i
+                                <note anchored="true" xml:id="idm140411866344608">*) Saasom i Glyms Drape.</note>
+                                <pb n="131" xml:id="s131" facs="adl/grundtvig/grundtvig01/grun1131"/>
+den saakaldede Snorres Edda. Vil man end ei give mig Ret, skiøndt hele Gudelæren er mit Beviis, da forbinder man sig ogsaa til at oplyse, hvorledes Freis Kiærlighed kunde være en Følge af Odins Vrede, og Skirner dog medbringe
+                                <hi rend="italics" xml:id="idm140411866342112"><!--<emph>-->Odins Ring<!--</emph>--></hi>
+, Drupner, for derved at vinde Pigen, men det er nok umuligt. Dog, antog man ogsaa for et Øieblik, at Frei skulde straffes af Odin, vandtes derved Intet for Hr. M.; thi da opstode tvende retmæssige Fordringer, som han ei har fyldestgiort. Straffen maatte udøves af En, som kunde straffe, og være afpasset efter Forseelsen, hvis Storhed er antaget. Freia kunde ikke straffe, thi hun havde ei, liig Aphrodite, en buevæbnet Eros, der med barnagtig Ondskab forbittrede Menneskers Liv; men var Kiærlighedens milde Gudinde, hvis Rok - som Digteren saa skiønt siger -
+                                <hi rend="sup" xml:id="idm140411866340272">1</hi>
+                            </p>
+                     <lg xml:id="idm140411866339520">
+                        <l xml:id="idm140411866339264">fremluer - - - saa blid</l>
+                        <l xml:id="idm140411866338880">Ved Kiærligheds salige Midnatstid,</l>
+                        <l xml:id="idm140411866338416">Sødtstraalende, bævende, hvid.</l>
+                     </lg>
+                     <p xml:id="idm140411866337824">Gudinden som</p>
+                     <lg xml:id="idm140411866337408">
+                        <l xml:id="idm140411866337152">- deilig, mild,</l>
+                        <l xml:id="idm140411866336736">Med runde Fingre den Silke spinder,</l>
+                     </lg>
+                     <p xml:id="idm140411866336176">der skal omvinde de Rosenkiæder, hvormed hun</p>
+                     <lg xml:id="idm140411866335680">
+                        <l xml:id="idm140411866335424">- - - kiærlig og elskovsvarm,</l>
+                        <l xml:id="idm140411866334960">Med den runde, snehvide Arm,</l>
+                        <l xml:id="idm140411866334528">Slynger Yngling og Pige Barm til Barm,</l>
+                     </lg>
+                     <p xml:id="idm140411866333968">Som</p>
+                     <lg xml:id="idm140411866333536">
+                        <l xml:id="idm140411866333280">- - bønhører hvert kiærligt Ord,</l>
+                        <l xml:id="idm140411866332816">Der opstiger til hende fra det</l>
+                        <l xml:id="idm140411866332384">Sukkende Nord.</l>
+                     </lg>
+                     <p xml:id="idm140411866331840">Straffens Upasselighed har jeg forhen omtalt, men vil her tilføie, at skulde der straffes, kunde det skee paa det stærkeste, hvilket Enhver vil indsee, ved at læse, hvad Loke siger til Frei i Ægirs Drekke:</p>
+                     <lg xml:id="idm140411866331024">
+                        <l xml:id="idm140411866330768">For Guld du kiøbte</l>
+                        <l xml:id="idm140411866330336">Dig Gymers Datter,</l>
+                        <l xml:id="idm140411866329920">Og solgte dit Sværd;</l>
+                        <l xml:id="idm140411866329472">Men naar Muspels
+                                    <hi rend="sup" xml:id="idm140411866329152">2</hi>
+Sønner</l>
+                        <l xml:id="idm140411866328368">Over Mørkvid ride,</l>
+                        <l xml:id="idm140411866327936">Ulykkelig ei veed du,</l>
+                        <l xml:id="idm140411866327520">Hvormed du skal stride.</l>
+                     </lg>
+                     <note anchored="true" xml:id="idm140411866326976">
+                        <hi rend="sup" xml:id="idm140411866326576">1</hi>
+Oehlenschläger i
+                                <hi rend="italics" xml:id="idm140411866325840"><!--<emph>-->Freias Rok<!--</emph>--></hi>
+.</note>
+                     <note anchored="true" xml:id="idm140411866324672">
+                        <hi rend="sup" xml:id="idm140411866324304">2</hi>
+Trykfejl:
+                                <hi rend="italics" xml:id="idm140411866323616"><!--<emph>-->Mørvels<!--</emph>--></hi>
+.</note>
+                     <pb n="132" xml:id="s132" facs="adl/grundtvig/grundtvig01/grun1132"/>
+                     <p xml:id="idm140411866321296">Det ikke ganske sløve Øie vil her see en værdig Straf for Freis formastelige Id; men for det lidet skarpere vorder det klart, at Odin aldrig kunde straffe saaledes, og derved berøve sig en drabelig Medstrider i Vigridris taagede Dale, der maaskee kunde, væbnet med sit Sværd, splittet Fenrisulvens Gab, før det lukkede sig over Alfbestraaleren og den høie As.</p>
+                     <p xml:id="idm140411866320256">End maa jeg anmærke, at Indbydelsen til, i Frei og Skirner at see Nordens Orest og Pylad, er meget utidig, da her, i det mindste efter nærværende Fremstilling, ei er fierneste Liighed; samt at det røber saare nedstemte Begreber om Freias Magt, at hun selv maa reise til Jotunheim, for at udlokke Gerda af sit Jomfrubuur.</p>
+                     <p xml:id="idm140411866319232">Resultatet vorder da, at det er saa langt fra, enten Oldtid eller Nutid vinder ved slige Bearbeidelser og Malerier, at man tvertimod inderlig maa ønske, aldrig Nogen oftere vil træde i dette Fodspor.</p>
+                     <p xml:id="idm140411866318432">Er det virkelig saa, at vor Tidsalder ei vil værdige Oldtiden et Blik, uden naar den lader sig tilsyne
+                                <hi rend="italics" xml:id="idm140411866317888">i</hi>
+et saadant Klædebon, lad da gamle Norden hvile rolig bag den hellige Taage, som omgiærder den, og ei vanhelliges, ved
+                                <hi rend="italics" xml:id="idm140411866316912">i</hi>
+Harleqvins Dragt at fremledes til Latter for udartede Slægt!</p>
+                     <p xml:id="idm140411866315984">Engang vil dog vel Jordens onde Dæmon, Lokes Afkom, der spottede det Høieste og Dybeste, vorde som hiin, med sine udryddede Børns stærke Tarme, bunden til de nøgne Klipper, af hvis frodige Vexter hans giftige Aande udpustede Saften; og Menneskenes Øie atter oplades for det betydningsfulde Liv, der skiuler sig bag Historiens Ophav, og spirer i Ahnelsen af den fierne Fremtid.</p>
+                  </div>
+                  <div xml:id="idm140411866314784">
+                     <p xml:id="idm140411866314528">Jeg vil angive Synspunkten, hvorfra jeg seer Skirners Reise, dette herlige Digt, der, fra jeg første Gang saae det, svævede for mit Øie med høi Betydning.</p>
+                     <p xml:id="idm140411866313808">Jeg betragter det som et Glimt af de ubøielige Norners Virken, i det de med sikker Haand forberedede Catastrophen i det store Drama, da Tidens Dør skulde lukkes ved dens Guddommes Undergang. Et saadant Glimt, eller maaskee endnu høiere, see vi i Balders Død, hvilket jeg maaskee ved en anden Leilighed vil søge at udvikle. Aserne skulde gaae under, men disse, med det Evige Forlenede, maatte selv assimilere sig til det Endelige, for at staae under dettes Love, de maatte selv bortgive deres Evighed. Saaledes havde Nornerne bestemt, at Frei
+                                <pb n="133" xml:id="s133" facs="adl/grundtvig/grundtvig01/grun1133"/>
+skulde giøre sig selv vaabenløs, for at erholde Gerda. Dette maatte skee, og selv Aserne kunde kun modsætte sig, men ikke afværge det. Odin vrededes over, at Frei satte sig i Hlidskialf, ei fordi han derved troede sig fornærmet, men fordi Synet af Gerda var det første Led af Ulykkens Kiæde, som de andre med Nødvendighed maatte følge. Aserne samles ved Ydrasils Rod, for at raadslaae om, hvorledes Frei, uden at miste sit Sværd, kunde erholde Gerda, og Odin sparer end ikke Drupner, for at afvende Ulykken. Dog, Skirner vover ei at fare giennem Jetters Lande, uden at være væbnet med Freis Sværd, og det kunde vel endnu være reddet for Guden, dersom Gerda havde overgivet sig for Guldet og Ringen; men da Skirner maa lade det blinke for hendes Øie, da han maa tye til Hævnstaven, han med det afskar, da er det tabt for evig. -</p>
+                     <p xml:id="idm140411866309808">Antog man - hvilket i det mindste maatte være Digteren tilladt - at Gerdas Moder, Aurboda, var den samme, som Angrboda, Lokes uheldsvangre Frille, da vilde det end vorde betydningsfuldere, og mange Steder i Digtet vilde lade sig bedre forklare, da saae vi mere klart, hvi Frei sagde:</p>
+                     <lg xml:id="idm140411866308832">
+                        <l xml:id="idm140411866308576">Min Elskov til Møen</l>
+                        <l xml:id="idm140411866308128">Er større end Nogens</l>
+                        <l xml:id="idm140411866307680">I Alderens Vaar;</l>
+                        <l xml:id="idm140411866307264">Men Aser og Alfer</l>
+                        <l xml:id="idm140411866306848">Det aldrig tillade,</l>
+                        <l xml:id="idm140411866306432">At vi blive eens.</l>
+                     </lg>
+                     <p xml:id="idm140411866305888">og hvi Gerda med saadan Bestemthed erklærede:</p>
+                     <lg xml:id="idm140411866305392">
+                        <l xml:id="idm140411866305136">Jeg og Frei,</l>
+                        <l xml:id="idm140411866304720">Medens vort Liv varer,</l>
+                        <l xml:id="idm140411866304304">Bygge aldrig sammen;</l>
+                     </lg>
+                     <p xml:id="idm140411866303760">thi hun hørte da til Asernes svorne Fiender.</p>
+                     <p xml:id="idm140411866303264">Paa denne Maade vilde vi ogsaa bedre begribe hine Gerdas Ord, da Jorden bævede ved Skirners Komme:</p>
+                     <lg xml:id="idm140411866302672">
+                        <l xml:id="idm140411866302416">- Mig ahner,</l>
+                        <l xml:id="idm140411866302000">At herude er</l>
+                        <l xml:id="idm140411866301584">Min Broders Bane.</l>
+                     </lg>
+                     <p xml:id="idm140411866301040">Vi behøvede da ikke med Hr. M. at troe, hun her meente en Elsker, der vilde ægte hende mod hendes Villie, og i Kamp
+                                <pb n="134" xml:id="s134" facs="adl/grundtvig/grundtvig01/grun1134"/>
+med hvem hendes Broder var falden*). Nei, hun mener da Asa-Thor, der i Ragnarokr skal dræbe Midgardsormen, hendes Moders Søn.</p>
+                     <p xml:id="idm140411866298880">Vi behøvede da ei at antage nogen Sindsforandring hos Gerda ; men hendes Vægring var, maaskee efter Lokes Indskydelse, ene beregnet paa, at Frei skulde miste sit Sværd.</p>
+                     <p xml:id="idm140411866298144">Da begrebe vi ogsaa det, ellers Underlige, at Gymer slet ikke lader sig tilsyne.</p>
+                     <p xml:id="idm140411866297664">Dog, Digteren maatte antage det Sidste, eller ikke, saa vilde han dog stedse i Skirners Reise finde Æmne til et af de skiønneste Dramer, Oldtiden kan avle.</p>
+                     <p xml:id="idm140411866296944">Beslægtet hermed er en Anvendelse, jeg længe troede, med Held kunde giøres af vor hele Gudelære; men da selv en tydelig Fremstilling af det styrende Princip fordrede et langt dybere Studium af Oldtiden, end Omstændighederne - desværre! - tillode mig, vil jeg oppebie Fremtrædelsen af Edda, Oehlenschlägers Digt; thi maaskee blev det denne Bragas Udkaarne forbeholdet, at udføre den store Idee, jeg kun halv dunkelt ahner.</p>
+                     <p xml:id="idm140411866295936">
+                        <hi rend="bold" xml:id="idm140411866295808">Grundtvig,</hi>
+                        <lb xml:id="idm140411866295248"/>
+                        <hi rend="italics" xml:id="idm140411866295120">Cand. Theol</hi>
+.</p>
+                     <note anchored="true" xml:id="idm140411866294304">*) Dette er desuden urimeligt, deels fordi hun da allerede maatte været i Elskerens Vold, og deels fordi Lyden, der ei blot ryster Gymers Gaarde, men hele Jorden, maa forkynde selv meer end en Jettes Færd.</note>
+                  </div>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

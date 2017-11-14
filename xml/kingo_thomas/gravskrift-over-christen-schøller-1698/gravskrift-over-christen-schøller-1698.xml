@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gravskrift over christen schøller 1698</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid90109" decls="#biblid90109">
+            <body xml:id="idm140721238927152">
+               <head xml:id="idm140721238926896"> Welbyrdige <lb xml:id="idm140721238926608"/> CHRISTEN SCHØLLER <lb xml:id="idm140721238926288"/> Høyædle og Welbaarne <lb xml:id="idm140721238925968"/>
+							Her Caspar Schøllers og Fru Johanne Tunes<lb xml:id="idm140721238925600"/> Elskelige Søn, <lb xml:id="idm140721238925296"/> Fød
+							i Kiøbenhafn St. Michels dag den 29 September Aar 1678, <lb xml:id="idm140721238924880"/>Død saligen
+							sammesteds den 17 Maij Aar 1698 <lb xml:id="idm140721238924496"/> efter et christelig lifs
+							fremdragelse i <lb xml:id="idm140721238924176"/>19 Aar, 7 Maaneder 2 uger og 3 Dage. </head>
+               <lg xml:id="idm140721238923744">
+                  <l xml:id="idm140721238923488"> HEr hviler Ungdoms Floer i Dødsens fæle maske,</l>
+                  <l xml:id="idm140721238922992">l l Forældres Haab lagt ned i CHRISTEN SCHØLLERS aske,</l>
+                  <l xml:id="idm140721238922480">Hvis Dyde-spirer alt i smukke blomster stood,</l>
+                  <l xml:id="idm140721238922032">Og loved frugten af en ræt Dyd-ædel Rood!</l>
+               </lg>
+               <lg xml:id="idm140721238921424">
+                  <l xml:id="idm140721238921168">Hand viged ingen her til ære op at stige,</l>
+                  <l xml:id="idm140721238920688"> Men Herren tog Hans Siæl op til sit æres Rige,</l>
+                  <l xml:id="idm140721238920192">Til det Akademi, hvor Gud hand kiendes klart,</l>
+                  <l xml:id="idm140721238919744">Dend venter, Disse Been forklared til sig snart.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721238919168">
+                  <hi rend="italics" xml:id="idm140721238918528">Tekstgrundlag: Den originale Metalplade i Lellinge
+								Kirke. </hi>11 Foræl- <lb xml:id="idm140721238917760"/>dres] <hi rend="italics" xml:id="idm140721238917472">Udg.
+							</hi>Forældrs A </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

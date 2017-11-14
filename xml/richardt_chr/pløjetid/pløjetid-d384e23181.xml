@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pløjetid.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid99784" decls="#biblid99784">
+            <head xml:id="idm140352318093920">Pløjetid.</head>
+            <lg xml:id="idm140352318093504">
+               <l xml:id="idm140352318093248">Fra Marken komme Karl og Heste trætte -</l>
+               <l xml:id="idm140352318092768">at det var Træskoføre, det kan kjendes!</l>
+               <l xml:id="idm140352318092288">Grønjordens haarde Skorper er ej lette</l>
+               <l xml:id="idm140352318091808">at gjennemskjære, skal de dygtigt vendes.</l>
+               <l xml:id="idm140352318091328">Med tunge Tjavser om sin lodne Bug</l>
+               <l xml:id="idm140352318090896">Plovhesten mødig skridter til sit Trug,</l>
+               <pb n="369" facs="adl/richardt/richardt2/rich2369" xml:id="idm140352318090416"/>
+               <l xml:id="idm140352318089600">gulnet af Smuld og Sved er Dyrets Bringe -</l>
+               <l xml:id="idm140352318089152">men blank som Sølv er Plovens skarpe Klinge.</l>
+            </lg>
+            <lg xml:id="idm140352318088528">
+               <l xml:id="idm140352318088272">Hvergang jeg seer dem Bankerne at pløje,</l>
+               <l xml:id="idm140352318087792">hvor Leret klumper sig om Hestens Hove,</l>
+               <l xml:id="idm140352318087360">da aner jeg, hvad Herren har for Møje</l>
+               <l xml:id="idm140352318086880">med sine Jorder og med sine Plove -</l>
+               <l xml:id="idm140352318086448">med frosne Hjerters dybe Undergrund</l>
+               <l xml:id="idm140352318086016">at faae mod Lyset vendt i rette Stund -</l>
+               <l xml:id="idm140352318085584">med for sin Udsæd Furerne at drage,</l>
+               <l xml:id="idm140352318085104">og faae den lagt i grødefulde Dage.</l>
+            </lg>
+            <lg xml:id="idm140352318084496">
+               <l xml:id="idm140352318084240">Ak, havde Jorden Følelse og Mæle,</l>
+               <l xml:id="idm140352318083776">den vilde vaande sig i Skrig af Smerte,</l>
+               <l xml:id="idm140352318083344">naar Jernet finder Vejen til dens Hjerte -</l>
+               <l xml:id="idm140352318082896">som Skrig der gaar fra Tusinder af Sjæle,</l>
+               <l xml:id="idm140352318082416">naar Nød og Død slaar ned i Livets Lyst!</l>
+               <l xml:id="idm140352318081936">Dog <hi rend="italics" xml:id="idm140352318081648">maa</hi> den Vaande stundum naae vort Bryst -</l>
+               <l xml:id="idm140352318080768">det Skrig først vækker os fra Sovepuden,</l>
+               <l xml:id="idm140352318080288">vi <hi rend="italics" xml:id="idm140352318080032">kan</hi> ej være Smerterne foruden.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

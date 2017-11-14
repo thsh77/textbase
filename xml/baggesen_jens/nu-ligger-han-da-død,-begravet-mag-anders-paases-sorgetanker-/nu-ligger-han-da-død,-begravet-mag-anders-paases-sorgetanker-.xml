@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nu ligger han da død, begravet [mag. anders paases sorgetanker ...]</title>
+            <author>Baggesen, Jens</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139898996227984">
+                     <name xml:id="idm139898996227728">
+                        <surname xml:id="idm139898996227600">Baggesen</surname>, <forename xml:id="idm139898996227136">Jens</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139898996226848"> Riimbreve og poetiske Epistler. 2. Samling, 1809-1823. - 1894</title>
+                  <pubPlace xml:id="idm139898996226512">København</pubPlace>
+                  <date xml:id="idm139898996226000">1889-1903</date>
+                  <biblScope>13-20</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid54599" decls="#biblid54599">
+            <body xml:id="idm139898996127856">
+               <pb n="14" xml:id="n14" facs="adl/baggesen/baggesen3/bagg3014"/>
+               <pb n="15" xml:id="n15" facs="adl/baggesen/baggesen3/bagg3015"/>
+               <pb n="16" xml:id="n16" facs="adl/baggesen/baggesen3/bagg3016"/>
+               <pb n="17" xml:id="n17" facs="adl/baggesen/baggesen3/bagg3017"/>
+               <pb n="18" xml:id="n18" facs="adl/baggesen/baggesen3/bagg3018"/>
+               <pb n="19" xml:id="n19" facs="adl/baggesen/baggesen3/bagg3019"/>
+               <pb n="20" xml:id="n20" facs="adl/baggesen/baggesen3/bagg3020"/>
+               <p xml:id="idm139898996116000"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

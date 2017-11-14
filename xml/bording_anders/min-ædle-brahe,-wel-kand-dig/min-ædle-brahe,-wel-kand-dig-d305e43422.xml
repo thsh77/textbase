@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Min ædle brahe, wel kand dig</title>
+            <author>Bording, Anders</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <title xml:id="idm140114471059440">Digte. - 1984</title>
+                  <author n="1" xml:id="idm140607960305264">
+                     <name xml:id="idm140607960305008">
+                        <surname xml:id="idm140607960304880">Bording</surname>,
+	      <forename xml:id="idm140607960304416">Anders</forename>
+                     </name>
+                  </author>
+                  <pubPlace xml:id="idm140114471059184">København</pubPlace>
+                  <publisher xml:id="idm140114471058720">Det Danske Sprog- og
+	  Litteraturselskab</publisher>
+                  <date xml:id="idm140114471058368">1984-86</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid137012" decls="#biblid137012">
+            <head xml:id="idm140114460696160">209.<lb xml:id="idm140114460695872"/> [Under Manderup Brahes portræt, i Birgitte Trolles navn.
+							1666.]</head>
+            <lg xml:id="idm140114460695328">
+               <l xml:id="idm140114460695072">Min ædle Brahe, wel kand dig</l>
+               <l xml:id="idm140114460694608">En konstig haand afmale,</l>
+               <l xml:id="idm140114460694176">Men ingen kand saa rettelig</l>
+               <l xml:id="idm140114460693744">Om dine Dyder tale,</l>
+               <l xml:id="idm140114460693328">Som Jeg: ach ja, din drifft oc Færd</l>
+               <l xml:id="idm140114460692848">War Ærlig uden Lyde:</l>
+               <l xml:id="idm140114460692400">Gud bedre mig, Jeg war ey wærd</l>
+               <l xml:id="idm140114460691936">Dig lenger her at nyde.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

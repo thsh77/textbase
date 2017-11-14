@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Et herregaardsliv</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140264665681152">
+                     <name xml:id="idm140264665680896">
+                        <surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140264665680016">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140264665679728">: </title>
+                  <pubPlace xml:id="idm140264665679472">[København]</pubPlace>
+                  <publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140264665678640">1982-</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid57091" decls="#biblid57091">
+            <head xml:id="idm140264665175344">
+               <hi rend="italics" xml:id="idm140264665175088">ET HERREGAARDSLIV</hi>
+            </head>
+            <lg xml:id="idm140264665174272">
+               <l xml:id="idm140264665174016">Mine sære Tanker</l>
+               <l xml:id="idm140264665173584">fôr vild, fôr vild,</l>
+               <l xml:id="idm140264665173136">over Mure og Skranker</l>
+               <l xml:id="idm140264665172720">og ind gennem Ild.</l>
+            </lg>
+            <lg xml:id="idm140264665172176">
+               <l xml:id="idm140264665171920">Hendes Øjnes Tegning</l>
+               <l xml:id="idm140264665171472">var krank, saa krank,</l>
+               <l xml:id="idm140264665171056">al Rejsning og Svejning</l>
+               <l xml:id="idm140264665170640">var frøkenslank,</l>
+               <l xml:id="idm140264665170208">mens et vanvittigt Kjolebryst</l>
+               <l xml:id="idm140264665169776">bugned og sank.</l>
+            </lg>
+            <lg xml:id="idm140264665169232">
+               <l xml:id="idm140264665168976">Hun gav mig sin Læbes</l>
+               <l xml:id="idm140264665168528">vildtsure Most,</l>
+               <l xml:id="idm140264665168112">den Gang Klokken slog sex.</l>
+               <l xml:id="idm140264665167680">Ved Midnat da kom hun,</l>
+               <l xml:id="idm140264665167264">paaskrævs af en Kost,</l>
+               <l xml:id="idm140264665166816">som en Hex - en Hex.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

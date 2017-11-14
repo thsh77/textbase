@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hvad hjalp det mig </title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid88668" decls="#biblid88668">
+            <head xml:id="idm140352319476784">Hvad hjalp det mig </head>
+            <lg xml:id="idm140352319476368">
+               <l xml:id="idm140352319476112">Hvad hjalp det mig, om Stjernerne jeg kjendte</l>
+               <l xml:id="idm140352319475664">og kunde deres Afstand regne ud,</l>
+               <l xml:id="idm140352319475232">om ej <hi rend="italics" xml:id="idm140352319474944">den</hi> Afstand mig i Hjertet brændte,</l>
+               <l xml:id="idm140352319474080">som skiller mig fra Hellighedens Gud!</l>
+               <l xml:id="idm140352319473648">om ej jeg sørged og blev ved at sørge,</l>
+               <l xml:id="idm140352319473168">om ej jeg spurgte og blev ved at spørge,</l>
+               <l xml:id="idm140352319472688">til Svar jeg fandt i Julens Frydebud!</l>
+            </lg>
+            <lg xml:id="idm140352319472128">
+               <l xml:id="idm140352319471872">Hvad hjælper det, jeg veed, at tusind Mile</l>
+               <l xml:id="idm140352319471392">mig rykke nær ved Bæven i en Traad,</l>
+               <l xml:id="idm140352319470912">hvis ej min egen Bæven finder Hvile</l>
+               <l xml:id="idm140352319470432">i Troen paa Guds faderlige Raad, -</l>
+               <l xml:id="idm140352319470000">hvis ej jeg veed, at Han i Himlens Sale</l>
+               <l xml:id="idm140352319469568">er mig <hi rend="italics" xml:id="idm140352319469280">saa nær</hi>, saa jeg til Ham kan tale</l>
+               <l xml:id="idm140352319468416">og fange Svar som stiller Angst og Graad!</l>
+            </lg>
+            <pb n="278" facs="adl/richardt/richardt2/rich2278" xml:id="idm140352319467840"/>
+            <lg xml:id="idm140352319467024">
+               <l xml:id="idm140352319466768">Hvad hjalp det, om jeg gransked alle Love,</l>
+               <l xml:id="idm140352319466320">kun ikke <hi rend="italics" xml:id="idm140352319466032">Loven</hi> i mit eget Bryst!</l>
+               <l xml:id="idm140352319465184">Hvad hjalp det, om jeg sorgløst vilde vove</l>
+               <l xml:id="idm140352319464704">at døve mine Lov-Brudds Dommer-Røst!</l>
+               <l xml:id="idm140352319464224">Men dømmer mig mit Hjertes tunge Smerte,</l>
+               <l xml:id="idm140352319463744">Guds Kjærlighed er større end mit Hjerte,</l>
+               <l xml:id="idm140352319463264">Steentavlens Trusel smelter hen i Trøst!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

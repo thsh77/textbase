@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nattergalen.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid74265" decls="#biblid74265">
+            <head xml:id="idm140352321240896">Nattergalen.</head>
+            <lg xml:id="idm140352321240480">
+               <l xml:id="idm140352321240224">Hvor hun dog iaftes silde</l>
+               <l xml:id="idm140352321239792">taus og henrykt lytted til</l>
+               <l xml:id="idm140352321239360">Nattergalens Elskovstrille,</l>
+               <l xml:id="idm140352321238928">Lundens søde Fløjtespil!</l>
+            </lg>
+            <lg xml:id="idm140352321238352">
+               <l xml:id="idm140352321238096">Hun vil skue den ved Dagen,</l>
+               <l xml:id="idm140352321237664">og hun spejder i dens Skjul:</l>
+               <l xml:id="idm140352321237232">»Var af <hi rend="italics" xml:id="idm140352321236944">den</hi> jeg saa betagen?</l>
+               <l xml:id="idm140352321236128">Hvilken uansee'lig Fugl!</l>
+            </lg>
+            <lg xml:id="idm140352321235568">
+               <l xml:id="idm140352321235312">Hvilke graa, beskedne Fjere,</l>
+               <l xml:id="idm140352321234880">til saa dragende en Røst!</l>
+               <l xml:id="idm140352321234432">Jævn og simpel - ikke mere,</l>
+               <l xml:id="idm140352321233968">kun et mægtigt Sangerbryst!«</l>
+            </lg>
+            <lg xml:id="idm140352321233376">
+               <l xml:id="idm140352321233120">Gaa derud i Aften Kjære,</l>
+               <l xml:id="idm140352321232672">fryd Dig atter ved dens Sang!</l>
+               <l xml:id="idm140352321232240">Men lad Elskovs Sanger være</l>
+               <l xml:id="idm140352321231776">helst i Skygge Dagen lang!</l>
+            </lg>
+            <pb n="158" facs="adl/richardt/richardt2/rich2158" xml:id="idm140352321231216"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fortale til samuel jensøn ilds oversættelse af johan arndt: den sande christendom (trykt 1690)</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139809009254400">
+                     <name xml:id="idm139809009254144">
+                        <surname xml:id="idm139809009254016">Kingo</surname>,
+      <forename xml:id="idm139809009253568">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139809009253280">Samlede skrifter 5</title>
+                  <pubPlace xml:id="idm139809009252992">København</pubPlace>
+                  <publisher xml:id="idm139809009252560">Munksgaard</publisher>
+                  <date xml:id="idm139809009252224">1939-74.</date>
+                  <biblScope>94-95</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid54936" decls="#biblid54936">
+            <body xml:id="idm139809009134000">
+               <p xml:id="idm139809009133744"/>
+               <pb n="95" facs="adl/kingo/kingo5/king5095" xml:id="idm139809009133488"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

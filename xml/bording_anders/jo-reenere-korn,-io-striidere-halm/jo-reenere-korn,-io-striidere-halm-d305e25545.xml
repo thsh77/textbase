@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jo reenere korn, io striidere halm</title>
+            <author>Bording, Anders</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <title xml:id="idm140114471059440">Digte. - 1984</title>
+                  <author n="1" xml:id="idm140607960305264">
+                     <name xml:id="idm140607960305008">
+                        <surname xml:id="idm140607960304880">Bording</surname>,
+	      <forename xml:id="idm140607960304416">Anders</forename>
+                     </name>
+                  </author>
+                  <pubPlace xml:id="idm140114471059184">København</pubPlace>
+                  <publisher xml:id="idm140114471058720">Det Danske Sprog- og
+	  Litteraturselskab</publisher>
+                  <date xml:id="idm140114471058368">1984-86</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid101745" decls="#biblid101745">
+            <head xml:id="idm140114465030928">97.<lb xml:id="idm140114465030624"/>
+               <hi rend="italics" xml:id="idm140114465030368">Ovidius.</hi>
+               <lb xml:id="idm140114465029680"/>
+               <hi rend="italics" xml:id="idm140114465029424">Fastus inest pulchris seqvitur superbia formam.</hi>
+            </head>
+            <lg xml:id="idm140114465028576">
+               <l xml:id="idm140114465028320">Jo Reenere korn, io striidere halm</l>
+               <l xml:id="idm140114465027888">io klingere lyd, io haardere Malm</l>
+               <l xml:id="idm140114465027456">io feedere Melck, io Rammere Ost</l>
+               <l xml:id="idm140114465027024">io [h]videre snee, io koldere frost</l>
+               <l xml:id="idm140114465026592">io klarere Vand, io dybere Søe</l>
+               <l xml:id="idm140114465026128">io glattere huud, io stoltere Møe.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

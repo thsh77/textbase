@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gravskrift over ellen testrup 1694</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid89702" decls="#biblid89702">
+            <body xml:id="idm140721238993968">
+               <head xml:id="idm140721238993712"> Den Dydædle nu Salige Engle-Møe <lb xml:id="idm140721238993376"/> Ellen Testrup </head>
+               <lg xml:id="idm140721238992960">
+                  <l xml:id="idm140721238992704">FOrundre Læßer, ei, at Du paa disße Fiæle</l>
+                  <l xml:id="idm140721238992208">JL Kand Læße hvordan dyd har døden kundet qvæle</l>
+                  <l xml:id="idm140721238991712"> Thi Ellen Thestrup som een Skiold-Møe hannem jog</l>
+                  <l xml:id="idm140721238991216">Og i sin Frelßers troe ham trøstig underslog</l>
+                  <l xml:id="idm140721238990720">Her hviler hendes Been, der [havde] Himlen inde</l>
+                  <l xml:id="idm140721238990272">Af første Barndoms Aar, ja Gud var selv at finde</l>
+                  <l xml:id="idm140721238989776">I Største Kundskab hoes den dyd fuldkomne Møe</l>
+                  <l xml:id="idm140721238989280"> Saa hun af armen paa sin Gud kand aldrig Døe.</l>
+                  <trailer xml:id="idm140721238988784"> Til skyldigst medlidenhed over den <lb xml:id="idm140721238988480"/> elskeligste Datters
+								dødelige afgang <lb xml:id="idm140721238988112"/> med løbende Pen opsadt af <lb xml:id="idm140721238987776"/> Th: Kingo.
+							</trailer>
+               </lg>
+               <p xml:id="idm140721238987232">
+                  <lb xml:id="idm140721238987104"/>Fød VI <hi rend="italics" xml:id="idm140721238986816">Febr </hi>1683 i <hi rend="italics" xml:id="idm140721238986096">Nyborg, </hi>død <hi rend="bold" xml:id="idm140721238985376">XXIX </hi>
+                  <hi rend="italics" xml:id="idm140721238984816">Juni] </hi>1694 * <lb xml:id="idm140721238984096"/>
+                  <hi rend="italics" xml:id="idm140721238983968">Nachshou.</hi>
+               </p>
+               <note resp="#ed" anchored="true" xml:id="idm140721238983280">
+                  <hi rend="italics" xml:id="idm140721238982640">Tekstgrundlag: Afskrift af den originale Indskrift
+								fra Nakskov Kirke i <lb xml:id="idm140721238982016"/>Kirkeindberetning fra 1756 (Kali 4°
+								377 II. S. 292). </hi>7 [havde] <hi rend="italics" xml:id="idm140721238981456">Udg.</hi>
+                  <lb xml:id="idm140721238980896"/>haver A </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trøsten</title>
+            <author>Baggesen, Jens</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139905270120288">
+                     <name xml:id="idm139905270120032">
+                        <surname xml:id="idm139905270119904">Baggesen</surname>, <forename xml:id="idm139905270119472">Jens</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139905270119216"> Blandede Digte. 1. Samling. - 1899</title>
+                  <pubPlace xml:id="idm139905270118912">København</pubPlace>
+                  <date xml:id="idm139905270118400">1889-1903</date>
+                  <biblScope>69-72</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid55449" decls="#biblid55449">
+            <body xml:id="idm139905269793728">
+               <pb n="70" xml:id="n70" facs="adl/baggesen/baggesen4/bagg4070"/>
+               <pb n="71" xml:id="n71" facs="adl/baggesen/baggesen4/bagg4071"/>
+               <pb n="72" xml:id="n72" facs="adl/baggesen/baggesen4/bagg4072"/>
+               <p xml:id="idm139905269789872"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

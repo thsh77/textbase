@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nytaar</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140264665681152">
+                     <name xml:id="idm140264665680896">
+                        <surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140264665680016">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140264665679728">: </title>
+                  <pubPlace xml:id="idm140264665679472">[København]</pubPlace>
+                  <publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140264665678640">1982-</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62567" decls="#biblid62567">
+            <head xml:id="idm140264664487360">
+               <hi rend="italics" xml:id="idm140264664487104">NYTAAR</hi>
+            </head>
+            <lg xml:id="idm140264664486288">
+               <l xml:id="idm140264664486032">Ens kun ens de Aar, som skifter,</l>
+               <l xml:id="idm140264664485600">evig samme trætte Sløsen,</l>
+               <l xml:id="idm140264664485152">intet Haab om ny Bedrifter,</l>
+               <l xml:id="idm140264664484720">uden Gjenklang hvert et Løsen.</l>
+            </lg>
+            <lg xml:id="idm140264664484128">
+               <l xml:id="idm140264664483872">Gamle Vaner, gamle Skranker</l>
+               <l xml:id="idm140264664483440">stanser hver en frejdig Tunge.</l>
+               <l xml:id="idm140264664483008">Kvalme, blege Dødning-Tanker</l>
+               <l xml:id="idm140264664482544">har forkrøblet alt det unge.</l>
+            </lg>
+            <lg xml:id="idm140264664481952">
+               <l xml:id="idm140264664481696">Alt det frie er snet inde;</l>
+               <l xml:id="idm140264664481264">evig Vinter, evigt Øde!</l>
+               <l xml:id="idm140264664480816">I de sidste Frøkorn finde</l>
+               <l xml:id="idm140264664480368">gridske Ravne deres Føde.</l>
+            </lg>
+            <lg xml:id="idm140264664479792">
+               <l xml:id="idm140264664479536">Men det spirer frem der nede</l>
+               <l xml:id="idm140264664479104">under Sneens hvide Bælte.</l>
+               <l xml:id="idm140264664478656">Ved vort stærke Haab, vor hede</l>
+               <l xml:id="idm140264664478192">Tro det stivnede skal smelte.</l>
+            </lg>
+            <lg xml:id="idm140264664477632">
+               <l xml:id="idm140264664477376">Svinde hen skal Isens Byrde,</l>
+               <l xml:id="idm140264664476944">som det muntre Løb har avet.</l>
+               <l xml:id="idm140264664476480">- Tusend kaade Kilder styrte</l>
+               <l xml:id="idm140264664476048">fri og jublende i Havet.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

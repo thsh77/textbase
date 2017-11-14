@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hedelærkens velkommenhjem til nattergalen (1819)</title>
+            <author>Blicher, Steen Steensen</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140034837471168">
+                     <name xml:id="idm140034837470912">
+                        <surname xml:id="idm140034837470784">Blicher</surname>, <forename xml:id="idm140034837470352">Steen Steensen</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140034837470064">Digte og Noveller</title>
+                  <pubPlace xml:id="idm140034837469776">København</pubPlace>
+                  <date xml:id="idm140034837469264">1946</date>
+                  <biblScope>2-4</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid54555" decls="#biblid54555">
+            <body xml:id="idm140034837401072">
+               <pb n="3" xml:id="n3" facs="adl/blich/blich1/blic1003"/>
+               <pb n="4" xml:id="n4" facs="adl/blich/blich1/blic1004"/>
+               <p xml:id="idm140034837398608"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

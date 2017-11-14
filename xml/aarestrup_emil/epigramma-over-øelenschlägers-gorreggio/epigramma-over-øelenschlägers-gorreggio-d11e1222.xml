@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epigramma over øelenschlägers gorreggio.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid56003" decls="#biblid56003">
+            <head xml:id="idm140382757385408">EPIGRAMMA OVER ØELENSCHLÄGERS GORREGGIO.</head>
+            <lg xml:id="idm140382757384928">
+               <l xml:id="idm140382757384672">Længst alt var i den høie Himmel den hellige Maler,</l>
+               <l xml:id="idm140382757384160">Da Poesien gik frem for den Almægtiges Stol,</l>
+               <l xml:id="idm140382757383664">Knæl te og sagde: Herre! udsend mig at hædre din Kunstner!</l>
+               <l xml:id="idm140382757383136">At ei hans dunkle Grav savner Tragoediens Sang;</l>
+               <l xml:id="idm140382757382688">Thi i Livet og Døden, du veed, jeg ham elskte af Hjertet!</l>
+               <pb n="9" facs="adl/aarestrup/aare1/aare1009" xml:id="idm140382757382176"/>
+               <l xml:id="idm140382757381408">Ogsaa min kjæreste Skjald vier til Sangen jeg ind</l>
+               <l xml:id="idm140382757380912">Da tilstod den almægtige Fader Datteren Ønsket;</l>
+               <l xml:id="idm140382757380416">Og fra Norden lød, dæmpet, den tragiske Sang -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

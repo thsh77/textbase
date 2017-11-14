@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Børnerim</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140264665681152">
+                     <name xml:id="idm140264665680896">
+                        <surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140264665680016">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140264665679728">: </title>
+                  <pubPlace xml:id="idm140264665679472">[København]</pubPlace>
+                  <publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140264665678640">1982-</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59199" decls="#biblid59199">
+            <head xml:id="idm140264664909968">
+               <hi rend="italics" xml:id="idm140264664909712">BØRNERIM</hi>
+            </head>
+            <lg xml:id="idm140264664908896">
+               <l xml:id="idm140264664908640">Der var en Gang et flittigt Bæst</l>
+               <l xml:id="idm140264664908176">der kunde alt, og alt fik læst,</l>
+            </lg>
+            <lg xml:id="idm140264664907584">
+               <l xml:id="idm140264664907328">han fulgte Pligten tung og trist,</l>
+               <l xml:id="idm140264664906896">o ve det gik ham godt tilsidst.</l>
+            </lg>
+            <lg xml:id="idm140264664906336">
+               <l xml:id="idm140264664906080">Der var en Gang en Dovenlars</l>
+               <l xml:id="idm140264664905648">han undgik alt, der voldte Mas.</l>
+            </lg>
+            <lg xml:id="idm140264664905088">
+               <l xml:id="idm140264664904832">Han drømte om Aladdins Krone,</l>
+               <l xml:id="idm140264664904368">men Visen fik en anden Tone.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

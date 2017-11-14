@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sonnet</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid77555" decls="#biblid77555">
+            <head xml:id="idm140382754726096">SONNET</head>
+            <lg xml:id="idm140382754725680">
+               <l xml:id="idm140382754725424">Jeg sad med dig bag Malver, huldt i Skygge.</l>
+               <l xml:id="idm140382754724976">Vi talte intet Krybende blev Tiden.</l>
+               <l xml:id="idm140382754724544">Besværlig sad vor bedste Ven ved Siden.</l>
+               <l xml:id="idm140382754724064">Jeg saae dig Bladene af Busken rykke.</l>
+            </lg>
+            <lg xml:id="idm140382754723504">
+               <l xml:id="idm140382754723248">Ven, hvidsked jeg, dit Selskab er vor Lykke;</l>
+               <l xml:id="idm140382754722800">Men din Vedhængenhed, som ei er liden,</l>
+               <l xml:id="idm140382754722320">Var kjærere, jeg nægter ikke, siden.</l>
+               <l xml:id="idm140382754721840">Han reiste sig og gik.   Et Venskabsstykke!</l>
+            </lg>
+            <lg xml:id="idm140382754721264">
+               <l xml:id="idm140382754721008">Da greb jeg om din Haand bag røde Malve.</l>
+               <l xml:id="idm140382754720528">O havde jeg nu, raabte jeg, at byde</l>
+               <l xml:id="idm140382754720096">Et Hjerte, som var værd at ei forskyde,</l>
+            </lg>
+            <lg xml:id="idm140382754719488">
+               <l xml:id="idm140382754719232">Men jeg har kun et halvt. "Giv mig det halve</l>
+               <l xml:id="idm140382754718784">Lød Svaret fra din Mund, o jeg vil gjerne dele</l>
+               <l xml:id="idm140382754718288">Med andre dit, men du har mit det hele!"</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

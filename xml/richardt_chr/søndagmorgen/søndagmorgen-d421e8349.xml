@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Søndagmorgen.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid70397" decls="#biblid70397">
+            <head xml:id="idm139731448024640">Søndagmorgen.</head>
+            <lg xml:id="idm139731448024208">
+               <l xml:id="idm139731448023952">Klokken ringer til Kirke, og Gjøgen ringer tilskovs,</l>
+               <l xml:id="idm139731448023440">her som hist er livsaligt at være;</l>
+               <l xml:id="idm139731448022976">Skoven og Kirken har Svalhed beggeto,</l>
+               <l xml:id="idm139731448022544">og hvælve sig begge til Guds Ære.</l>
+            </lg>
+            <lg xml:id="idm139731448021952">
+               <l xml:id="idm139731448021696">Svalen bygger Rede mod Kirkens stille Tag,</l>
+               <l xml:id="idm139731448021248">men kvidrer over Marker og Enge;</l>
+               <l xml:id="idm139731448020816">som den vil jeg hælde mit Hoved til Guds Hus,</l>
+               <l xml:id="idm139731448020320">men derude vil jeg slaa mine Strenge.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

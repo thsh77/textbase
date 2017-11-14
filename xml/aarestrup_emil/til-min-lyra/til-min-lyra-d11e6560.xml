@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til min lyra.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid67033" decls="#biblid67033">
+            <head xml:id="idm140382756032272">TIL MIN LYRA.</head>
+            <lg xml:id="idm140382756031856">
+               <l xml:id="idm140382756031600">Elskte Lyra, du min Sorgs Veninde,</l>
+               <l xml:id="idm140382756031168">O tilgiv, saa tidt jeg dig bedrøver!</l>
+               <l xml:id="idm140382756030688">Qvæles Sukket, tør ei Taaren rinde,</l>
+               <l xml:id="idm140382756030208">Jeg dig behøver.</l>
+            </lg>
+            <lg xml:id="idm140382756029648">
+               <l xml:id="idm140382756029392">Andres Stemmer gjør mig, ak, saa bange;</l>
+               <l xml:id="idm140382756028912">Kun med dig mit Hjerte er fortrolig;</l>
+               <l xml:id="idm140382756028480">Dine Toner, dine kjære Sange</l>
+               <l xml:id="idm140382756028016">Gjør Sjælen rolig.</l>
+            </lg>
+            <lg xml:id="idm140382756027440">
+               <l xml:id="idm140382756027184">O min Sorg og al min ømme Glæde</l>
+               <l xml:id="idm140382756026720">Vil jeg i din Sangbund fromt begrave,</l>
+               <l xml:id="idm140382756026288">Og som Aander skal de derfra træde</l>
+               <l xml:id="idm140382756025824">I Sangens Have.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

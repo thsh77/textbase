@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paa kongens fødsels-dag. 1771</title>
+            <author>Ewald, Johannes</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139761565533312">
+                     <name xml:id="idm139761565533056">
+                        <surname xml:id="idm139761565532928">Ewald</surname>, <forename xml:id="idm139761565532464">Johannes</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139761565532176">Johannes Ewalds samlede skrifter</title>
+                  <pubPlace xml:id="idm139761565531872">(Kbh.)</pubPlace>
+                  <publisher xml:id="idm139761565531408">Gyldendal</publisher>
+                  <date xml:id="idm139761565531072">(1969)</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59981" decls="#biblid59981" type="poem">
+            <head xml:id="idm139761564788016">PAA KONGENS FØDSELS-DAG.<lb xml:id="idm139761564787696"/>1771.</head>
+            <sp xml:id="idm139761564787280">
+               <stage type="mix" xml:id="idm139761564787024">
+                  <hi rend="italics" xml:id="idm139761564786528">Recitativ.</hi>
+               </stage>
+               <l xml:id="idm139761564785712">VÆR Følelse min Sang! - og du mit Hierte</l>
+               <l xml:id="idm139761564785232">Vær Harmonie! - Stig med de høie Toner</l>
+               <l xml:id="idm139761564784752">Høit op til Vellyst! - op til salig Glæde! -</l>
+               <l xml:id="idm139761564784256">Men, da naar Sangen taber sig i Glæde,</l>
+               <l xml:id="idm139761564783776">Og nu i bævende og zittrende Accenter,</l>
+               <l xml:id="idm139761564783296">Og nu i svage, halvafbrudte Toner</l>
+               <l xml:id="idm139761564782864">Sagte, venlig murrer mod sin Lyst .. og døer ..</l>
+               <l xml:id="idm139761564782368">Da stig endnu! - og stærk ved hine Straaler</l>
+               <l xml:id="idm139761564781872">Dem, som opvarme og besiele Norden,</l>
+               <l xml:id="idm139761564781440">Dem, som nedlod sig over Sangens Hytte,</l>
+               <l xml:id="idm139761564781008">Ved CHRISTIANS Glands, stig høit mit fulde Hierte! -</l>
+               <l xml:id="idm139761564780496">Op over Sangen! - Op til Glædens Fader! -</l>
+               <l xml:id="idm139761564780016">Der smelt i Fryd, og daan i hellig Andagt! -</l>
+               <l xml:id="idm139761564779568">Men Godhed see din Bøn, og Almagt svare:</l>
+               <l xml:id="idm139761564779088">Ja! - CHRISTI'AN leve længe med MATHILDE! -</l>
+            </sp>
+            <sp xml:id="idm139761564778464">
+               <stage type="mix" xml:id="idm139761564778208">
+                  <hi rend="italics" xml:id="idm139761564777712">Aria.</hi>
+               </stage>
+               <lg xml:id="idm139761564776896">
+                  <l xml:id="idm139761564776640">Harmonie, din gyldne Kiede</l>
+                  <l xml:id="idm139761564776208">Knytte CHRISTIANS Vink til Glæde,</l>
+                  <l xml:id="idm139761564775744">Og Hans Trin til Nordens Gavn! -</l>
+                  <l xml:id="idm139761564775312">Længe byd vor Sang at være,</l>
+                  <l xml:id="idm139761564774848">Lyd af Lyst og Held og Ære;</l>
+                  <l xml:id="idm139761564774384">Evig Gienlyd af Hans Navn! -</l>
+               </lg>
+            </sp>
+            <pb n="29" xml:id="s29" facs="adl/ewald/ewald4/ewald4029"/>
+         </div>
+      </body>
+   </text>
+</TEI>

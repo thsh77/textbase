@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romansk verden</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140264665681152">
+                     <name xml:id="idm140264665680896">
+                        <surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140264665680016">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140264665679728">: </title>
+                  <pubPlace xml:id="idm140264665679472">[København]</pubPlace>
+                  <publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140264665678640">1982-</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid69768" decls="#biblid69768">
+            <head xml:id="idm140264663590752">
+               <hi rend="italics" xml:id="idm140264663590496">ROMANSK VERDEN</hi>
+            </head>
+            <lg xml:id="idm140264663589680">
+               <l xml:id="idm140264663589424">Blodige Tyrekampe, fine Kvinder,</l>
+               <l xml:id="idm140264663589040">Flasker med Vin og natlige Supér,</l>
+               <l xml:id="idm140264663588576">drukne af Vid de fede Harlekiner . . .</l>
+               <l xml:id="idm140264663588192">Elskoven fødes, Hjærtet ler ej mer.</l>
+            </lg>
+            <lg xml:id="idm140264663587584">
+               <l xml:id="idm140264663587328">Ordet ej nævnt og Kvindens Blik forstod!</l>
+               <l xml:id="idm140264663586848">og hvad der vared Aar forgaar i Timer,</l>
+               <l xml:id="idm140264663586464">til Kvindens Ejermand paa Porten kimer,</l>
+               <l xml:id="idm140264663586080">og Ærens Duge tvættes af i Blod.</l>
+            </lg>
+            <lg xml:id="idm140264663585488">
+               <l xml:id="idm140264663585232">Hedt som en Kilde hvisker gennem Larmen:</l>
+               <l xml:id="idm140264663584784">"Jeg elsker, vogt dig" - Tonerne af Carmen,</l>
+               <l xml:id="idm140264663584336">"hvis du er ren, sæt Livet paa et Kort!"</l>
+            </lg>
+            <lg xml:id="idm140264663583728">
+               <l xml:id="idm140264663583472">Og har man drømt, rejst, spillet Lykken bort</l>
+               <l xml:id="idm140264663582976">og føler intet Guld i Lommen tynge,</l>
+               <l xml:id="idm140264663582496">da aabnes Brystet: man kan græde, synge.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

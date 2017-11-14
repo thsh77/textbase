@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In ... nicolai copernici instrumentum parallaticum ...</title>
+            <author>Brahe, Tycho</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140418389991408">
+                     <name xml:id="idm140418389991152">
+                        <surname xml:id="idm140418389991024">Brahe</surname>, <forename xml:id="idm140418389990560">Tycho</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140418389990272">Tychonis Brahe Dani opera omnia</title>
+                  <pubPlace xml:id="idm140418389989968">Hauniæ</pubPlace>
+                  <date xml:id="idm140418389989456">1913-29</date>
+                  <biblScope>266-268</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid54243" decls="#biblid54243">
+            <body xml:id="idm140418390049408">
+               <pb n="267" xml:id="n267" facs="adl/tycho/tycho06/tycho6267"/>
+               <pb n="268" xml:id="n268" facs="adl/tycho/tycho06/tycho6268"/>
+               <p xml:id="idm140418389940864"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

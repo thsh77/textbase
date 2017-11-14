@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Islandske personligheder</title>
+            <author>Brandes, Georg</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139805686113296">
+                     <name xml:id="idm139805686113040">
+                        <surname xml:id="idm139805686112912">Brandes</surname>, <forename xml:id="idm139805686112480">Georg</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139805686112192">Samlede Skrifter</title>
+                  <pubPlace xml:id="idm139805686111904">København</pubPlace>
+                  <date xml:id="idm139805686111392">1899-1910</date>
+                  <biblScope>721-725</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid59086" decls="#biblid59086">
+            <body xml:id="idm139805685493504">
+               <pb n="722" facs="adl/brandes/brand3/bran3722" xml:id="idm139805685493248"/>
+               <pb n="723" facs="adl/brandes/brand3/bran3723" xml:id="idm139805685492480"/>
+               <pb n="724" facs="adl/brandes/brand3/bran3724" xml:id="idm139805685491664"/>
+               <pb n="725" facs="adl/brandes/brand3/bran3725" xml:id="idm139805685490848"/>
+               <p xml:id="idm139805685490032"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

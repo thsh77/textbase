@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hans kryger.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid95847" decls="#biblid95847">
+            <head xml:id="idm140352318582704">Hans Kryger.</head>
+            <lg xml:id="idm140352318582288">
+               <l xml:id="idm140352318582032">Hvor Brændingerne hvide</l>
+               <l xml:id="idm140352318581584">slaa op om Klittens Sand,</l>
+               <l xml:id="idm140352318581152">dér mærkes Danmarks Side</l>
+               <l xml:id="idm140352318580704">af Havets Rovdyrstand!</l>
+               <l xml:id="idm140352318580288">Af Steen og Tømmerstokke</l>
+               <l xml:id="idm140352318579840">maa Høfder skydes ud,</l>
+               <l xml:id="idm140352318579392">at Bølgen ej skal rokke</l>
+               <l xml:id="idm140352318578944">den Arv, vi fik fra Gud.</l>
+            </lg>
+            <lg xml:id="idm140352318578384">
+               <l xml:id="idm140352318578128">Men hist hvor Bølger løfte</l>
+               <l xml:id="idm140352318577664">sig om vort søndre Leen,</l>
+               <l xml:id="idm140352318577216">dér har vi trængt til Høfde</l>
+               <l xml:id="idm140352318576752">af meer end Stok og Steen:</l>
+               <l xml:id="idm140352318576320">til Mænd med modig Pande,</l>
+               <l xml:id="idm140352318575872">af djærv og mandig Røst,</l>
+               <l xml:id="idm140352318575424">som mod de stærke Vande</l>
+               <l xml:id="idm140352318574976">bød frem sit aabne Bryst.</l>
+            </lg>
+            <pb n="337" facs="adl/richardt/richardt2/rich2337" xml:id="idm140352318574400"/>
+            <lg xml:id="idm140352318573584">
+               <l xml:id="idm140352318573328">Slig Kæmpe var <hi rend="italics" xml:id="idm140352318573024">Hans Kryger</hi>,</l>
+               <l xml:id="idm140352318572208">saa trofast og saa fast;</l>
+               <l xml:id="idm140352318571776">i Storm og Tordenbyger</l>
+               <l xml:id="idm140352318571360">med Brændingen i Kast!</l>
+               <l xml:id="idm140352318570912">den Sidste til at græmme</l>
+               <l xml:id="idm140352318570464">sig over egne Tab,</l>
+               <l xml:id="idm140352318570048">den Første til at gjemme</l>
+               <l xml:id="idm140352318569600">sin Arm i Ulvens Gab!</l>
+            </lg>
+            <lg xml:id="idm140352318569056">
+               <l xml:id="idm140352318568800">Gud give hist os Helte</l>
+               <l xml:id="idm140352318568384">af samme Malm som han,</l>
+               <l xml:id="idm140352318567968">der ikke la'r sig vælte</l>
+               <l xml:id="idm140352318567520">af graadigt Tidevand!</l>
+               <l xml:id="idm140352318567104">der, hvad end Ravne skræppe,</l>
+               <l xml:id="idm140352318566640">ej flytte sig en Fod -</l>
+               <l xml:id="idm140352318566224">da skal det vorde Ebbe,</l>
+               <l xml:id="idm140352318565808">hvor længst har været Flod!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

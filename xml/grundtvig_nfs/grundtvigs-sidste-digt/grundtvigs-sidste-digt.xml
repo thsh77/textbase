@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Grundtvigs sidste digt</title>
+            <author>Grundtvig, N. F. S.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139947089396064">
+                     <name xml:id="idm139947089395808">
+                        <surname xml:id="idm139947089395680">Grundtvig</surname>, <forename xml:id="idm139947089395248">N. F. S.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139947089394992">N. F. S. Grundtvigs udvalgte Skrifter</title>
+                  <pubPlace xml:id="idm139947089394688">København</pubPlace>
+                  <publisher xml:id="idm139947089394224">Gyldendalske Boghandel</publisher>
+                  <date xml:id="idm139947089393888">1904-1909</date>
+                  <biblScope>576-577</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid144560" decls="#biblid144560">
+            <front xml:id="idm139947078471872">
+               <titlePage xml:id="idm139947078471616">
+                  <titlePart type="main" xml:id="idm139947078471360">GRUNDTVIGS SIDSTE DIGT.</titlePart>
+               </titlePage>
+               <div xml:id="idm139947078470544">
+                  <p xml:id="idm139947078470288">EFTER Svend Grundtvigs Angivelse stammer dette »Bortgangskvæde«, som
+							Forfatteren ikke selv har givet nogen Overskrift, fra Aaret 1872 og maa
+							antages at være det sidste Digt, Grundtvig har skrevet. Det blev første
+							Gang trykt i <hi rend="italics" xml:id="idm139947078469504"><!--<emph>-->Dansk
+								Kirketidende<!--</emph>--></hi> for 1880, Nr. 35.</p>
+               </div>
+            </front>
+            <body xml:id="idm139947078468064">
+               <div xml:id="idm139947078467808">
+                  <lg xml:id="idm139947078467552">
+                     <l xml:id="idm139947078467296">
+                        <hi rend="bold" xml:id="idm139947078467168">G</hi>ammel nok jeg nu er blevet</l>
+                     <l xml:id="idm139947078466336">Mellem Vugge min og Gavn,</l>
+                     <l xml:id="idm139947078465904">Nu jeg staaer paa Falderebet</l>
+                     <l xml:id="idm139947078465472">Ved det store, vilde Hav,</l>
+                     <l xml:id="idm139947078465040">Hvor Magneten er Guds-Ordet,</l>
+                     <l xml:id="idm139947078464608">Og Guds Aand staaer selv ved Roret.</l>
+                  </lg>
+                  <lg xml:id="idm139947078464048">
+                     <l xml:id="idm139947078463792">Stormene er frygtelige,</l>
+                     <l xml:id="idm139947078463376">Stille staaer her Mandevid,</l>
+                     <l xml:id="idm139947078462944">Nærmest er de Dødes Rige,</l>
+                     <l xml:id="idm139947078462496">Nemt det er at stevne did;</l>
+                     <l xml:id="idm139947078462064">Men, o vee for Ugle-Sangen!</l>
+                     <l xml:id="idm139947078461632">Bundløs der er Undergangen!</l>
+                  </lg>
+                  <lg xml:id="idm139947078461040">
+                     <l xml:id="idm139947078460784">Vel, paa jordisk Viis at regne,</l>
+                     <l xml:id="idm139947078460352">Langt af Led er Paradis,</l>
+                     <l xml:id="idm139947078459920">Er os nært dog allevegne,</l>
+                     <l xml:id="idm139947078459472">Hvor hos Ordet er Guds Priis,</l>
+                     <l xml:id="idm139947078459040">Saa for Sjæleøie-Stavnen</l>
+                     <l xml:id="idm139947078458592">Brat sig aabner Himmel-Havnen!</l>
+                  </lg>
+                  <pb n="577" xml:id="s577" facs="adl/grundtvig/grundtvig10/grun10577"/>
+                  <lg xml:id="idm139947078456784">
+                     <l xml:id="idm139947078456528">Ja, hvor <hi rend="italics" xml:id="idm139947078456240"><!--<emph>-->Aanden<!--</emph>--></hi>
+								staaer for Styret</l>
+                     <l xml:id="idm139947078455024">Og <hi rend="italics" xml:id="idm139947078454768"><!--<emph>-->Guds-Ordet<!--</emph>--></hi> er
+								Kompas,</l>
+                     <l xml:id="idm139947078453632">Giælder som i Æventyret</l>
+                     <l xml:id="idm139947078453184">Evighedens Timeglas;</l>
+                     <l xml:id="idm139947078452768">Der sig brat, som sagt, saa gjort,</l>
+                     <l xml:id="idm139947078452336">Aabner Evighedens Port!</l>
+                  </lg>
+                  <lg xml:id="idm139947078451792">
+                     <l xml:id="idm139947078451536">Derfor <hi rend="italics" xml:id="idm139947078451248"><!--<emph>-->Jesus-Christus-Navnet<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm139947078450080">Prises skal evindelig:</l>
+                     <l xml:id="idm139947078449696">Af hans Kiærlighed omfavnet,</l>
+                     <l xml:id="idm139947078449232">Hjertet er i Himmerig;</l>
+                     <l xml:id="idm139947078448816">Naar med denne Verden brydes,</l>
+                     <l xml:id="idm139947078448384">Til <hi rend="italics" xml:id="idm139947078448096"><!--<emph>-->Guds-Bordet<!--</emph>--></hi> vi
+								indbydes!</l>
+                  </lg>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

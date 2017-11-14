@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til kongen.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid101574" decls="#biblid101574">
+            <head xml:id="idm140352317872544">Til Kongen.<lb xml:id="idm140352317872256"/>Paa Grundlovsdagen 5. Juni 1884.</head>
+            <lg xml:id="idm140352317871824">
+               <l xml:id="idm140352317871568">Skjærsommerdagen lys og god,</l>
+               <l xml:id="idm140352317871104">da som et stensat Væld i Skoven</l>
+               <pb n="384" facs="adl/richardt/richardt2/rich2384" xml:id="idm140352317870640"/>
+               <l xml:id="idm140352317869872">vor Frihed fik sit Hegn i Loven -</l>
+               <l xml:id="idm140352317869440">os flokker om din Trones Fod;</l>
+               <l xml:id="idm140352317869008">thi blankt og rigt er Kildespejlet -</l>
+               <l xml:id="idm140352317868576">Kong Fredriks Værk har <hi rend="italics" xml:id="idm140352317868256">Du</hi> beseglet,</l>
+               <l xml:id="idm140352317867440">og værnet Vældets Overflod.</l>
+            </lg>
+            <lg xml:id="idm140352317866848">
+               <l xml:id="idm140352317866592">Og ligger end ved Alfarvej</l>
+               <l xml:id="idm140352317866160">foruden Slaa vor Moders Hytte</l>
+               <l xml:id="idm140352317865728">- og stredes der til liden Nytte</l>
+               <l xml:id="idm140352317865296">i Folkets Raad fra Høst til Maj</l>
+               <l xml:id="idm140352317864832">- og drak vi ej af Frihed Styrke,</l>
+               <l xml:id="idm140352317864400">men skabte os en kunstig Tørke</l>
+               <l xml:id="idm140352317863936">- o Konge! Din var Skylden ej.</l>
+            </lg>
+            <lg xml:id="idm140352317863376">
+               <l xml:id="idm140352317863120">Din Trofasthed vi lide paa!</l>
+               <l xml:id="idm140352317862688">Som stridige og skilte Grene</l>
+               <l xml:id="idm140352317862256">i Bøgens Krone sig forene</l>
+               <l xml:id="idm140352317861808">- i Tak til Dig vi mødes maa!</l>
+               <l xml:id="idm140352317861344">Din Trones Reenhed er vor Ære!</l>
+               <l xml:id="idm140352317860880">Dit Retsind skal din Bauta være,</l>
+               <l xml:id="idm140352317860416">din Hjertensgodhed mod de Smaal</l>
+            </lg>
+            <lg xml:id="idm140352317859856">
+               <l xml:id="idm140352317859600">Og som dit skjønne Kongeflag</l>
+               <l xml:id="idm140352317859136">er Eet trods sine deelte Flige,</l>
+               <l xml:id="idm140352317858704">saa favner Du det hele Rige</l>
+               <l xml:id="idm140352317858272">trods Folkets deelte Hjerteslag -</l>
+               <l xml:id="idm140352317857840">men gid Du maatte snarlig skue</l>
+               <l xml:id="idm140352317857408">eendrægtig Folkehjertet lue</l>
+               <l xml:id="idm140352317856944">for din og vor og Danmarks Sag!</l>
+            </lg>
+            <pb n="385" facs="adl/richardt/richardt2/rich2385" xml:id="idm140352317856384"/>
+         </div>
+      </body>
+   </text>
+</TEI>

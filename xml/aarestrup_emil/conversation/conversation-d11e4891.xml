@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conversation.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid63716" decls="#biblid63716">
+            <head xml:id="idm140382756433200">CONVERSATION.</head>
+            <lg xml:id="idm140382756432784">
+               <l xml:id="idm140382756432528">INA.</l>
+               <l xml:id="idm140382756432112">Du søde Ven, jeg kunde spise dig!</l>
+            </lg>
+            <lg xml:id="idm140382756431520">
+               <l xml:id="idm140382756431264">INUS.</l>
+            </lg>
+            <lg xml:id="idm140382756430720">
+               <l xml:id="idm140382756430464">Hvad Forskjæl ogsaa vel paa Sukkergot og mig!</l>
+            </lg>
+            <lg xml:id="idm140382756429840">
+               <l xml:id="idm140382756429584">INA.</l>
+            </lg>
+            <lg xml:id="idm140382756429040">
+               <l xml:id="idm140382756428784">Ak nei!</l>
+               <l xml:id="idm140382756428368">Jeg længdes efter Kalvesteg.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

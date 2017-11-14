@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Frøkenen og gartneren.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid75605" decls="#biblid75605">
+            <head xml:id="idm140382754966720">FRØKENEN OG GARTNEREN.</head>
+            <lg xml:id="idm140382754966272">
+               <l xml:id="idm140382754966016">Gartner, kan jeg faae hos Dem</l>
+               <l xml:id="idm140382754965584">Et par Duske Merian,</l>
+               <l xml:id="idm140382754965168">Rosmarin, Lavendel blaa,</l>
+               <l xml:id="idm140382754964736">Og en smule Timian?</l>
+            </lg>
+            <lg xml:id="idm140382754964192">
+               <l xml:id="idm140382754963936">Frøken, med Fornøjelse,</l>
+               <l xml:id="idm140382754963488">Strax skal jeg det hente</l>
+               <l xml:id="idm140382754963056">Hav den Godhed bare her</l>
+               <l xml:id="idm140382754962640">Et Minut at vente?</l>
+            </lg>
+            <lg xml:id="idm140382754962096">
+               <l xml:id="idm140382754961840">Dreng, bring Lænestolen hid!</l>
+               <l xml:id="idm140382754961376">Saa, nu vil vi ile;</l>
+               <l xml:id="idm140382754960960">Frøkenen maa være træt;</l>
+               <l xml:id="idm140382754960512">Vil De ikke hvile?</l>
+            </lg>
+            <lg xml:id="idm140382754959968">
+               <l xml:id="idm140382754959712">Dreng, gaae ned i Haugen, hent</l>
+               <l xml:id="idm140382754959280">Timian og det andet,</l>
+               <l xml:id="idm140382754958864">Stamp ei op i Landet</l>
+               <l xml:id="idm140382754958448">Men vær vaersom, see dig for,</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

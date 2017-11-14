@@ -1,0 +1,522 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Den hellige aand</title>
+            <author>Wied, Gustav</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140270082322816">
+                     <name xml:id="idm140270082322560">
+                        <surname xml:id="idm140270082322432">Wied</surname>,
+      <forename xml:id="idm140270082321984">Gustav</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140270082321696">Første Violin. Adel,
+      Gejstlighed, Borger og Bonde. Det svage Køn. Den hellige Aand H. C. Andersen. Et Par Handsker. 1967</title>
+                  <pubPlace xml:id="idm140270082321168">København</pubPlace>
+                  <publisher xml:id="idm140270082320736">Rosenkilde og Bagger</publisher>
+                  <date xml:id="idm140270082320448">1966-</date>
+                  <biblScope>306-311</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid140634" decls="#biblid140634">
+            <front xml:id="idm140270071902400">
+               <titlePage xml:id="idm140270071902144">
+                  <docTitle xml:id="idm140270071901888">
+                     <titlePart type="main" xml:id="idm140270071901632">
+                        <hi rend="italics" xml:id="idm140270071901104">DEN HELLIGE AAND</hi>
+                        <lb xml:id="idm140270071900416"/>
+                        <hi rend="italics" xml:id="idm140270071900160">Skrevet 1905,</hi>
+                        <lb xml:id="idm140270071899472"/>
+                        <hi rend="italics" xml:id="idm140270071899216">første Bogudgave 1907</hi>
+                     </titlePart>
+                  </docTitle>
+                  <pb n="306" facs="adl/wied/wied5/wied5306" xml:id="idm140270071898240"/>
+               </titlePage>
+            </front>
+            <body xml:id="idm140270071897216">
+               <epigraph xml:id="idm140270071896912">
+                  <cit xml:id="idm140270071896656">
+                     <q xml:id="idm140270071896352">MOTTO:
+- Da véd ikke, hvor let man skifter<lb xml:id="idm140270071896000"/>
+Mening, Ole Christoffersen, naar man<lb xml:id="idm140270071895696"/>
+er kommen paa den rette Vej!
+</q>
+                  </cit>
+               </epigraph>
+               <pb n="307" facs="adl/wied/wied5/wied5307" xml:id="idm140270071895008"/>
+               <div xml:id="idm140270071894192">
+                  <head xml:id="idm140270071893936">AGERENDE</head>
+                  <list type="simple" xml:id="idm140270071893520">
+                     <item xml:id="idm140270071892992">
+                        <hi rend="italics" xml:id="idm140270071892864">Søren Forkarl.	Ole Uldkræmmer</hi>.</item>
+                  </list>
+                  <stage type="mix" xml:id="idm140270071891872">
+                     <p xml:id="idm140270071891376">Søren Forkarl og Ole Uldkræmmer staar ude paa Gaardejer Niels Christensens Gaardsplads, hvor de allerede har staaet henved en Time og snakket.</p>
+                  </stage>
+                  <sp xml:id="idm140270071890560">
+                     <speaker xml:id="idm140270071890304">SØREN </speaker>
+                     <p xml:id="idm140270071889888">... og li'som han aabner Døren og gaar ud, bli'r han overfalden af en Bisværm, der stikker ham i Hovedet og paa Hænderne og, over det hele, hvor de kan komme til ...! Se, <hi rend="italics" xml:id="idm140270071889264">det</hi> kan jo nok bevise Gu's Almagt; men Gu's Kjærlighed beviser det sgunte!</p>
+                  </sp>
+                  <sp xml:id="idm140270071888192">
+                     <speaker xml:id="idm140270071887936">OLE. </speaker>
+                     <p xml:id="idm140270071887520">Næi, der skal <hi rend="italics" xml:id="idm140270071887216">mere</hi> til! ... Og nu ligger han derinde?</p>
+                  </sp>
+                  <sp xml:id="idm140270071886224">
+                     <speaker xml:id="idm140270071885968">SØREN. </speaker>
+                     <p xml:id="idm140270071885552">Nu ligger han derinde, ja ...</p>
+                  </sp>
+                  <sp xml:id="idm140270071884992">
+                     <speaker xml:id="idm140270071884736">OLE. </speaker>
+                     <p xml:id="idm140270071884320">Og <hi rend="italics" xml:id="idm140270071884064">Du</hi> staar for Styret?</p>
+                  </sp>
+                  <sp xml:id="idm140270071883120">
+                     <speaker xml:id="idm140270071882864">SØREN. </speaker>
+                     <p xml:id="idm140270071882448">Og <hi rend="italics" xml:id="idm140270071882192">jeg</hi> staar for Styret.</p>
+                  </sp>
+                  <sp xml:id="idm140270071881248">
+                     <speaker xml:id="idm140270071880992">OLE. </speaker>
+                     <p xml:id="idm140270071880576">Skal Du osse holde <hi rend="italics" xml:id="idm140270071880288">Konen</hi> vedlige?</p>
+                  </sp>
+                  <sp xml:id="idm140270071879312">
+                     <speaker xml:id="idm140270071879056">SØREN. </speaker>
+                     <p xml:id="idm140270071878640">Æ-he-he-he ...!</p>
+                  </sp>
+                  <sp xml:id="idm140270071878096">
+                     <speaker xml:id="idm140270071877840">OLE. </speaker>
+                     <p xml:id="idm140270071877424">Ja, for han er da'nne sæl mægtig ...</p>
+                  </sp>
+                  <sp xml:id="idm140270071876816">
+                     <speaker xml:id="idm140270071876560">SØREN. </speaker>
+                     <p xml:id="idm140270071876144">Æh-h e-he-he, næi ...! Men hun er <hi rend="italics" xml:id="idm140270071875840">hellig!</hi>
+							              </p>
+                  </sp>
+                  <sp xml:id="idm140270071874896">
+                     <speaker xml:id="idm140270071874640">OLE. </speaker>
+                     <p xml:id="idm140270071874224">Føj for Saten! ... Er han <hi rend="italics" xml:id="idm140270071873904">mejet</hi> daarlig?</p>
+                  </sp>
+                  <sp xml:id="idm140270071872928">
+                     <speaker xml:id="idm140270071872672">SØREN. </speaker>
+                     <p xml:id="idm140270071872256">Det har slaaen sig paa Hjernen, si'er Doktren.</p>
+                  </sp>
+                  <sp xml:id="idm140270071871680">
+                     <speaker xml:id="idm140270071871424">OLE. </speaker>
+                     <p xml:id="idm140270071871008">Saa <hi rend="italics" xml:id="idm140270071870720">er</hi> han den! for den Lejemsdel har han aldrig vaaren videre standhaftig i ... Og Børn har de ingen af?</p>
+                  </sp>
+                  <sp xml:id="idm140270071869584">
+                     <speaker xml:id="idm140270071869328">SØREN. </speaker>
+                     <p xml:id="idm140270071868912">Næi ... jo en Dødfødt.</p>
+                  </sp>
+                  <sp xml:id="idm140270071868336">
+                     <speaker xml:id="idm140270071868080">OLE. </speaker>
+                     <p xml:id="idm140270071867664">Du er et godt Fæ, Søren Hansen!</p>
+                  </sp>
+                  <sp xml:id="idm140270071867072">
+                     <speaker xml:id="idm140270071866816">SØREN. </speaker>
+                     <p xml:id="idm140270071866400">Jamen hun er jo <hi rend="italics" xml:id="idm140270071866112">hellig</hi> ... og jeg er Atenist.</p>
+                  </sp>
+                  <sp xml:id="idm140270071865136">
+                     <speaker xml:id="idm140270071864880">OLE. </speaker>
+                     <p xml:id="idm140270071864464">Det er vi sgu allesammen om Natten!</p>
+                  </sp>
+                  <sp xml:id="idm140270071863904">
+                     <speaker xml:id="idm140270071863648">SØREN. </speaker>
+                     <p xml:id="idm140270071863232">Æ-he-he-he ...!</p>
+                  </sp>
+                  <sp xml:id="idm140270071862688">
+                     <speaker xml:id="idm140270071862432">OLE. </speaker>
+                     <p xml:id="idm140270071862016">Og Gaarden er god?</p>
+                  </sp>
+                  <sp xml:id="idm140270071861472">
+                     <speaker xml:id="idm140270071861216">SØREN. </speaker>
+                     <p xml:id="idm140270071860800">Gaarden er udmærket, ja ... Men hun render til Bønnemøder.</p>
+                  </sp>
+                  <pb n="308" facs="adl/wied/wied5/wied5308" xml:id="idm140270071860144"/>
+                  <sp xml:id="idm140270071859328">
+                     <speaker xml:id="idm140270071859072">OLE. </speaker>
+                     <p xml:id="idm140270071858656">Saa rend med! ... Og Besætningen?</p>
+                  </sp>
+                  <sp xml:id="idm140270071858064">
+                     <speaker xml:id="idm140270071857808">SØREN. </speaker>
+                     <p xml:id="idm140270071857392">Besætningen er primus.</p>
+                  </sp>
+                  <sp xml:id="idm140270071856816">
+                     <speaker xml:id="idm140270071856560">OLE. </speaker>
+                     <p xml:id="idm140270071856144">Du er et godt Fæ, Søren Hansen!</p>
+                  </sp>
+                  <sp xml:id="idm140270071855552">
+                     <speaker xml:id="idm140270071855296">SØREN </speaker>
+                     <stage type="mix" xml:id="idm140270071854880">(tøvende).</stage>
+                     <p xml:id="idm140270071854224"> Jeg <hi rend="italics" xml:id="idm140270071853936">har</hi> prøvet at snakke med hende ...</p>
+                  </sp>
+                  <sp xml:id="idm140270071852944">
+                     <speaker xml:id="idm140270071852688">OLE. </speaker>
+                     <stage type="mix" xml:id="idm140270071852272">(interesseret).</stage>
+                     <p xml:id="idm140270071851616"> Naa?</p>
+                  </sp>
+                  <sp xml:id="idm140270071851072">
+                     <speaker xml:id="idm140270071850816">SØREN. </speaker>
+                     <p xml:id="idm140270071850400">Men hun kom straks kørende med den hel-li-ge Aand ...</p>
+                  </sp>
+                  <sp xml:id="idm140270071849760">
+                     <speaker xml:id="idm140270071849504">OLE. </speaker>
+                     <p xml:id="idm140270071849088">
+                        <hi rend="italics" xml:id="idm140270071848960">Vælt</hi> ham!
+</p>
+                  </sp>
+                  <sp xml:id="idm140270071847984">
+                     <speaker xml:id="idm140270071847728">SØREN. </speaker>
+                     <p xml:id="idm140270071847312">Det kan jeg ikke ...</p>
+                  </sp>
+                  <sp xml:id="idm140270071846768">
+                     <speaker xml:id="idm140270071846512">OLE. </speaker>
+                     <p xml:id="idm140270071846096">Saa vælt <hi rend="italics" xml:id="idm140270071845808">hende</hi> da!</p>
+                  </sp>
+                  <sp xml:id="idm140270071844832">
+                     <speaker xml:id="idm140270071844576">SØREN. </speaker>
+                     <p xml:id="idm140270071844160">Æ-he-he-he ...!</p>
+                  </sp>
+                  <sp xml:id="idm140270071843616">
+                     <speaker xml:id="idm140270071843360">OLE. </speaker>
+                     <p xml:id="idm140270071842944">Hva' sa'e hun?</p>
+                  </sp>
+                  <sp xml:id="idm140270071842400">
+                     <speaker xml:id="idm140270071842144">SØREN. </speaker>
+                     <p xml:id="idm140270071841728">Hun spurgte, om jeg kendte Jesum ...</p>
+                  </sp>
+                  <sp xml:id="idm140270071841168">
+                     <speaker xml:id="idm140270071840912">OLE. </speaker>
+                     <p xml:id="idm140270071840496">Det gjorde Du vel?</p>
+                  </sp>
+                  <sp xml:id="idm140270071839952">
+                     <speaker xml:id="idm140270071839696">SØREN. </speaker>
+                     <p xml:id="idm140270071839280">Ja-e ... Men jeg bekjendte mig til den frie Tanke, sa'e jeg; jeg troede ikke paa hendes hel-li-ge Aand, sa'e jeg; jeg troede, at Livet styredes efter forud ansatte fnysiske Love, sa'e jeg.</p>
+                  </sp>
+                  <sp xml:id="idm140270071838560">
+                     <speaker xml:id="idm140270071838304">OLE. </speaker>
+                     <p xml:id="idm140270071837888">Hmm ... men <hi rend="italics" xml:id="idm140270071837600">hvem</hi> har ansat dem, Søren Hansen?</p>
+                  </sp>
+                  <sp xml:id="idm140270071836576">
+                     <speaker xml:id="idm140270071836320">SØREN. </speaker>
+                     <p xml:id="idm140270071835904">Det er 'et intet Menneske foreløbigen givet at udgranske, Ole Christoffersen.</p>
+                  </sp>
+                  <sp xml:id="idm140270071835216">
+                     <speaker xml:id="idm140270071834960">OLE. </speaker>
+                     <p xml:id="idm140270071834544">Næi, ser vi <hi rend="italics" xml:id="idm140270071834240">det</hi> ... Men <hi rend="italics" xml:id="idm140270071833552">jeg</hi> si'er blot, at ku' <hi rend="italics" xml:id="idm140270071832864">jeg</hi> faa en Bundegaard ved at tro paa Treenigheden, saa Faeme <hi rend="italics" xml:id="idm140270071832128">troede</hi> jeg!</p>
+                  </sp>
+                  <sp xml:id="idm140270071831152">
+                     <speaker xml:id="idm140270071830896">SØREN. </speaker>
+                     <p xml:id="idm140270071830480">Det faar ingen <hi rend="italics" xml:id="idm140270071830192">mig</hi> nogensinde til!</p>
+                  </sp>
+                  <sp xml:id="idm140270071829248">
+                     <speaker xml:id="idm140270071828992">OLE. </speaker>
+                     <p xml:id="idm140270071828576">Du er et godt Fæ, Søren Hansen!</p>
+                  </sp>
+                  <sp xml:id="idm140270071827984">
+                     <speaker xml:id="idm140270071827728">SØREN. </speaker>
+                     <p xml:id="idm140270071827312">Man skal være det, man er, helt og fuldt ud! Og i det foreliggende Tilfælde vilde en Kungpromis mellem mig og den hel-li-ge Aand være en Kungpromis med Akordens Aand!</p>
+                  </sp>
+                  <sp xml:id="idm140270071826448">
+                     <speaker xml:id="idm140270071826192">OLE. </speaker>
+                     <stage type="mix" xml:id="idm140270071825776">(halvvejs beundrende).</stage>
+                     <p xml:id="idm140270071825120"> Ja, <hi rend="italics" xml:id="idm140270071824832">Snakketøj</hi> har Du jo!</p>
+                  </sp>
+                  <sp xml:id="idm140270071823856">
+                     <speaker xml:id="idm140270071823600">SØREN. </speaker>
+                     <p xml:id="idm140270071823184">Det har enhver, der er greven af en stor Sag, Ole Christoffersen; og man skal holde fast ved sin Overbevisning.</p>
+                  </sp>
+                  <sp xml:id="idm140270071822544">
+                     <speaker xml:id="idm140270071822288">OLE. </speaker>
+                     <p xml:id="idm140270071821872">Kan Du kjøbe Kunstgjødning for <hi rend="italics" xml:id="idm140270071821536">den ?</hi>
+							              </p>
+                  </sp>
+                  <sp xml:id="idm140270071820592">
+                     <speaker xml:id="idm140270071820336">SØREN. </speaker>
+                     <p xml:id="idm140270071819920">Næi ... men man beholder <hi rend="italics" xml:id="idm140270071819600">Sæl</hi>agtelsen.</p>
+                  </sp>
+                  <sp xml:id="idm140270071818624">
+                     <speaker xml:id="idm140270071818368">OLE. </speaker>
+                     <p xml:id="idm140270071817952">Hva' kan det nytte, naar de <hi rend="italics" xml:id="idm140270071817648">andre</hi> griner?</p>
+                  </sp>
+                  <sp xml:id="idm140270071816672">
+                     <speaker xml:id="idm140270071816416">SØREN. </speaker>
+                     <p xml:id="idm140270071816000">Og saadan en bredbuget Gaardmandskælling!</p>
+                  </sp>
+                  <sp xml:id="idm140270071815392">
+                     <speaker xml:id="idm140270071815136">OLE. </speaker>
+                     <p xml:id="idm140270071814720">Bredbuget ...? Saa Du er osse Socialist?</p>
+                  </sp>
+                  <pb n="309" facs="adl/wied/wied5/wied5309" xml:id="idm140270071814144"/>
+                  <sp xml:id="idm140270071813328">
+                     <speaker xml:id="idm140270071813072">SØREN. </speaker>
+                     <p xml:id="idm140270071812656">Ja jeg er ... mit Bryst banker for de smaa paa Jorden!</p>
+                  </sp>
+                  <sp xml:id="idm140270071812080">
+                     <speaker xml:id="idm140270071811824">OLE. </speaker>
+                     <p xml:id="idm140270071811408">Hvormejet Kretur holdes her?</p>
+                  </sp>
+                  <sp xml:id="idm140270071810848">
+                     <speaker xml:id="idm140270071810592">SØREN. </speaker>
+                     <p xml:id="idm140270071810176">Tyve.</p>
+                  </sp>
+                  <sp xml:id="idm140270071809632">
+                     <speaker xml:id="idm140270071809376">OLE. </speaker>
+                     <p xml:id="idm140270071808960">Og Heste?</p>
+                  </sp>
+                  <sp xml:id="idm140270071808416">
+                     <speaker xml:id="idm140270071808160">SØREN. </speaker>
+                     <p xml:id="idm140270071807744">Fire.</p>
+                  </sp>
+                  <sp xml:id="idm140270071807200">
+                     <speaker xml:id="idm140270071806944">OLE. </speaker>
+                     <p xml:id="idm140270071806528">Og hva' kommer hun til at skylde i Gaarden?</p>
+                  </sp>
+                  <sp xml:id="idm140270071805952">
+                     <speaker xml:id="idm140270071805696">SØREN. </speaker>
+                     <p xml:id="idm140270071805280">Tredve Tusind.</p>
+                  </sp>
+                  <sp xml:id="idm140270071804736">
+                     <speaker xml:id="idm140270071804480">OLE. </speaker>
+                     <p xml:id="idm140270071804064">Og de staar?</p>
+                  </sp>
+                  <sp xml:id="idm140270071803520">
+                     <speaker xml:id="idm140270071803264">SØREN. </speaker>
+                     <p xml:id="idm140270071802848">I Kreditforeningen til 4½.</p>
+                  </sp>
+                  <sp xml:id="idm140270071802272">
+                     <speaker xml:id="idm140270071802016">OLE. </speaker>
+                     <p xml:id="idm140270071801600">Fire Gange tre er tolv, og en halv til er atten ... atten hundrede paa saadan en Gaard, det er jo ingenting !</p>
+                  </sp>
+                  <sp xml:id="idm140270071800960">
+                     <speaker xml:id="idm140270071800704">SØREN. </speaker>
+                     <p xml:id="idm140270071800288">Næi ...</p>
+                  </sp>
+                  <sp xml:id="idm140270071799744">
+                     <speaker xml:id="idm140270071799488">OLE. </speaker>
+                     <p xml:id="idm140270071799072">Du sku' <hi rend="italics" xml:id="idm140270071798784">skamme</hi> Dig!</p>
+                  </sp>
+                  <sp xml:id="idm140270071797808">
+                     <speaker xml:id="idm140270071797552">SØREN. </speaker>
+                     <p xml:id="idm140270071797136">Jeg sæl-ger ikke min Sælagtelse for en Skæppe Mammun.</p>
+                  </sp>
+                  <sp xml:id="idm140270071796496">
+                     <speaker xml:id="idm140270071796240">OLE. </speaker>
+                     <p xml:id="idm140270071795824">Du sku simpelthen <hi rend="italics" xml:id="idm140270071795536">piskes!</hi>
+							              </p>
+                  </sp>
+                  <sp xml:id="idm140270071794592">
+                     <speaker xml:id="idm140270071794336">SØREN. </speaker>
+                     <p xml:id="idm140270071793920">Jeg vil staa ren og frigjort overfor mine Meningsfæller.</p>
+                  </sp>
+                  <sp xml:id="idm140270071793280">
+                     <speaker xml:id="idm140270071793024">OLE. </speaker>
+                     <p xml:id="idm140270071792608">Du sku ... .Du sku ... Du sku sættes <hi rend="italics" xml:id="idm140270071792256">fast</hi>, Søren Hansen! Du sku ... Du sku uskaeligøres! Samfundet kan liefrem ikke være tjent med, at Du gaar <hi rend="italics" xml:id="idm140270071791344">løs!</hi>
+							              </p>
+                  </sp>
+                  <sp xml:id="idm140270071790400">
+                     <speaker xml:id="idm140270071790144">SØREN. </speaker>
+                     <p xml:id="idm140270071789728">Og <hi rend="italics" xml:id="idm140270071789472">Du</hi> snakker, som Du har Forstand til, Ole Christoffersen! ... Det er jo netop vos Fremskridtsfolks Opgave at holde vores Svinesti ren, som skreven staar! ... Og <hi rend="italics" xml:id="idm140270071788640">skal</hi> jeg noentid indlade mig med Kællingen her, saa skal det være som et Martyrium, jeg tar paa mig for at faa Gaarden udstykket til Husmandslodder! ... Og nu har jeg ikke Stunder til at staa længere her og skvadronere med <hi rend="italics" xml:id="idm140270071787488">Dig!</hi> Adjøs!</p>
+                  </sp>
+                  <stage type="mix" xml:id="idm140270071786512">(Et Aar senere.)</stage>
+                  <stage type="mix" xml:id="idm140270071785856">
+                     <p xml:id="idm140270071785360">Søren og Ole staar paa ny ude paa Gaardspladsen og snakker sammen. - Niels Christensen er død; og Søren er bleven gift med Enken.</p>
+                  </stage>
+                  <sp xml:id="idm140270071784560">
+                     <speaker xml:id="idm140270071784304">SØREN </speaker>
+                     <p xml:id="idm140270071783888">... og li-ge-som jeg aabner Døren og gaar ud, falder jeg om og blir liggende ... Og da jeg kommer til mig sæl igen, er jeg <hi rend="italics" xml:id="idm140270071783360">Kristen!</hi>
+							              </p>
+                  </sp>
+                  <pb n="310" facs="adl/wied/wied5/wied5310" xml:id="idm140270071782416"/>
+                  <sp xml:id="idm140270071781600">
+                     <speaker xml:id="idm140270071781344">OLE. </speaker>
+                     <p xml:id="idm140270071780928">Det var Satens!</p>
+                  </sp>
+                  <sp xml:id="idm140270071780384">
+                     <speaker xml:id="idm140270071780128">SØREN. </speaker>
+                     <p xml:id="idm140270071779712">Det er li-ge-som med ham Paulum, da han gik til Dasmascum, Ole Christoffersen.</p>
+                  </sp>
+                  <sp xml:id="idm140270071779104">
+                     <speaker xml:id="idm140270071778848">OLE. </speaker>
+                     <p xml:id="idm140270071778432">Og saa tog Du hende?</p>
+                  </sp>
+                  <sp xml:id="idm140270071777888">
+                     <speaker xml:id="idm140270071777632">SØREN. </speaker>
+                     <p xml:id="idm140270071777216">Herren <hi rend="italics" xml:id="idm140270071776928">vilde</hi> det jo ...</p>
+                  </sp>
+                  <sp xml:id="idm140270071775952">
+                     <speaker xml:id="idm140270071775696">OLE. </speaker>
+                     <p xml:id="idm140270071775280">Du er sgu alligevel ikke saa dum, som Du ser ud til, Søren Hansen!</p>
+                  </sp>
+                  <sp xml:id="idm140270071774624">
+                     <speaker xml:id="idm140270071774368">SØREN. </speaker>
+                     <p xml:id="idm140270071773952">Jeg <hi rend="italics" xml:id="idm140270071773664">har</hi> været dum.</p>
+                  </sp>
+                  <sp xml:id="idm140270071772704">
+                     <speaker xml:id="idm140270071772448">OLE. </speaker>
+                     <p xml:id="idm140270071772032">Ja, det har Du sgu!</p>
+                  </sp>
+                  <sp xml:id="idm140270071771488">
+                     <speaker xml:id="idm140270071771232">SØREN. </speaker>
+                     <p xml:id="idm140270071770816">Men nu er jeg bleven <hi rend="italics" xml:id="idm140270071770528">seende</hi>.</p>
+                  </sp>
+                  <sp xml:id="idm140270071769584">
+                     <speaker xml:id="idm140270071769328">OLE. </speaker>
+                     <p xml:id="idm140270071768912">Og nu gaar Du til Bønnemøder?</p>
+                  </sp>
+                  <sp xml:id="idm140270071768320">
+                     <speaker xml:id="idm140270071768064">SØREN. </speaker>
+                     <p xml:id="idm140270071767648">Nu gaar jeg til Bønnemøder og blander min Lovsang med de andres.</p>
+                  </sp>
+                  <sp xml:id="idm140270071766992">
+                     <speaker xml:id="idm140270071766736">OLE. </speaker>
+                     <stage type="mix" xml:id="idm140270071766320">(puffer til ham og blinker).</stage>
+                     <p xml:id="idm140270071765648"> Hør, Du Søren ... vi er jo <hi rend="italics" xml:id="idm140270071765312">alene!</hi>
+							              </p>
+                  </sp>
+                  <sp xml:id="idm140270071764368">
+                     <speaker xml:id="idm140270071764112">SØREN. </speaker>
+                     <p xml:id="idm140270071763696">Menneskene er aldrig <hi rend="italics" xml:id="idm140270071763408">alene</hi>, Ole Christoffersen!</p>
+                  </sp>
+                  <sp xml:id="idm140270071762432">
+                     <speaker xml:id="idm140270071762176">OLE. </speaker>
+                     <stage type="mix" xml:id="idm140270071761760">(skuffet).</stage>
+                     <p xml:id="idm140270071761104"> Hum ... Og hva sier nu dine gamle Meningsfæller?</p>
+                  </sp>
+                  <sp xml:id="idm140270071760480">
+                     <speaker xml:id="idm140270071760224">SØREN. </speaker>
+                     <p xml:id="idm140270071759808">Jeg har ta-get Martyriummet paa mig og lar dem grine.</p>
+                  </sp>
+                  <sp xml:id="idm140270071759232">
+                     <speaker xml:id="idm140270071758976">OLE. </speaker>
+                     <p xml:id="idm140270071758560">Ja, Du sidder jo osse her paa Gaarden som Ejer nu.</p>
+                  </sp>
+                  <sp xml:id="idm140270071757984">
+                     <speaker xml:id="idm140270071757728">SØREN. </speaker>
+                     <p xml:id="idm140270071757312">Ikke som <hi rend="italics" xml:id="idm140270071757024">Ejer</hi>, Ole Christoffersen, kun som <hi rend="italics" xml:id="idm140270071756288">Forpagter</hi> ...</p>
+                  </sp>
+                  <sp xml:id="idm140270071755312">
+                     <speaker xml:id="idm140270071755056">OLE. </speaker>
+                     <stage type="mix" xml:id="idm140270071754640">(overrasket).</stage>
+                     <p xml:id="idm140270071753984"> Saa-e !?</p>
+                  </sp>
+                  <sp xml:id="idm140270071753440">
+                     <speaker xml:id="idm140270071753184">SØREN. </speaker>
+                     <p xml:id="idm140270071752768">Er ikke al Ejendom en Forpagtning fra Oven?</p>
+                  </sp>
+                  <sp xml:id="idm140270071752192">
+                     <speaker xml:id="idm140270071751936">OLE. </speaker>
+                     <p xml:id="idm140270071751520">Naa saadan jo! ... Og <hi rend="italics" xml:id="idm140270071751232">det</hi> Herskav er ikke af de strikseste med Afgiften!</p>
+                  </sp>
+                  <sp xml:id="idm140270071750256">
+                     <speaker xml:id="idm140270071750000">SØREN. </speaker>
+                     <p xml:id="idm140270071749584">Nej det er i-del Kjærlighed!</p>
+                  </sp>
+                  <sp xml:id="idm140270071748992">
+                     <speaker xml:id="idm140270071748736">OLE. </speaker>
+                     <p xml:id="idm140270071748320">Sig mig, Søren, staar Du og gør <hi rend="italics" xml:id="idm140270071747984">Nar</hi> af mig?</p>
+                  </sp>
+                  <sp xml:id="idm140270082266448">
+                     <speaker xml:id="idm140270082266192">SØREN. </speaker>
+                     <p xml:id="idm140270082265776">Jeg er et li-det Gu's Barn, Ole ...</p>
+                  </sp>
+                  <sp xml:id="idm140270082265264">
+                     <speaker xml:id="idm140270082265008">OLE. </speaker>
+                     <p xml:id="idm140270082264592">Ja, Du er sgu hverken til at hugge eller stikke i!</p>
+                  </sp>
+                  <sp xml:id="idm140270082264016">
+                     <speaker xml:id="idm140270082263760">SØREN. </speaker>
+                     <p xml:id="idm140270082263344">Den hel-li-ge Aand er kommen over mig ...</p>
+                  </sp>
+                  <sp xml:id="idm140270082262768">
+                     <speaker xml:id="idm140270082262512">OLE. </speaker>
+                     <p xml:id="idm140270082262096">Saa blev det altsaa <hi rend="italics" xml:id="idm140270082261808">ham</hi>, der væltede <hi rend="italics" xml:id="idm140270082261104">Dig</hi> tilsidst!</p>
+                  </sp>
+                  <sp xml:id="idm140270082260160">
+                     <speaker xml:id="idm140270082259904">SØREN. </speaker>
+                     <p xml:id="idm140270082259488">Han er saa <hi rend="italics" xml:id="idm140270082259200">stærk</hi>, saa <hi rend="italics" xml:id="idm140270082258480">stærk</hi> ...</p>
+                  </sp>
+                  <sp xml:id="idm140270082257504">
+                     <speaker xml:id="idm140270082257248">OLE. </speaker>
+                     <p xml:id="idm140270082256832">Jeg synes ellers, Du sa'e engang, at Du vilde ikke ha noet med ham at skaffe?</p>
+                  </sp>
+                  <sp xml:id="idm140270082256224">
+                     <speaker xml:id="idm140270082255968">SØREN. </speaker>
+                     <p xml:id="idm140270082255552">Du véd ikke, hvor let man skifter Mening, Ole Christoffersen, naar man er kommen paa den rette Vej!</p>
+                  </sp>
+                  <sp xml:id="idm140270082254816">
+                     <speaker xml:id="idm140270082254560">OLE. </speaker>
+                     <p xml:id="idm140270082254144">Næi, jeg har da ikke rigtig vidst det før nu! ... Saa blir det vel heller ikke til noget med Udstykningen?</p>
+                  </sp>
+                  <pb n="311" facs="adl/wied/wied5/wied5311" xml:id="idm140270082253392"/>
+                  <sp xml:id="idm140270082252624">
+                     <speaker xml:id="idm140270082252368">SØREN. </speaker>
+                     <p xml:id="idm140270082251952">Med hva for en Udstykning ...?</p>
+                  </sp>
+                  <sp xml:id="idm140270082251440">
+                     <speaker xml:id="idm140270082251184">OLE. </speaker>
+                     <p xml:id="idm140270082250768">Du vilde jo udstykke Gaarden her til Husmandslodder, sae Du, hvis Du noentid fik den.</p>
+                  </sp>
+                  <sp xml:id="idm140270082250160">
+                     <speaker xml:id="idm140270082249904">SØREN. </speaker>
+                     <p xml:id="idm140270082249488">
+                        <hi rend="italics" xml:id="idm140270082249360">Sa'e</hi> jeg det ...? Det maa ha været den Gang, jeg saa' paa Livet med kun <hi rend="italics" xml:id="idm140270082248512">jordiske</hi> Øjne.
+</p>
+                  </sp>
+                  <sp xml:id="idm140270082247536">
+                     <speaker xml:id="idm140270082247280">OLE. </speaker>
+                     <p xml:id="idm140270082246864">Ja, Du er sgu Faenhenteme mere durkdreven, end Du <hi rend="italics" xml:id="idm140270082246544">teg</hi>nede til, er Du!</p>
+                  </sp>
+                  <sp xml:id="idm140270082245600">
+                     <speaker xml:id="idm140270082245344">SØREN. </speaker>
+                     <p xml:id="idm140270082244928">Den som er givet meget skal formere sin Bo til Gu's Ære, Ole Christoffersen; og jeg er netop i Lav med at afrunde Ejendommen og kjøbe Pe Jensens Gaard her ved Siden af. Du vil derfor indse, at i det foreliggende Tilfælde vilde en Kungpromis mellem mig og de sosjalistiske Ideer være en Kungpromis med Akordens Aand!</p>
+                  </sp>
+                  <sp xml:id="idm140270082243760">
+                     <speaker xml:id="idm140270082243504">OLE. </speaker>
+                     <p xml:id="idm140270082243088">Ja, <hi rend="italics" xml:id="idm140270082242800">Snakketøj</hi> har Du altid haft!</p>
+                  </sp>
+                  <sp xml:id="idm140270071746960">
+                     <speaker xml:id="idm140270071746704">SØREN. </speaker>
+                     <p xml:id="idm140270071746288">Det har enhver, der er greven af en stor Sag, Ole Christoffersen; og man skal holde fast ved sin Overbevisning, thi kun derved bevarer man Sælagtelsen og holder sin Svinesti ren, som skreven staar.</p>
+                  </sp>
+                  <sp xml:id="idm140270071745360">
+                     <speaker xml:id="idm140270071745104">OLE. </speaker>
+                     <stage type="mix" xml:id="idm140270071744688">(tæt hen til ham).</stage>
+                     <p xml:id="idm140270071744016"> Kan Du huske ifjor, Søren Hansen, da Bierne hade stukken Niels Christensen, saa han døde a'et, saa sa'e Du, at det kunde maaske tilnød bevise Gu's Almagt, sa'e Du; men Gu's <hi rend="italics" xml:id="idm140270071743392">Kjær</hi>lighed beviste det <hi rend="italics" xml:id="idm140270071742672">ikke</hi>, sa'e Du? ... Men jeg synes nu alligevel, at det paa en Maade lisom har bevist Gu's Kjærlighed ... til <hi rend="italics" xml:id="idm140270071741760">Dig!</hi>
+							              </p>
+                  </sp>
+                  <sp xml:id="idm140270071740816">
+                     <speaker xml:id="idm140270071740560">SØREN </speaker>
+                     <stage type="mix" xml:id="idm140270071740144">(nikker dybt).</stage>
+                     <p xml:id="idm140270071739488"> Ja, hans Veje ere uransa-ge-li-ge, Ole Christoffersen! ... Men nu maa jeg ind. Adjøs! ... Og den hel-li-ge Aand komme i bredt Maal over vort lille Fædreland! Dette beder jeg inder-li-gen! <stage type="mix" xml:id="idm140270071738832">(Gaar.)</stage>
+							              </p>
+                  </sp>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

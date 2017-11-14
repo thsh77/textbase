@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Løft de klingre glaspokaler.</title>
+            <author>Jacobsen, J. P.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140562724137168">
+                     <name xml:id="idm140562724136912">
+                        <surname xml:id="idm140562724136784">Jacobsen</surname>,
+      <forename xml:id="idm140562724136336">J. P.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140562724135872">Samlede Værker
+      IV</title>
+                  <title xml:id="idm140562724135424">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title>
+                  <pubPlace xml:id="idm140562724135168">København</pubPlace>
+                  <date xml:id="idm140562724134736">1924-29</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid66861" decls="#biblid66861">
+            <head xml:id="idm140562722544752">LØFT DE KLINGRE GLASPOKALER.</head>
+            <lg xml:id="idm140562722544288">
+               <l xml:id="idm140562722544032">Løft de klingre Glaspokaler,</l>
+               <l xml:id="idm140562722543568">Som Burgunderbølger maler</l>
+               <l xml:id="idm140562722543120">Røde som den sorte Nat.</l>
+            </lg>
+            <lg xml:id="idm140562722542544">
+               <l xml:id="idm140562722542288">Fat</l>
+               <l xml:id="idm140562722541904">Eders Bægre og rejs jer brat</l>
+               <l xml:id="idm140562722541440">I Rid're af Livets bugnende Bord,</l>
+               <l xml:id="idm140562722541008">Rid're af den runde Jord!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

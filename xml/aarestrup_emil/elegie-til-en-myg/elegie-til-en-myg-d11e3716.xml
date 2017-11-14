@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elegie til en myg.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid61146" decls="#biblid61146">
+            <head xml:id="idm140382756751472">ELEGIE TIL EN MYG.</head>
+            <lg xml:id="idm140382756751056">
+               <l xml:id="idm140382756750800">Lille Myg paa spinkle Vinger,</l>
+               <l xml:id="idm140382756750368">Som I Aftensolen svinger</l>
+               <l xml:id="idm140382756749936">Dig om Hækkens grønne Blad!</l>
+               <l xml:id="idm140382756749472">Nærm dig dristig kun, og lad</l>
+               <l xml:id="idm140382756749008">Braaden suge kjære Drik,</l>
+               <l xml:id="idm140382756748560">Jeg skal ei forstyrre dig!</l>
+               <l xml:id="idm140382756748128">Ak, et større Saar jeg fik</l>
+               <l xml:id="idm140382756747680">Dengang Lila saared mig.</l>
+               <l xml:id="idm140382756747248">Blodet nu fra mine Kinder</l>
+               <l xml:id="idm140382756746816">Daglig meer og meer forsvinder</l>
+               <l xml:id="idm140382756746384">Derfor maa du gjerne komme,</l>
+               <l xml:id="idm140382756745952">O du stakkels lille Dyr!</l>
+               <l xml:id="idm140382756745520">Rosentiden snart er omme,</l>
+               <l xml:id="idm140382756745088">Beggeto vi da bortflyer.</l>
+               <pb n="62" facs="adl/aarestrup/aare1/aare1062" xml:id="idm140382756744656"/>
+               <l xml:id="idm140382756743840"> Men hvis Lila kommer her</l>
+               <l xml:id="idm140382756743408">Og det skjønne Øie rundt</l>
+               <l xml:id="idm140382756742960">Med hver Blomst fornøier sig</l>
+               <l xml:id="idm140382756742496">Under disse grønne Træer,</l>
+               <l xml:id="idm140382756742048">Saa maa du ei nærme dig;</l>
+               <l xml:id="idm140382756741600">Ak, din Braad, den gjør dog ondt!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

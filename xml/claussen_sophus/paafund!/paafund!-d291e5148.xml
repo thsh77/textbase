@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paafund!</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140264665681152">
+                     <name xml:id="idm140264665680896">
+                        <surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140264665680016">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140264665679728">: </title>
+                  <pubPlace xml:id="idm140264665679472">[København]</pubPlace>
+                  <publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140264665678640">1982-</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid65249" decls="#biblid65249">
+            <head xml:id="idm140264664149456">
+               <hi rend="italics" xml:id="idm140264664149200">PAAFUND!</hi>
+            </head>
+            <epigraph xml:id="idm140264664148384">
+               <cit xml:id="idm140264664148128">
+                  <q xml:id="idm140264664147872">("En Kres af unge Poeter lagde Hovederne<lb xml:id="idm140264664147552"/>
+paa Siden og forkyndte et nyt digterisk<lb xml:id="idm140264664147232"/>
+Gennembrud af Sjæl og Symbol ...... De<lb xml:id="idm140264664146880"/>
+unge Digteres nye Paafund smilede han<lb xml:id="idm140264664146576"/>
+over ...."</q>
+               </cit>
+               <bibl xml:id="idm140264664146032">
+                  <hi rend="italics" xml:id="idm140264664145776">Sven Langes Kronik i Gaar om</hi>
+                  <lb xml:id="idm140264664145072"/>
+                  <hi rend="italics" xml:id="idm140264664144816">Edvard Brandes)</hi>
+               </bibl>
+            </epigraph>
+            <lg xml:id="idm140264664143872">
+               <l xml:id="idm140264664143616">Et Tærningkast, et Paafund, hvis man vil,</l>
+               <l xml:id="idm140264664143136">har gjort, at vi i Verden bliver til.</l>
+               <l xml:id="idm140264664142704">Saa taal da med behersket Minespil</l>
+               <l xml:id="idm140264664142272">det nye Paafund, at vi her er til.</l>
+            </lg>
+            <lg xml:id="idm140264664141712">
+               <l xml:id="idm140264664141456">Men kald ej ned til Eders Skyggefest</l>
+               <l xml:id="idm140264664141024">fra dystre Tiders Nat en Marmorgæst,</l>
+               <l xml:id="idm140264664140544">der med Kommandostaven stramt holdt Stand,</l>
+               <l xml:id="idm140264664140096">. . . men blev et Navn, en Vilje og en Mand.</l>
+            </lg>
+            <lg xml:id="idm140264664139520">
+               <l xml:id="idm140264664139264">Hvor blev Sven Lange med sit Ungdoms Smil?</l>
+               <l xml:id="idm140264664138816">Veg, som en Sjæl, der søger sit Symbol</l>
+               <l xml:id="idm140264664138336">med nye Taarer i den nye Sol -</l>
+               <l xml:id="idm140264664137904">aah han har altsaa narret os April.</l>
+            </lg>
+            <lg xml:id="idm140264664137344">
+               <l xml:id="idm140264664137088">Rid, lille Flok, sid op, gør dygtig Blæst,</l>
+               <l xml:id="idm140264664136592">som om I ejed Poesiens Land,</l>
+               <l xml:id="idm140264664136160">paa Eders kjøbenhavnske Gyngehest</l>
+               <l xml:id="idm140264664135696">med Hale, Blødtot, Øjne og Forstand.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

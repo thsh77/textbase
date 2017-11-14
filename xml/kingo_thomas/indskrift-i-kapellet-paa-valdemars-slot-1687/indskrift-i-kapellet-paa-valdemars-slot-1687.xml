@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Indskrift i kapellet paa valdemars slot 1687</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015369092032">
+                     <name xml:id="idm140015369091776">
+                        <surname xml:id="idm140015369091648">Kingo</surname>,
+      <forename xml:id="idm140015369091200">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015369090912">Samlede skrifter 2</title>
+                  <pubPlace xml:id="idm140015369090624">København</pubPlace>
+                  <publisher xml:id="idm140015369090192">Munksgaard</publisher>
+                  <date xml:id="idm140015369089856">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid79661" decls="#biblid79661">
+            <body xml:id="idm140015365931168">
+               <head xml:id="idm140015365930912">Indskrift i Kapellet paa<lb xml:id="idm140015365930608"/>Valdemars Slot.</head>
+               <lg xml:id="idm140015365930192">
+                  <l xml:id="idm140015365929936">Staa Jernestiifwe steen og blif til æwigt minde,</l>
+                  <l xml:id="idm140015365929440">Om slig en søe-helt og saa stor en dyds mandinde,</l>
+                  <l xml:id="idm140015365928944">Som Juel og Ulfeld er&gt; Gud lade deris sæd</l>
+                  <l xml:id="idm140015365928496">Til Roes og ære gaa i deris foode fiæd.</l>
+                  <l xml:id="idm140015365928016">Saalænge floder skal paa Werdens strømme larme</l>
+                  <l xml:id="idm140015365927520">Og Taasing favnes'skal af Belts krumslibrig Arme</l>
+                  <l xml:id="idm140015365927072">Saalænge Konger wed at prise Mandoms Art</l>
+                  <l xml:id="idm140015365926592">Saa lefwer han, og hun deri har hendes Part.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140015365926016">
+                  <hi rend="italics" xml:id="idm140015365925376">Tekstgrundlag: Den originale Tavle i Kapellet paa  Valdemars Slot.
+Overskrift indsat af Udg.   </hi>4 Om] For B</note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

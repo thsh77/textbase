@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Den fattige drengs eventyr</title>
+            <author>Drachmann, Holger</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140026787304384">
+                     <name xml:id="idm140026787304128">
+                        <surname xml:id="idm140026787304000">Drachmann</surname>, <forename xml:id="idm140026787303568">Holger</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140026787303312">Samlede poetiske Skrifter</title>
+                  <pubPlace xml:id="idm140026787303008">Kbh. &amp; Kristiania</pubPlace>
+                  <date xml:id="idm140026787302416">1906-1909</date>
+                  <biblScope>515-528</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid57935" decls="#biblid57935">
+            <body xml:id="idm140026786751088">
+               <pb n="516" facs="adl/drachmann/drachmann12/drac12516" xml:id="idm140026786750832"/>
+               <pb n="517" facs="adl/drachmann/drachmann12/drac12517" xml:id="idm140026786750016"/>
+               <pb n="518" facs="adl/drachmann/drachmann12/drac12518" xml:id="idm140026786749200"/>
+               <pb n="519" facs="adl/drachmann/drachmann12/drac12519" xml:id="idm140026786748384"/>
+               <pb n="520" facs="adl/drachmann/drachmann12/drac12520" xml:id="idm140026786747568"/>
+               <pb n="521" facs="adl/drachmann/drachmann12/drac12521" xml:id="idm140026786746752"/>
+               <pb n="522" facs="adl/drachmann/drachmann12/drac12522" xml:id="idm140026786745936"/>
+               <pb n="523" facs="adl/drachmann/drachmann12/drac12523" xml:id="idm140026786745120"/>
+               <pb n="524" facs="adl/drachmann/drachmann12/drac12524" xml:id="idm140026786744304"/>
+               <pb n="525" facs="adl/drachmann/drachmann12/drac12525" xml:id="idm140026786743488"/>
+               <pb n="526" facs="adl/drachmann/drachmann12/drac12526" xml:id="idm140026786742672"/>
+               <pb n="527" facs="adl/drachmann/drachmann12/drac12527" xml:id="idm140026786741856"/>
+               <pb n="528" facs="adl/drachmann/drachmann12/drac12528" xml:id="idm140026786741088"/>
+               <p xml:id="idm140026786740320"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

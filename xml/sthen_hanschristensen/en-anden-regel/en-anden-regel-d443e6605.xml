@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>En anden regel</title>
+            <author>Sthen, Hans Christensen</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140299314457616">
+                     <name xml:id="idm140299314457360">
+                        <surname xml:id="idm140299314457232">Sthen</surname>,
+      <forename xml:id="idm140299314456848">Hans Christensen</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140299314456560">En liden Vandrebog</title>
+                  <pubPlace xml:id="idm140299314456272">København</pubPlace>
+                  <publisher xml:id="idm140299314455808">Det Danske Sprog- og Litteraturselskab</publisher>
+                  <publisher xml:id="idm140299314455504">C.A. Reitzel</publisher>
+                  <date xml:id="idm140299314455168">1994</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid67226" decls="#biblid67226">
+            <head xml:id="idm140299312746752">
+               <hi rend="bold" xml:id="idm140299312746496">En anden Regel.</hi>
+            </head>
+            <lg xml:id="idm140299312745680">
+               <l xml:id="idm140299312745424">VÆr stille, stadig, oc holt dig slet,</l>
+               <l xml:id="idm140299312744944">Foracte all Fortørnelse oc wræt,</l>
+               <l xml:id="idm140299312744480">Sact met det første, oc far i mag,</l>
+               <l xml:id="idm140299312744016">See vel til, oc acte Enden i all din Sag,</l>
+               <l xml:id="idm140299312743568">Haff Gud for Øyen, tænck paa hannem altid,</l>
+               <l xml:id="idm140299312743072">Holt maal oc maade, i Ord, Gierning oc Ijd:</l>
+               <l xml:id="idm140299312742624">Kiend dig selff, oc holt dig til dine lige,</l>
+               <l xml:id="idm140299312742176">Det er det beste Raad ieg kand sige:</l>
+               <l xml:id="idm140299312741744">Befal saa Gud din Vey oc Sag,</l>
+               <l xml:id="idm140299312741312">Saa gaar vel frem alle dine Anslag:</l>
+               <pb n="100" xml:id="s100" facs="adl/stehn/stehn1/stehn1100"/>
+               <l xml:id="idm140299312739680">Tro huad Christeligt er,</l>
+               <l xml:id="idm140299312739248">Giør huad ræt er,</l>
+               <l xml:id="idm140299312738816">Tænck huad got er,</l>
+               <l xml:id="idm140299312738384">Tal huad sant er,</l>
+               <l xml:id="idm140299312737968">Tie huad hemmeligt er,</l>
+               <l xml:id="idm140299312737552">Æd huad sunt er,</l>
+               <l xml:id="idm140299312737136">Drick huad klar er, </l>
+            </lg>
+            <stage type="mix" xml:id="idm140299312736592">
+               <hi rend="italics" xml:id="idm140299312736224">(excepta aqua</hi>)</stage>
+            <lg xml:id="idm140299312735360">
+               <l xml:id="idm140299312735104">Læß huad nyttigt er,</l>
+               <l xml:id="idm140299312734656">Soff naar tid er.</l>
+               <l xml:id="idm140299312734240">Giør du dette, oc følger min Lære,</l>
+               <l xml:id="idm140299312733760">Da skal det dig meget gavnligt være.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Skytten paa aunsbjerg (1839)</title>
+            <author>Blicher, Steen Steensen</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139916724531104">
+                     <name xml:id="idm139916724530848">
+                        <surname xml:id="idm139916724530720">Blicher</surname>, <forename xml:id="idm139916724530288">Steen Steensen</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139916724530000">Digte og Noveller</title>
+                  <pubPlace xml:id="idm139916724529712">København</pubPlace>
+                  <date xml:id="idm139916724529200">1946</date>
+                  <biblScope>171-186</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid56158" decls="#biblid56158">
+            <body xml:id="idm139916724267536">
+               <pb n="172" xml:id="n172" facs="adl/blich/blich2/blic2172"/>
+               <pb n="173" xml:id="n173" facs="adl/blich/blich2/blic2173"/>
+               <pb n="174" xml:id="n174" facs="adl/blich/blich2/blic2174"/>
+               <pb n="175" xml:id="n175" facs="adl/blich/blich2/blic2175"/>
+               <pb n="176" xml:id="n176" facs="adl/blich/blich2/blic2176"/>
+               <pb n="177" xml:id="n177" facs="adl/blich/blich2/blic2177"/>
+               <pb n="178" xml:id="n178" facs="adl/blich/blich2/blic2178"/>
+               <pb n="179" xml:id="n179" facs="adl/blich/blich2/blic2179"/>
+               <pb n="180" xml:id="n180" facs="adl/blich/blich2/blic2180"/>
+               <pb n="181" xml:id="n181" facs="adl/blich/blich2/blic2181"/>
+               <pb n="182" xml:id="n182" facs="adl/blich/blich2/blic2182"/>
+               <pb n="183" xml:id="n183" facs="adl/blich/blich2/blic2183"/>
+               <pb n="184" xml:id="n184" facs="adl/blich/blich2/blic2184"/>
+               <pb n="185" xml:id="n185" facs="adl/blich/blich2/blic2185"/>
+               <pb n="186" xml:id="n186" facs="adl/blich/blich2/blic2186"/>
+               <p xml:id="idm139916724248960"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

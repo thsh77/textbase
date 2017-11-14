@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paa kvisten.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60069" decls="#biblid60069">
+            <head xml:id="idm139731449295248">Paa Kvisten.</head>
+            <lg xml:id="idm139731449294832">
+               <l xml:id="idm139731449294576">Min Gjenbo er en Mur og mit Skjul er en Kvist,</l>
+               <l xml:id="idm139731449294128">og Loftet kan jeg magelig række;</l>
+               <l xml:id="idm139731449293664">men Solen er min Ven, og han smugler med List</l>
+               <l xml:id="idm139731449293216">sit Guld mellem Tagenes Sprække;</l>
+               <l xml:id="idm139731449292752">jeg sidder som en Drot i mit ensomme Bur,</l>
+               <l xml:id="idm139731449292304">og byder baade Fortid og Fremtid til Kur.</l>
+            </lg>
+            <lg xml:id="idm139731449291728">
+               <l xml:id="idm139731449291472">Men kommer saa den Tid, da den liflige Dugg</l>
+               <l xml:id="idm139731449291024">sig sænker over Skovenes Kroner,</l>
+               <pb n="44" xml:id="s44" facs="adl/richardt/richardt1/rich1044"/>
+               <l xml:id="idm139731449289392">da hører jeg vel intet til Nattergalens Suk</l>
+               <l xml:id="idm139731449288896">og maa nøjes med en Lirekasses Toner;</l>
+               <l xml:id="idm139731449288416">men Drømmeguden melder sig dog tilsidst,</l>
+               <l xml:id="idm139731449287936">og gjor mig Besøg paa min høje Kvist.</l>
+            </lg>
+            <lg xml:id="idm139731449287328">
+               <l xml:id="idm139731449287072">Da glemmer jeg Byen og dens evige Støj,</l>
+               <l xml:id="idm139731449286592">og tænker paa alle mine Kjære,</l>
+               <l xml:id="idm139731449286128">og spørger Kattens Mjaven, i Mangel af en Gjøg,</l>
+               <l xml:id="idm139731449285632">hvor nær vel mit Bryllup kan være?</l>
+               <l xml:id="idm139731449285152">og nikker saa godnat til hver eneste En,</l>
+               <l xml:id="idm139731449284704">og nikker saa længe, til jeg sover som en Steen.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

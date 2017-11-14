@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fragment</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139983156419504">
+                     <name xml:id="idm139983156419072">
+                        <surname xml:id="idm139983156418768">Aarestrup</surname>, 
+	      <forename xml:id="idm139983156418320">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139983156417648">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm139983156417216">København</pubPlace>
+                  <publisher xml:id="idm139983156416832">C. A. Reitzel</publisher>
+                  <date xml:id="idm139983156416496">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid68010" decls="#biblid68010">
+            <head xml:id="idm139983154594912">FRAGMENT</head>
+            <lg xml:id="idm139983154594496">
+               <l xml:id="idm139983154594240">Mistvivlende kun Sjælen trækker</l>
+               <l xml:id="idm139983154593776">Igjennem Støv sin dorske Krop,</l>
+               <l xml:id="idm139983154593312">Hvor kedelig sig Søen strækker,</l>
+               <l xml:id="idm139983154592848">Og Landet gabende seer op -</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

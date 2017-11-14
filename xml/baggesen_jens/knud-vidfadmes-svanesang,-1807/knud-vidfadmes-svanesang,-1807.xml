@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Knud vidfadmes svanesang, 1807</title>
+            <author>Baggesen, Jens</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140610052857920">
+                     <name xml:id="idm140610052857664">
+                        <surname xml:id="idm140610052857536">Baggesen</surname>, <forename xml:id="idm140610052857072">Jens</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140610052856784"> Blandede Digte. 2. Samling. - 1903</title>
+                  <pubPlace xml:id="idm140610052856480">København</pubPlace>
+                  <date xml:id="idm140610052855968">1889-1903</date>
+                  <biblScope>143-146</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid56186" decls="#biblid56186">
+            <body xml:id="idm140610052500096">
+               <pb n="144" xml:id="n144" facs="adl/baggesen/baggesen5/bagg5144"/>
+               <pb n="145" xml:id="n145" facs="adl/baggesen/baggesen5/bagg5145"/>
+               <pb n="146" xml:id="n146" facs="adl/baggesen/baggesen5/bagg5146"/>
+               <p xml:id="idm140610052496112"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

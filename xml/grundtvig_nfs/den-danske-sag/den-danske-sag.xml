@@ -1,0 +1,1178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Den danske sag</title>
+            <author>Grundtvig, N. F. S.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139947089396064">
+                     <name xml:id="idm139947089395808">
+                        <surname xml:id="idm139947089395680">Grundtvig</surname>, <forename xml:id="idm139947089395248">N. F. S.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139947089394992">N. F. S. Grundtvigs udvalgte Skrifter</title>
+                  <pubPlace xml:id="idm139947089394688">København</pubPlace>
+                  <publisher xml:id="idm139947089394224">Gyldendalske Boghandel</publisher>
+                  <date xml:id="idm139947089393888">1904-1909</date>
+                  <biblScope>39-67</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid61219" decls="#biblid61219">
+            <front xml:id="idm139947088511184">
+               <titlePage xml:id="idm139947088510928">
+                  <titlePart type="main" xml:id="idm139947088510672">DEN DANSKE SAG.</titlePart>
+               </titlePage>
+               <div xml:id="idm139947088509856">
+                  <p xml:id="idm139947088509600">I Foraaret 1853 blev der stiftet et Selskab kaldet »<hi rend="italics" xml:id="idm139947088509216"><!--<emph>-->den Danske Forening<!--</emph>--></hi>«, hvori
+							Grundtvig var Formand. Maalet var at virke for Danskhedens Fremgang i
+							Folket, og den stillede sig som en Hovedopgave at faa oprettet en dansk
+							folkelig Højskole. Hertil blev der i Anledning af Grundtvigs 70 Aars
+							Fødselsdag den 8. September 1853 samlet 7000Rdlr., og denne Sum voksede
+							senere ved Aarsbidrag fra mange Sider. I April 1855 købte Grundtvig
+							Gaarden »<hi rend="italics" xml:id="idm139947088507328"><!--<emph>-->Marielyst<!--</emph>--></hi>«
+							ved København, og her begyndte i Efteraaret 1856 »Grundtvigs Højskole«.</p>
+                  <p xml:id="idm139947088506096">Fra den 8. Februar til den 26. April 1854 holdt Grundtvig 12 <hi rend="italics" xml:id="idm139947088505760"><!--<emph>-->Forelæsninger over Højnordens
+								Historie<!--</emph>--></hi> i den Danske Forenings københavnske
+							Afdeling. Den sidste af disse Forelæsninger offentliggjorde han 23. Juni
+							1854 i Foreningens Ugeblad <hi rend="italics" xml:id="idm139947088504352"><!--<emph>-->Dannebrog<!--</emph>--></hi>, deri 1854-55
+							blev udgivet af C. J. <hi rend="italics" xml:id="idm139947088503280"><!--<emph>-->Brandt<!--</emph>--></hi>. - Sammesteds
+							skrev Grundtvig den 13. og 20. Januar, den 23. Marts, den 8. Juni og den
+							6. Juli 1855 fem Stykker om <hi rend="italics" xml:id="idm139947088502128"><!--<emph>-->Den
+								Danske<!--</emph>--></hi> Sag, som her skal meddeles.</p>
+               </div>
+            </front>
+            <body xml:id="idm139947088500688">
+               <div xml:id="idm139947088500432">
+                  <head xml:id="idm139947088500176">I.</head>
+                  <p xml:id="idm139947088499792">
+                     <hi rend="bold" xml:id="idm139947088499664">N</hi>aar jeg ved <hi rend="italics" xml:id="idm139947088499008"><!--<emph>-->Nytaaret<!--</emph>--></hi> 1855 fæster mine Øjne paa
+							det lille og svage, men dog med Æren ældgamle »<hi rend="italics" xml:id="idm139947088497776"><!--<emph>-->Danmarks Rige<!--</emph>--></hi>«, paa Danskernes
+							forsmaaede men dog yndige <hi rend="italics" xml:id="idm139947088496704"><!--<emph>-->Modersmaal<!--</emph>--></hi> og paa den vel
+							ingenlunde lydesløse men dog livsalige <hi rend="italics" xml:id="idm139947088495552"><!--<emph>-->Menneskelighed<!--</emph>--></hi>, som fra Slægt til
+							Slægt kaldes <hi rend="italics" xml:id="idm139947088494448"><!--<emph>-->Danskhed<!--</emph>--></hi>, da er det langt fra, at jeg
+							kan istemme nogen Seiers-Sang paa den Valplads, hvor det saakaldte <hi rend="italics" xml:id="idm139947088493312"><!--<emph>-->Ørstedske<!--</emph>--></hi> men
+							igrunden <hi rend="italics" xml:id="idm139947088492304"><!--<emph>-->Carlmoltkiske<!--</emph>--></hi> Ministerium nys blæste
+							omkuld, eller spaae <hi rend="italics" xml:id="idm139947088491136"><!--<emph>-->Fredegods-Dage<!--</emph>--></hi> under det saakaldte
+								<hi rend="italics" xml:id="idm139947088490080"><!--<emph>-->Bangske<!--</emph>--></hi> men
+							igrunden <hi rend="italics" xml:id="idm139947088489072"><!--<emph>-->Scheelske<!--</emph>--></hi>
+							Ministerium, der alt har begyndt at giøre <hi rend="italics" xml:id="idm139947088487920"><!--<emph>-->Rigs-Piller<!--</emph>--></hi>
+                     <pb n="40" xml:id="s40" facs="adl/grundtvig/grundtvig10/grun10040"/> af de gamle <hi rend="italics" xml:id="idm139947088485936"><!--<emph>-->Vindfælder<!--</emph>--></hi>; men jeg fristes langt
+							snarere til at holde en sørgelig Lig-Prædiken over <hi rend="italics" xml:id="idm139947088484704"><!--<emph>-->»Danmarks Rige<!--</emph>--></hi>« som vor gamle
+							Oldemoder, død i Brude-Sengen, kun skulde dele med sin Arve-Fiende »<hi rend="italics" xml:id="idm139947088483584"><!--<emph>-->Holsten-Gottorp<!--</emph>--></hi>«, og
+							at spaae hendes gamle Tvillinger »<hi rend="italics" xml:id="idm139947088482512"><!--<emph>-->Dansken<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088481504"><!--<emph>-->Danskheden<!--</emph>--></hi>« en ligesaa sørgelig
+							Helsot i deres ubarmhjertige Stiffaders Fæhuus. Ja, det fristes jeg til
+							ved Nytaaret 1855, men jeg giør det dog ingenlunde, vel tildeels fordi
+							jeg veed, at ingen Taarer er værre stædte eller vissere spildte end dem,
+							man oversvømmer Papiret med i skrevne Lig-Prædikener, men dog især,
+							fordi jeg selv under de meest fortvivlede Omstændigheder har beholdt og
+							skal, med Guds Hjelp, til min sidste Stund beholde et langt lysere <hi rend="italics" xml:id="idm139947088479456"><!--<emph>-->Haab<!--</emph>--></hi>, end som saa, om
+							vort elskede Fæderneland. Dette mit <hi rend="italics" xml:id="idm139947088478304"><!--<emph>-->Danske Haab<!--</emph>--></hi> har vel i det
+							Nærværende ingen anden Grund end min Tro paa Guds Naade og det Danske
+							Folks Livsalighed, men det har dog fra Arilds-Tid en forsvarlig Grund i
+							den <hi rend="italics" xml:id="idm139947088476912"><!--<emph>-->Kiendsgierning<!--</emph>--></hi>,
+							at hvor sort det end mangen Gang, i Løbet af et Par Aartusinder, har
+							seet ud for det lille Danmarks Rige, saa har det dog hidtil altid klaret
+							op igien, før man vidste det, ja, ei sjelden naar det mindst ventedes,
+							og til denne store <hi rend="italics" xml:id="idm139947088475360"><!--<emph>-->Kiendsgierning<!--</emph>--></hi> hører jo ogsaa det
+							lille Træk i den senest forbigangne Tid, at det forhærdede, sammenfrosne
+								<hi rend="italics" xml:id="idm139947088474112"><!--<emph>-->Januar-Ministerium<!--</emph>--></hi>, ved et ganske
+							uventet Tøbrud i <hi rend="italics" xml:id="idm139947088473008"><!--<emph>-->December<!--</emph>--></hi> blev til Vand og til Vind,
+							hvoraf det var sammensat.</p>
+                  <p xml:id="idm139947088471792">Skiøndt jeg derfor slet ikke kan finde vort seneste <hi rend="italics" xml:id="idm139947088471408"><!--<emph>-->Minister<!--</emph>--></hi>-<hi rend="italics" xml:id="idm139947088470352"><!--<emph>-->Skifte<!--</emph>--></hi> glædeligt i den Mening og
+							Udstrækning, at det derved klarede op til en ny Dag for Danmarks Rige og
+							den Danske Sag, saa finder jeg det dog <hi rend="italics" xml:id="idm139947088469024"><!--<emph>-->forsaavidt<!--</emph>--></hi>
+							              <hi rend="italics" xml:id="idm139947088468016"><!--<emph>-->glædeligt<!--</emph>--></hi>, som det
+							var et »<hi rend="italics" xml:id="idm139947088466944"><!--<emph>-->Skifte<!--</emph>--></hi>«, da
+							vi havde det allerværste Ministerium, vi kunde hjemsøges med under
+							Solen, og havde næsten ikke mindste Udsigt til <hi rend="italics" xml:id="idm139947088465776"><!--<emph>-->Skifte<!--</emph>--></hi>, førend den ene efter den
+							anden døde af Alderdom og blev da ventelig afløst med en nybagt Minister
+							af samme Skuffe. Det uventede Minister-Skifte i Slutningen af forrige
+							Aar, endnu førend <hi rend="italics" xml:id="idm139947088464320"><!--<emph>-->Ørsted<!--</emph>--></hi>, som den Ældste, døde efter
+							Naturens Orden, det er da virkelig for saavidt en glædelig Begivenhed,
+							som det i mine Øine klarlig viser, at endnu i December 1854 havde
+							Vorherre ikke glemt det lille, skrøbelige Danmarks Rige og hvad dertil
+							hører, og endnu var Han ikke blevet døv for det lille hjertelige, men
+							altfor let modfaldne, og altfor søvnige Folks Suk, der vel ikke turde
+							lukke sine Øine op og see, hvilken bundløs Afgrund det slæbdes hen til,
+							men følde dog, det slæbdes med ubarmhjertige Hænder til hvad Hjertet <pb n="41" xml:id="s41" facs="adl/grundtvig/grundtvig10/grun10041"/> maatte grue for; thi naar kun
+							Vorherre kommer os ihu, naar kun det samme vise og kiærlige <hi rend="italics" xml:id="idm139947088461328"><!--<emph>-->Forsyn<!--</emph>--></hi>, som hidtil
+							har vaaget over det lille Danmarks Rige og styret, som Daarers
+							Formynder, for det lille barnlige, men ogsaa meget barnagtige Danske
+							Folk, fremdeles vil vaage over os og styre for os, da er jeg sikker paa,
+							det har ingen Nød, vi gaaer jo baade Sygen og Skiærsilden taalelig
+							igjennem, skiøndt der seer sort ud, ja, saa sort, at vi egenlig seer
+							»hverken Dag eller Dør!«</p>
+                  <p xml:id="idm139947088459296">Men det forstaaer sig selv, det giælder ligesaa vel om et heelt Folk og
+							Rige, som det giælder om Enhver af os og enhver Husbond med sit Huus, at
+							hvem der ikke selv vil hjelpe til, det lidt, han kan, han staaer ikke
+							til at hjelpe, enten for Gud eller Mennesker, og med et Folk og Rige er
+							dette endnu klarere end med nogen Enkeltmand og hans Huus, fordi
+							Forholdene er større og langt mere iøinefaldende. Saae vi nu en stakkels
+							Enkemand, der ulykkeligviis var blevet skilt fra sin Kone, ikke ved det
+							Vorherre tog hende, men derved, at hans arrigste Fiende dels lokkede og
+							dels truede hende til at være sin Frille, saae vi en saadan stakkels
+							Enkemand i den fortvivlede Stilling, at de, der kaldte sig hans gode
+							Venner, vilde dels lokke og dels true ham til at brække sit eget Huus
+							ned og sætte Alting til paa at bygge et større, splinternyt, hvori han
+							skulde boe sammen med sin forrige Kone og med hendes Forfører og Tyran,
+							for derved ret at lægge sin Forsonlighed og Sagtmodighed for Dagen, i
+							det Haab, at enten døde vel Forføreren en af Dagene, eller maaskee blev
+							han ved et stort Mirakel skabt om, saa Enkemanden fik to Koner for een,
+							see, da maatte vi jo vel beklage den stakkels Enkemand og inderlig ønske
+							ham ud af den gruelige Klemme, men vi maatte dog sige, at satte han sig
+							ikke med Hænder og Fødder mod <hi rend="italics" xml:id="idm139947088459040"><!--<emph>-->hele<!--</emph>--></hi> dette Daarekiste-Værk, da var
+							han moden til Daarekisten og stod ikke til Redning. Men har vi aabne
+							Øine for Menneske-Livet <hi rend="italics" xml:id="idm139947089449776">i</hi> sine større <hi rend="italics" xml:id="idm139947089449104"><!--<emph>-->folkelige<!--</emph>--></hi> Forhold, da
+							seer vi, det er netop noget saadant Splittergalt, med sund
+							Menneskeforstand Ugiørligt, man vil have det <hi rend="italics" xml:id="idm139947089447776"><!--<emph>-->Danske Folk<!--</emph>--></hi> til at prøve paa, naar
+							man raader os til, for ikke længer at være skilt fra Sønder-Jylland
+							eller Slesvig, da at tage <hi rend="italics" xml:id="idm139947089446480"><!--<emph>-->Holsten<!--</emph>--></hi> med, og opgive hele
+							Danmarks Riges Frihed og Selvstændighed, i det Haab, ved et politisk
+							Giftermaal og <hi rend="italics" xml:id="idm139947089445216"><!--<emph>-->Fælles<!--</emph>--></hi>skab med <hi rend="italics" xml:id="idm139947088441952"><!--<emph>-->Slesvig-Holsten<!--</emph>--></hi> i en <hi rend="italics" xml:id="idm139947088440976"><!--<emph>-->Heelstat<!--</emph>--></hi>, at finde
+							fuld, ja, overflødig Erstatning for hvad vi taber ved at lade det
+							ældgamle <hi rend="italics" xml:id="idm139947088439712"><!--<emph>-->Danmarks
+							Rige<!--</emph>--></hi> forvandles til en <hi rend="italics" xml:id="idm139947088438704"><!--<emph>-->Provinds<!--</emph>--></hi> i det <hi rend="italics" xml:id="idm139947088437664"><!--<emph>-->Nordalbingiske Monarki<!--</emph>--></hi>, der vel,
+							indtil videre skal paa <pb n="42" xml:id="s42" facs="adl/grundtvig/grundtvig10/grun10042"/> Papiret
+							kaldes »<hi rend="italics" xml:id="idm139947088435376"><!--<emph>-->Dansk<!--</emph>--></hi>« men
+							dog i alle Maader være ligesaa <hi rend="italics" xml:id="idm139947088434272"><!--<emph>-->tysk<!--</emph>--></hi> som <hi rend="italics" xml:id="idm139947088433264"><!--<emph>-->dansk<!--</emph>--></hi>, ligesaa afhængigt af det <hi rend="italics" xml:id="idm139947088432144"><!--<emph>-->Tyske Forbunds<!--</emph>--></hi>
+							Beslutninger som af sine egne <hi rend="italics" xml:id="idm139947088431088"><!--<emph>-->Grundlove<!--</emph>--></hi>.</p>
+                  <p xml:id="idm139947088429952">Hvordan vi efter den hæderlige og seierrige Krig (1848-51) som
+							vi nys førde med <hi rend="italics" xml:id="idm139947088429504"><!--<emph>-->Holsten-Gottorp<!--</emph>--></hi> og med det store
+								<hi rend="italics" xml:id="idm139947088428448"><!--<emph>-->Tyskland<!--</emph>--></hi>, for dog
+							engang at blive dem kvit, er kommet i den haarde Klemme at skulle søbe
+							den Kaal, vi har spyttet i, det stræbde jeg i »<hi rend="italics" xml:id="idm139947088427136"><!--<emph>-->Danskeren<!--</emph>--></hi>«, som fulgde
+							Begivenhederne, og det har jeg ærlig stræbt paa Rigsdagen at oplyse, og
+							jeg tør vel sige, at var mit Raad blevet fulgt, da var vi aldrig kommet
+							hvor vi nu er, og veed hverken ud eller ind, men gjort Gierning staar
+							ikke til Ændring, saa deri kan det nu i det Høieste kun nytte vore
+							Efterkommere at speile sig, men skal vi, ved nogensomhelst lykkelig
+							Vending, ved noget Mirakel nok saa stort, komme ud af Klemmen, da kræves
+							der først og fremmest, at vi vil, <hi rend="italics" xml:id="idm139947088425056"><!--<emph>-->alvorlig vil<!--</emph>--></hi> ud af den, saasnart vi
+							kan, vil det, hvad det saa for Resten skal koste, thi ellers vil det
+							bestandig, selv ved de lykkeligste Vendinger, gaae os som det gik os
+							efter Seirene ved <hi rend="italics" xml:id="idm139947088423824"><!--<emph>-->Bau<!--</emph>--></hi>, ved <hi rend="italics" xml:id="idm139947088422816"><!--<emph>-->Frederits<!--</emph>--></hi> og ved <hi rend="italics" xml:id="idm139947088421776"><!--<emph>-->Isted<!--</emph>--></hi>, som vi ikke turde forfølge
+							eller benytte og høstede derfor slet ingen varige Frugter af. Det
+							eneste, vi for Øieblikket kan giøre, er at udtrykke denne <hi rend="italics" xml:id="idm139947088420384"><!--<emph>-->Danske Folke-Villie<!--</emph>--></hi>
+							paa det Bestemteste og Klareste ved at <hi rend="italics" xml:id="idm139947088419312"><!--<emph>-->nægte<!--</emph>--></hi> vort Samtykke til Forandring
+							af en eneste Tøddel i <hi rend="italics" xml:id="idm139947088418160"><!--<emph>-->Danmarks
+								Riges<!--</emph>--></hi> Grundlov, enten i Henseende til fuld <hi rend="italics" xml:id="idm139947088417104"><!--<emph>-->Minister-Ansvarlighed<!--</emph>--></hi>, eller <hi rend="italics" xml:id="idm139947088416096"><!--<emph>-->Penge-Bevillinger<!--</emph>--></hi>,
+							eller <hi rend="italics" xml:id="idm139947088415056"><!--<emph>-->Valgret<!--</emph>--></hi> eller
+								<hi rend="italics" xml:id="idm139947088414016"><!--<emph>-->Lovgivning<!--</emph>--></hi>; eller
+							nogensomhelst <hi rend="italics" xml:id="idm139947088412928"><!--<emph>-->Frihed<!--</emph>--></hi>,
+							indtil man, om man kan, viser og sikkrer os en <hi rend="italics" xml:id="idm139947088411840"><!--<emph>-->Fælles-Forfatning<!--</emph>--></hi>, hvori vi saavel
+							for Danmarks Rige og det Danske Folk? som for hver Enkeltmand af os,
+							finder samme Tilfredsstillelse, som Danmarks Riges Grundlov giver os.</p>
+                  <p xml:id="idm139947088410496">Det er <hi rend="italics" xml:id="idm139947088410240"><!--<emph>-->umueligt<!--</emph>--></hi>, vil
+							man sige, og det troer jeg gjerne, men det er ligefuldt hvad man skylder
+							os, og hvad vi nødvendig maae have, før vi med Villie kan give Slip paa
+							Danmarks Riges velerhvervede og dyrt beseiglede Grundlov, uden derved at
+							give Slip paa <hi rend="italics" xml:id="idm139947088408640"><!--<emph>-->Fæderneland,
+								Modersmaal<!--</emph>--></hi> og al <hi rend="italics" xml:id="idm139947088407584"><!--<emph>-->Folkelighed<!--</emph>--></hi>, som vore Fædre har
+							stridt for til sidste Blods-Draabe, og som deres ægte Børn, saalænge der
+							er igjen af dem, maa stride ligedan for.</p>
+                  <p xml:id="idm139947088406096">Men, vil man sige, der er jo <hi rend="italics" xml:id="idm139947088405792"><!--<emph>-->ikke<!--</emph>--></hi> mindste <hi rend="italics" xml:id="idm139947088404784"><!--<emph>-->Rimelighed<!--</emph>--></hi> for, at enten <hi rend="italics" xml:id="idm139947088403744"><!--<emph>-->Rigsdagen<!--</emph>--></hi> eller det
+								<hi rend="italics" xml:id="idm139947088402704"><!--<emph>-->Danske Folk<!--</emph>--></hi> med
+							et saadant roligt og standhaftigt <hi rend="italics" xml:id="idm139947088401600"><!--<emph>-->Nei<!--</emph>--></hi> vil modsætte sig enhver
+							Sammenkobling <pb n="43" xml:id="s43" facs="adl/grundtvig/grundtvig10/grun10043"/> med
+							Holsten-Gottorp og enhver Heelstats-Plan, hvori det er klart, at
+							Danmarks Riges, Danskens og Danskhedens Ære, Frihed og Selvstændighed,
+							lidt før eller lidt senere, maatte gaae saa aldeles tilgrunde, at der
+							end ikke mere kunde være Tale om et <hi rend="italics" xml:id="idm139947088398784"><!--<emph>-->Danmarks Rige<!--</emph>--></hi>, et <hi rend="italics" xml:id="idm139947088397744"><!--<emph>-->Dansk Folk<!--</emph>--></hi> og deres
+								<hi rend="italics" xml:id="idm139947088396704"><!--<emph>-->Historie<!--</emph>--></hi>, længere
+							end til <hi rend="italics" xml:id="idm139947088395600"><!--<emph>-->den Dag<!--</emph>--></hi>, da
+							Danmarks Rige og det Danske Folk opgav folkelig og historisk talt, sig
+							selv og gjorde en Ulykke paa sig selv, tog sig selv af Dage.</p>
+                  <p xml:id="idm139947088394304">Dertil svarer jeg, at »<hi rend="italics" xml:id="idm139947088393984"><!--<emph>-->Rimelighed<!--</emph>--></hi>« er en »<hi rend="italics" xml:id="idm139947088392976"><!--<emph>-->Regning<!--</emph>--></hi>«, hvori det
+							altid kommer an paa, <hi rend="italics" xml:id="idm139947088391872"><!--<emph>-->hvad<!--</emph>--></hi> man regner efter, og <hi rend="italics" xml:id="idm139947088390864"><!--<emph>-->hvordan<!--</emph>--></hi> man regner,
+							saa at hvem der blot regner efter hvad der hidtil er skeet paa Rigsdagen
+							og hørt fra Folket, siden Januar 1852, maa jo finde det høist rimeligt,
+							at den nærværende Rigsdag gjør de samme Indrømmelser som den forrige, og
+							at den tredie Rigsdag, som skal slaae Hoved paa Sømmet, gjør ligedan og
+							at Folket tier og samtykker, skøndt dermed alt Dansk vilde være
+							bortgivet uden noget tænkeligt Vederlag, før Ravnen bliver hvid og
+							Stenen svømmer ovenpaa; men naar man derimod, som jeg, regner efter den
+								<hi rend="italics" xml:id="idm139947088388992"><!--<emph>-->Danske<!--</emph>--></hi>
+							Folke-Natur, som den har været fra Arilds Tid, og efter Danmarks Riges
+							Krønike fra Kong Dan, der ved at jage <hi rend="italics" xml:id="idm139947088387712"><!--<emph>-->Tyskerne<!--</emph>--></hi> ud af Sønder-Jylland gav
+							Riget sine rette Grændser, da maa jeg finde det høist <hi rend="italics" xml:id="idm139947088386512"><!--<emph>-->urimeligt<!--</emph>--></hi>, at et saa ædelt og
+							fædernelandskjærligt Folk, som hidtil, naar det kom til Stykket, altid
+							sagde: nu Skit med alt andet! vil <hi rend="italics" xml:id="idm139947088385200"><!--<emph>-->Tyskerne<!--</emph>--></hi> igien til at træde os paa
+							Nakken, saa skal de dog skee en Ulykke, at dette samme Folk skulde nu
+							paa sine gamle Dage være saa vanslægtet fra sig selv, at de godvillig
+							gav dem i Tyskernes Vold og satte alt deres Haab til holsten-gottorpsk
+							Broderskab og Barmhjertighed. Jeg maa derimod kalde det <hi rend="italics" xml:id="idm139947088383536"><!--<emph>-->høistrimeligt<!--</emph>--></hi>, at
+							naar det Danske Folk blot fem Minuter før Ulykken skeer kan faae sine
+							Øine gnedet og seer, hvad det virkelig gælder om, og seer, hvor god og
+							stor dog igrunden den <hi rend="italics" xml:id="idm139947088382112"><!--<emph>-->Danske
+								Sag<!--</emph>--></hi> er, og seer, at det Danske Navn, efter
+							Tilintetgjørelsen af »<hi rend="italics" xml:id="idm139947088380944"><!--<emph>-->Danmarks
+								Rige<!--</emph>--></hi>« og dette Riges <hi rend="italics" xml:id="idm139947088379936"><!--<emph>-->Grundlov<!--</emph>--></hi>, vilde være det tommeste
+							Mundsveir under Solen; da vil det <hi rend="italics" xml:id="idm139947088378736"><!--<emph>-->Danske
+								Folk<!--</emph>--></hi> skrige saa høit et <hi rend="italics" xml:id="idm139947088377664"><!--<emph>-->Nei<!--</emph>--></hi>, i al Evighed aldrig, at ingen
+								<hi rend="italics" xml:id="idm139947088376592"><!--<emph>-->Dansk Rigsdag<!--</emph>--></hi> kan
+							eller tør sige Ja, og dertil vil jeg nu bidrage min Skiserv, ved saa
+							jævnt og klart, som jeg formaaer, at fremstille den »<hi rend="italics" xml:id="idm139947088375280"><!--<emph>-->Danske Sag<!--</emph>--></hi>« i hele sin folkelige og
+							menneskelige Godhed og Storhed, der maa være os den gyldigste Borgen
+							for, at, saasandt der er et <hi rend="italics" xml:id="idm139947088374112"><!--<emph>-->guddommeligt
+								Forsyn<!--</emph>--></hi> til, da kan den <hi rend="italics" xml:id="idm139947088373088"><!--<emph>-->Danske Sag<!--</emph>--></hi> umuelig tabes, med
+							mindre <pb n="44" xml:id="s44" facs="adl/grundtvig/grundtvig10/grun10044"/> vi selv, med mindre det
+							Danske Folk selv, paa den allerurimeligste og unaturligste Maade opgiver
+							og forraader den!</p>
+                  <p xml:id="idm139947088370608">Jeg veed meget godt, at hvad jeg, ved at skrive et Stykke i »Dannebrog«
+							som kun læses meget lidt, kan bidrage til at oplyse det Danske Folk om
+							den Danske Sag, det er saa forskrækkelig lidt, at man meget bedre kan
+							forsvare at kalde det slet ingen Ting, end at kalde det stort, men jo
+							mindre det Gode er, man kan giøre, des mindre maa det dog undlades eller
+							forsømmes, og naar man har Øine i Hovedet, da kan dog ogsaa meget lidt
+							giøre, at man faaer dem op for hvad der er soleklart.</p>
+                  <p xml:id="idm139947088369488">Sagen er nemlig den, at ingen Dansker har igrunden mindste Tvivl om, at
+							Tyskeren, og især den tyske <hi rend="italics" xml:id="idm139947088368992"><!--<emph>-->Holsten-Gottorper<!--</emph>--></hi>, naar man giver
+							ham en Finger, tager hele Haanden, saa at, vil man ikke i hans Kløer,
+							maa man holde ham tre Skridt fra Livet, og at naar man alligevel snakker
+							om, at det <hi rend="italics" xml:id="idm139947088367552"><!--<emph>-->Tyske
+							Forbunds<!--</emph>--></hi> Indflydelse paa en <hi rend="italics" xml:id="idm139947088366544"><!--<emph>-->Fælles-Forfatning<!--</emph>--></hi> for <hi rend="italics" xml:id="idm139947088365488"><!--<emph>-->Danmark<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088364448"><!--<emph>-->Holsten<!--</emph>--></hi> vil neppe
+							være betydelig, og at naar kun Danmarks Rige har saa nogenlunde efter
+							sit Folketal Stemme i Fælles-Raadet, da vil der ikke være synderlig Fare
+							for Danskheden, om end Holsten-Gottorperne med de Kongevalgtes Hjelp kan
+							overstemme Danskerne ved ethvert Spørgsmaal, da veed man igrunden ret
+							godt, at man skuffer sig selv og dysser sig selv i Søvn, for ikke at
+							blive sig bevidst, at man opgiver <hi rend="italics" xml:id="idm139947088362752"><!--<emph>-->Folket<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088361744"><!--<emph>-->Fædernelandet<!--</emph>--></hi>, som man antager, kan
+							ikke reddes, om man end græd sine Øine ud for dem.</p>
+                  <p xml:id="idm139947088360384">Kunde derfor kun den Følelse vækkes som falder ethvert Folk meget
+							naturlig, og er ingensteds sandere end i Danmark, at vi med alle vore
+							Lyder dog er meget for gode til at opsluges af Holsten-Gottorp, paa det
+							store grændseløse Tysklands Vegne, saa det kan Vorherre umuelig nænne
+							naar vi ikke selv i utilgivelig Feighed og dorsk Fortvivlelse giør en
+							Ulykke paa os selv, da vil Synet for den truende Fare komme af sig
+						selv.</p>
+               </div>
+               <div xml:id="idm139947088359216">
+                  <head xml:id="idm139947088358960">II.</head>
+                  <p xml:id="idm139947088358576">Vor store Ulykke er den, at det lillle <hi rend="italics" xml:id="idm139947088358272"><!--<emph>-->Danske Folk<!--</emph>--></hi>, som meget godt føler,
+							at den <hi rend="italics" xml:id="idm139947088357168"><!--<emph>-->Danske Sag<!--</emph>--></hi> er
+							baade først og sidst <hi rend="italics" xml:id="idm139947088356080"><!--<emph>-->deres
+								egen<!--</emph>--></hi> Sag, de tænker sædvanlig, at den er <hi rend="italics" xml:id="idm139947088354976"><!--<emph>-->blot deres<!--</emph>--></hi> og slet
+							ingen Andens Sag, og at den, som saadan, maa ansees <pb n="45" xml:id="s45" facs="adl/grundtvig/grundtvig10/grun10045"/> for tabt, siden den ikke engang kunde reddes
+							ved alt det Løvemod., der vistes, ved alle de Offere, der gjordes, og
+							ved alle de Seire, der vandtes i Kampen paa Liv og Død mellem det lille
+								<hi rend="italics" xml:id="idm139947088352320"><!--<emph>-->Danmarks Rige<!--</emph>--></hi> og
+							det store, grændseløse <hi rend="italics" xml:id="idm139947088351184"><!--<emph>-->Tyskland<!--</emph>--></hi>, med Slesvig-Holsten eller
+							Holsten-Gottorp paa Enden, og derfor stræber det modfaldne Danske Folk
+							dels at dysse sin Fædernelands-Kiærlighed i Søvn, og dels at indbilde
+							sig selv, at Faren for <hi rend="italics" xml:id="idm139947088349728"><!--<emph>-->Danmarks
+								Rige<!--</emph>--></hi>, <hi rend="italics" xml:id="idm139947088348720"><!--<emph>-->Dansken<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088347712"><!--<emph>-->Danskheden<!--</emph>--></hi> er ikke nær saa stor,
+							som jeg og mine Lige skraale paa, da det dog nok kan være mueligt, at
+							skiøndt de, ved Sammenkobblingen med Holsten-Gottorp og det Tyske
+							Forbund, <hi rend="italics" xml:id="idm139947088346272"><!--<emph>-->forgaaer<!--</emph>--></hi> i
+								<hi rend="italics" xml:id="idm139947088345264"><!--<emph>-->Lys<!--</emph>--></hi>, de dog
+							maaskee kan <hi rend="italics" xml:id="idm139947088344176"><!--<emph>-->reddes<!--</emph>--></hi> i
+								<hi rend="italics" xml:id="idm139947088343168"><!--<emph>-->Løn<!--</emph>--></hi>, og dukke op
+							igjen om nogle hundrede Aar med »<hi rend="italics" xml:id="idm139947088342000"><!--<emph>-->Holger
+								Danske<!--</emph>--></hi>«. Ja, det er det Danske Folks Ulykke for
+							Øieblikket, at netop, fordi de fortvivler om Danmarks Redning og føler
+							dog dybt, at deres Hjerte maatte briste, om de skulde see paa
+							Fædernelandets Undergang, derfor stræber de at glemme det inderlig
+							elskede Fæderneland eller dog at lukke deres Øine for den overhængende,
+							i deres Tanker uundgaaelige Ulykke.</p>
+                  <p xml:id="idm139947088340064">Derfor udraaber jeg saa høit og understreger paa Papiret saa tykt, som
+							jeg kan, at det <hi rend="italics" xml:id="idm139947088339600"><!--<emph>-->Danske
+								Folk<!--</emph>--></hi> lader sig bedrage af Skinnet, naar de
+							tænker, at fordi den <hi rend="italics" xml:id="idm139947088338432"><!--<emph>-->Danske
+								Sag<!--</emph>--></hi> nødvendigviis baade først og sidst er og maa
+							være <hi rend="italics" xml:id="idm139947088337280"><!--<emph>-->Danskernes egen<!--</emph>--></hi>
+							Sag, at den derfor skulde være <hi rend="italics" xml:id="idm139947088336176"><!--<emph>-->deres
+								alene<!--</emph>--></hi>, da den tvertimod <hi rend="italics" xml:id="idm139947088335168"><!--<emph>-->tillige<!--</emph>--></hi> er baade hele <hi rend="italics" xml:id="idm139947088334128"><!--<emph>-->Høinordens, Menneskelighedens,
+								Christendommens<!--</emph>--></hi> og følgelig <hi rend="italics" xml:id="idm139947088332944"><!--<emph>-->Forsynets<!--</emph>--></hi>, <hi rend="italics" xml:id="idm139947088331936"><!--<emph>-->Guds den Almægtiges, Sag<!--</emph>--></hi>, der
+							aldrig kan være i saa stor en Fare, at den jo kan reddes, og vil og maa
+							nødvendig blive reddet, naar kun ikke <hi rend="italics" xml:id="idm139947088330608"><!--<emph>-->Danskerne<!--</emph>--></hi>, i dorsk Ligegyldighed og
+							ussel Feighed, selv opgiver deres egen Sag, der ikke blot for os
+							Danskere er den største og kiæreste, men er i det hele den retfærdigste,
+							den bedste, den vigtigste og den <hi rend="italics" xml:id="idm139947088329136"><!--<emph>-->stærkeste<!--</emph>--></hi> Sag under Solen.</p>
+                  <p xml:id="idm139947088328000">Jeg tør nu ogsaa mene, at selv det mindste Glimt af dette straalende Lys,
+							hvori jeg seer og stræber at stille den Danske Sag, selv den dunkleste
+							Formodning om, at den <hi rend="italics" xml:id="idm139947088327360"><!--<emph>-->Danske
+								Sag<!--</emph>--></hi> er baade <hi rend="italics" xml:id="idm139947088326320"><!--<emph>-->Guds<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088325280"><!--<emph>-->Menneskets Sag<!--</emph>--></hi>, der umuelig kan
+							tabes, naar vi kun ikke selv styrte den i Afgrunden, som kun da skeer,
+							naar det <hi rend="italics" xml:id="idm139947088324112"><!--<emph>-->Danske
+							Hjerte<!--</emph>--></hi> kvæler den <hi rend="italics" xml:id="idm139947088323056"><!--<emph>-->Danske Sag<!--</emph>--></hi> i sig, som en unaturlig
+							Moder Fosteret under sit eget Hjerte; selv det mindste Glimt heraf og
+							den dunkleste Formodning herom, mener jeg virkelig, kan og vil være Nok
+							til, at det Danske Folk <pb n="46" xml:id="s46" facs="adl/grundtvig/grundtvig10/grun10046"/> vover
+							at gaae l sig selv og føle, hvor Mær det har den Danske Sag, ja, hvor
+							uopløselig det er knyttet til den, saa de umuelig kan adskilles, men
+							maae leve og døe med hinanden.</p>
+                  <p xml:id="idm139947088319984">At nu den <hi rend="italics" xml:id="idm139947088319696"><!--<emph>-->Danske Sag<!--</emph>--></hi>,
+							som Danskernes egen, er en meget <hi rend="italics" xml:id="idm139947088318592"><!--<emph>-->god<!--</emph>--></hi> Sag, som vi med Rette har
+							Inderlig kiær, en <hi rend="italics" xml:id="idm139947088317456"><!--<emph>-->Hjerte-Sag<!--</emph>--></hi>, som vi med Rette giør
+							til vor <hi rend="italics" xml:id="idm139947088316352"><!--<emph>-->Hoved-Sag<!--</emph>--></hi>,
+							det maa vistnok synes lige saa overflødigt at bevise for <hi rend="italics" xml:id="idm139947088315200"><!--<emph>-->Danskere<!--</emph>--></hi>, som det
+							vilde være overflødigt at bevise den <hi rend="italics" xml:id="idm139947088314064"><!--<emph>-->Tyske<!--</emph>--></hi> Sags Godhed for <hi rend="italics" xml:id="idm139947088313056"><!--<emph>-->Tyskere<!--</emph>--></hi>, eller den
+								<hi rend="italics" xml:id="idm139947088312016"><!--<emph>-->Franske<!--</emph>--></hi> Sags
+							Godhed for <hi rend="italics" xml:id="idm139947088310928"><!--<emph>-->Franskmænd<!--</emph>--></hi>, eller den <hi rend="italics" xml:id="idm139947088309920"><!--<emph>-->Engelske<!--</emph>--></hi> Sags Godhed
+							for <hi rend="italics" xml:id="idm139947088308832"><!--<emph>-->Engelskmænd<!--</emph>--></hi>,
+							eller selv den Russiske Sags Godhed for <hi rend="italics" xml:id="idm139947088307744"><!--<emph>-->Moskoviter<!--</emph>--></hi>, da Enhver jo i Danmark
+							saavelsom i hele den øvrige Verden er sig selv nærmest og troer heller
+							end gierne paa sin egen Sags mageløse Godhed; men netop det, at ethvert
+							Folk, ligesom enhver Enkeltmand under Solen, fristes af sin <hi rend="italics" xml:id="idm139947088306208"><!--<emph>-->Egenkiærlighed<!--</emph>--></hi> til at
+							ansee sin egen Sag for meget bedre end den virkelig er, netop det giver
+							vore selvgjorte Hovmestere rig Anledning til i Danmark at overdøve
+							Fædernelands-Kiærlighedens Stemme, med et Helvedes dydigt Skraal om, at
+							al <hi rend="italics" xml:id="idm139947088304656"><!--<emph>-->Fædernelands-Kiærlighed<!--</emph>--></hi>, følgelig ogsaa
+							den <hi rend="italics" xml:id="idm139947088303536"><!--<emph>-->Danske<!--</emph>--></hi>, skal, som
+							en <hi rend="italics" xml:id="idm139947088302528"><!--<emph>-->sneverhjertet
+								Egenkiærlighed<!--</emph>--></hi>, være fordømmelig, saa enhver <hi rend="italics" xml:id="idm139947088301344"><!--<emph>-->Folke-Sag<!--</emph>--></hi>
+							(National-Sag) er, som saadan, en <hi rend="italics" xml:id="idm139947088300272"><!--<emph>-->slet
+								Sag<!--</emph>--></hi>, og, naar Folket, som det Danske, er svagt og
+							lillebitte, da tillige en <hi rend="italics" xml:id="idm139947088299168"><!--<emph>-->fortvivlet<!--</emph>--></hi> Sag, som alle <hi rend="italics" xml:id="idm139947088298160"><!--<emph>-->fornuftige<!--</emph>--></hi> Folk maa
+							opgive. Og dette Helvedes dydige Skraal over den naturlige <hi rend="italics" xml:id="idm139947088297024"><!--<emph>-->Forkiærlighed<!--</emph>--></hi> til <hi rend="italics" xml:id="idm139947088296000"><!--<emph>-->Fædernelandet<!--</emph>--></hi>, et
+							Skraal, som i <hi rend="italics" xml:id="idm139947088294896"><!--<emph>-->Sverrig<!--</emph>--></hi>
+							og <hi rend="italics" xml:id="idm139947088293888"><!--<emph>-->Norge<!--</emph>--></hi> og i alle
+							andre Lande, baade smaa og store, kun vækker fnysende Harme hos Folket,
+							det frister virkelig i <hi rend="italics" xml:id="idm139947088292592"><!--<emph>-->Danmark<!--</emph>--></hi> Folket til at tvivle om sin
+							egen Sags Godhed, og især til at fortvivle over deres Afmagt til at
+							forsvare den mod de ubarmhjertige <hi rend="italics" xml:id="idm139947088291280"><!--<emph>-->Heglemestere<!--</emph>--></hi>, der snildt benytter
+							dem af den sørgelige Sandhed, at selv det bedste Stykke Kiød har en
+							Kiertel, og selv den bedste Sag af vore <hi rend="italics" xml:id="idm139947088289968"><!--<emph>-->egne<!--</emph>--></hi> er der en Hage ved, misbruger
+							denne <hi rend="italics" xml:id="idm139947088288896"><!--<emph>-->Sandhed<!--</emph>--></hi> til
+							dermed at sætte Farve paa den grove <hi rend="italics" xml:id="idm139947088287776"><!--<emph>-->Løgn<!--</emph>--></hi>, at <hi rend="italics" xml:id="idm139947088286768"><!--<emph>-->Fædernelands-Kiærligheden<!--</emph>--></hi>, der
+							udgiør een Smeltning med <hi rend="italics" xml:id="idm139947088285600"><!--<emph>-->Forkiærligheden
+								til Forældre, Børn<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088284512"><!--<emph>-->Sødskende<!--</emph>--></hi>, som vore Allernærmeste
+							(Næsten), den skulde være fordømmelig, fordi den ogsaa udgiør een
+							Smeltning med <hi rend="italics" xml:id="idm139947088283200"><!--<emph>-->den menneskelige
+								Selv-Kiærlighed<!--</emph>--></hi>, der dog netop først bliver en
+							forstenet <hi rend="italics" xml:id="idm139947088282016"><!--<emph>-->Egenkiærlighed<!--</emph>--></hi>, naar den skiller sig
+							fra <hi rend="italics" xml:id="idm139947088280944"><!--<emph>-->Forkiærligheden<!--</emph>--></hi>
+							til vore <hi rend="italics" xml:id="idm139947088279920"><!--<emph>-->Nær-Paarørende<!--</emph>--></hi> i Hjemmet: i <hi rend="italics" xml:id="idm139947088278864"><!--<emph>-->Fæderne-Huset<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088277808"><!--<emph>-->Fæderne-Landet<!--</emph>--></hi>.</p>
+                  <pb n="47" xml:id="s47" facs="adl/grundtvig/grundtvig10/grun10047"/>
+                  <p xml:id="idm139947088275440">Derfor skal det siges saa tit at det høres, og indskærpes saa hvast at
+							det bider sig fast, at alt hvad Godt der giælder om Forkiærlighed til
+							Fader og Moder, Børn og Sødskende, som ogsaa har sine Lyder og
+							Svagheder, det giælder endnu i langt høiere Grad om Forkiærligheden til
+								<hi rend="italics" xml:id="idm139947088274544"><!--<emph>-->Fæderneland<!--</emph>--></hi>, <hi rend="italics" xml:id="idm139947088273488"><!--<emph>-->Modersmaal<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088272480"><!--<emph>-->Folke-Stammen<!--</emph>--></hi> fra
+							Slægt til Slægt, saa Lyderne derved kan aldrig være saa store, at jo
+							denne Forkiærlighed er det <hi rend="italics" xml:id="idm139947088271184"><!--<emph>-->Bedste<!--</emph>--></hi> hos Folket, og udgiør een
+							Smeltning med al den virkelige <hi rend="italics" xml:id="idm139947088270032"><!--<emph>-->Menneske-Kiærlighed<!--</emph>--></hi>, der findes,
+							saa den Forkiærlighed kan ikke blive kold uden at <hi rend="italics" xml:id="idm139947088268832"><!--<emph>-->Folke-Hjertet<!--</emph>--></hi> i det hele bliver saa
+							iiskoldt, at ingen bryder sig om <hi rend="italics" xml:id="idm139947088267744"><!--<emph>-->fælles
+								Bedste<!--</emph>--></hi>, men hver <hi rend="italics" xml:id="idm139947088266704"><!--<emph>-->Enkelt<!--</emph>--></hi> rager kun Ild til sin egen
+							Kage.</p>
+                  <p xml:id="idm139947088265472">Hvad der nu giælder om Folkeligheden og Fædernelands-Kiærligheden i det
+							hele, det giælder aabenbar om den <hi rend="italics" xml:id="idm139947088264960"><!--<emph>-->Danske<!--</emph>--></hi> Folkelighed og
+							Fædernelands-Kiærlighed ganske særdeles, saa at ligesom det lyder i den
+							bekiendte Vise: »ingensteds er <hi rend="italics" xml:id="idm139947088263664"><!--<emph>-->Tornene<!--</emph>--></hi> saa smaa«, saaledes giælder
+							det om »<hi rend="italics" xml:id="idm139947088262544"><!--<emph>-->Lyderne<!--</emph>--></hi>« ved
+							Folkeligheden, at ingensteds er de saa smaa som i <hi rend="italics" xml:id="idm139947088261456"><!--<emph>-->Danmark<!--</emph>--></hi>. Lyderne ved et Folks
+							Fædernelands-Kiærlighed er nemlig den <hi rend="italics" xml:id="idm139947088260288"><!--<emph>-->Ligegyldighed<!--</emph>--></hi> for Menneskeligheden
+							i det hele, og den <hi rend="italics" xml:id="idm139947088259216"><!--<emph>-->Hadskhed<!--</emph>--></hi>, Ubillighed og
+							Uretfærdighed mod de Fremmede og især mod Naboerne, som
+							Fædernelands-Kiærligheden kan <hi rend="italics" xml:id="idm139947088257952"><!--<emph>-->udarte<!--</emph>--></hi> til, og naar man paastaaer,
+							at især de <hi rend="italics" xml:id="idm139947088256832"><!--<emph>-->smaa<!--</emph>--></hi> og
+								<hi rend="italics" xml:id="idm139947088255824"><!--<emph>-->svage<!--</emph>--></hi> Folkefærd,
+							for disse Lyders Skyld, skal opgive deres Fædernelands-Kiærlighed, da er
+							det netop ligesaa sundt, ligesaa menneskeligt og ligesaa christeligt,
+							som om man vilde paastaae, at det er især <hi rend="italics" xml:id="idm139947088254320"><!--<emph>-->Fattigfolk<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088253312"><!--<emph>-->Smaafolk<!--</emph>--></hi>, der maa tage dem i Agt
+							for at elske Fader og Moder, Børn og Sødskende for høit, da de ellers
+							let kan komme til at giøre de Rige og de Store Uret. Her bliver det da
+							soleklart, hvor uforskammede vore selvgjorte Hovmestere er, naar de paa
+							alle muelige Maader undskylder den <hi rend="italics" xml:id="idm139947088251648"><!--<emph>-->Holsteen-Gottorpske<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088250640"><!--<emph>-->Tyske<!--</emph>--></hi>
+							Fædernelands-Kiærlighed, som en uundgaaelig og dog igrunden elskværdig
+							Svaghed, skiøndt den har Fædernelands-Kiærlighedens Lyder i allerhøieste
+							og dens Dyder i allerringeste Grad, men straffer derimod den Danske
+							Fædernelands-Kiærlighed, der lige saa vist har mest af Dyderne, som den
+							aabenbar har mindst af Lyderne, saa <hi rend="italics" xml:id="idm139947088248960"><!--<emph>-->Danskerne<!--</emph>--></hi> er selv deres arrigste
+							Fiender velbekiendte som det <hi rend="italics" xml:id="idm139947088247872"><!--<emph>-->fredeligste, forsonligste<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088246848"><!--<emph>-->giæstmildeste<!--</emph>--></hi> Folk
+							under Solen, der meget snarere giør sig selv og deres nærmeste Frænder
+							(i Sverrig og Norge) end de Vildfremmede og især <hi rend="italics" xml:id="idm139947088245488"><!--<emph>-->Tyskerne<!--</emph>--></hi> Uret.</p>
+                  <pb n="48" xml:id="s48" facs="adl/grundtvig/grundtvig10/grun10048"/>
+                  <p xml:id="idm139947088243248">Det staaer altsaa fast, og er soleklart, at den <hi rend="italics" xml:id="idm139947088242928"><!--<emph>-->Danske<!--</emph>--></hi> Sag, som <hi rend="italics" xml:id="idm139947088241888"><!--<emph>-->Danmarks<!--</emph>--></hi> Riges og det <hi rend="italics" xml:id="idm139947088240848"><!--<emph>-->Danske Folks<!--</emph>--></hi> Sag, er
+							en meget <hi rend="italics" xml:id="idm139947088239760"><!--<emph>-->uskyldig<!--</emph>--></hi>
+							Sag, som de store Folk og Stormagterne derfor, efter Menneskelighedens
+							Grundlov, skulde tage sig varmere og kraftigere ad, jo misligere og
+							farefuldere den fandtes stillet, som jo alle stærke og voxne Mennesker
+							finde sig drevne til at hjelpe og forsvare de uskyldige og umyndige
+							Børn, som de seer slædte i Fare. Men den <hi rend="italics" xml:id="idm139947088238016"><!--<emph>-->Danske<!--</emph>--></hi> Sag, tør vi ogsaa frit sige,
+							er i sig selv, som <hi rend="italics" xml:id="idm139947088236880"><!--<emph>-->Danskens<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088235872"><!--<emph>-->Danskhedens<!--</emph>--></hi>, som Moders-Maalets og
+							Folke-Artens Sag, en meget god Sag, saa det er kun af Tyskernes Avind,
+							den Snak er kommet op, at vi <hi rend="italics" xml:id="idm139947088234672"><!--<emph>-->Danskere<!--</emph>--></hi> skulde egenlig høre til de
+								»<hi rend="italics" xml:id="idm139947088233568"><!--<emph>-->Umælende<!--</emph>--></hi>« saa
+							vor Hjerne var propfuld af Grød istedenfor af Tanker, og at vort
+							saakaldte »Modersmaal« var igrunden ligesaa uskikket som Faarets Brægen
+							og Gaasens Kiækken og Svinets Grynten til at udtrykke de <hi rend="italics" xml:id="idm139947088232320"><!--<emph>-->høiere<!--</emph>--></hi> menneskelige
+								<hi rend="italics" xml:id="idm139947088231312"><!--<emph>-->Anskuelser<!--</emph>--></hi>, saa
+							det var til vort eget Bedste, om vi kunde bringes til at glemme <hi rend="italics" xml:id="idm139947088230176"><!--<emph>-->Dansken<!--</emph>--></hi> over <hi rend="italics" xml:id="idm139947088229168"><!--<emph>-->Tysken<!--</emph>--></hi> og til at
+							bryde vor Hjerne fra Barnsbeen med at faae Rum til de allernødvendigste
+								<hi rend="italics" xml:id="idm139947088227920"><!--<emph>-->tyske<!--</emph>--></hi> Ord og
+							Tanker og grundige Grundsætninger. At den Snak maa være en grov Løgn,
+							sees allerede deraf, at den ved nærmere Betragtning sees at nedbryde og
+							giendrive sig selv, thi dels er det soleklart, at fattedes vi i det hele
+							Anlæg til at blive oplyste Mennesker, da fattedes vi fremfor alt Anlæg
+							til at blive <hi rend="italics" xml:id="idm139947088226208"><!--<emph>-->tyskoplyste<!--</emph>--></hi> Mennesker, ligesom det er
+							en klar <hi rend="italics" xml:id="idm139947088225136"><!--<emph>-->Selv-Modsigelse<!--</emph>--></hi>, at Nogen skulde kunne
+							udtrykke sig bedre med en <hi rend="italics" xml:id="idm139947088224048"><!--<emph>-->Andens
+								Mund<!--</emph>--></hi> end med sin egen, eller at han skulde kunne
+							blive bedre oplyst ved <hi rend="italics" xml:id="idm139947088222944"><!--<emph>-->fremmede
+								Tanker<!--</emph>--></hi> end ved sine egne, thi ikke selv den
+							graadigste og fineste Tyv kan dog <hi rend="italics" xml:id="idm139947088221840"><!--<emph>-->tilegne<!--</emph>--></hi> sig Andres Gods bedre end
+							sit eget, eller putte meer i sin Lomme end den kan rumme, saa det maatte
+							for Resten hænge sammen med de Danske »Grødhoveder«, som det vilde, saa
+							kunde der dog aldrig i vor Hjerne blive <hi rend="italics" xml:id="idm139947088220336"><!--<emph>-->bedre Rum<!--</emph>--></hi> til <hi rend="italics" xml:id="idm139947088219328"><!--<emph>-->tyske<!--</emph>--></hi> Tanker end til Danske.</p>
+                  <p xml:id="idm139947088218160">
+                     <hi rend="italics" xml:id="idm139947088218032"><!--<emph>-->Tyskerne<!--</emph>--></hi> kunde jo nu
+							vel paastaae, at fordi det Hele var Løgn, kunde dog nok det Halve være
+							sandt, saa vi <hi rend="italics" xml:id="idm139947088216752"><!--<emph>-->Danskere<!--</emph>--></hi>, aandelig og menneskelig talt,
+							hørde til de »<hi rend="italics" xml:id="idm139947088215616"><!--<emph>-->Umælende<!--</emph>--></hi>«, der hverken paa <hi rend="italics" xml:id="idm139947088214608"><!--<emph>-->Dansk<!--</emph>--></hi> eller <hi rend="italics" xml:id="idm139947088213568"><!--<emph>-->Tysk<!--</emph>--></hi> kunde komme til
+							at leve og tænke menneskelig, og derom nytter det igrunden aldrig
+							Danskerne at trættes med Tyskerne, dels fordi, naar den ene taler Dansk
+							og den anden taler Tysk, forstaaer de jo slet ikke hinanden, og deels
+							fordi Tyskerne har meget mere baade Lyst til at trættes og Øvelse deri,
+							og det er, som man veed, <hi rend="italics" xml:id="idm139947088211840"><!--<emph>-->Lysten<!--</emph>--></hi>, <pb n="49" xml:id="s49" facs="adl/grundtvig/grundtvig10/grun10049"/> der driver Værket, og <hi rend="italics" xml:id="idm139947088209696"><!--<emph>-->Øvelsen<!--</emph>--></hi>, der giør Mesteren; men for
+							Resten, saa naar enten <hi rend="italics" xml:id="idm139947088208512"><!--<emph>-->Dahlman<!--</emph>--></hi> eller <hi rend="italics" xml:id="idm139947088207504"><!--<emph>-->Grimm<!--</emph>--></hi> eller <hi rend="italics" xml:id="idm139947088206464"><!--<emph>-->Arndt<!--</emph>--></hi> eller nogen anden høitysk <hi rend="italics" xml:id="idm139947088205344"><!--<emph>-->Goliath<!--</emph>--></hi> vil møde mig
+							i <hi rend="italics" xml:id="idm139947088204272"><!--<emph>-->Oxford<!--</emph>--></hi> eller i <hi rend="italics" xml:id="idm139947088203264"><!--<emph>-->Cambridge<!--</emph>--></hi>, og tale
+								<hi rend="italics" xml:id="idm139947088202224"><!--<emph>-->Engelsk<!--</emph>--></hi> med mig,
+							som Tyskerne jo indrømmer, er et <hi rend="italics" xml:id="idm139947088201072"><!--<emph>-->menneskeligt<!--</emph>--></hi> Sprog, og som de jo
+							paastaaer, ligger <hi rend="italics" xml:id="idm139947088200000"><!--<emph>-->Tysken<!--</emph>--></hi> mange tusind Mile nærmere end
+								<hi rend="italics" xml:id="idm139947088198896"><!--<emph>-->Dansken<!--</emph>--></hi>, da tør
+							jeg paatage mig at trættes med ham tre samfulde Dage om det saakaldte
+								»<hi rend="italics" xml:id="idm139947088197680"><!--<emph>-->Danske
+							Grødhoved<!--</emph>--></hi>«, der, som bekjendt, sidder lige saa fast
+								<hi rend="italics" xml:id="idm139947088196576"><!--<emph>-->paa sit<!--</emph>--></hi>
+                     <hi rend="italics" xml:id="idm139947088195696"><!--<emph>-->Eget<!--</emph>--></hi> hos mig, som hos
+							nogen anden Dansker, og jeg tør vædde mit Danske Hoved mod Tyskerens
+							paa, at naar vi er færdige, skal »<hi rend="italics" xml:id="idm139947088194400"><!--<emph>-->Fellows<!--</emph>--></hi>« af alle Kollegier være
+							enige om, at det <hi rend="italics" xml:id="idm139947088193328"><!--<emph>-->Danske<!--</emph>--></hi> Hoveds Tankegang er i det
+							mindste lige saa <hi rend="italics" xml:id="idm139947088192256"><!--<emph>-->menneskelig<!--</emph>--></hi> som det Tyskes, og
+							aabenbar langt foreneligere med den <hi rend="italics" xml:id="idm139947088191168"><!--<emph>-->Engelske<!--</emph>--></hi> Tankegang. Det tør jeg,
+							fordi jeg baade i <hi rend="italics" xml:id="idm139947088190048"><!--<emph>-->Oxford<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088189040"><!--<emph>-->Cambridge<!--</emph>--></hi>, baade med den Engelske
+							og med den Tyske Tankegang ligeover for mig, vel hundrede Gange har havt
+							Leilighed til at erfare, at de høilærde <hi rend="italics" xml:id="idm139947088187680"><!--<emph>-->Engelskmænd<!--</emph>--></hi> er langtfra, som de
+							høilærde <hi rend="italics" xml:id="idm139947088186560"><!--<emph>-->Tyskere<!--</emph>--></hi>, at
+							bryde Staven over den <hi rend="italics" xml:id="idm139947088185504"><!--<emph>-->Danske<!--</emph>--></hi> Tankegang, men erkiende deri
+							hvertandet Øieblik en Syster til deres egen, kun mere blaaøiet og
+							ro'senmundet, og bekiende gierne, selv naar endeel af den støder dem for
+							Hovedet, at den er ligesaa berettiget som deres til at leve af sine <hi rend="italics" xml:id="idm139947088183952"><!--<emph>-->egne<!--</emph>--></hi> Midler og klare
+							sig paa sin <hi rend="italics" xml:id="idm139947088182896"><!--<emph>-->egen<!--</emph>--></hi>
+							Grund. Jeg veed nok, at dette slet ikke rører <hi rend="italics" xml:id="idm139947088181760"><!--<emph>-->Tyskerne<!--</emph>--></hi>, som strax vil paa det
+							skarpeste udlede det af <hi rend="italics" xml:id="idm139947088180688"><!--<emph>-->Engelskmændenes<!--</emph>--></hi> over hele <hi rend="italics" xml:id="idm139947088179664"><!--<emph>-->Tyskland<!--</emph>--></hi> velbekiendte
+								<hi rend="italics" xml:id="idm139947088178624"><!--<emph>-->Mangel<!--</emph>--></hi> paa <hi rend="italics" xml:id="idm139947088177584"><!--<emph>-->høiere<!--</emph>--></hi>
+							Videnskabelighed og deres <hi rend="italics" xml:id="idm139947088176496"><!--<emph>-->grove<!--</emph>--></hi> materielle Begreber om <hi rend="italics" xml:id="idm139947088175440"><!--<emph>-->Frihed<!--</emph>--></hi>, men mig
+							synes, det skulde og maatte dog røre <hi rend="italics" xml:id="idm139947088174304"><!--<emph>-->Danskerne<!--</emph>--></hi>, saa de derved
+							bestyrkedes i den ligesaa velgrundede, som naturlige Overbeviisning, at
+							Vorherre slet ikke har været karrigere mod <hi rend="italics" xml:id="idm139947088172992"><!--<emph>-->Danskerne<!--</emph>--></hi> indvendig eller udvendig,
+							saa de kan ligesaa godt være deres indvendige som deres udvendige
+							Skabning, ligesaavel være deres <hi rend="italics" xml:id="idm139947088171680"><!--<emph>-->Danske
+								Modersmaal<!--</emph>--></hi>, som deres Danske <hi rend="italics" xml:id="idm139947088170656"><!--<emph>-->Fæderne-Land<!--</emph>--></hi>, »Danmark, deiligst
+							Vang og Vænge, lukt med Bølgen blaa« bekiendt, og at i alle muelige
+							Tilfælde, <hi rend="italics" xml:id="idm139947088169344"><!--<emph>-->godt Dansk<!--</emph>--></hi>
+							dog er titusind Gange bedre end <hi rend="italics" xml:id="idm139947088168272"><!--<emph>-->slet
+								Tysk<!--</emph>--></hi>, som jo dog er det eneste, man byder eller
+							kan byde os til Bytte for Dansken og Danskheden, saa det Bytte var
+							aabenbar gjort paa Bedrag.</p>
+               </div>
+               <pb n="50" xml:id="s50" facs="adl/grundtvig/grundtvig10/grun10050"/>
+               <div xml:id="idm139947088165664">
+                  <head xml:id="idm139947088165408">III.</head>
+                  <p xml:id="idm139947088164992">Ihvorvel den <hi rend="italics" xml:id="idm139947088164704"><!--<emph>-->DanskeSag<!--</emph>--></hi>
+							først og sidst maa være<hi rend="sup" xml:id="idm139947088163584">1</hi> det <hi rend="italics" xml:id="idm139947088162960"><!--<emph>-->Danske Folks<!--</emph>--></hi> egen Sag, som ikke
+							vilde staae til Redning, hvis det Danske Folk i Fortvivlelse saaledes
+							opgav den, at de end ikke turde eller vilde benytte de allerlykkeligste
+							Vendinger, saa al baade guddommelig og menneskelig Deltagelse maatte
+							ophøre, men har jeg Ret i, at den <hi rend="italics" xml:id="idm139947088161312"><!--<emph>-->Danske
+								Sag<!--</emph>--></hi> er hele vort <hi rend="italics" xml:id="idm139947088160304"><!--<emph>-->Høinordens<!--</emph>--></hi>, hele <hi rend="italics" xml:id="idm139947088159264"><!--<emph>-->Menneske-Slægtens<!--</emph>--></hi>, <hi rend="italics" xml:id="idm139947088158208"><!--<emph>-->Christendommens<!--</emph>--></hi> og
+								<hi rend="italics" xml:id="idm139947088157200"><!--<emph>-->Vorherres<!--</emph>--></hi> Sag, da
+							kan det Danske Folk, med al dets Blødhed og Frygtsomhed, dagligdags
+							Søvnighed og overdrevne Fredsommelighed, dog umuelig være saa
+							ligegyldigt ved sin egen Sag, eller saa kied ad <hi rend="italics" xml:id="idm139947088155728"><!--<emph>-->Livets Farlighed<!--</emph>--></hi> og saa kiær ad <hi rend="italics" xml:id="idm139947088154672"><!--<emph>-->Dødens Stilhed<!--</emph>--></hi>, at
+							det vitterlig skulde forraade og forgive sin egen Sag; thi da var den
+							aldrig blevet Vorherres Sag, hvis <hi rend="italics" xml:id="idm139947088153504"><!--<emph>-->Forsyn<!--</emph>--></hi> umuelig kan feile eller
+							forfeile sit Øiemed. Saa haabløs som derfor den Danske Sag ogsaa maatte
+							staae for mig, naar den kun var Danskernes egen Sag, saa haabefuld maa
+							den nødvendig vise sig for mine Øine, naar jeg tillige betragter den som
+							Guds og Menneskets Sag.</p>
+                  <p xml:id="idm139947088151760">Alle saadanne Betragtninger ligger vist nok, desværre, endnu udenfor de
+							fleste Læseres Synskreds, men det maa være vor Trøst, at derved bliver
+							Sandheden ikke mindre sand, eller Almagten mindre stærk, eller Godheden
+							mindre velgiørende, saa det kan altsammen hverken svække vort Haab eller
+							hindre det fra at gaae i Opfyldelse, og det saa meget mindre, som <hi rend="italics" xml:id="idm139947088150784"><!--<emph>-->Aandløshed<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088149776"><!--<emph>-->Ugudelighed<!--</emph>--></hi> netop er
+							hvad der sætter den Danske Sag i Fare, og det følger af sig selv, at
+							skal den Danske Sag reddes, maa dens Fiender overvindes.</p>
+                  <p xml:id="idm139947088148288">Hvad nu først <hi rend="italics" xml:id="idm139947088147984"><!--<emph>-->Høinorden<!--</emph>--></hi> angaaer, da forudsætter jeg
+							som afgjort, hvad <hi rend="italics" xml:id="idm139947088146848"><!--<emph>-->Nordens
+								Mythologi<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088145824"><!--<emph>-->Historie<!--</emph>--></hi> beviser, at det
+							eiendommelige ved <hi rend="italics" xml:id="idm139947088144720"><!--<emph>-->Høinordens
+								Folkeliv<!--</emph>--></hi> er den <hi rend="italics" xml:id="idm139947088143664"><!--<emph>-->historiske<!--</emph>--></hi> Betragtning af
+							Menneske-Livets store Kamp og Seier giennem hele Tidens Løb, saa Frugten
+							af dette Folkeliv maa blive en klar Anskuelse og en levende Beskrivelse
+							af denne Kamp, altsaa en <hi rend="italics" xml:id="idm139947088142192"><!--<emph>-->aandrig<!--</emph>--></hi>
+							              <hi rend="italics" xml:id="idm139947088141184"><!--<emph>-->Verdens-Historie<!--</emph>--></hi>,
+							hvori hele Menneske-Slægtens Levnetsløb, og derved tillige det
+							guddommelige <hi rend="italics" xml:id="idm139947088139968"><!--<emph>-->Forsyns
+								Styrelse<!--</emph>--></hi>, speiler sig, og det Maal kan umuelig
+							naaes, dersom ikke <hi rend="italics" xml:id="idm139947088138864"><!--<emph>-->Høinorden<!--</emph>--></hi> beholder alle sine
+							Kræfter, følgelig ogsaa de <hi rend="italics" xml:id="idm139947088137728"><!--<emph>-->Danske<!--</emph>--></hi>, som, hvis de slides op i
+								<hi rend="italics" xml:id="idm139947088136672"><!--<emph>-->Tyskhedens<!--</emph>--></hi>
+							Trældom, vilde ligesaa vel være tabt for <hi rend="italics" xml:id="idm139947088135552"><!--<emph>-->Høinorden<!--</emph>--></hi>, <note anchored="true" xml:id="idm139947088134544">
+                        <hi rend="sup" xml:id="idm139947088134176">1</hi> Læs: <hi rend="italics" xml:id="idm139947088133520"><!--<emph>-->Den
+									danske Sag maa først og sidst være osv<!--</emph>--></hi>.</note>
+							              <pb n="51" xml:id="s51" facs="adl/grundtvig/grundtvig10/grun10051"/> som, hvis hele Danmark imorgen
+							øiensynlig forgik enten ved et Jordskjælv eller ved en Oversvømmelse.
+							Det var Følelsen heraf, som under den <hi rend="italics" xml:id="idm139947088130848"><!--<emph>-->Jydske<!--</emph>--></hi> Krig giennembævede <hi rend="italics" xml:id="idm139947088129744"><!--<emph>-->Høinorden<!--</emph>--></hi>, og at
+							Danskheden er aldeles uundværlig til Folkelivets Oplysning og Forklaring
+							i Høinordens Kæmpe-Aand, det er saameget des vissere, som det var i
+							Danmark, at <hi rend="italics" xml:id="idm139947088128352"><!--<emph>-->Høinordens<!--</emph>--></hi> eiendommelige Aand og fra
+								<hi rend="italics" xml:id="idm139947088127296"><!--<emph>-->Tydskernes<!--</emph>--></hi> skarpt
+							adskilte Løbe-Bane først i nærværende Aarhundrede blev opdaget, og er i
+							Danmark, at denne Opdagelse har baaret sin første Livsfrugt, saa at hvor
+								<hi rend="italics" xml:id="idm139947088125904"><!--<emph>-->Mimers<!--</emph>--></hi> Hoved
+							talde sit første Ord, der gjorde <hi rend="italics" xml:id="idm139947088124784"><!--<emph>-->Thor<!--</emph>--></hi> ogsaa sit første Kæmpeskridt
+							paa anden Omgang. Derved nemlig, at det <hi rend="italics" xml:id="idm139947088123600"><!--<emph>-->Udvortes<!--</emph>--></hi> svarer til det <hi rend="italics" xml:id="idm139947088122592"><!--<emph>-->Indvortes<!--</emph>--></hi>, derved er
+							det, at de sande og levende Anskuelser af Menneske-Livet giør sig
+							kiendelige fra alle de falske og dødfødte, og ligesom det alt længe har
+							været klart nok, at <hi rend="italics" xml:id="idm139947088121136"><!--<emph>-->Høinorden<!--</emph>--></hi> kun ved at gjøre fælles
+							Sag kan vente at hævde sin <hi rend="italics" xml:id="idm139947088119984"><!--<emph>-->udvortes<!--</emph>--></hi> Frihed og Selvstændighed
+							mod <hi rend="italics" xml:id="idm139947088118880"><!--<emph>-->Tyskere<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088117872"><!--<emph>-->Russer<!--</emph>--></hi>, saaledes blev
+							det under den <hi rend="italics" xml:id="idm139947088116784"><!--<emph>-->Jydske<!--</emph>--></hi>
+							Krig klart, at <hi rend="italics" xml:id="idm139947088115776"><!--<emph>-->Danskerne<!--</emph>--></hi> kan og vil med Guds Hjelp
+							forsvare sin og <hi rend="italics" xml:id="idm139947088114672"><!--<emph>-->Høinordens
+								Eider<!--</emph>--></hi>-<hi rend="italics" xml:id="idm139947088113632"><!--<emph>-->Grændse<!--</emph>--></hi>.</p>
+                  <p xml:id="idm139947088112496">Vist nok maa der endnu udvortes skee langt mere end der er'skedt, førend
+								<hi rend="italics" xml:id="idm139947088112064"><!--<emph>-->Høinorden<!--</emph>--></hi> kan
+							agtes for <hi rend="italics" xml:id="idm139947088111056"><!--<emph>-->indfredet<!--</emph>--></hi>
+							til Skueplads for sin eiendommelige Udvikling og sit tilsvarende
+							Storværk, thi ligesom den <hi rend="italics" xml:id="idm139947088109792"><!--<emph>-->Danske<!--</emph>--></hi>
+							              <hi rend="italics" xml:id="idm139947088108784"><!--<emph>-->Regiering<!--</emph>--></hi> for
+							Øieblikket, af Frygt for Tyskland og af Gridskhed paa <hi rend="italics" xml:id="idm139947088107632"><!--<emph>-->Holsten<!--</emph>--></hi>, har <hi rend="italics" xml:id="idm139947088106624"><!--<emph>-->fraskrevet<!--</emph>--></hi> sig alt hvad det Danske
+							Folk under den <hi rend="italics" xml:id="idm139947088105520"><!--<emph>-->Jydske<!--</emph>--></hi>
+							Krig <hi rend="italics" xml:id="idm139947088104512"><!--<emph>-->tilkæmpede<!--</emph>--></hi> sig,
+							saaledes har aabenbar den <hi rend="italics" xml:id="idm139947088103424"><!--<emph>-->Svenske<!--</emph>--></hi> Regiering, af Frygt for <hi rend="italics" xml:id="idm139947088102368"><!--<emph>-->Rusland<!--</emph>--></hi> og af
+							Gridskhed paa <hi rend="italics" xml:id="idm139947088101312"><!--<emph>-->Finland<!--</emph>--></hi>, undladt ved <hi rend="italics" xml:id="idm139947088100304"><!--<emph>-->Bomarsunds Fald<!--</emph>--></hi> at tage Sverrigs
+							rette Grændse, som er <hi rend="italics" xml:id="idm139947088099152"><!--<emph>-->Aalands-Øerne<!--</emph>--></hi>, i Besiddelse, men jo
+							mere <hi rend="italics" xml:id="idm139947088098080"><!--<emph>-->Høinorden<!--</emph>--></hi> bliver
+							sig bevidst i sin gamle Kæmpeaand, des umueligere vil det dog blive
+							Regieringerne at følge deres ligesaa ufolkelige som aandløse <hi rend="italics" xml:id="idm139947088096752"><!--<emph>-->Tabel-Væsen<!--</emph>--></hi>,
+							hvorefter et Riges Magt og Anseelse, Vee og Vel, skal ene beroe paa <hi rend="italics" xml:id="idm139947088095632"><!--<emph>-->Antallet<!--</emph>--></hi> af Mile,
+							Skatte-Ydere, Rigsdalere og afrettede Heidukker. Vel kan denne <hi rend="italics" xml:id="idm139947088094528"><!--<emph>-->Folke-Bevidsthed<!--</emph>--></hi>, der
+							ene vil kunne holde Regieringen i de rette Spor, kun vækkes, befæstes og
+							klares ved en <hi rend="italics" xml:id="idm139947088093280"><!--<emph>-->folkelig
+								Oplysning<!--</emph>--></hi>, der baade kræver Tid og har fra
+							Begyndelsen saa store Vanskeligheder at bekæmpe, at de let synes
+							uovervindelige, men naar først Solen er staaet op, pleier den jo dog at
+							overvinde alle de Hindringer, Mørket under aaben Himmel lægger iveien
+							for Lysets Udbredelse, og deri maa den <pb n="52" xml:id="s52" facs="adl/grundtvig/grundtvig10/grun10052"/>
+							              <hi rend="italics" xml:id="idm139947088090496"><!--<emph>-->folkelige Oplysning<!--</emph>--></hi>,
+							indenfor sin Kreds, som er <hi rend="italics" xml:id="idm139947088089408"><!--<emph>-->Modersmaalets<!--</emph>--></hi>, ligne Solen, der paa
+							een Gang udbreder Lys og Varme. At Udbredelsen af den folkelige
+							Oplysning hidindtil selv i <hi rend="italics" xml:id="idm139947088088256"><!--<emph>-->Danmark<!--</emph>--></hi>, hvor den oprandt, kun er
+							skredet meget langsomt frem, det viser vist nok, at den kunde let komme
+							bagefter, men naar det aabenbar kun er <hi rend="italics" xml:id="idm139947088087072"><!--<emph>-->Tidsfrist<!--</emph>--></hi>, den folkelige Oplysning
+							hos os behøver, for at fredlyse vort Høinorden til en Plante-Skole for
+							almeen-menneskelig, verdenshistorisk Oplysning, da maa den nødvendige
+							Tidsfrist være ligesaa vis som <hi rend="italics" xml:id="idm139947088085600"><!--<emph>-->Forsynet<!--</emph>--></hi>, thi er der et
+							guddommeligt Forsyn, som styrer alle Tidens Begivenheder til et for hele
+							Menneske-Slægten stort og vigtigt Øiemed, da maa og vil det samme Forsyn
+							vaage over, at Styrelsen bliver i rette Tid erkiendt, og styre saaledes,
+							at det Folk, der har Kald til at udvikle og klare det verdenshistoriske
+							Kiæde-Syn, ogsaa faaer <hi rend="italics" xml:id="idm139947088083840"><!--<emph>-->Tid<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088082832"><!--<emph>-->Leilighed<!--</emph>--></hi> dertil.</p>
+                  <p xml:id="idm139947088081664">Men er nu den <hi rend="italics" xml:id="idm139947088081376"><!--<emph>-->Danske<!--</emph>--></hi>
+							Sag saaledes tillige hele <hi rend="italics" xml:id="idm139947088080288"><!--<emph>-->Høinordens<!--</emph>--></hi>, saa er den paa en
+							dobbelt Maade hele <hi rend="italics" xml:id="idm139947088079216"><!--<emph>-->Menneske-Slægtens<!--</emph>--></hi>, deels fordi hele
+							Menneske-Slægten, for at naae sit Maal, trænger høilig til den
+							verdenshistoriske Oplysning, som maa have sit Sæde i <hi rend="italics" xml:id="idm139947088077872"><!--<emph>-->Høinorden<!--</emph>--></hi>, og deels fordi Ingen kan
+							faae Gavn af den verdenshistoriske Oplysning, uden først at have
+							tilegnet sig den hidtil ukiendte eller miskiendte <hi rend="italics" xml:id="idm139947088076528"><!--<emph>-->folkelige<!--</emph>--></hi> Oplysning, som i <hi rend="italics" xml:id="idm139947088075520"><!--<emph>-->Danmark<!--</emph>--></hi> er ifærd med
+							at bryde sin Bane og maa dertil have Lykken med sig, for paa een Gang i
+							folkelig Henseende at tjene til Mønster og Eftersyn og at forberede den
+							verdenshistoriske Oplysning.</p>
+                  <p xml:id="idm139947088073920">Man er nemlig allevegne i den saakaldte oplyste Verden kommet ind i et
+							stort Vilderede, med alt hvad der angaaer Menneske-Livet og Vilkaarene
+							for dets rette Udvikling og sande Oplysning, i det man mere eller mindre
+							allevegne har sat sig fast i den Indbildning, at, fordi vi er alle
+							Mennesker, saa skulde det igrunden være hip som hap med alle Mennesker,
+							Folk og Tungemaal, saa ingen af deni havde noget Fortrin for de andre,
+							eller noget Eiendommeligt, som de især var skabte og skikkede til at
+							udvikle, men al Forskiellen imellem dem skulde kun være Tilfældets,
+							Himmelegnenes, Jordbundens, Vanens og Omstændighedernes Værk, saa man
+							kunde godt slaae dem alle over een Læst og skiære dem alle over een Kam,
+							da jo mere de lod alle deres Særheder fare, desmere <hi rend="italics" xml:id="idm139947088072352"><!--<emph>-->reen-menneskelige<!--</emph>--></hi> maatte de blive.</p>
+                  <p xml:id="idm139947088071216">Alt, dette er nu saa reent splittergalt, som noget i denne <pb n="53" xml:id="s53" facs="adl/grundtvig/grundtvig10/grun10053"/> Verden kan være, thi i denne Verden,
+							hvor end ikke det ene Bøge-Blad fuldkommen ligner det andet, og hvor man
+							endogsaa fordærver to Heste med forskiellig Drift i sig ved at behandle
+							dem <hi rend="italics" xml:id="idm139947088069232"><!--<emph>-->eens<!--</emph>--></hi>, i denne
+							Verden er det Daarekiste-Viisdom at ville behandle <hi rend="italics" xml:id="idm139947088068112"><!--<emph>-->alle Mennesker eens<!--</emph>--></hi>, da
+							Forskielligheden netop i Menneske-Naturen og Menneske-Livet, som paa
+							Jordlivets høieste Trin, er saa mangfoldig og giennemgribende, at man
+							ved at ville paanøde Menneske-Livet <hi rend="italics" xml:id="idm139947088066688"><!--<emph>-->Eensformighed<!--</emph>--></hi> undergraver og
+							arbeider paa at ødelægge det.</p>
+                  <p xml:id="idm139947088065424">Desuagtet blev dette dog, især giennem forrige Aarhundrede, anseet for
+							den høieste Oplysning, saa man stræbde ikke blot at ophæve Forskiellen
+							mellem Engelskmænd, Franskmænd, Tyskere og Høinordboere, og Forskiellen
+							mellen gode og daarlige Hoveder, men selv Forskiellen mellem <hi rend="italics" xml:id="idm139947088064544"><!--<emph>-->Hoved<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088063536"><!--<emph>-->Hjerte<!--</emph>--></hi>, mellem <hi rend="italics" xml:id="idm139947088062496"><!--<emph>-->Mand<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947088061456"><!--<emph>-->Kvinde<!--</emph>--></hi>, og Følgen
+							blev ikke blot en grændseløs Forvirring i hele Tankegangen om
+							Menneske-Livet, men en Afmagt og Modløshed, hvor det gjaldt om at kæmpe
+							for <hi rend="italics" xml:id="idm139947088060048"><!--<emph>-->Fæderneland, Modersmaal,
+								Frihed<!--</emph>--></hi> og alt hvad Mennesket naturlig har <hi rend="italics" xml:id="idm139947088058928"><!--<emph>-->kiært<!--</emph>--></hi> og bliver
+							ulykkelig ved at undvære. Dette var den dybe Grund, hvorfor <hi rend="italics" xml:id="idm139947088057744"><!--<emph>-->Franskmændene<!--</emph>--></hi>, fra
+							hvem den ravgale Oplysning nærmest var udgaaet, ved dette Aarhundredes
+							Begyndelse oversvømmede og nær havde underkuet hele <hi rend="italics" xml:id="idm139947088056416"><!--<emph>-->Europa<!--</emph>--></hi>, thi jo mere den døde og
+							dræbende Eensformighed udbredes over Menneske-Livet, og jo mere
+							Kiærligheden til Fæderneland, Modersmaal og Folke-Frihed aftager, des
+							lettere bliver det aabenbar for en stor <hi rend="italics" xml:id="idm139947088054944"><!--<emph>-->Voldsmand<!--</emph>--></hi>, som kan samle sig en
+							talrig Krigshær, at giøre alle Folk til sine Trælle og oprette et
+							ligesaadant <hi rend="italics" xml:id="idm139947088053680"><!--<emph>-->Verdens-Rige<!--</emph>--></hi> som det <hi rend="italics" xml:id="idm139947088052672"><!--<emph>-->Romerske<!--</emph>--></hi> i gamle Dage, og det endnu
+							langt større og fordærveligere for Menneske-Liv og Menneske-Lykke end
+							det var. Det Samme er ogsaa Grunden til den store Fare, som hele Europa
+							og da øiensynlig vort <hi rend="italics" xml:id="idm139947088051184"><!--<emph>-->Høinorden<!--</emph>--></hi> alt enstund har svævet og
+							endnu tildels svæver i, for at opsluges af <hi rend="italics" xml:id="idm139947088050000"><!--<emph>-->Rusland<!--</emph>--></hi>, men den stærke Modstand,
+							som Ruslands Rovgierrighed nu har fundet, vidner, tilligemed <hi rend="italics" xml:id="idm139947088048784"><!--<emph>-->Napoleons<!--</emph>--></hi> Fald i
+							dette Aarhundredes Begyndelse, om, at Menneske-Livet i det <hi rend="italics" xml:id="idm139947088047680"><!--<emph>-->Nittende<!--</emph>--></hi> Aarhundrede
+							har begyndt at føle sin Fare og samler sine sidste Kræfter i en
+							Dødskamp, for, om mueligt, at afværge Ulykken. Det kan imidlertid ikke
+							lykkes, med mindre man opdager Roden til det Onde i den splittergale,
+							umenneskelige Betragtning af Mennesket som en blot <hi rend="italics" xml:id="idm139947088046048"><!--<emph>-->Maskine<!--</emph>--></hi>, og Betragtningen af <hi rend="italics" xml:id="idm139947088045040"><!--<emph>-->Menneske-Aanden<!--</emph>--></hi> og
+								<hi rend="italics" xml:id="idm139947088044000"><!--<emph>-->Menneske-Hjertet<!--</emph>--></hi>,
+							hvoraf Menneske-Livet udspringer, <pb n="54" xml:id="s54" facs="adl/grundtvig/grundtvig10/grun10054"/> som Fostre af en gammel Overtro, der skal
+							aflægges, og skiøndt denne Opdagelse i Løbet af dette Aarhundrede
+							tildels er skedt ligefra Middelhavet til Nordkap, saa er det dog kun I
+								<hi rend="italics" xml:id="idm139947088041328"><!--<emph>-->Danmark<!--</emph>--></hi>, man har
+							opdaget den <hi rend="italics" xml:id="idm139947088040240"><!--<emph>-->menneskelige<!--</emph>--></hi> Oplysning, der ene
+							formaaer at overvinde den umenneskelige og at styrke Menneske-Livet til
+							Fuldførelsen af sin store Løbebane til Verdens Ende.</p>
+                  <p xml:id="idm139947088038768">Denne <hi rend="italics" xml:id="idm139947088038512"><!--<emph>-->menneskelige<!--</emph>--></hi>
+							Oplysning er nemlig den, at ligesom Menneske-Livet ligefra Begyndelsen
+							er deelt i to Skikkelser, den <hi rend="italics" xml:id="idm139947088037344"><!--<emph>-->mandlige<!--</emph>--></hi> og den <hi rend="italics" xml:id="idm139947088036336"><!--<emph>-->kvindelige<!--</emph>--></hi>, der ikke blot <hi rend="italics" xml:id="idm139947088035296"><!--<emph>-->udvortes<!--</emph>--></hi>, men især
+								<hi rend="italics" xml:id="idm139947088034192"><!--<emph>-->indvortes<!--</emph>--></hi>, er
+							saare forskiellige, og maae med al Flid bevares i deres Eiendommelighed,
+							for at de ved en kiærlig Vexel-Virkning kan understøtte, gavne, glæde,
+							udvikle og udfylde hinanden, saaledes har ogsaa <hi rend="italics" xml:id="idm139947088032720"><!--<emph>-->Menneske-Slægten<!--</emph>--></hi> i Tidens Løb
+							naturlig deelt sig i forskiellige <hi rend="italics" xml:id="idm139947088031568"><!--<emph>-->Folkefærd<!--</emph>--></hi>, hver med sit Tungemaal,
+							sine herskende Tilbøieligheder og udmærkede Evner, saa at jo kraftigere
+							og kiækkere ethvert Folk værner om sin Frihed og Selvstændighed, sit
+							Fæderneland og Modersmaal, des frodigere udvikler Menneske-Livet sig i
+							alle Retninger, og des gavnligere, glædeligere og frugtbarere bliver
+							Vexel-Virkningen mellem Jordens Folkefærd, des sandere og klarere
+							Oplysningen om hele Menneske-Livet, dets Evner og Hjelpekilder, rette
+							Bane og Bestemmelse. Endelig giælder det samme om alle <hi rend="italics" xml:id="idm139947088029840"><!--<emph>-->Enkeltmænd<!--</emph>--></hi> hos
+							ethvert Folk, at jo friere de, i <hi rend="italics" xml:id="idm139947088028768"><!--<emph>-->Folkelivets<!--</emph>--></hi> Tjeneste, uden <hi rend="italics" xml:id="idm139947088027760"><!--<emph>-->hinandens<!--</emph>--></hi>
+							Fornærmelse, kan følge deres <hi rend="italics" xml:id="idm139947088026624"><!--<emph>-->Tilbøielighed<!--</emph>--></hi>, gaae deres eget Skud
+							og benytte deres Maal af Kræfter og Kundskaber, des mere blomstrer <hi rend="italics" xml:id="idm139947088025392"><!--<emph>-->Folkelivet<!--</emph>--></hi> i sin
+							Kreds til <hi rend="italics" xml:id="idm139947088024336"><!--<emph>-->fælles
+							Bedste<!--</emph>--></hi>.</p>
+                  <p xml:id="idm139947088023168">Selv i Danmark er denne menneskelige Oplysning spæd endnu, og har uhyre
+							Vanskeligheder at overvinde, da alle de saakaldte Oplysnings-Anstalter
+							endnu gaae i modsat Retning og stræbe naturligviis at forhindre den
+							Seier, som de føle, er deres Nederlag, saa man kan frit sige, at blev
+							det <hi rend="italics" xml:id="idm139947088022256"><!--<emph>-->Danske Folkeliv<!--</emph>--></hi>
+							nu afbrudt i sin Udvikling, da blev derved ogsaa den <hi rend="italics" xml:id="idm139947088021168"><!--<emph>-->menneskelige Oplysning<!--</emph>--></hi>, som er
+							Menneske-Slægtens eneste Redning, kvalt i Fødselen, og derfor vil og maa
+							det Danske Folkeliv blive reddet ved det guddommelige <hi rend="italics" xml:id="idm139947088019840"><!--<emph>-->Forsyns<!--</emph>--></hi> Styrelse, der ikke kan
+							opgive sin Plan med Menneske-Livets Udvikling fra den <hi rend="italics" xml:id="idm139947088018736"><!--<emph>-->dy beste Dunkelhed<!--</emph>--></hi> til den <hi rend="italics" xml:id="idm139947088017728"><!--<emph>-->høieste Klarhed<!--</emph>--></hi>, og
+							ventelig vil den store Kamp, som nu er begyndt mellem Østen og <hi rend="italics" xml:id="idm139947088016496"><!--<emph>-->Vesten<!--</emph>--></hi>, i det hele
+							vende Bladet, saa den <hi rend="italics" xml:id="idm139947088015424"><!--<emph>-->folkelige<!--</emph>--></hi> Betragtning af
+							Menneske-Livet, der i Danmark falder sammen <pb n="55" xml:id="s55" facs="adl/grundtvig/grundtvig10/grun10055"/> med den <hi rend="italics" xml:id="idm139947088013184"><!--<emph>-->menneskelige<!--</emph>--></hi>, vil faae Overhaand i
+							hele <hi rend="italics" xml:id="idm139947088012096"><!--<emph>-->Christenheden<!--</emph>--></hi>,
+							hvor alle de Folkefærd, som har et menneskeligt Hjerte og Tungemaal, alt
+							længe har sukket under det gruelige Aag af »<hi rend="italics" xml:id="idm139947088010800"><!--<emph>-->fremmed Herskab<!--</emph>--></hi>« i alle Maader, men
+							vil nu faae Lov til, indenfor deres <hi rend="italics" xml:id="idm139947088009712"><!--<emph>-->historiske<!--</emph>--></hi> Grændser, at indrette
+							alt efter deres Hjertes herskende Tilbøjelighed, og at efterstræbe den
+							Oplysning om sit eget Liv, som hvert Folk og hver Enkeltmand nødvendig
+							ønsker sig, paa naturlig, levende, nyttig og fornøielig Maade igjennem
+							sit eget <hi rend="italics" xml:id="idm139947088008128"><!--<emph>-->Modersmaal<!--</emph>--></hi>.</p>
+                  <p xml:id="idm139947088006992">Det gaaer jo vist nok med <hi rend="italics" xml:id="idm139947088006688"><!--<emph>-->Danskerne<!--</emph>--></hi> i det hele, der,
+							forholdsviis, maa kaldes et »<hi rend="italics" xml:id="idm139947088005552"><!--<emph>-->kvindeligt<!--</emph>--></hi>« Folk, ligesom det gaaer
+							med <hi rend="italics" xml:id="idm139947088004496"><!--<emph>-->Kvinden<!--</emph>--></hi>, at de
+							selv finder det urimeligt, at der skulde udgaae nogen Oplysning fra dem,
+							som var vigtig for hele Menneske-Slægten, saa de finder det i sin Orden,
+							naar man i <hi rend="italics" xml:id="idm139947088003104"><!--<emph>-->Tyskland<!--</emph>--></hi>
+							og i det hele udenlands, ligesaalidt venter noget <hi rend="italics" xml:id="idm139947088002016"><!--<emph>-->Klogt<!--</emph>--></hi> fra <hi rend="italics" xml:id="idm139947088001008"><!--<emph>-->Danmark<!--</emph>--></hi>, som <hi rend="italics" xml:id="idm139947087999968"><!--<emph>-->Jøderne<!--</emph>--></hi> ventede noget <hi rend="italics" xml:id="idm139947087998928"><!--<emph>-->Stort<!--</emph>--></hi> fra <hi rend="italics" xml:id="idm139947087997888"><!--<emph>-->Galilæa<!--</emph>--></hi> eller noget
+								<hi rend="italics" xml:id="idm139947087996848"><!--<emph>-->Godt<!--</emph>--></hi> fra <hi rend="italics" xml:id="idm139947087995808"><!--<emph>-->Nazaret<!--</emph>--></hi>, men ligesom
+							det desuagtet er hos <hi rend="italics" xml:id="idm139947087994704"><!--<emph>-->Kvinden<!--</emph>--></hi>, man maa lære at kiende
+								Menneske-<hi rend="italics" xml:id="idm139947087993600"><!--<emph>-->Naturen<!--</emph>--></hi>,
+							som hun ret egenlig udtrykker, saaledes er det ogsaa i sin <hi rend="italics" xml:id="idm139947087992512"><!--<emph>-->historiske<!--</emph>--></hi> Orden, at
+							Menneske-Udviklingen og Menneske-Oplysningens <hi rend="italics" xml:id="idm139947087991424"><!--<emph>-->naturlige<!--</emph>--></hi> Gang giver sig klarest
+							til kiende hos et <hi rend="italics" xml:id="idm139947087990352"><!--<emph>-->kvindeligt<!--</emph>--></hi> Folk, især naar dette,
+							som det Danske gjennem Aarhundreden er blevet piint med en i alle mulige
+							Maader for dem <hi rend="italics" xml:id="idm139947087989072"><!--<emph>-->unaturlig<!--</emph>--></hi> saakaldt Udvikling og
+							Oplysning paa <hi rend="italics" xml:id="idm139947087988000"><!--<emph>-->Latin<!--</emph>--></hi>
+							og paa <hi rend="italics" xml:id="idm139947087986992"><!--<emph>-->Tysk<!--</emph>--></hi>. Her, om
+							ellers nogensteds paa Jorden, maatte <hi rend="italics" xml:id="idm139947087985888"><!--<emph>-->Naturen<!--</emph>--></hi> omsider gaae over <hi rend="italics" xml:id="idm139947087984880"><!--<emph>-->Optugtelsen<!--</emph>--></hi>, især da
+							de <hi rend="italics" xml:id="idm139947087983776"><!--<emph>-->kvindelige<!--</emph>--></hi> Folk,
+							ligesom <hi rend="italics" xml:id="idm139947087982768"><!--<emph>-->Kvinderne<!--</emph>--></hi>, er
+							seilivede, og afrettes aldrig enten saa konstig eller saa grusomt, at de
+							jo igrunden beholde deres eget Sind for dem selv, leer i Smug ad de
+							kloge Mandfolk, der tænker, de har skabt dem om, og benytter den første
+							gode Leilighed til at følge deres eget <hi rend="italics" xml:id="idm139947087981136"><!--<emph>-->Hoved<!--</emph>--></hi>, saavelsom deres eget <hi rend="italics" xml:id="idm139947087980128"><!--<emph>-->Hjerte<!--</emph>--></hi>.</p>
+               </div>
+               <div xml:id="idm139947087978832">
+                  <head xml:id="idm139947087978576">IV.</head>
+                  <p xml:id="idm139947087978192">Siden jeg sidst gjorde opmærksom paa, at den <hi rend="italics" xml:id="idm139947087977824"><!--<emph>-->Danske<!--</emph>--></hi> Sag er hele vort <hi rend="italics" xml:id="idm139947087976816"><!--<emph>-->Høinordens<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947087975776"><!--<emph>-->Menneskehedens<!--</emph>--></hi> Sag,
+							synes i det mindste det Halve af denne Sandhed at være faldet Folk paa
+							Hjerte <hi rend="italics" xml:id="idm139947087974528"><!--<emph>-->der<!--</emph>--></hi> i
+							Høinorden, hvor det en Stund syndes at tages <pb n="56" xml:id="s56" facs="adl/grundtvig/grundtvig10/grun10056"/> meget for let, i <hi rend="italics" xml:id="idm139947087972288"><!--<emph>-->Norge<!--</emph>--></hi> nemlig, hvorfra vi nys har
+							faaet et aabent Brev<hi rend="sup" xml:id="idm139947087971184">1</hi>, der bryder Staven over alle
+								<hi rend="italics" xml:id="idm139947087970512"><!--<emph>-->vore<!--</emph>--></hi> Bidrag til
+								<hi rend="italics" xml:id="idm139947087969504"><!--<emph>-->Nordens<!--</emph>--></hi>
+							Forening., fordi vi ikke har holdt os til det <hi rend="italics" xml:id="idm139947087968400"><!--<emph>-->Øiensynlige<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947087967392"><!--<emph>-->Haandgribelige<!--</emph>--></hi>, som skal være det
+							eneste Sande og Virkelige, ikke har stilet paa heller idag end imorgen
+							at faae de tre nordiske Riger under een Hat, under een Krone, saa baade
+							Danmark, Norge og Sverrig kunde glemmes over <hi rend="italics" xml:id="idm139947087965872"><!--<emph>-->Skandinavien<!--</emph>--></hi> eller »<hi rend="italics" xml:id="idm139947087964864"><!--<emph>-->Trilling-Riget<!--</emph>--></hi> i <hi rend="italics" xml:id="idm139947087963824"><!--<emph>-->Norden<!--</emph>--></hi>«.</p>
+                  <p xml:id="idm139947087962688">Saa kjært, som det imidlertid altid skal være mig, at Overbeviisningen om
+								<hi rend="italics" xml:id="idm139947087962240"><!--<emph>-->Høinordens<!--</emph>--></hi>
+							Forening som en Nødvendighed i alle Maader, naar ikke de tre nordiske
+							Riger snart skal forgaae, baade giver sig tilkiende og vinder Styrke og
+							Klarhed, og saa gierne jeg end vil høre den Bebreidelse, at jeg ikke har
+							taget det grundigt og fuldstændigt nok med Høinordboernes Forening, saa
+							maa jeg dog bemærke, at allerede 1810, da Sverrig ledte om en
+							Thronfølger, da foreslog jeg den samme Forening af Rigerne under den <hi rend="italics" xml:id="idm139947087960528"><!--<emph>-->Danske<!--</emph>--></hi> Konge, som
+							Normanden nu, under den Forudsætning, at Danmark leder om en
+							Thronfølger, foreslaaer under den <hi rend="italics" xml:id="idm139947087959264"><!--<emph>-->Svenske<!--</emph>--></hi> Konge, men at alt i mange
+							Aar har en saadan <hi rend="italics" xml:id="idm139947087958192"><!--<emph>-->Forbindelse<!--</emph>--></hi> blot med <hi rend="italics" xml:id="idm139947087957184"><!--<emph>-->udvortes<!--</emph>--></hi> Baand og af
+								<hi rend="italics" xml:id="idm139947087956144"><!--<emph>-->udvortes<!--</emph>--></hi> Grunde
+							været mig alt for løs og overfladelig, til at jeg enten turde kalde den
+							en »<hi rend="italics" xml:id="idm139947087954880"><!--<emph>-->Forening<!--</emph>--></hi>« eller
+							turde spaa Høinordens Stammer og Høinordens Sag mere Gavn deraf, end de
+							havde af Forbindelsen under Dronning <hi rend="italics" xml:id="idm139947087953728"><!--<emph>-->Margrethe<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947087952720"><!--<emph>-->Erik<!--</emph>--></hi> af <hi rend="italics" xml:id="idm139947087951680"><!--<emph>-->Pommern<!--</emph>--></hi>.</p>
+                  <p xml:id="idm139947087950512">Derfor gik jeg netop tilbunds i <hi rend="italics" xml:id="idm139947087950208"><!--<emph>-->Forenings-Sagen<!--</emph>--></hi>, da jeg for en
+							Snees Aar siden foreslog den »<hi rend="italics" xml:id="idm139947087949072"><!--<emph>-->videnskabelige Forening<!--</emph>--></hi>«, som
+							Normanden nu rymper Næse ad, deels som noget ubetydeligt, og deels som
+							noget bagvendt, da Videnskabeligheden, efter hans Begreb, slet <hi rend="italics" xml:id="idm139947087947888"><!--<emph>-->ikke<!--</emph>--></hi> maa være noget
+								<hi rend="italics" xml:id="idm139947087946816"><!--<emph>-->folkeligt<!--</emph>--></hi>, men
+							skal være <hi rend="italics" xml:id="idm139947087945744"><!--<emph>-->almeenmenneskelig<!--</emph>--></hi>, og det kommer da
+							af, at den kiære Normand slet ikke har forstaaet mig, uagtet jeg dog
+							udtrykkelig tilføiede, at var først hvad jeg kaldte den <hi rend="italics" xml:id="idm139947087944400"><!--<emph>-->videnskabelige<!--</emph>--></hi>
+							              <hi rend="italics" xml:id="idm139947087943392"><!--<emph>-->Forening<!--</emph>--></hi> bragt
+							istand, da vilde Resten, indenfor Ønskelighedens og Muelighedens
+							Grændser, følge af sig selv, saa Høinordens Stammer, kloge paa deres
+							eget Tarv og fælles Bedste, baade gjorde fælles Sag mod alt det Fremmede
+							og Fiendlige, og nedbrød alle de Skillerum og Mellemvægge hos sig selv,
+							der enten i høi Grad hemmede den fri Rørelse og <note anchored="true" xml:id="idm139947087941664">
+                        <hi rend="sup" xml:id="idm139947087941296">1</hi> »Christianiaposten« for 6. Maj 1855 indeholdt
+								en anonym Artikel, <hi rend="italics" xml:id="idm139947087940496"><!--<emph>-->Om en nordisk
+									Union<!--</emph>--></hi>, som efter »Fædrelandet« hidrørte fra
+								»en højt anseet norsk Forfatter«.</note>
+							              <pb n="57" xml:id="s57" facs="adl/grundtvig/grundtvig10/grun10057"/> Vexel-Virkning, eller var dog
+							til langt mere Skade i det Hele end det kunde tænkes at være til Gavn i
+							det Enkelte.</p>
+                  <p xml:id="idm139947087937600">Heraf maatte nemlig ogsaa følge, at saasnart Omstændighederne tillod, at
+							de tre Riger kunde faae en fælles Regiering eller <hi rend="italics" xml:id="idm139947087937056"><!--<emph>-->Over-Styrelse<!--</emph>--></hi>, der rimeligviis
+							vilde være <hi rend="italics" xml:id="idm139947087935920"><!--<emph>-->Friheden<!--</emph>--></hi>
+							og Ligeligheden gunstig, da vilde de med Glæde gribe Leiligheden til at
+							giøre Foreningen saa fuldstændig og giennemgribende, som muelig, saa at,
+							naar Normanden ikke seer det, da er det enten fordi han kun lægger Vægt
+							paa det <hi rend="italics" xml:id="idm139947087934384"><!--<emph>-->Udvendige<!--</emph>--></hi>,
+							der dog hos <hi rend="italics" xml:id="idm139947087933376"><!--<emph>-->Mennesker<!--</emph>--></hi>, naar det <hi rend="italics" xml:id="idm139947087932336"><!--<emph>-->Indvendige<!--</emph>--></hi> ei svarer dertil, kun er
+							noget <hi rend="italics" xml:id="idm139947087931248"><!--<emph>-->Tilsyneladende<!--</emph>--></hi>,
+							eller fordi han tænker, at naar man kun først har det <hi rend="italics" xml:id="idm139947087930096"><!--<emph>-->Udvendige<!--</emph>--></hi>, da kommer det
+							tilsvarende <hi rend="italics" xml:id="idm139947087929040"><!--<emph>-->Indvendige<!--</emph>--></hi> af sig selv, skiøndt daglig
+							Erfaring lærer, at der er langt flere <hi rend="italics" xml:id="idm139947087927856"><!--<emph>-->Menneske-Kroppe<!--</emph>--></hi> end virkelige <hi rend="italics" xml:id="idm139947087926848"><!--<emph>-->Mennesker<!--</emph>--></hi>, og mange
+							flere splidagtige <hi rend="italics" xml:id="idm139947087925760"><!--<emph>-->Heel-Stater<!--</emph>--></hi> end virkelig <hi rend="italics" xml:id="idm139947087924752"><!--<emph>-->forenede<!--</emph>--></hi> Riger.</p>
+                  <p xml:id="idm139947087923584">At nu ogsaa det <hi rend="italics" xml:id="idm139947087923296"><!--<emph>-->Udvendige<!--</emph>--></hi> maa spille Hoved-Rollen i den
+							kiære Normands Tankegang, seer man deraf, at han anseer <hi rend="italics" xml:id="idm139947087922048"><!--<emph>-->Nordisk
+							Videnskabelighed<!--</emph>--></hi> for et tomt Mundsveir eller noget
+							værre, thi saaledes kan det kun synes, naar man ved Videnskabelighed kun
+							forstaaer Bestræbelsen efter at blive klog paa det <hi rend="italics" xml:id="idm139947087920656"><!--<emph>-->Udvendige<!--</emph>--></hi>, hvor det <hi rend="italics" xml:id="idm139947087919648"><!--<emph>-->ikke<!--</emph>--></hi> staaer i <hi rend="italics" xml:id="idm139947087918608"><!--<emph>-->levende<!--</emph>--></hi> Forbindelse
+							med det <hi rend="italics" xml:id="idm139947087917520"><!--<emph>-->Indvendige<!--</emph>--></hi>
+							hos Mennesket og synes derfor selvstændigt, eller med andre Ord: han har
+							kun tænkt paa de saakaldte <hi rend="italics" xml:id="idm139947087916256"><!--<emph>-->Natur-Videnskaber<!--</emph>--></hi>, der synes at
+							maatte udvikles eens under alle Himmelegne, og har slet ikke tænkt paa
+								<hi rend="italics" xml:id="idm139947087915024"><!--<emph>-->Historien<!--</emph>--></hi>, der
+							med Nødvendighed er ligesaa forskiellig som vedkommende <hi rend="italics" xml:id="idm139947087913856"><!--<emph>-->Folkefærds<!--</emph>--></hi> Liv og
+							Levnet. Normanden har da endnu mindre tænkt paa, at naar de tre Nordiske
+							Riger forenede sig til fælles Folkeliv og Udvikling og til fælles Kamp
+							mod alt det Fremmede, der vilde undertrykke eller forstyrre dem, da
+							havde de Nordiske Riger kun <hi rend="italics" xml:id="idm139947087912272"><!--<emph>-->menneskelig<!--</emph>--></hi> Ret dertil og kunde
+							vente menneskeligt Gavn deraf, under den Forudsætning, at der fra
+							Arildstid har hos dem været et <hi rend="italics" xml:id="idm139947087910976"><!--<emph>-->eiendommelig<!--</emph>--></hi> udstyret og farvet
+							Menneske-Liv, et <hi rend="italics" xml:id="idm139947087909904"><!--<emph>-->Nordisk<!--</emph>--></hi> Folkeliv, der kræver en fri,
+							selvstændig Udvikling, og kan endnu mindre bevare og fuldende sit Løb i
+							Forbindelse med det Fremmede og Fiendlige, end under den Skilsmisse og
+							Eensidighed, som aabenbar har spildt en stor Deel af dets Kraft og
+							forsinket dets Udvikling.</p>
+                  <p xml:id="idm139947087908160">Dette, at Nordens Folke-Stammer samlede udgiøre eet af <pb n="58" xml:id="s58" facs="adl/grundtvig/grundtvig10/grun10058"/> Menneske-Slægtens <hi rend="italics" xml:id="idm139947087906640"><!--<emph>-->Hoved-Folk<!--</emph>--></hi>, og har, som saadant, en
+							egen <hi rend="italics" xml:id="idm139947087905552"><!--<emph>-->Aand<!--</emph>--></hi> eller <hi rend="italics" xml:id="idm139947087904544"><!--<emph>-->Livs-Kraft<!--</emph>--></hi>, og et
+							eiendommeligt Storværk at øve, til Ære og Gavn baade for sig selv og for
+							hele Menneske-Slægten, det er, som man vel veed, min ligesaa faste som
+							gamle Overbeviisning, og deraf følger, at det <hi rend="italics" xml:id="idm139947087903040"><!--<emph>-->første<!--</emph>--></hi> Kæmpe-Skridt til Forening
+							mellem Høinordens Folk og Riger, maa være Vækkelsen af den længe sovende
+							Følelse, og Klaringen af det gruelig formørkede Syn, at Høinordboerne
+							fra Arildstid i alle <hi rend="italics" xml:id="idm139947087901568"><!--<emph>-->udvendige<!--</emph>--></hi> Forhold udgjøre kun eet
+							stort Folk med een og samme Kæmpe-Aand, og at selv i de <hi rend="italics" xml:id="idm139947087900368"><!--<emph>-->indvendige<!--</emph>--></hi> Forhold
+							kan og skal der altid finde en lige saadan <hi rend="italics" xml:id="idm139947087899280"><!--<emph>-->Forening<!--</emph>--></hi> Sted, som mellem <hi rend="italics" xml:id="idm139947087898272"><!--<emph>-->Aser<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947087897232"><!--<emph>-->Vaner<!--</emph>--></hi>, mellem <hi rend="italics" xml:id="idm139947087896192"><!--<emph>-->Kæmpe-Aanden<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947087895136"><!--<emph>-->Fred-Disen<!--</emph>--></hi>, som enes
+							om, at kun den tilkæmpede Fred, hvormed Friheden følger, er den ægte
+							Fred, men at for andet end Freden skal man aldrig strides.</p>
+                  <p xml:id="idm139947087893648">See, fordi dette den høinordiske Grund-Betragtning af vort fælles
+							Folke-Liv og dets menneskelige Brug, baade er hvad der skal drive os til
+							Forening og hvad der, menneskelig talt, berettiger os til at hævde vor
+							folkelige Frihed og Selvstændighed mod alle og enhver og i alle
+							Henseender med de tjenligste Midler, og fordi denne høinordiske
+							Livs-Anskuelse, skiøndt den længe var glemt, som de Døde i Verden, dog
+							alt i Oldtiden har levende udtrykt sig i <hi rend="italics" xml:id="idm139947087892736"><!--<emph>-->Asamaalet<!--</emph>--></hi> og et tilsvarende <hi rend="italics" xml:id="idm139947087891728"><!--<emph>-->Kæmpeliv<!--</emph>--></hi>, derfor har
+							vi aabenbar begyndt det ny Forenings-Værk fra den eneste rette Side,
+							forsaavidt vi har stræbt at opvække den høinordiske Livs-Anskuelse og
+							det tilsvarende Kæmpelivs Ihukommelse fra de Døde, ligesom det ogsaa
+							allerede har viist sig, at forsaavidt som denne Opvækkelse lykkedes,
+							forsaavidt føldes ogsaa Driften til og Nødvendigheden af alle de
+							Kæmpeskridt, som skulde føre til en ægte, varig og for det fribaarne
+							Menneske-Liv frugtbar høinordisk Forening.</p>
+                  <p xml:id="idm139947087889824">Om nu denne <hi rend="italics" xml:id="idm139947087889568"><!--<emph>-->aandelige<!--</emph>--></hi>
+							Gien-Forening af Høinordens Folke-Stammer allerede er levende og stærk
+							nok til at fremføre og bære en <hi rend="italics" xml:id="idm139947087888272"><!--<emph>-->udvendig<!--</emph>--></hi> Forbindelse, som den,
+							Normanden nu foreslaaer, det er derimod et meget vanskeligt Spørgsmaal,
+							og som for Øieblikket maa kaldes enten ørkesløst eller dog ubetimeligt,
+							thi det skulde aabenbar være opkastet og besvaret, mens Danmark <hi rend="italics" xml:id="idm139947087886736"><!--<emph>-->virkelig<!--</emph>--></hi> ledte om en
+							Thronfølger, ikke nu, da vi har fundet eller dog faaet En, ligesom jeg i
+							sin Tid skrev min Opfordring til Forbindelse, <hi rend="italics" xml:id="idm139947087885424"><!--<emph>-->ikke efterat Sverrig<!--</emph>--></hi> havde faaet
+							sig en Thronfølger i Ponte Corvo, men <hi rend="italics" xml:id="idm139947087884288"><!--<emph>-->førend<!--</emph>--></hi> det fik <pb n="59" xml:id="s59" facs="adl/grundtvig/grundtvig10/grun10059"/> ham. Mens det endnu var Tid, bragde jeg
+							virkelig ogsaa dette Spørgsmaal paa Bane i »<hi rend="italics" xml:id="idm139947087881920"><!--<emph>-->Danskeren<!--</emph>--></hi>«, men hverken var der da
+							Nogen enten i Norge eller Sverrig, som tog det op, ikke heller kunde jeg
+							komme til den Overbeviisning, at Leiligheden til en udvortes Forbindelse
+							mellem Rigerne da var tilstede. Jeg sluttede nemlig saaledes: havde
+							enten Norge og Sverrig dengang taget kraftig Deel i Danmarks Kamp for
+							sin Frihed og sin rette Grændse, som en Kamp for Høinordens Frihed og
+							Selvstændighed i det Hele, eller havde dog en af de <hi rend="italics" xml:id="idm139947087879904"><!--<emph>-->Svenske Kongesønner<!--</emph>--></hi> taget virksom
+							og hæderlig Deel i denne Kamp, da kunde Leiligheden til en fast
+							Forbindelse mellem Høinordens Riger aldrig været gunstigere, og vilde da
+							vist ogsaa, trods <hi rend="italics" xml:id="idm139947087878464"><!--<emph>-->Ruslands<!--</emph>--></hi> Arrighed, blevet Følgen, om
+							ikke før, saa <hi rend="italics" xml:id="idm139947087877328"><!--<emph>-->nu<!--</emph>--></hi>, men
+							har man forsømt det gunstige Øieblik til Daad, da nytter det ikke, man
+							vil gribe det gunstige Øieblik til at benytte en Seier, man ikke har
+							vundet, thi, naar ogsaa alle andre Vanskeligheder blev overvundne, saa
+							kunde <hi rend="italics" xml:id="idm139947087875792"><!--<emph>-->Danmark jo<!--</emph>--></hi>
+							aldrig med nogen Grund vente sig Gavn eller Glæde af en Konge-Slægt, der
+							viste sig, om ei aldeles ligegyldig ved Danmarks Tilværelse, saa dog kun
+							meget lunken for dets Redning.</p>
+                  <p xml:id="idm139947087874240">Hvad derimod alt nu kunde og burde skee til Nordens Forening, det er <hi rend="italics" xml:id="idm139947087873904"><!--<emph>-->Oprettelsen<!--</emph>--></hi> af et
+							fast, uopløseligt <hi rend="italics" xml:id="idm139947087872816"><!--<emph>-->Nordisk
+								Forbund<!--</emph>--></hi>, under <hi rend="italics" xml:id="idm139947087871808"><!--<emph>-->Vestmagternes<!--</emph>--></hi> og især under <hi rend="italics" xml:id="idm139947087870720"><!--<emph>-->Engelands<!--</emph>--></hi> Medvirkning
+							og Varetægt, et Forbund, som det <hi rend="italics" xml:id="idm139947087869584"><!--<emph>-->ikke<!--</emph>--></hi> skulde være <hi rend="italics" xml:id="idm139947087868528"><!--<emph>-->Regieringerne<!--</emph>--></hi>, men kun <hi rend="italics" xml:id="idm139947087867520"><!--<emph>-->Rigsdagene<!--</emph>--></hi> overladt
+							at indskrænke eller udvide, medens det altid stillede hele vort
+							Høinordens Styrke, til Lands og til Vands, mod ethvert Angreb enten fra
+								<hi rend="italics" xml:id="idm139947087866128"><!--<emph>-->Tysk<!--</emph>--></hi> eller fra
+								<hi rend="italics" xml:id="idm139947087865120"><!--<emph>-->Russisk<!--</emph>--></hi> Side.</p>
+                  <p xml:id="idm139947087863952">Dette kunde skee og burde skee, heller idag end imorgen, da det
+							rimeligviis kun lader sig giøre under den nærværende Kamp mellem <hi rend="italics" xml:id="idm139947087863408"><!--<emph>-->Vesten<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947087862368"><!--<emph>-->Østen<!--</emph>--></hi>, og maa skee
+							under den, hvis <hi rend="italics" xml:id="idm139947087861280"><!--<emph>-->Høinorden<!--</emph>--></hi> efter denne Kamp, hvordan den
+							saa end ellers falder ud, skal være istand til at hævde sin Frihed og
+							Selvstændighed, og derpaa skulde da alle oplyste Høinordboer i dette
+							Øieblik drive med samlede Kræfter, baade giennem Pressen og især giennem
+								<hi rend="italics" xml:id="idm139947087859696"><!--<emph>-->Rigsdagene<!--</emph>--></hi>, fordi
+							det er det første, det nødvendige og vel for Øieblikket det eneste
+							muelige Kæmpeskridt til en sand og virkelig <hi rend="italics" xml:id="idm139947087858400"><!--<emph>-->Nordisk Forening<!--</emph>--></hi>.</p>
+                  <p xml:id="idm139947087857264">Jeg veed meget godt, at et saadant <hi rend="italics" xml:id="idm139947087856960"><!--<emph>-->Nordisk Forbund<!--</emph>--></hi>, Regieringerne i en
+							vis Grad aftvunget ved Omstændighederne, vilde, saafremt disse
+							forandrede sig, trods al sin Uopløselighed, <pb n="60" xml:id="s60" facs="adl/grundtvig/grundtvig10/grun10060"/> findes skrøbeligt nok, og lade meget tilbage
+							at ønske, men naar vi kun vilde flittig benytte den Leilighed, som
+							derved aabnede sig for os, og den stærke Drivefjer, som laae i Forbundet
+							til at udvikle og udbrede <hi rend="italics" xml:id="idm139947087853920"><!--<emph>-->høinordisk
+								Oplysning<!--</emph>--></hi> efter en forstørret Maaiestok, da er
+							jeg sikker paa, at baade skulde det Nordiske Forbund findes uopløseligt
+							og føre til en bestandig friere og frugtbarere Vexel-Virkning mellem
+							Høinordens Folke-Stammer, og det maaskee netop sikkrere, jo mere det gik
+							i Langdrag med en <hi rend="italics" xml:id="idm139947087852208"><!--<emph>-->fælles
+								Over-Styrelse<!--</emph>--></hi>, der er til langt mere Skade end
+							Gavn, saalænge ikke <hi rend="italics" xml:id="idm139947087851008"><!--<emph>-->Under-Styrelsen<!--</emph>--></hi> af de større og
+							mindre Deles egne Anliggender, eller hvad man paa Pluddervælsk kalder
+							det »<hi rend="italics" xml:id="idm139947087849760"><!--<emph>-->Communale<!--</emph>--></hi>«, har
+							baade faaet sit rette Omfang og vundet Fasthed til at hævde sin Frihed
+								<hi rend="italics" xml:id="idm139947087848640"><!--<emph>-->indenfor<!--</emph>--></hi> sine
+							afstukne Grændser.</p>
+                  <p xml:id="idm139947087847424">Til dette folkelige Oplysnings-Værk efter en Maaiestok og med et Maal,
+							som er Høinordens gamle Helte og Halvguder værdige, regnede jeg lige fra
+							Begyndelsen, og regner jeg fremdeles, en stor <hi rend="italics" xml:id="idm139947087846736"><!--<emph>-->Nordisk Høiskole<!--</emph>--></hi>, helst i <hi rend="italics" xml:id="idm139947087845712"><!--<emph>-->Gøthaborg<!--</emph>--></hi>, hvor man
+							naturligviis <hi rend="italics" xml:id="idm139947087844624"><!--<emph>-->ikke<!--</emph>--></hi>
+							skulde fabrikere Embedsmænd enten for alle tre Riger eller for noget af
+							dem, men hvor hele den menneskelige Kundskabs-Kreds skulde synes med
+							høinordiske Øine og bearbeides med høinordiske Kræfter til stigende og
+							voxende Oplysning af Menneske-Livet og alle dets Forhold, altsaa først
+							og fremmerst af Menneske-Livet i den Grad, hvori, og den Skikkelse og de
+							Forhold, hvorunder det <hi rend="italics" xml:id="idm139947087842928"><!--<emph>-->folkelig<!--</emph>--></hi> har udviklet sig i vort
+							Høinorden og befinder sig hos os for Øieblikket. Det er nemlig
+							soleklart, at hvor vi Mennesker saa end vil hen, i Høiden, i Dybden
+							eller i Vidden, saa, hvis vi vil komme der lyslevende, da maae vi tage
+							os selv lyslevende med, og det i vort Samfund med Folket, da vi kun deri
+							har et levende Forhold saavel til Menneske-Slægten, som til
+							Folke-Aanden.</p>
+                  <p xml:id="idm139947087841104">Det nytter vist nok ikke stort at pege paa en saadan <hi rend="italics" xml:id="idm139947087840784"><!--<emph>-->Nordisk Høiskole<!--</emph>--></hi>, som Plante-Skolen
+							for et videnskabeligt Liv og en levende Videnskabelighed, saalænge disse
+							Begreber i deres menneskelige Sandhed er ligesaa fremmede for vore
+							fleste Læsere, som de altid har været baade for vore <hi rend="italics" xml:id="idm139947087839264"><!--<emph>-->Latinske<!--</emph>--></hi> og for vore <hi rend="italics" xml:id="idm139947087838256"><!--<emph>-->Tyske<!--</emph>--></hi> Skolemestere,
+							men pege maa jeg dog paa det Eneste, der kan frembringe og vedligeholde
+							en virkelig <hi rend="italics" xml:id="idm139947087837088"><!--<emph>-->Nordisk
+								Forening<!--</emph>--></hi> til Kappelyst, Vexel-Virkning og
+							Fællesskab baade i Fred og Feide, og efterhaanden, som vi i det Smaa
+							arbeider paa Folkets folkelige Oplysning og Dannelse, vil Tanken om en
+							saadan stor Brændpunkt dog ogsaa fødes og <pb n="61" xml:id="s61" facs="adl/grundtvig/grundtvig10/grun10061"/> Nødvendigheden deraf føles i en stedse videre
+							Omkreds, til denne høinordiske Kæmpe-Tanke bryder igiennem, som saa
+							mange andre og vil da selv bevise baade sin Udførlighed og Gavnlighed.</p>
+                  <p xml:id="idm139947087833936">Det er nemlig ikke blot min Paastand, min Tro og min Overbeviisning, men
+							det er en indlysende Sandhed, som maa falde Enhver i Øinene, der har
+							faaet aabne Øine for Menneske-Livet baade i det Smaa og i det Store, at
+							naar Oplysning og Videnskabelighed skal være <hi rend="italics" xml:id="idm139947087833104"><!--<emph>-->levende<!--</emph>--></hi>, blomstre til Livets Lyst
+							og bære Frugt til Livets Gavn, da maa de, som alle andre baade aandelige
+							og legemlige Planter og Træer, have <hi rend="italics" xml:id="idm139947087831744"><!--<emph>-->Rod<!--</emph>--></hi> i den Jord, de skal trives i,
+							saa det er ikke blot <hi rend="italics" xml:id="idm139947087830656"><!--<emph>-->Menig-Mand<!--</emph>--></hi>, der, naar han skal
+							blive oplyst til sit eget og det Heles Gavn, maa oplyses paa sit <hi rend="italics" xml:id="idm139947087829536"><!--<emph>-->Modersmaal<!--</emph>--></hi> og om sin
+							Livs-Stilling baade som det Menneske, han er, midt iblandt sit <hi rend="italics" xml:id="idm139947087828432"><!--<emph>-->Folk<!--</emph>--></hi>, og som den <hi rend="italics" xml:id="idm139947087827424"><!--<emph>-->Borger<!--</emph>--></hi>, han er i sit
+								<hi rend="italics" xml:id="idm139947087826384"><!--<emph>-->Fæderneland<!--</emph>--></hi>, og
+							det er ikke blot <hi rend="italics" xml:id="idm139947087825280"><!--<emph>-->Embeds-Mændene<!--</emph>--></hi> i et Rige, som, for
+							at være dygtige <hi rend="italics" xml:id="idm139947087824144"><!--<emph>-->Redskaber<!--</emph>--></hi> i Regieringens Haand og
+							virkelige <hi rend="italics" xml:id="idm139947087823072"><!--<emph>-->Støtter<!--</emph>--></hi> for
+							Riget, maae kiende og elske deres Fæderneland, Folk og Modersmaal, men
+							det er ogsaa Tilfældet med de <hi rend="italics" xml:id="idm139947087821808"><!--<emph>-->Høilærde<!--</emph>--></hi>, ligesaavel Tænkere som
+							Digtere, ligesaa vel Skrivere som Talere, at de bliver aldrig store i
+							menneskelig Forstand, aldrig gavnlige, glædelige og ønskelige for det
+							Folk, som avler, og det Rige, som føder dem, dersom det ikke er <hi rend="italics" xml:id="idm139947087820272"><!--<emph>-->Folke-Aanden<!--</emph>--></hi>, som
+							besjæler dem, og <hi rend="italics" xml:id="idm139947087819184"><!--<emph>-->Moders-Maalet<!--</emph>--></hi>, som de faaer i deres
+							Magt, til baade at oplyse sig med og udtrykke sig i. Videnskabeligheden
+							eller Lærdommen, og selv for en stor Deel Digte-Konsten eller Poesien
+							hos os, har derfor i den <hi rend="italics" xml:id="idm139947087817728"><!--<emph>-->Latinske<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947087816720"><!--<emph>-->Tyske<!--</emph>--></hi> Utid i det høieste været
+							Pragt-Blomster, <hi rend="italics" xml:id="idm139947087815568"><!--<emph>-->Tulipaner<!--</emph>--></hi>, og det var maaskee
+							uundgaaeligt, ligesom hos os <hi rend="italics" xml:id="idm139947087814480"><!--<emph>-->Rosen-Tiden<!--</emph>--></hi> først begynder, naar
+								<hi rend="italics" xml:id="idm139947087813392"><!--<emph>-->Tulipan-Tiden<!--</emph>--></hi> er
+							forbi, men herefter vil det være utaaleligt, og naar Menig-Mand bliver
+							folkelig og menneskelig oplyst, umueligt, thi saasnart Menig-Mand bliver
+							sig folkelig og menneskelig bevidst, vil han aldrig kiende nogen for sin
+							Mester, som, langtfra at kunne forklare ham noget, ikke engang forstaaer
+							ham, og naar han bliver sig borgerlig bevidst, vil han giøre alle Folket
+							og Riget unyttige Kunster brødløse, saa Piben maa faae en anden Lyd.</p>
+                  <p xml:id="idm139947087811552">Det er da ogsaa kun Øien-Forblindelse, naar det i <hi rend="italics" xml:id="idm139947087811184"><!--<emph>-->Danmark<!--</emph>--></hi> synes at forholde sig
+							anderledes, synes som om Videnskabeligheden hos os aldrig kunde blive
+							folkelig, eller Folkeligheden videnskabelig, thi det ligger deels deri,
+							at <hi rend="italics" xml:id="idm139947087809968"><!--<emph>-->Danskerne<!--</emph>--></hi>, som <pb n="62" xml:id="s62" facs="adl/grundtvig/grundtvig10/grun10062"/> det dunkleste Hjerte-Folk,
+							kommer seent til Vidskab, og deels deri, at <hi rend="italics" xml:id="idm139947087807664"><!--<emph>-->Danmark<!--</emph>--></hi> er blevet ved at være hvad
+								<hi rend="italics" xml:id="idm139947087806528"><!--<emph>-->Tyskerne<!--</emph>--></hi> alt
+							kaldte det i Kong <hi rend="italics" xml:id="idm139947087805472"><!--<emph>-->Valdemars<!--</emph>--></hi> Tid: et aabent
+							Spisekammer for de <hi rend="italics" xml:id="idm139947087804400"><!--<emph>-->Fremmede<!--</emph>--></hi>, og da isærdeleshed for
+							sultne <hi rend="italics" xml:id="idm139947087803296"><!--<emph>-->Tyskere<!--</emph>--></hi>, saa
+							de <hi rend="italics" xml:id="idm139947087802288"><!--<emph>-->saakaldte Danske<!--</emph>--></hi>
+							Lærde har sædvanlig været fremmede og tiest <hi rend="italics" xml:id="idm139947087801120"><!--<emph>-->Tyskere<!--</emph>--></hi> af Byrd og Blod, saa deres
+							Lærdom og Vidskab maatte, netop fordi den artede sig efter hvad den var
+							kommet af, blive <hi rend="italics" xml:id="idm139947087799824"><!--<emph>-->fremmed<!--</emph>--></hi> i <hi rend="italics" xml:id="idm139947087798816"><!--<emph>-->Danmark<!--</emph>--></hi>, og kunde aldrig ophøies,
+							beundres og efterabes af <hi rend="italics" xml:id="idm139947087797664"><!--<emph>-->Danskere<!--</emph>--></hi>, uden forsaavidt de deri
+							saae »fremmed Stads«, og saalænge de ikke selv var kommet til folkelig
+							Bevidsthed og følde baade Trang og Drift og Evne til at forstaae
+							Menneske-Livet hos sig selv og vinde Oplysning til at benytte det saa
+							fordeelagtig og fornøielig som mueligt</p>
+               </div>
+               <div xml:id="idm139947087795776">
+                  <head xml:id="idm139947087795520">V.</head>
+                  <p xml:id="idm139947087795136">Jeg har fra Begyndelsen sagt, at den <hi rend="italics" xml:id="idm139947087794832"><!--<emph>-->Danske<!--</emph>--></hi> Sag er i mine Øine ikke blot
+							vores, ikke blot Danskernes, ikke blot <hi rend="italics" xml:id="idm139947087793648"><!--<emph>-->Høinordens<!--</emph>--></hi>, men hele <hi rend="italics" xml:id="idm139947087792640"><!--<emph>-->Menneskehedens<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947087791600"><!--<emph>-->Christendommens<!--</emph>--></hi>,
+							altsaa <hi rend="italics" xml:id="idm139947087790560"><!--<emph>-->Vorherres<!--</emph>--></hi> Sag,
+							og det Sidste, det som egenlig slaaer Hoved paa Sømmet, og er min Trøst
+							selv under de mørkeste Udsigter, det er jo, paa den ene Side, hvad man i
+							enhver Læse-Verden, som i denne Verden overhovedet, bryder sig mindst
+							om, og er, paa den anden Side, i den saakaldte »<hi rend="italics" xml:id="idm139947087788896"><!--<emph>-->Christenhed<!--</emph>--></hi>«, som ikke for intet
+							har lignet sig selv ved »<hi rend="italics" xml:id="idm139947087787808"><!--<emph>-->Noahs
+								Ark<!--</emph>--></hi>«, snarest til Forargelse, som om jeg meende,
+							at Danskerne var det <hi rend="italics" xml:id="idm139947087786704"><!--<emph>-->allerchristeligste
+								Folk<!--</emph>--></hi>, ligesom Kongen ad <hi rend="italics" xml:id="idm139947087785680"><!--<emph>-->Frankerig<!--</emph>--></hi>, da der var En, hedd den
+								<hi rend="italics" xml:id="idm139947087784592"><!--<emph>-->allerchristeligste
+								Konge<!--</emph>--></hi>, men desuagtet bliver jeg ved min Tro og
+							skal nu her stræbe tydelig at vise min Tankegang, i den Henseende,
+							overladende det rolig til Fremtiden at vise, om jeg tænkde ret eller jeg
+							tænkde feil.</p>
+                  <p xml:id="idm139947087782992">Min Betragtning af <hi rend="italics" xml:id="idm139947087782736"><!--<emph>-->Christendommen<!--</emph>--></hi> er nemlig hverken
+							den graabroderlige eller den sortebroderlige, hverken den klosterlige
+							eller den høikirkelige, hverken den keiserlige eller den pavelige,
+							hverken den kapitelfaste eller den ledesløse, men nærmest den <hi rend="italics" xml:id="idm139947087781200"><!--<emph>-->lutherske<!--</emph>--></hi>, som holder
+							paa »<hi rend="italics" xml:id="idm139947087780128"><!--<emph>-->Ordet og Troen<!--</emph>--></hi>«,
+							Guds eget Ord og Hjertets egen Tro, som Summen af det Hele, <pb n="63" xml:id="s63" facs="adl/grundtvig/grundtvig10/grun10063"/> og min Betragtning af Christendommen
+							er først og sidst den <hi rend="italics" xml:id="idm139947087777696"><!--<emph>-->menneskelige<!--</emph>--></hi>, der smelter sammen
+							med den Guddommelige, saa vist, som efter Vorherres Tankegang, Mennesket
+							ikke er skabt for Christendommens Skyld, men <hi rend="italics" xml:id="idm139947087776480"><!--<emph>-->Christendommen<!--</emph>--></hi> er skabt for <hi rend="italics" xml:id="idm139947087775472"><!--<emph>-->Menneskets<!--</emph>--></hi> Skyld.
+							Blandt alt hvad der er godt for Menneske-Livet, er da <hi rend="italics" xml:id="idm139947087774352"><!--<emph>-->Christendommen<!--</emph>--></hi> i mine Øine ikke
+							blot det Bedste, men det eneste Gode, der kan batte, fordi
+							Christendommen tager alting, baade Godt og Ondt, op <hi rend="italics" xml:id="idm139947087773040"><!--<emph>-->fra Roden<!--</emph>--></hi> af, og har <hi rend="italics" xml:id="idm139947087772032"><!--<emph>-->Magt<!--</emph>--></hi> til at overvinde
+							det Onde med det Gode. Der staaer skrevet, at Kiærlighed giør Næsten
+							intet Ondt, og er det sandt om vor Menneske-Kiærlighed, saa lille, som
+							den er, hvormeget mere da ikke om <hi rend="italics" xml:id="idm139947087770544"><!--<emph>-->Guds<!--</emph>--></hi> Menneske-Kiærlighed, som jo
+							Christendommen ret egenlig er kommet til Verden for at bevise, saa den
+							tænder ligesaa lidt Baal paa Jorden til sine Modstandere, som den lader
+							Ild falde ned af Himmelen over dem, den giør kun ved dem, hvad vi, om vi
+							er kloge, giør ved alle dem, der forsmaaer og spotter vores Kiærlighed,
+							den overlader dem til dem selv, og gaaer andensteds hen, hvor
+							Kiærligheden savnes og Kiærligheden skattes, og der giør den sit store
+							Tegn, større end alle dem, <hi rend="italics" xml:id="idm139947087768896"><!--<emph>-->Verden<!--</emph>--></hi> saae, da <hi rend="italics" xml:id="idm139947087767888"><!--<emph>-->Vorherre<!--</emph>--></hi> vandrede og gjorde
+							aabenbar de Blinde seende, de Døve hørende, de Stumme talende, de <hi rend="italics" xml:id="idm139947087766640"><!--<emph>-->Spedalske rene<!--</emph>--></hi> og de
+								<hi rend="italics" xml:id="idm139947087765632"><!--<emph>-->Døde levende<!--</emph>--></hi>, thi
+							det er det store Guds Kiærligheds-Tegn, naar i et syndigt
+							Menneske-Hjerte, <hi rend="italics" xml:id="idm139947087764368"><!--<emph>-->Egen-Kiærligheden<!--</emph>--></hi>, som er Kilden
+							til al vor Synd og Elendighed, efterhaanden bliver som en udtørret Sø,
+							og <hi rend="italics" xml:id="idm139947087763120"><!--<emph>-->Menneske-Kiærligheden<!--</emph>--></hi>, der er her som
+							en udtørret Brønd, bliver en Kilde i os, som springer til et evigt Liv.</p>
+                  <p xml:id="idm139947087761744">At nu denne Betragtning af Christendommen ikke blot stemmer overeens med
+							det første <hi rend="italics" xml:id="idm139947087761280"><!--<emph>-->Johannes-Brev<!--</emph>--></hi>, men med hele den <hi rend="italics" xml:id="idm139947087760272"><!--<emph>-->Apostoliske Skrift<!--</emph>--></hi>,
+							det baade forudsætter jeg som en afgjort Sag og kan jeg see med mit
+							Hjertes Øine, men det finder jeg ikke længer værdt at trættes om, da man
+							med al saadan Trætte kun spilder Tiden og forbittrer hinanden Livet,
+							medens det jo er klart nok, at skal de Mennesker, som føler, at <hi rend="italics" xml:id="idm139947087758592"><!--<emph>-->Kiærlighed<!--</emph>--></hi>, og den
+							alene, er baade <hi rend="italics" xml:id="idm139947087757536"><!--<emph>-->Lovens
+								Fylde<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947087756528"><!--<emph>-->Fuldkommenheds Baand<!--</emph>--></hi>, og at det er
+							denne Kiærlighed, vi alle fattes; skal de betragte <hi rend="italics" xml:id="idm139947087755328"><!--<emph>-->Christendommen<!--</emph>--></hi> som et guddommeligt
+								<hi rend="italics" xml:id="idm139947087754272"><!--<emph>-->Gienløsnings<!--</emph>--></hi> og
+								<hi rend="italics" xml:id="idm139947087753248"><!--<emph>-->Saliggiørelses<!--</emph>--></hi>
+							Værk for det faldne Menneske, da maae de ogsaa af Christendommen vente
+							den vidunderlige Gienfødelse og Fornyelse af Menneske-Livet i Guds
+							Billede, som uden <hi rend="italics" xml:id="idm139947087751808"><!--<emph>-->Menneske-Kiærlighedens<!--</emph>--></hi> Opvækkelse
+							og frugtbare Vext vilde ikke blot være det tommeste Mundsveir, <pb n="64" xml:id="s64" facs="adl/grundtvig/grundtvig10/grun10064"/> men den frækkeste
+							Guds-Bespottelse, som om den <hi rend="italics" xml:id="idm139947087749264"><!--<emph>-->Gud<!--</emph>--></hi>, der Selv er <hi rend="italics" xml:id="idm139947087748224"><!--<emph>-->Kiærlighed<!--</emph>--></hi>, ikke havde Saligheden
+								<hi rend="italics" xml:id="idm139947087747136"><!--<emph>-->indeni<!--</emph>--></hi> sig, men
+								<hi rend="italics" xml:id="idm139947087746128"><!--<emph>-->udenfor<!--</emph>--></hi> sig, at
+							rutte med iflæng.</p>
+                  <p xml:id="idm139947087744880">At denne Tale om »<hi rend="italics" xml:id="idm139947087744576"><!--<emph>-->Kjærligheden<!--</emph>--></hi>«, som Christendommens
+							A og Ø, klinger i alle saakaldte høikirkelige Øren som en skurrende
+							Gienlyd fra det forrige Aarhundrede, hvori vel min Vugge stod, men
+							hvorved dog mit Hjerte ellers ikke synes at hænge, det veed jeg godt,
+							men jeg veed ogsaa godt, hvad Forskiellen er mellem det attende
+							Aarhundredes Tale om <hi rend="italics" xml:id="idm139947087742832"><!--<emph>-->Kiærlighed<!--</emph>--></hi>, som Christendommens
+							Kierne, og min Tale derom, thi Kiærligheds-Prædikanterne i forrige
+							Aarhundrede meende, at det var den Smule <hi rend="italics" xml:id="idm139947087741520"><!--<emph>-->Menneske-Kiærlighed<!--</emph>--></hi>, vi fødes med
+							eller kan læse og slutte os til, der skulde <hi rend="italics" xml:id="idm139947087740320"><!--<emph>-->forbarme<!--</emph>--></hi>
+							              <hi rend="italics" xml:id="idm139947087739312"><!--<emph>-->sig<!--</emph>--></hi> over <hi rend="italics" xml:id="idm139947087738304"><!--<emph>-->Christendommen<!--</emph>--></hi>, som
+							sin Næste, og tilgive den sine mange Synder mod Oplysning og sund
+							Fornuft, men jeg mener Guds Menneske-Kiærlighed som i <hi rend="italics" xml:id="idm139947087736960"><!--<emph>-->Christendommen<!--</emph>--></hi> forbarmer sig over
+							os, og tilgiver os alle vore Synder mod Kiærligheden Selv, naar vi ved
+							Troen vil oplade vort Hjerte for den <hi rend="italics" xml:id="idm139947087735648"><!--<emph>-->Guds<!--</emph>--></hi> Menneske-Kiærlighed, som
+							besøgte os i og med den Eenbaarne, og er, for hans Skyld, udøst over os
+							i Fader-Aanden, saa det attende Aarhundrede og jeg er i denne Henseende
+							saa nemme at skille ad, som en Kiærlighed, der <hi rend="italics" xml:id="idm139947087734144"><!--<emph>-->udelukker<!--</emph>--></hi> »Ordet og Troen« i
+							christelig Forstand, klarlig adskiller sig selv fra den Kiærlighed, der
+							ikke blot <hi rend="italics" xml:id="idm139947087732880"><!--<emph>-->omfavner<!--</emph>--></hi>
+							»Ordet og Troen«, men <hi rend="italics" xml:id="idm139947087731792"><!--<emph>-->udspringer<!--</emph>--></hi> deraf.</p>
+                  <p xml:id="idm139947087730656">Naar jeg nu siger, at skal denne Betragtning af <hi rend="italics" xml:id="idm139947087730336"><!--<emph>-->Christendommen<!--</emph>--></hi>, ikke blot som Guds
+							Menneske-Kiærligheds Frugt i Tidens Fylde, men tillige som Guds <hi rend="italics" xml:id="idm139947087729088"><!--<emph>-->Menneske-Kiærligheds
+								Gierning<!--</emph>--></hi> i Tidernes Løb, nogensteds i
+							Christenheden lyslevende træde i <hi rend="italics" xml:id="idm139947087727856"><!--<emph>-->Kraft<!--</emph>--></hi> til at skabe en Christen
+							Menighed, hvis Liv og Levnet afhjemler denne Betragtning af
+							Christendommen, som den eneste rette, derfor ogsaa den eneste livsalig
+							frugtbare for <hi rend="italics" xml:id="idm139947087726640"><!--<emph>-->Menneske-Hjertet<!--</emph>--></hi> og for
+							Menneske-Livet i alle sine Retninger og Forhold, da maa det være midt
+							iblandt os, midt i vort <hi rend="italics" xml:id="idm139947087725376"><!--<emph>-->Danske
+								Høinorden<!--</emph>--></hi>, see da frygter jeg intet Øieblik for,
+							at man skal kunne pege paa nogen anden Prik i hele Christenheden, hvor
+							det <hi rend="italics" xml:id="idm139947087724064"><!--<emph>-->rimeligere<!--</emph>--></hi> kunde
+							skee, men vel forudseer jeg, at Mange vil sige, det er ligesaa <hi rend="italics" xml:id="idm139947087722960"><!--<emph>-->urimeligt<!--</emph>--></hi>, eller vel
+							endogsaa <hi rend="italics" xml:id="idm139947087721904"><!--<emph>-->umueligt<!--</emph>--></hi> her
+							som andensteds, at denne Betragtning af Christen dommen skulde blive
+							andet end en <hi rend="italics" xml:id="idm139947087720784"><!--<emph>-->grundtvigsk<!--</emph>--></hi> Grille, eller i det høieste
+							et <hi rend="italics" xml:id="idm139947087719680"><!--<emph>-->fromt Ønske<!--</emph>--></hi>
+							              <pb n="65" xml:id="s65" facs="adl/grundtvig/grundtvig10/grun10065"/> fra den anden Verden, hvis
+							Opfyldelse i denne Verden kun Sværmere, Kvinder og Børn forgiæves kan
+							vente paa til Dommedag.</p>
+                  <p xml:id="idm139947087717120">Denne Indvending har imidlertid i mine Øine slet intet at betyde, thi jeg
+							kan jo ikke troe paa <hi rend="italics" xml:id="idm139947087716640"><!--<emph>-->Jesus
+								Christus<!--</emph>--></hi>, Jomfru <hi rend="italics" xml:id="idm139947087715600"><!--<emph>-->Maries<!--</emph>--></hi> Søn, <hi rend="italics" xml:id="idm139947087714560"><!--<emph>-->som<!--</emph>--></hi> Gud-Faders eenbaarne Søn af
+							Evighed, uden at troe paa hvad der i Verdens Øine er høist <hi rend="italics" xml:id="idm139947087713312"><!--<emph>-->urimeligt<!--</emph>--></hi> og for <hi rend="italics" xml:id="idm139947087712304"><!--<emph>-->Mennesker umueligt<!--</emph>--></hi>,
+							saa at i den <hi rend="italics" xml:id="idm139947087711264"><!--<emph>-->christelige<!--</emph>--></hi> Tankegang er der kun een
+							Umuelighed, den at Guds Ord skulde glippe, og kun <hi rend="italics" xml:id="idm139947087710128"><!--<emph>-->een<!--</emph>--></hi> stor Urimelighed, nemlig den at
+							troe paa <hi rend="italics" xml:id="idm139947087709056"><!--<emph>-->Jesus
+							Christus<!--</emph>--></hi>, uden at ville indrømme alt hvad der
+							nødvendig følger af denne <hi rend="italics" xml:id="idm139947087707888"><!--<emph>-->Troes<!--</emph>--></hi> guddommelige <hi rend="italics" xml:id="idm139947087706880"><!--<emph>-->Sandhed<!--</emph>--></hi>.</p>
+                  <p xml:id="idm139947087705712">Nu kan imidlertid den Christne Tro, som vi alle ved <hi rend="italics" xml:id="idm139947087705392"><!--<emph>-->Daaben<!--</emph>--></hi> bekiender, <hi rend="italics" xml:id="idm139947087704384"><!--<emph>-->umuelig<!--</emph>--></hi> være
+							guddommelig sand, med mindre Christendommen i sit <hi rend="italics" xml:id="idm139947087703200"><!--<emph>-->nittende<!--</emph>--></hi> Aarhundrede er den samme
+								<hi rend="italics" xml:id="idm139947087702144"><!--<emph>-->Guds Kraft<!--</emph>--></hi> til
+								<hi rend="italics" xml:id="idm139947087701136"><!--<emph>-->Salighed<!--</emph>--></hi> for de
+								<hi rend="italics" xml:id="idm139947087700096"><!--<emph>-->Troende<!--</emph>--></hi>, som i
+							sit første Aarhundrede, saa at naar det har syntes anderledes, maa
+							Grunden dertil alene findes enten i Mangel paa en tilsvarende Tro, eller
+							i en Mangel ved Troen, som Christendommen baade maa være istand til at
+							afhjelpe og som det maa høre til dens ligesaa menneskelige som
+							guddommelige Kiærligheds-Gierning at afhjelpe.</p>
+                  <p xml:id="idm139947087698272">Det vilde nu slet ikke falde vanskeligt at oplyse, hvorledes, deels
+							Mangel paa hjertelig Christen-Tro, og deels store Mangler ved Troen,
+							hvor den fandtes, har ligesom formindsket og forsinket Guds christelige
+							Kiærligheds-Gierning, hvad jo kun vil sige, at de har enten forhindret
+							Frugt-Sætningen, eller dog vanskabt Frugterne deraf og forhindret de
+							bedste fra at voxe og modnes, men det vilde her falde meget for
+							vidtløftigt, og behøves heller ingenlunde, da det er lige klart, at
+							hvorlænge end Guds Kiærligheds-Gierning, som strækker sig til hele
+							Menneske-Slægten, uden Christendommens Skyld, kan fordunkles og
+							forsinkes, saa kan den dog aldrig forstyrres eller forhindres, saa at,
+								<hi rend="italics" xml:id="idm139947087696928"><!--<emph>-->førend<!--</emph>--></hi> Herren
+							kommer øiensynlig igien, maa Alle de, som troe, igien blive »<hi rend="italics" xml:id="idm139947087695744"><!--<emph>-->eet Hjerte<!--</emph>--></hi> og <hi rend="italics" xml:id="idm139947087694736"><!--<emph>-->een Sjæl<!--</emph>--></hi>« som de kun
+							kan blive ved den <hi rend="italics" xml:id="idm139947087693648"><!--<emph>-->Kiærlighed<!--</emph>--></hi>, der er Fuldkommenheds
+							Baand, og at det første Skridt fra vor Side er at troe paa <hi rend="italics" xml:id="idm139947087692448"><!--<emph>-->Christendommen<!--</emph>--></hi> som en
+							saadan guddommelig <hi rend="italics" xml:id="idm139947087691392"><!--<emph>-->Kiærligheds-Gierning<!--</emph>--></hi> og derved give
+							Guds <hi rend="italics" xml:id="idm139947087690304"><!--<emph>-->Menneske-Kiærlighed<!--</emph>--></hi> det Raaderum i vort
+							Hjerte, som <hi rend="italics" xml:id="idm139947087689200"><!--<emph>-->ingen
+							Magt<!--</emph>--></hi> kan tiltvinge sig <hi rend="italics" xml:id="idm139947087688192"><!--<emph>-->imod vor Villie<!--</emph>--></hi>.</p>
+                  <pb n="66" xml:id="s66" facs="adl/grundtvig/grundtvig10/grun10066"/>
+                  <p xml:id="idm139947087685952">Altsaa, det <hi rend="italics" xml:id="idm139947087685664"><!--<emph>-->skal<!--</emph>--></hi> skee,
+							saavist som <hi rend="italics" xml:id="idm139947087684576"><!--<emph>-->Jesus
+							Christus<!--</emph>--></hi> er Gud-Faders eenbaarne Søn, at baade
+							Menigheden troer paa denne Guds Kiærligheds-Gierning og bliver
+							Virke-Kredsen, hvori den livsalig og Mendelig fuldføres af den samme
+							Aand, som begyndte den, og nu siger jeg trøstig: skal det skee
+							nogensteds, da skeer det først og <hi rend="italics" xml:id="idm139947087682944"><!--<emph>-->fremmerst<!--</emph>--></hi> hos os i den <hi rend="italics" xml:id="idm139947087681936"><!--<emph>-->sjette<!--</emph>--></hi> Menighed, som
+							ikke for intet kaldes <hi rend="italics" xml:id="idm139947087680832"><!--<emph>-->Philadelphia<!--</emph>--></hi>, men fører med Rette
+							Navn af »<hi rend="italics" xml:id="idm139947087679728"><!--<emph>-->Sødsken-Kiærligheden<!--</emph>--></hi>«, der jo er
+							den jordiske Side af Guds Kiærlighed hos os, ligesom »<hi rend="italics" xml:id="idm139947087678592"><!--<emph>-->Barne-Kiærligheden<!--</emph>--></hi>« er den
+							himmelske. Man behøver nemlig slet ikke at fortælle mig, hvor mange og
+							hvor store Hindringer Menneske-Hjertets vildfarende Begiærligheder ogsaa
+							i Danmark lægger iveien for denne Guds Kiærligheds-Gierning, thi det
+							følger jo af den almindelige Syndighed, og det maa jeg jo selv have
+							erfaret, men jeg har ogsaa giennem et langt og rigt Levnets-Løb erfaret,
+							at <hi rend="italics" xml:id="idm139947087676720"><!--<emph>-->Kiærligheden<!--</emph>--></hi> har
+							en velsignet og frugtbar Jordbund i danske Hjerter, saa at, hvormeget
+							end vor Kiærlighed her kan vrages og spottes, saa bliver vi dog aldrig
+								<hi rend="italics" xml:id="idm139947087675344"><!--<emph>-->huusvilde<!--</emph>--></hi> med
+							den, og hvorledes skulde da <hi rend="italics" xml:id="idm139947087674272"><!--<emph>-->Vorherre<!--</emph>--></hi> blive <hi rend="italics" xml:id="idm139947087673264"><!--<emph>-->huusvild<!--</emph>--></hi> med <hi rend="italics" xml:id="idm139947087672224"><!--<emph>-->sin<!--</emph>--></hi> Menneske-Kiærlighed, der er
+							anderledes reen, uegennyttig og fuldkommen end vores, naar den er
+							allerrigest og allerbedst, saa det kan aldrig feile, at naar først Lyset
+							er opgaaet, og det er opgaaet, over Hans Menneske-Kiærlighed, den evig
+							Rige, som blev fattig for at giøre Mange rige, da vil, naar dette Lys
+							skinner for Alle dem, som er i Huset, Hjerterne kappes om at aabne sig
+							for dette <hi rend="italics" xml:id="idm139947087670544"><!--<emph>-->Livets Lys<!--</emph>--></hi>,
+							der, medens det skjuler sin Glands, let kan synes fordunklet af Verdens
+							Glimmer, men skaber og modner ligefuldt, som Hjertets Soel, alle Aandens
+							Frugter til evig Nydelse.</p>
+                  <p xml:id="idm139947087669200">Det er nemlig ingenlunde der, hvor man elsker Fader og Moder, Hustru og
+							Børn og Sødskende, saa lidt som mueligt, men kun der, hvor man elsker
+							dem saa høit som mueligt, at Hjertet kan faae Rum til den <hi rend="italics" xml:id="idm139947087668496"><!--<emph>-->Christi Kiærlighed<!--</emph>--></hi>,
+							som er endnu større, og kan aldrig skattes eller vindes, hvor den
+							Kiærlighed fattes, som den, for at kunne skattes, forudsætter og maa
+							sammenlignes med for at blive kiendelig.</p>
+                  <p xml:id="idm139947087666928">Da nu det Danske Folk umuelig kan beholde sin udmærkede <hi rend="italics" xml:id="idm139947087666544"><!--<emph>-->Hiertelighed<!--</emph>--></hi> i Fred
+							og vinde baade Frihed og Mod til at giennemføre og udvikle den i alle
+							sine Forhold, med mindre Folket ogsaa beholder sit <hi rend="italics" xml:id="idm139947087665232"><!--<emph>-->Fæderneland<!--</emph>--></hi> og sit <hi rend="italics" xml:id="idm139947087664208"><!--<emph>-->Modersmaal<!--</emph>--></hi> ubeskaarne
+							og ubeskæmmede, saa siger jeg med Rette, at den <hi rend="italics" xml:id="idm139947087663008"><!--<emph>-->Danske Sag<!--</emph>--></hi> er nu ogsaa <hi rend="italics" xml:id="idm139947087662000"><!--<emph>-->Christendommens<!--</emph>--></hi> Sag,
+								<pb n="67" xml:id="s67" facs="adl/grundtvig/grundtvig10/grun10067"/> og følgelig <hi rend="italics" xml:id="idm139947087659808"><!--<emph>-->Vorherres<!--</emph>--></hi> Sag,
+							saasandt som <hi rend="italics" xml:id="idm139947087658720"><!--<emph>-->Jesus
+								Christus<!--</emph>--></hi> er <hi rend="italics" xml:id="idm139947087657712"><!--<emph>-->Vorherre<!--</emph>--></hi>. Hvem der troer, forhaster
+							sig ikke, thi han har lært at bie efter Herren, siger Aanden, og derfor
+							maae vi <hi rend="italics" xml:id="idm139947087656416"><!--<emph>-->Danske<!--</emph>--></hi>
+							Christne aldrig blive saa mismodige over hvad man kalder Tidens Tegn,
+							men hvad der kun er Utidens, som skal forgaae, at vi enten opgav Haabet
+							for den <hi rend="italics" xml:id="idm139947087655216"><!--<emph>-->Danske<!--</emph>--></hi> Sag
+							eller undlod at trøste alle dem, den ligger paa Hjerte, med at den er
+								<hi rend="italics" xml:id="idm139947087654016"><!--<emph>-->Vorherres<!--</emph>--></hi> Sag,
+							som aldrig kan tabes.</p>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

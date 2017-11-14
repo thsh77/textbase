@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I løvens tegn</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140125920583744">
+                     <name xml:id="idm140125920583488">
+                        <surname xml:id="idm140125920583360">Claussen</surname>, <forename xml:id="idm140125920582928">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140125920582672">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140125920582384">Bd. 4: Danske vers</title>
+                  <pubPlace xml:id="idm140125920582096">[København]</pubPlace>
+                  <publisher xml:id="idm140125920581632">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140125920581264">1982-</date>
+                  <biblScope>102-106</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid63615" decls="#biblid63615">
+            <front xml:id="idm140125919353584">
+               <pb n="101" xml:id="s101" facs="adl/claussen/claussen06/claussen6101"/>
+               <head xml:id="idm140125919352144">
+                  <hi rend="italics" xml:id="idm140125919351888">viii</hi>
+                  <lb xml:id="idm140125919351200"/>
+                  <hi rend="italics" xml:id="idm140125919350944">I LØVENS TEGN</hi>
+               </head>
+               <titlePage xml:id="idm140125919350112">
+                  <epigraph xml:id="idm140125919349808">
+                     <cit xml:id="idm140125919349552">
+                        <q xml:id="idm140125919349296">
+                           <lg xml:id="idm140125919348992">
+                              <l xml:id="idm140125919348736">Stranden blev mørk mod Aften og stormende blaa.</l>
+                              <l xml:id="idm140125919348240">Det bruste i grønne Blade og Rugens lyse Straa,</l>
+                              <l xml:id="idm140125919347744">mens bleg og blond og gylden Fuldmaanen saas at
+												staa.</l>
+                           </lg>
+                        </q>
+                     </cit>
+                     <bibl xml:id="idm140125919346896">
+                        <hi rend="italics" xml:id="idm140125919346768">Til Fru</hi> EDITH RODE</bibl>
+                  </epigraph>
+               </titlePage>
+               <pb n="102" xml:id="s102" facs="adl/claussen/claussen06/claussen6102"/>
+            </front>
+            <body xml:id="idm140125919344352">
+               <pb n="103" xml:id="s103" facs="adl/claussen/claussen06/claussen6103"/>
+               <div xml:id="workid63705" decls="#biblid63705">
+                  <lg xml:id="idm140125919342000">
+                     <l xml:id="idm140125919341744">Nu tager Somren Stormhat paa</l>
+                     <l xml:id="idm140125919341312">og Solsandaler for at gaa</l>
+                     <l xml:id="idm140125919340880">langs Strand paa Aftenpromenade.</l>
+                     <l xml:id="idm140125919340448">Hvor hvirvler de forvildede Straa,</l>
+                     <l xml:id="idm140125919340016">de viltre Ranker og Blade!</l>
+                  </lg>
+                  <lg xml:id="idm140125919339456">
+                     <l xml:id="idm140125919339200">Nu søger Damen feberør</l>
+                     <l xml:id="idm140125919338752">i angstfuld Pragt, før Solen dør,</l>
+                     <l xml:id="idm140125919338288">langs Strand den Glød, hun hungrer efter.</l>
+                     <l xml:id="idm140125919337808">Hun kæmper i Stormen, med sit Slør</l>
+                     <l xml:id="idm140125919337328">og sine udbrændte Kræfter.</l>
+                  </lg>
+                  <lg xml:id="idm140125919336736">
+                     <l xml:id="idm140125919336480">Thi denne Bred, af Liv betraadt,</l>
+                     <l xml:id="idm140125919336048">hvor Bølgen koger lunt og godt,</l>
+                     <l xml:id="idm140125919335584">snart vil den høre op at gløde . . .</l>
+                     <l xml:id="idm140125919335104">og Sandet strækker sig Spøgelses-graat</l>
+                     <l xml:id="idm140125919334624">med Spor som af eneste Døde.</l>
+                  </lg>
+                  <lg xml:id="idm140125919334032">
+                     <l xml:id="idm140125919333776">En Løve hærger Livets Land,</l>
+                     <l xml:id="idm140125919333312">den pisker Vejene til Sand,</l>
+                     <l xml:id="idm140125919332880">forvandler Timerne til Ørkner.</l>
+                     <l xml:id="idm140125919332416">Den lurer bag Klittens solgule Rand</l>
+                     <l xml:id="idm140125919331984">blandt knuste Straa - til det mørkner.</l>
+                  </lg>
+                  <lg xml:id="idm140125919331376">
+                     <l xml:id="idm140125919331120">Og Kvinden aner, halvt med Gru,</l>
+                     <l xml:id="idm140125919330688">den Rovdyrfod, der brød itu</l>
+                     <l xml:id="idm140125919330224">hver Blomst, som man i Sandet planter,</l>
+                     <l xml:id="idm140125919329792">og ønsker dog i Æventyrhu</l>
+                     <l xml:id="idm140125919329344">et Solridt med Livets Panther.</l>
+                  </lg>
+                  <pb n="104" xml:id="s104" facs="adl/claussen/claussen06/claussen6104"/>
+                  <lg xml:id="idm140125919327600">
+                     <l xml:id="idm140125919327344">En Daad, før Solen gaar bag Strand!</l>
+                     <l xml:id="idm140125919326864">før Maanen - Dødens sikre Mand -</l>
+                     <l xml:id="idm140125919326400">ler frem imellem Løv og Blade,</l>
+                     <l xml:id="idm140125919325936">som var den Herre til Livets Land,</l>
+                     <l xml:id="idm140125919325504">og vi kun var Knokkelrade!</l>
+                  </lg>
+                  <lg xml:id="idm140125919324944">
+                     <l xml:id="idm140125919324688">Hvert Liv, hver Urt, som - milevidt -</l>
+                     <l xml:id="idm140125919324256">laa kvalt af Løvens Flammeskridt,</l>
+                     <l xml:id="idm140125919323792">dem sanker hun - mens Dagen brænder -</l>
+                     <l xml:id="idm140125919323312">de lever atter, de aander frit</l>
+                     <l xml:id="idm140125919322880">i hendes dugfriske Hænder.</l>
+                  </lg>
+                  <lg xml:id="idm140125919322304">
+                     <l xml:id="idm140125919322048">Jeg tror, hun selv blandt Sand og Krat</l>
+                     <l xml:id="idm140125919321616">
+                        <hi rend="italics" xml:id="idm140125919321488">har</hi> mødt den gyldne Flammekat</l>
+                     <l xml:id="idm140125919320640">og klappet blidt - da de var ene -</l>
+                     <l xml:id="idm140125919320208">med kølige Hænder, ringbesat,</l>
+                     <l xml:id="idm140125919319744">dens Pels som af Ædelstene . . .</l>
+                  </lg>
+                  <lg xml:id="idm140125919319152">
+                     <l xml:id="idm140125919318896">Og mens hun dødelig har spøgt</l>
+                     <l xml:id="idm140125919318432">og flettet Blomster, har hun søgt</l>
+                     <l xml:id="idm140125919317968">at ride Løven ned til Dammen,</l>
+                     <l xml:id="idm140125919317504">og klangfuldt lét, med en højeste Kløgt</l>
+                     <l xml:id="idm140125919317024">af Daarskab og Vid nittet sammen.</l>
+                  </lg>
+                  <lg xml:id="idm140125919316464">
+                     <l xml:id="idm140125919316208">Lær Digteren en Solbedrift</l>
+                     <l xml:id="idm140125919315760">som Kvinden uden Saar og Rift.</l>
+                     <l xml:id="idm140125919315328">Lær ham: for Tvivl sig at beskytte,</l>
+                     <l xml:id="idm140125919314848">ikke at hade sin egen Skrift,</l>
+                     <l xml:id="idm140125919314416">men tro paa sit Drømmelands Nytte.</l>
+                  </lg>
+                  <lg xml:id="idm140125919313824">
+                     <l xml:id="idm140125919313568">Der er et Løve-Æventyr</l>
+                     <l xml:id="idm140125919313120">om Ørknens Guddom-stolte Dyr,</l>
+                     <l xml:id="idm140125919312656">som kræved Skat og vælig aved</l>
+                     <l xml:id="idm140125919312192">Fatamorganas Fortids-Byr,</l>
+                     <l xml:id="idm140125919311760">som den i Sandet begraved.</l>
+                  </lg>
+                  <pb n="105" xml:id="s105" facs="adl/claussen/claussen06/claussen6105"/>
+                  <lg xml:id="idm140125919309952">
+                     <l xml:id="idm140125919309696">Et Udyr spreder Ørkenro</l>
+                     <l xml:id="idm140125919309248">i Livets Land . . . men alt vil gro,</l>
+                     <l xml:id="idm140125919308816">naar Skytten fælder Solens Panther.</l>
+                     <l xml:id="idm140125919308336">Han finder paa ny under Dyrets Klo</l>
+                     <l xml:id="idm140125919307904">Ørkenens Diamanter.</l>
+                  </lg>
+               </div>
+               <pb n="106" xml:id="s106" facs="adl/claussen/claussen06/claussen6106"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

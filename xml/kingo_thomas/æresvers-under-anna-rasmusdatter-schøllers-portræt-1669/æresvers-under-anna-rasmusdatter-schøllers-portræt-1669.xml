@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Æresvers under anna rasmusdatter schøllers portræt 1669</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid90916" decls="#biblid90916">
+            <body xml:id="idm140721238827488">
+               <head xml:id="idm140721238827232"> Under Anna Rasmusdatter Schøllers <lb xml:id="idm140721238826880"/>Portræt. <lb xml:id="idm140721238826592"/> ((daggert) 19.
+							Febr. 1669). </head>
+               <lg xml:id="idm140721238826160">
+                  <l xml:id="idm140721238825904">SEe her een ANNA, som med alle Dyder smykked</l>
+                  <l xml:id="idm140721238825456">Sit Ubesmitted Liv, hvor Herrens Naade trykked </l>
+                  <l xml:id="idm140721238825008">Et Segl i Barndoms Aar, af Ære, ynde, Held,</l>
+                  <l xml:id="idm140721238824512">Paa hendis Hierte, som var alle Dyders Veld.</l>
+                  <l xml:id="idm140721238824064">Rids hendis ansigt fuldt af Tugtighed og Ære,</l>
+                  <l xml:id="idm140721238823568">Lad hendis Adfær fuld af Dannis Fromhed være,</l>
+                  <l xml:id="idm140721238823072">Slig Dyde-farver, som best skildrer hende af, </l>
+                  <l xml:id="idm140721238822624">Giør Hende Livsom midt udi den mørke Grav.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721238822000">
+                  <hi rend="italics" xml:id="idm140721238821360">Tekstgrundlag: Müllers Pinakotek 16 Litterati
+								XXXVIII.</hi>
+                  <lb xml:id="idm140721238820688"/>I 15 </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kinesisk novelle</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140264665681152">
+                     <name xml:id="idm140264665680896">
+                        <surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140264665680016">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140264665679728">: </title>
+                  <pubPlace xml:id="idm140264665679472">[København]</pubPlace>
+                  <publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140264665678640">1982-</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59837" decls="#biblid59837">
+            <head xml:id="idm140264664828080">
+               <hi rend="italics" xml:id="idm140264664827824">KINESISK NOVELLE</hi>
+            </head>
+            <lg xml:id="idm140264664827008">
+               <l xml:id="idm140264664826752">Jeg har levet i et Kina,</l>
+               <l xml:id="idm140264664826320">da min Ungdom stod i Flor,</l>
+               <l xml:id="idm140264664825888">og har troet paa alt,</l>
+               <l xml:id="idm140264664825472">som en ung Kineser tror.</l>
+            </lg>
+            <lg xml:id="idm140264664824912">
+               <l xml:id="idm140264664824656">Pekings Børn og Pekings Blomster</l>
+               <l xml:id="idm140264664824192">kan jeg inderlig forstaa,</l>
+               <l xml:id="idm140264664823760">og jeg elsked ydmyg dem,</l>
+               <l xml:id="idm140264664823328">hvis Øjne mest var skraa.</l>
+            </lg>
+            <lg xml:id="idm140264664822752">
+               <l xml:id="idm140264664822496">Jeg har levet i et Kina</l>
+               <l xml:id="idm140264664822080">i Fornægtelsernes Tid</l>
+               <l xml:id="idm140264664821632">da saa mangen Blomst blev bleg</l>
+               <l xml:id="idm140264664821200">af en Kamp om gul og hvid.</l>
+            </lg>
+            <lg xml:id="idm140264664820640">
+               <l xml:id="idm140264664820384">I den gule Skønheds Verden</l>
+               <l xml:id="idm140264664819936">kom den kaade til kort,</l>
+               <l xml:id="idm140264664819520">og Livet er en Tugt,</l>
+               <l xml:id="idm140264664819104">hvor Smilet lægges bort.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

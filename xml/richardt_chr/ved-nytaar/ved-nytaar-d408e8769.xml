@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ved nytaar.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140152138539728">
+                     <name xml:id="idm140152138539472">
+                        <surname xml:id="idm140152138539344">Richardt</surname>,
+      <forename xml:id="idm140152138538928">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140152138538640">Samlede Digte. Tredje Deel.</title>
+                  <pubPlace xml:id="idm140152138538336">København</pubPlace>
+                  <date xml:id="idm140152138537824">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid71153" decls="#biblid71153">
+            <head xml:id="idm140152136356800">Ved Nytaar.</head>
+            <lg xml:id="idm140152136356384">
+               <l xml:id="idm140152136356128">Som en Viser paa en Korsvej</l>
+               <l xml:id="idm140152136355696">Nytaars-Kvelden plantet staar;</l>
+               <l xml:id="idm140152136355264">peger ud mod Fremtids-Dage,</l>
+               <l xml:id="idm140152136354832">og i samme Nu tilbage</l>
+               <l xml:id="idm140152136354416">mod det nys forsvundne Aar!</l>
+               <l xml:id="idm140152136353984">Ud i Taagerne det gaar -</l>
+               <l xml:id="idm140152136353552">neppe Julebarnet vugges,</l>
+               <l xml:id="idm140152136353120">førend Aarets Fakkel slukkes.</l>
+            </lg>
+            <lg xml:id="idm140152136352528">
+               <l xml:id="idm140152136352272">Aaret døer - men Arven bliver,</l>
+               <l xml:id="idm140152136351808">Sæd til Smil, dog mest til Graad -</l>
+               <l xml:id="idm140152136351344">skjøndt de tusind Ting vi haabe,</l>
+               <l xml:id="idm140152136350880">veed vi, Eftermandens Kaabe</l>
+               <l xml:id="idm140152136350448">væves af hans Formands Daad.</l>
+               <l xml:id="idm140152136349984">Hjertet bærer <hi rend="italics" xml:id="idm140152136349680">med</hi> sin Braad -</l>
+               <l xml:id="idm140152136348816">ny er Vejen vi skal vandre</l>
+               <l xml:id="idm140152136348384">men vi selv blev ej til Andre.</l>
+            </lg>
+            <lg xml:id="idm140152136347824">
+               <l xml:id="idm140152136347568">Gud skee Lov, at gjennem Taagen</l>
+               <l xml:id="idm140152136347136">Julebarnet med os gaar!</l>
+               <pb n="132" facs="adl/richardt/richardt3/rich3132" xml:id="idm140152136346720"/>
+               <l xml:id="idm140152136345952">Thi ved Ham vi kan fornyes -</l>
+               <l xml:id="idm140152136345520">selv om snetung Himlen skyes,</l>
+               <l xml:id="idm140152136345088">bringer Solskin han og Vaar!</l>
+               <l xml:id="idm140152136344656">Han er Verdens nye Aar!</l>
+               <l xml:id="idm140152136344240">Han er Vejen vi skal vandre,</l>
+               <l xml:id="idm140152136343808">
+                  <hi rend="italics" xml:id="idm140152136343680">han</hi> kan Mennesker forandre!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

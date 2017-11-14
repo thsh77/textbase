@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bønnen.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62783" decls="#biblid62783">
+            <head xml:id="idm140352322634336">Bønnen.</head>
+            <lg xml:id="idm140352322633920">
+               <l xml:id="idm140352322633664">Naar Jorden stønner blussende <hi rend="italics" xml:id="idm140352322633328">og</hi> hed,</l>
+               <l xml:id="idm140352322632512">og ingen Sky sin Svalhed vil nedaande,</l>
+               <l xml:id="idm140352322632080">da hyller den i Slør sig som en Nonne,</l>
+               <l xml:id="idm140352322631600">de hvide Taager vidne hvad den led.</l>
+            </lg>
+            <lg xml:id="idm140352322631040">
+               <l xml:id="idm140352322630784">Men see, de samme Taager synke ned</l>
+               <l xml:id="idm140352322630352">og falde kvægende paa al dens Vaande;</l>
+               <l xml:id="idm140352322629872">nu faaer den Svaling af sin egen Aande,</l>
+               <l xml:id="idm140352322629440">som bringer Blomsterkalken Duggens Fred.</l>
+            </lg>
+            <lg xml:id="idm140352322628864">
+               <l xml:id="idm140352322628608">
+                  <hi rend="italics" xml:id="idm140352322628480">Saa</hi> stiger Bønnen fra det bange Hjerte,</l>
+               <l xml:id="idm140352322627600">der brænder hedere end Jordens Bryst,</l>
+               <l xml:id="idm140352322627120">i Bøn det aander ud sin Nød og Smerte;</l>
+            </lg>
+            <lg xml:id="idm140352322626512">
+               <l xml:id="idm140352322626256">da daler den igjen med Aandens Trøst:</l>
+               <l xml:id="idm140352322625776">den samme Bøn, der steg i Nattens Stille,</l>
+               <l xml:id="idm140352322625296">blev ved Guds Faderfavn en Fredens Kilde.</l>
+            </lg>
+            <pb n="65" facs="adl/richardt/richardt2/rich2065" xml:id="idm140352322624720"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Under fremmed navn.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid99686" decls="#biblid99686">
+            <head xml:id="idm140352318106384">Under fremmed Navn.</head>
+            <lg xml:id="idm140352318105968">
+               <l xml:id="idm140352318105712">Da Himlen og sin Faders Favn</l>
+               <l xml:id="idm140352318105280">Han bytted med det Lave,</l>
+               <pb n="368" facs="adl/richardt/richardt2/rich2368" xml:id="idm140352318104848"/>
+               <l xml:id="idm140352318104080">forklædt og under fremmed Navn</l>
+               <l xml:id="idm140352318103616">Han gik blandt Jordens Grave -</l>
+               <l xml:id="idm140352318103184">ja som en jordisk Kongesøn,</l>
+               <l xml:id="idm140352318102720">der drager udenlands iløn,</l>
+               <l xml:id="idm140352318102272">og seent sig aabenbarer,</l>
+               <l xml:id="idm140352318101840">
+                  <hi rend="italics" xml:id="idm140352318101712">saa</hi> Herren fra sin Barndoms Plet</l>
+               <l xml:id="idm140352318100880">som Tømmermand fra Nazareth</l>
+               <l xml:id="idm140352318100416">drog ud blandt Israels Skarer.</l>
+            </lg>
+            <lg xml:id="idm140352318099856">
+               <l xml:id="idm140352318099600">Forklædt og under fremmed Navn</l>
+               <l xml:id="idm140352318099136">hans Tjenerflok end vanker,</l>
+               <l xml:id="idm140352318098704">formummede som Sorg og Savn</l>
+               <l xml:id="idm140352318098272">de tidt paa Døren banker!</l>
+               <l xml:id="idm140352318097824">Drag ej tilbage flux din Haand,</l>
+               <l xml:id="idm140352318097392">frygt ej det mørke Klædemon,</l>
+               <l xml:id="idm140352318096928">luk op! og see i Øje!</l>
+               <l xml:id="idm140352318096480">Thi kaster Sorgen Hætten sin,</l>
+               <l xml:id="idm140352318096016">hun staar i Fredens hvide Lin</l>
+               <l xml:id="idm140352318095584">med Hilsen fra det Høje.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

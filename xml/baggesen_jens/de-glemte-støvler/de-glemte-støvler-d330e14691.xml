@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De glemte støvler</title>
+            <author>Baggesen, Jens</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140651424342432">
+                     <name xml:id="idm140651424342176">
+                        <surname xml:id="idm140651424342048">Baggesen</surname>, <forename xml:id="idm140651424341584">Jens</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140651424341296"> Riimbreve og poetiske Epistler. 1. Samling, 1784-1808. - 1890</title>
+                  <pubPlace xml:id="idm140651424340960">København</pubPlace>
+                  <date xml:id="idm140651424340448">1889-1903</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid83417" decls="#biblid83417">
+            <head xml:id="idm140651420734736">De glemte Støvler.</head>
+            <opener xml:id="idm140651420734304">Til Digteren Øhlenschlæger.<lb xml:id="idm140651420733968"/> Paris, 1807.</opener>
+            <lg xml:id="idm140651420733552">
+               <l xml:id="idm140651420733296">Jeg er ei rigtig i min Krop,</l>
+               <l xml:id="idm140651420732864">Saalidt som i den Kno paa Fingren,</l>
+               <l xml:id="idm140651420732432">Der saaret blev i sidste Hop</l>
+               <l xml:id="idm140651420732000">Med ham, der selv til Hammersvingren,</l>
+               <l xml:id="idm140651420731568">Hvis Dyst han bød ham, sagde Top.</l>
+               <l xml:id="idm140651420731104">Jeg stod og lidt for sildig op -</l>
+               <l xml:id="idm140651420730672">Fordi jeg gik i Seng for silde;</l>
+               <l xml:id="idm140651420730240">I Halsen sidder mig en Prop</l>
+               <l xml:id="idm140651420729808">Af Fløten efter sidste Gilde,</l>
+               <l xml:id="idm140651420729344">Hvori Dulon jeg være vilde -</l>
+               <l xml:id="idm140651420728880">En Prop, som knap bltr trukken op</l>
+               <l xml:id="idm140651420728448">Af nogen anden Proppetrækker</l>
+               <l xml:id="idm140651420727984">End den, der selve Flasken brækker</l>
+               <l xml:id="idm140651420727520">Og siger til min Fløiten Stop.</l>
+            </lg>
+            <lg xml:id="idm140651420726928">
+               <l xml:id="idm140651420726672">Aarsagen, hvi jeg dette vrøvler,</l>
+               <l xml:id="idm140651420726208">Ved Hielp af en elendig Pen,</l>
+               <l xml:id="idm140651420725776">Til dig, min gode friske Ven,</l>
+               <l xml:id="idm140651420725344">Er, sandt at sige, mine Støvler -</l>
+               <l xml:id="idm140651420724880">Som, hvis jeg ret besinder mig,</l>
+               <l xml:id="idm140651420724448">Jeg lod i Aftes staae hos dig -</l>
+               <l xml:id="idm140651420724016">Og som jeg paa min Portners Vinge</l>
+               <l xml:id="idm140651420723584">Fra høien Lidskialf, hvor du boer*),</l>
+            </lg>
+            <note anchored="true" xml:id="idm140651420722976">*) Place du Carrousel, hotel des Quinze-vingt, au 6me.</note>
+            <pb n="188" xml:id="s188" facs="adl/baggesen/baggesen2/bagg2188"/>
+            <lg xml:id="idm140651420721072">
+               <l xml:id="idm140651420720816">Mig gierne ned igien lod bringe</l>
+               <l xml:id="idm140651420720384">Paa den besølte franske Jord.</l>
+               <l xml:id="idm140651420719920">I Silkestrømper kan jeg ikke</l>
+               <l xml:id="idm140651420719456">Dig dette Bud personlig skikke;</l>
+               <l xml:id="idm140651420719024">Dertil er Veien alt for myg,</l>
+               <l xml:id="idm140651420718592">Dertil er Strømperne for nette,</l>
+               <l xml:id="idm140651420718128">Og Skoene ei noksom tætte,</l>
+               <l xml:id="idm140651420717680">Og jeg desuden selv for syg.</l>
+               <l xml:id="idm140651420717248">Lev vel! og hav mig altid kiær,</l>
+               <l xml:id="idm140651420716784">Naar jeg er vittig, naar jeg vrøvler;</l>
+               <l xml:id="idm140651420716304">Naar jeg er vaagen, naar jeg snøvler;</l>
+               <l xml:id="idm140651420715824">Naar jeg er siern, naar jeg er nær -</l>
+               <l xml:id="idm140651420715344">Med eller uden Skoe og Støvler -</l>
+               <l xml:id="idm140651420714880">Frisk eller syg - og overbær</l>
+               <l xml:id="idm140651420714416">Med Sluddren i Billetten her!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

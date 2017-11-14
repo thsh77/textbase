@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tusmørket . . .</title>
+            <author>Claussen, Sophus</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140264665681152">
+                     <name xml:id="idm140264665680896">
+                        <surname xml:id="idm140264665680768">Claussen</surname>, <forename xml:id="idm140264665680304">Sophus</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140264665680016">Sophus Claussens lyrik</title>
+                  <title xml:id="idm140264665679728">: </title>
+                  <pubPlace xml:id="idm140264665679472">[København]</pubPlace>
+                  <publisher xml:id="idm140264665679008">Det Danske Sprog- og Litteraturselskab ; Gyldendal</publisher>
+                  <date xml:id="idm140264665678640">1982-</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60642" decls="#biblid60642">
+            <head xml:id="idm140264664723120">
+               <hi rend="italics" xml:id="idm140264664722992">TUSMØRKET</hi> . . .</head>
+            <div xml:id="workid60653" decls="#biblid60653">
+               <lg xml:id="idm140264664721248">
+                  <l xml:id="idm140264664720992">Tusmørket sniger sig ind i mit Rige,</l>
+                  <l xml:id="idm140264664720512">Solen blir hedere nu.</l>
+                  <l xml:id="idm140264664720096">Høsten er rød, nu maa Sommeren vige,</l>
+                  <l xml:id="idm140264664719616">Luften bliver sødere, blaa og ru.</l>
+               </lg>
+            </div>
+            <div xml:id="workid60674" decls="#biblid60674">
+               <lg xml:id="idm140264664717888">
+                  <l xml:id="idm140264664717632">Det er smukt, en rødgylden Alle</l>
+                  <l xml:id="idm140264664717168">benad Tusmørkets Tid,</l>
+                  <l xml:id="idm140264664716720">mens September endnu staar frisk</l>
+                  <l xml:id="idm140264664716288">med de grønlige Veje.</l>
+                  <l xml:id="idm140264664715840">Hvorfor taber jeg idelig alt,</l>
+                  <l xml:id="idm140264664715408">hvad jeg helst burde eje.</l>
+                  <l xml:id="idm140264664714976">Det er smukt, en rødgylden Alle</l>
+                  <l xml:id="idm140264664714512">henad Tusmørkets Tid.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

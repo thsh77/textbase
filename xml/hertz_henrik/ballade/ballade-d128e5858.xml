@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ballade</title>
+            <author>Hertz, Henrik</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139668653829872">
+                     <name xml:id="idm139668653829616">
+                        <surname xml:id="idm139668653829488">Hertz</surname>, <forename xml:id="idm139668653829056">Henrik</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139668653828768">Digte fra forskjellige Perioder</title>
+                  <pubPlace xml:id="idm139668653828464">København</pubPlace>
+                  <date xml:id="idm139668653827952">1851-1862</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid66488" decls="#biblid66488">
+            <head xml:id="idm139668652257312">Ballade.</head>
+            <lg xml:id="idm139668652256896">
+               <l xml:id="idm139668652256640">I Achelos sidder sorgfri</l>
+               <l xml:id="idm139668652256208">Michalistos i sin Gaard.</l>
+               <l xml:id="idm139668652255776">Han er munter, thi hans unge</l>
+               <l xml:id="idm139668652255344">Hustru ved hans Side staaer.</l>
+               <l xml:id="idm139668652254912">Nattens Dæmring alt sig nærmer;</l>
+               <l xml:id="idm139668652254448">Det bekymrer ham ei stort.</l>
+               <l xml:id="idm139668652254016">Ved et Bæger Viin han sværmer -</l>
+               <l xml:id="idm139668652253552">Da det banker paa hans Port.</l>
+            </lg>
+            <lg xml:id="idm139668652252992">
+               <l xml:id="idm139668652252736">Udenfor Kapidschi Baschi</l>
+               <l xml:id="idm139668652252304">Holder med en Flok tilhest.</l>
+               <l xml:id="idm139668652251872">»Hil dig!« siger Michalistos;</l>
+               <l xml:id="idm139668652251440">»Ædle Herre! vær min Gjæst.«</l>
+               <l xml:id="idm139668652251008">- »Ei vi komme for at drikke« -</l>
+               <l xml:id="idm139668652250544">Bryder hiin med Strenghed ud;</l>
+               <l xml:id="idm139668652250112">»For at sværme kom jeg ikke.</l>
+               <l xml:id="idm139668652249680">Reis dig op, og hør mit Bud!</l>
+            </lg>
+            <pb n="139" xml:id="s139" facs="adl/hertz/hertz10/hertz10139"/>
+            <lg xml:id="idm139668652247904">
+               <l xml:id="idm139668652247648">»Michalistos! du er domfældt,</l>
+               <l xml:id="idm139668652247216">Du, din Eiendom, din Viv!</l>
+               <l xml:id="idm139668652246784">I Divanet en Beslutning</l>
+               <l xml:id="idm139668652246368">Rettet er mod eders Liv.«</l>
+               <l xml:id="idm139668652245920">- Micholistos' Hustru blegner;</l>
+               <l xml:id="idm139668652245488">Selv han smiler stolt derved.</l>
+               <l xml:id="idm139668652245056">Og der skydes, og han segner,</l>
+               <l xml:id="idm139668652244624">Og hans unge Hustru med.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

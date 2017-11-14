@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Finland</title>
+            <author>Brandes, Georg</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140687029675216">
+                     <name xml:id="idm140687029674960">
+                        <surname xml:id="idm140687029674832">Brandes</surname>, <forename xml:id="idm140687029674400">Georg</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140687029674112">Samlede Skrifter</title>
+                  <pubPlace xml:id="idm140687029673824">København</pubPlace>
+                  <date xml:id="idm140687029673312">1899-1910</date>
+                  <biblScope>298-303</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid56349" decls="#biblid56349">
+            <body xml:id="idm140687029369744">
+               <pb n="299" facs="adl/brandes/brand11/bran11299" xml:id="idm140687029369488"/>
+               <pb n="300" facs="adl/brandes/brand11/bran11300" xml:id="idm140687029368720"/>
+               <pb n="301" facs="adl/brandes/brand11/bran11301" xml:id="idm140687029367904"/>
+               <pb n="302" facs="adl/brandes/brand11/bran11302" xml:id="idm140687029367088"/>
+               <pb n="303" facs="adl/brandes/brand11/bran11303" xml:id="idm140687029366320"/>
+               <p xml:id="idm140687029365504"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

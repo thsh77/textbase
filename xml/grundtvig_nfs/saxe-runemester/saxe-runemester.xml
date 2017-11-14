@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saxe runemester</title>
+            <author>Grundtvig, N. F. S.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140015235768688">
+                     <name xml:id="idm140015235768432">
+                        <surname xml:id="idm140015235768304">Grundtvig</surname>, <forename xml:id="idm140015235767872">N. F. S.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140015235767584">N. F. S. Grundtvigs udvalgte Skrifter</title>
+                  <pubPlace xml:id="idm140015235767280">København</pubPlace>
+                  <publisher xml:id="idm140015235766816">Gyldendalske Boghandel</publisher>
+                  <date xml:id="idm140015235766480">1904-1909</date>
+                  <biblScope>196-199</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid75347" decls="#biblid75347">
+            <front xml:id="idm140015233186432">
+               <div xml:id="idm140015233186176">
+                  <head xml:id="idm140015233185920">TILLÆG.</head>
+                  <p xml:id="idm140015233185504">I 1855 udkom <hi rend="italics" xml:id="idm140015233185216"><!--<emph>-->Anden Udgave<!--</emph>--></hi> af <hi rend="bold" xml:id="idm140015233184176">Danmarks Krønike af SaxeRunemester</hi>, <hi rend="italics" xml:id="idm140015233183440"><!--<emph>-->fordansket<!--</emph>--></hi> ved <hi rend="italics" xml:id="idm140015233182400"><!--<emph>-->N. F. S. Grundtvig<!--</emph>--></hi>, med følgende <hi rend="italics" xml:id="idm140015233181312"><!--<emph>-->Indledningsdigt<!--</emph>--></hi> og <hi rend="italics" xml:id="idm140015233180304"><!--<emph>-->Forord<!--</emph>--></hi>:</p>
+               </div>
+               <titlePage xml:id="idm140015233179008">
+                  <titlePart type="main" xml:id="idm140015233178752">
+                     <hi rend="bold" xml:id="idm140015233178256">Saxe Runemester.</hi>
+                  </titlePart>
+               </titlePage>
+            </front>
+            <body xml:id="idm140015233177184">
+               <div xml:id="idm140015233176928">
+                  <lg xml:id="idm140015233176672">
+                     <l xml:id="idm140015233176416">
+                        <hi rend="italics" xml:id="idm140015233176288"><!--<emph>-->Saxe Lange!<!--</emph>--></hi> Sællandsfar!</l>
+                     <l xml:id="idm140015233175072">Kæmpe-Søn fra Konge-Leiren,</l>
+                     <l xml:id="idm140015233174608">Som til Navnet <hi rend="italics" xml:id="idm140015233174352"><!--<emph>-->»Valdemar«<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm140015233173184">Kiæded med sit Storværk Seiren!</l>
+                     <l xml:id="idm140015233172720">
+                        <hi rend="italics" xml:id="idm140015233172592"><!--<emph>-->Axel Hvides<!--</emph>--></hi> Fostersøn!</l>
+                     <l xml:id="idm140015233171408">Nordens Aand og Danmarks Hjerte</l>
+                     <l xml:id="idm140015233170976">Dig har lyst i Kuld og Kiøn,</l>
+                     <l xml:id="idm140015233170512">Du for dem bar Blus og Kierte.</l>
+                  </lg>
+                  <lg xml:id="idm140015233169952">
+                     <l xml:id="idm140015233169696">Om du førde i dit Skiold</l>
+                     <l xml:id="idm140015233169248">
+                        <hi rend="italics" xml:id="idm140015233169120"><!--<emph>-->Langers<!--</emph>--></hi> Vaaben, »Roser trende«,</l>
+                     <l xml:id="idm140015233167920">
+                        <hi rend="italics" xml:id="idm140015233167792"><!--<emph>-->Derpaa<!--</emph>--></hi> Stue-Lærdom gold</l>
+                     <l xml:id="idm140015233166608">Tygge kan til Verdens Ende;</l>
+                     <l xml:id="idm140015233166176">Men du førde i dit Skiold</l>
+                     <l xml:id="idm140015233165728">Danmarks Saar og Danmarks <hi rend="italics" xml:id="idm140015233165424"><!--<emph>-->Seier<!--</emph>--></hi>,</l>
+                     <l xml:id="idm140015233164288">Som med Glands fra Old til Old</l>
+                     <l xml:id="idm140015233163856">Vaaben alle overveier.</l>
+                  </lg>
+                  <lg xml:id="idm140015233163344">
+                     <l xml:id="idm140015233163088">Ogsaa det er Smaating kun,</l>
+                     <l xml:id="idm140015233162656">Om endnu i vore Tider</l>
+                     <l xml:id="idm140015233162240">Findes i vor grønne Lund</l>
+                     <l xml:id="idm140015233161792">Skud af <hi rend="italics" xml:id="idm140015233161504"><!--<emph>-->Langer<!--</emph>--></hi> og af <hi rend="italics" xml:id="idm140015233160464"><!--<emph>-->Hvider<!--</emph>--></hi>,</l>
+                     <pb n="197" xml:id="s197" facs="adl/grundtvig/grundtvig04/grun4197"/>
+                     <l xml:id="idm140015233158192">Naar endnu sin Krone har</l>
+                     <l xml:id="idm140015233157760">Som vort Stamtræ »Dronning-Bøgen«,</l>
+                     <l xml:id="idm140015233157280">Saa i Mai paa Kvisten bar</l>
+                     <l xml:id="idm140015233156848">Kukker aldrig Sællands-Giøgen.</l>
+                  </lg>
+                  <lg xml:id="idm140015233156256">
+                     <l xml:id="idm140015233156000">Da sin Rose faaer hver Torn</l>
+                     <l xml:id="idm140015233155568">I de lange Sommerdage;</l>
+                     <l xml:id="idm140015233155152">Ved hvert Stød i <hi rend="italics" xml:id="idm140015233154848"><!--<emph>-->Gjallarhorn<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm140015233153680">Sværde blinke, Skjolde brage,</l>
+                     <l xml:id="idm140015233153216">Sættes paa det sorte Bræt</l>
+                     <l xml:id="idm140015233152768">Fiende hver ad Danmarks Rige,</l>
+                     <l xml:id="idm140015233152336">Mens sin Priis hver Dansk Idræt</l>
+                     <l xml:id="idm140015233151872">Faaer af Mund og Pen tillige.</l>
+                  </lg>
+                  <lg xml:id="idm140015233151312">
+                     <l xml:id="idm140015233151056">
+                        <hi rend="italics" xml:id="idm140015233150928"><!--<emph>-->Saxe Dansker!<!--</emph>--></hi> din Idræt</l>
+                     <l xml:id="idm140015233149792">Da ei heller Rosen mister,</l>
+                     <l xml:id="idm140015233149360">Hvortil du har Odelsret,</l>
+                     <l xml:id="idm140015233148928">Vor Guldalders Runerister!</l>
+                     <l xml:id="idm140015233148496">Værne om dit Hædersnavn</l>
+                     <l xml:id="idm140015233148048">Vil Skjoldunger og Skjoldmøer,</l>
+                     <l xml:id="idm140015233147584">Giælde for din Fødestavn</l>
+                     <l xml:id="idm140015233147136">Alle Danevangens Øer!</l>
+                  </lg>
+                  <lg xml:id="idm140015233146560">
+                     <l xml:id="idm140015233146304">Hvergang om Kong <hi rend="italics" xml:id="idm140015233146016"><!--<emph>-->Fredegod<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm140015233144848">Synger lydt i Skoven <hi rend="italics" xml:id="idm140015233144592"><!--<emph>-->Hjærne<!--</emph>--></hi>,</l>
+                     <l xml:id="idm140015233143424">Hvergang <hi rend="italics" xml:id="idm140015233143168"><!--<emph>-->Uffes<!--</emph>--></hi> Heltemod</l>
+                     <l xml:id="idm140015233142000">Priser Danmarks Lykke-Stjerne,</l>
+                     <l xml:id="idm140015233141568">Rygtet gaaer fra Ø til Ø</l>
+                     <l xml:id="idm140015233141120">Om din Pen af Svane-Vinge,</l>
+                     <l xml:id="idm140015233140688">Barnefødt i <hi rend="italics" xml:id="idm140015233140384"><!--<emph>-->Urdas<!--</emph>--></hi> Sø</l>
+                     <l xml:id="idm140015233139216">Til ved Svanesang at klinge!</l>
+                  </lg>
+                  <lg xml:id="idm140015233138656">
+                     <l xml:id="idm140015233138400">Ogsaa mig paa Vuggen gav</l>
+                     <l xml:id="idm140015233137968">Svane-Pen den høie <hi rend="italics" xml:id="idm140015233137648"><!--<emph>-->Norne<!--</emph>--></hi>,</l>
+                     <l xml:id="idm140015233136480">Spaaed mig med Saga-Stav</l>
+                     <l xml:id="idm140015233136048">Rosen-Skrift imellem Torne;</l>
+                     <l xml:id="idm140015233135616">Derfor som et Tvilling-Par,</l>
+                     <l xml:id="idm140015233135184">Voxet ud af samme Vinge,</l>
+                     <l xml:id="idm140015233134752">Nu fra <hi rend="italics" xml:id="idm140015233134496"><!--<emph>-->Dan<!--</emph>--></hi> til <hi rend="italics" xml:id="idm140015233133456"><!--<emph>-->Valdemar<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm140015233132288">Vore Penne sammenklinge.</l>
+                  </lg>
+                  <pb n="198" xml:id="s198" facs="adl/grundtvig/grundtvig04/grun4198"/>
+                  <lg xml:id="idm140015233130528">
+                     <l xml:id="idm140015233130272">Saga-Broder! længe nok</l>
+                     <l xml:id="idm140015233129824">For <hi rend="italics" xml:id="idm140015233129536"><!--<emph>-->Latinen<!--</emph>--></hi> du har bødet,</l>
+                     <l xml:id="idm140015233128320">Som om du af Steen og Stok</l>
+                     <l xml:id="idm140015233127888">Var udsprunget og opglødet,</l>
+                     <l xml:id="idm140015233127424">Som om Fru <hi rend="italics" xml:id="idm140015233127168"><!--<emph>-->Grammatica<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm140015233126000">Steendød var din søde Moder,</l>
+                     <l xml:id="idm140015233125536">Og din <hi rend="italics" xml:id="idm140015233125280"><!--<emph>-->classiske Papa<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm140015233124112">Stokdøv Pen med Romer-Noder;</l>
+                  </lg>
+                  <lg xml:id="idm140015233123520">
+                     <l xml:id="idm140015233123264">Nu, saa vist, som <hi rend="italics" xml:id="idm140015233123008"><!--<emph>-->Danske<!--</emph>--></hi> Ord</l>
+                     <l xml:id="idm140015233121840">Rod i <hi rend="italics" xml:id="idm140015233121552"><!--<emph>-->Danske<!--</emph>--></hi> Øren fæster,</l>
+                     <l xml:id="idm140015233120336">Du herefter trindt i Nord</l>
+                     <l xml:id="idm140015233119904">Nævnes <hi rend="italics" xml:id="idm140015233119648"><!--<emph>-->Saxe Runemester<!--</emph>--></hi>;</l>
+                     <l xml:id="idm140015233118480">I din <hi rend="italics" xml:id="idm140015233118224"><!--<emph>-->Danske<!--</emph>--></hi> Fødestavn</l>
+                     <l xml:id="idm140015233117056">Kun Gjengangere og Trolde</l>
+                     <l xml:id="idm140015233116624">Dit <hi rend="italics" xml:id="idm140015233116336"><!--<emph>-->latinske<!--</emph>--></hi> Øgenavn</l>
+                     <l xml:id="idm140015233115168">Harme skal herefter volde.</l>
+                  </lg>
+                  <lg xml:id="idm140015233114608">
+                     <l xml:id="idm140015233114352">Hvad jeg alt i Ungdoms-Aar</l>
+                     <l xml:id="idm140015233113920">Modig stræhde at udrette,</l>
+                     <l xml:id="idm140015233113472">rones under hvide Haar</l>
+                     <l xml:id="idm140015233113056">Ved dit <hi rend="italics" xml:id="idm140015233112768"><!--<emph>-->Navn<!--</emph>--></hi> at oversætte,</l>
+                     <l xml:id="idm140015233111552">Romer-Trolden, jettestærk,</l>
+                     <l xml:id="idm140015233111104">Først tilgavns er overvundet,</l>
+                     <l xml:id="idm140015233110640">Nu, da til dit <hi rend="italics" xml:id="idm140015233110384"><!--<emph>-->Mester-Værk<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm140015233109200">Vi dit <hi rend="italics" xml:id="idm140015233108944"><!--<emph>-->Mester-Navn<!--</emph>--></hi> har fundet.</l>
+                  </lg>
+                  <lg xml:id="idm140015233107648">
+                     <l xml:id="idm140015233107392">
+                        <hi rend="italics" xml:id="idm140015233107264"><!--<emph>-->Saxe Dansker!<!--</emph>--></hi> gamle Ven,</l>
+                     <l xml:id="idm140015233106096">
+                        <hi rend="italics" xml:id="idm140015233105968"><!--<emph>-->Dansk<!--</emph>--></hi> selv i <hi rend="italics" xml:id="idm140015233104928"><!--<emph>-->Latinens<!--</emph>--></hi> Lænker!</l>
+                     <l xml:id="idm140015233103760">Runemester er kun den,</l>
+                     <l xml:id="idm140015233103344">Der kan skrive, som han tænker,</l>
+                     <l xml:id="idm140015233102880">Der kan tænke frit og fort,</l>
+                     <l xml:id="idm140015233102416">Der kan tegne Lys og Skygger,</l>
+                     <l xml:id="idm140015233101984">Der kan tegne Hvidt og Sort,</l>
+                     <l xml:id="idm140015233101552">Tegne alt, hvad Ord udtrykker!</l>
+                  </lg>
+                  <lg xml:id="idm140015233100992">
+                     <l xml:id="idm140015233100736">Nu udfritter vi med Flid</l>
+                     <l xml:id="idm140015233100304">Alle vore <hi rend="italics" xml:id="idm140015233100016"><!--<emph>-->tyske Giæster<!--</emph>--></hi>,</l>
+                     <l xml:id="idm140015233098832">Om de har fra <hi rend="italics" xml:id="idm140015233098576"><!--<emph>-->»Rødskiægs«<!--</emph>--></hi> Tid</l>
+                     <l xml:id="idm140015233097408">Mage til vor <hi rend="italics" xml:id="idm140015233097120"><!--<emph>-->Runemester<!--</emph>--></hi>,</l>
+                     <pb n="199" xml:id="s199" facs="adl/grundtvig/grundtvig04/grun4199"/>
+                     <l xml:id="idm140015233094736">Som, i romersk Bast og Baand,</l>
+                     <l xml:id="idm140015233094304">Reise kunde Runestene</l>
+                     <l xml:id="idm140015233093888">For hver Helt i <hi rend="italics" xml:id="idm140015233093600"><!--<emph>-->Nordens Aand<!--</emph>--></hi>,</l>
+                     <l xml:id="idm140015233092432">For hver Fugl paa <hi rend="italics" xml:id="idm140015233092176"><!--<emph>-->Bøgens<!--</emph>--></hi> Grene!</l>
+                  </lg>
+                  <lg xml:id="idm140015233090880">
+                     <l xml:id="idm140015233090624">Skam af dig vi fik dog kun,</l>
+                     <l xml:id="idm140015233090192">Og af alle <hi rend="italics" xml:id="idm140015233089904"><!--<emph>-->Danske<!--</emph>--></hi> Helte,</l>
+                     <l xml:id="idm140015233088736">Sang ei længer Fugl i Lund</l>
+                     <l xml:id="idm140015233088288">Liflig mellem Sund og Belte;</l>
+                     <l xml:id="idm140015233087856">Havde paa de Danske Øer</l>
+                     <l xml:id="idm140015233087408">Under Freias Aften-Stjerne</l>
+                     <l xml:id="idm140015233086976">Fuglen meer ei Næb og Kløer</l>
+                     <l xml:id="idm140015233086512">Til om Rede sin at værne.</l>
+                  </lg>
+                  <lg xml:id="idm140015233085936">
+                     <l xml:id="idm140015233085680">
+                        <hi rend="italics" xml:id="idm140015233085552"><!--<emph>-->»Unge Danmark«<!--</emph>--></hi>, glem det ei!</l>
+                     <l xml:id="idm140015233084384">Lad det spørges over Vove:</l>
+                     <l xml:id="idm140015233083936">Vi har end et Fugle-Hei</l>
+                     <l xml:id="idm140015233083520">I de faure Bøge-Skove,</l>
+                     <l xml:id="idm140015233083072">Som til gamle Kæmpers Skaal,</l>
+                     <l xml:id="idm140015233082608">Medens Nyt der er i Giære,</l>
+                     <l xml:id="idm140015233082160">Kvæde kan vort Bjarkemaal,</l>
+                     <l xml:id="idm140015233081712">Giøre Brage-Bægret Ære!</l>
+                  </lg>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

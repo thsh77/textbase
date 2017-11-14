@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paa kjære grave.</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139850578428432">
+                     <name xml:id="idm139850578428176">
+                        <surname xml:id="idm139850578428048">Aakjær</surname>, <forename xml:id="idm139850578427616">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139850578427328"> Digte 1908-1918. - 1918</title>
+                  <pubPlace xml:id="idm139850578427024">København</pubPlace>
+                  <pubPlace xml:id="idm139850578426560">Kristiania</pubPlace>
+                  <publisher xml:id="idm139850578426096">Gyldendal</publisher>
+                  <date xml:id="idm139850578425760">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid61420" decls="#biblid61420">
+            <head xml:id="idm139850577365168">
+               <hi rend="italics" xml:id="idm139850577365040"><!--<emph>-->PAA KJÆRE GRAVE<!--</emph--></hi>.</head>
+            <lg xml:id="idm139850577363856">
+               <head xml:id="idm139850577363600">I.</head>
+               <l xml:id="idm139850577363168">SAA mangen Slægt lig knækket Rør</l>
+               <l xml:id="idm139850577362704">sank ned for denne Kirkedør.</l>
+               <l xml:id="idm139850577362240">Velsignet I, som segned her</l>
+               <l xml:id="idm139850577361808">i Læ for Sorgers Bygevejr.</l>
+            </lg>
+            <pb n="31" xml:id="s31" facs="adl/aakjaer/aakjaer2/aakj2031"/>
+            <lg xml:id="idm139850577360064">
+               <head xml:id="idm139850577359808">II.</head>
+               <l xml:id="idm139850577359424">I ærlig Kamp, i ydmyg Tro</l>
+               <l xml:id="idm139850577358976">I stille stred for Børn og Bo.</l>
+               <l xml:id="idm139850577358512">Slog Kornet fejl paa karrig Jord,</l>
+               <l xml:id="idm139850577358080">I rejstes ved et Fadervor.</l>
+            </lg>
+            <trailer xml:id="idm139850577357520">
+               <date xml:id="idm139850577357392">Januar 1910</date>.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

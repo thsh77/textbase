@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hede-gran og jule-gran.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140152138539728">
+                     <name xml:id="idm140152138539472">
+                        <surname xml:id="idm140152138539344">Richardt</surname>,
+      <forename xml:id="idm140152138538928">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140152138538640">Samlede Digte. Tredje Deel.</title>
+                  <pubPlace xml:id="idm140152138538336">København</pubPlace>
+                  <date xml:id="idm140152138537824">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid65178" decls="#biblid65178">
+            <head xml:id="idm140152137083728">Hede-Gran og Jule-Gran.</head>
+            <lg xml:id="idm140152137083312">
+               <l xml:id="idm140152137083056">Granen den grønne er Bebudelsens Træ</l>
+               <l xml:id="idm140152137082576">paa Ødemark, paa Sandjord og Heder;</l>
+               <l xml:id="idm140152137082096">den varsler om kommende Løvskovs Læ -</l>
+               <l xml:id="idm140152137081616">det er <hi rend="italics" xml:id="idm140152137081328">den</hi>, som Lejet dem bereder!</l>
+            </lg>
+            <pb n="85" facs="adl/richardt/richardt3/rich3085" xml:id="idm140152137080368"/>
+            <lg xml:id="idm140152137079600">
+               <l xml:id="idm140152137079344">Den drysser sine Naale i den fattige Jord,</l>
+               <l xml:id="idm140152137078896">saa rigere Skov-Muld dannes;</l>
+               <l xml:id="idm140152137078464">den viser fra sig selv hen paa Fremtidens Flor,</l>
+               <l xml:id="idm140152137078016">- Granen er Skovenes <hi rend="italics" xml:id="idm140152137077728">Johannes!</hi>
+               </l>
+            </lg>
+            <lg xml:id="idm140152137076784">
+               <l xml:id="idm140152137076528">Nøjet med Himlens Manna-Kost,</l>
+               <l xml:id="idm140152137076064">den seer mod Bøgenes Sale -</l>
+               <l xml:id="idm140152137075600">holder saa ydmyg ud paa sin Post:</l>
+               <l xml:id="idm140152137075168">
+                  <hi rend="italics" xml:id="idm140152137075040">De</hi> voxe! <hi rend="italics" xml:id="idm140152137074352">mig</hi> bør at dale!</l>
+            </lg>
+            <lg xml:id="idm140152137073392">
+               <l xml:id="idm140152137073136">- Granen, som Johannes, hører Advents-Tiden til,</l>
+               <l xml:id="idm140152137072640">og peger paa det som skal komme;</l>
+               <l xml:id="idm140152137072208">men, lyser der fra Toppen en Julestjerne mild,</l>
+               <l xml:id="idm140152137071760">fortæller den: vor Ventetid er omme!</l>
+            </lg>
+            <lg xml:id="idm140152137071152">
+               <l xml:id="idm140152137070896">Om Bethlehems-Barnet hvisker den,</l>
+               <l xml:id="idm140152137070464">straalende med hundrede Kjerter -</l>
+               <l xml:id="idm140152137070032">begjærer kun at staa der som »Brudgommens Ven«,</l>
+               <l xml:id="idm140152137069536">der lyser Ham ind i vore Hjerter!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

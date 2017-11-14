@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fuglekvidder.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59468" decls="#biblid59468">
+            <head xml:id="idm139731449369728">Fuglekvidder.</head>
+            <lg xml:id="idm139731449369312">
+               <l xml:id="idm139731449369056">Kvivit, Kvivit!</l>
+               <l xml:id="idm139731449368640">I Bøgenes Skygge</l>
+               <l xml:id="idm139731449368208">vi Smaafugle bygge</l>
+               <l xml:id="idm139731449367792">og kvidre saa glad;</l>
+               <l xml:id="idm139731449367376">med Sol er vi oppe,</l>
+               <l xml:id="idm139731449366960">med Solen vi hoppe</l>
+               <l xml:id="idm139731449366544">fra Blad og til Blad;</l>
+               <l xml:id="idm139731449366128">og trøstig vi synge,</l>
+               <l xml:id="idm139731449365680">mens Vindene gynge</l>
+               <l xml:id="idm139731449365264">vor luftige Stad.</l>
+            </lg>
+            <lg xml:id="idm139731449364720">
+               <l xml:id="idm139731449364464">Kvivit, Kvivit!</l>
+               <l xml:id="idm139731449364048">o kom Du, som vanker</l>
+               <l xml:id="idm139731449363632">i sorgfulde Tanker</l>
+               <l xml:id="idm139731449363216">vor Glæde saa nær!</l>
+               <l xml:id="idm139731449362768">Og bort skal vi sjunge</l>
+               <l xml:id="idm139731449362352">det Mørke, det Tunge,</l>
+               <l xml:id="idm139731449361904">og Sukkenes Hær!</l>
+               <l xml:id="idm139731449361472">forsøde din Slummer</l>
+               <pb n="39" xml:id="s39" facs="adl/richardt/richardt1/rich1039"/>
+               <l xml:id="idm139731449359856">og løfte din Kummer,</l>
+               <l xml:id="idm139731449359408">saa smaa som vi er.</l>
+            </lg>
+            <lg xml:id="idm139731449358864">
+               <l xml:id="idm139731449358608">Kvivit, Kvivit!</l>
+               <l xml:id="idm139731449358192">Ja, er Du bedrøvet,</l>
+               <l xml:id="idm139731449357744">saa kom under Løvet</l>
+               <l xml:id="idm139731449357296">og luk ej dit Bryst l</l>
+               <l xml:id="idm139731449356880">Thi Skoven har Hjerte</l>
+               <l xml:id="idm139731449356464">for Menneskers Smerte!</l>
+               <l xml:id="idm139731449356048">og Skoven har Trøst!</l>
+               <l xml:id="idm139731449355600">Den kvæger og svaler,</l>
+               <l xml:id="idm139731449355152">og dulmende taler</l>
+               <l xml:id="idm139731449354736">Smaafuglenes Røst.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

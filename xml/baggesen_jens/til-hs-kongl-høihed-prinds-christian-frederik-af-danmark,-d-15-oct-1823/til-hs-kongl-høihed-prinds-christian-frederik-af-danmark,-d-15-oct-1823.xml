@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til hs. kongl. høihed prinds christian frederik af danmark, d. 15 oct. 1823</title>
+            <author>Baggesen, Jens</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139898996227984">
+                     <name xml:id="idm139898996227728">
+                        <surname xml:id="idm139898996227600">Baggesen</surname>, <forename xml:id="idm139898996227136">Jens</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139898996226848"> Riimbreve og poetiske Epistler. 2. Samling, 1809-1823. - 1894</title>
+                  <pubPlace xml:id="idm139898996226512">København</pubPlace>
+                  <date xml:id="idm139898996226000">1889-1903</date>
+                  <biblScope>243-248</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid57222" decls="#biblid57222">
+            <body xml:id="idm139898995781312">
+               <pb n="244" xml:id="n244" facs="adl/baggesen/baggesen3/bagg3244"/>
+               <pb n="245" xml:id="n245" facs="adl/baggesen/baggesen3/bagg3245"/>
+               <pb n="246" xml:id="n246" facs="adl/baggesen/baggesen3/bagg3246"/>
+               <pb n="247" xml:id="n247" facs="adl/baggesen/baggesen3/bagg3247"/>
+               <pb n="248" xml:id="n248" facs="adl/baggesen/baggesen3/bagg3248"/>
+               <p xml:id="idm139898995774896"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

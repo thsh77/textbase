@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mellem brødre kaldt den lille</title>
+            <author>Grundtvig, N. F. S.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140571812926336">
+                     <name xml:id="idm140571812926080">
+                        <surname xml:id="idm140571812925952">Grundtvig</surname>, <forename xml:id="idm140571812925520">N. F. S.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140571812925232"> Sang-Værk til den danske Kirkeskole. - 1946</title>
+                  <pubPlace xml:id="idm140571812924864">København</pubPlace>
+                  <date xml:id="idm140571812924352">1944-1964</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid80141" decls="#biblid80141">
+            <head xml:id="idm140571809669264">
+               <hi rend="bold" xml:id="idm140571809669136">
+                  <hi rend="italics" xml:id="idm140571809668736">No. 48.</hi>
+               </hi>
+               <lb xml:id="idm140571809668176"/>
+               <hi rend="bold" xml:id="idm140571809668048">
+                  <hi rend="italics" xml:id="idm140571809667648">Davids Seiers-Sang.</hi>
+               </hi>
+               <lb xml:id="idm140571809667088"/>
+(Efter den 151de Dav. Ps.).</head>
+            <stage type="mix" xml:id="idm140571809666656">Egen Melodi af J. P. E. Hartmann.</stage>
+            <lg xml:id="idm140571809665984">
+               <l xml:id="idm140571809665728">Mellem Brødre kaldt den Lille,</l>
+               <l xml:id="idm140571809665264">Og derhjemme yngst af Aar,</l>
+               <l xml:id="idm140571809664832">Vandrede i Vang jeg stille,</l>
+               <l xml:id="idm140571809664400">Vogtede min Faders Faar!</l>
+            </lg>
+            <lg xml:id="idm140571809663840">
+               <l xml:id="idm140571809663584">Pønsende jeg gik og snitted',</l>
+               <l xml:id="idm140571809663120">Fingernem, med Lyst til Sang,</l>
+               <l xml:id="idm140571809662688">Paa en Strænge-Leg jeg hitted':</l>
+               <l xml:id="idm140571809662224">Harpe sær med Orgel-Klang!</l>
+            </lg>
+            <lg xml:id="idm140571809661648">
+               <l xml:id="idm140571809661392">Til min Herre i det Høie</l>
+               <l xml:id="idm140571809660944">Hvem mon haver det fortalt?</l>
+               <l xml:id="idm140571809660512">Skjult er Intet for Hans Øie,</l>
+               <l xml:id="idm140571809660048">Men Hans Øre mærker Alt!</l>
+            </lg>
+            <lg xml:id="idm140571809659472">
+               <l xml:id="idm140571809659216">Engelen, som Han udsendte,</l>
+               <l xml:id="idm140571809658784">Tog mig fra min Faders Faar,</l>
+               <l xml:id="idm140571809658352">Salved' mig til Stort at vente:</l>
+               <l xml:id="idm140571809657920">Krone-Guld i Kongens Gaard!</l>
+            </lg>
+            <lg xml:id="idm140571809657360">
+               <l xml:id="idm140571809657104">Var de smukke, var de høie,</l>
+               <l xml:id="idm140571809656640">Brødrene til Pogen kræng,</l>
+               <l xml:id="idm140571809656192">Naade fandt dog for Guds Øie</l>
+               <l xml:id="idm140571809655728">Kun den lille Hyrde-Dreng!</l>
+            </lg>
+            <lg xml:id="idm140571809655168">
+               <l xml:id="idm140571809654912">Siden voved' jeg at møde</l>
+               <l xml:id="idm140571809654464">Jetten baade lang og bred,</l>
+               <l xml:id="idm140571809654032">Han ved sine Guder døde</l>
+               <l xml:id="idm140571809653584">Banded' mig i Helved' ned!</l>
+            </lg>
+            <lg xml:id="idm140571809653024">
+               <l xml:id="idm140571809652768">Sværdet af hans egen Skede</l>
+               <l xml:id="idm140571809652320">Trak jeg dog og fældte ham,</l>
+               <pb n="164" xml:id="s164" facs="adl/grundtvig/grundtvig12/grun12164"/>
+               <l xml:id="idm140571809650656">Livet mistede den Lede,</l>
+               <l xml:id="idm140571809650240">Israel af strøg sin Skam!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

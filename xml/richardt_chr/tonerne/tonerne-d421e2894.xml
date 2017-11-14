@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tonerne.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59128" decls="#biblid59128">
+            <head xml:id="idm139731449412048">Tonerne.</head>
+            <lg xml:id="idm139731449411632">
+               <l xml:id="idm139731449411376">Toner, søde Toner, svulmende Kor</l>
+               <l xml:id="idm139731449410912">I gaa Bud mellem Himmel og Jord!</l>
+               <l xml:id="idm139731449410480">Trofaste Venner i Sorg og i Lyst,</l>
+               <l xml:id="idm139731449410048">I gaa Bud mellem Bryst og Bryst!</l>
+               <l xml:id="idm139731449409616">I kan mildne</l>
+               <l xml:id="idm139731449409200">Graad paa min Kind,</l>
+               <l xml:id="idm139731449408784">I kan ildne</l>
+               <l xml:id="idm139731449408368">Sol i mit Sind.</l>
+            </lg>
+            <lg xml:id="idm139731449407824">
+               <l xml:id="idm139731449407568">Toner, stærke Toner, vingede Slægt,</l>
+               <l xml:id="idm139731449407088">aldrig tynget af Tankens Vægt!</l>
+               <l xml:id="idm139731449406624">Fuglenes Frænder, som flagre mod Sky,</l>
+               <l xml:id="idm139731449406144">mødes og skilles og mødes paany!</l>
+               <pb n="36" xml:id="s36" facs="adl/richardt/richardt1/rich1036"/>
+               <l xml:id="idm139731449404528">Ordet maa klyve</l>
+               <l xml:id="idm139731449404112">saa møjsomt op:</l>
+               <l xml:id="idm139731449403680">I kan flyve</l>
+               <l xml:id="idm139731449403264">mod Stjernetop.</l>
+            </lg>
+            <lg xml:id="idm139731449402720">
+               <l xml:id="idm139731449402464">Toner, rene Toner, hellige Vagt,</l>
+               <l xml:id="idm139731449402032">styrkende Strømme med luttrende Magt!</l>
+               <l xml:id="idm139731449401552">Tordnende Skarer med straffende Røst,</l>
+               <l xml:id="idm139731449401072">dalende Duer med svalende Trøst:</l>
+               <l xml:id="idm139731449400608">Kom, naar det skumrer</l>
+               <l xml:id="idm139731449400192">engang i Kveld!</l>
+               <l xml:id="idm139731449399776">Syng, naar jeg slumrer,</l>
+               <l xml:id="idm139731449399360">et mildt Farvel!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

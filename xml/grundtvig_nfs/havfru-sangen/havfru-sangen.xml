@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Havfru-sangen</title>
+            <author>Grundtvig, N. F. S.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139746853155312">
+                     <name xml:id="idm139746853155056">
+                        <surname xml:id="idm139746853154928">Grundtvig</surname>, <forename xml:id="idm139746853154496">N. F. S.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139746853154208">N. F. S. Grundtvigs udvalgte Skrifter</title>
+                  <pubPlace xml:id="idm139746853153904">København</pubPlace>
+                  <publisher xml:id="idm139746853153440">Gyldendalske Boghandel</publisher>
+                  <date xml:id="idm139746853153104">1904-1909</date>
+                  <biblScope>99-102</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid72353" decls="#biblid72353">
+            <front xml:id="idm139746850929488">
+               <titlePage xml:id="idm139746850929232">
+                  <titlePart type="main" xml:id="idm139746850928976">HAVFRU-SANGEN.</titlePart>
+               </titlePage>
+               <div xml:id="idm139746850928160">
+                  <p xml:id="idm139746850927904">I Sommeren 1835, da Trykningen af <hi rend="italics" xml:id="idm139746850927600"><!--<emph>-->Middelalderens Historie<!--</emph>--></hi>var begyndt, lejede Grundtvig »en Husende ude ved Emilieskilde paa Strandveien for at faa Ro til det store Salmearbejde, somhan nu, efter indtrængende Opfordring og med rigelig Pengehjælpfra sin hengivne Ven Præsten <hi rend="italics" xml:id="idm139746850926096"><!--<emph>-->Gunni Busck<!--</emph>--></hi>, agtede at give sig iLag med. Ved sit »Øjenbad« i Øresundet kom han i Stemning til atskrive denne Sang, der første Gang blev trykt i <hi rend="italics" xml:id="idm139746850924800"><!--<emph>-->Danskeren<!--</emph>--></hi>, I. Bind(1848), og hvoraf nogle Vers senere er optaget i de folkelige Sang-bøger.De to sidste Vers af Digtet findes ikke i »Danskeren«. De er overstregede i H aandskriftet, som paa flere Steder er rettet af Forfatteren, vistnok i 1848. Som Erstatning for de to udgaaede Vers har Grundt-vig paa et andet Stykke Papir skrevet et Slutningsvers, som dog hel-her ikke blev optaget i »Danskeren«, men som er trykt i PoetiskeSkrifter VI. Bind, Side 133, i Steden for næstsidste Vers i Originalen, hvoraf det er en Omarbejdelse. Det lyder saaledes:</p>
+                  <lg xml:id="idm139746850922896">
+                     <l xml:id="idm139746850922640">Hvert et Føde-Nød skal døe,</l>
+                     <l xml:id="idm139746850922176">Gutten dog, skiøndt gammel vorden,</l>
+                     <l xml:id="idm139746850921712">Seiler kiæk sin egen Sø,</l>
+                     <l xml:id="idm139746850921264">Smiler ad Naturens Orden.</l>
+                     <l xml:id="idm139746850920832">Hvad de lyse Stjerner sang,</l>
+                     <l xml:id="idm139746850920400">Hørde han paa Bølge-Toppe:</l>
+                     <l xml:id="idm139746850919936">Død er kun en Overgang</l>
+                     <l xml:id="idm139746850919488">For hvad hjemme har heroppe.</l>
+                  </lg>
+               </div>
+            </front>
+            <body xml:id="idm139746850918672">
+               <div xml:id="idm139746850918416">
+                  <head xml:id="idm139746850918160">Havfru-Sangen.</head>
+                  <lg xml:id="idm139746850917776">
+                     <l xml:id="idm139746850917520">Milde Bølger, Danmarks Speil!</l>
+                     <l xml:id="idm139746850917056">Lad i eder dybt mig skue!</l>
+                     <l xml:id="idm139746850916624">Flagrer vænt, I hvide Seil,</l>
+                     <l xml:id="idm139746850916160">Vinger liig paa Arkens Due!</l>
+                     <pb n="100" xml:id="s100" facs="adl/grundtvig/grundtvig08/grun8100"/>
+                     <l xml:id="idm139746850914528">Bøge-Blad! vær ei saa bly!</l>
+                     <l xml:id="idm139746850914064">Pip kun frem i Vinge-Laget!</l>
+                     <l xml:id="idm139746850913632">Ogsaa du gav Vink om Ly,</l>
+                     <l xml:id="idm139746850913200">Viftende i Bølge-Slaget i</l>
+                  </lg>
+                  <lg xml:id="idm139746850912624">
+                     <l xml:id="idm139746850912368">Duk fra Dybet til mig op,</l>
+                     <l xml:id="idm139746850911936">Sangerske for Dannekvinder,</l>
+                     <l xml:id="idm139746850911504">Havfru med din gyldne Top</l>
+                     <l xml:id="idm139746850911072">Krandset blidt af blaa Kiærminder!</l>
+                     <l xml:id="idm139746850910608">Dands paa Tilje under Øe</l>
+                     <l xml:id="idm139746850910160">Hvor saa yndig Gulvet gynger,</l>
+                     <l xml:id="idm139746850909728">Som den glade Fæste-Mø,</l>
+                     <l xml:id="idm139746850909280">Naar hun om sin Lykke synger!</l>
+                  </lg>
+                  <lg xml:id="idm139746850908720">
+                     <l xml:id="idm139746850908464">Dands paa lilje, kvæd og spaa</l>
+                     <l xml:id="idm139746850908000">Atter som i gamle Dage,</l>
+                     <l xml:id="idm139746850907584">Kvæd om hvad dit Øie saae</l>
+                     <l xml:id="idm139746850907136">Hvor end Danske Snekker flage,</l>
+                     <l xml:id="idm139746850906704">Spaae os hvad der times skal,</l>
+                     <l xml:id="idm139746850906272">Medens Time-Glasset rinder,</l>
+                     <l xml:id="idm139746850905840">Som i Hytte, saa i Hald,</l>
+                     <l xml:id="idm139746850905408">Dannemænd og Dannekvinder!<hi rend="sup" xml:id="idm139746850905088">1</hi>
+                     </l>
+                  </lg>
+                  <lg xml:id="idm139746850904208">
+                     <l xml:id="idm139746850903952">Lytter I som end har Lyst</l>
+                     <l xml:id="idm139746850903520">Til at høre Havfru-Sangen,</l>
+                     <l xml:id="idm139746850903072">I hvis Barm er end et Bryst,</l>
+                     <l xml:id="idm139746850902640">Hvælvet efter Bølge-Gangen,</l>
+                     <l xml:id="idm139746850902176">I hvis Aarer end en Flod</l>
+                     <l xml:id="idm139746850901744">Slynger sig iblandt Kiærminder,</l>
+                     <l xml:id="idm139746850901280">Af det Danske Hjerte-Blod,</l>
+                     <l xml:id="idm139746850900848">Rosenrødt i Lilje-Kinder!</l>
+                  </lg>
+                  <lg xml:id="idm139746850900272">
+                     <l xml:id="idm139746850900016">Nemmer grandt den første Sang,</l>
+                     <l xml:id="idm139746850899552">Den er Nøglen til dem Alle:</l>
+                     <l xml:id="idm139746850899088">Bølgen, der med Harpe-Klang</l>
+                     <l xml:id="idm139746850898624">Bælter sig om sit Valhalle,</l>
+                  </lg>
+                  <note anchored="true" xml:id="idm139746850898032">
+                     <hi rend="sup" xml:id="idm139746850897632">1</hi> I Haandskriftet rettet til:
+Dannemænd og Dannekvinder saa i Hytte som i Hald, Medens Timeglasset rinder.</note>
+                  <pb n="101" xml:id="s101" facs="adl/grundtvig/grundtvig08/grun8101"/>
+                  <lg xml:id="idm139746850895456">
+                     <l xml:id="idm139746850895200">Om det grønne Gudhjems Bryst,</l>
+                     <l xml:id="idm139746850894736">Hvor i lyse Bøge-Sale</l>
+                     <l xml:id="idm139746850894288">Om en gylden Gimle-Høst</l>
+                     <l xml:id="idm139746850893840">Synge tusend Nattergale!</l>
+                  </lg>
+                  <lg xml:id="idm139746850893280">
+                     <l xml:id="idm139746850893024">Det er Kvadet om Kong <hi rend="italics" xml:id="idm139746850892736"><!--<emph>-->Skjold<!--</emph>--></hi>,</l>
+                     <l xml:id="idm139746850891568">Det er Visen om den Lille,</l>
+                     <l xml:id="idm139746850891136">Der kom hid i Heden-Old,</l>
+                     <l xml:id="idm139746850890704">Hvor som Taarer Vover trille,</l>
+                     <l xml:id="idm139746850890272">Kom fra Godehavn i Løn,</l>
+                     <l xml:id="idm139746850889824">Styret ud med runde Hænder,</l>
+                     <l xml:id="idm139746850889360">Bandt, som Danmarks Fostersøn</l>
+                     <l xml:id="idm139746850888896">Gylden-Sværd om Konge-Lænder!<hi rend="sup" xml:id="idm139746850888560">1</hi>
+                     </l>
+                  </lg>
+                  <lg xml:id="idm139746850887680">
+                     <l xml:id="idm139746850887424">Selv sig styred underfuld</l>
+                     <l xml:id="idm139746850886992">Snekken med vor Lykke-Skipper,</l>
+                     <l xml:id="idm139746850886560">Ei han ruged over Guld,</l>
+                     <l xml:id="idm139746850886176">Hviled kun paa gyldne Vipper,</l>
+                     <l xml:id="idm139746850885744">Førde kun som Fragt om Bord</l>
+                     <l xml:id="idm139746850885280">Sølv og Guld og Brynjer klare,</l>
+                     <l xml:id="idm139746850884816">For blandt Kæmpe-Folk i Nord</l>
+                     <l xml:id="idm139746850884352">Gavmildhed at aabenbare!</l>
+                  </lg>
+                  <lg xml:id="idm139746850883792">
+                     <l xml:id="idm139746850883536">I den Lilles Morgen-Drøm</l>
+                     <l xml:id="idm139746850883088">Speiled sig utalte Dage,</l>
+                     <l xml:id="idm139746850882656">Velbekiendt er Tidens Strøm</l>
+                     <l xml:id="idm139746850882192">Med den Snekke uden Mage,</l>
+                     <l xml:id="idm139746850881760">Hidindtil fra Heden-Old</l>
+                     <l xml:id="idm139746850881344">Styret godt ved <hi rend="italics" xml:id="idm139746850881056"><!--<emph>-->Nornens<!--</emph>--></hi> Finger,</l>
+                     <l xml:id="idm139746850879888">Med den Vippe under <hi rend="italics" xml:id="idm139746850879600"><!--<emph>-->Skjold<!--</emph>--></hi>
+                     </l>
+                     <l xml:id="idm139746850878432">Baaret som paa Due-Vinger!</l>
+                  </lg>
+                  <lg xml:id="idm139746850877872">
+                     <l xml:id="idm139746850877616">Hvor paa Speilet <hi rend="italics" xml:id="idm139746850877360"><!--<emph>-->Danmarks<!--</emph>--></hi> Navn</l>
+                     <l xml:id="idm139746850876192">Blinked over Bølge-Gangen,</l>
+                     <l xml:id="idm139746850875744">Guld kun samled sig i Stavn</l>
+                     <l xml:id="idm139746850875312">For at sprede sig i Vangen;</l>
+                     <l xml:id="idm139746850874880">Skjoldung-Folket hviled blødt</l>
+                     <l xml:id="idm139746850874416">Mellem Sværd og Spyd paa Negen,</l>
+                     <l xml:id="idm139746850873952">Under aaben Himmel sødt</l>
+                     <l xml:id="idm139746850873504">Sov det midt i Hildurs-Legen!</l>
+                  </lg>
+                  <note anchored="true" xml:id="idm139746850872944">
+                     <hi rend="sup" xml:id="idm139746850872544">1</hi> I Haandskriftct rettet til:
+Bælte sit om Bjørne-Lænder!</note>
+                  <pb n="102" xml:id="s102" facs="adl/grundtvig/grundtvig08/grun8102"/>
+                  <lg xml:id="idm139746850870528">
+                     <l xml:id="idm139746850870272">I sit <hi rend="italics" xml:id="idm139746850869984"><!--<emph>-->Folk<!--</emph>--></hi> end lever <hi rend="italics" xml:id="idm139746850868944"><!--<emph>-->Skjold<!--</emph>--></hi>,</l>
+                     <l xml:id="idm139746850867776">Finder og, naar Luren gjalder,</l>
+                     <l xml:id="idm139746850867344">End til Vagt en Kæmpe bold,</l>
+                     <l xml:id="idm139746850866880">Guld til ham, naar Jetten falder,</l>
+                     <l xml:id="idm139746850866448">Hviler end sig uden Frygt</l>
+                     <l xml:id="idm139746850866016">Paa de gyldne Ax og Vipper,</l>
+                     <l xml:id="idm139746850865584">Stoler end derpaa fuldtrygt:</l>
+                     <l xml:id="idm139746850865152">Sidst af Alt dig Himlen glipper!</l>
+                  </lg>
+                  <lg xml:id="idm139746850864592">
+                     <l xml:id="idm139746850864336">Gutten vel er gammel vorden,</l>
+                     <l xml:id="idm139746850863904">Seiler dog sin egen Sø,</l>
+                     <l xml:id="idm139746850863456">Smiler ad Naturens Orden,</l>
+                     <l xml:id="idm139746850863024">At hvert Føde-Nød skal døe,</l>
+                     <l xml:id="idm139746850862560">Hørt han har paa Bølge-Toppe</l>
+                     <l xml:id="idm139746850862096">Hvad de lyse Stjerner sang:</l>
+                     <l xml:id="idm139746850861664">For hvad hjemme har heroppe,</l>
+                     <l xml:id="idm139746850861232">Død er kun en Over-Gang!</l>
+                  </lg>
+                  <lg xml:id="idm139746850860656">
+                     <l xml:id="idm139746850860400">Milde Bølger, Danmarks Speil,</l>
+                     <l xml:id="idm139746850859936">Tæt ved eder staar min Hytte,</l>
+                     <l xml:id="idm139746850859472">Ei dens Straa-Tag vil med Tegl,</l>
+                     <l xml:id="idm139746850859040">Ei dens Træ med Steen jeg bytte,</l>
+                     <l xml:id="idm139746850858576">Og det Syn mig times her</l>
+                     <l xml:id="idm139746850858144">Ei med Udsigt til en Throne,</l>
+                     <l xml:id="idm139746850857712">Yndefuldt i Aften-Skiær</l>
+                     <l xml:id="idm139746850857264">Bøge-Skove Bølgen krone!</l>
+                  </lg>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Regula pietatis. qui vult deo servire, hunc oportet exspectare consilium domini...</title>
+            <author>Sthen, Hans Christensen</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140299314457616">
+                     <name xml:id="idm140299314457360">
+                        <surname xml:id="idm140299314457232">Sthen</surname>,
+      <forename xml:id="idm140299314456848">Hans Christensen</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140299314456560">En liden Vandrebog</title>
+                  <pubPlace xml:id="idm140299314456272">København</pubPlace>
+                  <publisher xml:id="idm140299314455808">Det Danske Sprog- og Litteraturselskab</publisher>
+                  <publisher xml:id="idm140299314455504">C.A. Reitzel</publisher>
+                  <date xml:id="idm140299314455168">1994</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid65274" decls="#biblid65274">
+            <head xml:id="idm140299312985568">
+               <hi rend="italics" xml:id="idm140299312985440">Regula pietatis</hi>.<lb xml:id="idm140299312984752"/>
+               <hi rend="italics" xml:id="idm140299312984624">Qui</hi>
+               <hi rend="italics" xml:id="idm140299312984048">vult <emph xml:id="idm140299312983488">DEO</emph> servire, hunc oportet exspectare</hi>
+               <lb xml:id="idm140299312983056"/>
+               <hi rend="italics" xml:id="idm140299312982928">consilium Domini</hi>.<lb xml:id="idm140299312982240"/>
+               <hi rend="italics" xml:id="idm140299312982112">Hoc est</hi>:<lb xml:id="idm140299312981424"/>
+               <hi rend="italics" xml:id="idm140299312981296">Credere invisibilia</hi>,<lb xml:id="idm140299312980608"/>
+               <hi rend="italics" xml:id="idm140299312980480">Sperare dilata</hi>,<lb xml:id="idm140299312979792"/>
+               <hi rend="italics" xml:id="idm140299312979664">Et semper diligere <emph xml:id="idm140299312979104">DEUM</emph>, sive austeram</hi>
+               <lb xml:id="idm140299312978656"/>
+               <hi rend="italics" xml:id="idm140299312978528">sive benignam faciem nobis ostendat, atque ita</hi>
+               <lb xml:id="idm140299312977936"/>
+               <hi rend="italics" xml:id="idm140299312977808">in finem usque pcrseverare</hi>.</head>
+            <p xml:id="idm140299312976976">Det er:</p>
+            <lg xml:id="idm140299312976560">
+               <l xml:id="idm140299312976304">HVo Gud Allmæctigste vil tiene oc liude,</l>
+               <l xml:id="idm140299312975824">Oc euig Salighed met hannem nyde,</l>
+               <l xml:id="idm140299312975392">Hannem bør at fortøffue Guds Raad oc Ville,</l>
+               <l xml:id="idm140299312974896">Oc sig aldelis effter hannem stille,</l>
+               <l xml:id="idm140299312974464">Det hand icke seer det skal hand dog tro,</l>
+               <l xml:id="idm140299312974016">Om hand hoss Gud vil haffue ro:</l>
+               <l xml:id="idm140299312973584">Forhaler Gud Hielpen oc tøffuer sin tide,</l>
+               <l xml:id="idm140299312973104">Saa skal hand dog haabe oc effter hannem bide,</l>
+               <l xml:id="idm140299312972656">Gud skal hand elske oc haffue kier,</l>
+               <l xml:id="idm140299312972224">For alle de ting i Verden er,</l>
+               <l xml:id="idm140299312971792">Huad heller hand siunis dig haard eller mild,</l>
+               <l xml:id="idm140299312971344">Haff hannem lige kier ellers far du vild,</l>
+               <l xml:id="idm140299312970896">Naar du her i varactig til enden staar,</l>
+               <l xml:id="idm140299312970464">Da bliffuer du vist salig, ihuor det gaar,</l>
+               <l xml:id="idm140299312970016">Haffuer du Gud kier da elsk oc din Næste,</l>
+               <l xml:id="idm140299312969536">Oc ramme i alting hans gaffn oc beste,</l>
+               <l xml:id="idm140299312969104">Tal aldrig noget paa en andens ære,</l>
+               <l xml:id="idm140299312968624">Vden hand selff tilstede monne være,</l>
+               <l xml:id="idm140299312968144">Thi aldrig leffuer der i Verden een,</l>
+               <l xml:id="idm140299312967712">Som icke haffuer sit Breck oc Meen:</l>
+               <l xml:id="idm140299312967280">Tracte altid at giøre ræt oc gaat,</l>
+               <pb n="88" xml:id="s88" facs="adl/stehn/stehn1/stehn1088"/>
+               <l xml:id="idm140299312965584">Om du end der offuer skulde lide spaat,</l>
+               <l xml:id="idm140299312965152">Thi aldrig er nogen saa forstandig oc vijß,</l>
+               <l xml:id="idm140299312964656">At hannem aff alle kand giffuis prijß.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

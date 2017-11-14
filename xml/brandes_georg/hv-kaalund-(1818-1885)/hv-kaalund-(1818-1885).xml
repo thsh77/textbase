@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>H.v. kaalund (1818-1885)</title>
+            <author>Brandes, Georg</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140648092681328">
+                     <name xml:id="idm140648092681072">
+                        <surname xml:id="idm140648092680944">Brandes</surname>, <forename xml:id="idm140648092680512">Georg</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140648092680256">Samlede Skrifter</title>
+                  <pubPlace xml:id="idm140648092679968">København</pubPlace>
+                  <date xml:id="idm140648092679456">1899-1910</date>
+                  <biblScope>440-446</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid57296" decls="#biblid57296">
+            <body xml:id="idm140648092257184">
+               <pb n="441" facs="adl/brandes/brand2/bran2441" xml:id="idm140648092256928"/>
+               <pb n="442" facs="adl/brandes/brand2/bran2442" xml:id="idm140648092256160"/>
+               <pb n="443" facs="adl/brandes/brand2/bran2443" xml:id="idm140648092255344"/>
+               <pb n="444" facs="adl/brandes/brand2/bran2444" xml:id="idm140648092254576"/>
+               <pb n="445" facs="adl/brandes/brand2/bran2445" xml:id="idm140648092253760"/>
+               <pb n="446" facs="adl/brandes/brand2/bran2446" xml:id="idm140648092252992"/>
+               <p xml:id="idm140648092252176"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

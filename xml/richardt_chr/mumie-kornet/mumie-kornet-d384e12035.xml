@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mumie-kornet.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid77426" decls="#biblid77426">
+            <head xml:id="idm140352320849200">Mumie-Kornet.</head>
+            <lg xml:id="idm140352320848784">
+               <l xml:id="idm140352320848528">I Pyramidens gamle Mumie-Grav,</l>
+               <l xml:id="idm140352320848096">som paa et Rev fra svundne Tiders Hav,</l>
+               <l xml:id="idm140352320847664">er fundet Korn fra Tusindaar tilbage,</l>
+               <l xml:id="idm140352320847232">der nys for Dagen bragt, i Mulden lagt,</l>
+               <l xml:id="idm140352320846800">har sine gyldne Ax mod Lyset strakt,</l>
+               <l xml:id="idm140352320846368">selv avlet - tænk! - i Faraoners Dage.</l>
+            </lg>
+            <lg xml:id="idm140352320845760">
+               <l xml:id="idm140352320845504">Den sorte Mumie med sin stramme Hud,</l>
+               <l xml:id="idm140352320845072">ret som et Svøbebarn i snøret Skrud,</l>
+               <l xml:id="idm140352320844592">
+                  <hi rend="italics" xml:id="idm140352320844464">den</hi> er et Vrængebilled kun af Livet,</l>
+               <l xml:id="idm140352320843600">der praler med en løjet Varen ved,</l>
+               <l xml:id="idm140352320843136">men taler højt dog om Forgæng'lighed,</l>
+               <l xml:id="idm140352320842656">ved Baand og Balsamering kunstig stivet.</l>
+            </lg>
+            <lg xml:id="idm140352320842080">
+               <l xml:id="idm140352320841824">Men Hvedekornet i sin haarde Skal,</l>
+               <l xml:id="idm140352320841392">der grønnes efter Aar i Tusindtal -</l>
+               <l xml:id="idm140352320840912">med det et Livshaab over Graven vugges.</l>
+               <l xml:id="idm140352320840480">Kan Kornet leve, skal da Sjælen dø!</l>
+               <l xml:id="idm140352320840000">Er ikke Sjælen meer end mange Frø?</l>
+               <l xml:id="idm140352320839520">Blev den kun tændt, for hastelig at slukkes?</l>
+            </lg>
+            <pb n="186" facs="adl/richardt/richardt2/rich2186" xml:id="idm140352320838896"/>
+            <lg xml:id="idm140352320838080">
+               <l xml:id="idm140352320837824">Du, som staar kold og stum ved Dødens Sti,</l>
+               <l xml:id="idm140352320837344">og Du, som troer, at Alt er dér forbi,</l>
+               <l xml:id="idm140352320836864">læs dog, hvad Mumie-Kornets Spirer skreve!</l>
+               <l xml:id="idm140352320836384">Glem hverken Graven eller Gravens Frø,</l>
+               <l xml:id="idm140352320835904">men lev som den, der visselig skal dø!</l>
+               <l xml:id="idm140352320835424">og dø som den, der visselig skal leve!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

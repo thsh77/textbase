@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hugormen.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid56360" decls="#biblid56360">
+            <head xml:id="idm140352323411616">Hugormen.</head>
+            <lg xml:id="idm140352323411200">
+               <l xml:id="idm140352323410944">Den Lille laa og leged</l>
+               <l xml:id="idm140352323410528">i Lyngen den røde.</l>
+               <l xml:id="idm140352323410096">Da kom der en Hugorm;</l>
+               <l xml:id="idm140352323409680">den bed, - og hun døde.</l>
+            </lg>
+            <lg xml:id="idm140352323409104">
+               <l xml:id="idm140352323408848">En Kalk af bitter Smerte</l>
+               <l xml:id="idm140352323408416">maa vi Mennesker drikke;</l>
+               <l xml:id="idm140352323407984">Nogle faae den draabeviis,</l>
+               <l xml:id="idm140352323407552">men Ingen faaer den ikke.</l>
+            </lg>
+            <pb n="12" facs="adl/richardt/richardt2/rich2012" xml:id="idm140352323406992"/>
+            <lg xml:id="idm140352323406224">
+               <l xml:id="idm140352323405968">Nu hviler hun derude</l>
+               <l xml:id="idm140352323405552">paa Kirkegaardsvangen.</l>
+               <l xml:id="idm140352323405136">Bedre bidt af Ormen,</l>
+               <l xml:id="idm140352323404720">end lokket af Slangen.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

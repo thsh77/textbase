@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Foraar.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140152138539728">
+                     <name xml:id="idm140152138539472">
+                        <surname xml:id="idm140152138539344">Richardt</surname>,
+      <forename xml:id="idm140152138538928">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140152138538640">Samlede Digte. Tredje Deel.</title>
+                  <pubPlace xml:id="idm140152138538336">København</pubPlace>
+                  <date xml:id="idm140152138537824">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid63841" decls="#biblid63841">
+            <head xml:id="idm140152137248960">Foraar.</head>
+            <lg xml:id="idm140152137248544">
+               <l xml:id="idm140152137248288">Lydt gjennem Skovenes Lønkamre gaar</l>
+               <l xml:id="idm140152137247808">Kukkerens Budstik,</l>
+               <l xml:id="idm140152137247392">melder om Løvspring og svulmende Vaar,</l>
+               <l xml:id="idm140152137246912">- Rovfuglen ogsaa Affærer sig spaar,</l>
+               <l xml:id="idm140152137246432">vælger sit Udkig.</l>
+            </lg>
+            <pb n="74" facs="adl/richardt/richardt3/rich3074" xml:id="idm140152137245872"/>
+            <lg xml:id="idm140152137245056">
+               <l xml:id="idm140152137244800">Indenfor Højskovens Pragt-Peristyl</l>
+               <l xml:id="idm140152137244336">Risbøgen grønnes,</l>
+               <l xml:id="idm140152137243904">- Blad-Ormen og holder rede sin Syl,</l>
+               <l xml:id="idm140152137243472">dunede Løv under Stormenes Hyl</l>
+               <l xml:id="idm140152137243008">flænges og frønnes.</l>
+            </lg>
+            <lg xml:id="idm140152137242432">
+               <l xml:id="idm140152137242176">Myggene søge hver solbelyst Plet,</l>
+               <l xml:id="idm140152137241712">vaktes af Dvalen;</l>
+               <l xml:id="idm140152137241296">Fluerne summe og tumle sig ret,</l>
+               <l xml:id="idm140152137240864">- snart vil de sprælle i Spinderens Net,</l>
+               <l xml:id="idm140152137240384">snappes af Svalen.</l>
+            </lg>
+            <lg xml:id="idm140152137239840">
+               <l xml:id="idm140152137239584">Vildrosen fylder sin Ranke med Saft,</l>
+               <l xml:id="idm140152137239152">see hvor de svaje!</l>
+               <l xml:id="idm140152137238736">- Trivsel og Væxt har og Tidslerne havt;</l>
+               <l xml:id="idm140152137238256">ogsaa for Snylterne Lyset har Kraft,</l>
+               <l xml:id="idm140152137237824">Skovmulden Leje.</l>
+            </lg>
+            <lg xml:id="idm140152137237280">
+               <l xml:id="idm140152137237024">Trindt hvor jeg Vaarlivets Alfeleg seer,</l>
+               <l xml:id="idm140152137236576">Fjenden sig lejrer;</l>
+               <l xml:id="idm140152137236160">Skovduen ligger med plukkede Fjer,</l>
+               <l xml:id="idm140152137235728">Giftfrøet svulmer, mens Blomsterstøv sneer,</l>
+               <l xml:id="idm140152137235232">- Livet dog sejrer.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

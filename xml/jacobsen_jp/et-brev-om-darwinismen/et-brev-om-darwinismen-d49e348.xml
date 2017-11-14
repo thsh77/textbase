@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Et brev om darwinismen</title>
+            <author>Jacobsen, J. P.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140501113474416">
+                     <name xml:id="idm140501113474160">
+                        <surname xml:id="idm140501113474032">Jacobsen</surname>,
+      <forename xml:id="idm140501113473584">J. P.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140501113473120">Samlede Værker
+      V</title>
+                  <title xml:id="idm140501113472672">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title>
+                  <pubPlace xml:id="idm140501113472208">København</pubPlace>
+                  <date xml:id="idm140501113471776">1924-29</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid55873" decls="#biblid55873">
+            <pb n="210" facs="adl/jacobsenjp/jacobjp5/jajp5210" xml:id="idm140501113232352"/>
+            <pb n="211" facs="adl/jacobsenjp/jacobjp5/jajp5211" xml:id="idm140501113231584"/>
+            <pb n="212" facs="adl/jacobsenjp/jacobjp5/jajp5212" xml:id="idm140501113230768"/>
+            <pb n="213" facs="adl/jacobsenjp/jacobjp5/jajp5213" xml:id="idm140501113229952"/>
+            <pb n="214" facs="adl/jacobsenjp/jacobjp5/jajp5214" xml:id="idm140501113229184"/>
+            <pb n="215" facs="adl/jacobsenjp/jacobjp5/jajp5215" xml:id="idm140501113228416"/>
+            <pb n="216" facs="adl/jacobsenjp/jacobjp5/jajp5216" xml:id="idm140501113227648"/>
+            <p xml:id="idm140501113226880"/>
+         </div>
+      </body>
+   </text>
+</TEI>

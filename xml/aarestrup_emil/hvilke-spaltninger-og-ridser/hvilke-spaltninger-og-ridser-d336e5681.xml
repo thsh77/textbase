@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hvilke spaltninger og ridser</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352656878784">
+                     <name xml:id="idm140352656878528">
+                        <surname xml:id="idm140352656878400">Aarestrup</surname>, <forename xml:id="idm140352656877920">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352656877632">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140352656877312">København</pubPlace>
+                  <publisher xml:id="idm140352656876880">C. A. Reitzel</publisher>
+                  <date xml:id="idm140352656876544">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid65032" decls="#biblid65032">
+            <head xml:id="idm140352655411488">HVILKE SPALTNINGER OG RIDSER</head>
+            <lg xml:id="idm140352655411056">
+               <l xml:id="idm140352655410800">Hvilke Spaltninger og Ridser;</l>
+               <l xml:id="idm140352655410368">Hvilken Slangelinie ender</l>
+               <l xml:id="idm140352655409936">Disse Strækninger og Spidser,</l>
+               <l xml:id="idm140352655409472">Denne Albu, disse Hænder!</l>
+            </lg>
+            <lg xml:id="idm140352655408896">
+               <l xml:id="idm140352655408640">Hvilke Tinter til at male!</l>
+               <l xml:id="idm140352655408208">Hvilke Rundinger og Kupler,</l>
+               <l xml:id="idm140352655407776">Hvilke Høider, hvilke Dale,</l>
+               <l xml:id="idm140352655407312">Skabte for en eensom Grubler!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

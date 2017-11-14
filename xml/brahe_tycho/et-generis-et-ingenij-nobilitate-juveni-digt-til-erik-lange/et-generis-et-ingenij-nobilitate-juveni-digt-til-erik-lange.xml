@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Et generis et ingenij nobilitate juveni [digt til erik lange]</title>
+            <author>Brahe, Tycho</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140167753904224">
+                     <name xml:id="idm140167753903968">
+                        <surname xml:id="idm140167753903840">Brahe</surname>, <forename xml:id="idm140167753903376">Tycho</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140167753903088">Tychonis Brahe Dani opera omnia</title>
+                  <pubPlace xml:id="idm140167753902784">Hauniæ</pubPlace>
+                  <date xml:id="idm140167753902272">1913-29</date>
+                  <biblScope>3-5</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid54252" decls="#biblid54252">
+            <body xml:id="idm140167753880000">
+               <pb n="4" xml:id="n4" facs="adl/tycho/tycho15/tycho15004"/>
+               <pb n="5" xml:id="n5" facs="adl/tycho/tycho15/tycho15005"/>
+               <p xml:id="idm140167753877440"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

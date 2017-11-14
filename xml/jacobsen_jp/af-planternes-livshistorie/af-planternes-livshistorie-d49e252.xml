@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Af planternes livshistorie</title>
+            <author>Jacobsen, J. P.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140501113474416">
+                     <name xml:id="idm140501113474160">
+                        <surname xml:id="idm140501113474032">Jacobsen</surname>,
+      <forename xml:id="idm140501113473584">J. P.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140501113473120">Samlede Værker
+      V</title>
+                  <title xml:id="idm140501113472672">Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</title>
+                  <pubPlace xml:id="idm140501113472208">København</pubPlace>
+                  <date xml:id="idm140501113471776">1924-29</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid55277" decls="#biblid55277">
+            <pb n="126" facs="adl/jacobsenjp/jacobjp5/jajp5126" xml:id="idm140501113305648"/>
+            <pb n="127" facs="adl/jacobsenjp/jacobjp5/jajp5127" xml:id="idm140501113304880"/>
+            <pb n="128" facs="adl/jacobsenjp/jacobjp5/jajp5128" xml:id="idm140501113304112"/>
+            <pb n="129" facs="adl/jacobsenjp/jacobjp5/jajp5129" xml:id="idm140501113303344"/>
+            <pb n="130" facs="adl/jacobsenjp/jacobjp5/jajp5130" xml:id="idm140501113302576"/>
+            <pb n="131" facs="adl/jacobsenjp/jacobjp5/jajp5131" xml:id="idm140501113301808"/>
+            <pb n="132" facs="adl/jacobsenjp/jacobjp5/jajp5132" xml:id="idm140501113297008"/>
+            <p xml:id="idm140501113296272"/>
+         </div>
+      </body>
+   </text>
+</TEI>

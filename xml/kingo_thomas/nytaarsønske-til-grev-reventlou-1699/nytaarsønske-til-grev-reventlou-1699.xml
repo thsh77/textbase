@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nytaarsønske til grev reventlou 1699</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid99481" decls="#biblid99481">
+            <body xml:id="idm140721237786336">
+               <argument xml:id="idm140721237786080">
+                  <head xml:id="idm140721237785824"> Nytaarsønske til Grev Reventlou <lb xml:id="idm140721237785488"/>
+                  </head>
+                  <p xml:id="idm140721237785104"> Høybaarne h: Græve, <lb xml:id="idm140721237784784"/>Mægtige Befodrer, <lb xml:id="idm140721237784528"/>
+							           </p>
+                  <p xml:id="idm140721237784144"> Min Underdanigste Lykynske til dette Ny Aar, med<lb xml:id="idm140721237783824"/>mange
+								paafølgende, udi vedvarende foer, Velstand <lb xml:id="idm140721237783440"/>og Velsignelse,
+								Vilde Eders høygrævlige <hi rend="italics" xml:id="idm140721237783072">Excellence</hi>
+								             <lb xml:id="idm140721237782448"/>Udi Naade ansee, som kommende fra et underdanigt <lb xml:id="idm140721237782128"/>og
+								Velmenende hierte, udi effterfølgende faa Linier. </p>
+               </argument>
+               <lg xml:id="idm140721237781472">
+                  <l xml:id="idm140721237781216">KOm, deylig Nyt Aars Sool, din Himmel-gang at fare,</l>
+                  <l xml:id="idm140721237780768">I dette flygtig Aar, Guds øye tage Vare, </l>
+                  <l xml:id="idm140721237780288">At hver dend dag Du skal paa Himmel-Tronen gaa,</l>
+                  <l xml:id="idm140721237779840">Du for Gr æ v <hi rend="italics" xml:id="idm140721237779584">Rewentloe </hi>maa Liv og Lykke faa,</l>
+                  <l xml:id="idm140721237778832">Der fra Guds forsyn maa i fulde Straaler være</l>
+                  <l xml:id="idm140721237778336">Fremskirmende, Hans huus til ald bestandig ære</l>
+                  <l xml:id="idm140721237777840">Gid Hand af Alderdom og Ære blive mæt, </l>
+                  <l xml:id="idm140721237777360">Og hans Hukommelse til ævigt Minde sæt!</l>
+                  <l xml:id="idm140721237776880">Smul, Himmel, paa Hans Sool, dend Dydigste</l>
+                  <l xml:id="idm140721237776432">Græv-inde,</l>
+                  <l xml:id="idm140721237776048">- Lad alle Naader, gunst og godhed der oprinde,</l>
+                  <l xml:id="idm140721237775600">Hvor selv Du planted har i bryst saa from en Siæl,</l>
+                  <l xml:id="idm140721237775104">Saa lever Græven og Grævinden begge vel.</l>
+                  <closer xml:id="idm140721237774624">
+                     <signed xml:id="idm140721237774368"> Eders høygrævlige <hi rend="italics" xml:id="idm140721237774048">Excellences</hi>
+                        <lb xml:id="idm140721237773424"/> Underdanigste Tienere<lb xml:id="idm140721237773168"/>T. Kingo. </signed>
+                     <dateline xml:id="idm140721237772784"> Odense Bispegaard og tro Forbedere <lb xml:id="idm140721237772528"/>Nyt Aars afften
+									1699. </dateline>
+                  </closer>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721237771888">
+                  <hi rend="italics" xml:id="idm140721237771152">Tekstgrundlag: Egenhændig Original i Rostg 2°
+								152 i. Overskrift indsat <lb xml:id="idm140721237770480"/>af Udg.</hi>
+               </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

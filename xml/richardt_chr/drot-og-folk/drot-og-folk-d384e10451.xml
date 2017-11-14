@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Drot og folk.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352323830608">
+                     <name xml:id="idm140352323830352">
+                        <surname xml:id="idm140352323830224">Richardt</surname>, <forename xml:id="idm140352323829792">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352323829536">Samlede Digte. Anden deel.</title>
+                  <pubPlace xml:id="idm140352323829232">København</pubPlace>
+                  <date xml:id="idm140352323828752">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid74201" decls="#biblid74201">
+            <head xml:id="idm140352321249248">Drot og Folk.</head>
+            <lg xml:id="idm140352321248832">
+               <l xml:id="idm140352321248576">I gamle Dage, er det os fortalt,</l>
+               <l xml:id="idm140352321248144">Kong Skjold kom vuggende paa Østresalt,</l>
+               <l xml:id="idm140352321247664">heel slumrende til Bølgetakten, -</l>
+               <l xml:id="idm140352321247200">med andre Ord: kom sovende til Magten.</l>
+            </lg>
+            <lg xml:id="idm140352321246640">
+               <l xml:id="idm140352321246384">I vore Dage Parallelen faldt:</l>
+               <l xml:id="idm140352321245952">Kong Fredrik gjorde Gjengjæld, da det gjaldt</l>
+               <pb n="157" facs="adl/richardt/richardt2/rich2157" xml:id="idm140352321245456"/>
+               <l xml:id="idm140352321244688">at sætte Navnet under Frihedspagten;</l>
+               <l xml:id="idm140352321244208">thi da kom Folket sovende til Magten.</l>
+            </lg>
+            <lg xml:id="idm140352321243648">
+               <l xml:id="idm140352321243392">Kun Skade, at vi fristes til at slutte,</l>
+               <l xml:id="idm140352321242960">at vi kan komme sovende til Alt, -</l>
+               <l xml:id="idm140352321242528">det var dog vist med Sorgløshed at rutte.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

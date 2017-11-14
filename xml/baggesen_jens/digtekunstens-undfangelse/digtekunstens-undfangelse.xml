@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digtekunstens undfangelse</title>
+            <author>Baggesen, Jens</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139905270120288">
+                     <name xml:id="idm139905270120032">
+                        <surname xml:id="idm139905270119904">Baggesen</surname>, <forename xml:id="idm139905270119472">Jens</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139905270119216"> Blandede Digte. 1. Samling. - 1899</title>
+                  <pubPlace xml:id="idm139905270118912">København</pubPlace>
+                  <date xml:id="idm139905270118400">1889-1903</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid57821" decls="#biblid57821">
+            <body xml:id="idm139905269456624">
+               <p xml:id="idm139905269456368"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

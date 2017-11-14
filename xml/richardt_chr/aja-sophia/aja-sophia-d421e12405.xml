@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aja sophia</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid78876" decls="#biblid78876">
+            <head xml:id="idm139731446986960">Aja Sophia*)</head>
+            <lg xml:id="idm139731446986544">
+               <l xml:id="idm139731446986288">Du letteste, luftigste Rum,</l>
+               <l xml:id="idm139731446985856">mit Øje har seet;</l>
+               <l xml:id="idm139731446985424">et Hvalv som et bølgende Skum,</l>
+               <l xml:id="idm139731446984960">forstenet med Eet!</l>
+            </lg>
+            <lg xml:id="idm139731446984416">
+               <l xml:id="idm139731446984160">Hvi tramped Erobrerens Hest</l>
+               <l xml:id="idm139731446983728">dit Alter i Grus?</l>
+               <l xml:id="idm139731446983312">Hvi fejed en fygende Blæst</l>
+               <l xml:id="idm139731446982864">hvert Kors af dit Hus?</l>
+            </lg>
+            <lg xml:id="idm139731446982320">
+               <l xml:id="idm139731446982064">Ak, Læben var lammet og stum,</l>
+               <l xml:id="idm139731446981600">kun Hadet var hedt!</l>
+               <l xml:id="idm139731446981184">og Troen et oppustet Skum,</l>
+               <l xml:id="idm139731446980752">forstenet med Eet.</l>
+            </lg>
+            <note anchored="true" xml:id="idm139731446980208">*) Sophia-Moskeen; Aja Sophia er den gængse nygræske Benævnelse (aja = <hi rend="italics" xml:id="idm139731446979520">ἄγια</hi>, den hellige).</note>
+            <pb n="204" xml:id="s204" facs="adl/richardt/richardt1/rich1204"/>
+            <lg xml:id="idm139731446977472">
+               <l xml:id="idm139731446977216">Men Tiden skal dages engang,</l>
+               <l xml:id="idm139731446976784">ja gryer i det Graa;</l>
+               <l xml:id="idm139731446976368">da atter en christelig Sang</l>
+               <l xml:id="idm139731446975936">mod Hvalvet skal slaa:</l>
+            </lg>
+            <lg xml:id="idm139731446975392">
+               <l xml:id="idm139731446975136">Ja rulle som Snee fra et Fjeld</l>
+               <l xml:id="idm139731446974704">mod Muhameds Land,</l>
+               <l xml:id="idm139731446974288">og fylde med levende Væld</l>
+               <l xml:id="idm139731446973840">den fordums Vulkan.</l>
+            </lg>
+            <lg xml:id="idm139731446973296">
+               <l xml:id="idm139731446973040">Thi dertil fik Sokrates' Folk</l>
+               <l xml:id="idm139731446972608">nyt Mæle og Røst,</l>
+               <l xml:id="idm139731446972176">at det skulde tjene som Tolk</l>
+               <l xml:id="idm139731446971744">mellem Vest og Øst.</l>
+            </lg>
+            <lg xml:id="idm139731446971168">
+               <l xml:id="idm139731446970912">- Naar Paulus faar Ordet paany</l>
+               <l xml:id="idm139731446970480">For Hellenernes Thing,</l>
+               <l xml:id="idm139731446970064">
+                  <hi rend="italics" xml:id="idm139731446969936">Aja Sophia</hi>, da brister</l>
+               <l xml:id="idm139731446969088">din Halvmaanering!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

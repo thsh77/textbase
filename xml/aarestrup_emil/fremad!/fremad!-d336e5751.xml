@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fremad!</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352656878784">
+                     <name xml:id="idm140352656878528">
+                        <surname xml:id="idm140352656878400">Aarestrup</surname>, <forename xml:id="idm140352656877920">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352656877632">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140352656877312">København</pubPlace>
+                  <publisher xml:id="idm140352656876880">C. A. Reitzel</publisher>
+                  <date xml:id="idm140352656876544">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid65187" decls="#biblid65187">
+            <head xml:id="idm140352655390752">FREMAD!</head>
+            <lg xml:id="idm140352655390336">
+               <l xml:id="idm140352655390080">"O, hvem der var et lille Noer igjen,</l>
+               <l xml:id="idm140352655389648">"Og kunde glæde sig ved Ammens Fingre,</l>
+               <l xml:id="idm140352655389168">"Og havde i hvert Græsstraa sig en Ven,</l>
+               <l xml:id="idm140352655388688">"Og kunde høit med Trætrompeten skingre!"</l>
+            </lg>
+            <lg xml:id="idm140352655388080">
+               <l xml:id="idm140352655387824">"Og sad igjen som Dreng paa Gyngehesten,</l>
+               <l xml:id="idm140352655387376">"Og havde fat paa Trommen, raabte Bu,</l>
+               <l xml:id="idm140352655386944">"Og fletted Bedstefaders Haarpidsk næsten</l>
+               <l xml:id="idm140352655386464">"Henrykt som disse gyldne Lokker nu!"</l>
+            </lg>
+            <lg xml:id="idm140352655385904">
+               <l xml:id="idm140352655385648">"Min hele Vellyst var dengang en Kage,</l>
+               <l xml:id="idm140352655385216">"En Skolemester fik mig til at lee -</l>
+               <l xml:id="idm140352655384784">"O, havde jeg igjen de gamle Dage,</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paa møens klint.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid91044" decls="#biblid91044">
+            <head xml:id="idm139731445514464">Paa Møens Klint.<lb xml:id="idm139731445514160"/>Ved Naturforskermødet 1873.</head>
+            <lg xml:id="idm139731445513696">
+               <l xml:id="idm139731445513440">Frit i sin Skjønhed løfter sig af Havet</l>
+               <l xml:id="idm139731445512960">Høj møens Klint;</l>
+               <l xml:id="idm139731445512528">Foden i Tang og Rullesteen begravet,</l>
+               <l xml:id="idm139731445512096">Bæltet af Flint;</l>
+               <l xml:id="idm139731445511664">skjær som en Snemark skinner Brudekjolen,</l>
+               <l xml:id="idm139731445511184">bølgende Skoven fletter hendes Haar;</l>
+               <l xml:id="idm139731445510704">Gyldensløret Solen</l>
+               <l xml:id="idm139731445510272">om hende slaar.</l>
+            </lg>
+            <lg xml:id="idm139731445509728">
+               <l xml:id="idm139731445509472">Nyd denne Skjønhed, I Naturens Præster,</l>
+               <l xml:id="idm139731445508992">trænger derind!</l>
+               <l xml:id="idm139731445508560">Lyt og forstaa! men tro kun ej dens Mester</l>
+               <l xml:id="idm139731445508112">døv eller blind!</l>
+               <pb n="298" xml:id="s298" facs="adl/richardt/richardt1/rich1298"/>
+               <l xml:id="idm139731445506480">Han, som har klædt den ranke Havets Lilje,</l>
+               <l xml:id="idm139731445506000">han, som har grønnet disse Skoves Hvælv,</l>
+               <l xml:id="idm139731445505520">han, som <hi rend="italics" xml:id="idm139731445505232">os</hi> gav Vilje,</l>
+               <l xml:id="idm139731445504416">
+                  <hi rend="italics" xml:id="idm139731445504288">vil</hi> Noget selv.</l>
+            </lg>
+            <lg xml:id="idm139731445503344">
+               <l xml:id="idm139731445503088">Selvhersker var han, da han sine Loves</l>
+               <l xml:id="idm139731445502656">Runetegn skrev,</l>
+               <l xml:id="idm139731445502240">Stjernens og Havets og de grønne Skoves</l>
+               <l xml:id="idm139731445501760">Tjeneste-Brev.</l>
+               <l xml:id="idm139731445501344">Selvhersker var han, enevældig var han,</l>
+               <l xml:id="idm139731445500864">da af sit Eget os han Frihed gav,</l>
+               <l xml:id="idm139731445500432">og sit Nej det har han,</l>
+               <l xml:id="idm139731445500016">Almagtens Stav.</l>
+            </lg>
+            <lg xml:id="idm139731445499472">
+               <l xml:id="idm139731445499216">Alt, hvad vi granske, Alt, hvad vi opdage,</l>
+               <l xml:id="idm139731445498768">Alt var kun Fund,</l>
+               <l xml:id="idm139731445498352">Smaablink af ham, den Evige af Dage,</l>
+               <l xml:id="idm139731445497920">Allivets Grund!</l>
+               <l xml:id="idm139731445497504">Kom, stemmer i den Sang, som Jordens Skarer Slægt efter Slægt har sunget ham til Lov!</l>
+               <l xml:id="idm139731445496928">Bølgevrimlen svarer</l>
+               <l xml:id="idm139731445496480">Fuglen fra Skov.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

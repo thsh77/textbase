@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>See, hvor nu jesus træder</title>
+            <author>Grundtvig, N. F. S.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140571812926336">
+                     <name xml:id="idm140571812926080">
+                        <surname xml:id="idm140571812925952">Grundtvig</surname>, <forename xml:id="idm140571812925520">N. F. S.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140571812925232"> Sang-Værk til den danske Kirkeskole. - 1946</title>
+                  <pubPlace xml:id="idm140571812924864">København</pubPlace>
+                  <date xml:id="idm140571812924352">1944-1964</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid93635" decls="#biblid93635">
+            <head xml:id="idm140571808011904">
+               <hi rend="bold" xml:id="idm140571808011648">
+                  <hi rend="italics" xml:id="idm140571808011248">No. 82</hi>
+.</hi>
+            </head>
+            <stage type="mix" xml:id="idm140571808010304">
+               <hi rend="italics" xml:id="idm140571808009936">Mel.</hi>
+Den bittre Død Dig trængde.</stage>
+            <lg xml:id="idm140571808009040">
+               <l xml:id="idm140571808008784">See, hvor nu Jesus træder</l>
+               <l xml:id="idm140571808008336">Hen til den Morderstad,</l>
+               <l xml:id="idm140571808007920">Som, mens han for den græder,</l>
+               <l xml:id="idm140571808007456">Ham laver blodigt Bad!</l>
+            </lg>
+            <lg xml:id="idm140571808006912">
+               <l xml:id="idm140571808006656">Sit Kors han gaaer imøde,</l>
+               <l xml:id="idm140571808006208">Til Pine og til Død,</l>
+               <l xml:id="idm140571808005760">Dog vil hans Hjerte bløde</l>
+               <l xml:id="idm140571808005312">Ved sine Frænders Nød.</l>
+            </lg>
+            <lg xml:id="idm140571808004736">
+               <l xml:id="idm140571808004480">See det Guds Lam, som bærer</l>
+               <l xml:id="idm140571808004016">Al Verdens Synd og Saar!</l>
+               <l xml:id="idm140571808003584">See til, af ham du lærer</l>
+               <l xml:id="idm140571808003136">Hvad Kiærlighed formaaer!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

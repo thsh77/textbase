@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ved hver af de bogstafvers tal</title>
+            <author>Bording, Anders</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <title xml:id="idm140114471059440">Digte. - 1984</title>
+                  <author n="1" xml:id="idm140607960305264">
+                     <name xml:id="idm140607960305008">
+                        <surname xml:id="idm140607960304880">Bording</surname>,
+	      <forename xml:id="idm140607960304416">Anders</forename>
+                     </name>
+                  </author>
+                  <pubPlace xml:id="idm140114471059184">København</pubPlace>
+                  <publisher xml:id="idm140114471058720">Det Danske Sprog- og
+	  Litteraturselskab</publisher>
+                  <date xml:id="idm140114471058368">1984-86</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid104014" decls="#biblid104014">
+            <head xml:id="idm140114464725072">118.<lb xml:id="idm140114464724784"/> [Fragment (af et bindebrev?)]</head>
+            <lg xml:id="idm140114464724352">
+               <l xml:id="idm140114464724096">Ved hver af de bogstafvers tal</l>
+               <l xml:id="idm140114464723664">Mand eders nafn medtegner</l>
+               <l xml:id="idm140114464723232">Jeg eders dyd ophøye skal</l>
+               <l xml:id="idm140114464722784">Som det sig bør och egner</l>
+               <l xml:id="idm140114464722336">Skønt Jeg ey self med legomet</l>
+               <l xml:id="idm140114464721872">Kand nær hos eder være:</l>
+               <l xml:id="idm140114464721424">Saa skal dog dette bref om det</l>
+               <l xml:id="idm140114464720992">Mit hjertes budskab bære</l>
+               <l xml:id="idm140114464720544">Saa tit J der for denne ring</l>
+               <l xml:id="idm140114464720112">For eders øyne stiller</l>
+               <l xml:id="idm140114464719664">Da tænker at ey nogen ting</l>
+               <l xml:id="idm140114464719216">Vor Kjærlighed adskiller</l>
+               <l xml:id="idm140114464718768">Thi saa som den af form er trind</l>
+               <l xml:id="idm140114464718336">Och ingen steds har ende</l>
+               <l xml:id="idm140114464717904">Saa skal och voris reene Sind</l>
+               <l xml:id="idm140114464717472">J kyskhed altid brænde.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

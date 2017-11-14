@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ved juletid. [paa gamle malerier]</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140152138539728">
+                     <name xml:id="idm140152138539472">
+                        <surname xml:id="idm140152138539344">Richardt</surname>,
+      <forename xml:id="idm140152138538928">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140152138538640">Samlede Digte. Tredje Deel.</title>
+                  <pubPlace xml:id="idm140152138538336">København</pubPlace>
+                  <date xml:id="idm140152138537824">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid65304" decls="#biblid65304">
+            <head xml:id="idm140152137067952">Ved Juletid.</head>
+            <lg xml:id="idm140152137067536">
+               <l xml:id="idm140152137067280">Paa gamle Malerier</l>
+               <l xml:id="idm140152137066864">af Julenattens Glæde</l>
+               <l xml:id="idm140152137066416">har Oxen Lov at tygge,</l>
+               <l xml:id="idm140152137066000">og Fuglen Lov at bygge</l>
+               <pb n="86" facs="adl/richardt/richardt3/rich3086" xml:id="idm140152137065584"/>
+               <l xml:id="idm140152137064816">i Stalden hos den Spæde,</l>
+               <l xml:id="idm140152137064368">som hos sin Moder dier.</l>
+            </lg>
+            <lg xml:id="idm140152137063824">
+               <l xml:id="idm140152137063568">Saa lad os ikke skille</l>
+               <l xml:id="idm140152137063152">hvad Krybben førte sammen,</l>
+               <l xml:id="idm140152137062704">men lade Trældyrs-Vriml en</l>
+               <l xml:id="idm140152137062256">og Fuglen under Himlen</l>
+               <l xml:id="idm140152137061840">- som hist i Billedrammen -</l>
+               <l xml:id="idm140152137061408">gaa med til Julegilde</l>
+               <l xml:id="idm140152137060992">hos Frelseren den lille.</l>
+            </lg>
+            <lg xml:id="idm140152137060432">
+               <l xml:id="idm140152137060176">Lad Børnene faae Gaver,</l>
+               <l xml:id="idm140152137059728">og klip ej Fattig-Skjerven -</l>
+               <l xml:id="idm140152137059296">men lad en Smule dryppe</l>
+               <l xml:id="idm140152137058880">til Dyret og dets Krybbe!</l>
+               <l xml:id="idm140152137058448">og glem ej Jule-Kjærven!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

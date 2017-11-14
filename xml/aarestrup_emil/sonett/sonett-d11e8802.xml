@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sonett.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid71708" decls="#biblid71708">
+            <head xml:id="idm140382755451472">SONETT.</head>
+            <lg xml:id="idm140382755451056">
+               <l xml:id="idm140382755450800">Elskte, er du bange for de Døde?</l>
+               <l xml:id="idm140382755450336">Turde du ei gaae blandt Kors og Grave,</l>
+               <l xml:id="idm140382755449904">Naar med rædde Farver Dødens Have</l>
+               <l xml:id="idm140382755449440">Laae ved Midnatstid, og naar den røde</l>
+            </lg>
+            <lg xml:id="idm140382755448832">
+               <l xml:id="idm140382755448576">Maane kom, og hilste paa de Døde?</l>
+               <l xml:id="idm140382755448112">Tyst vi vilde gjennem Mørket rave,</l>
+               <l xml:id="idm140382755447648">Sætte os paa Stenene de lave,</l>
+               <l xml:id="idm140382755447184">Høre Træet suse i det Øde.</l>
+            </lg>
+            <lg xml:id="idm140382755446592">
+               <l xml:id="idm140382755446336">Og naar ret vi vare angst og bange,</l>
+               <l xml:id="idm140382755445904">Vilde vi af Hjertet græde, gyse,</l>
+               <l xml:id="idm140382755445440">Bede og hinanden fromt omarme. -</l>
+            </lg>
+            <lg xml:id="idm140382755444880">
+               <l xml:id="idm140382755444624">Thi naar rædsomst stirrer Farens Slange,</l>
+               <l xml:id="idm140382755444144">Naar af Skræk og Gru vort Blod vil fryse;</l>
+               <l xml:id="idm140382755443664">Luer høiest Kjærlighedens Varme.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

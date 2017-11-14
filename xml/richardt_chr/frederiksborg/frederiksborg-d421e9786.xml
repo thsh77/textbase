@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Frederiksborg.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid73348" decls="#biblid73348">
+            <head xml:id="idm139731447681648">Frederiksborg.<lb xml:id="idm139731447681360"/>(17 Decbr. 1859.)</head>
+            <lg xml:id="idm139731447680944">
+               <l xml:id="idm139731447680688">Skjønne, sjunkne Fredriksborg,</l>
+               <l xml:id="idm139731447680224">før vor Glæde, nu vor Sorg, -</l>
+               <l xml:id="idm139731447679760">kunde Danmarks Taarer slukke,</l>
+               <l xml:id="idm139731447679376">skulde atter frem Du dukke,</l>
+               <l xml:id="idm139731447678992">skjønne, sjunkne Fredriksborg!</l>
+            </lg>
+            <lg xml:id="idm139731447678400">
+               <l xml:id="idm139731447678144">Kongen, han er husvild nu;</l>
+               <l xml:id="idm139731447677760">stakkels Konge, husvild Du,</l>
+               <l xml:id="idm139731447677376">Du som gav vor Frihed Taarne,</l>
+               <l xml:id="idm139731447676992">som gav Hus for Folkets Kaarne,</l>
+               <l xml:id="idm139731447676608">stakkels Konge, husvild Du!</l>
+            </lg>
+            <lg xml:id="idm139731447676096">
+               <l xml:id="idm139731447675840">Danmarks Stolthed lagt i Grus,</l>
+               <l xml:id="idm139731447675456">Danmarks bedste gamle Hus;</l>
+               <l xml:id="idm139731447675072">Gud lad ingen Røverflamme</l>
+               <l xml:id="idm139731447674624">Folkets egen Arne ramme,</l>
+               <l xml:id="idm139731447674240">lægge Danmark selv i Grus!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

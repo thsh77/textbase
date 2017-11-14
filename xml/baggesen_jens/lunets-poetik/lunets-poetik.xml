@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lunets poetik</title>
+            <author>Baggesen, Jens</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140610052857920">
+                     <name xml:id="idm140610052857664">
+                        <surname xml:id="idm140610052857536">Baggesen</surname>, <forename xml:id="idm140610052857072">Jens</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140610052856784"> Blandede Digte. 2. Samling. - 1903</title>
+                  <pubPlace xml:id="idm140610052856480">København</pubPlace>
+                  <date xml:id="idm140610052855968">1889-1903</date>
+                  <biblScope>248-276</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid57653" decls="#biblid57653">
+            <body xml:id="idm140610052284832">
+               <div xml:id="workid57658" decls="#biblid57658">
+                  <pb n="249" xml:id="n249" facs="adl/baggesen/baggesen5/bagg5249"/>
+                  <pb n="250" xml:id="n250" facs="adl/baggesen/baggesen5/bagg5250"/>
+                  <pb n="251" xml:id="n251" facs="adl/baggesen/baggesen5/bagg5251"/>
+                  <pb n="252" xml:id="n252" facs="adl/baggesen/baggesen5/bagg5252"/>
+                  <p xml:id="idm140610052278688"/>
+               </div>
+               <pb n="253" xml:id="n253" facs="adl/baggesen/baggesen5/bagg5253"/>
+               <div xml:id="workid57712" decls="#biblid57712">
+                  <pb n="254" xml:id="n254" facs="adl/baggesen/baggesen5/bagg5254"/>
+                  <pb n="255" xml:id="n255" facs="adl/baggesen/baggesen5/bagg5255"/>
+                  <p xml:id="idm140610052273648"/>
+               </div>
+               <pb n="256" xml:id="n256" facs="adl/baggesen/baggesen5/bagg5256"/>
+               <div xml:id="workid57746" decls="#biblid57746">
+                  <pb n="257" xml:id="n257" facs="adl/baggesen/baggesen5/bagg5257"/>
+                  <pb n="258" xml:id="n258" facs="adl/baggesen/baggesen5/bagg5258"/>
+                  <pb n="259" xml:id="n259" facs="adl/baggesen/baggesen5/bagg5259"/>
+                  <pb n="260" xml:id="n260" facs="adl/baggesen/baggesen5/bagg5260"/>
+                  <pb n="261" xml:id="n261" facs="adl/baggesen/baggesen5/bagg5261"/>
+                  <pb n="262" xml:id="n262" facs="adl/baggesen/baggesen5/bagg5262"/>
+                  <pb n="263" xml:id="n263" facs="adl/baggesen/baggesen5/bagg5263"/>
+                  <pb n="264" xml:id="n264" facs="adl/baggesen/baggesen5/bagg5264"/>
+                  <p xml:id="idm140610052261136"/>
+               </div>
+               <pb n="265" xml:id="n265" facs="adl/baggesen/baggesen5/bagg5265"/>
+               <div xml:id="workid57845" decls="#biblid57845">
+                  <pb n="266" xml:id="n266" facs="adl/baggesen/baggesen5/bagg5266"/>
+                  <pb n="267" xml:id="n267" facs="adl/baggesen/baggesen5/bagg5267"/>
+                  <pb n="268" xml:id="n268" facs="adl/baggesen/baggesen5/bagg5268"/>
+                  <pb n="269" xml:id="n269" facs="adl/baggesen/baggesen5/bagg5269"/>
+                  <pb n="270" xml:id="n270" facs="adl/baggesen/baggesen5/bagg5270"/>
+                  <pb n="271" xml:id="n271" facs="adl/baggesen/baggesen5/bagg5271"/>
+                  <pb n="272" xml:id="n272" facs="adl/baggesen/baggesen5/bagg5272"/>
+                  <pb n="273" xml:id="n273" facs="adl/baggesen/baggesen5/bagg5273"/>
+                  <pb n="274" xml:id="n274" facs="adl/baggesen/baggesen5/bagg5274"/>
+                  <pb n="275" xml:id="n275" facs="adl/baggesen/baggesen5/bagg5275"/>
+                  <pb n="276" xml:id="n276" facs="adl/baggesen/baggesen5/bagg5276"/>
+                  <p xml:id="idm140610052244720"/>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

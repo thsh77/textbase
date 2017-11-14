@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ved en skoleskovtur.</title>
+            <author>Richardt, Chr.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139731450180304">
+                     <name xml:id="idm139731450180048">
+                        <surname xml:id="idm139731450179920">Richardt</surname>,
+      <forename xml:id="idm139731450179536">Chr.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139731450179280">Samlede Digte. Første deel</title>
+                  <pubPlace xml:id="idm139731450178960">København</pubPlace>
+                  <date xml:id="idm139731450178480">1895</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid56760" decls="#biblid56760">
+            <head xml:id="idm139731449705296">Ved en Skoleskovtur.</head>
+            <lg xml:id="idm139731449704880">
+               <l xml:id="idm139731449704624">Om Du vil være stærk og fri,</l>
+               <l xml:id="idm139731449704160">skal Du Dig dygtig sole,</l>
+               <l xml:id="idm139731449703728">og aarlig tage Timer i</l>
+               <l xml:id="idm139731449703312">Naturens grønne Skole!</l>
+               <pb n="15" xml:id="s15" facs="adl/richardt/richardt1/rich1015"/>
+               <l xml:id="idm139731449701696">Syng op med Skovens Fuglehær;</l>
+               <l xml:id="idm139731449701232">spring ud omkap med Løvet!</l>
+               <l xml:id="idm139731449700784">Og lad saa Fileværkets Træ'r</l>
+               <l xml:id="idm139731449700320">beholde Skolestøvet!</l>
+            </lg>
+            <lg xml:id="idm139731449699744">
+               <l xml:id="idm139731449699488">Vor Gaard er selv et Fileværk,</l>
+               <l xml:id="idm139731449699024">hvor vi skal slibes blanke,</l>
+               <l xml:id="idm139731449698592">hvor boglig Kunst og Stileværk</l>
+               <l xml:id="idm139731449698128">skal skjærpe Sans og Tanke,</l>
+               <l xml:id="idm139731449697664">hvor Tid og Flid maa Slag paa Slag</l>
+               <l xml:id="idm139731449697232">mod Møllehjulet skylle, -</l>
+               <l xml:id="idm139731449696784">men hvor en Skovtur som idag</l>
+               <l xml:id="idm139731449696352">er Vand paa Skolens Mølle!</l>
+            </lg>
+            <lg xml:id="idm139731449695776">
+               <l xml:id="idm139731449695520">Nu vil vi hjem og male fort</l>
+               <l xml:id="idm139731449695088">og bruge vore Dage:</l>
+               <l xml:id="idm139731449694672">Vor Kunst er lang og Livet kort,</l>
+               <l xml:id="idm139731449694240">og vi har langt tilbage!</l>
+               <l xml:id="idm139731449693808">Endnu et Blik paa Blomst og Blad,</l>
+               <l xml:id="idm139731449693376">og lad saa Vognen rulle;</l>
+               <l xml:id="idm139731449692944">nu kan vi Skoven udenad,</l>
+               <l xml:id="idm139731449692512">og det var det vi skulde!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

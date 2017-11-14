@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Høstmarch.</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139850578428432">
+                     <name xml:id="idm139850578428176">
+                        <surname xml:id="idm139850578428048">Aakjær</surname>, <forename xml:id="idm139850578427616">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139850578427328"> Digte 1908-1918. - 1918</title>
+                  <pubPlace xml:id="idm139850578427024">København</pubPlace>
+                  <pubPlace xml:id="idm139850578426560">Kristiania</pubPlace>
+                  <publisher xml:id="idm139850578426096">Gyldendal</publisher>
+                  <date xml:id="idm139850578425760">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid67457" decls="#biblid67457">
+            <head xml:id="idm139850576626352">
+               <hi rend="italics" xml:id="idm139850576626224"><!--<emph>-->HØSTMARCH<!--</emph--></hi>.</head>
+            <lg xml:id="idm139850576625056">
+               <l xml:id="idm139850576624800">VI kommer fra Dalenes Fred,</l>
+               <l xml:id="idm139850576624368">og Faner af Havren har vi med;</l>
+               <l xml:id="idm139850576623936">den skal Høstens Gjerning rande,,</l>
+               <l xml:id="idm139850576623472">smykke vore Pigers Pande,</l>
+               <l xml:id="idm139850576623040">naar vi gaar gjennem Landsbyens Led.</l>
+            </lg>
+            <lg xml:id="idm139850576622480">
+               <l xml:id="idm139850576622224">Vor Le faar nu Hvil for i Aar,</l>
+               <l xml:id="idm139850576621792">thi Klinte med Ax er lagt paa Baar,</l>
+               <l xml:id="idm139850576621360">alle Skræntens Bær er fundne,</l>
+               <l xml:id="idm139850576620896">alle Agrens Neg er bundne</l>
+               <l xml:id="idm139850576620464">og lagt ud paa de vældige Skaar.</l>
+            </lg>
+            <lg xml:id="idm139850576619872">
+               <l xml:id="idm139850576619616">Vi mejed vor Mark under Sang,</l>
+               <l xml:id="idm139850576619184">saa langt rækker Strygespaanens Klang,</l>
+               <l xml:id="idm139850576618704">naar blandt Havens Kaal den klinger,</l>
+               <l xml:id="idm139850576618272">man os Mjød og Kager bringer,</l>
+               <l xml:id="idm139850576617808">mens det dufter af Mynte over Vang.</l>
+            </lg>
+            <trailer xml:id="idm139850576617248">Efteraar <date xml:id="idm139850576616992">1910</date>.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

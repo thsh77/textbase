@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aftensang [iler nu fra eders hytter]</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140382757731520">
+                     <name xml:id="idm140382757731264">
+                        <surname xml:id="idm140382757731136">Aarestrup</surname>, <forename xml:id="idm140382757730656">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140382757730368">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140382757730064">København</pubPlace>
+                  <publisher xml:id="idm140382757729632">C. A. Reitzel</publisher>
+                  <date xml:id="idm140382757729296">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid72060" decls="#biblid72060">
+            <head xml:id="idm140382755407040">AFTENSANG.</head>
+            <lg xml:id="idm140382755406624">
+               <head xml:id="idm140382755406368">I</head>
+               <l xml:id="idm140382755405984">Iler nu fra eders Hytter,</l>
+               <l xml:id="idm140382755405552">Møe og Svend I Aftenrøden!</l>
+               <l xml:id="idm140382755405088">Under Egen - lytter, lytter!</l>
+               <l xml:id="idm140382755404656">Stirrer hen i Rosengløden!</l>
+            </lg>
+            <lg xml:id="idm140382755404080">
+               <head xml:id="idm140382755403824">II</head>
+               <l xml:id="idm140382755403440">Mellem spæde, skyldfri Sjæle,</l>
+               <l xml:id="idm140382755402976">Mellem Børn, du hellig trine,</l>
+               <l xml:id="idm140382755402512">Olding, og i Skaren dvæle,</l>
+               <l xml:id="idm140382755402064">Liig en blomstergroet Ruine.</l>
+            </lg>
+            <lg xml:id="idm140382755401504">
+               <head xml:id="idm140382755401248">III</head>
+               <l xml:id="idm140382755400864">Hustru med dit Barn ved Haanden,</l>
+               <l xml:id="idm140382755400432">Kom og hør paa Aftensangen!</l>
+               <l xml:id="idm140382755399968">Øm og rosenrød gaaer Aanden</l>
+               <l xml:id="idm140382755399536">Hist fra Solen gjennem Klangen.</l>
+            </lg>
+            <lg xml:id="idm140382755398976">
+               <head xml:id="idm140382755398720">IV</head>
+               <l xml:id="idm140382755398336">Smiil, du blege Sorg, i Aften!</l>
+               <l xml:id="idm140382755397904">Rolig bliver gamle Vunde;</l>
+               <l xml:id="idm140382755397472">Sangen gjør, ved Guddomskraften,</l>
+               <l xml:id="idm140382755397008">Glædens syge Børn dig sunde.</l>
+            </lg>
+            <lg xml:id="idm140382755396416">
+               <head xml:id="idm140382755396160">V</head>
+               <l xml:id="idm140382755395776">Livet folder sine Hænder,</l>
+               <l xml:id="idm140382755395328">Stirrer paa sin dunkle Skygge,</l>
+               <l xml:id="idm140382755394896">Stjernen gjennem Skyen brænder,</l>
+               <l xml:id="idm140382755394432">Evig som de Frommes Lykke.</l>
+            </lg>
+            <pb n="170" facs="adl/aarestrup/aare1/aare1170" xml:id="idm140382755393872"/>
+            <lg xml:id="idm140382755393056">
+               <head xml:id="idm140382755392800">VI</head>
+               <l xml:id="idm140382755392416">Søvnen dækker alle Kløfter,</l>
+               <l xml:id="idm140382755391952">Alle Saar og hver en Smerte:</l>
+               <l xml:id="idm140382755391520">Føle I, vor Fader løfter</l>
+               <l xml:id="idm140382755391072">Sine Børn op til sit Hjerte!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

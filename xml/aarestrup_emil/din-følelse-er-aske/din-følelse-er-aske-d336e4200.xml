@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Din følelse er aske</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352656878784">
+                     <name xml:id="idm140352656878528">
+                        <surname xml:id="idm140352656878400">Aarestrup</surname>, <forename xml:id="idm140352656877920">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352656877632">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140352656877312">København</pubPlace>
+                  <publisher xml:id="idm140352656876880">C. A. Reitzel</publisher>
+                  <date xml:id="idm140352656876544">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62021" decls="#biblid62021">
+            <head xml:id="idm140352655785696">DIN FØLELSE ER ASKE</head>
+            <lg xml:id="idm140352655785248">
+               <l xml:id="idm140352655784992">"Din Følelse er Aske,</l>
+               <l xml:id="idm140352655784544">Med ingen Gnister i,</l>
+               <l xml:id="idm140352655784128">Og din Forstand en Maske</l>
+               <l xml:id="idm140352655783696">Af schofel Ironi -"</l>
+            </lg>
+            <lg xml:id="idm140352655783152">
+               <l xml:id="idm140352655782896">Jeg veed det nok, det er den,</l>
+               <l xml:id="idm140352655782464">Og du har Ret deri;</l>
+               <l xml:id="idm140352655782048">Det er min hele Verden -</l>
+               <l xml:id="idm140352655781616">Ak, at den var forbi!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

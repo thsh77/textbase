@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance [i]</title>
+            <author>Hertz, Henrik</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139668653829872">
+                     <name xml:id="idm139668653829616">
+                        <surname xml:id="idm139668653829488">Hertz</surname>, <forename xml:id="idm139668653829056">Henrik</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139668653828768">Digte fra forskjellige Perioder</title>
+                  <pubPlace xml:id="idm139668653828464">København</pubPlace>
+                  <date xml:id="idm139668653827952">1851-1862</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid56486" decls="#biblid56486">
+            <head xml:id="idm139668653474080">Romance.</head>
+            <lg xml:id="idm139668653473664">
+               <l xml:id="idm139668653473408">Salig og fordybet hviler</l>
+               <l xml:id="idm139668653472976">Kjærlighed i Drommens Skjød.</l>
+               <l xml:id="idm139668653472512">Ubemarket Tiden iler -</l>
+               <l xml:id="idm139668653472096">Salig og fordybet hviler</l>
+               <l xml:id="idm139668653471664">Kjærlighed i Drømmens Skjød.</l>
+            </lg>
+            <lg xml:id="idm139668653471072">
+               <l xml:id="idm139668653470816">Kjærlighed i Ord forflygter,</l>
+               <l xml:id="idm139668653470352">Taler i Sin Taushed helft.</l>
+               <l xml:id="idm139668653469920">For Sit eget Dyb den frygter -</l>
+               <l xml:id="idm139668653469488">Kjærlighed i Ord forflygter,</l>
+               <l xml:id="idm139668653469024">Taler i sin Taushed helst.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ungarn</title>
+            <author>Brandes, Georg</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139814160721040">
+                     <name xml:id="idm139814160720784">
+                        <surname xml:id="idm139814160720656">Brandes</surname>, <forename xml:id="idm139814160720192">Georg</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139814160719904">Samlede Skrifter</title>
+                  <pubPlace xml:id="idm139814160719616">København</pubPlace>
+                  <date xml:id="idm139814160719104">1899-1910</date>
+                  <biblScope>169-173</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid55437" decls="#biblid55437">
+            <body xml:id="idm139814160526816">
+               <pb n="170" facs="adl/brandes/brand17/bran17170" xml:id="idm139814160526560"/>
+               <pb n="171" facs="adl/brandes/brand17/bran17171" xml:id="idm139814160525744"/>
+               <pb n="172" facs="adl/brandes/brand17/bran17172" xml:id="idm139814160524976"/>
+               <pb n="173" facs="adl/brandes/brand17/bran17173" xml:id="idm139814160524160"/>
+               <p xml:id="idm139814160523392"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

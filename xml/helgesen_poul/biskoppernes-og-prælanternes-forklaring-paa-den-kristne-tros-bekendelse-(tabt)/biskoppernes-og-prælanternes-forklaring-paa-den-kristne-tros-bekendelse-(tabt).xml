@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Biskoppernes og prælanternes forklaring paa den kristne tros bekendelse (tabt)</title>
+            <author>Helgesen, Poul</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140462237220464">
+                     <name xml:id="idm140462237220032">
+                        <surname xml:id="idm140462237219904">Helgesen</surname>, <forename xml:id="idm140462237219440">Poul</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140462237218768">Skrifter af Paulus Helie 4. Bind  / ved Marius
+	    Kristensen. - 1934</title>
+                  <title xml:id="idm140462237218304">Udgivet af Det Danske Sprog- og Litteraturselskab</title>
+                  <pubPlace xml:id="idm140462237217856">København</pubPlace>
+                  <date xml:id="idm140462237217392">1932-1948</date>
+                  <biblScope>111-112</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid55532" decls="#biblid55532">
+            <body xml:id="idm140462237036560">
+               <pb n="112" xml:id="n112" facs="adl/helgesen/helgesen4/helg4112"/>
+               <p xml:id="idm140462237035104"/>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

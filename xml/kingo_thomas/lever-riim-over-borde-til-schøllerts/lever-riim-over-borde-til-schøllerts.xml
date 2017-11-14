@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lever-riim over borde til schøllerts</title>
+            <author>Kingo, Thomas</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140721243405168">
+                     <name xml:id="idm140721243404912">
+                        <surname xml:id="idm140721243404784">Kingo</surname>,
+      <forename xml:id="idm140721243404336">Thomas</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140721243404048">Samlede skrifter 1</title>
+                  <pubPlace xml:id="idm140721243403760">København</pubPlace>
+                  <publisher xml:id="idm140721243403328">Munksgaard</publisher>
+                  <date xml:id="idm140721243402992">1939-74.</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid100722" decls="#biblid100722">
+            <body xml:id="idm140721237642416">
+               <head xml:id="idm140721237642160"> Lever-Riim <lb xml:id="idm140721237641904"/>Over Borde til Schøllerts. </head>
+               <lg xml:id="idm140721237641440">
+                  <l xml:id="idm140721237641184">JEg skulle riimet før, men vidste ikke, hvad;</l>
+                  <l xml:id="idm140721237640688">For Mesterinden mig saa nær paa Armen sad.</l>
+               </lg>
+               <note resp="#ed" anchored="true" xml:id="idm140721237640080">
+                  <hi rend="italics" xml:id="idm140721237639472">Tekstgrundlag: NkS 820 S. </hi>lp/. <hi rend="italics" xml:id="idm140721237638848">Overskrift: </hi>Et vers Som Biskop <lb xml:id="idm140721237638224"/>
+                  <hi rend="italics" xml:id="idm140721237638096">Kingo </hi>giorde til et Gæstebud da hand skulde
+							rimme med <hi rend="italics" xml:id="idm140721237637344">Dor. Engel- <lb xml:id="idm140721237636848"/>breth. </hi>B<hi rend="sup" xml:id="idm140721237636464">1</hi>'<hi rend="sup" xml:id="idm140721237635840">2</hi>
+                  <hi rend="italics" xml:id="idm140721237635344">Kingos </hi>og <hi rend="italics" xml:id="idm140721237634720">Dorothe Engelbrets
+							</hi>Vers over en lever, da de vare <lb xml:id="idm140721237634096"/>budne til giest af Landsdommer
+								<hi rend="italics" xml:id="idm140721237633840">Lassen </hi>B<hi rend="sup" xml:id="idm140721237633216">3</hi>«<hi rend="sup" xml:id="idm140721237632592">4</hi> Biskop <hi rend="italics" xml:id="idm140721237631968">Kingos </hi>og <hi rend="italics" xml:id="idm140721237631344">Dorothe <lb xml:id="idm140721237630848"/>Engelbrets Daatters, </hi>Tiltale og
+							Replique, udj et <hi rend="italics" xml:id="idm140721237630464">Compagnie </hi>C <hi rend="italics" xml:id="idm140721237629840">Kingo </hi>og <lb xml:id="idm140721237629216"/>
+                  <hi rend="italics" xml:id="idm140721237629088">Dorthe Engelbret </hi>D Kingos talle til Dorthea
+							Ingelbrets Dotter E Da <hi rend="italics" xml:id="idm140721237628384">Doet: <lb xml:id="idm140721237627888"/>Kingo </hi>og <hi rend="italics" xml:id="idm140721237627504">Dorthe Engélbreths </hi>Daatter spisede sammen hos
+								<hi rend="italics" xml:id="idm140721237626816">Justits Raad <lb xml:id="idm140721237626320"/>Friis<hi rend="sub" xml:id="idm140721237626064">3</hi>
+                  </hi>og bleve adspurte, hvorfor ingen af dem riimede over borde?
+							<lb xml:id="idm140721237625232"/>begyndte <hi rend="italics" xml:id="idm140721237624976">Kingo </hi>saaledes: F 3 skulle]
+								vilde<hi rend="bold" xml:id="idm140721237624352">D</hi>skulle riimet før] havde <lb xml:id="idm140721237623664"/>rimet
+								nær<hi rend="bold" xml:id="idm140721237623408"> C</hi>rimet] rime F før, men] men jeg <hi rend="bold" xml:id="idm140721237622704">D E</hi> 4 For] Thi <hi rend="bold" xml:id="idm140721237622080"> B</hi>
+                  <lb xml:id="idm140721237621584"/>
+                  <hi rend="bold" xml:id="idm140721237621456">D E F</hi> Mesterinden] Poetinden E paa Armen]<hi rend="bold" xml:id="idm140721237620832">A</hi>paa Ermen E paa <lb xml:id="idm140721237620208"/>Ermed<hi rend="bold" xml:id="idm140721237619952">D</hi>ved Armen<hi rend="bold" xml:id="idm140721237619328"> B </hi>ved Siden<hi rend="bold" xml:id="idm140721237618704">
+							C</hi>ved Haanden F </note>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

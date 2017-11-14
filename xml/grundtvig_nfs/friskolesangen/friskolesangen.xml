@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Friskolesangen</title>
+            <author>Grundtvig, N. F. S.</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139746853155312">
+                     <name xml:id="idm139746853155056">
+                        <surname xml:id="idm139746853154928">Grundtvig</surname>, <forename xml:id="idm139746853154496">N. F. S.</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139746853154208">N. F. S. Grundtvigs udvalgte Skrifter</title>
+                  <pubPlace xml:id="idm139746853153904">København</pubPlace>
+                  <publisher xml:id="idm139746853153440">Gyldendalske Boghandel</publisher>
+                  <date xml:id="idm139746853153104">1904-1909</date>
+                  <biblScope>458-459</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <text xml:id="workid157544" decls="#biblid157544">
+            <front xml:id="idm139746840697408">
+               <titlePage xml:id="idm139746840697152">
+                  <titlePart type="main" xml:id="idm139746840696896">FRISKOLESANGEN.</titlePart>
+               </titlePage>
+               <div xml:id="idm139746840696080">
+                  <p xml:id="idm139746840695824">DEN 7. Maj 1829 havde Prinsesse Caroline Amalie oprettet el Børneasyl i København, hvori Grundtvig siden 1838 plejede al tale ved Børnenes Juletræ. Til samme Fest digtede han i 1838 Salmen: »Juleaften, du er skøn.« - I Forbindelse med dette Asyl oprettede Caroline Amalie den 19. September 1841 »Dronningens Asylskole«, som fik Grundtvig til Direktør, og som skulde føre hans Tanker om en fri dansk Børneskole ud i Livet. Kongen gav Bevilling til, at denne Skole blev fritaget for Skoledirektionens Tilsyn. Den blev saaledes den første grundtvigske Friskole i Danmark. Ved dens Indvielse digtede Grundtvig nedenstaaende Sang, der, med Udeladelse af de to sidste Vers, er blevet Friskolernes Livsang rundt om i Landet. Den er trykt første Gang, uden særlig Overskrift, i »Sange ved Indvielsen af den ny Asylskole 1841.« Jfr. Poet. Skr. VI. 94.</p>
+               </div>
+            </front>
+            <body xml:id="idm139746840693328">
+               <div xml:id="idm139746840693072">
+                  <lg xml:id="idm139746840692816">
+                     <l xml:id="idm139746840692560">Der skinner en Sol i Lys og Løn,</l>
+                     <l xml:id="idm139746840692096">Hvor Aand har Mund og Mæle;</l>
+                     <l xml:id="idm139746840691632">Som Fugle smaa, naar Skov er grøn,</l>
+                     <l xml:id="idm139746840691168">Da kviddre Barne-Sjæle:</l>
+                  </lg>
+                  <lg xml:id="idm139746840690592">
+                     <l xml:id="idm139746840690336">Vor Herre høit i Himlen boer,</l>
+                     <l xml:id="idm139746840689872">Og der er godt at være,</l>
+                     <l xml:id="idm139746840689424">Paa Engle-Vinger smaa hans Ord</l>
+                     <l xml:id="idm139746840688992">Fra Himlen Bud os bære.</l>
+                  </lg>
+                  <lg xml:id="idm139746840688416">
+                     <l xml:id="idm139746840688160">Og hvor Guds Ord det lukkes ind,</l>
+                     <l xml:id="idm139746840687728">Det leirer sig og sjunger:</l>
+                     <l xml:id="idm139746840687296">Guds Fred, bliv Lys i Sjæl og Sind!</l>
+                     <l xml:id="idm139746840686816">Bliv Sang paa Folke-Tunger!</l>
+                  </lg>
+                  <pb n="459" xml:id="s459" facs="adl/grundtvig/grundtvig08/grun8459"/>
+                  <lg xml:id="idm139746840685056">
+                     <l xml:id="idm139746840684800">Umælende, som Hest og Hund,</l>
+                     <l xml:id="idm139746840684336">Er alle Dyr i Dale,</l>
+                     <l xml:id="idm139746840683920">Men Folk gav Verdens Skaber Mund</l>
+                     <l xml:id="idm139746840683488">Til med <hi rend="italics" xml:id="idm139746840683200"><!--<emph>-->Ham selv<!--</emph>--></hi> at tale.</l>
+                  </lg>
+                  <lg xml:id="idm139746840681904">
+                     <l xml:id="idm139746840681648">Saa luk da op nu Port og Dør</l>
+                     <l xml:id="idm139746840681184">For Herrens Ord i Skare,</l>
+                     <l xml:id="idm139746840680752">Saa de saa tykt som aldrig før</l>
+                     <l xml:id="idm139746840680288">Her ind og ud maae fare!</l>
+                  </lg>
+                  <lg xml:id="idm139746840679728">
+                     <l xml:id="idm139746840679472">Luk op i en lyksalig Stund,</l>
+                     <l xml:id="idm139746840679040">Dig for Guds Ord, hvert Øre!</l>
+                     <l xml:id="idm139746840678576">Og luk dig op, du Folke-Mund,</l>
+                     <l xml:id="idm139746840678144">Med Ord, som du kan føre.</l>
+                  </lg>
+                  <lg xml:id="idm139746840677568">
+                     <l xml:id="idm139746840677312">Ja, tal nu sandt om Smaat og Stort,</l>
+                     <l xml:id="idm139746840676880">Og jævnt om alt det Høie!</l>
+                     <l xml:id="idm139746840676432">er Alt, hvad Gud har gjort,</l>
+                     <l xml:id="idm139746840676000">Og klart er Barnets Øie.</l>
+                  </lg>
+                  <lg xml:id="idm139746840675424">
+                     <l xml:id="idm139746840675168">Velsigne Gud vor <hi rend="italics" xml:id="idm139746840674880"><!--<emph>-->Dronning<!--</emph>--></hi> from,</l>
+                     <l xml:id="idm139746840673712">Som til den Id os sanker!</l>
+                     <l xml:id="idm139746840673280">Gid vidt og bredt der kvædes om,</l>
+                     <l xml:id="idm139746840672816">Hun traf vor Herres Tanker!</l>
+                  </lg>
+                  <lg xml:id="idm139746840672256">
+                     <l xml:id="idm139746840672000">Livsalig hun i Herrens Navn</l>
+                     <l xml:id="idm139746840671568">Oplukked <hi rend="italics" xml:id="idm139746840671280"><!--<emph>-->Livets Skole<!--</emph>--></hi>,</l>
+                     <l xml:id="idm139746840670112">Hvor Ordet gaaer til Folke-Gavn,</l>
+                     <l xml:id="idm139746840669680">Som Straaler gaae fra Sole!</l>
+                  </lg>
+               </div>
+            </body>
+         </text>
+      </body>
+   </text>
+</TEI>

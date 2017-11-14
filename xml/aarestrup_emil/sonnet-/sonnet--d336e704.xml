@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sonnet-</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140352656878784">
+                     <name xml:id="idm140352656878528">
+                        <surname xml:id="idm140352656878400">Aarestrup</surname>, <forename xml:id="idm140352656877920">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140352656877632">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm140352656877312">København</pubPlace>
+                  <publisher xml:id="idm140352656876880">C. A. Reitzel</publisher>
+                  <date xml:id="idm140352656876544">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid54977" decls="#biblid54977">
+            <head xml:id="idm140352656665808">SONNET-</head>
+            <lg xml:id="idm140352656665392">
+               <l xml:id="idm140352656665136">Blus, Kinder, ei saa purpurrøde!</l>
+               <l xml:id="idm140352656664672">Løft, Huldeste, det Blik, du sænker!</l>
+               <l xml:id="idm140352656664192">Amor, det veed du, hader Lænker,</l>
+               <l xml:id="idm140352656663728">Og ei at tro paa ham er Brøde.</l>
+            </lg>
+            <lg xml:id="idm140352656663136">
+               <l xml:id="idm140352656662880">Lad alle Hensyn være døde!</l>
+               <l xml:id="idm140352656662416">Alt, hvad vor Kjærlighed indskrænker!</l>
+               <l xml:id="idm140352656661936">Først naar paa Ingenting man tænker,</l>
+               <l xml:id="idm140352656661456">Kan Sjælene ætherisk gløde.</l>
+            </lg>
+            <lg xml:id="idm140352656660864">
+               <l xml:id="idm140352656660608">Der er en Lov for Lidenskaben</l>
+               <l xml:id="idm140352656660176">En himmelsk Ret, en jordisk ikke,</l>
+               <l xml:id="idm140352656659744">For visse svage Øieblikke</l>
+            </lg>
+            <lg xml:id="idm140352656659168">
+               <l xml:id="idm140352656658912">For Hjertets smeltende Fortaben</l>
+               <l xml:id="idm140352656658480">Og Dydens melankolske Engel</l>
+               <l xml:id="idm140352656658048">Maa vige Sædet med sin LiliestengeL</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
