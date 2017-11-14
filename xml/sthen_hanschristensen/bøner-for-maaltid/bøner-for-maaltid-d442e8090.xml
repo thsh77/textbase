@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bøner for maaltid</title>
+            <author>Sthen, Hans Christensen</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140299314457616">
+                     <name xml:id="idm140299314457360">
+                        <surname xml:id="idm140299314457232">Sthen</surname>,
+      <forename xml:id="idm140299314456848">Hans Christensen</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140299314456560">En liden Vandrebog</title>
+                  <pubPlace xml:id="idm140299314456272">København</pubPlace>
+                  <publisher xml:id="idm140299314455808">Det Danske Sprog- og Litteraturselskab</publisher>
+                  <publisher xml:id="idm140299314455504">C.A. Reitzel</publisher>
+                  <date xml:id="idm140299314455168">1994</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid70129" decls="#biblid70129">
+            <head xml:id="idm140299312386672">
+               <hi rend="bold" xml:id="idm140299312386416">Bøner for Maaltid</hi>
+            </head>
+            <lg xml:id="idm140299312385584">
+               <l xml:id="idm140299312385328">DIg bede wi Børnene dine,</l>
+               <l xml:id="idm140299312384880">O Fader HErre Gud,</l>
+               <l xml:id="idm140299312384464">Formindsk vor sorrig oc pijne,</l>
+               <l xml:id="idm140299312384032">Giff oss vort daglige Brød,</l>
+               <l xml:id="idm140299312383568">Opholt vort Liff oc Leffnet,</l>
+               <l xml:id="idm140299312383136">(Som du oss selffuer haffuer giffuet)</l>
+               <l xml:id="idm140299312382704">Indtil wi det euige faa.</l>
+               <l xml:id="idm140299312382272">Velsigne met din Tale,</l>
+               <l xml:id="idm140299312381856">Huad du oss haffuer bered,</l>
+               <l xml:id="idm140299312381424">At det kand oss hußuale,</l>
+               <l xml:id="idm140299312380976">Druis oc formeris der ved,</l>
+               <l xml:id="idm140299312380544">I din Tienist lad oss leffue,</l>
+               <l xml:id="idm140299312380112">Oc Kierligheds Gierninger offue,</l>
+               <l xml:id="idm140299312379680">Altid imod huer mand.</l>
+               <l xml:id="idm140299312379264">Vilt din Kierlighed beujse,</l>
+               <l xml:id="idm140299312378832">Oc alleene skaffe Trøst,</l>
+               <pb n="119" xml:id="s119" facs="adl/stehn/stehn1/stehn1119"/>
+               <l xml:id="idm140299312377136">Alle Hungerige bespjse,</l>
+               <l xml:id="idm140299312376720">Oc naadelig mætte foruist,</l>
+               <l xml:id="idm140299312376272">At wi dig alle loffue,</l>
+               <l xml:id="idm140299312375856">Dine gode Himmelske Gaffuer,</l>
+               <l xml:id="idm140299312375424">Met Tacke bekiende altid.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

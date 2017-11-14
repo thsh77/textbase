@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I anledning af hans excellence hr. grev haxthausens afgang ... (1772)</title>
+            <author>Ewald, Johannes</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139761565533312">
+                     <name xml:id="idm139761565533056">
+                        <surname xml:id="idm139761565532928">Ewald</surname>, <forename xml:id="idm139761565532464">Johannes</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139761565532176">Johannes Ewalds samlede skrifter</title>
+                  <pubPlace xml:id="idm139761565531872">(Kbh.)</pubPlace>
+                  <publisher xml:id="idm139761565531408">Gyldendal</publisher>
+                  <date xml:id="idm139761565531072">(1969)</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid78156" decls="#biblid78156" type="poem">
+            <head xml:id="idm139761562627904"> I ANLEDNING AF HANS EXCELLENCE HR. GREV HAXTHAUSENS AFGANG FRA SØE ETATEN<lb xml:id="idm139761562627488"/>(1772)</head>
+            <sp xml:id="idm139761562627072">
+               <l xml:id="idm139761562626816">ED Helten reise stolte Pyramider</l>
+               <l xml:id="idm139761562626384">Paa Brødres Støv! - Til Skræk for bedre Tider</l>
+               <l xml:id="idm139761562625888">Krigs Guden flette ham en blodig Krands!</l>
+               <l xml:id="idm139761562625440">I glade Hymner skal Camoenen prise</l>
+               <l xml:id="idm139761562625008">DEN SANDE BORGER-VEN! - Og DIG DU VIISE</l>
+               <l xml:id="idm139761562624576">Skal Phoebus krone med sin Glands!</l>
+               <l xml:id="idm139761562624144">HAXTHAUSEN! - Meer end dræbte Myriader,</l>
+               <l xml:id="idm139761562623664">Og meer end Lorbær, er det Navn af Fader,</l>
+               <l xml:id="idm139761562623184">Som faae tilraabe DIG Velsignende!</l>
+               <l xml:id="idm139761562622752">Du bygte kun DIN Roes paa Brødres Nytte,</l>
+               <l xml:id="idm139761562622272">I Danskes Bryst - Men denne Ære Stytte</l>
+               <l xml:id="idm139761562621792">Skal ingen gyse ved at see! -</l>
+            </sp>
+            <pb n="195" xml:id="s195" facs="adl/ewald/ewald4/ewald4195"/>
+         </div>
+      </body>
+   </text>
+</TEI>

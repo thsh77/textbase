@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kjesten og kræn kresten.</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139850578428432">
+                     <name xml:id="idm139850578428176">
+                        <surname xml:id="idm139850578428048">Aakjær</surname>, <forename xml:id="idm139850578427616">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139850578427328"> Digte 1908-1918. - 1918</title>
+                  <pubPlace xml:id="idm139850578427024">København</pubPlace>
+                  <pubPlace xml:id="idm139850578426560">Kristiania</pubPlace>
+                  <publisher xml:id="idm139850578426096">Gyldendal</publisher>
+                  <date xml:id="idm139850578425760">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62709" decls="#biblid62709">
+            <head xml:id="idm139850577206000">
+               <hi rend="italics" xml:id="idm139850577205872"><!--<emph>-->KJESTEN OG KRÆN KRESTEN<!--</emph--></hi>.</head>
+            <lg xml:id="idm139850577204672">
+               <l xml:id="idm139850577204416">KJESTENS Ko</l>
+               <l xml:id="idm139850577204032">var saa god som to,</l>
+               <l xml:id="idm139850577203616">det syntes da ogsaa Kræn Kresten.</l>
+               <l xml:id="idm139850577203152">Saa blanked han begge sine Fedtlædersko,</l>
+               <l xml:id="idm139850577202672">gik bagind og fried til Kjesten.</l>
+            </lg>
+            <lg xml:id="idm139850577202112">
+               <l xml:id="idm139850577201856">Kjesten lo:</l>
+               <l xml:id="idm139850577201440">"Du har set min Ko,</l>
+               <l xml:id="idm139850577201024">men jeg vil nu elskes med Hjærte.</l>
+               <l xml:id="idm139850577200560">Men Kors! som du har blanket dine Fedtlædersko</l>
+               <l xml:id="idm139850577200064">i den fineste Kakkelovnssværte!"</l>
+               <pb n="38" xml:id="s38" facs="adl/aakjaer/aakjaer2/aakj2038"/>
+               <l xml:id="idm139850577198432">Kresten lo:</l>
+               <l xml:id="idm139850577198016">"Jeg har set din Ko,</l>
+               <l xml:id="idm139850577197600">og Koen staar spejlet i min Sværte;</l>
+               <l xml:id="idm139850577197120">men du, bitte Kjesten, i Tugt og i Tro</l>
+               <l xml:id="idm139850577196688">staar spejlet herinde i mit Hjærte!"</l>
+            </lg>
+            <lg xml:id="idm139850577196080">
+               <l xml:id="idm139850577195824">Krestens Ord</l>
+               <l xml:id="idm139850577195408">faldt i kristen Jord,</l>
+               <l xml:id="idm139850577194992">skjød bugnende Ranker hos Kjesten;</l>
+               <l xml:id="idm139850577194528">"Ja, naar du kan finde <hi rend="italics" xml:id="idm139850577194240">saa</hi> yndige Ord,</l>
+               <l xml:id="idm139850577193376">gaa du saa kun bare til Præsten!"</l>
+            </lg>
+            <trailer xml:id="idm139850577192784">
+               <date xml:id="idm139850577192656">17/2 1910</date>.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

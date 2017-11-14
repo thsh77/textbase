@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Til frøken warenka rosenkrantz.</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139983156419504">
+                     <name xml:id="idm139983156419072">
+                        <surname xml:id="idm139983156418768">Aarestrup</surname>, 
+	      <forename xml:id="idm139983156418320">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139983156417648">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm139983156417216">København</pubPlace>
+                  <publisher xml:id="idm139983156416832">C. A. Reitzel</publisher>
+                  <date xml:id="idm139983156416496">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60572" decls="#biblid60572">
+            <head xml:id="idm139983155517552">TIL FRØKEN WARENKA ROSENKRANTZ.</head>
+            <note anchored="true" xml:id="idm139983155517088">d. 21 Oct 1842.</note>
+            <lg xml:id="idm139983155516400">
+               <l xml:id="idm139983155516144">Din Vugge gik ved Brum af Nordhavsrøsten,</l>
+               <l xml:id="idm139983155515664">Paa Fjordens Bred, til Takt af Bølgeslaget,</l>
+               <l xml:id="idm139983155515168">Hvor over gule Bakker, ud mod Vraget,</l>
+               <l xml:id="idm139983155514736">Klitrosen kryber for at pynte Kysten.</l>
+            </lg>
+            <lg xml:id="idm139983155514176">
+               <l xml:id="idm139983155513920">Ved Øresundets blanke Bugt mod Østen,</l>
+               <l xml:id="idm139983155513440">Hvor sig i Dybet speiler Kongeflaget,</l>
+               <l xml:id="idm139983155513008">Af Konst og Ynde blev din Aand opdraget.</l>
+               <l xml:id="idm139983155512560">I Viddets Kube, nem og lærelysten.</l>
+            </lg>
+            <lg xml:id="idm139983155511968">
+               <l xml:id="idm139983155511712">Du gjæsted Lund og Sø og Høienlofte -</l>
+               <l xml:id="idm139983155511232">Men da du kom til Lollands Bøgeskove,</l>
+               <l xml:id="idm139983155510752">Hvor Fuglene i Rosenhækker sove:</l>
+            </lg>
+            <lg xml:id="idm139983155510160">
+               <l xml:id="idm139983155509904">Der satte Anior Buret i det Grønne;</l>
+               <l xml:id="idm139983155509424">Der blev Dit Hjem - og Du skal der forskjønne</l>
+               <l xml:id="idm139983155508928">Som Brud og Viv det skjønne Engestofte.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

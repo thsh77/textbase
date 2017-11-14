@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recitativ og aria, siunget den 18. maj 1771, ...</title>
+            <author>Ewald, Johannes</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139761565533312">
+                     <name xml:id="idm139761565533056">
+                        <surname xml:id="idm139761565532928">Ewald</surname>, <forename xml:id="idm139761565532464">Johannes</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139761565532176">Johannes Ewalds samlede skrifter</title>
+                  <pubPlace xml:id="idm139761565531872">(Kbh.)</pubPlace>
+                  <publisher xml:id="idm139761565531408">Gyldendal</publisher>
+                  <date xml:id="idm139761565531072">(1969)</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid65461" decls="#biblid65461" type="poem">
+            <head xml:id="idm139761564160064">RECITATIV OG ARIA, SIUNGET DEN 18. MAJ 1771, DA DET MUSIKALSKE SELSKAB FOR DENNE VINTER OPHØRTE</head>
+            <sp xml:id="idm139761564159472">
+               <stage type="mix" xml:id="idm139761564159216">
+                  <hi rend="italics" xml:id="idm139761564158720">Recitativ.</hi>
+               </stage>
+               <l xml:id="idm139761564157904">NATUREN smilte - See! - dens Haardhed smelter</l>
+               <l xml:id="idm139761564157456">O Soel, for dine Straalers Magt -</l>
+               <l xml:id="idm139761564157024">Men alle Skovens Sangersker, og alle</l>
+               <l xml:id="idm139761564156592">Som Godhed gav en Røst - en Lyd til Glæde,</l>
+               <l xml:id="idm139761564156096">Opløfte sig til Sang om Solens Seier</l>
+               <l xml:id="idm139761564155616">Og om Naturens underlige Skiønhed -</l>
+               <l xml:id="idm139761564155136">Og alle Hyrderne, og Landets Døttre</l>
+               <l xml:id="idm139761564154656">Istemme Glædens Sang, med vilde Toner -</l>
+            </sp>
+            <sp xml:id="idm139761564154048">
+               <stage type="mix" xml:id="idm139761564153792">
+                  <hi rend="italics" xml:id="idm139761564153296">Arioso.</hi>
+               </stage>
+               <lg xml:id="idm139761564152480">
+                  <l xml:id="idm139761564152224">Yndige Natur, vi glemme</l>
+                  <l xml:id="idm139761564151808">Tone-Kunstens Lyst og Tvang,</l>
+                  <l xml:id="idm139761564151376">Naar Hyrdindens glade Stemme</l>
+                  <l xml:id="idm139761564150944">Blander sig med Lerkens Sang -</l>
+               </lg>
+            </sp>
+            <sp xml:id="idm139761564150256">
+               <stage type="mix" xml:id="idm139761564150000">
+                  <hi rend="italics" xml:id="idm139761564149504">Recitativ.</hi>
+               </stage>
+               <l xml:id="idm139761564148688">Og Harmonie! - og du! - og jeg forstummer! -</l>
+               <l xml:id="idm139761564148240">Thi ensom er jeg - de som elskte mig,</l>
+               <l xml:id="idm139761564147808">Og de, som hørte paa min Sang, forlod mig,</l>
+               <l xml:id="idm139761564147328">At glæde sig ved Solen og Naturen -</l>
+            </sp>
+            <sp xml:id="idm139761564146720">
+               <stage type="mix" xml:id="idm139761564146464">
+                  <hi rend="italics" xml:id="idm139761564145968">Aria.</hi>
+               </stage>
+               <lg xml:id="idm139761564145152">
+                  <l xml:id="idm139761564144896">Gylden er, o Kunst, din Lenke,</l>
+                  <l xml:id="idm139761564144464">Men for tung for det vi tænke -</l>
+                  <l xml:id="idm139761564144000">Men for svag til at indskrenke</l>
+                  <l xml:id="idm139761564143568">Hiertets høie Følelser -</l>
+                  <l xml:id="idm139761564143120">Gienlyd, af de Danskes Ære! -</l>
+                  <l xml:id="idm139761564142656">Gienlyd af Velgierninger! -</l>
+                  <l xml:id="idm139761564142224">Sang! - ukunstled skal du være,</l>
+                  <l xml:id="idm139761564141760">Som det Bryst, hvis Tolk du er. -</l>
+               </lg>
+            </sp>
+            <pb n="115" xml:id="s115" facs="adl/ewald/ewald4/ewald4115"/>
+         </div>
+      </body>
+   </text>
+</TEI>

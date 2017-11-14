@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Autografsamler.</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139850578428432">
+                     <name xml:id="idm139850578428176">
+                        <surname xml:id="idm139850578428048">Aakjær</surname>, <forename xml:id="idm139850578427616">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139850578427328"> Digte 1908-1918. - 1918</title>
+                  <pubPlace xml:id="idm139850578427024">København</pubPlace>
+                  <pubPlace xml:id="idm139850578426560">Kristiania</pubPlace>
+                  <publisher xml:id="idm139850578426096">Gyldendal</publisher>
+                  <date xml:id="idm139850578425760">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid60425" decls="#biblid60425">
+            <head xml:id="idm139850577488480">
+               <hi rend="italics" xml:id="idm139850577488352"><!--<emph>-->AUTOGRAFSAMLER<!--</emph--></hi>.</head>
+            <lg xml:id="idm139850577487184">
+               <l xml:id="idm139850577486928">JA, bejste Hr. Meyer!</l>
+               <l xml:id="idm139850577486544"> det <hi rend="italics" xml:id="idm139850577486256">er</hi>, som a sejer:</l>
+               <l xml:id="idm139850577485392">en Løfte er godt, men aa hold'en er bejer;</l>
+               <l xml:id="idm139850577484912">og <hi rend="italics" xml:id="idm139850577484656">a</hi> haar no lowe,</l>
+               <l xml:id="idm139850577483840">saavidt som a howe,</l>
+               <l xml:id="idm139850577483424">aa send Dem en Urd imell Unnen og Dowe.</l>
+            </lg>
+            <note anchored="true" xml:id="idm139850577482864">
+               <hi rend="italics" xml:id="idm139850577482464">howe</hi>, husker; <hi rend="italics" xml:id="idm139850577481744">Unnen</hi>, Middagsmad; <hi rend="italics" xml:id="idm139850577481024">Dowe</hi>, Davre.</note>
+            <pb n="25" xml:id="s25" facs="adl/aakjaer/aakjaer2/aakj2025"/>
+            <lg xml:id="idm139850577478960">
+               <l xml:id="idm139850577478704">Men hwad a ska sej Dem,</l>
+               <l xml:id="idm139850577478288">hwad Knap a ska drej Dem,</l>
+               <l xml:id="idm139850577477856">det ved a sgi naple, hwis ett a maa træj Dem.</l>
+               <l xml:id="idm139850577477360">Men De ska jo ha æ</l>
+               <l xml:id="idm139850577476928">te jen, som De ga æ,</l>
+               <l xml:id="idm139850577476480">en Stoder "der samler" ; naa, kom saa og ta æ!</l>
+            </lg>
+            <lg xml:id="idm139850577475856">
+               <l xml:id="idm139850577475600">
+                  <hi rend="italics" xml:id="idm139850577475472">Det</hi> vil a forær Dem.</l>
+               <l xml:id="idm139850577474640">id Fanden fortær Dem,</l>
+               <l xml:id="idm139850577474192">om tire med den Slaw De'el besvær Dem!</l>
+            </lg>
+            <trailer xml:id="idm139850577473584">
+               <date xml:id="idm139850577473456">12/9 1909</date>.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

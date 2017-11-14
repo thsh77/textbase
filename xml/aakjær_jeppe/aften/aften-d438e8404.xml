@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aften.</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139850578428432">
+                     <name xml:id="idm139850578428176">
+                        <surname xml:id="idm139850578428048">Aakjær</surname>, <forename xml:id="idm139850578427616">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139850578427328"> Digte 1908-1918. - 1918</title>
+                  <pubPlace xml:id="idm139850578427024">København</pubPlace>
+                  <pubPlace xml:id="idm139850578426560">Kristiania</pubPlace>
+                  <publisher xml:id="idm139850578426096">Gyldendal</publisher>
+                  <date xml:id="idm139850578425760">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid70528" decls="#biblid70528">
+            <head xml:id="idm139850576244448">
+               <hi rend="italics" xml:id="idm139850576244320"><!--<emph>-->AFTEN<!--</emph--></hi>.</head>
+            <lg xml:id="idm139850576243152">
+               <l xml:id="idm139850576242896">STILLE, Hjærte, Sol gaar ned,</l>
+               <l xml:id="idm139850576242432">Sol gaar ned paa Heden,</l>
+               <l xml:id="idm139850576242048">Dyr gaar hjem fra Dagens Béd,</l>
+               <l xml:id="idm139850576241584">Storken staar i Reden.</l>
+               <l xml:id="idm139850576241168">Stille, Hjærte, Sol gaar ned.</l>
+            </lg>
+            <lg xml:id="idm139850576240576">
+               <l xml:id="idm139850576240320">Tavshed over Hedesti</l>
+               <l xml:id="idm139850576239904">og langs Veje krumme.</l>
+               <l xml:id="idm139850576239488">En forsinket Humlebi</l>
+               <l xml:id="idm139850576239072">ene høres brumme.</l>
+               <l xml:id="idm139850576238640">Stille, Hjærte, Sol gaar ned.</l>
+            </lg>
+            <lg xml:id="idm139850576238048">
+               <l xml:id="idm139850576237792">Viben slaar et enligt Slag</l>
+               <l xml:id="idm139850576237360">over Mosedammen,</l>
+               <l xml:id="idm139850576236944">før den under Frytlens Tag</l>
+               <l xml:id="idm139850576236496">folder Vingen sammen.</l>
+               <l xml:id="idm139850576236080">Stille, Hjærte, Sol gaar ned.</l>
+            </lg>
+            <lg xml:id="idm139850576235488">
+               <l xml:id="idm139850576235232">Fjerne Ruder østerpaa</l>
+               <l xml:id="idm139850576234784">blusser op i Gløden,</l>
+               <l xml:id="idm139850576234336">Hededamme bittesmaa</l>
+               <l xml:id="idm139850576233920">spejler Aftenrøden.</l>
+               <l xml:id="idm139850576233472">Stille, Hjærte, Sol gaar ned!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hilsen til esbjerg</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139850578428432">
+                     <name xml:id="idm139850578428176">
+                        <surname xml:id="idm139850578428048">Aakjær</surname>, <forename xml:id="idm139850578427616">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139850578427328"> Digte 1908-1918. - 1918</title>
+                  <pubPlace xml:id="idm139850578427024">København</pubPlace>
+                  <pubPlace xml:id="idm139850578426560">Kristiania</pubPlace>
+                  <publisher xml:id="idm139850578426096">Gyldendal</publisher>
+                  <date xml:id="idm139850578425760">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid75642" decls="#biblid75642">
+            <head xml:id="idm139850575567296">
+               <hi rend="italics" xml:id="idm139850575567040"><!--<emph>-->HILSEN TIL ESBJERG<!--</emph--></hi>
+            </head>
+            <lg xml:id="idm139850575565872">
+               <l xml:id="idm139850575565616">HER gik Træk af vilde Svaner</l>
+               <l xml:id="idm139850575565152"> over denne Grund engang,</l>
+               <l xml:id="idm139850575564720">der hvor nu de høje Kraner</l>
+               <l xml:id="idm139850575564272">synger deres Kjættingssang.</l>
+               <l xml:id="idm139850575563808">Sneglehus og Muslingskal</l>
+               <l xml:id="idm139850575563376">her gav Plads for Skibes Tal.</l>
+            </lg>
+            <lg xml:id="idm139850575562816">
+               <l xml:id="idm139850575562560">I de høje Maanenætter</l>
+               <l xml:id="idm139850575562112">bli'r din Bølge tit saa kaad,</l>
+               <l xml:id="idm139850575561648">vildt den over Molen sætter</l>
+               <l xml:id="idm139850575561184">ned i Bark og Fiskerbaad.</l>
+               <l xml:id="idm139850575560752">Fløjten ryster Torv og Tind,</l>
+               <l xml:id="idm139850575560288">naar din Englandsbaad gaar ind.</l>
+            </lg>
+            <lg xml:id="idm139850575559728">
+               <l xml:id="idm139850575559472">Kjække By af Bølgens Naade,</l>
+               <l xml:id="idm139850575559008">Havet rigt og lunefuld</l>
+               <l xml:id="idm139850575558624">vipper dine Fiskerbaade,</l>
+               <l xml:id="idm139850575558192">slænger for din Port sit Guld.</l>
+               <l xml:id="idm139850575557728">Sommerkvældens Vestenvind</l>
+               <l xml:id="idm139850575557280">aander Salt paa Barnets Kind.</l>
+            </lg>
+            <lg xml:id="idm139850575556720">
+               <l xml:id="idm139850575556464">Havets Rytme, Flod og Ebbe,</l>
+               <l xml:id="idm139850575556032">lad den svulme i dit Blod!</l>
+               <l xml:id="idm139850575555600">Smaalighedens strøgne Skjæppe</l>
+               <l xml:id="idm139850575555136">- nej, til den er du for god!</l>
+               <l xml:id="idm139850575554704">Jydens Kløgt og Handelsaand</l>
+               <l xml:id="idm139850575554240">slaar din Haand i Verdens Haand.</l>
+            </lg>
+            <lg xml:id="idm139850575553680">
+               <l xml:id="idm139850575553424">Salt i Blodet, Salt paa Tungen</l>
+               <l xml:id="idm139850575552992">- ej blot Salt paa Fedtogbrød! -</l>
+               <l xml:id="idm139850575552528">Aabent Sindet, aaben Pungen -</l>
+               <l xml:id="idm139850575552096">da har Staden aldrig Nød.</l>
+               <l xml:id="idm139850575551648">Havets blanke Landevej</l>
+               <l xml:id="idm139850575551232">blinker for dit Barn og dig.</l>
+            </lg>
+            <pb n="113" xml:id="s113" facs="adl/aakjaer/aakjaer2/aakj2113"/>
+            <lg xml:id="idm139850575549376">
+               <l xml:id="idm139850575549120">Naar en Dag hint Verdensbulder</l>
+               <l xml:id="idm139850575548688">stilner i en Broderfred,</l>
+               <l xml:id="idm139850575548256">naar Evropas syge Skulder</l>
+               <l xml:id="idm139850575547824">atter læmpes lindt i Led,</l>
+               <l xml:id="idm139850575547376">da gjør snart en Nytids Gry</l>
+               <l xml:id="idm139850575546912">dig til Jyders Første-By!</l>
+            </lg>
+            <trailer xml:id="idm139850575546336">
+               <date xml:id="idm139850575546208">18/3 1915</date>.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

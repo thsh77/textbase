@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ringen.</title>
+            <author>Aakjær, Jeppe</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139850578428432">
+                     <name xml:id="idm139850578428176">
+                        <surname xml:id="idm139850578428048">Aakjær</surname>, <forename xml:id="idm139850578427616">Jeppe</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139850578427328"> Digte 1908-1918. - 1918</title>
+                  <pubPlace xml:id="idm139850578427024">København</pubPlace>
+                  <pubPlace xml:id="idm139850578426560">Kristiania</pubPlace>
+                  <publisher xml:id="idm139850578426096">Gyldendal</publisher>
+                  <date xml:id="idm139850578425760">1918-19</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid59918" decls="#biblid59918">
+            <head xml:id="idm139850577551536">
+               <hi rend="italics" xml:id="idm139850577551408"><!--<emph>-->RINGEN<!--</emph--></hi>.</head>
+            <lg xml:id="idm139850577550240">
+               <l xml:id="idm139850577549984">HAN gaar og tænker, hun gaar og traller,</l>
+               <l xml:id="idm139850577549504">hun traller snart til Alverdens Ting,</l>
+               <l xml:id="idm139850577549072">og hendes Latter af Struben gjalder,</l>
+               <l xml:id="idm139850577548640">da rød han minder om Fæstensring.</l>
+            </lg>
+            <lg xml:id="idm139850577548048">
+               <l xml:id="idm139850577547792">Han gaar og skjæver, hun gaar og skjænder,</l>
+               <l xml:id="idm139850577547296">hun skjænder nu for Alverdens Ting,</l>
+               <l xml:id="idm139850577546816">for Letsinds Luner, der langsomt vender</l>
+               <l xml:id="idm139850577546384">paa Elskovs Veje et Sind omkring.</l>
+            </lg>
+            <pb n="22" xml:id="s22" facs="adl/aakjaer/aakjaer2/aakj2022"/>
+            <lg xml:id="idm139850577544704">
+               <l xml:id="idm139850577544448">Han gaar og fløjter, hun gaar og flæber,</l>
+               <l xml:id="idm139850577543968">hun flæber snart ved Alverdens Ting;</l>
+               <l xml:id="idm139850577543488">og Spørgsmaal saarer, og Svaret dræber,</l>
+               <l xml:id="idm139850577543008">som Frosten dræber en Knop i Spring.</l>
+            </lg>
+            <lg xml:id="idm139850577542400">
+               <l xml:id="idm139850577542144">Hun gaar og pylrer, han gaar og pytter,</l>
+               <l xml:id="idm139850577541712">han pytter nu ad Alverdens Ting.</l>
+               <l xml:id="idm139850577541280">Men hænde kan det, han Haanden knytter</l>
+               <l xml:id="idm139850577540800">om denne snærende lumske Ring.</l>
+            </lg>
+            <trailer xml:id="idm139850577540208">
+               <date xml:id="idm139850577540080">7/5 1909</date>.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

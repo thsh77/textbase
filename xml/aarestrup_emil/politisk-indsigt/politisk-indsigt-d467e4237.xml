@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Politisk indsigt</title>
+            <author>Aarestrup, Emil</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm139983156419504">
+                     <name xml:id="idm139983156419072">
+                        <surname xml:id="idm139983156418768">Aarestrup</surname>, 
+	      <forename xml:id="idm139983156418320">Emil</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm139983156417648">Emil Aarestrups samlede skrifter</title>
+                  <pubPlace xml:id="idm139983156417216">København</pubPlace>
+                  <publisher xml:id="idm139983156416832">C. A. Reitzel</publisher>
+                  <date xml:id="idm139983156416496">1976</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid62668" decls="#biblid62668">
+            <head xml:id="idm139983155255088">POLITISK INDSIGT</head>
+            <lg xml:id="idm139983155254672">
+               <l xml:id="idm139983155254416">"Jeg ynder frit Erhverv for frie Hænder;</l>
+               <l xml:id="idm139983155253936">Med almeen Væbning finder jeg det haster;</l>
+               <l xml:id="idm139983155253456">Tokammeret jeg ligefrem forkaster</l>
+               <l xml:id="idm139983155253024">Og holder mig til Eidergrændsen, Venner."</l>
+            </lg>
+            <lg xml:id="idm139983155252416">
+               <l xml:id="idm139983155252160">"Jeg til en modsat Mening mig bekjender;</l>
+               <l xml:id="idm139983155251712">Thi Frihedens Udsvævelser og Laster</l>
+               <l xml:id="idm139983155251232">Har kun i Dobbeltkammeret sit Plaster,</l>
+               <l xml:id="idm139983155250800">Og heelt mit Hjerte for en Heelstat brænder."</l>
+            </lg>
+            <lg xml:id="idm139983155250176">
+               <l xml:id="idm139983155249920">"Om Kirke, Skole, Krig og Fred Debatten</l>
+               <l xml:id="idm139983155249488">Belærer mig stol paa mig da som Dommer!"</l>
+               <l xml:id="idm139983155249008">Saa tale Peer og Povl og Folket klapper.</l>
+            </lg>
+            <lg xml:id="idm139983155248432">
+               <l xml:id="idm139983155248176">Det er saa vist, som 9 og 9 er 18,</l>
+               <l xml:id="idm139983155247744">At naar det egentlig til Stykket kommer,</l>
+               <l xml:id="idm139983155247296">Saa tælle Peer og Povl paa deres Knapper.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

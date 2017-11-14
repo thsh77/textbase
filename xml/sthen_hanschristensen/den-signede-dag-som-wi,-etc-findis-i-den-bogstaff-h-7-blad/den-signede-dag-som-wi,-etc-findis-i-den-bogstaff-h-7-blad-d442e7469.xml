@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Den signede dag som wi, etc. findis i den bogstaff h. 7. blad.</title>
+            <author>Sthen, Hans Christensen</author>
+            <editor xml:id="th"/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>textbase</publisher>
+            <pubPlace>Copenhagen</pubPlace>
+            <date>2017-11-14+01:00</date>
+            <idno/>
+            <availability status="free">
+               <ab>GNU license</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">empty</witness>
+            </listWit>
+            <listBibl>
+               <bibl>
+                  <author n="1" xml:id="idm140299314457616">
+                     <name xml:id="idm140299314457360">
+                        <surname xml:id="idm140299314457232">Sthen</surname>,
+      <forename xml:id="idm140299314456848">Hans Christensen</forename>
+                     </name>
+                  </author>
+                  <title xml:id="idm140299314456560">En liden Vandrebog</title>
+                  <pubPlace xml:id="idm140299314456272">København</pubPlace>
+                  <publisher xml:id="idm140299314455808">Det Danske Sprog- og Litteraturselskab</publisher>
+                  <publisher xml:id="idm140299314455504">C.A. Reitzel</publisher>
+                  <date xml:id="idm140299314455168">1994</date>
+                  <biblScope>0-</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <profileDesc/>
+      <revisionDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="workid68930" decls="#biblid68930">
+            <p xml:id="idm140299312536544">
+               <hi rend="bold" xml:id="idm140299312536416">Den signede Dag som wi, etc. Findis i</hi>
+               <lb xml:id="idm140299312535840"/>
+den Bogstaff H. 7. <hi rend="italics" xml:id="idm140299312535552">Blad</hi>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
